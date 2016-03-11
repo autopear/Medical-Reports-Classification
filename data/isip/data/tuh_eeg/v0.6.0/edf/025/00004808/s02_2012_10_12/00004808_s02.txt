@@ -1,0 +1,13 @@
+CLINICAL HISTORY:   36 year old woman with a history of seizures who presents with recurrent seizures, about 5 to 6 per month.
+MEDICATIONS:  Lovenox, Dilantin
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video long-term EEG monitoring was performed at bedside using the standard 10-20 system electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed.  Continuous spike and seizure detection software was used to review the events, in addition to the patient's alarm events as well as nurses notes.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 Hz which is relative to eye opening.  There is normal amount of frontocentral beta.  The patient was recorded in wakefulness, Stage I, Stage II, Stage III and Stage IV as well as REM sleep.  Activating procedures were not performed.   
+ABNORMAL DISCHARGES:  None. 
+SEIZURE EVENTS:  The patient pressed the button on multiple occasions, at least 4 times, but there appears to be no abnormal behaviors seen on video and at the same time during those episodes on the EEG there was no abnormal discharges.  However, on 04/12/2012, at 9:30 in the morning the patient started complaining of a headache then suddenly started turning her head side to side and then suddenly became stiff with her eyes closed, arched her back and moved towards the side.  She keeps trembling for about 10 to 20 seconds and remains unresponsive.   The patient was questioned and asked to move for a period of about 4 minutes with no response.  Slowly the patient started responding after those 4 minutes.  During the entire episode the patient remains with her eyes closed, and at the end of it she may have some side-to-side movement of the head.  During this whole episode the EEG remains normal and there is no abnormal or epileptiform discharges seen on the EEG.
+IMPRESSION:  Normal awake and sleep EEG.  The episode recorded had no EEG correlate.
+CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  The episode described above had no EEG correlate and as such it is suggestive of a non-epileptic psychogenic event.  No seizures or epileptiform discharges were seen.
+__________________________
+
+

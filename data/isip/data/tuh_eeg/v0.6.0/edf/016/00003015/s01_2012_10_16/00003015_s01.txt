@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  65 year old male with hepatic disease, alcohol abuse, admitted after 4 tonic-clonic seizures with postictal confusion, now increasingly awake.
+MEDICATIONS:  Dilantin, Ativan.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was a bit agitated when awake and then drifts off to sleep.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm with a generous amount of low-voltage, frontocentral beta activity.  There are minor shifting asymmetries as the patient drifts off to sleep.  Features of drowsiness include an increase in beta.   
+HR:    60 bpm
+IMPRESSION:  This EEG is remarkable for: 
+Excess beta.
+CLINICAL CORRELATION:  No epileptiform features were identified in this EEG.  The small amount of shifting slowing as the patient drifts off to sleep is a nonspecific finding in a subject of this age.  If seizures are an important consideration, a repeat study in the lab looking for epileptiform activity may be of use.
+
+

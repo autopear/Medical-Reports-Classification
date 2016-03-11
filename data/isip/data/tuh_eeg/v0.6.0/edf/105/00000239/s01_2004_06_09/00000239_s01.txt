@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 46-year-old male admitted for a witnessed seizure with a Dilantin level of 38.1 and a Depakote level of 5.0.  History of childhood head trauma and schizophrenia.
+MEDICATIONS: Depakote, Percocet, Zyprexa, Zoloft, Paxil, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and light sleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is continuous, diffusely slow, and disorganized.   There is a 7 to 8 Hz posterior dominant alpha rhythm and excessive beta activity.  Continuous, high amplitude sharply contoured rhythm is seen at the T5 and O1 regions.  Hyperventilation produces theta and delta activity, as well as arrhythmic delta activity mainly in the left hemisphere. Post-hyperventilation, arrhythmic delta activity is seen as late as 200 seconds after completion of hyperventilation.  Occasional sharply contoured activity or sharp waves are seen in the left at T3, T5, and P3 regions.  Sleep is evidenced by a vertex waves, and spindles.  
+Photic stimulation elicits bilateral driving.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Disorganized and diffusely slow background. 
+Left posterior quadrant sharply contoured slow activity as well as sharp waves. 
+Arrhythmic delta activity, seen more often in the left hemisphere than the right induced by hyperventilation persisting post-hyperventilation.   
+CLINICAL CORRELATION: This abnormal EEG pattern is suggestive of cerebral dysfunction involving both gray and white matter  in the left posterior quadrant and may reflect an underlying pathological process.  Correlation with neuroimaging studies may be helpful.  This tracing also supports a partial mechanism for epilepsy in this patient. If clinically indicated, a repeat EEG when the patient is more cooperative and his Dilantin level is at a therapeutic range may be helpful. 
+
+

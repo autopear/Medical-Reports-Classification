@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is an 86-year-old woman admitted with a left frontal stroke and seizures.  History of dementia. 
+MEDICATIONS: Dilantin and Topamax.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake record, but the patient is obtunded.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is diffusely slow and disorganized with high amplitude activity.  There is a 7 to 8 Hz, 30 V posterior dominant rhythm, more clearly in the right hemisphere. At times, focal slowing of arrhythmic delta activity is more predominantly seen in the left frontocentral area.  Rare P3 sharp activity is also seen.  Stimulation of the patient creates variability and reactivity by decreasing the amplitude on the EEG and movement of the body.  No seizure activity was recorded.I don’t understand this!!
+HR:  104 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Disorganized background with diffuse slowing.
+Left frontocentral focal slowing.
+Rare left central sharp activity.
+CLINICAL CORRELATION: This tracing is suggestive of a cerebral dysfunction. In comparison to this patient’s previous EEG of November 7, no seizures were recorded in today’s record.
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 54-year-old, right-handed former military personnel with a history 17 years ago of head trauma when he fell out of a helicopter.   Patient hospitalized for only two hours.  Patient has been complaining of several days of right-sided numbness, which is different than his typical seizure, which he describes as occurring with a ringing in his ears followed by a tonic-clonic seizure. 
+MEDICATIONS: Dilantin, Ativan, Trazodone, and Prozac.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10.5 Hz, 50 to 70 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  The patient seems to be drowsy with brief epochs of rhythmic central theta followed by vertex waves, spindles, and then arousals, some of which include snoring.  Hyperventilation is performed with fair effort, and is associated with an increase in the amplitude of the background.  In the transition to sleep, there is some wicket activity, more prominent in the left.  Photic stimulation does not activate the record.  
+HR:  60 BPM.
+	IMPRESSION: EEG within normal limits. 
+CLINICAL CORRELATION: There is some sharply contoured wicket activity, which in one section of the record is more provocative from the left frontocentral region.  This is still within the range of normal, but is in the relevant distribution for this patient’s right-sided paresthesias. Additional EEG recording may be appropriate in an attempt to capture his right-sided paresthesias and determine whether or not there is an underlying ictal correlate.  In addition, a recording in deeper stages of sleep may be helpful to determine if there is an underlying focus in the right frontocentral region.  
+
+

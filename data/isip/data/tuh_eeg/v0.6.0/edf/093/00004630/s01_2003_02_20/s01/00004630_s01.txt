@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 50-year-old, right-handed male with seizures for the past two years, past history of stroke with right hemiparesis for ten years, HIV for ten years, hepatitis C, and seizures two weeks ago associated with low Dilantin levels.  Typical seizures: clammy hands, sweating, shakiness with incontinence.
+MEDICATIONS: Dilantin, many others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9 Hz, 40 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Hyperventilation is performed with poor effort and the patient seems to be drowsy during hyperventilation with slow rolling eye movements.  Additional features of drowsiness include attenuation of the alpha rhythm with rhythmic central theta followed by vertex waves in stage I sleep.  In brief stage II sleep, vertex waves, K complexes, and spindles were identified.
+Photic stimulation elicits a brief driving response.  There appears to be LAMBDA identified with photic stimulation.  The patient also starts to drift off at the end of photic stimulation.  
+HR:  72 BPM.
+	IMPRESSION: Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION: No focal or epileptiform features are identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  Correlation with this patient’s previous EEGs may be of use. 
+
+

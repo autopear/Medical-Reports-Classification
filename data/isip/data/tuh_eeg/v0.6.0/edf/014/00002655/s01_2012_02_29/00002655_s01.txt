@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  46 year old right handed male with refractory epilepsy, 2 seizures recently.
+MEDICATIONS:  Dilantin, Tegretol.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  There are brief sections of the record where it is reasonably well organized with a 6.8 Hz alpha rhythm of 30 mV and a theta frequency background.  More commonly, there is frontally predominant mixed theta delta.  High amplitude or medium amplitude spike and slow wave and sharp and slow wave complexes are observed with many different localizations.  The majority of these are frontal, particularly FP2, but some are FP1, others F8, F7.  Some have a more temporal spread and others are maximum in the central or central parietal regions independently on the right or the left.  The epileptiform activity is focal, but is occasional bifrontal and generalized.   
+Drowsiness is characterized by an increase in background slowing.  The epileptiform activity may occur in pairs, but the two pairs are not always identical epileptiform discharges, although they are usually similar in terms of both occurring on the same hemisphere.  There may be a bit more focal slowing on the right as the patient transitions to sleep. Photic stimulation is remarkable for frequent epileptiform discharges with frontal delta, some of which almost has a spike and wave component on the left, but given the abundance of epileptiform activity, it is not clear that photic stimulation activated the record. 
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Multifocal epileptiform activity with prominent activity in the right frontal region.
+Spike and wave activity seen with photic stimulation, perhaps more on the left.
+Background slowing.
+CLINICAL CORRELATION:  This EEG suggests an irritative process with epileptiform activity occurring from many different loci.  No seizures were recorded.
+
+

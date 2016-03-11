@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  82 year-old woman with a history of severe MRI, white matter abnormalities. Past history of epilepsy, but seizure free for the last 18 months until 2-3 days ago. Admitted hypotensive, hypothermic  and poorly responsive  after seizures.Now obtunded.
+MEDICATIONS:  Phenobarbital, Ativan, Dilantin.
+INTRODUCTION:  Continuous video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement and 1 channel of EKG. The patient remained obtunded. Due to her hypotension, she received a small, single 60 mg dose of Phenobarbital.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is poorly responsive. The background EEG demonstrates a very slow pattern. The activity is mixed frequency  slow pattern from the left to right hemisphere, demonstrates a periodic complex with a generous field of spread. The complex is most prominent in the right posterior regions. The complex continues to demonstrate  background suppression lasting typically less than 2 seconds. The patient received additional doses of Ativan in the afternoon, again producing overall slowing of the background but a very slow relatively suppressed pattern. The background epileptiform activity at times waxes and wanes but does not clearly evolve. The patient received at least 1 dose of Phenobarbital. Following the administration  of the Phenobarbital the overall pattern
+does seem to have improved. The pattern is very slow bilaterally with some extra theta and delta but the periodic activity seems to breaking up. The periodic activity also starting to show variable maximum frontotemporal versus posterior temporal.
+At the close of this epoch, the activity is relatively rich bilaterally in theta and beta frequency activity. The sharp waves are not marching through so prominently  although they do persist and generate a generous field of spread in the right hemisphere.
+	Stimulation of the patient does not clearly activate the record. HR: 	N/A.
+IMPRESSION: Abnormal EEG due to:
+	1. 	A markedly  abnormal background, markedly suppressed with actual bursts suppression seen early on in the record.
+	2. 	Periodic complexes from the right hemisphere  with some faster frequency activity demonstrating at time some evolution but abating towards the close of the record.
+CLINICAL CORRELATION: Additional EEG recording will be obtained.
+
+

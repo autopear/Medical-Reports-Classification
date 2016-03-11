@@ -1,0 +1,12 @@
+CLINICAL HISTORY:   54-year-old male found unresponsive with a possible seizure and incontinence. MRI abnormalities including watershed, infarcts and ischemic changes.
+MEDICATIONS:   Dilantin, Labetalol, Ativan, Nicardipine
+INTRODUCTION:  Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is somnolent in the initial portions of the record.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates  a subtle asymmetry. There is lower voltage beta activity from the right. From the left, there is some higher amplitude intermittent delta and theta. As the patient becomes drowsier, additional beta activity is observed. The intrahemispheric  asymmetry with a bit more theta on the left is again noted. Towards of the close of the record the patient is a bit more alert and again the asymmetry with a bit more theta and delta from the left is observed. The patient never has completely sustained wakefulness.
+	HR: 	90 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Excess background data with clinical association of hypersomnolence.
+	2. 	Focal features with more lower voltage and theta from the left.
+CLINICAL CORRELATION:   The beta activity and the hypersomnolence may be associated with the generous benzodiazepine administration prior to this EEG on the
+26th. The focal delta and theta may be correlated with watershed infarct observed on imaging.
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 40 year old right-handed male who has had epilepsy for the last 3 years, seizure free for the past year. Seizure described as 4-5 minutes, loss of consciousness without post ictal confusion. 
+MEDICATIONS: Dilantin, Tegretol, Clonopine 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. This is an awake and drowsy record. Photic stimulation was performed. The patient denied hyperventilation. 
+DESCRIPTION OF THE RECORD: In wakefulness there is 9.5 Hertz posterior dominant region. The background includes generous beta and muscle artifact. Underneath this there appears to be some focal data in the right temporal region with right temporal sharp complex which can be differentiated from the patient's significant EKG artifact. Stage 2 sleep is characterized by spindle and vertex waves. Photic stimulation demonstrates a drowsy response. 
+HR: 66 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Right temporal sharp waves. 
+2. Focal slowing. 
+CLINICAL CORRELATION: This EEG supports localization mechanism for epilepsy. Despite the technical difficulties the sharp waves are well defined. 
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 42-year-old male with epilepsy admitted with headaches and dizziness following a seizure. 
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. Previous EEGs were performed, but are not available for comparison.
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is on video, but his face is actually off the video.  The technical qualities of this EEG are suboptimal with a great deal of muscle and movement artifact. There are no comments regarding why this is such a technically challenging EEG.  Stage II sleep is characterized by vertex waves and spindles with an ongoing, underlying artifact.  Midway through the record, the tech works some of the electrode impedance issues.  
+HR:  90 BPM.
+	IMPRESSION: Technically suboptimal EEG, but does demonstrate stage II sleep.  
+CLINICAL CORRELATION: If better characterization of this patient’s cerebral activity and/or identification of epileptiform activity is needed, a repeat outpatient study is recommended. 
+
+

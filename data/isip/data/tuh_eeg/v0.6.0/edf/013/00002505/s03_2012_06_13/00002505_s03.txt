@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  60 year old gentleman with left ACA infarct and epilepsy, admitted with postictal state. 
+MEDICATIONS:  Dilantin, Valsartin, Insulin, Metoprolol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 7.5 Hz alpha rhythm on the right.  A rhythmic delta activity is noted in the left hemisphere, particularly the frontal regions.  As the patient becomes drowsy, additional left frontal delta is noted.  Subtle sharp waves are noted at F7. Features of drowsiness included increase in background slowing. Photic stimulation does not seem to activate the record.  The patient's focal slowing is a bit more prominent during photic stimulation and has a broad field in the left temporal region. 
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing from the left hemisphere, particularly frontal and frontotemporal region.
+Left frontotemporal sharp waves.
+Mild background slowing.
+CLINICAL CORRELATION:  This is one of many EEGs for this individual.  The features described above have been seen on prior studies.
+
+

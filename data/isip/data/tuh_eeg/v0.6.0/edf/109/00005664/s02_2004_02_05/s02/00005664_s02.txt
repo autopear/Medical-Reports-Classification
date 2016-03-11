@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 47-year-old male with GBM status-post resection and chemotherapy admitted with left-sided weakness and change in mental status.  
+MEDICATIONS: Dilantin, steroids, Morphine, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is somnolent during the record. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow, low voltage, and relatively symmetric.  A breach rhythm is seen in the left central area with arrhythmic delta activity with an increase in the amplitude.  Occasionally, FIRDA activity is seen. 
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Diffusely slow background.
+Breach rhythm.
+Occasional FIRDA.
+Focal slow left central region.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  In comparison to this patient’s previous EEG of January 19, 2004, this tracing is somewhat improved. 
+
+

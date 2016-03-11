@@ -1,0 +1,13 @@
+HISTORY:   The patient is a 72 year old male with history of stroke, hypertension, and epilepsy, admitted with vertigo.
+MEDICATION: Dilantin and many others.
+INTRODUCTION: Digital Video EEG is performed at bedside, using standard 10-20 system of electrode placement with one channel of EKG.   This is an awake through stage
+2 sleep record
+DESCRIPTION  OF THE RECORD:  In wakefulness, there is a well formed, symmetrically  active 10 Hz, 30 uV posterior dominant rhythm with a small amount of
+low voltage, frontal central beta activity.  Vertex waves are seen in stage I sleep, there are
+small, discrete left temporal sharp and slow wave complexes.  These have the characteristic morphology of a benign, epileptiform variant, with small sharp spikes of sleep. However, on occasion they are seen as frequently as two within a 10 second period.
+HR:   96BPM
+IMPRESSION:   This is an abnormal EEG due to:
+1.  Small, discrete sharp waves or spikes during stage 1 sleep, with a frequency outside of the range of normal for a benign epileptiform variant.
+CLINICAL CORRELATION:  The features described above must be considered epileptiform.  Correlation  of history and imaging is suggestive.  The ultimate background is otherwise normal.
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 53-year-old male with stroke, diabetes, hepatitis, cirrhosis, and Bell’s palsy, now critically ill with a question of seizures. 
+MEDICATIONS: Antibiotics, antifungal medications, Dilantin, Ativan, Fentanyl, dopamine, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and unresponsive.
+DESCRIPTION OF THE RECORD: The background EEG is very low voltage, but continuous and includes a pattern of very low voltage theta and smaller amounts of intermittent beta and delta.  No reactivity can be identified in this low voltage pattern. 
+HR:  114 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with a low voltage, mixed frequency, diffuse slow pattern. 
+CLINICAL CORRELATION: This patient’s critical illness as well as his medications may play a role in the pattern described above. No epileptiform features were identified in this record.  
+
+

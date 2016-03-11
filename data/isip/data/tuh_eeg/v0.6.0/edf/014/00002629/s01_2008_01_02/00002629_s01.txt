@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  51-year-old gentleman status post head injury in 1988, last seizure a month ago, characterized  by shaking lasting a few minutes. He has a skull defect ?n the right frontal and temporal region.
+MEDICATIONS:   Lexapro, Dilantin, Phenobarbital,  Cogentin
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was completed in the end.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates and intrahemispheric  asymmetry. The left hemisphere demonstrates mild slowing with an alpha rhythm of 8 Hz. The right hemisphere is higher amplitude, demonstrates  slowing of the alpha rhythm and underlying arrhythmic delta activity throughout the right hemisphere, particularly centra, temporal and parietal. Breach rhythm is characterized
+by an increase in amplitude on that side. Photic stimulation does not activate the record. Brief drowsiness is characterized  by slow rolling eye movements.
+	HR: 	84 bpm
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Mild slowing on the left.
+	2. 	Superimposed focal slowing on the right with arrhythmic delta activity.
+CLINICAL CORRELATION:  No epileptiform features were seen. Breath rhythm is an anticipated finding following craniotomy.
+
+

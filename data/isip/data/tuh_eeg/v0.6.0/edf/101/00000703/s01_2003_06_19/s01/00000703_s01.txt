@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 54-year-old male with epilepsy since age four with multiple brain surgeries and a history of lead poisoning. 
+MEDICATIONS: Dilantin, Phenobarbital, and multiple antibiotics, (lower lobe pneumonia). 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is somewhat somnolent. 
+DESCRIPTION OF THE RECORD: The background EEG is somewhat poorly organized.  There is an  8 Hz posterior dominant rhythm.  A breach rhythm is identified in the frontal regions, sometimes more remarkable on the left than the right.  There are shifting asymmetries, which demonstrate various patterns.  On some occasions, the activity is higher amplitude on the left than the right.  On some occasions, the right seems to be slower with a more disruption of faster frequency activity.  There are vertex waves identified in sleep with an unusual field of spread and almost an underlying phase reversal in the left posterior temporal region.  There are also some bursts of sharply contoured delta activity from the right hemisphere maximum in the central regions, and in sleep there is posteriorly predominant delta. 
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Shifting asymmetries.
+Sharply contoured delta activity identified from either hemisphere without definite spike and slow wave activity.  
+Posteriorly predominant delta seen in drowsiness. 
+CLINICAL CORRELATION: No definite epileptiform features were identified in this record.  The occipitally predominant delta has been correlated with Lead exposure in pediatric EEG but patterns in older adults are less well described. .  No previous EEGs were available for comparison, but if further characterization of this individual’s epileptiform activity is needed, a repeat tracing capturing deeper stages of sleep could be helpful.
+
+

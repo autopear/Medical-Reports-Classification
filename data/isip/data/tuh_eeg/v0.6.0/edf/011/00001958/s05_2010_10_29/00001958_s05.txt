@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 52 year old right handed male with a history of frontal lobe encephalomalacia, head trauma, refractory seizures. The patient has blank out spells. 
+MEDICATIONS: Dilantin, Trazodone, Diovan, Seroquel, Percocet 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+ 
+DESCRIPTION OF THE RECORD: In wakefulness there is a 9 Hz posterior dominant rhythm. There is wicket observed in the temporal regions. Following hyperventilation there is some single channel artifact. but also a suggestion of slowing in the left temporal region, including frontotemporal and central temporal. Photic stimulation elicits a driving response. In drowsiness there is a bit of wicket and a suggestion of a little rhythmic slowing in the left frontal temporal and frontal central region. 
+HR: 90 
+IMPRESSION: Mildly abnormal EEG due to: 
+1. Slowing in the left frontal temporal region. 
+CLINICAL CORRELATION: No epileptiform features are observed. Additional recording will be undertaken to characterize this individual's epilepsy. 
+
+

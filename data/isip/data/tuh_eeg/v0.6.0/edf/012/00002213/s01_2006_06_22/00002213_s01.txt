@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 37-year-old male with epilepsy, head trauma, alcohol and cocaine abuse found with right frontal contusion.  This happened on ________????
+MEDICATIONS: Dilantin, Ativan, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as responsive to stimuli.  
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is somewhat arousable.  The overall background is rich in beta frequency activity, particularly in the frontal regions.  The patient is wearing a hard collar with multiple apparatus on the face, neck, and scalp.  Spontaneous arousals are associated with more of a pattern of diffuse beta.  Head-rocking artifact is picked up in the posterior scalp electrodes.  Stimulation of the patient clearly produces an alerting response with an increase in beta and theta.  There are rare asymmetries with a bit higher amplitude rhythmic theta in the right or frontal regions.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Replacement of normal background primarily with a pattern rich in beta frequency activity, but with smaller amounts of theta and alpha frequency activity.
+CLINICAL CORRELATION: The reactivity and variability are positive prognostic features.  Medications that produce beta may account for the pattern described above in this individual who is responsive to external stimuli.  There are no epileptiform features identified in this record, and the focal frontal features are subtle.
+
+

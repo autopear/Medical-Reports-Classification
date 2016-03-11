@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 97-year-old woman found unresponsive with a history of dementia and hyperlipidemia on 11/28/06.
+MEDICATIONS: Dilantin, Keppra.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is restless and confused, eventually becoming drowsy.  
+DESCRIPTION OF THE RECORD: The background EEG is markedly slow.  In wakefulness, there is physical movement, and the background is theta mixed with delta.  As the patient becomes drowsy, the background transforms into more of a pattern of slow arrhythmic delta followed by restlessness with muscle and movement artifact.   There are occasional bursts of shifting asymmetries.  Occasional vertex waves are noted as the patient drifts off to sleep; however, as the recording continues, spontaneous arousals occur.  
+HR:  60 to 70 BPM, irregular with frequent PVCs
+	IMPRESSION: Markedly abnormal EEG due to:
+	Marked background slowing.
+	A pattern of slow arrhythmic delta in drowsiness.  
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  This EEG supports a severe disturbance of cerebral function affecting both gray and white matter.  Clinically, there is evidence of a delirium with a patient who drifts off to sleep, immediately arousing, and then becoming agitated.  No previous EEGs were available for comparison.
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 70-year-old woman with a history of diabetes, coronary artery disease, questionable CVA, end-stage renal disease, hypertension, and urosepsis.  Patient found with left-sided jerking.  
+MEDICATIONS: Dilantin, Ativan, antibiotics, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is intubated.
+DESCRIPTION OF THE RECORD: The background EEG is disorganized with diffusely slow theta and delta activity, as well as intrahemispheric asymmetry especially in the central area.  The normal posterior alpha rhythm is not seen. Intermittent, periodic sharp waves, especially sharply contoured activity with slow waves were seen at O2.  Occasionally, focal slowing was also observed at T4.  No seizure activity was correlated with the video camera.  Stimulation of the patient did not cause reactivity in the background.
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Disorganized background with diffuse slowing. 
+Lack of normal alpha rhythm.
+Intrahemispheric asymmetry.
+Intermittent, periodic sharp activity with slow activity in the right posterior area.
+CLINICAL CORRELATION: This tracing is suggestive of a severe disturbance of cerebral function involving both gray and white matter.  The PLEDS suggests irritation of the cortex and may support a partial mechanism for seizures in this patient.  Lack of variability or reactivity after stimulation may be due to pharmacological coma or may be indicative of a poor prognosis.  A follow-up EEG in the next few days when the patient is weaned off of sedative medications may be helpful.  
+
+

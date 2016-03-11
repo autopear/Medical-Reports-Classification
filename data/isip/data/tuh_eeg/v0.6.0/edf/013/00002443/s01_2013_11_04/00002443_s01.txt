@@ -1,0 +1,15 @@
+History: This is a 41-year-old man with history of seizure. and schizophrenia with episodes of body shaking and stiffness. 
+Medications: Dilantin 
+Sedation: 
+EEG Type: Awake & asleep 
+Technique: international 10·20 System; standard 21 electrodes with T1/T2 electrodes, awake, drowsy, asleep, hyperventilation, photic 
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5·15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes Intermittent. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity. and symmetric sleep spindles and K complexes appear. 
+No focal slowing is present. No epileptiform discharges are present. 
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect. Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at flash rates from 11 to 15 fps. HR is 70 bpm. 
+Summary of Summary:
+Normal
+Intermittent:
+This is a NORMAL EEG, awake and asleep. The Jack of epileptiform discharges on a routine EEG does not rule out a diagnosis of epilepsy or intermittent seizures. Excessive beta activity is likely a medication effect. 
+
+

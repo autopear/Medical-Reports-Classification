@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  86 year old right handed female with a history of hypertension presents with an aura of dizziness followed by a generalized tonic-clonic seizure in October 2011.
+MEDICATIONS:  Isosorbide, Prionox, Amlodipine.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and EKG electrodes.  The patient was recorded in wakefulness and sleep.  Photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9 Hz, which is reactive to eye opening.  There is a normal amount of frontocentral beta.  The record is done in wakefulness and stage I sleep.  Photic stimulation produces no abnormal discharges. 
+ABNORMAL DISCHARGES:  Focal slow waves seen frequently at F7/T3 at 2 to 4 Hz with an amplitude of 20 to 60 microvolts. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Frequent left anterior temporal slow waves.
+CLINICAL CORRELATION:  This EEG is consistent with focal cerebral dysfunction, which is nonspecific with regard to etiology.  No seizures or epileptiform discharges were seen.
+
+

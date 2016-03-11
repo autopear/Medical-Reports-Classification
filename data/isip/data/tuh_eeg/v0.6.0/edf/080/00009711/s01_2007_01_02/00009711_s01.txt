@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 48-year-old woman who presents with sudden onset of left-sided weakness and headache.  Patient found to have a right basal ganglion bleed.  History of cocaine abuse.  
+MEDICATIONS: Labetalol, Dilantin,  and Reglan. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is a discernable 11 Hz alpha rhythm identified from the left.  There is a prominent intrahemispheric asymmetry, which at times is quite marked and at other times not quite so remarkable.  Features of drowsiness include an increase in background slowing.  In the transition to stage I sleep, the normal morphologies of stage I are seen from the left hemisphere more so than the right.  In addition, on one occasion, there are two bursts of sharply contoured slowing from the left.  On some occasions, with arousal, the asymmetry between the two hemispheres is not quite as marked as others, but a relatively consistent observation is the disruption of the alpha on the right and rhythmic slowing from the right.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Nearly continuous focal slowing from the right characterized by disruption of faster frequency activity and rhythmic slowing. 
+	Two bursts of unusual slowing from the left. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  This EEG supports a structural or functional abnormality on the right.  The observation to some extent that these features wax and wane suggests that there may be a physiologic, as well as a structural component.  
+
+

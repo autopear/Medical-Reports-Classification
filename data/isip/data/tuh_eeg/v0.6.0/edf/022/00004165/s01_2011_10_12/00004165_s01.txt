@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  46 year old right handed woman with left parietal cavernous malformation, headaches, lightheadedness, vertigo.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz 40 microvolt posterior dominant rhythm.  On some occasions, the alpha rhythm is a little higher amplitude activity on the left than the right.  There is a bit of head rocking activity on the right compared to the left.  Hyperventilation is performed early in the record, producing an increase in theta.  Following this, as the patient becomes drowsy, the EEG is a bit more synchronous with higher amplitude and more anterior spread of the alpha rhythm.  Photic stimulation elicits bilateral driving. 
+HR:    66 bpm
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  Although there is some head rocking artifact in the background, there are no definitive focal or epileptiform features.  Given the head rocking artifact, a followup study, capturing extended sleep may be helpful in 
+characterizing epileptiform activity.  Alternatively, comparison with previous studies may also be valuable.
+
+

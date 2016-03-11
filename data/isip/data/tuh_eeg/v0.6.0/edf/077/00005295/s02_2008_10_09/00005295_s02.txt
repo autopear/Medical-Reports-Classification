@@ -1,0 +1,11 @@
+CLINICAL HISTORY:   29 year-old woman with left frontal cyst and seizure disorder with recent status on August 22, 2008.
+MEDICATIONS:   Dilantin, Topamax, Ativan, Lovenox, Protonix, Flagyl, Azithromycin, Topamax
+INTRODUCTION:   Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 EKG.
+DESCRIPTION OF THE RECORD:  During wakefulness, this EEG shows a slow background bilaterally with a theta-delta rhythm.  The record is disorganized  with superimposed beta activity.  The slowness is asymmetric, posterior and slower greater on the left.
+	HR:	111 bpm
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Slow background bilaterally showing a theta-delta rhythm.
+	2. 	Asymmetric and posteriorly slower on the left.
+	CLINICAL CORRELATION:  Superimposed beta activity may be due to medications. There was no epileptiform activity seen on this record, but slowness of  background may be due to recent history of status.
+
+

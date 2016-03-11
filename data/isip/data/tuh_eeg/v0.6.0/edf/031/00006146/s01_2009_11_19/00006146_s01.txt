@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 33 year old right handed male with epilepsy, a tonic/clonic seizure last week. Previous seizures 14 years ago. History of depression. 
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is of a relatively low-voltage pattern. There is a 9.5 Hz alpha rhythm, which is symmetric and reactive. Features of drowsiness include slow rolling eye movements. Hyperventilation produces an increase in amplitude of the background. Photic stimulation produces a small amount of driving. 
+HR: 60 bpm 
+IMPRESSION: Normal EEG. 
+CLINICAL CORRELATION: No focal nor epileptiform features are observed. A low voltage pattern is not pathologic. If epilepsy is an important consideration, a repeat tracing capturing more extensive sleep may be considered. 
+ 
+
+

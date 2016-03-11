@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  Adult male found with intracerebral hemorrhage, previous encephalomalacia.  Intubated and sedated with EVD.
+MEDICATIONS:  Propofol, Dilantin, Keppra
+INTRODUCTION:  Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a lower voltage pattern with generous beta.  There is a slight asymmetry with a slight disruption of beta activity in the right central region related to the left.  There is a single subtle right frontal sharp wave. 
+Heart rate 104.
+IMPRESSION:  Abnormal EEG due to
+Replacement of normal background with diffuse beta.
+Very subtle right-sided slowing.
+CLINICAL CORRELATION:  The use of sedative or hypnotic medications, would produce the beta activity described above.  Given the magnitude of the patient's hemorrhage, the right central slowing is more subtle than one would expect.  In this patient with a history of frontal encephalomalacia, there was only a single right frontal sharp wave, which was of no clear clinical significance.
+_
+
+

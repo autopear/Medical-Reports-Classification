@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 40-year-old male with refractory epilepsy since childhood with positive family history of epilepsy. Patient admitted in status epilepticus 1/29/06.
+MEDICATIONS: Dilantin and Depakote.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: The background EEG includes a 9 Hz, 30 uV posterior dominant rhythm.  The overall background is somewhat disorganized and there is some shifting asymmetries particularly in the temporal regions.  Hyperventilation is performed and seems to increase some of the shifting and slowing, and on one occasion there is a bit more rhythmic alpha frequency activity from the left hemisphere in comparison to the right.  As the patient becomes drowsy, following HV, this is seen on one or two occasions in the transition to sleep.   Other features of drowsiness include slow rolling eye movements.  In the transition to sleep, a bit more isolated focal 3 to 4 Hz activity is seen from the left temporal region.  Vertex waves are noted in stage I sleep. 
+Photic stimulation does not activate the record.  The patient seems to be falling asleep in HV.
+HR:  74 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Excess background slowing and disorganization.
+Shifting asymmetries with a suggestion of a bit more focal features seen intermittently from the left or right including the isolated focal slowing from the left and the disruption of faster frequency activity.
+CLINICAL CORRELATION: In this individual with lifelong epilepsy, additional recording may be helpful to identify epileptiform activity.  The background slowing and disorganization may have been accentuated by the recent status epilepticus. 
+
+

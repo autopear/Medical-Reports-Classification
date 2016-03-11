@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  32 year old right handed male with a history of febrile convulsions at age 9, seizure every 1 to 2 years.
+MEDICATIONS:  Dilantin, Xanax, Serax, Tylenol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation were performed.  This is an awake and a sleep record.  The patient had an episode of tremulousness in the EEG.  He had generalized shaking which was uncomfortable and which he described as a symptom that is different than his typical seizure.
+DESCRIPTION OF THE RECORD:  In maximum wakefulness there is a 9 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Brief drowsiness is characterized by increase in beta with brief vertex waves. Notable features in this record are frontally predominant spike and wave complexes which may be subtle, isolated or appear in pairs.  They range from 3-6 Hz spike and wave activity.  The activity seems to be accentuated by hyperventilation, but unfortunately there is also some muscle artifact there.  They are also seen briefly as the patient transitions into drowsiness.  They are somewhat confounded by hypersynchronous rhythmic high amplitude theta which appears both in hyperventilation and in the transition to drowsiness.   
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to: 
+Frontally predominant spike and wave activity of 3-6 Hz.
+CLINICAL CORRELATION:  Some of these features are somewhat asymmetric and somewhat irregular.  This EEG may be seen in an inherited mechanism for epilepsy.  It may also be seen in a frontal localization for epilepsy.
+
+

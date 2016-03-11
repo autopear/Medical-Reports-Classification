@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 46-year-old male with epilepsy and Dilantin toxicity.  While intoxicated, the patient became dizzy and fell.  Patient had been treated with Neurontin for a diabetic neuropathy, admitted with a Dilantin level of 47.  
+MEDICATIONS: Paxil, Dilantin, Depakote, Ativan, and Tylenol #3.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, 40 uV posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  This patient seems drowsy, rapidly falling into stage II sleep with vertex waves and spindles.  
+HR:  100 BPM.
+	IMPRESSION: Normal EEG in wakefulness through stage II sleep. 
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  The hypersomnolence may be due to this patient’s medications. 
+
+

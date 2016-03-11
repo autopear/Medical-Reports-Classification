@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 75-year-old woman with cardiomyopathy, acute MI, post-stroke epilepsy with a recent seizure associated with a low Dilantin level. 
+MEDICATIONS: Lipitor, Norvasc, Plavix, many others.  
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake record performed at the bedside with a significant amount of muscle.  The patient is intubated.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a diffusely slow pattern.  Underlying the muscle, the primary frequency from the left hemisphere is theta, and from the right hemisphere there is prominent disruption of faster frequency with arrhythmic delta.  There is shifting, sharply contoured delta seen from either hemisphere and occasional right parietal sharp waves.  As the patient becomes drowsy, there is an increase in background beta activity, as well as drop out of theta from the left.  
+HR:  118 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Right focal slowing with both arrhythmic delta activity and disruption of faster activity.
+Right parietal occipital sharp waves.
+Generalized background slowing with primarily theta frequency from the left, as well as some sharply contoured slowing on the left.  
+CLINICAL CORRELATION: This tracing supports a structural or functional abnormality on the right effecting both gray and white matter, as well as a partial mechanism for epilepsy.  The background slowing from the left suggests a bihemispheric disturbance.  
+
+

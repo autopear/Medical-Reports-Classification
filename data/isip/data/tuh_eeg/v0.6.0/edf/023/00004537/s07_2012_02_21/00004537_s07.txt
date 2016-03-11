@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  48 year old with history of seizures status post code, now with seizures versus myoclonus.
+MEDICATIONS:  Dilantin, Trileptal, Keppra, Versed, Ativan.
+REASON FOR STUDY:  Twitching, seizures
+INTRODUCTION:  Digital video long-term EEG was performed for 53 hours at bedside using standard 10-20 electrode placement system and additional anterior temporal single-lead EKG electrode and bilateral arm EMG electrodes.  The patient was unresponsive during the exam.  The EEG was reviewed using continuous spike detection and seizure detection software along with nurses' notes and patient alarms.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no clear posterior dominant rhythm or frontocentral beta.  There are diffuse periods of attenuation as well as intermittent bursts of anterior maximal 8 Hz discharge that come intermittently throughout the recording.  In addition, there is asymmetric anterior predominant small amplitude polyspikes and generalized spike and waves that at times have an EMG correlate noted in the arms and in the video on the face.  It is sometimes difficult to assess if there is always a precedent generalized spike and wave or polyspike prior to the muscle artifact.  However, there are definitely times where there is muscle artifact and there is no clear spike seen on the recording.
+ABNORMAL DISCHARGES:  
+Polyspikes and generalized spike and waves seen asymmetrically, at times symmetrically during the recording with associated muscle artifact. 
+Generalized slow waves and intermittent bursts of suppression.
+SEIZURES:  As above.
+IMPRESSION:  Abnormal EEG due to: 
+Markedly diffuse slow waves. 
+Myoclonic jerks.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction and cortical damage, which is consistent with a known hypoxic injury.  However, some of this slowing may be due at least in part to medication effect.  The episodes of jerks associated with anterior predominant polyspike and waves are consistent with the clinical diagnosis of myoclonus.  The overall background and presence of myoclonus suggests a poor prognosis.
+
+

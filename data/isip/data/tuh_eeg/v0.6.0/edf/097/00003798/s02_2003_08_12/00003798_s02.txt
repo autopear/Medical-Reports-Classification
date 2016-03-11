@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 54-year-old male status-post fall down the stairs.  The patient has a long history of epilepsy. 
+MEDICATIONS: Dilantin and Ativan. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is comatose and intubated with subtle eye blinking.
+DESCRIPTION OF THE RECORD: Four clinical seizures are observed, as well as subclinical seizures.  The first seizure occurred at 11:04 and lasted for about 50 seconds.  Clinical characteristics included slow, rhythmic eye movements.  EEG characteristics included spike and slow wave of high amplitude. This activity has an unusual field of spread, but it appears to be coming from the left hemisphere.  Another burst  of slow spike and wave lasted 20 seconds. The third seizure lasts for about 30 seconds and ends with periodic delta from the left side.  The fourth episode is about 15 seconds with shoulder jerking.  Most of the activity is about 1 Hz, but varies from 1 to 4 - 5 Hz.  There were brief bursts of GPFA.  Clinical correlates of the seizures include head bobbing (3) and shoulder jerking (1).
+HR:  114 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Slow s pike and slow wave of high amplitude associated with brief ictal motor activity
+CLINICAL CORRELATION: Abnormal EEG with significant cerebral dysfunction suggestive of a highly irritative epileptiform activity.  These findings were discussed with the clinical team. 
+
+

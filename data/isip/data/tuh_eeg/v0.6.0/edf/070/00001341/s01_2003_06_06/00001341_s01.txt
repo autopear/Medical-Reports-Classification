@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 62-year-old woman with recurrent convulsions over 1.5 hours, now intubated.
+MEDICATIONS: Dilantin, Lidocaine.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as intubated and responsive to stimuli with gagging upon suction. 
+DESCRIPTION OF THE RECORD: The background EEG is continuous, low voltage.  It includes very low voltage, frontally predominant beta frequency activity with smaller amounts of frontal 10 to 11 Hz activity.  There is very low voltage 3 to 5 Hz activity seen in the central and posterior regions.  There is spontaneous eye movement in this low frequency pattern.  Stimulation of the patient clearly produces an arousal with an increase in the amplitude of the background, as well as an increase in more diffuse, 8 to 11 Hz activity.  There are some shifting asymmetries identified in this record.  
+HR:  78BPM.
+	IMPRESSION: Abnormal EEG due to:
+Low voltage record with initially marked slowing from the posterior regions, relatively symmetric. 
+CLINICAL CORRELATION: In this patient with acute status epilepticus, there is no epileptiform activity and no strongly lateralizing features seen in this record.  To further characterize this patient’s seizures, a follow-up study may be of use.  The background slowing and low voltage pattern described above may be due to the postictal state, medication exposure, or underlying cerebral process. 
+
+

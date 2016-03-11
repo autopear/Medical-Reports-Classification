@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 20-year-old male with hypertension and acute lupus with acute renal failure awaiting transplant with recurrent seizures yesterday.  History of renal and hepatic insufficiency.
+MEDICATIONS: Multiple antibiotics, Dilantin, Kayexilate(?), and many others. Check spelling
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake and described as irritable.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is abnormal. Much of the waking background is low voltage beta with intermittent bursts of rhythmic, frontally predominant delta.  There are other portions of the record in apparent wakefulness where there is more significant background theta.  There are occasional bursts of shifting arrhythmic delta activity noted as well.  While there is no definite epileptiform activity, there are one or two bursts of sharply contoured activity in the right frontal region.  
+Drowsiness is characterized by a decrease in movement artifact and an increase in frontally predominant, rhythmic high amplitude delta.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing
+FIRDA.
+Occasional shifting slowing with some suggestion of sharply contoured slowing on the right.  
+CLINICAL CORRELATION: These features are non-specific but support a diffuse disorder of cerebral function affecting both gray and white matter.  Consideration for a toxic and/or metabolic encephalopathy would be appropriate in this case. No definite epileptiform features were seen.  Comparison with previous EEGs may be helpful. 
+
+

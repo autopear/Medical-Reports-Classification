@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  62 year old right handed male with occipital headache, nausea, vomiting, confusion, and a past history of stroke.
+MEDICATIONS:  Dilantin, Neurontin.
+INTRODUCTION: Digital EEG was performed inlab using standard 10-20 system of electrode placement with 1  channel  of EKG.  Only photic stimulation could be performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is moderately slow with background theta.  There are intermittent shifting asymmetries.  The waking record is less asymmetric and there is, at times, a 7 Hz posterior dominant rhythm, but
+in drowsiness the most common asymmetry is disruption of theta frequency activity in the left relevant to the right with faster pattern on the right, but there are shifting asymmetries.
+	HR:	96 bpm
+IMPRESSION: Abnormal  EEG due to:
+	1. 	Background slowing.
+Shifting asymmetry with more disrupted faster frequency activity on the left compared to the right.
+CLINICAL CORRELATION:   No epileptiform features are observed.  The findings described above may be correlated with this patient's imaging. Toxic metabolic encephalopathy, such as HHNK, can contribute to the generalized slowing, as well as the shifting slowing.
+
+

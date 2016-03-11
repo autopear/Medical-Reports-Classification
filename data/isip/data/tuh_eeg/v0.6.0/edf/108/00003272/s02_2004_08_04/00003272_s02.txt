@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 60-year-old male with metastatic cancer, CNS mets, seizures.  
+MEDICATIONS: Phenobarbital, Dilantin, and Decadron.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and poorly responsive.  
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal and includes a mixture of delta and theta.  There is an intrahemispheric asymmetry.  There is sharply contoured delta from the left with superimposed sharp waves, which demonstrate variability in the left hemisphere including T1, T3, F7, and T6, with an overall large field of spread. This EEG demonstrates variability: some sections are richer in beta frequency than others.  There is some evidence of an arousal with an increase in theta identified bilaterally, as well as some limited response to noxious stimulation (suction).  
+HR:  100 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Intermittent, at times nearly periodic sharp waves identified with variable maximum throughout the left hemisphere.
+Intrahemispheric asymmetry with higher amplitude, more rhythmic theta and delta from the left.
+Generalized background slowing. 
+CLINICAL CORRELATION: No seizures were recorded.  This patient is out of status epilepticus.  This record demonstrates not only a diffuse disturbance of cerebral function, but a partial or localization-related mechanism for this patient’s epilepsy.  
+
+

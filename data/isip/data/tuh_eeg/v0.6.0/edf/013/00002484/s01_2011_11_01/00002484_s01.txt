@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  62 year old right handed female with past medical history of end-stage renal disease, diabetes, hypertension, hyperlipidemia, peripheral vascular disease, Alzheimer's, hyperparathyroidism that presents with episode of syncope and loss of consciousness.
+MEDICATIONS:  Include calcium, Ecotrin, Lasix, Renvela, Simvastatin, Tylenol.
+REASON FOR EEG:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional EKG and anterior temporal electrodes.  Wakefulness and sleep were recorded.  Photic stimulation are performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 8.5 Hz at best which is reactive to eye opening and eye closing.  Normal frontocentral beta seen.  Sleep stage I is seen.  Photic stimulation reveals no abnormal discharges.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen at T3 at 2-4 Hz and 20-60 mV amplitude.  
+Generalized slow waves seen at 5-7 Hz and 20-70 mV amplitude.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Infrequent left midtemporal slow waves. 
+Mild generalized slow waves in wakefulness.
+CLINICAL CORRELATION:  This EEG reveals evidence of left midtemporal cerebral dysfunction as well as mild generalized cerebral dysfunction, both of which are not specific with regard to etiologies.  No seizures or epileptiform discharges were seen.
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY:   37 year old woman requires neurologic clearance for foot surgery. Seizure free for the last 2 years.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic simulation are preformed.
+DESCRIPTION OF THE R ECORD:  In wakefulness, background EEG includes a well organized 9.5 hertz 40 microvolts posterior dominant rhythm and a small amount of low voltage frontocentral beta. Hyperventilation produces an increase in amplitude of the background. Features of drowsiness include an increase in beta. Photic stimulation elicits scant driving.
+HR:   78 bpm
+IMPRESSION:  Normal EEG
+CLINICAL CORRELATION: There are no focal nor epileptiform features noted in this record. If epilepsy is an important consideration, a repeat tracing capturing sleep may be of use.
+
+

@@ -1,0 +1,10 @@
+MEDICINES: Dilantin, Norvasc, Coreg, and others. 
+HISTORY: A 57 -year-old, right-handed woman with seizures, seizure-free for an extended period of time, but with recurrent seizures this year in February. She does well with very low doses of Phenytoin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were completed. 
+DESCRIPTION OF RECORD: In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, fronto-central beta. Drowsiness is characterized by rhythmic theta. Deeper stages of sleep are nonsustained.
+Hyperventilation produces some slowing. Photic stimulation elicits scant driving. As the patient drifts off to sleep at the very end of the record, there is a bit more theta on the left than the right. 
+HR: 60 bpm
+IMPRESSION: This EEG is within normal limits for an adult of this age. 
+CLINICAL CORRELATION: No epileptiform features were identified in this EEG nor prior EEG in 2007. Careful review of the database is important to determine if there are other EEGs in the interim. 
+
+

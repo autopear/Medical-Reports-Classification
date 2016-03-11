@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 54 year old male with a drug overdose, anoxic insult, and vent dependent respiratory failure, evaluate for seizure after involuntary movements of the right arm, leg, and face.
+MEDICATIONS:  Dilantin, Enoxaparin, Lisinopril, Famotidine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and agitated.
+DESCRIPTION OF THE RECORD:  The background EEG is slow, poorly organized, with primarily a theta frequency pattern.  There is smaller amounts of beta and delta.   
+Technically somewhat limited EEG due to patient muscle and motion artifact
+HR:   114 bpm
+IMPRESSION:  Abnormal due to:  
+Generalized background slowing.
+CLINICAL CORRELATION:  This EEG is unchanged to compared to a previous study on October 3, 2011.  Overall, it is similar to all of his previous EEGs demonstrating a mixed frequency slow pattern.  No epileptiform features have been seen in any of the EEGs.
+
+

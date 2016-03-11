@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 65-year-old, non-verbal woman with a left MCA CVA, diabetes, hypertension, CHF, hyperlipidemia, and a right AKA(?) who presented with status epilepticus.  Four tonic-clonic seizures this morning.  
+MEDICATIONS: Dilantin, Labetalol. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake, but poorly interactive with the tech and has some oral automatisms. 
+DESCRIPTION OF THE RECORD: The vast majority of the EEG demonstrates a drowsy pattern with a theta frequency pattern. There is an asymmetry seen more remarkably in the temporal regions with disruption of the theta frequency activity on the left compared to the right.  The right central region demonstrates more beta than the left.  There are a handful of low amplitude, subtle, sharply contoured transience from the left frontotemporal region and a single similar discharge seen from the right.   
+The patient had multiple behaviors with head deviation to the left and chewing, but without an EEG change.  
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Subtle focal features including disruption of faster frequency from the left central region and a bit more arrhythmic delta in the left temporal region.
+CLINICAL CORRELATION: In this patient with recent status epilepticus, the focal features described above are less remarkable than one would expect.  There are a handful of tiny, subtle sharp waves, but no persistent epileptiform activity. 
+
+

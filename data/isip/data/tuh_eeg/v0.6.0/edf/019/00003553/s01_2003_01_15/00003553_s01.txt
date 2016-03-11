@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 55-year-old woman with a large, left frontal meningioma, right hemiparesis, and occasional right leg movements.
+MEDICATIONS: Insulin, Hydralazine, Metoprolol, Zyprexa, Heparin, Dexamethasone, Clonidine, and Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz posterior dominant rhythm, with 25 V on the left but somewhat lower on the right.  The overall amplitude is somewhat higher on the left as compared to the right throughout.  There are intermittent bursts of arrhythmic delta activity on the left, maximum in the central and temporal regions.  Drowsiness is characterized by an increase in background slowing with occasional vertex waves. 
+Rare T3 sharp waves are identified.  Driving is identified at intermediate flash frequencies.
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Intermittent arrhythmic delta from the left centrotemporal region.
+Rare left temporal sharp waves.
+CLINICAL CORRELATION: This tracing supports a structural abnormality on the left, as well as a partial mechanism for seizures.  The focal slowing and epileptiform activity localizes to the temporal regions where the lesion is more parasagittal. 
+
+

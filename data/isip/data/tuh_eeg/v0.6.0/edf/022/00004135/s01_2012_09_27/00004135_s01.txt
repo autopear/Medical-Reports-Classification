@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  65 year old right handed man with diabetes, hypertension, depression, seizures, CAD, and bipolar who presented with an episode of loss of consciousness.  He felt unable to move and had slurred speech for a minute.  MRI with multiple small infarcts in the left MCA and right periventricular region.
+MEDICATIONS:  Heparin, Insulin, Keppra, Lisinopril, Metoprolol, Advair, Flomax, Gabapentin, Plavix.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  The patient was recorded during photic stimulation and stage I and stage II sleep.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with limited wakefulness which the posterior dominant rhythm reaches, at best, 7 Hz, but it is reactive to eye opening.  There is a decreased amount of frontocentral beta.  The patient rapidly goes into stage I and stage II sleep and remains in that sleep throughout the recording.  Photic stimulation produces no abnormal discharges. 
+ABNORMAL DISCHARGES:  Generalized slow waves at 5 to 7 Hz in the setting of limited wakefulness.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific in regard to etiology.  No seizures or epileptiform discharges were seen.
+
+

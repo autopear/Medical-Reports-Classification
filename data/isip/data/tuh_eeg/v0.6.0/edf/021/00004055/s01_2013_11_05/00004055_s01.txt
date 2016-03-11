@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  An 81-year-old woman with a previous stroke, left hemiparesis, admitted with seizures and weakness, now intubated and unresponsive.
+MEDICATIONS:  Dilantin, Ativan, Keppra.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was stimulated during the EEG.  This was a technically satisfactory record.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow with a mixture of low voltage slow delta and smaller amounts of theta.  There is also a small amount of beta.  There is intermittent asymmetry noted with a bit more slow delta in the right posterior quadrant.  Tactile stimulation of the patient produces a small amount of faster frequency activity as well as some muscle artifact.   
+Heart rate is irregular, 120 BPM.
+IMPRESSION:  This is markedly abnormal EEG due to:
+Marked background slowing. 
+A subtle, asymmetry with a bit more slowing in the right hemisphere, posteriorly in comparison to the left.
+CLINICAL CORRELATION:  There are no epileptiform features identified.  The slow background described above is an anticipated finding in an unconscious patient and supports a bihemispheric process which may include postictal state or bihemispheric cerebral pathology.  In this individual with seizures, there were no sharp waves.  Focal features are not prominent in this record despite the history of a stroke.
+
+

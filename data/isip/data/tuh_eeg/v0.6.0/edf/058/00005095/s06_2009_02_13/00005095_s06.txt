@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 66 year old man for follow-up EEG for status epilepticus. MEDICATIONS:  Propofol, Phenobarbital, Dilantin, Norepinephrine.
+INTRODUCTION:  Digital-video EEG was performed at bedside using standard 10-20 system of electrode placement and 1 channel EKG.  Prior long term monitoring studies.
+	DESCRIPTION OF THE RECORD:  At the start of this epoch, a largely attenuated record is seen.  Burst Suppression with suppression lasting for 2-6 seconds with intermittent right P4 spike waves seen with a large field of spread.  These spike waves will be 60-65 microV.  At times, the more suppressed record shows a bit of frontal theta. Heart rate 70 beats per minute and irregular. 	·
+IMPRESSION: Abnormal EEG due to:
+	1. 	Attenuated background.
+	2. 	Right P4 spike waves.
+	3.	Burst Superposition pattern
+CLINICAL CORRELATION:  No seizures are seen on this record.  The attenuated background is consistent with medication. The right epileptiform activity is continuous discharge from that area.
+
+

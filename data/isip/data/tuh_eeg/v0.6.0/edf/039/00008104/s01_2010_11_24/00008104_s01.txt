@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 56 year old male with COPD exacerbation, epilepsy 30 years, admitted with multiple seizures and postictal confusion. 
+MEDICATIONS: Ativan, Prednisone, Oxycodone, Vancomycin, Dilantin, Morphine, Lasix, Lovenox, Cefepime, Lorazepam, Xanax. 
+INTRODUCTION: Digital video EEG was performed at bedside unit using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is awake but agitated. Because of the extreme respiratory difficulty, the technologist does not stimulate the patient. 
+DESCRIPTION OF THE RECORD: Despite the muscle and movement artifact, the background EEG is slow. At best, there is a 7 Hz alpha and when the patient is able to rest comfortably and the alpha is a bit slower in the 5 Hz to 6 Hz range. There is generous beta and theta noted in the background. The patient is wearing a nonrebreather face mask and appears to be agitated. 
+HR: 120 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+CLINICAL CORRELATION: These findings support a diffuse disturbance of cerebral function. The patient's medications or critical illness may play a role in the background slowing described above as a toxic or metabolic encephalopathy can contribute to the pattern described above. No epileptiform features were seen but if additional information is needed regarding this patient's epilepsy, a followup study when he is able to cooperate is suggested. 
+
+

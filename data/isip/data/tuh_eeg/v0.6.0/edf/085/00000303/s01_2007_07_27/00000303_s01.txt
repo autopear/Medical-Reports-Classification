@@ -1,0 +1,15 @@
+	CLINICAL HISTORY: 	A 58-year-old woman with weekly seizures, typically tonic/clonic seizures in sleep with incontinence but often weekly clusters of seizures, hypertension.
+	MEDICATIONS: 	Dilantin, Tegretol, Gabapentin, Naprosyn.
+	INTRODUCTION: 	Digital video EEG is performed in the lab using standard 10/20 system of electrode placement with 1-channel lead EKG. The technologist observes an abnormal rhythmic discharge without clear clinical correlate. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record.
+	DESCRIPTION OF THE RECORD: 	In wakefulness there is an 8.5 Hz posterior dominant rhythm of 30 microvolts. Hyperventilation is performed early on in the record. Photic stimulation is performed later in the record. During photic stimulation there
+is the appearance of very subtle left temporal sharp waves which barely seemed to disrupt the background. They begin in the 15 Hz stimulation. They are subtly marching through the background and then some focal slowing seems to accompany them. They crescendo during the 17 Hz stimulation 20 seconds after their initial appearance and then gradually begin to evolve into a seizure at
+13:47:45. Electrographically, the seizure is characterized by a train of repetitive sharp waves from the left temporal region. The patient is sitting cooperatively during the photic stimulation. The technologist asked the patient "where are you" towards the close of the discharge and she answers. The seizure appears to be over at 13:48:12. Very subtle sharp waves are identified in the postictal recording at 13:50:35.  The EEG ends at 13:51:37.
+HR: 48 bpm
+	IMPRESSION: 	Abnormal EEG due to:
+1. 30-second electrographic seizure characterized by repetitive train of left temporal sharp waves.
+2. Subtle interictal left temporal sharp waves and focal slowing.
+	CLINICAL CORRELATION: 	This EEG is diagnostic of a localization­ related mechanism for epilepsy. Additional clinical information is important as 1 would anticipate that this seizure would be associated with impairment of awareness. I do not have all the tech information but please ask the secretary to input a 58, I
+do not know if it is a right or left-handed woman and I know the
+date of birth is October 24, 1948.
+
+

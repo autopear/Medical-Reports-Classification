@@ -1,0 +1,17 @@
+CLINICAL HISTORY: This is a 50-year-old male with previous surgery for a left frontal glioma now with accelerating complex partial seizures.
+MEDICATIONS: Phenobarbital, Dilantin, and many others.  
+INTRODUCTION: Continuous video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient receives ____________ [to be filled in] during this recording.  He is mostly lethargic.
+DESCRIPTION OF THE RECORD: Complex partial seizures are identified.  The first identified is at 17:53 with the appearance of rhythmic theta frequency activity from the left frontocentral region.  Precise seizure onset is somewhat challenging.  The activity clearly shows frequency evolution with the appearance of bilateral, frontocentral rhythmic theta frequency and sharp and slow wave activity as well as faster frequency activity.  The activity gradually wanes and by 17:55:41 the seizure is more clearly over and the EEG has returned to its baseline, which includes generalized background slowing with focal slowing and breach rhythm and sharp activity in the left frontal region.  
+SEIZURE, TIME 21:32 to 21:35: This seizure begins with high alpha frequency activity, maximum in the left frontocentral region.  Despite some artifacts in the background, there is clear frequency evolution of this activity as well as a spread to a bilateral pattern.  The patient is lethargic, there are no clinical signs seen during this seizure, and despite what seems to be muscle, there is no apparent movement of the patient.  
+Long-Term Monitoring, 1/31/04 to 2/01/04
+SEIZURE, TIME 16:57:34: The patient is in a darkened room.  The family is at the bedside.  The family notes that within 14 seconds of the seizure onset, the patient is poorly responsive and doesn’t follow commands.  This seizure has a somewhat different pattern than his usual seizures, with initially a brief burst of rhythmic, frontally predominant theta activity and then some faster frequency activity and then more prolonged arrhythmic delta from the left frontocentral regions.   
+Long-Term Monitoring, 2/01/04 to 2/02/04
+No seizures were noted in this portion of the record. 
+RANDOM WAKEFULNESS AND SLEEP: In wakefulness through stage II sleep, there is ongoing focal slowing from the left frontocentral region, with a focal breach rhythm in the left frontocentral region.  In sleep, there seems to be focal fast activity, which is not necessarily spindle-like and is in the frontal region, but does not evolve.  Elements of stage I sleep include vertex waves.  
+	IMPRESSION: Abnormal long-term video EEG monitoring due to:
+Multiple complex partial seizures recorded with various different patterns, but all of which are localized to the left frontocentral region.
+Focal slowing.
+Sharp waves maximum at F3, occasional C3 and F7.
+CLINICAL CORRELATION: In the last 24 hours of this record, no additional seizures were recorded. This EEG is diagnostic of a partial mechanism for epilepsy.  
+
+

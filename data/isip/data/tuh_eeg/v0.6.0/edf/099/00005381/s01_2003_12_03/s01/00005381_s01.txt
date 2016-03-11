@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 64-year-old male with a history of epilepsy, alcohol abuse, admitted for multiple seizures.  Dilantin level was found to be zero.  
+MEDICATIONS: Dilantin and Ativan.
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is confused and sometimes agitated during the recording.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is superimposed with multiple muscle artifact.  When the patient becomes quiet, the artifact subsides.  The background EEG is disorganized with generalized slowing.  The normal posterior dominant alpha rhythm is not identified.  There is diffuse low voltage beta activity.  Intermittent right frontocentral and sometimes temporal PLEDS-like discharges are observed.  Occasionally, this can also be seen in the left centrotemporal area.  No physical seizures were observed on the video camera.  When the patient is aroused, he becomes more agitated.  IV Ativan 2 mg was given, which transiently decreased the PLEDS-like activity.  However, when the patient fell asleep, the right hemisphere PLEDS increased again at a frequency of about 1 Hz. 
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Disorganized background and generalized slowing.
+Intermittent predominant right hemispheric PLEDS and occasional left hemispheric PLEDS.
+CLINICAL CORRELATION: This tracing, together with the patient’s history and clinical manifestations, is diagnostic of a non-convulsive status epilepticus.  The primary EEG results were communicated to the neurology resident.  Long-term EEG monitoring  is recommended. 
+
+

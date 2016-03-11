@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 52-year-old woman with a wound infection following removal of hardware and a flap closure. Patient has a right frontotemporal skull defect.  She had cranioplasty following cranial surgery for a benign tumor with methyl methacrylate.  History of seizures. 
+MEDICATIONS: Dilantin, Phenobarbital, and Percocet. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat slow with excess background theta.  Initially, there are discrete right central sharp and slow wave complexes identified.  Later, these are followed by bursts of frontally predominant 3 to 4 Hz spike and slow wave activity, as well as some poly spike and slow wave activity.  When the patient is awake, the bursts are relatively well formed, but when she is drowsy, they are significantly slower.  Nearly all of them began with a single spike and wave from the right central region, but a few are a bit more remarkable in the right hemisphere in comparison to the left.  Maximum burst duration is eight seconds.  No clinical signs or symptoms are noted with these bursts.  Photic stimulation elicits some bilateral driving.  There is no clear accentuation of the generalized spike and wave activity, although it is seen during the 9 Hz, which was also seen around the same period of time without the flash stimulus. 
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Initially subtle focal slowing with a right frontocentral sharp wave.
+Bursts of generalized 3 Hz spike and slow wave activity often preceded by a right frontocentral spike and slow wave and sometimes accompanied by generalized paroxysmal fast activity without a change in the patient’s clinical state. 
+CLINICAL CORRELATION: This EEG demonstrates features suggesting a focal and a generalized mechanism for epilepsy.  Comparison with this patient’s previous history may be important given the frontal lobe nature of her pathology.  The possibility of both a focal and inherited mechanism for epilepsy may be considered particularly in this adult with an acquired neoplasm and generalized paroxysmal fast activity.  
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:   43 year-old with history of posttraumatic  epilepsy 20 years ago, alcohol abuse with 2 tonic-clonic seizures at home and then a third in the ER requiring 2 mg of Ativan, now with postictal confusion and low Dilantin level.
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital EEG is performed at bedside using standard 10-20 system of electrode placement 1 channel EKG. Patient is somnolent.
+DESCRIPTION OF THE REC.ORD:  Background EEG is markedly slow, low voltage. In addition, there is a low voltage periodic sharp complex in the right hemisphere, maximum at T2, but with a generous field of spread starting at T2 and spreading to the right central region. It abates a bit when the patient is stimulated and awakens with eye opening and eye closure. A brief alerting produces a low voltage beta and theta pattern.
+	HR: 	96 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Low voltage, slow pattern.
+	2. 		Focal, low voltage delta in the right hemisphere, particularly central temporal with a generous field of spread.
+	3. 	Periodic sharp wave in the right hemisphere with a periodicity of approximately 1-2
+per second but without frequency evolution and with clear attenuation of the period sharp wave with alerting.
+CLINICAL CORRELATION:  This pattern is more supportive of a postictal and an ongoing inflow pattern in that stimulation of the patient produces an alerting response and a decrease in the periodic complexes.
+
+

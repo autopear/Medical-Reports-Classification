@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 45-year-old male with epilepsy secondary to alcohol abuse for the last eight years ago.  Incarcerated and quit drinking, now off Dilantin and Phenobarbital. 
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is low voltage with generous low voltage beta frequency activity and a posterior dominant rhythm of approximately 10.5 Hz, 15 V. Hyperventilation is performed early on in the record, which increases the amplitude of the background.  Following hyperventilation, the patient becomes drowsy with attenuation of the alpha rhythm and a more diffuse distribution of generous beta frequency activity.  Vertex waves and POSTS are seen in stage I sleep.  
+Photic stimulation produces a driving response at faster flash frequencies as identified with higher sensitivity recording.  
+HR:  90 BPM.
+	IMPRESSION: Normal, low voltage EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  In this clinical context, comparison with previous EEGs may be of use.  
+
+

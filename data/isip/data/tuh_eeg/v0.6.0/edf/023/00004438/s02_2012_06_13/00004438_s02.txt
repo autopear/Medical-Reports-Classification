@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  38 year old right handed male with epilepsy, admitted with confusional spell and seizure this morning.
+MEDICATIONS:  Versed, Ativan, Lamictal, Dilantin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is a bit sleepy.
+DESCRIPTION OF THE RECORD:  As the tracing opens, the background is slow with a theta frequency pattern.  The patient transitions in and out of stage II sleep.  There is a discreet frontal central low amplitude spike in the right frontal central region with some spread to the midline and a little bit of bifrontal representation.   
+Vertex, K-complexes, and spindles are noted in more sustained stage II sleep.  In sleep there is questionable dyshormia, with a question of a spike and slow wave complex in association with a vertex wave.  There is also a tiny, discreet left frontal spike.  The patient is stimulated for photic stimulation.  He is still drifting in and out of sleep.  In the 9 Hz photic stimulation there is a single spike and wave discharge identified.   
+HR:    60 bpm
+IMPRESSION:  This is a challenging, bedside emergency room record, but it is suggestive of a frontal spike and wave epileptiform pattern.
+CLINICAL CORRELATION:  Some discharges were symmetric, but some seem to be fragments.  A repeat study when patient is not postictal is advised.
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 70-year-old male with poor responsiveness in an individual with a left hemiparesis.
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Continuous video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is examined throughout the EEG and is found to be poorly responsive, but using the right side spontaneously and purposefully.
+DESCRIPTION OF THE RECORD: The background EEG is low voltage, relatively severely slow, with a periodic complex identified in the frontal regions bilaterally, but with a maximum in the right centrotemporal region.  The periodicity is approximately 0.75 to 1.5.  There is no clear build up of the epileptiform activity and the overall background is low voltage theta and delta in an overall relatively featureless background.  Stimulation of the patient produces an increase in theta frequency activity, but does not significantly change the periodicity of the activity.  At the close of the record, the epileptiform activity remains unchanged.  
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Continuous bilateral periodic activity, clearly represented bilaterally but more significant on the right than the left.  
+CLINICAL CORRELATION: **NOT DICTATED** where is second study from that day?
+
+

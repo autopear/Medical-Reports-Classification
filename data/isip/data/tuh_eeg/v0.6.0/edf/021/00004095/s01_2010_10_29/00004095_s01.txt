@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 27 year old right handed woman with refractory epilepsy, admitted after a cluster of focal and generalized seizures due to lack of medications. 
+MEDICATIONS: Dilantin, Glucosamine, Keppra, Albuterol, Folic Acid 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is awake. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG includes a generous amount of beta throughout with muscle artifact. As the patient transitions into sleep, vertex waves are noted followed by spontaneous arousals. The overall record is low voltage. In wakefulness, the background includes excess beta and excess theta. 
+HR: 84 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Excess beta. 
+2. Excess theta. 
+CLINICAL CORRELATION: Postictal state and this patient medications may explain the excess beta and theta, but no epileptiform features were observed. 
+
+

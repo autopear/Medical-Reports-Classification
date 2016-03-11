@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 70-year-old woman with syncope at this time, renal failure, history of seizures, stroke, and focal form of complex partial status epilepticus.
+MEDICATIONS: Dilantin, Trileptal(?), Epigen, others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates a posterior dominant rhythm of approximately 10 Hz, reaching amplitudes up to 100 V on the right, lower amplitude on the left.  There is posteriorly predominant shifting arrhythmic delta activity and there is a suggestion that the posterior dominant rhythm is disrupted in comparison to the right.  The patient is awake or drowsy and as she becomes drowsy, there is an increase in background theta.  Deeper stages of sleep are not sustained.  
+HR:  88 BPM.
+	IMPRESSION: Abnormal EEG for a subject of this age due to:
+Excess background theta 
+Posteriorly predominant delta.
+CLINICAL CORRELATION: In comparison to this patient’s previous EEGs, there is no evidence of status epilepticus.  There are no triphasic waves and there no periodic occipital sharp waves. The posteriorly predominant slowing has been seen in previous studies. 
+
+

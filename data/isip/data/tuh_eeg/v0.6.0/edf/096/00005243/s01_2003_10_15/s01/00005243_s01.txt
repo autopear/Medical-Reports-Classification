@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 3-year-old male child admitted after a motor vehicle accident, intubated, Ssubsequently, the patient was found to have worsening subarachnoid hemorrhage.
+MEDICATIONS: Dilantin, Fentanyl, antibiotics, Versed, and others.
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the Pediatric ICU using standard pediatric electrode placement with one channel of EKG. The patient is unresponsive during the record.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates generalized diffuse slowing superimposed with delta activity.  As the recording continues, a subtle, asymmetric EEG was noted with slowing more on the left side than the right.  During the recording, the child was stimulated at different intervals without reactivity.  By the close of the record, the asymmetric EEG became more symmetric.  No epileptiform discharges were identified.  
+HR: 150 BPM.
+IMPRESSION:  Abnormal EEG due to:
+Diffuse generalized slowing.
+Asymmetric EEG with initially left greater than right slowing. 
+CLINICAL CORRELATION: This tracing demonstrates a severe disturbance of cerebral function effecting both cortical gray and white matter.  .  The asymmetric findings in this patient may due to structural lesion in the brain or subarachnoid hemorrhage in this patient.  No epileptiform features were seen. 
+
+

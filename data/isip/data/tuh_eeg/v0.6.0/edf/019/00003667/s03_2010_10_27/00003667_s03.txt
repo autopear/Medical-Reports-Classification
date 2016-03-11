@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 48 year old woman with right MCA aneurysm status post subarachnoid hemorrhage, coil, craniotomy, and EVD, now without right cranium with an EVD on the left. The patient is currently postoperative day #16. Evaluate for potential seizure medication reduction. 
+MEDICATIONS: Dilantin, Keppra, Lovenox, Protonix, Nimotop, Nystatin, Gentamicin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient has a tracheostomy but is responsive. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a marked intrahemispheric asymmetry. The activity from the right hemisphere is markedly low-voltage and suppressed. The left hemisphere demonstrates a pattern sometimes rich in alpha frequency activity, and at times there is an 8.7 Hz alpha rhythm. Other sections of the record include more delta underlying the alpha frequency activity on the left. In the sections of the record when the patient is resting comfortably, there is a suggestion of an 8.3 Hz alpha rhythm on the right; however, this may represent volume conduction from the left. There are sections of the record with eye movement and other sections when the patient seems to be becoming drowsy with a prominent decrease in alpha frequency activity on the left. 
+HR: 110 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Marked suppression of faster frequency activity from the right
+2. Modest slowing from the left. 
+3. Intermittent delta from the left. 
+CLINICAL CORRELATION: In comparison to the 2 previous EEGs, there are no periodic sharp waves on the right. This patient had a past history of nystagmus which was not associated with epileptiform activity. She continues to have frequent eye movement artifact. This is not associated with epileptiform activity. The slowing on the left is less prominent than one might expect, given the degree of mass effect and herniation into the left.
+
+

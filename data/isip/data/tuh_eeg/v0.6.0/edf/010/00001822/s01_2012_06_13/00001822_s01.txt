@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  47 year old man who was found down intoxicated, noted to have bilateral subdural hemorrhage, intracerebral hemorrhages, recently had a tonic-clonic seizure.
+MEDICATIONS:  Lorazepam, Famotidine, Keppra.
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record reveals a diffusely slow background with a posterior dominant rhythm that at best reaches 7 Hz which appears to be somewhat reactive to eye opening.  There is a slight increase in the amount of central beta seen.  Some normal sleep architecture can be seen.  No activating procedures were performed.
+ABNORMAL DISCHARGES:  Focal slow waves seen continuously over the frontal and prefrontal region maximal at F4 and F3, however, also seen in FC continuously at 2-4 Hz with an amplitude of 20-70 microvolts and at times somewhat sharply contoured.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Bilateral frontal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction in the bilateral frontal region which is consistent with a known subdural and intracerebral hemorrhage.  No seizures or epileptiform activity were clearly seen.
+
+

@@ -1,0 +1,15 @@
+‘CLINICAL HISTORY:  72 year old right handed female with episode of driving with loss of memory, afterward was found in an accident.
+MEDICATIONS:  Synthroid, Aspirin, Nasonex.
+REASON FOR STUDY:  Episode of unconsciousness.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with addition of EKG and anterior temporal electrodes.  The recording was done during wakefulness and sleep.  Photic stimulation was performed.
+TECHNICAL DIFFICULTY:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9 Hz which is reactive to eye opening.  Normal frontocentral beta was seen.  Sleep is seen, stage I and stage II.  Photic stimulation produces no abnormal discharges.   
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen at T1/F7, occasionally, as well as a single F8/T2 sharp wave.
+Focal slow waves seen in the anterior temporal regions bilaterally at 2 to 4 Hz, also occasionally.  At one point in the left anterior temporal region there is a monomorphic discharge of delta for 2 to 3 seconds.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Focal sharp waves in the bilateral anterior temporal regions with associated slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of acute structural irritability in the bilateral anterior temporal regions, which has a high correlation with seizures arising from that region.  In addition, there is evidence of focal cerebral dysfunction in the bilateral anterior temporal regions, which is nonspecific in regard to etiology.  No seizures were seen.  
+
+

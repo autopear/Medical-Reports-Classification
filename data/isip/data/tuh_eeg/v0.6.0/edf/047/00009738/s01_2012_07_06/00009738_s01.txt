@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  A 51-year-old man with a history of CHF, hypertension, multiple CVAs, one mainly in the left posterior MCA territory who presents with generalized tonic-clonic seizure and a previous episode 6 weeks ago after he stopped taking his Xanax, he had fell and hit his head.
+		
+MEDICATIONS:  Trileptal, hydralazine, heparin, Xanax, Protonix, aspirin, isosorbide, and Celexa.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with anterior temporal and single lead EKG electrodes.  The patient was recorded while awake and drowsy.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz that can be seen best over the right hemisphere, however, at times can be seen over the left.  There is some frontocentral beta which is absent over the left hemisphere.  The patient is recorded in wakefulness and drowsiness.  Activating procedures were not performed.
+ABNORMAL DISCHARGES:  Focal slow waves seen over the left hemisphere, maximal at T3 at a frequency of 2-4 Hz and an amplitude of 20-40 microvolts seen continuously throughout the recording and with an associated loss of faster frequencies.  At times at the end of the recording there were very sharply contoured theta discharges, not clearly epileptic.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to left hemisphere focal slowing, maximal in the mid temporal region at times with sharply contoured components.
+CLINICAL CORRELATION:  This EEG reveals evidence of structural cerebral dysfunction in the left hemisphere, maximal in the mid temporal region, which is consistent with the known stroke.  No seizures were seen.
+
+

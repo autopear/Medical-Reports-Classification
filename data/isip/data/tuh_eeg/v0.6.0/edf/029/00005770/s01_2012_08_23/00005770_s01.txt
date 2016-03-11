@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 57 year old man with a history of hypertension and epilepsy, the last one occurring yesterday.
+MEDICATIONS:  Keppra, Hydrochlorothiazide.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with anterior temporal and since lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 8.5 Hz which is reactive to eye opening.  There is no normal frontal central beta.  Activating procedures including hyperventilation and photic stimulation produce no abnormal discharges.  The patient was recorded in wakefulness and drowsiness.
+ABNORMAL DISCHARGES:  Focal slow waves seen at F7/D3 and at times T3 occasionally at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts.
+SEIZURES:  During the EEG recording, the patient reports feeling his normal aura of smell of ammonia.  During that time, the EEG remained unremarkable with no changes.
+IMPRESSION:  Abnormal EEG due to: 
+Left anterior temporal and mid temporal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left anterior temporal and mid temporal regions, which is nonspecific in regards to etiology.  The episode of where the patient report smelling “ammonia” that was captured, had no EEG correlate.  As such, it may represent simple partial seizure which up to 75% of the time has no EEG correlate.  No clear seizures or epileptiform discharges were seen.
+
+

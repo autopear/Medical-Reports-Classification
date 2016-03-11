@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 12-year-old male with breakthrough seizures, non-compliant with medications.  Dilantin level 12.9.  Epilepsy since 14 months.
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10 Hz posterior dominant rhythm reaching amplitudes of 70 to 100 V. In wakefulness, somewhat accentuated in drowsiness, there is a subtle focus of irregular theta from the right mid-to-posterior temporal region.  Rare, right temporal sharp waves are identified.  Hyperventilation is performed early on in the record producing bursts of rhythmic, initially frontally predominant as well as occipitally predominant slowing.  After this, the child becomes drowsy.  These subtle focal features can also be identified in drowsiness.  Vertex waves are seen in stage I sleep.  K complexes, spindles, and POSTS are seen in stage II sleep.  
+Photic simulation elicits minimal bilateral driving. 
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG for a child of this age due to:
+Subtle, right temporal focal slowing.
+Rare, right temporal sharp waves. 
+CLINICAL CORRELATION: This tracing supports a partial mechanism for epilepsy. Correlation with this child’s previous EEGs may be of use.  No previous EEGs were available for comparison. 
+
+

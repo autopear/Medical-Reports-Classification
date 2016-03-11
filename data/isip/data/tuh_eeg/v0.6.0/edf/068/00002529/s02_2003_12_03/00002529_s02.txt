@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is a 47-year-old woman with recurrent seizures, refractory epilepsy. 
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed.  There are no clinical events reported during this portion of the record.   This section of the 24-hour EEG ends at 9:34 on the 28th
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a normal awake pattern.  No epileptiform features were seen in this limited section of the recording. 
+Long-Term Monitoring, 10/27/03 to 10/28/03
+CLINICAL HISTORY: This is a 47-year-old woman with recurrent seizures, refractory epilepsy. 
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the Long-Term Monitoring Unit.  There are no clinical events. There is a patient push button at 16:19 without clinical signs.  Another patient push button at 9:15, which is performed by the nurse.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized.  In sleep, however, there are high amplitude, rare left anterior spike and wave discharges.  These are nearly continuous in stage II sleep. There are portions of the record with subtle focal slowing in drowsiness. 
+HR:  70 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Focal slowing with rare left anterior temporal spike and slow wave activity, which is abundant in stage II sleep. 
+CLINICAL CORRELATION: This tracing supports a partial mechanism for epilepsy.  There is a striking difference in terms of an abundance of epileptiform activity in wakefulness versus sleep.  If further characterization of this patient’s epilepsy is important, a repeat tracing recording seizures could be helpful.
+
+

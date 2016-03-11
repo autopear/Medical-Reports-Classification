@@ -1,0 +1,12 @@
+HISTORY:  32 year old male status post gunshot wound to head, left frontal fracture, hematoma, history of cerebral herniation, thrombocytopenia.
+MEDICATIONS: Dilantin, Vancomycin,  Cefepime,  Flagyl, Morphine, Theragran MVI, Tylenol, Zofran, Lopressor
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. This is an awake and drowsy record.
+DESCRIPTION OF  THE RECORD:  With the patient resting comfortably, the background EEG is very slow with the suggestion of a breech rhythm on the left with some faster frequency activity on the left.  Intermittently in  the record, in this individual with a craniotomy, head rocking artifact is observed.   In some portions of the record there is disruption of the faster frequency activity on the left relative to the right, particularly when the patient alerts and in the alert main state, there is an increase in alpha and theta frequency activity.
+	HR: 	108 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Generalized slowing.
+	2. 		Intermittent focal slowing on the left characterized by disruption of faster frequency activity.
+	3. 	Breech rhythm with intermittent accentuation of fast activity on the left.
+	CLINICAL  CORRELATION: No epileptiform features were observed in this record. These findings are congruent with the clinical history.
+
+

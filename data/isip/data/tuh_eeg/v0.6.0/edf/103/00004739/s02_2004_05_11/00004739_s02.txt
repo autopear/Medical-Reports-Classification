@@ -1,0 +1,8 @@
+CLINICAL HISTORY: This is a 67-year-old woman with heart failure, a prosthetic valve, hepatic failure, acute left subdural hematoma with hemiparesis, confusion, aphasia, and coagulopathy. 
+MEDICATIONS: Dilantin, Digitek, and Zofran.  
+INTRODUCTION: Continuous video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient has involuntary movements of the left arm, which occur intermittently. 
+DESCRIPTION OF THE RECORD: The EEG is a continuous pattern of delta with periodic sharp waves or PLEDS from the frontal regions, left greater than right.  The periodicity is one to three per second, waxing and waning, but never really starts and stops.  There are no notes in this section of the record regarding medications. By 9:35 AM on the 23rd, the activity is slowing a bit.  In addition, at that time, there is a bit more theta instead of delta, but the periodic activity is persistent throughout, sometimes demonstrating variability.  There are also triphasic waves and occasional attenuation identified at the close of the record.  
+HR:  100 BPM.
+	IMPRESSION/CLINICAL CORRELATION: This tracing is supportive of an ongoing epileptiform disorder with periodic activity.  The involuntary movements on the left do not correlate with the EEG but they may still represent seizures, with the EEG simply missing the change in cortical activity that produces the hand movement. 
+
+

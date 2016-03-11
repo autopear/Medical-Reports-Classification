@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 43-year-old gentleman status-post subarachnoid hemorrhage and subdural hemorrhage evacuation, left MCA and ACA AVM.  No additional history provided. 
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is trached and could not follow commands.  However, on occasion, he spontaneously moved his limbs. The recording started on 7/7/03 at 08:44:47 and ended on 7/8/03 at 15:29:24.
+DESCRIPTION OF THE RECORD: The background EEG is poorly organized with generalized slowing including delta and small amounts of theta.  There is a breech rhythm on the left.  No epileptiform activity was identified during this portion of the record. Low voltage beta activity was identified, increased compared to 7/6. 
+HR:  102 BPM.
+IMPRESSION: Abnormal  2 day Video EEG to due:
+Background disorganization.
+Generalized slowing. 
+CLINICAL CORRELATION: In comparison to previous EEG’s  the eye movements produced less artifact in the EEG.  Like the other EEG tracings, no epileptiform activity was seen with these movements. The increased amount of beta activity may be due to the medication such as Ativan.  No epileptiform discharges were identified during this tracing.
+
+

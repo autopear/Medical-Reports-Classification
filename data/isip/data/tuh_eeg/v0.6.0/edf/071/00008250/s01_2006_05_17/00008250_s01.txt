@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 45-year-old, right-handed woman with right arm and bilateral leg weakness in the context of alcohol and cocaine abuse. 
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record with photic stimulation.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8 to 10 Hz posterior dominant rhythm of 30 to 50 uV.  In wakefulness, there is shifting arrhythmic delta activity, sometimes more prominent on the left and sometimes more prominent on the right.  There are sections of the record with much more sustained focal slowing from the left in comparison to the right. Drowsiness is characterized by an increase in rhythmicity.  Photic stimulation does not clearly activate the record. 
+HR:  56 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Background slowing and disorganization with prominent shifting slowing.
+Superimposed intermittent rhythmic focal slowing from the left.  
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  Consideration for a bihemispheric process involving both gray and white matter, more significant on the left, is appropriate. 
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 38-year-old male with a history of epilepsy and status epilepticus recently, now with change in mental status, hallucinations, and behavioral changes.  Past medical history includes hypothyroidism and left craniotomy.  
+MEDICATIONS: Levothyroxin, Dilantin, Lamictal. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is non-verbal and has difficulty cooperating and following commands.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is remarkable for a great deal of muscle and movement artifact.  There is a discernable 9 Hz alpha rhythm seen bilaterally.  There is rhythmic theta identified from the left hemisphere.  Hyperventilation is performed with poor effort and does not activate the record.  Drowsiness is not achieved.   Photic stimulation elicits questionable driving. 
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Rhythmic slowing on the left. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  If characterization of this patient’s epilepsy is important, a repeat study when the patient is more cooperative is recommended.  The activity from the right hemisphere appears relatively normal. 
+
+

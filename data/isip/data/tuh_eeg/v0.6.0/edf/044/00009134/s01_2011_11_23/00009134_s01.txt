@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  45 year old woman with intracranial hemorrhage, collapse at home, found to have a cardiac arrest for about 10 minutes.
+MEDICATIONS:  None reported.
+REASON FOR EEG:  Status post code with change in mental status.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with anterior temporal and additional single lead EKG electrode.  No activating procedures were performed and no sleep was recorded.  The patient was unresponsive at the time of the EEG.
+TECHNICAL DIFFICULTIES:  Mild F4 and T4 electrode artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely suppressed EEG with no clear posterior dominant rhythm or frontal central beta.  There is overriding electrocardiac effect affecting the whole EEG.  No abnormal frequencies are seen or cerebral activity seen.   
+ABNORMAL DISCHARGES:  
+Diffuse suppression.  
+No clear electrocerebral activity seen. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Diffuse suppression and lack of normal cerebral frequencies.
+CLINICAL CORRELATION:  This EEG reveals no clear evidence of electrocerebral activity which is consistent with diffuse cortical injury and the history of cardiac arrest.  No clear conclusions can be made about electrocerebral silence as this study was not performed using brain death protocol and ICU electric artifact may interfere with the recording.  No seizures were seen.
+
+

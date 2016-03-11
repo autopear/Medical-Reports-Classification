@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 49-year-old male with seizures, alcohol abuse, hypertension, cardiomyopathy, cirrhosis and hemiparesis.  Dilantin level is zero.
+MEDICATIONS: Dilantin, Ativan, and thiamin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed.  The patient is described as restless and frequently moving. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a posterior dominant rhythm of approximately 10 Hz, 30 to 50 V and a modest amount of low voltage, frontocentral beta activity.  The patient is noted to be restless throughout. Brief drowsiness is characterized by an increase in background beta. 
+HR:  118 BPM.
+	IMPRESSION: EEG within normal limits in wakefulness and drowsiness. 
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  If characterization of this patient’s epileptiform activity is important, a follow-up study capturing deeper stages of sleep may be of use.   
+
+

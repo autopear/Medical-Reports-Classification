@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is an 81-year-old gentleman with new onset seizures, intubated in the field, history of alcohol abuse. 
+MEDICATIONS: Dilantin, Ativan, insulin, Erythromycin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. The initial portions of the record have significant muscle and movement artifact.
+DESCRIPTION OF THE RECORD: The overall background in the patient is low voltage, mixed frequency pattern with generous low voltage beta activity, diffuse 5 to 8 Hz activity, as well as some underlying delta activity.  In the portions of the record when the patient becomes drowsy, the muscle drops out and there is slower delta on the right compared to the left.  At the close of the record, again when the patient is a bit more cooperative, there is a subtle beta asymmetry with perhaps slightly less beta activity on the right compared to the left.  Stimulation of the patient produces an alerting response followed by a burst of delta.  
+HR:  96 BPM, irregular.
+	IMPRESSION: Abnormal EEG for a subject of this age due to:
+Generalized background slowing.
+Shifting asymmetries but with a suggestion of more delta and less beta on the right compared to the left.
+CLINICAL CORRELATION: These features are non-specific and may carry an intermediate correlation with a structural or functional abnormality on the right.  In this individual with recent status epilepticus, there is no epileptiform activity.  If further characterization of this patient’s seizure disorder is required, a repeat tracing after he leaves the ICU may be of use. 
+
+

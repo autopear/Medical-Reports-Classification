@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 48 year old right handed male with epilepsy, seizure-free for 1 year. 
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient attempts to posture and turns toward his right during the EEG. Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: Despite a fair amount of muscle artifact, there is an 8 Hz alpha rhythm identified with a small amount of low voltage frontocentral beta activity. Drowsiness is characterized by an increase in beta. Hyperventilation does not activate the record. Photic stimulation does not activate the record. 
+HR: 60 bpm 
+IMPRESSION: This EEG is remarkable for: 
+1. Excess beta. 
+2. Excess theta. 
+CLINICAL CORRELATION: There are no epileptiform features noted but the absence of epileptiform activity does not excluded a diagnosis of epilepsy. 
+
+

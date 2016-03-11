@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 50-year-old male with epilepsy, HIV, renal failure admitted with an episode of lip smacking followed by a convulsion. 
+MEDICATIONS: Norvasc, Methadone, and others.  Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is medium-to-high amplitude, sharply contoured, and disorganized.  There is a mixture of rhythmic theta with occasional bursts of intermittent, rhythmic, frontally predominant delta.  There is also some shifting arrhythmic delta.  In this very sharply contoured background, there is a suggestion of a C4 sharp wave. In sleep, there is an increase in rhythmic background slowing and in wakefulness, there is intermittent improvement in the background with a lower voltage, more organized theta frequency pattern.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Marked disorganization with rhythmic theta and FIRDA.
+Sharply contoured, in the context of a sharply contoured background, probable right central sharp waves. 
+CLINICAL CORRELATION: There are prominent features of a toxic or metabolic encephalopathy in this record.  The suggestion of a C4 sharp wave would support a partial mechanism for epilepsy.
+
+

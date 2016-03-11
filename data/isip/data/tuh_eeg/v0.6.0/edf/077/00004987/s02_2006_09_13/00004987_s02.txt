@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 43-year-old male with recurrent seizures, last seizure three weeks ago with loss of consciousness with generalized tonic-clonic activity for one to two minutes.  History of skull fracture associated with subdural hematoma following an MVA in 2002 and alcohol abuse. 
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric, continuous, but mildly disorganized.  There is a 12 Hz, 10 to 15 V posterior dominant alpha rhythm, which is attenuated with eyes opened. There is a generous amount of low voltage, frontocentral beta activity.  Hyperventilation was performed with good effort, producing an increase in the slow activity of theta in the frontal region.  Post-hyperventilation, the activity returns to baseline within two minutes. Sleep is not achieved in this tracing.  Photic stimulation elicits driving, but no abnormal responses.  
+HR:  60 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+	Mildly disorganized background.
+	Excessive beta activity seen throughout the record.
+CLINICAL CORRELATION: The above findings are non-specific.  The increased beta activity may be due to medication or long-term alcohol use.  Clinical correlation is recommended.  If epilepsy is a clinical concern, a repeat EEG may be helpful.
+
+

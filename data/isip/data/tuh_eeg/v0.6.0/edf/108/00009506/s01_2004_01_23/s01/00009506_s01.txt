@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 49-year-old male with HIV and epilepsy status-post a gun shot wound to the head, now admitted with diarrhea.  
+MEDICATIONS: Dilantin and others.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  The patient is awake or drowsy and is noted to have a craniotomy scar in the left posterior quadrant.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is diffusely slow with primarily a 4 to 5 Hz theta frequency pattern.  As the patient drifts off to sleep, a breach rhythm is identified with higher amplitude activity with a mixture of theta and delta, at times somewhat sharply contoured in the left frontocentral region.  Features of stage I sleep include symmetric vertex waves.  
+Photic stimulation elicits a minimal driving response including at 9 Hz.  Of note, around the time of photic stimulation, there are occasional sharp waves seen in the setting of a breach rhythm at C3.
+HR:  78 BPM, occasionally irregular.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Sharp waves seen at C3.
+Asymmetric driving, augmented on the left. 
+CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function as well as a structural or functional abnormality and a partial mechanism for this patient’s epilepsy.  The focal features and the epileptiform activity are in the region of his previous craniotomy.  
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 48 year old male with a 26 year history of HIV disease, stroke many years ago, refractory complex partial epilepsy. 
+MEDICATION: Keppra, Dilantin, Lacosamide, ASA, Truvada, Kaletra, Valacyclovir, Raltegravir, Famotidine, Megestrol, Diovan, Lovenox 
+INTRODUCTION: Digital video EEG was performed in tab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is confused. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an interhemispheric asymmetry. There is an 11 Hz alpha rhythm on the right. The right hemisphere demonstrates generous beta, a small amount of disorganization, and excess theta. The left hemisphere includes a great deal of muscle and motion artifact, but includes nearly continuous arrhythmic delta activity with sharp waves mixed in. In addition to the sharp waves, there are features that suggest that this is an ongoing, ictal pattern, and that the activity in the left mid temporal region waxes and wanes. Features of drowsiness include an increase in beta frequency activity. The record has ongoing sharp waves and rhythmic mixed theta delta, but not the same frequency evolution as when the patient started to become sleepy. He is awakened for photic stimulation. Again, there is a bit more rhythmic theta and the sharp waves. No definitive photic driving is noted. 
+HR: 150 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Nearly continuous, rhythmic sharp waves, rhythmic theta from the left anterior temporal region. 
+2. Focal slowing from the left anterior temporal region. 
+3. Excess beta from the right. 
+4. Mildly disorganized on the right 
+CLINICAL CORRELATION: This EEG supports a highly epileptogenic focus. Additional evaluation to make sure that this is an ongoing ictal pattern is suggested. 
+
+

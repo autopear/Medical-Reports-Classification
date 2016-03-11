@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 57-year-old male with stomach cancer on chemotherapy presenting with a seizure manifest by left head turning, left eye deviation, and bilateral shaking for half a minute. 
+MEDICATIONS: Dilantin and Tylenol.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: There is a 7 to 8 Hz alpha rhythm seen.  The patient appears to be unwell throughout the record.  There is shifting arrhythmic delta seen bilaterally, synchronous or asynchronous in either hemisphere.  There is also excess background theta.  As the patient becomes drowsy, there is some FIRDA.   Photic stimulation does not activate the record. 
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Excess background theta. 
+	Shifting arrhythmic delta seen in either hemisphere. 
+	FIRDA seen in drowsiness. 
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function.  The slowing of the posterior dominant rhythm supports a cortical process.  The shifting arrhythmic delta activity supports a process involving white matter.  A toxic or metabolic encephalopathy can also contribute to the pattern described above. 
+
+

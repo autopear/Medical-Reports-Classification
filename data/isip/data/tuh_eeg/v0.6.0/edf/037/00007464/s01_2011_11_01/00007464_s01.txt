@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  66 year old right handed female with history of high cholesterol and Parkinson's, who presents with TIA and change in mental status with incoherent speech for 3 days.
+MEDICATIONS:  Senna, Simvastatin, ASA, Acetaminophen, Sertraline, Midamor.
+REASON FOR EEG:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with anterior temporal electrodes and EKG electrodes.  Sleep stage I was recorded.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow EEG in the delta theta frequencies with a posterior dominant rhythm that, at best, reaches 7 Hz with an amplitude of 20-60 mV.  There is some frontal central beta seen. Sleep is characterized by stage I.  Photic stimulation reveals no abnormal discharges. 
+TECHNICAL DIFFICULTY:  None.
+ABNORMAL DISCHARGES:  Generalized slow waves at 5-7 Hz and 20-60 mV in amplitude during wakefulness.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves.
+CLINICAL CORRELATION:  This EEG is consistent with diffuse cerebral dysfunction which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

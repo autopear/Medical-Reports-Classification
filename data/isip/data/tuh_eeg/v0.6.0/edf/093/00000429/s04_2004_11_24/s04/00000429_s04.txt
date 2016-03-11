@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 47-year-old male with a history of longstanding refractory epilepsy who developed encephalitis of the right hemisphere in 2003 with residual left-sided hemiparesis.  History of a craniotomy on the right, ?subdural hematoma. Patient’s last seizure was about one week ago with seizures occurring one to two times per weeks, generalized tonic-clonic.  
+MEDICATIONS: Tegretol, Dilantin, Baclofen, and others.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is an 8.5 Hz, 25 to 30 uV posterior dominant rhythm clearly evident over the left hemisphere, which also has more beta activity than the right hemisphere, which seems to be attenuated compared to the left side.  There is intermittent frontotemporal delta on the left and intermittent spike wave discharges with a field of spread to T3-T5 and F7 without generalization.
+Photic stimulation elicits a unilateral driving response on the left hemisphere only.  
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Intrahemispheric asymmetry with attenuation of the background rhythm over the right hemisphere.
+Intermittent left frontotemporal delta.
+Intermittent left anterior temporal spike wave discharges.  
+CLINICAL CORRELATION: This tracing supports a partial mechanism for epilepsy with left anterior temporal focal discharges, as well as a diffuse process involving the right hemisphere, which is attenuated and can be correlated with a history of previous encephalitis of the right hemisphere.  However, a fluid collection such as subdural hematoma may be considered.
+
+

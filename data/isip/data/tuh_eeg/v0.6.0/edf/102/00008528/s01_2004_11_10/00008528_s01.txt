@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 55-year-old female heroin  abuser found to have a large right temporal contusion with a hemorrhage and swelling causing subfalcine herniation with a ventriculostomy shunt on the right.  Status-post right craniotomy.  Evaluate for  seizures. 
+MEDICATIONS: Dilantin, Morphine, and Methadone.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and lethargic.   
+DESCRIPTION OF THE RECORD: The primary background rhythm is in the theta range with attenuation in the right hemisphere.  There is beta frequency on the left hemisphere with spindle activity over the central region.  There is intrahemispheric asymmetry with right hemispheric attenuation and primarily beta from the left side.  Stimulation of the patient increases the beta activity.  No epileptiform activity is seen.  
+HR:  102 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Intrahemispheric asymmetry with right hemispheric attenuation and slow theta frequency activity. 
+Generalized slowing.
+CLINICAL CORRELATION: No epileptiform activity was seen.  The right hemispheric attenuation could be explained by an underlying subdural hematoma The lack of epileptiform activity does not rule out intermittent seizures.
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 41-year-old woman with a history of Grave’s disease, fibroids, hepatitis B, and a strong family history of epilepsy.  The patient experienced new onset seizures, tonic-clonic seizures out of sleep in the context of cocaine ingestion. 
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is a mainly drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is reasonably well organized with an 8.5 to 9 Hz posterior dominant rhythm.  The patient is drowsy throughout much of the record with slow rolling eye movements.  There is a subtle asymmetry with left temporal focal slowing, which is at times sharply contoured.   In addition, there is some accentuation of beta activity on the left compared to the right.  Vertex waves were seen in stage I sleep.  The patient is quite drowsy, making the transition to and from sleep rapidly with occasional bursts of frontal delta.  POSTS are seen in stage I sleep.  Hyperventilation does not significantly activate the record, nor does photic stimulation. 
+HR:  72BPM.
+	IMPRESSION: Abnormal EEG for an adult of this age due to:
+	Focal slowing from the left temporal region, at times somewhat sharply contoured.
+	Accentuation of beta activity in this region. 
+CLINICAL CORRELATION: These findings may be correlated with imaging.  No definite sharp waves or spikes were seen.  
+
+

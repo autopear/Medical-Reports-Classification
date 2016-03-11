@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 53-year-old woman with epilepsy and alcohol abuse, recurrent hospitalizations for medication nonadherence and exacerbation of her epilepsy.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient was awake and drowsy.  She had a great deal of muscle and movement artifact, and was poorly cooperative.
+		
+DESCRIPTION OF THE RECORD:  It was a challenging EEG.  There is intra hemispheric asymmetry.  There is prominent disruption of faster frequency activity in the right hemisphere with a periodic complex in the right hemisphere with variability, typically right occipital, but sometimes maximum T6 or P4.  No clinical seizures were observed, but the periodic activity waxes and wanes and, in fact, when the patient is a bit more active with muscle artifact there is clearly more theta in the right hemisphere.  The left hemisphere is also slow with excess theta.  Volume conduction of the epileptiform activity was noted on the left. 
+The patient's chewing muscles were not associated with epileptiform activity, but they were associated with an arousal. 
+Heart rate 96 beats per minute.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Prominent arrhythmic delta activity in the right hemisphere, particularly as the patient drifts off to sleep.
+Periodic complexes in the right occipital temporal region with some variability and with generous field of spread.
+Slowing on the left.
+CLINICAL CORRELATION:  This tracing is similar to this patient's previous EEGs.  Of note, it is not as slow as the previous EEG monitoring session last month. Overall, this EEG supports a highly epileptogenic focus in the right hemisphere.
+
+

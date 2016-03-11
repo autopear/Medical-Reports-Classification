@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  55 year old male with abrupt onset of a left facial droop, left arm shaking, and 2 complex partial seizures.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake through Stage II sleep record.
+DESCRIPTION OF THE RECORD:  This EEG is remarkable for a relatively slow background with a mixture of theta and delta.  In addition, there is a discreet sharp wave in the right center parietal region which varies in its field sometimes with a frontocentral maximum, others central and others a bit more parietal.  It is associated with focal slowing.  Most of the focal slowing is in the theta frequency.  Using an average reference, it is typically right central, C4 maximum. Much of the record includes Stage I and Stage II sleep, but spontaneous arousals are noted with the reappearance of an alpha rhythm.  When unstimulated the patient goes back to Stage II sleep. 
+HR:    100 bpm
+IMPRESSION:  Abnormal EEG due to:
+Right central discreet sharp wave relatively frequent, but not evolving. 
+Right focal slowing. 
+Generalized background slowing.
+CLINICAL CORRELATION:  This EEG supports a focal mechanism for seizures.
+
+

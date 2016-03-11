@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Twitching of the mouth, rule out seizures.
+CLINICAL HISTORY:  A 42-year-old man with mental retardation presents with complaints of mouth twitching and confusion.
+MEDICATIONS:  Citalopram, __________.
+INTRODUCTION:  A routine EEG was performed using a standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  Some prefrontal electrode artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures produced no abnormal discharges.  The patient is recorded in wakefulness and drowsiness.
+ABNORMAL DISCHARGES:  None.
+EVENTS:  During the recording the patient has 1 episode of mouth twitching which has a myogenic correlate, but no epileptiform EEG correlate during it.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures were captured.  The episode of mouth twitching had no EEG correlate.  As such, it mayrepresent a nonepileptic event or alternatively may represent a simple partial epileptic event which in up to 75% of the cases does not have an EEG correlate.
+
+

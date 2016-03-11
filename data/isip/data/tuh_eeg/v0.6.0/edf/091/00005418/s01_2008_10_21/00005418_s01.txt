@@ -1,0 +1,12 @@
+CLINICAL HISTORY:   85 year old female with dementia, hypertension, congestive heart failure, and hypothyroidism found on floor incoherent. In ER, she had general tonoclonic seizure.
+MEDICATIONS:  Dilantin, Aricept, Ativan, Dilantin
+INTRODUCTION: Digital video EEG was performed at the bedside using the standard
+10-20 electrode placement with 1 channel of EKG. Routine baseline EEG. Photic stimulation and hyperventilation were not performed.
+DESCRIPTION OF THE RECORD:  Disorganized slow background  was seen with theta seen bilaterally. At the beginning, an alpha rhythm was poorly appreciated even though the patient is awake. As the record continues, left mid and posterior temporal spike waves after going slow wave was seen. This was consistent in the T1, T3, and T5 regions. Independently,  there were occasional right temporal spike waves also seen. These spikes were more consistently  seen on the left. As the record continues, the patient enters deeper stages of sleep, and stage II sleep was seen with vertex waves and spindles, as the background continues, faster background activity was seen as the patient seems to be a bit more awake.
+	HR: 	60 bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+	1. 	Slow background while the patient is awake.
+	2. 	Independent left greater than right spike waves.
+CLINICAL CORRELATION:  Regular independent epileptiform activity was seen on this record. Due to these findings, long term monitoring was started.
+
+

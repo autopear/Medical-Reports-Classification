@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 59-year-old male with renal failure on dialysis admitted with syncope versus seizures.
+MEDICATIONS: Dilantin, Heparin, Vasotec, and others. 
+INTRODUCTION: Digital video EEG is performed in the or at the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized, but modestly slow with a 7.5 Hz posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Stage I sleep is characterized by an increase in background beta activity followed by vertex waves.  Vertex waves and spindles are seen in stage II sleep. 
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Mild background slowing.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The features described above are non-specific and may be seen in a diffuse disorder of cerebral function including renal failure.  They may also be seen in a postictal state. 
+
+

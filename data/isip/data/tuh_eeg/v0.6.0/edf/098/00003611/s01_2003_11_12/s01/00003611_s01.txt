@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 71-year-old male with change in mental status, left-sided weakness, right parietal bleed, diabetes, renal insufficiency, atrial fibrillation, and a four minute convulsion on November 3.
+MEDICATIONS: Aspirin, Plavix, insulin, Neurontin, Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates modest slowing from the left with a 6 to 8 Hz background on the left and a posterior dominant rhythm which is disrupted on the right.  The right hemisphere is somewhat attenuated with lower amplitude on the right compared to the left, occasional slowing in the right occipital parietal region.  There are occasional vertex waves in sleep.  As the sleep recording continues, there is a more clearly defined triangular shaped wave form, which is maximum in the right parietal region and ranges from approximately 220 milliseconds to 330 milliseconds.  It is typically seen two times in a ten second period while the patient is drowsy.  Other features of drowsiness include snore artifact.  
+HR:  Varies from 56 to 72 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:
+Interhemispheric asymmetry with relative attenuation from the right hemisphere.
+Sharply contoured slowing, which has almost a slow periodic nature occurring approximately twice per ten seconds in sleep. 
+CLINICAL CORRELATION: This tracing supports a structural abnormality on the right, and the triangular shaped wave forms likely represent a partial mechanism for this patient’s seizures. 
+
+

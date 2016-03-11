@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  Unknown male with witnessed seizures.  He was given Dilantin and Ativan.
+MEDICATIONS:  Ativan, Dilantin.
+REASON FOR STUDY:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional EKG and anterior temporal electrodes.  The EEG was recorded during wakefulness.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  Some increased movement artifact seen throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a mildly excessive slow recording with a posterior dominant rhythm that best reaches 8 Hz with 20-60 mV amplitude, which is reactive to eye opening.  There is an increased amount of beta throughout diffusely seen in the record.  No sleep is seen during the recording.  No activating procedures are seen.   
+ABNORMAL DISCHARGES:  Mild diffuse slow waves at 5-7 Hz seen continuously in wakefulness. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:  
+Excessive theta in wakefulness.
+CLINICAL CORRELATION:  This EEG is consistent with mild diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

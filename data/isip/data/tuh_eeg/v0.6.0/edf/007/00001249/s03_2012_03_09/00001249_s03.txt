@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  43 year old right handed female with asthma, bipolar, and history of seizures, that presents with rapidly progressing dementia, now with spontaneous jerks of the upper extremities.
+MEDICATIONS:  Lisinopril, Haldol, Lorazepam, Lovenox
+REASON FOR STUDY:  Myoclonus and rapidly progressive dementia, concern for seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrodes.  The patient was recorded while lethargic and confused.  Photic stimulation was performed and no hyperventilation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record to opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 8 Hz, which is not seen consistently throughout the recording.  There is faster frequencies intermixed into a diffusely slow background of 2-4 Hz, that at times appears to be periodic in nature with frontally sharply contoured waves occurring at 2 Hz, which at times becomes more and more rhythmic.  In between this there is episodes of jerking with associated EMG artifact or muscle artifact in the EMG and only one appears to have a preceding anterior predominant sharp wave.  At times there is intermittent also anterior sharp waves.  No normal sleep is seen. Photic stimulation produces no abnormal discharges.   
+ABNORMAL DISCHARGES:   As above. 
+SEIZURES:   None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slowing. 
+Periodic frontally dominant slowing intermixed with faster frequencies. 
+Frontal sharp waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of a diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  However, the almost or pseudoperiodic pattern of the slowing, in addition to some jerks in clinical myoclonus could be consistent with a rapidly evolving neurogenic disease, like Creutzfeldt-Jakob.  Other causes cannot be excluded as the background at times appears to be faster and less suppressed than what would be expected in a late stage progressive dementia, like Creutzfeldt-Jakob.  Clinical correlation is recommended.
+
+

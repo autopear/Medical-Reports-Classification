@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 4-year-old male born as a 24-week preemie with intraventricular hemorrhage, multiple shunt problems, seizures described as jaw shaking and then right-hand involvement. 
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake record in a child who is moving about.  
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal.  There is a prominent interhemispheric asymmetry with higher amplitude, more rhythmic delta activity from the left particularly from the frontal regions.  There is no well-defined posterior dominant rhythm and the right hemisphere demonstrates slower frequency activity with a mixture of theta and delta.  Occasional sharp waves are identified in the right posterior quadrant at T6, O2, and P4.  Some of these are polyphasic in nature and may appear in brief trains.  With use of a CZ montage, the delta is quite prominent throughout the left hemisphere and a bit more arrhythmic in the posterior quadrant.  
+HR:  110 BPM.
+	IMPRESSION: Abnormal EEG for a child of this age due to:
+Marked interhemispheric asymmetry with more slowing from the left hemisphere than the right. 
+Sharp waves seen primarily from the right occipital region. 
+Frontally predominant delta, left greater than right.
+CLINICAL CORRELATION: These features are similar to previous studies, although the epileptiform activity is better defined in this record.  There have been no significant maturational changes compared to a previous study in March 2003.
+
+

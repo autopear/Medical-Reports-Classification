@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 58-year-old, right-handed male with schizophrenia, alcohol, cocaine, and heroin abuse, and HIV found confused on 7/16/04. 
+MEDICATIONS: Dilantin, codeine, nicotine, and Risperdal. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with a 10 Hz, 40 to 50 uV posterior dominant rhythm.  The patient seems to be somewhat drowsy and when not stimulated drifts quickly off to sleep, with low voltage delta and theta seen in the background. Vertex waves, K complexes, and spindles are seen in brief stage II sleep, and more sustained sleep is characterized by arousals from sleep.  Hyperventilation is performed early on in the record producing an increase in the amplitude of the background.  
+Photic stimulation elicits scant bilateral driving.  
+HR:  90 BPM.
+	IMPRESSION: EEG within the limits of normal in wakefulness through stage II sleep. 
+CLINICAL CORRELATION: The patient appears to be a bit drowsy or sleep deprived, rapidly making the transition into sleep, but there are no definite focal or epileptiform features and no definite generalized abnormalities.  
+
+

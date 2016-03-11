@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  22 year old left handed female, agenesis of the corpus callosum, epilepsy, now essentially seizure free, asthma, depression, behavioral disorder.  The patient is left handed.
+MEDICATIONS:  Dilantin, Ursodiol, Vitamin D.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is relatively low voltage, 9 Hz alpha rhythm identified, a bit more prominently on the right than the left.  The overall activity is quite low voltage for a young adult, particularly in the frontal regions and particularly in the left frontal region. Hyperventilation does not significantly activate the record.  Features of drowsiness include rhythmic slowing.  In addition, there is some theta, a bit more prominent in the left central region than the right.  There is a bit of arrhythmic slowing in the transition with breech stage 2 sleep. Photic stimulation elicits a driving response.  The driving response includes supraharmonic driving, which is present bilaterally. 
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:  
+An abnormal background with paucity of faster frequency activity in the frontal regions. 
+Disrupted alpha on the left.
+An asymmetry with more disruption of the faster frequency activity on the left compared to the right.
+CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG may be compared with this individual's childhood studies.
+
+

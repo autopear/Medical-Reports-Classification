@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 27-year-old, right-handed woman with two tonic-clonic seizures in association with a urinary tract infection and medication administration with two prior episodes of loss of consciousness.  
+MEDICATIONS: Dilantin, Topiramate, others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is appropriately organized with a 9 Hz, 20 V posterior dominant rhythm.  Brief drowsiness is characterized by a small increase in background theta, as well as an increase in low voltage, frontocentral beta.  
+Hyperventilation is performed with good effort producing a scant amount of theta.  Photic stimulation elicits vigorous driving. 
+HR:  78 BPM, with occasional PVCs.
+	IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  In contrast to a recent EEG report, there is no generalized, 4 to 5 Hz activity in this record.  The rare PVCs described above will be referred to this patient’s primary care physician. 
+
+

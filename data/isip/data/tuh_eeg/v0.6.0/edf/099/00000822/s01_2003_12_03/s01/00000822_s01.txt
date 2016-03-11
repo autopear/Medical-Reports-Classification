@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 20-year-old woman with complex epilepsy, complicated labor and delivery, MVA as a child, seizures characterized by frontal headache followed by a feeling as if she is floating, which may be associated with visual phenomenon including circular visual phenomenon and then tonic-clonic activity with incontinence and tongue biting.  Patient was struck in the back of the head with a pistol yesterday and subsequently had a seizure.
+MEDICATIONS: Dilantin and others.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a symmetric, reactive 10 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  In apparent wakefulness, hyperventilation, and early drowsiness, there is subtle, left temporal focal slowing.  There is a single left temporal sharp wave identified early in hyperventilation.  Vertex waves are seen in brief stage I sleep, but stage I sleep is not sustained.  Photic stimulation elicits symmetric, bilateral driving.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Subtle left temporal focal slowing.
+CLINICAL CORRELATION: In that only a single sharp wave was identified, additional EEG recording may be useful to clearly define this patient’s epileptiform activity.  Alternatively, comparison with her childhood EEGs may be of use. This tracing supports a structural or functional abnormality on the left.
+
+

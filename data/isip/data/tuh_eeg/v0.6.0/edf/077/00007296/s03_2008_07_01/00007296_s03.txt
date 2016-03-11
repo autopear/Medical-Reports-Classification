@@ -1,0 +1,11 @@
+	CLINICAL HISTORY: 	56 year-old, found on the floor, incontinent.  History of neurofibromatosis, colon cancer, prolonged postictal state and encephalomalacia  on CT scan.
+MEDICATIONS: Dilantin, Keppra, Depakote.
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is somewhat drowsy.
+DESCRIPTION OF THE R ECORD:  The background EEG is low to medium amplitude, diffusely slow with superimposed focal slowing from the left hemisphere  and shifting slowing with sharply contoured slowing at T3 or T5. Features of drowsiness include an increase in beta frequency activity. Single channel electrode artifact is observed at F4.
+	HR: 	66 bpm
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Generalized  background  slowing.
+	2. 	Superimposed  focal slowing in the left mid to posterior temporal region.
+CLINICAL CORRELATION: Generalized background  slowing is an nonspecific finding and could be part of the postictal state or other diffuse disturbance of cerebral function. The left temporal focal features may be correlated with imaging. The head rocking artifact might be correlated with his scalp pathology.
+
+

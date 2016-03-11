@@ -1,0 +1,9 @@
+TYPE OF STUDY:  Outpatient EEG.
+CLINICAL HISTORY:  A 37-year-old woman with epilepsy since birth.  Birth and developmental history unknown, but strong family history of epilepsy on her father's side.  Patient also has severe migraines.  She describes her last seizure as screaming, crying, and epistaxis.  Typically, seizures not so severe.
+MEDICATIONS:  Dilantin, phenobarbital, Zoloft, Prilosec, Risperdal, Spiriva, albuterol.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with 9.5 Hz, 40 microvolt posterior dominant rhythm.  The alpha rhythm reaches 10 Hz, 70 microvolts with occasional posterior slow waves of youth.  Features of drowsiness include attenuation of the alpha rhythm.  Hyperventilation does not significantly activate the record.  Photic stimulation elicits a driving response.  Heart rate 72 BPM.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  In this individual with lifelong, refractory epilepsy, a follow-up study capturing deeper stages of sleep is suggested.
+
+

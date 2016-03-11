@@ -1,0 +1,15 @@
+	CLINICAL HISTORY: 	Seventy-nine-year-old right-handed male with new onset seizure characterized by shaking and drooling for a minute, past history of a left ACA infarct and Alzheimer disease.
+	MEDICATIONS: 	Dilantin, others.
+	INTRODUCTION: 	Digital video EEG is performed in lab using standard 10/20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed. This is an awake and drowsy record.
+	DESCRIPTION OF THE RECORD: 	In wakefulness there is 7 hertz posterior dominant rhythm identifiable bilaterally. There is intermittent arrhythmic delta activity from either hemisphere with a slight predominance of arrhythmic delta activity in the left temporal region. Frontally predominant triangular-shaped waves are observed, higher amplitude and a bit more sharply contoured on the left. Features of drowsiness include slow rolling eye movements. In drowsiness there is a predominance of arrhythmic delta activity i-n the ·left posterior region. vertex
+waves are identified in stage 1 sleep. Photic stimulation elicits photoelectric artifact without well-defined driving.
+HR: 72 bpm
+	IMPRESSION: 	Abnormal EEG due to:
+1. Generalized background slowing.
+2. Shifting arrhythmic delta activity.
+3. Subtle focal slowing superimposed upon this background in the left frontotemporal region with a few triangular-shaped waves in the left frontal region.
+	CLINICAL CORRELATION: 	This EEG supports a diffuse disturbance of cerebral function affecting gray and white matter of both hemispheres. No definitive epileptiform features were seen. The superimposed focal slowing is in the region of the patient's
+previous stroke. If additional information is required, a sleep
+EEG may be advised.
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 63-year-old woman with previous EEGs demonstrating right temporal sharp waves of delta and theta.  The patient reports that her last big seizure was five months ago, which was a nocturnal seizure with tongue biting and incontinence but daytime episodes of vague, staring with glassy eyes, and humming.  The patient is amnestic for these events.
+MEDICATIONS: Dilantin, Neurontin, and Teneral (patient reports non-compliance). 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates some marked intrahemispheric asymmetry.  The activity from the left hemisphere is well organized with a posterior dominant rhythm, which can reach up to 11 Hz.  From the right hemisphere, the posterior dominant rhythm is 9 Hz.  There is much more arrhythmic delta activity from the right hemisphere particularly in the mid-to-anterior temporal regions with high amplitude spike and slow wave discharges identified in wakefulness.  These may occur as isolated discharges or in brief trains. There are also bursts of rhythmic theta again identified in the right temporal region. The bursts of either rhythmic mixed theta/delta or sharp waves are under ten seconds in duration.  Hyperventilation is performed early on in the record and does appear to accentuate the epileptiform activity and the rhythmic slowing described above, as well as producing some slowing from the contralateral hemisphere.  Following hyperventilation, as the patient becomes drowsy, there is an increase in background theta.  Other features of drowsiness include rhythmic theta, as well as an increase in background beta.  Of note, in wakefulness, there are rare left anterior temporal sharp and slow wave complexes but the right-to-left ratio is on the order of perhaps 100 to 1. 
+Photic stimulation elicits a vigorous driving response even at 1 Hz.  
+HR:  42 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Prominent right temporal spike and slow activity as well as focal slowing and rhythmic right temporal theta. 
+Rare left temporal sharp waves. 
+CLINICAL CORRELATION: This tracing supports a partial mechanism for epilepsy with an underlying structural abnormality and a very active epileptogenic focus.  Given the frequency of epileptiform activity identified in this record, consideration for EEG monitoring would be appropriate. 
+
+

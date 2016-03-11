@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 70 year old woman, admitted with focal seizures characterized by unilateral twitching, comes in with displaced Dilantin load in the emergency room and past history of Dilantin toxicity. 
+MEDICATIONS: Lamictal, Prozac, Simvastatin, Metoprolol 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. There is no hyperventilation or photic stimulation. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the background EEG on the left is reasonably well organized. There is an 8 Hz posterior dominant rhythm noted in the left, but the right hemisphere includes nearly continuous slowing, which includes a mixture of theta frequency activity and some delta. This activity is observed primarily in the right central temporal region. There is occasional arrhythmic delta activity observed with this. Features of drowsiness include an increase in background slowing with vertex waves. In the transition to sleep, rare right mid to anterior temporal sharp waves are observed. 
+HR: 78 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Right temporal focal slowing. 
+2. Right mid to anterior temporal sharp waves. 
+CLINICAL CORRELATION: This EEG supports a structural abnormality on the right, as well as a localization related mechanism for epilepsy. These findings are congruent with the recent acute perfusion study demonstrating hyperperfusion in the right hemisphere during the seizure. 
+
+

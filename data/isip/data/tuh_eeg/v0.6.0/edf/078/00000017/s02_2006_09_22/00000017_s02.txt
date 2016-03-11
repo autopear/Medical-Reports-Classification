@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 39-year-old male with a history of a subarachnoid hemorrhage, fissure grade IV, PCD #9 ACOM, wide based, left ICA dissection. BD#10.  Patient presents with HO/VD #10. 
+MEDICATIONS: Dilantin and Pentobarbital. 
+INTRODUCTION: Continuous video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. There are no notes regarding the patient’s clinical exam.  There is a note that the patient has been on Propofol, which was discontinued prior to 8:49 AM.  No other medication information is provided. 
+DESCRIPTION OF THE RECORD: The background EEG is reviewed at a sensitivity of 2 and 3.  The video EEG is running, but the EEG recording is lost around 15:30.  It appears that the patient is being unplugged for a procedure.  The patient returns to the unit, but is not connected back to the system.  
+HR 100  BPM.
+	IMPRESSION: EEG monitoring over 72 hours was remarkable for:
+	1.	Seven hours of data, but with marked suppression of the background.  
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  
+
+

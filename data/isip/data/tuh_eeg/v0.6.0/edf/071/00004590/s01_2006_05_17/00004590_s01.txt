@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 43-year-old, right-handed male with left-sided weakness and possible right MCA infarct, ten year history of sarcoid, as well as epilepsy. 
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is very well organized with a 9 Hz, 50 to 60 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by anterior spread of the alpha rhythm, as well as some rhythmic background theta. POSTS and rhythmic theta are seen in stage I sleep. 
+HR:  78 BPM.
+	IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  In this ICU patient described as suffering an acute stroke with a history of epilepsy, this EEG has not provided a focal or epileptiform activity.  
+
+

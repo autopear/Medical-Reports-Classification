@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 47-year-old gentleman with HIV, hepatitis C, meningitis, and recent, increasing seizures.  Today, the patient had to be intubated secondary to difficulty breathing and drowsiness.  
+MEDICATIONS: Depakote, Dilantin, others.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Patient is lethargic throughout the record. 
+DESCRIPTION OF THE RECORD: The background EEG is low voltage dleta and theta frequency with a sometimes featureless background.  There was a small amount of beta activity.  Stimulation of the patient produces an alerting response.  Rare, discrete  occipital PLEDS are also seen.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with low voltage, delta and theta frequencies.
+Left occipital sharp waves and occasional occipital PLEDS.
+CLINICAL CORRELATION: No significant interval change is seen from previous EEG. 
+
+

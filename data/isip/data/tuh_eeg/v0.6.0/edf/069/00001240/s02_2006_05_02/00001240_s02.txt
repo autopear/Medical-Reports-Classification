@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 44-year-old male with seizures occurring at a crack house after missing dialysis.  Hypertension and hepatitis C. Evaluate for seizures, uremia, and coma.
+MEDICATIONS: Dilantin and Labetalol. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and poorly responsive with some form of involuntary eye movement.
+DESCRIPTION OF THE RECORD: The background EEG is markedly featureless and slow with an eye movement artifact picked up throughout, which is somewhat asynchronous.  In addition, there is an out-of-phase artifact picked up in the T2-T4 electrode.  The technologist describes the patient as having eyes closed.  The periodicity of the eye movement is 1.78 seconds, sometimes 1.8.  There are some islands of cerebral activity identified with occasional bursts of faster frequency activity seen in the right parietal region, typically seen every 10 to 20 seconds.  The data can be reformatted.  There is an asymmetry in the activity, but there is no definitive sharp wave noted with this pattern.  In addition, the artifact picked up at T4-8 is congruent with the eye movement artifact seen in the same area. 
+Stimulation of the patient produces an increase in theta and does eliminate the eye movement and associated artifact. 
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Marked slowing of the background.
+Intermittent bursts of fast activity from the right hemisphere.
+Periodic eye movement without an EEG correlate, but which can be eliminated by tactile stimulation
+CLINICAL CORRELATION: The eye movement may be a form of an ocular asterixis.  Additional clinical evaluation of this patient is appropriate.  If there is any concern about potential epileptiform activity for this patient, an overnight EEG recording is appropriate. 
+
+

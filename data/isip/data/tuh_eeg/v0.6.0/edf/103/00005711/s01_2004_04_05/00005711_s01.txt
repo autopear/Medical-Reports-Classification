@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 66-year-old woman with right temporal parietal neoplasm, post-op day #15 with jerking movements of the face and the left side of the mouth persisting despite administration of Ativan. 
+MEDICATIONS: Dilantin, Labetalol, Ativan, and Decadron.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as lethargic.  She is not experiencing the tremulousness or trembling during the EEG.
+DESCRIPTION OF THE RECORD: The patient is drowsy throughout much of the record.  The overall background is low voltage, diffusely slow, with a mixture of theta and smaller amounts of delta.  There is a bit more delta from the right frontocentral region and there are rare right temporal sharp waves.  
+HR:  70 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:	1.Diffuse background slowing	
+	2. Right temporal sharp waves. 3. Right frontocentral slowing.
+CLINICAL CORRELATION: This tracing supports a diffuse disturbance of cerebral function affecting both gray and white matter.  The background slowing is relatively marked.  The occasional focal slowing and sharp waves support a structural or functional abnormality compatible with this patient’s previous surgery.  
+
+

@@ -1,0 +1,11 @@
+CLINICAL  HISTORY: This  is  a  64-year-old  woman  found  unresponsive.    Patient agitated and hypertensive in the ER.  After sedation with Ativan and Haldol, an LP was perfom1ed. Past history of thalamic hemorrhage.
+MEDICATIONS:  Ativan, Seroquel, Dilantin.
+INTRODUCTION: Digital video  EEG is performed  in  the lab using  standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record in a patient who seems somewhat somnolent.
+DESCRIPTION  OF  THE   RECORD:  In  wakefulness,  there  is  a  10  Hz  posterior dominant rhythm.  Out of wakefulness, there are brief bursts of generalized slowing with somewhat  rhythmic   delta  activity,  which  is higher  amplitude  and  somewhat  more sustained from  the right hemisphere  than the left.     Features of stage II sleep include vertex waves, K complexes, and spindles.
+HR:  66BPM.
+IMPRESSION: Abnormal EEG due to:
+1.  Intermittent bursts of slowing,  which are more remarkable on the left compared to the
+right.
+CLINICAL CORRELATION: The bursts of slowing  are non-specific  and may be in part metabolic or due to this patient's  sedative hypnotic medications.  The asymmetry in those bursts may be due to the previous thalamic hemorrhage.   No epileptiform features were seen.
+
+

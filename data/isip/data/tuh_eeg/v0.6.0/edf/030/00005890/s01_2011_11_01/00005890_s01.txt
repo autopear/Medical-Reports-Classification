@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 55 year old right handed male with a history of hypertension and schizophrenia with past medical history of seizures since 1990, last seizure in 2010.
+MEDICATIONS:  Dilantin, Lisinopril, Seroquel, Clonazepam, Ambien, Motrin, Claritin, Aspirin.
+REASON FOR EEG:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with anterior temporal and EKG electrodes.  The EEG was recorded in wakefulness and sleep stage I, stage II.  Activating procedures including hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9-10 Hz with a 20-60 mV amplitude which is reactive to eye opening.  Sleep is characterized by Stage I and stage II.  Photic stimulation and hyperventilation does not produce any abnormal discharges.  There is a slight increased amount of frontocentral beta seen diffusely.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Please note that a normal EEG does not exclude the diagnosis of epilepsy.
+
+

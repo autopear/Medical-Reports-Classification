@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 65-year-old male with previous seizures.
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is awake with symmetric, well-formed, 10 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  Hyperventilation is performed with good effort.  Towards the close of hyperventilation, there is subtle, discrete left anterior temporal sharp waves, which are associated with some subtle temporal theta in the identical region.  Sometimes these are seen almost in association with eye blink, but there is clearly a phase reversal at F7/T1.  As the patient becomes drowsy, following HV, the sharp waves are again identified into the transition to sleep and can be seen in a record montage with nearly the same voltage at F7 and at T1.  In sleep, they may occur as subtle triplets. 
+Photic stimulation elicits bilateral driving.  At 5 Hz, the left anterior temporal sharp waves are slightly more prominent, but not significantly so at other flash frequencies.  Photic stimulation also elicits photoelectric effect.
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Left anterior temporal discrete spike and wave activity.
+Subtle focal slowing. 
+CLINICAL CORRELATION: These features are similar to a previous EEG dated 8/22/02.  
+
+

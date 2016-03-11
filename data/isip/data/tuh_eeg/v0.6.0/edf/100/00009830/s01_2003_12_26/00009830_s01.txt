@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 39-year-old woman with hepatitis B and C, HIV, renal insufficiency, new onset seizures, PML, and persistent lethargy. 
+MEDICATIONS: Ativan, Dilantin, Valium and antibiotics.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is extubated but lethargic.
+DESCRIPTION OF THE RECORD: The background EEG is low voltage, continuous.  The frontal regions are rich in theta and alpha frequency activity, but the posterior regions demonstrate less of this faster frequency activity and more lower voltage delta.  There are some technical, ICU issues, but the overall pattern is overall symmetric, although there are some shifting asymmetries in the posterior delta.   Stimulation of the patient produces an increase in background muscle.  The overall pattern is low voltage.  
+HR:  102 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with a low voltage pattern with posterior slowing.
+CLINICAL CORRELATION: No significant focal or epileptiform features were identified in this record.  In this individual with a relative burden of CNS pathology in the posterior regions, the frontal regions are richer in faster frequency activity than the posterior regions.  If seizures are an important consideration, a follow-up study could be helpful. 
+
+

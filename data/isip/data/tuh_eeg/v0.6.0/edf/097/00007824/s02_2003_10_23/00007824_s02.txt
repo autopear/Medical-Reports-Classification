@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is an 82-year-old woman found hypotensive, hypothermic with multiple seizures and a small old subdural on CAT scan. The patient is now unresponsive after receiving sedative medications. 
+MEDICATIONS: Valproate, Dilantin, Ativan, and others. Check tech sheet- did she get versed/Midazolam in this section or the next one?
+INTRODUCTION: Continuous video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as comatose and intubated.  No rare spontaneous motor activity is identified for this patient.  
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal.  There is a pattern of ongoing epileptiform activity with periodic sharp waves identified primarily from the left hemisphere, but with some spread to the right.  These are picked up from the left centrotemporal and parietal regions.  There are intermittent periods in the record with periods of attenuation of the background lasting up to three seconds.  Stimulation of the patient does not clearly activate the record. 
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Ongoing epileptiform activity from the left hemisphere with additional spread to the right.
+CLINICAL CORRELATION: This tracing is supportive of a late status epilepticus-like pattern.  In comparison to previous records, this activity now involves the right hemisphere, particularly the posterior quadrant a little bit more and there is intermittent discontinuity.  These results were discussed with the clinical team and medications were modified.  
+
+

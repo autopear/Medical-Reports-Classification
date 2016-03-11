@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  51 year old man with history of seizures as a child, was shot 7 times in the body at age 19 and seizures returned.  He has not been compliant with medications until a year ago and has not had a seizure for 1 year.
+MEDICATIONS:  Dilantin, Norvasc
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  There is normal amount of frontocentral beta.  The patient is recorded in wakefulness and drowsiness. Activating procedures revealed no abnormal discharges.  During the recording, there appears to be F8 focal artifact that appears to be more consistent with a pulse artifact over that region.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.
+
+

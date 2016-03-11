@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 65-year-old woman status-post subarachnoid hemorrhage and aneurysmal clip.  History of diabetes, hypertension, renal transplant, multiple aneurysms, now confused with a hemiplegia. 
+MEDICATIONS: Dilantin, Labetalol, Hydralazine, and antibiotics. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is extubated but somnolent.  
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow.  The primary frequencies are arrhythmic theta and delta.  There is an interhemispheric asymmetry with more significant arrhythmic delta activity from the right hemisphere, particularly the frontotemporal region.  There is a prominent breach in the right frontotemporal region.  In addition, there is an intermittent, right anterior temporal sharp and slow wave complex with some variability, involving FP2, F4, and F8.  
+Stimulation of the patient produces an increase in faster frequency activity.  
+HR:  112 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Superimposed focal slowing from the right frontal region. 
+Occasional high amplitude sharp waves from the right.
+CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function, as well as a focal process on the right.  The sharp waves are in the region of this patient’s previous surgery. 
+
+

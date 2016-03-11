@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 57-year-old lady who came in with a change in mental status. LP showed increased WBCs.  She was transferred today for possible subarachnoid hemorrhage.  There was no subarachnoid hemorrhage in the CT scan.  Past medical history is significant for HIV, diabetes, and schizophrenia.
+MEDICATIONS:  Not available.
+REASON FOR STUDY:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with one anterior temporal electrode and one EKG electrode.  Wakefulness and sleep were recorded.  Photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opened to a well-defined posterior dominant rhythm at 9 to 10 Hz with an amplitude of 20 to 60 microvolts, which is reactive to eye opening.  While the patient was awake, there was an almost continuous eye blinking artifact.  There is a moderate amount of frontocentral beta.  Sleep is characterized by sleep, stage I.  Photic stimulation reveals no abnormal discharges.   
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Please note that a normal EEG does not exclude diagnosis of epilepsy.
+
+

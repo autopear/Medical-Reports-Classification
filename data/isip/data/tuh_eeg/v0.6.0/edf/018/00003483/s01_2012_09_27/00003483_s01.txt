@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  50 year old male with a history of epilepsy, COPD, heart failure, hepatitis C, hepatic dysfunction.  The patient recently had a pulmonary surgery and was on an Ativan drip.  Now responsive to external stimuli.
+MEDICATIONS:  Dilantin, Celexa, Thiamine, Famotidine, Lovenox, Zosyn, Vancomycin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is drowsy, but does respond briefly.
+DESCRIPTION OF THE RECORD:  This is a relatively low voltage EEG.  The patient awakens briefly with a 9 Hz alpha rhythm and excess background theta and then drifts off to sleep.  Bursts of FIRDA are noted.  Stimulation of the patient produces an alerting response and he follows commands and then drifts back to sleep. 
+HR:    104 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:
+Intermittent background slowing.
+Frontal intermittent rhythmic delta activity.
+CLINICAL CORRELATION:  No focal nor epileptiform features are identified in this record.  In the context of an intubated, critical care patient, this patient awakens easily and the overall background is relatively normal in this context.
+
+

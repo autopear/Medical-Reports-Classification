@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 49-year-old male with epilepsy for three years admitted for one hour of shaking of his left arm and leg.  Past medical history significant for a right frontotemporal craniotomy in 1989 for removal of an abscess.
+MEDICATIONS: Dilantin and Keppra. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is attenuated with a 9.5 Hz, 10 to 15 uV posterior dominant rhythm.  There is excess beta, which has a subtle intrahemispheric asymmetry and is less prominent in the right frontal region.  No breach rhythm is identified.  Photic stimulation elicits a photoelectric response, but no driving. Drowsiness is characterized by slow rolling eye movements.   Stages of sleep are not achieved.  
+HR:  90 BPM.
+	IMPRESSION: Mildly abnormal EEG due to: 
+Excess beta activity.
+Subtle intrahemispheric asymmetry with beta less prominent right frontally.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  Given the patient’s history, the focal features are less prominent than expected.  A repeat outpatient study under sleep deprived conditions in order to capture deeper stages of sleep would be valuable.    
+
+

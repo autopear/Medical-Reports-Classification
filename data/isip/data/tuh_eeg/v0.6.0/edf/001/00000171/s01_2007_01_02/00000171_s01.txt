@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 56-year-old male with lung cancer, status-post left frontotemporal resections of two metastases on Dilantin prophylaxis without a history of epilepsy, but with some cognitive deficits. 
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and briefly drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10.5 Hz, 30 uV posterior dominant rhythm with a prominent breach rhythm identified from the left frontotemporal regions. Underlying wicket activity is seen.  There is also a fair amount of high amplitude eye movement artifact.  Despite this, there are a handful of left temporal sharp and slow wave complexes of amplitudes of 70 uV or greater with after going slow waves.  In addition to the breach rhythm with accentuation of beta frequency activity, there is also some disruption of faster frequency activity seen at times during the record, and there are some bursts of more rhythmic slowing from the left frontotemporal/frontocentral regions.  Hyperventilation is performed with good effort and may accentuate the focal slowing from the left hemisphere.  Photic stimulation produces a strange feeling for this individual, but no driving response.
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Left frontotemporal/frontocentral focal slowing. 
+	In this sharply contoured background, there are left T1 maximum sharp waves.
+CLINICAL CORRELATION: No seizures were recorded.  This patient’s previous craniotomy and the sharply contoured background make this record appear more epileptogenic.  Therefore, a more prolonged sleep recording may be necessary to more completely evaluate the epileptogenic tendency.  Focal slowing is supportive of a structural abnormality.  
+
+

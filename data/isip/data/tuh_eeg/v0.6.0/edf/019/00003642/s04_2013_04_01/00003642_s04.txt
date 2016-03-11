@@ -1,0 +1,16 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  This is a 26-year-old man admitted with subarachnoid hemorrhage from a ruptured ACOM aneurysm found hours later with alcohol use, now with a ventriculostomy.
+MEDICATIONS:  Zofran, acetaminophen, fentanyl, midazolam, Keppra and Dilantin.
+INTRODUCTION:  A long term EEG was performed using a standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode. Patient was recorded during responsiveness and some more wakefulness. Activating procedures were not performed.
+TECHNICAL DIFFICULTY:  Some 60 Hz artifact and electrode artifact at the end of the recording.
+DATA STUDY:  03/08/2013 to 03/11/2013 for a total of 72 hours.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that cannot always be seen.  Sometimes appears to be seen over the left hemisphere at best reaching 7 Hz with a frontocentral beta only seen over the left hemisphere.  There appears to be some state changes, but no classic or typical sleep architecture is seen.   
+Heart rate:  78.
+ABNORMAL DISCHARGES:  
+Right hemispheric suppression of faster frequencies and slowing seen continuously throughout the recording.  
+Focal slowing seen frequently at T3 at a frequency of 2-4 Hz and amplitude 20-50 microvolts with an intermittent intermixed faster alpha frequency overlying the hemisphere.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to right hemispheric suppression as well as left mid temporal focal slowing as well as generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of cortical dysfunction over the right hemisphere, which is consistent with a known stroke.  In addition, there is evidence of left mid temporal focal cerebral dysfunction, which is nonspecific with regards to etiology in addition to generalized cerebral dysfunction, which is also nonspecific regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

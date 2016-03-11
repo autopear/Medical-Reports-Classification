@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  22 year-old woman with recent tonic-clonic seizure in sleep with incontinence and tongue biting on 08/30/2007.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:   Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG was markedly abnormal with bursts of rhythmic, notch, frontally predominant 2.5 to 4 Hz activity. This activity in the frontal region is associated with disorganized pattern, paucity of some of the normal developmental milestones anticipated for age, and a pattern with intermittent bursts of frontal slowing with delta organized background. The overall background is extremely high in amplitude and there is a right, frontal, almost hemispheric spike.
+Hyperventilation is performed early in the record and produces an increase in the rhythmic frontal high amplitude delta. Throughout the record, there is an intermittent, paroxysmal pattern with high-amplitude delta in the frontal regions, at times the right greater than left frontal or hemispheric spike wave activity and a pattern with lower voltage beta activity.
+Features of drowsiness are similar to the awake background but vertex waves were observed, some of which were maximum on the right.
+Photic stimulation was performed as the patient reached stage 2 of sleep with vertex waves, K complexes and spindles. Brief driving and faster flash frequencies were observed.
+HR: 96 bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+	1. 	Absence of some of the normal developmental milestones in waveforms that would be anticipated for age.
+	2. 	Bursts of high-amplitude  frontally predominant delta.
+	3. 	Right frontal or hemispheric spike-and-slow-wave complex.
+	4. 	Occasional sharp waves that are bifrontal or maximum in the left.
+	5. 	Vertex waves maximum on the right.
+CLINICAL CORRELATION:   This EEG suggests that there is more significant neurologic history than described above. Consideration  for a diffuse disturbance in cerebral function as well as secondarily generalized mechanism for seizures is appropriate. Correlation with imaging and appropriate history is essential.
+
+

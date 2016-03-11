@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is a 37-year-old woman with a history of lupus, sarcoid, hyponatremia, recurrent Dilantin toxicity, last episode of Dilantin toxicity 10/10/03, now with unilateral facial twitching.
+MEDICATIONS: Is this before or after she started Trileptal? Check med list
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as awake but febrile to 101.
+DESCRIPTION OF THE RECORD: The background EEG is disorganized.  Although there is a posterior dominant rhythm of 8 Hz, 30 to 50 uV, there is excess background theta, occasional bursts of rhythmic, frontally predominant delta, and occasional arrhythmic delta activity, more prominent in the left hemisphere.  Rare sharp waves are identified including F3 and P3, with a single T3 sharp wave.  Hiccups are identified, but no facial twitching is seen. 
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+FIRDA.
+Arrhythmic delta activity, left greater than right.
+Sharp waves identified in the left hemisphere including frontal, parietal, and mid-temporal regions. 
+CLINICAL CORRELATION: This record differs from the October 2002 study, as well as the study performed earlier on November 12.  This record is similar to the 12th study in that both studies were diffusely slow with FIRDA and shifting arrhythmic delta activity. 
+In the 2002 study, independent, right or left temporal sharp waves as well as left temporal focal slowing were seen.  In this record, there is a focal epileptiform activity seen in multiple locations throughout the left hemisphere.  None of the episodes of facial twitching were recorded.  
+If characterization of this patient’s facial twitching is important, a follow-up study capturing one of her spells could be of use.  
+
+

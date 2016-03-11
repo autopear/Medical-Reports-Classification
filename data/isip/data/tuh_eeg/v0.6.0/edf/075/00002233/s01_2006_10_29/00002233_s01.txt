@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 64-year-old woman with significant dementia, declining mental status, history of previous strokes and seizures.  
+MEDICATIONS: Dilantin, aspirin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is clinically obtunded throughout much of the record.  
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an abnormal pattern which is slow, lacking in faster frequency activity with primarily arrhythmic delta in the posterior regions and a bit more theta in the frontal regions.   Although there is some eye movement artifact, there is also a periodic complex identified in the frontal regions, typically more remarkable from the left than the right, but sometimes seen independently from the right.  There are also triphasic waves noted.  Spontaneous arousals are identified in the background.  Stimulation of the patient produces a clear alerting response in the EEG, although behaviorally, no change is noted in the patient’s clinical status.  When the patient is allowed to rest by herself and the sharp waves or periodic complexes become more prominent, there is a marked after going slow wave lasting at times up to a second and there are some periods with generalized attenuation.  Spontaneous arousals are also associated with attenuation of the epileptiform activity and the triphasic waves. 
+HR:  80 BPM.
+	IMPRESSION: Markedly abnormal EEG due to:
+	Replacement of normal background with a markedly abnormal background particularly with arrhythmic delta activity in the posterior quadrant.  
+	A combination of periodic complexes in the frontal regions, left greater than right, and triphasic waves. 
+CLINICAL CORRELATION: This EEG supports an irritative and potentially epileptiform process.  The triphasic waves may be seen in a metabolic process.  Although there is abundant epileptiform activity, this appears to be an interictal pattern in that stimulation of the patient attenuates the epileptiform activity.  Additional recording and/or change in medication may be valuable. 
+
+

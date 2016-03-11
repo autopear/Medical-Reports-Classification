@@ -1,0 +1,8 @@
+1. Form subset of the database
+   - Training set
+   - Test set
+   - Evaluation set
+   Write some simple scripts for efficiency.
+
+2. NLP Algorithms
+   
