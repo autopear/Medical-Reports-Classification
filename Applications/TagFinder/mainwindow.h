@@ -16,7 +16,6 @@ class QSplitter;
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
-
 public:
     MainWindow(QWidget *parent = 0);
     ~MainWindow();
@@ -25,7 +24,7 @@ private slots:
     void selectDir(); //Open file dialog to select a directory to be searched in
     void exportList(); //Export selected list
     void search(); //Start search in directory
-    void onDoubleClicked(const QModelIndex &index); //Copy full path of the selected file to clipboard
+    void onDoubleClicked(const QModelIndex &index); //Preview file
 
 protected:
     virtual void timerEvent(QTimerEvent *event);

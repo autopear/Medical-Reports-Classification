@@ -1,6 +1,4 @@
-#include <QApplication>
 #include <QCheckBox>
-#include <QClipboard>
 #include <QDir>
 #include <QDragEnterEvent>
 #include <QDragMoveEvent>
@@ -20,6 +18,7 @@
 #include <QTimerEvent>
 #include <QUrl>
 #include <QVBoxLayout>
+#include "textdialog.h"
 #include "mainwindow.h"
 
 MainWindow::MainWindow(QWidget *parent) :
@@ -38,11 +37,11 @@ MainWindow::MainWindow(QWidget *parent) :
 
     m_labelTag = new QLabel(tr("Tag:"), this);
 
-    m_editTag = new QLineEdit("SEIZURES", this);
+    m_editTag = new QLineEdit("SEIZURES:", this);
     m_editTag->setPlaceholderText(tr("All files must have this tag..."));
 
     m_checkTag = new QCheckBox(tr("Case Sensitive"), this);
-    m_checkTag->setChecked(true);
+    m_checkTag->setChecked(false);
 
     m_labelText = new QLabel(tr("Text:"), this);
 
@@ -50,7 +49,7 @@ MainWindow::MainWindow(QWidget *parent) :
     m_editText->setPlaceholderText(tr("Whether a file contains this text..."));
 
     m_checkText = new QCheckBox(tr("Case Sensitive"), this);
-    m_checkText->setChecked(true);
+    m_checkText->setChecked(false);
 
     m_labelExport = new QLabel(tr("Export Option:"), this);
 
@@ -108,7 +107,7 @@ MainWindow::MainWindow(QWidget *parent) :
     m_splitter = new QSplitter(this);
     m_splitter->setOrientation(Qt::Horizontal);
 
-    m_button = new QPushButton(tr("Search"), this);
+    m_button = new QPushButton(tr("&Search"), this);
     m_button->setDefault(true);
     connect(m_button, SIGNAL(clicked(bool)),
             this, SLOT(search()));
@@ -370,15 +369,20 @@ void MainWindow::onDoubleClicked(const QModelIndex &index)
         QString text = model->stringList().at(index.row());
         if (!text.isEmpty())
         {
-            //Always copy the full path
-            if (m_checkExport->isChecked())
-                qApp->clipboard()->setText(text);
-            else
+            if (!m_checkExport->isChecked())
             {
                 text = m_editDir->text().append("/").append(text);
                 text = text.replace("\\", "/").replace("//", "/");
-                qApp->clipboard()->setText(QDir::toNativeSeparators(text));
+                text = QDir::toNativeSeparators(text);
             }
+
+            TextDialog *dialog = new TextDialog(text,
+                                                m_editTag->text(),
+                                                m_checkTag->isChecked() ? Qt::CaseSensitive : Qt::CaseInsensitive,
+                                                listView != m_listRight,
+                                                this);
+            dialog->exec();
+            delete dialog;
         }
     }
 }
