@@ -1,0 +1,19 @@
+//This list contains report which are probably have no seizures
+
+isip/data/tuh_eeg/v0.6.0/edf/004/00000670/s06_2011_11_09/00000670_s06.txt
+isip/data/tuh_eeg/v0.6.0/edf/004/00000670/s07_2011_11_09/00000670_s07.txt
+isip/data/tuh_eeg/v0.6.0/edf/004/00000670/s08_2011_11_09/00000670_s08.txt
+isip/data/tuh_eeg/v0.6.0/edf/004/00000670/s09_2011_11_09/00000670_s09.txt
+isip/data/tuh_eeg/v0.6.0/edf/004/00000670/s10_2011_11_09/00000670_s10.txt
+isip/data/tuh_eeg/v0.6.0/edf/005/00000866/s17_2012_03_15/00000866_s17.txt
+isip/data/tuh_eeg/v0.6.0/edf/005/00000940/s09_2012_05_02/00000940_s09.txt
+isip/data/tuh_eeg/v0.6.0/edf/005/00000940/s10_2012_05_02/00000940_s10.txt
+isip/data/tuh_eeg/v0.6.0/edf/006/00000983/s05_2013_04_01/00000983_s05.txt
+isip/data/tuh_eeg/v0.6.0/edf/007/00001217/s05_2013_01_01/00001217_s05.txt
+isip/data/tuh_eeg/v0.6.0/edf/023/00004340/s01_2011_08_26/00004340_s01.txt
+isip/data/tuh_eeg/v0.6.0/edf/023/00004402/s02_2012_06_13/00004402_s02.txt
+isip/data/tuh_eeg/v0.6.0/edf/029/00005714/s01_2012_02_21/00005714_s01.txt
+isip/data/tuh_eeg/v0.6.0/edf/035/00007113/s01_2011_08_26/00007113_s01.txt
+isip/data/tuh_eeg/v0.6.0/edf/037/00007581/s01_2012_03_05/00007581_s01.txt
+isip/data/tuh_eeg/v0.6.0/edf/043/00008865/s02_2012_06_13/00008865_s02.txt
+isip/data/tuh_eeg/v0.6.0/edf/049/00010293/s01_2011_09_15/00010293_s01.txt
