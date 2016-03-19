@@ -51,24 +51,6 @@ static QString getFullPath(const QString &dir, const QString &file)
 MainWindow::MainWindow(QWidget *parent):
     QMainWindow(parent)
 {
-    QFile f1("/Users/QZMAO/Documents/Courses/CIS 5538/CIS5538-Project/split_data/No_seizures.txt");
-    f1.open(QFile::ReadOnly);
-    QStringList ll = QString::fromUtf8(f1.readAll()).split("\n", QString::SkipEmptyParts);
-    f1.close();
-
-    QFile f2("/Users/QZMAO/Documents/Courses/CIS 5538/CIS5538-Project/split_data/Possibly_seizures.txt");
-    f2.open(QFile::ReadOnly);
-    QStringList ls = QString::fromUtf8(f2.readAll()).split("\n", QString::SkipEmptyParts);
-    f2.close();
-
-    foreach (QString l, ll)
-        ls.removeOne(l);
-
-    foreach (QString l, ls)
-    {
-        qDebug(l.toUtf8());
-    }
-
     m_labelDir = new QLabel(tr("Search In:"), this);
 
     m_editDir = new QLineEdit(this);
