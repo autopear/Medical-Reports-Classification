@@ -13,3 +13,10 @@ Tag Finder:
   Search specified tags in directories recursively.
   * Drag a directory to the main window to set it to "Search in".
   * Click Export button to save the list respectively.
+  
+Tag Match Editor
+  Allow to edit a configuration file for tags with their variants.
+  * Drag a configuration file to the main window to load it (Optional)
+  * Double click on an empty space or use context menu in the left panel to add a new tag.
+  * Add variants for the selected tag in the right panel.
+  * Save all the work after editing. If no file loaded, it will ask to create a new file.
