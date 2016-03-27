@@ -5,41 +5,41 @@
 #include <QMessageBox>
 #include <QMouseEvent>
 #include <QStringList>
-#include "newtagdialog.h"
-#include "taglistwidget.h"
+#include "newpropertydialog.h"
+#include "propertylistwidget.h"
 
-TagListWidget::TagListWidget(QWidget *parent) :
+PropertyListWidget::PropertyListWidget(QWidget *parent) :
     QListWidget(parent),
     m_editingItem(0),
-    m_editingTag(QString())
+    m_editingProp(QString())
 {
     m_actionDelete = new QAction(tr("&Delete"), this);
     m_actionDelete->setShortcut(QKeySequence::Delete);
     connect(m_actionDelete, SIGNAL(triggered(bool)),
-            this, SLOT(deleteTag()));
+            this, SLOT(deleteProperty()));
 
     m_actionNew = new QAction(tr("&New"), this);
     m_actionNew->setShortcut(QKeySequence::New);
     connect(m_actionNew, SIGNAL(triggered(bool)),
-            this, SLOT(newTag()));
+            this, SLOT(newProperty()));
 
     m_actionRename = new QAction(tr("&Rename"), this);
     m_actionRename->setShortcut(QKeySequence::Replace);
     connect(m_actionRename, SIGNAL(triggered(bool)),
-            this, SLOT(renameTag()));
+            this, SLOT(renameProperty()));
 
     setEditTriggers(QAbstractItemView::DoubleClicked | QAbstractItemView::EditKeyPressed);
     setSelectionMode(QAbstractItemView::SingleSelection);
 }
 
-TagListWidget::~TagListWidget()
+PropertyListWidget::~PropertyListWidget()
 {
     delete m_actionDelete;
     delete m_actionNew;
     delete m_actionRename;
 }
 
-QString TagListWidget::currentTag() const
+QString PropertyListWidget::currentProperty() const
 {
     QList<QListWidgetItem *> items = selectedItems();
     if (items.size() == 1)
@@ -48,59 +48,59 @@ QString TagListWidget::currentTag() const
         return QString();
 }
 
-QStringList TagListWidget::tags() const
+QStringList PropertyListWidget::properties() const
 {
-    return m_tags;
+    return m_props;
 }
 
-void TagListWidget::clearAllTags()
+void PropertyListWidget::clearAllproperties()
 {
     clear();
-    m_tags.clear();
+    m_props.clear();
 }
 
-void TagListWidget::addNewTag(const QString &tag)
+void PropertyListWidget::addNewProperty(const QString &prop)
 {
-    QString newTag = tag.trimmed().toLower();
-    if (newTag.isEmpty())
+    QString newProp = prop.trimmed().toLower();
+    if (newProp.isEmpty())
     {
         QMessageBox::warning(this,
-                             tr("Empty Tag"),
-                             tr("The tag must not be empty."));
+                             tr("Empty Property"),
+                             tr("The property must not be empty."));
         return;
     }
-    if (m_tags.contains(newTag))
+    if (m_props.contains(newProp))
     {
         QMessageBox::warning(this,
-                             tr("Duplicate Tag"),
-                             tr("Tag \"%1\" already exists.").arg(newTag));
+                             tr("Duplicate Property"),
+                             tr("Property \"%1\" already exists.").arg(newProp));
         return;
     }
 
-    m_tags.append(newTag);
-    m_tags.sort();
+    m_props.append(newProp);
+    m_props.sort();
 
-    QListWidgetItem *newItem = new QListWidgetItem(newTag);
+    QListWidgetItem *newItem = new QListWidgetItem(newProp);
     newItem->setFlags(Qt::ItemIsEditable | Qt::ItemIsEnabled | Qt::ItemIsSelectable);
 
-    insertItem(m_tags.indexOf(newTag), newItem);
+    insertItem(m_props.indexOf(newProp), newItem);
 
     setCurrentItem(newItem, QItemSelectionModel::ClearAndSelect);
 }
 
-void TagListWidget::addNewTags(const QStringList &tags)
+void PropertyListWidget::addNewProperties(const QStringList &props)
 {
     QStringList toAdd, invalids;
     bool hasEmpty = false;
-    foreach (QString tag, tags)
+    foreach (QString prop, props)
     {
-        tag = tag.trimmed().toLower();
-        if (tag.isEmpty())
+        prop = prop.trimmed().toLower();
+        if (prop.isEmpty())
             hasEmpty = true;
-        else if (m_tags.contains(tag))
-            invalids.append(tag);
+        else if (m_props.contains(prop))
+            invalids.append(prop);
         else
-            toAdd.append(tag);
+            toAdd.append(prop);
     }
 
     toAdd.removeDuplicates();
@@ -112,20 +112,20 @@ void TagListWidget::addNewTags(const QStringList &tags)
     if (invalids.size() == 1)
     {
         QMessageBox::warning(this,
-                             tr("Duplicate Tag"),
-                             tr("Tag \"%1\" already exists.").arg(invalids.first()));
+                             tr("Duplicate Property"),
+                             tr("Property \"%1\" already exists.").arg(invalids.first()));
     }
     else if (invalids.size() > 1)
     {
         QMessageBox::warning(this,
-                             tr("Duplicate Tags"),
-                             tr("Tags \"%1\" already exist.").arg(invalids.join("\", \"")));
+                             tr("Duplicate properties"),
+                             tr("properties \"%1\" already exist.").arg(invalids.join("\", \"")));
     }
     else if (hasEmpty)
     {
         QMessageBox::warning(this,
-                             tr("Empty Tag"),
-                             tr("All tags must not be empty."));
+                             tr("Empty Property"),
+                             tr("All properties must not be empty."));
     }
     else
     {
@@ -136,25 +136,25 @@ void TagListWidget::addNewTags(const QStringList &tags)
     {
         QMessageBox::warning(this,
                              tr("Nothing to Add"),
-                             tr("No tag can be added."));
+                             tr("No property can be added."));
         return;
     }
 
-    m_tags.append(toAdd);
-    m_tags.sort();
+    m_props.append(toAdd);
+    m_props.sort();
 
-    foreach (QString newTag, toAdd)
+    foreach (QString newProp, toAdd)
     {
-        QListWidgetItem *newItem = new QListWidgetItem(newTag);
+        QListWidgetItem *newItem = new QListWidgetItem(newProp);
         newItem->setFlags(Qt::ItemIsEditable | Qt::ItemIsEnabled | Qt::ItemIsSelectable);
 
-        insertItem(m_tags.indexOf(newTag), newItem);
+        insertItem(m_props.indexOf(newProp), newItem);
     }
 
-    setCurrentRow(m_tags.indexOf(toAdd.last()), QItemSelectionModel::ClearAndSelect);
+    setCurrentRow(m_props.indexOf(toAdd.last()), QItemSelectionModel::ClearAndSelect);
 }
 
-void TagListWidget::deleteTag()
+void PropertyListWidget::deleteProperty()
 {
     QModelIndexList indexes = selectedIndexes();
     if (indexes.size() == 1)
@@ -162,115 +162,115 @@ void TagListWidget::deleteTag()
         int row = indexes.first().row();
         QListWidgetItem *item = takeItem(row);
 
-        QString tag = item->text();
+        QString prop = item->text();
         delete item;
 
-        m_tags.removeOne(tag);
+        m_props.removeOne(prop);
 
         setCurrentRow(qMin(row, count() - 1), QItemSelectionModel::ClearAndSelect);
 
-        emit tagDeleted(tag);
+        emit propertyDeleted(prop);
 
-        emit currentTextChanged(tag);
+        emit currentTextChanged(prop);
     }
 }
 
-void TagListWidget::renameTag()
+void PropertyListWidget::renameProperty()
 {
     QList<QListWidgetItem *> items = selectedItems();
     if (items.size() == 1)
     {
         m_editingItem = items.first();
-        m_editingTag = m_editingItem->text();
+        m_editingProp = m_editingItem->text();
         editItem(m_editingItem);
     }
 }
 
-void TagListWidget::newTag()
+void PropertyListWidget::newProperty()
 {
-    NewTagDialog *dlg = new NewTagDialog(this);
+    NewPropertyDialog *dlg = new NewPropertyDialog(this);
     if (dlg->exec() == QDialog::Accepted)
     {
-        QString tag = dlg->tag();
+        QString prop = dlg->newProperty();
 
-        if (m_tags.contains(tag))
+        if (m_props.contains(prop))
         {
             QMessageBox::warning(this,
-                                 tr("Duplicate Tag"),
-                                 tr("Tag \"%1\" already exists.").arg(tag));
+                                 tr("Duplicate Property"),
+                                 tr("Property \"%1\" already exists.").arg(prop));
             delete dlg;
             return;
         }
 
-        m_tags.append(tag);
-        m_tags.sort();
+        m_props.append(prop);
+        m_props.sort();
 
-        QListWidgetItem *newItem = new QListWidgetItem(tag);
+        QListWidgetItem *newItem = new QListWidgetItem(prop);
         newItem->setFlags(Qt::ItemIsEditable | Qt::ItemIsEnabled | Qt::ItemIsSelectable);
 
-        insertItem(m_tags.indexOf(tag), newItem);
+        insertItem(m_props.indexOf(prop), newItem);
 
         setCurrentItem(newItem, QItemSelectionModel::ClearAndSelect);
 
-        emit tagAdded(tag);
+        emit propertyAdded(prop);
 
-        emit currentTextChanged(tag);
+        emit currentTextChanged(prop);
     }
     delete dlg;
 }
 
-void TagListWidget::closeEditor(QWidget *editor, QAbstractItemDelegate::EndEditHint hint)
+void PropertyListWidget::closeEditor(QWidget *editor, QAbstractItemDelegate::EndEditHint hint)
 {
     QListWidget::closeEditor(editor, hint);
     if (m_editingItem)
     {
-        QString newTag = m_editingItem->text().trimmed().toLower();
-        if (newTag.isEmpty())
+        QString newProp = m_editingItem->text().trimmed().toLower();
+        if (newProp.isEmpty())
         {
             QMessageBox::warning(this,
-                                 tr("Rename Tag"),
-                                 tr("The new tag must not be empty."));
-            m_editingItem->setText(m_editingTag);
+                                 tr("Rename Property"),
+                                 tr("The new property must not be empty."));
+            m_editingItem->setText(m_editingProp);
         }
-        else if (newTag.compare(m_editingTag) == 0)
+        else if (newProp.compare(m_editingProp) == 0)
         {
             //Do nothing
         }
-        else if (m_tags.contains(newTag))
+        else if (m_props.contains(newProp))
         {
             QMessageBox::warning(this,
-                                 tr("Rename Tag"),
-                                 tr("Tag \"%1\" already exists.").arg(newTag));
-            m_editingItem->setText(m_editingTag);
+                                 tr("Rename Property"),
+                                 tr("Property \"%1\" already exists.").arg(newProp));
+            m_editingItem->setText(m_editingProp);
         }
         else
         {
-            m_tags.removeOne(m_editingTag);
-            m_tags.append(newTag);
-            m_tags.sort();
+            m_props.removeOne(m_editingProp);
+            m_props.append(newProp);
+            m_props.sort();
 
             for (int i=0; i<count(); i++)
             {
                 QListWidgetItem *listItem = item(i);
-                QString tag = m_tags.at(i);
-                if (listItem->text().compare(tag) != 0)
-                    listItem->setText(tag);
+                QString property = m_props.at(i);
+                if (listItem->text().compare(property) != 0)
+                    listItem->setText(property);
 
-                if (tag.compare(newTag) == 0)
+                if (property.compare(newProp) == 0)
                     setCurrentRow(i, QItemSelectionModel::ClearAndSelect);
             }
 
-            emit tagChanged(m_editingTag, newTag);
+            emit propertyChanged(m_editingProp, newProp);
 
-            emit currentTextChanged(newTag);
+            emit currentTextChanged(newProp);
         }
 
         m_editingItem = 0;
-        m_editingTag = QString();
+        m_editingProp = QString();
     }
 }
 
-void TagListWidget::contextMenuEvent(QContextMenuEvent *event)
+void PropertyListWidget::contextMenuEvent(QContextMenuEvent *event)
 {
     QMenu *menu = new QMenu(this);
     menu->setAttribute(Qt::WA_DeleteOnClose);
@@ -289,7 +289,7 @@ void TagListWidget::contextMenuEvent(QContextMenuEvent *event)
     event->accept();
 }
 
-void TagListWidget::keyPressEvent(QKeyEvent *event)
+void PropertyListWidget::keyPressEvent(QKeyEvent *event)
 {
     if (event->matches(QKeySequence::Delete) || (event->modifiers() == Qt::NoModifier && event->key() == Qt::Key_Backspace))
     {
@@ -310,7 +310,7 @@ void TagListWidget::keyPressEvent(QKeyEvent *event)
         QListWidget::keyPressEvent(event);
 }
 
-void TagListWidget::mouseDoubleClickEvent(QMouseEvent *event)
+void PropertyListWidget::mouseDoubleClickEvent(QMouseEvent *event)
 {
     if (event->modifiers() == Qt::NoModifier && event->button() == Qt::LeftButton)
     {
@@ -318,7 +318,7 @@ void TagListWidget::mouseDoubleClickEvent(QMouseEvent *event)
         if (item)
         {
             m_editingItem = item;
-            m_editingTag = m_editingItem->text();
+            m_editingProp = m_editingItem->text();
             editItem(m_editingItem);
         }
         else
