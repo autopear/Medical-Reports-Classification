@@ -9,6 +9,15 @@ List Subtractor:
   * Drag a file to the list 1 line or list view (left) will load the file. Drag a file to the list 2 line or list view (middle) will load the file.
   * To save the subtracted result, click the Save button.
 
+Reports Generator:
+  Scan reports in a directory and parse them into a single XML based database.
+  * Requires the tags configuration generated from Tag Match Editor
+  
+Reports Manager:
+  Allow to view and edit the XML report database.
+  * Requires the XML file generated from Reports Generator.
+
+  
 Tag Finder:
   Search specified tags in directories recursively.
   * Drag a directory to the main window to set it to "Search in".
