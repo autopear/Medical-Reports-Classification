@@ -42,6 +42,9 @@ private slots:
     void onValueEdited();
 
 private:
+    void loadSettings();
+    void saveSettings();
+
     QLabel *m_labelXml;
     QLineEdit *m_editXml;
     QPushButton *m_btnOpen;

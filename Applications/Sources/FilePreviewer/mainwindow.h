@@ -31,6 +31,9 @@ protected:
     virtual void dropEvent(QDropEvent *event);
 
 private:
+    void saveSettings();
+    void loadSettings();
+
     QLabel *m_labelDir;
     QLineEdit *m_editDir;
     QPushButton *m_btnDir;

@@ -29,7 +29,7 @@ protected:
 
 private slots:
     void selectFile();
-    void onEnterPressed();
+    void onReturnPressed();
 
 private:
     QLabel *m_label;

@@ -23,6 +23,8 @@ protected:
     void run();
 
 private:
+    static QString formatTag(const QString &tag);
+    static QString formatValue(const QString &value);
     QStringList m_reports;
     QString m_dir;
     QString m_xml;

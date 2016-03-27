@@ -22,6 +22,8 @@ private slots:
 
 private:
     void updateResult();
+    void loadSettings();
+    void saveSettings();
 
     FilePicker *m_picker1;
     FilePicker *m_picker2;

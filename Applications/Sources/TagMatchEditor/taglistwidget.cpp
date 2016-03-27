@@ -28,8 +28,14 @@ TagListWidget::TagListWidget(QWidget *parent) :
     connect(m_actionRename, SIGNAL(triggered(bool)),
             this, SLOT(renameTag()));
 
+    m_actionClear = new QAction(tr("&Clear"), this);
+    connect(m_actionClear, SIGNAL(triggered(bool)),
+            this, SIGNAL(requestClear()));
+
     setEditTriggers(QAbstractItemView::DoubleClicked | QAbstractItemView::EditKeyPressed);
     setSelectionMode(QAbstractItemView::SingleSelection);
+    setTextElideMode(Qt::ElideRight);
+    setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
 }
 
 TagListWidget::~TagListWidget()
@@ -37,6 +43,7 @@ TagListWidget::~TagListWidget()
     delete m_actionDelete;
     delete m_actionNew;
     delete m_actionRename;
+    delete m_actionClear;
 }
 
 QString TagListWidget::currentTag() const
@@ -82,6 +89,7 @@ void TagListWidget::addNewTag(const QString &tag)
 
     QListWidgetItem *newItem = new QListWidgetItem(newTag);
     newItem->setFlags(Qt::ItemIsEditable | Qt::ItemIsEnabled | Qt::ItemIsSelectable);
+    newItem->setToolTip(newTag);
 
     insertItem(m_tags.indexOf(newTag), newItem);
 
@@ -147,6 +155,7 @@ void TagListWidget::addNewTags(const QStringList &tags)
     {
         QListWidgetItem *newItem = new QListWidgetItem(newTag);
         newItem->setFlags(Qt::ItemIsEditable | Qt::ItemIsEnabled | Qt::ItemIsSelectable);
+        newItem->setToolTip(newTag);
 
         insertItem(m_tags.indexOf(newTag), newItem);
     }
@@ -207,6 +216,7 @@ void TagListWidget::newTag()
 
         QListWidgetItem *newItem = new QListWidgetItem(tag);
         newItem->setFlags(Qt::ItemIsEditable | Qt::ItemIsEnabled | Qt::ItemIsSelectable);
+        newItem->setToolTip(tag);
 
         insertItem(m_tags.indexOf(tag), newItem);
 
@@ -231,6 +241,7 @@ void TagListWidget::closeEditor(QWidget *editor, QAbstractItemDelegate::EndEditH
                                  tr("Rename Tag"),
                                  tr("The new tag must not be empty."));
             m_editingItem->setText(m_editingTag);
+            m_editingItem->setToolTip(m_editingTag);
         }
         else if (newTag.compare(m_editingTag) == 0)
         {
@@ -242,6 +253,7 @@ void TagListWidget::closeEditor(QWidget *editor, QAbstractItemDelegate::EndEditH
                                  tr("Rename Tag"),
                                  tr("Tag \"%1\" already exists.").arg(newTag));
             m_editingItem->setText(m_editingTag);
+            m_editingItem->setToolTip(m_editingTag);
         }
         else
         {
@@ -255,6 +267,8 @@ void TagListWidget::closeEditor(QWidget *editor, QAbstractItemDelegate::EndEditH
                 QString tag = m_tags.at(i);
                 if (listItem->text().compare(tag) != 0)
                     listItem->setText(tag);
+
+                listItem->setToolTip(tag);
 
                 if (tag.compare(newTag) == 0)
                     setCurrentRow(i, QItemSelectionModel::ClearAndSelect);
@@ -283,6 +297,12 @@ void TagListWidget::contextMenuEvent(QContextMenuEvent *event)
         menu->addAction(m_actionRename);
         menu->addSeparator();
         menu->addAction(m_actionDelete);
+    }
+
+    if (count() > 0)
+    {
+        menu->addSeparator();
+        menu->addAction(m_actionClear);
     }
 
     menu->exec(event->globalPos());

@@ -13,6 +13,7 @@
 #include <QMessageBox>
 #include <QMimeData>
 #include <QPushButton>
+#include <QSettings>
 #include <QSplitter>
 #include <QTextBrowser>
 #include <QVBoxLayout>
@@ -74,6 +75,8 @@ MainWindow::MainWindow(QWidget *parent):
     m_list = new QListWidget(this);
     m_list->setSelectionBehavior(QAbstractItemView::SelectRows);
     m_list->setSelectionMode(QAbstractItemView::SingleSelection);
+    m_list->setTextElideMode(Qt::ElideMiddle);
+    m_list->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
     connect(m_list, SIGNAL(itemSelectionChanged()),
             this, SLOT(onCurrentItemChanged()));
     connect(m_list, SIGNAL(itemDoubleClicked(QListWidgetItem*)),
@@ -87,6 +90,10 @@ MainWindow::MainWindow(QWidget *parent):
     m_splitter->setOrientation(Qt::Horizontal);
     m_splitter->addWidget(m_list);
     m_splitter->addWidget(m_browser);
+    m_splitter->setStretchFactor(0, 1);
+    m_splitter->setStretchFactor(1, 1);
+    m_splitter->setCollapsible(0, false);
+    m_splitter->setCollapsible(1, false);
 
     m_btnLoad = new QPushButton(tr("&Load"), this);
     m_btnLoad->setDefault(false);
@@ -130,6 +137,8 @@ MainWindow::MainWindow(QWidget *parent):
     setCentralWidget(m_main);
     setWindowTitle(tr("File Previewer"));
     setAcceptDrops(true);
+
+    loadSettings();
 }
 
 MainWindow::~MainWindow()
@@ -150,18 +159,42 @@ MainWindow::~MainWindow()
 
 void MainWindow::selectDir()
 {
+    QString defaultDir = m_editDir->text().trimmed();
+    if (defaultDir.isEmpty() || !QFile::exists(defaultDir))
+    {
+        QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+        current.cdUp();
+        current.cdUp();
+        current.cdUp();
+#endif
+        defaultDir = current.absolutePath();
+    }
+
     QString path = QFileDialog::getExistingDirectory(this,
                                                      tr("Select"),
-                                                     QDir::currentPath());
+                                                     defaultDir);
     if (!path.isEmpty())
         m_editDir->setText(QDir::toNativeSeparators(path));
 }
 
 void MainWindow::selectFileList()
 {
+    QString defaultFile = m_editFile->text().trimmed();
+    if (defaultFile.isEmpty() || !QFile::exists(defaultFile))
+    {
+        QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+        current.cdUp();
+        current.cdUp();
+        current.cdUp();
+#endif
+        defaultFile = current.absolutePath();
+    }
+
     QString path = QFileDialog::getOpenFileName(this,
                                                 tr("Select"),
-                                                QDir::currentPath(),
+                                                defaultFile,
                                                 "*");
     if (!path.isEmpty())
         m_editFile->setText(QDir::toNativeSeparators(path));
@@ -199,6 +232,8 @@ void MainWindow::loadFileList()
         return;
     }
 
+    saveSettings();
+
     m_list->clear();
     m_browser->clear();
 
@@ -211,6 +246,7 @@ void MainWindow::loadFileList()
         if (isAbsolute(line))
         {
             QListWidgetItem *item = new QListWidgetItem(QDir::toNativeSeparators(line), m_list, QListWidgetItem::UserType);
+            item->setToolTip(item->text());
             m_list->addItem(item);
         }
         else
@@ -227,6 +263,7 @@ void MainWindow::loadFileList()
 
             QString path = getFullPath(m_editDir->text().trimmed(), line);
             QListWidgetItem *item = new QListWidgetItem(QDir::toNativeSeparators(path), m_list, QListWidgetItem::UserType);
+            item->setToolTip(item->text());
             m_list->addItem(item);
         }
     }
@@ -358,4 +395,40 @@ void MainWindow::dropEvent(QDropEvent *event)
         }
     }
     event->ignore();
+}
+
+void MainWindow::loadSettings()
+{
+    QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+    current.cdUp();
+    current.cdUp();
+    current.cdUp();
+#endif
+    QFileInfo binInfo(qApp->applicationFilePath());
+    QString config = current.absoluteFilePath(binInfo.baseName().append(".cfg"));
+    if (!QFile::exists(config))
+        return;
+
+    QSettings settings(config, QSettings::IniFormat, this);
+    if (settings.contains("Dir"))
+        m_editDir->setText(settings.value("Dir").toString());
+    if (settings.contains("File"))
+        m_editFile->setText(settings.value("File").toString());
+}
+
+void MainWindow::saveSettings()
+{
+    QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+    current.cdUp();
+    current.cdUp();
+    current.cdUp();
+#endif
+    QFileInfo binInfo(qApp->applicationFilePath());
+    QString config = current.absoluteFilePath(binInfo.baseName().append(".cfg"));
+
+    QSettings settings(config, QSettings::IniFormat, this);
+    settings.setValue("Dir", m_editDir->text().trimmed());
+    settings.setValue("File", m_editFile->text().trimmed());
 }

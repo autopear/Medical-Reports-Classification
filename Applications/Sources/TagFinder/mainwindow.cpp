@@ -1,3 +1,4 @@
+#include <QApplication>
 #include <QCheckBox>
 #include <QDir>
 #include <QDragEnterEvent>
@@ -10,10 +11,12 @@
 #include <QHBoxLayout>
 #include <QLabel>
 #include <QLineEdit>
-#include <QListView>
+#include <QListWidget>
 #include <QMessageBox>
 #include <QMimeData>
 #include <QPushButton>
+#include <QSemaphore>
+#include <QSettings>
 #include <QSplitter>
 #include <QTimerEvent>
 #include <QUrl>
@@ -27,7 +30,7 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     m_labelDir = new QLabel(tr("Search in:"), this);
 
-    m_editDir = new QLineEdit(QDir::toNativeSeparators(QDir::currentPath()), this);
+    m_editDir = new QLineEdit(this);
     m_editDir->setPlaceholderText(tr("Path of the directory to be searched in..."));
 
     m_btnDir = new QPushButton(tr("Select..."), this);
@@ -56,14 +59,14 @@ MainWindow::MainWindow(QWidget *parent) :
     m_checkExport = new QCheckBox(tr("Absolute File Path"), this);
     m_checkExport->setChecked(false);
 
-    m_listLeft = new QListView(this);
-    m_listLeft->setModel(new StringListModel());
+    m_listLeft = new QListWidget(this);
     m_listLeft->setUniformItemSizes(true);
     m_listLeft->setEditTriggers(QAbstractItemView::NoEditTriggers);
     m_listLeft->setWordWrap(false);
     m_listLeft->setTextElideMode(Qt::ElideMiddle);
-    connect(m_listLeft, SIGNAL(doubleClicked(QModelIndex)),
-            this, SLOT(onDoubleClicked(QModelIndex)));
+    m_listLeft->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
+    connect(m_listLeft, SIGNAL(itemDoubleClicked(QListWidgetItem*)),
+            this, SLOT(onItemDoubleClicked(QListWidgetItem*)));
 
     m_btnLeft = new QPushButton(tr("Export"), this);
     m_btnLeft->setAutoDefault(false);
@@ -72,14 +75,14 @@ MainWindow::MainWindow(QWidget *parent) :
 
     m_groupLeft = new QGroupBox(this);
 
-    m_listMiddle = new QListView(this);
-    m_listMiddle->setModel(new StringListModel());
+    m_listMiddle = new QListWidget(this);
     m_listMiddle->setUniformItemSizes(true);
     m_listMiddle->setEditTriggers(QAbstractItemView::NoEditTriggers);
     m_listMiddle->setWordWrap(false);
     m_listMiddle->setTextElideMode(Qt::ElideMiddle);
-    connect(m_listMiddle, SIGNAL(doubleClicked(QModelIndex)),
-            this, SLOT(onDoubleClicked(QModelIndex)));
+    m_listMiddle->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
+    connect(m_listMiddle, SIGNAL(itemDoubleClicked(QListWidgetItem*)),
+            this, SLOT(onItemDoubleClicked(QListWidgetItem*)));
 
     m_btnMiddle = new QPushButton(tr("Export"), this);
     m_btnMiddle->setAutoDefault(false);
@@ -88,14 +91,13 @@ MainWindow::MainWindow(QWidget *parent) :
 
     m_groupMiddle = new QGroupBox(this);
 
-    m_listRight = new QListView(this);
-    m_listRight->setModel(new StringListModel());
+    m_listRight = new QListWidget(this);
     m_listRight->setUniformItemSizes(true);
     m_listRight->setEditTriggers(QAbstractItemView::NoEditTriggers);
-    m_listRight->setWordWrap(false);
     m_listRight->setTextElideMode(Qt::ElideMiddle);
-    connect(m_listRight, SIGNAL(doubleClicked(QModelIndex)),
-            this, SLOT(onDoubleClicked(QModelIndex)));
+    m_listRight->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
+    connect(m_listRight, SIGNAL(itemDoubleClicked(QListWidgetItem*)),
+            this, SLOT(onItemDoubleClicked(QListWidgetItem*)));
 
     m_btnRight = new QPushButton(tr("Export"), this);
     m_btnRight->setAutoDefault(false);
@@ -156,6 +158,12 @@ MainWindow::MainWindow(QWidget *parent) :
     m_splitter->addWidget(m_groupLeft);
     m_splitter->addWidget(m_groupMiddle);
     m_splitter->addWidget(m_groupRight);
+    m_splitter->setStretchFactor(0, 1);
+    m_splitter->setStretchFactor(1, 1);
+    m_splitter->setStretchFactor(2, 1);
+    m_splitter->setCollapsible(0, false);
+    m_splitter->setCollapsible(1, false);
+    m_splitter->setCollapsible(2, false);
 
     QVBoxLayout *layout = new QVBoxLayout(m_main);
     layout->addLayout(dirLayout, 0);
@@ -173,10 +181,12 @@ MainWindow::MainWindow(QWidget *parent) :
     m_btnMiddle->setEnabled(false);
     m_btnRight->setEnabled(false);
 
-    m_mutex = new QMutex();
+    m_mutex = new QSemaphore(1);
 
     setAcceptDrops(true);
     setWindowTitle(tr("Tag Finder"));
+
+    loadSettings();
 }
 
 MainWindow::~MainWindow()
@@ -225,9 +235,21 @@ MainWindow::~MainWindow()
 
 void MainWindow::selectDir()
 {
+    QString defaultDir = m_editDir->text().trimmed();
+    if (defaultDir.isEmpty() || !QFile::exists(defaultDir))
+    {
+        QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+        current.cdUp();
+        current.cdUp();
+        current.cdUp();
+#endif
+        defaultDir = current.absolutePath();
+    }
+
     QString dir = QFileDialog::getExistingDirectory(this,
                                                     tr("Select Directory"),
-                                                    m_editDir->text().isEmpty() ? QDir::currentPath() : m_editDir->text());
+                                                    defaultDir);
     if (!dir.isEmpty())
         m_editDir->setText(QDir::toNativeSeparators(dir));
 }
@@ -238,17 +260,15 @@ void MainWindow::exportList()
     if (!button)
         return;
 
-    QListView *listView;
+    QListWidget *listWidget;
     if (button == m_btnLeft)
-        listView = m_listLeft;
+        listWidget = m_listLeft;
     else if (button == m_btnMiddle)
-        listView = m_listMiddle;
+        listWidget = m_listMiddle;
     else
-        listView = m_listRight;
+        listWidget = m_listRight;
 
-    StringListModel *model = dynamic_cast<StringListModel *>(listView->model());
-    QStringList files = model->stringList();
-    if (files.isEmpty())
+    if (listWidget->count() == 0)
     {
         QMessageBox::information(this,
                                  tr("Export"),
@@ -256,16 +276,36 @@ void MainWindow::exportList()
         return;
     }
 
+    QString defaultFile = m_last;
+    if (defaultFile.isEmpty())
+    {
+        QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+        current.cdUp();
+        current.cdUp();
+        current.cdUp();
+#endif
+        defaultFile = current.absolutePath();
+    }
+
     QString output = QFileDialog::getSaveFileName(this,
                                                   tr("Export to"),
-                                                  m_editDir->text(),
+                                                  defaultFile,
                                                   "*.*");
     if (output.isEmpty())
         return;
 
+    m_last = output;
+
+    saveSettings();
+
     QFile *file = new QFile(output);
     file->open(QFile::WriteOnly | QFile::Truncate);
-    file->write(files.join("\n").toUtf8());
+    for (int i=0; i<listWidget->count(); i++)
+    {
+        file->write(listWidget->item(i)->text().toUtf8());
+        file->write("\n");
+    }
     file->close();
     delete file;
 }
@@ -299,6 +339,8 @@ void MainWindow::search()
         m_editTag->setFocus();
         return;
     }
+
+    saveSettings();
 
     m_button->setText(tr("Searching..."));
     m_button->setEnabled(false);
@@ -339,14 +381,9 @@ void MainWindow::search()
 
     refreshLists();
 
-    StringListModel *model = dynamic_cast<StringListModel *>(m_listLeft->model());
-    m_btnLeft->setText(tr("Export (%1)").arg(model->rowCount()));
-
-    model = dynamic_cast<StringListModel *>(m_listMiddle->model());
-    m_btnMiddle->setText(tr("Export (%1)").arg(model->rowCount()));
-
-    model = dynamic_cast<StringListModel *>(m_listRight->model());
-    m_btnRight->setText(tr("Export (%1)").arg(model->rowCount()));
+    m_btnLeft->setText(tr("Export (%1)").arg(m_listLeft->count()));
+    m_btnMiddle->setText(tr("Export (%1)").arg(m_listMiddle->count()));
+    m_btnRight->setText(tr("Export (%1)").arg(m_listRight->count()));
 
     m_btnLeft->setEnabled(true);
     m_btnMiddle->setEnabled(true);
@@ -360,30 +397,28 @@ void MainWindow::search()
     m_button->setEnabled(true);
 }
 
-void MainWindow::onDoubleClicked(const QModelIndex &index)
+void MainWindow::onItemDoubleClicked(QListWidgetItem *item)
 {
-    QListView *listView = qobject_cast<QListView *>(sender());
-    if (listView && index.isValid())
-    {
-        StringListModel *model = dynamic_cast<StringListModel *>(listView->model());
-        QString text = model->stringList().at(index.row());
-        if (!text.isEmpty())
-        {
-            if (!m_checkExport->isChecked())
-            {
-                text = m_editDir->text().append("/").append(text);
-                text = text.replace("\\", "/").replace("//", "/");
-                text = QDir::toNativeSeparators(text);
-            }
+    if (!item || !sender())
+        return;
 
-            TextDialog *dialog = new TextDialog(text,
-                                                m_editTag->text(),
-                                                m_checkTag->isChecked() ? Qt::CaseSensitive : Qt::CaseInsensitive,
-                                                listView != m_listRight,
-                                                this);
-            dialog->exec();
-            delete dialog;
+    QString text = item->text();
+    if (!text.isEmpty())
+    {
+        if (!m_checkExport->isChecked())
+        {
+            text = m_editDir->text().append("/").append(text);
+            text = text.replace("\\", "/").replace("//", "/");
+            text = QDir::toNativeSeparators(text);
         }
+
+        TextDialog *dialog = new TextDialog(text,
+                                            m_editTag->text(),
+                                            m_checkTag->isChecked() ? Qt::CaseSensitive : Qt::CaseInsensitive,
+                                            sender() != m_listRight,
+                                            this);
+        dialog->exec();
+        delete dialog;
     }
 }
 
@@ -505,14 +540,14 @@ void MainWindow::processDirectory(const QString &dir)
                     file->close();
                     delete file;
 
-                    m_mutex->lock();
+                    m_mutex->acquire();
                     if (foundTag && foundText)
                         m_listTagAndText.append(QDir::toNativeSeparators(info.absoluteFilePath()));
                     else if (foundTag)
                         m_listTagOnly.append(QDir::toNativeSeparators(info.absoluteFilePath()));
                     else
                         m_listOthers.append(QDir::toNativeSeparators(info.absoluteFilePath()));
-                    m_mutex->unlock();
+                    m_mutex->release();
                 }
                 else
                     delete file;
@@ -525,53 +560,80 @@ void MainWindow::processDirectory(const QString &dir)
 
 void MainWindow::refreshLists()
 {
-    m_mutex->lock();
+    m_mutex->acquire();
     if (!m_listTagAndText.isEmpty())
-    {
-        StringListModel *model = dynamic_cast<StringListModel *>(m_listLeft->model());
+    {        
         if (m_checkExport->isChecked())
         {
             foreach (QString file, m_listTagAndText)
-                model->append(file);
+            {
+                QListWidgetItem *item = new QListWidgetItem(file);
+                item->setFlags(Qt::ItemIsEnabled | Qt::ItemIsSelectable);
+                item->setToolTip(file);
+                m_listLeft->addItem(item);
+            }
         }
         else
         {
             foreach (QString file, m_listTagAndText)
-                model->append(formatPath(file));
+            {
+                QListWidgetItem *item = new QListWidgetItem(formatPath(file));
+                item->setFlags(Qt::ItemIsEnabled | Qt::ItemIsSelectable);
+                item->setToolTip(item->text());
+                m_listLeft->addItem(item);
+            }
         }
         m_listTagAndText.clear();
     }
     if (!m_listTagOnly.isEmpty())
     {
-        StringListModel *model = dynamic_cast<StringListModel *>(m_listMiddle->model());
         if (m_checkExport->isChecked())
         {
             foreach (QString file, m_listTagOnly)
-                model->append(file);
+            {
+                QListWidgetItem *item = new QListWidgetItem(file);
+                item->setFlags(Qt::ItemIsEnabled | Qt::ItemIsSelectable);
+                item->setToolTip(file);
+                m_listMiddle->addItem(item);
+            }
         }
         else
         {
             foreach (QString file, m_listTagOnly)
-                model->append(formatPath(file));
+            {
+                QListWidgetItem *item = new QListWidgetItem(formatPath(file));
+                item->setFlags(Qt::ItemIsEnabled | Qt::ItemIsSelectable);
+                item->setToolTip(item->text());
+                m_listMiddle->addItem(item);
+            }
         }
         m_listTagOnly.clear();
     }
     if (!m_listOthers.isEmpty())
     {
-        StringListModel *model = dynamic_cast<StringListModel *>(m_listRight->model());
         if (m_checkExport->isChecked())
         {
             foreach (QString file, m_listOthers)
-                model->append(file);
+            {
+                QListWidgetItem *item = new QListWidgetItem(file);
+                item->setFlags(Qt::ItemIsEnabled | Qt::ItemIsSelectable);
+                item->setToolTip(file);
+                m_listRight->addItem(item);
+            }
         }
         else
         {
             foreach (QString file, m_listOthers)
-                model->append(formatPath(file));
+            {
+                QListWidgetItem *item = new QListWidgetItem(formatPath(file));
+                item->setFlags(Qt::ItemIsEnabled | Qt::ItemIsSelectable);
+                item->setToolTip(item->text());
+                m_listRight->addItem(item);
+            }
         }
         m_listTagAndText.clear();
     }
-    m_mutex->unlock();
+    m_mutex->release();
 }
 
 QString MainWindow::formatPath(const QString &path)
@@ -586,4 +648,55 @@ QString MainWindow::formatPath(const QString &path)
             tmp1.remove(0, 1);
     }
     return QDir::toNativeSeparators(tmp1);
+}
+
+void MainWindow::loadSettings()
+{
+    QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+    current.cdUp();
+    current.cdUp();
+    current.cdUp();
+#endif
+    QFileInfo binInfo(qApp->applicationFilePath());
+    QString config = current.absoluteFilePath(binInfo.baseName().append(".cfg"));
+    if (!QFile::exists(config))
+        return;
+
+    QSettings settings(config, QSettings::IniFormat, this);
+    if (settings.contains("Dir"))
+        m_editDir->setText(settings.value("Dir").toString());
+    if (settings.contains("Tag"))
+        m_editTag->setText(settings.value("Tag").toString());
+    if (settings.contains("Text"))
+        m_editText->setText(settings.value("Text").toString());
+    if (settings.contains("TagCase"))
+        m_checkTag->setChecked(settings.value("TagCase").toBool());
+    if (settings.contains("TextCase"))
+        m_checkText->setChecked(settings.value("TextCase").toBool());
+    if (settings.contains("AbsolutePath"))
+        m_checkExport->setChecked(settings.value("Export").toBool());
+    if (settings.contains("ExportFile"))
+        m_last = settings.value("ExportFile").toString();
+}
+
+void MainWindow::saveSettings()
+{
+    QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+    current.cdUp();
+    current.cdUp();
+    current.cdUp();
+#endif
+    QFileInfo binInfo(qApp->applicationFilePath());
+    QString config = current.absoluteFilePath(binInfo.baseName().append(".cfg"));
+
+    QSettings settings(config, QSettings::IniFormat, this);
+    settings.setValue("Dir", m_editDir->text().trimmed());
+    settings.setValue("Tag", m_editTag->text().trimmed());
+    settings.setValue("Text", m_editText->text().trimmed());
+    settings.setValue("TagCase", m_checkTag->isChecked());
+    settings.setValue("TextCase", m_checkText->isChecked());
+    settings.setValue("AbsolutePath", m_checkExport->isChecked());
+    settings.setValue("ExportFile", m_last);
 }

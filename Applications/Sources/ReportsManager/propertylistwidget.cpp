@@ -30,6 +30,8 @@ PropertyListWidget::PropertyListWidget(QWidget *parent) :
 
     setEditTriggers(QAbstractItemView::DoubleClicked | QAbstractItemView::EditKeyPressed);
     setSelectionMode(QAbstractItemView::SingleSelection);
+    setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
+    setTextElideMode(Qt::ElideRight);
 }
 
 PropertyListWidget::~PropertyListWidget()
@@ -82,6 +84,7 @@ void PropertyListWidget::addNewProperty(const QString &prop)
 
     QListWidgetItem *newItem = new QListWidgetItem(newProp);
     newItem->setFlags(Qt::ItemIsEditable | Qt::ItemIsEnabled | Qt::ItemIsSelectable);
+    newItem->setToolTip(newProp);
 
     insertItem(m_props.indexOf(newProp), newItem);
 
@@ -147,6 +150,7 @@ void PropertyListWidget::addNewProperties(const QStringList &props)
     {
         QListWidgetItem *newItem = new QListWidgetItem(newProp);
         newItem->setFlags(Qt::ItemIsEditable | Qt::ItemIsEnabled | Qt::ItemIsSelectable);
+        newItem->setToolTip(newProp);
 
         insertItem(m_props.indexOf(newProp), newItem);
     }
@@ -207,6 +211,7 @@ void PropertyListWidget::newProperty()
 
         QListWidgetItem *newItem = new QListWidgetItem(prop);
         newItem->setFlags(Qt::ItemIsEditable | Qt::ItemIsEnabled | Qt::ItemIsSelectable);
+        newItem->setToolTip(prop);
 
         insertItem(m_props.indexOf(prop), newItem);
 
@@ -231,6 +236,7 @@ void PropertyListWidget::closeEditor(QWidget *editor, QAbstractItemDelegate::End
                                  tr("Rename Property"),
                                  tr("The new property must not be empty."));
             m_editingItem->setText(m_editingProp);
+            m_editingItem->setToolTip(m_editingProp);
         }
         else if (newProp.compare(m_editingProp) == 0)
         {
@@ -242,6 +248,7 @@ void PropertyListWidget::closeEditor(QWidget *editor, QAbstractItemDelegate::End
                                  tr("Rename Property"),
                                  tr("Property \"%1\" already exists.").arg(newProp));
             m_editingItem->setText(m_editingProp);
+            m_editingItem->setToolTip(m_editingProp);
         }
         else
         {
@@ -254,7 +261,11 @@ void PropertyListWidget::closeEditor(QWidget *editor, QAbstractItemDelegate::End
                 QListWidgetItem *listItem = item(i);
                 QString property = m_props.at(i);
                 if (listItem->text().compare(property) != 0)
+                {
                     listItem->setText(property);
+                }
+
+                listItem->setToolTip(property);
 
                 if (property.compare(newProp) == 0)
                     setCurrentRow(i, QItemSelectionModel::ClearAndSelect);

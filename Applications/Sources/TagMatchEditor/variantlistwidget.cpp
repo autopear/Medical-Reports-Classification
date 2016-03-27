@@ -28,8 +28,14 @@ VariantListWidget::VariantListWidget(QWidget *parent) :
     connect(m_actionRename, SIGNAL(triggered(bool)),
             this, SLOT(renameVariant()));
 
+    m_actionClear = new QAction(tr("&Clear"), this);
+    connect(m_actionClear, SIGNAL(triggered(bool)),
+            this, SIGNAL(requestClear()));
+
     setEditTriggers(QAbstractItemView::DoubleClicked | QAbstractItemView::EditKeyPressed);
     setSelectionMode(QAbstractItemView::SingleSelection);
+    setTextElideMode(Qt::ElideRight);
+    setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
 }
 
 VariantListWidget::~VariantListWidget()
@@ -37,6 +43,7 @@ VariantListWidget::~VariantListWidget()
     delete m_actionDelete;
     delete m_actionNew;
     delete m_actionRename;
+    delete m_actionClear;
 }
 
 QStringList VariantListWidget::variants() const
@@ -66,6 +73,7 @@ void VariantListWidget::setVariants(const QString &tag, const QStringList &vars)
         {
             QListWidgetItem *newItem = new QListWidgetItem(var);
             newItem->setFlags(Qt::ItemIsEditable | Qt::ItemIsEnabled | Qt::ItemIsSelectable);
+            newItem->setToolTip(var);
 
             addItem(newItem);
         }
@@ -149,6 +157,7 @@ void VariantListWidget::newVariant()
 
         QListWidgetItem *newItem = new QListWidgetItem(var);
         newItem->setFlags(Qt::ItemIsEditable | Qt::ItemIsEnabled | Qt::ItemIsSelectable);
+        newItem->setToolTip(var);
 
         insertItem(m_vars.indexOf(var), newItem);
 
@@ -171,6 +180,7 @@ void VariantListWidget::closeEditor(QWidget *editor, QAbstractItemDelegate::EndE
                                  tr("Rename Variant"),
                                  tr("The new variant must not be empty."));
             m_editingItem->setText(m_editingVar);
+            m_editingItem->setToolTip(m_editingVar);
         }
         else if (newVar.compare(m_editingVar) == 0)
         {
@@ -182,6 +192,7 @@ void VariantListWidget::closeEditor(QWidget *editor, QAbstractItemDelegate::EndE
                                  tr("Rename Variant"),
                                  tr("Variant \"%1\" already exists.").arg(newVar));
             m_editingItem->setText(m_editingVar);
+            m_editingItem->setToolTip(m_editingVar);
         }
         else
         {
@@ -195,6 +206,8 @@ void VariantListWidget::closeEditor(QWidget *editor, QAbstractItemDelegate::EndE
                 QString variant = m_vars.at(i);
                 if (listItem->text().compare(variant) != 0)
                     listItem->setText(variant);
+
+                listItem->setToolTip(variant);
 
                 if (variant.compare(newVar) == 0)
                     setCurrentRow(i, QItemSelectionModel::ClearAndSelect);
@@ -222,6 +235,12 @@ void VariantListWidget::contextMenuEvent(QContextMenuEvent *event)
         menu->addSeparator();
         menu->addAction(m_actionDelete);
     }
+
+//    if (count() > 0)
+//    {
+//        menu->addSeparator();
+//        menu->addAction(m_actionClear);
+//    }
 
     menu->exec(event->globalPos());
     event->accept();

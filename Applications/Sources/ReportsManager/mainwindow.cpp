@@ -14,6 +14,7 @@
 #include <QMessageBox>
 #include <QMimeData>
 #include <QPushButton>
+#include <QSettings>
 #include <QSplitter>
 #include <QTextEdit>
 #include <QUrl>
@@ -49,6 +50,8 @@ MainWindow::MainWindow(QWidget *parent) :
 
     m_listReports = new QListWidget(this);
     m_listReports->setSelectionMode(QAbstractItemView::SingleSelection);
+    m_listReports->setTextElideMode(Qt::ElideMiddle);
+    m_listReports->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
     connect(m_listReports, SIGNAL(currentItemChanged(QListWidgetItem*,QListWidgetItem*)),
             this, SLOT(onReportSelected(QListWidgetItem*,QListWidgetItem*)));
 
@@ -101,6 +104,12 @@ MainWindow::MainWindow(QWidget *parent) :
     m_splitter->addWidget(m_groupReports);
     m_splitter->addWidget(m_groupProps);
     m_splitter->addWidget(m_groupValue);
+    m_splitter->setStretchFactor(0, 1);
+    m_splitter->setStretchFactor(1, 1);
+    m_splitter->setStretchFactor(2, 1);
+    m_splitter->setCollapsible(0, false);
+    m_splitter->setCollapsible(1, false);
+    m_splitter->setCollapsible(2, false);
 
     m_main = new QWidget(this);
 
@@ -124,6 +133,10 @@ MainWindow::MainWindow(QWidget *parent) :
     m_groupReports->setEnabled(false);
     m_groupProps->setEnabled(false);
     m_groupValue->setEnabled(false);
+
+    loadSettings();
+    if (!m_editXml->text().trimmed().isEmpty())
+        loadXml();
 }
 
 MainWindow::~MainWindow()
@@ -169,7 +182,10 @@ void MainWindow::selectXml()
                                        "*.xml");
 
     if (!xml.isEmpty())
+    {
         m_editXml->setText(QDir::toNativeSeparators(xml));
+        loadXml();
+    }
 }
 
 void MainWindow::saveXml()
@@ -200,7 +216,18 @@ void MainWindow::saveXml()
 
 void MainWindow::onXmlChanged()
 {
-    m_btnSave->setEnabled(!m_editXml->text().trimmed().isEmpty());
+    if (m_editXml->text().trimmed().isEmpty())
+    {
+        m_btnSave->setEnabled(false);
+
+        m_listReports->clear();
+        m_groupProps->setEnabled(false);
+        m_listProps->clearAllproperties();
+        m_groupValue->setEnabled(false);
+        m_editValue->clear();
+    }
+    else
+        m_btnSave->setEnabled(true);
 }
 
 void MainWindow::onStateChanged()
@@ -342,12 +369,18 @@ void MainWindow::loadXml()
         m_reports.insert(report.report(), report);
     }
 
+    QStringList reportList(m_reports.keys());
+
     m_listReports->clear();
-    m_listReports->addItems(QStringList(m_reports.keys()));
+    m_listReports->addItems(reportList);
+    for (int i=0; i<reportList.size(); i++)
+        m_listReports->item(i)->setToolTip(reportList.at(i));
 
     m_groupReports->setEnabled(true);
 
     m_listReports->setCurrentRow(0, QItemSelectionModel::ClearAndSelect);
+
+    saveSettings();
 }
 
 void MainWindow::onReportSelected(QListWidgetItem *current, QListWidgetItem *previous)
@@ -495,4 +528,37 @@ void MainWindow::dropEvent(QDropEvent *event)
         }
     }
     event->ignore();
+}
+
+void MainWindow::loadSettings()
+{
+    QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+    current.cdUp();
+    current.cdUp();
+    current.cdUp();
+#endif
+    QFileInfo binInfo(qApp->applicationFilePath());
+    QString config = current.absoluteFilePath(binInfo.baseName().append(".cfg"));
+    if (!QFile::exists(config))
+        return;
+
+    QSettings settings(config, QSettings::IniFormat, this);
+    if (settings.contains("XML"))
+        m_editXml->setText(settings.value("XML").toString());
+}
+
+void MainWindow::saveSettings()
+{
+    QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+    current.cdUp();
+    current.cdUp();
+    current.cdUp();
+#endif
+    QFileInfo binInfo(qApp->applicationFilePath());
+    QString config = current.absoluteFilePath(binInfo.baseName().append(".cfg"));
+
+    QSettings settings(config, QSettings::IniFormat, this);
+    settings.setValue("XML", m_editXml->text().trimmed());
 }

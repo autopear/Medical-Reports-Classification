@@ -1,3 +1,4 @@
+#include <QApplication>
 #include <QDir>
 #include <QDragEnterEvent>
 #include <QDragMoveEvent>
@@ -18,11 +19,9 @@ FilePicker::FilePicker(const QString &text, QWidget *parent) :
     m_label = new QLabel(text, this);
 
     m_edit = new QLineEdit(this);
-    m_edit->setPlaceholderText(tr("Drag file here..."));
-    connect(m_edit, SIGNAL(editingFinished()),
-            this, SLOT(onEnterPressed()));
+    m_edit->setPlaceholderText(tr("Drag a file here..."));
     connect(m_edit, SIGNAL(returnPressed()),
-            this, SLOT(onEnterPressed()));
+            this, SLOT(onReturnPressed()));
 
     m_btn = new QPushButton(tr("Select..."), this);
     m_btn->setAutoDefault(false);
@@ -48,12 +47,12 @@ FilePicker::~FilePicker()
 
 QString FilePicker::file() const
 {
-    return m_edit->text();
+    return m_edit->text().trimmed();
 }
 
 void FilePicker::setFile(const QString &file)
 {
-    m_edit->setText(QDir::toNativeSeparators(file));
+    m_edit->setText(QDir::toNativeSeparators(file.trimmed()));
 }
 
 void FilePicker::dragEnterEvent(QDragEnterEvent *event)
@@ -118,21 +117,26 @@ void FilePicker::dropEvent(QDropEvent *event)
 
 void FilePicker::selectFile()
 {
-    QString dir = QDir::currentPath();
-    if (!m_edit->text().isEmpty())
+    QString defaultFile = file();
+    if (defaultFile.isEmpty() || !QFile::exists(defaultFile))
     {
-        QFileInfo info(m_edit->text());
-        if (info.exists())
-            dir = info.absoluteDir().absolutePath();
+        QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+        current.cdUp();
+        current.cdUp();
+        current.cdUp();
+#endif
+        defaultFile = current.absolutePath();
     }
+
     QString newFile = QFileDialog::getOpenFileName(this,
                                                    tr("Select..."),
-                                                   dir,
+                                                   defaultFile,
                                                    "*");
     if (!newFile.isEmpty())
     {
         newFile = QDir::toNativeSeparators(newFile);
-        if (newFile.compare(m_edit->text()) != 0)
+        if (newFile.compare(file()) != 0)
         {
             m_edit->setText(newFile);
             emit fileChanged(newFile);
@@ -140,7 +144,7 @@ void FilePicker::selectFile()
     }
 }
 
-void FilePicker::onEnterPressed()
+void FilePicker::onReturnPressed()
 {
-    emit fileChanged(m_edit->text());
+    emit fileChanged(m_edit->text().trimmed());
 }

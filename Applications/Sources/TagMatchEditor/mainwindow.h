@@ -32,9 +32,14 @@ private slots:
     void onTagAdded(const QString &tag);
     void onCurrentTagChanged(const QString &tag);
     void onVariantsChanged();
+    void onClearTags();
+    void onClearVariants();
     bool loadFile();
 
 private:
+    void loadSettings();
+    void saveSettings();
+
     QLabel *m_labelFile;
     QLineEdit *m_editFile;
     QPushButton *m_btnFile;

@@ -8,7 +8,7 @@
 #include <QHBoxLayout>
 #include <QLabel>
 #include <QLineEdit>
-#include <QListView>
+#include <QListWidget>
 #include <QMessageBox>
 #include <QMimeData>
 #include <QProgressBar>
@@ -17,6 +17,7 @@
 #include <QStringListModel>
 #include <QUrl>
 #include <QVBoxLayout>
+#include "elidiblelabel.h"
 #include "reportparser.h"
 #include "reportgenerator.h"
 
@@ -38,7 +39,7 @@ ReportGenerator::ReportGenerator(QWidget *parent) :
 
     m_editTags = new QLineEdit(this);
     m_editTags->setPlaceholderText(tr("Drag the tags configuration file to the main window..."));
-    m_editTags->setMinimumWidth(m_editTags->sizeHint().width() * 2);
+    m_editTags->setMinimumWidth(m_editTags->sizeHint().width() * 1.5);
 
     m_btnTags = new QPushButton(tr("Select..."), this);
     m_btnTags->setAutoDefault(false);
@@ -55,10 +56,13 @@ ReportGenerator::ReportGenerator(QWidget *parent) :
     connect(m_btnXml, SIGNAL(clicked(bool)),
             this, SLOT(selectXml()));
 
-    m_list = new QListView(this);
+    m_list = new QListWidget(this);
     m_list->setEditTriggers(QAbstractItemView::NoEditTriggers);
-    m_list->setModel(new QStringListModel(m_list));
     m_list->setSelectionMode(QAbstractItemView::SingleSelection);
+    m_list->setTextElideMode(Qt::ElideMiddle);
+    m_list->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
+
+    m_labelInfo = new ElidibleLabel(this);
 
     m_bar = new QProgressBar(this);
     m_bar->setTextVisible(true);
@@ -93,11 +97,14 @@ ReportGenerator::ReportGenerator(QWidget *parent) :
     layout->addLayout(layout2, 0);
     layout->addLayout(layout3, 0);
     layout->addWidget(m_list, 1);
+    layout->addWidget(m_labelInfo, 0);
     layout->addWidget(m_bar, 0);
     layout->addWidget(m_btnStart, 0, Qt::AlignCenter);
     setLayout(layout);
 
     setAcceptDrops(true);
+
+    loadSettings();
 }
 
 ReportGenerator::~ReportGenerator()
@@ -115,6 +122,8 @@ ReportGenerator::~ReportGenerator()
     delete m_btnXml;
 
     delete m_list;
+
+    delete m_labelInfo;
 
     delete m_bar;
 
@@ -258,9 +267,9 @@ void ReportGenerator::start()
         return;
     }
 
-    m_running = true;
+    saveSettings();
 
-    reports.sort();
+    m_running = true;
 
     m_bar->setRange(0, reports.size());
 
@@ -273,9 +282,17 @@ void ReportGenerator::start()
             report = report.remove(0, 1);
         list.append(report);
     }
+    list.sort();
 
-    QStringListModel *model = qobject_cast<QStringListModel *>(m_list->model());
-    model->setStringList(list);
+    m_list->clear();
+    foreach (QString report, list)
+    {
+        QListWidgetItem *item = new QListWidgetItem(report);
+        item->setFlags(Qt::ItemIsEnabled | Qt::ItemIsSelectable);
+        item->setToolTip(item->text());
+
+        m_list->addItem(item);
+    }
 
     m_labelDir->setEnabled(false);
     m_editDir->setEnabled(false);
@@ -307,13 +324,7 @@ void ReportGenerator::onReportParsed(int index)
 {
     m_bar->setValue(index + 1);
 
-    QModelIndex idx = m_list->model()->index(index, 0, QModelIndex());
-    if (idx.isValid())
-    {
-        m_list->clearSelection();
-        m_list->setCurrentIndex(idx);
-        m_list->scrollTo(idx);
-    }
+    m_labelInfo->setText(m_list->item(index)->text());
 
     if (m_bar->value() == m_bar->maximum())
     {
@@ -428,4 +439,43 @@ void ReportGenerator::findAllReports(const QString &dir, QStringList *reports)
         {
         }
     }
+}
+
+void ReportGenerator::loadSettings()
+{
+    QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+    current.cdUp();
+    current.cdUp();
+    current.cdUp();
+#endif
+    QFileInfo binInfo(qApp->applicationFilePath());
+    QString config = current.absoluteFilePath(binInfo.baseName().append(".cfg"));
+    if (!QFile::exists(config))
+        return;
+
+    QSettings settings(config, QSettings::IniFormat, this);
+    if (settings.contains("Dir"))
+        m_editDir->setText(settings.value("Dir").toString());
+    if (settings.contains("Tags"))
+        m_editTags->setText(settings.value("Tags").toString());
+    if (settings.contains("XML"))
+        m_editXml->setText(settings.value("XML").toString());
+}
+
+void ReportGenerator::saveSettings()
+{
+    QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+    current.cdUp();
+    current.cdUp();
+    current.cdUp();
+#endif
+    QFileInfo binInfo(qApp->applicationFilePath());
+    QString config = current.absoluteFilePath(binInfo.baseName().append(".cfg"));
+
+    QSettings settings(config, QSettings::IniFormat, this);
+    settings.setValue("Dir", m_editDir->text().trimmed());
+    settings.setValue("Tags", m_editTags->text().trimmed());
+    settings.setValue("XML", m_editXml->text().trimmed());
 }

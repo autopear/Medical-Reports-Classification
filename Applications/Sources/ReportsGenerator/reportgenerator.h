@@ -3,9 +3,10 @@
 
 #include <QWidget>
 
+class ElidibleLabel;
 class QLabel;
 class QLineEdit;
-class QListView;
+class QListWidget;
 class QProgressBar;
 class QPushButton;
 
@@ -33,6 +34,9 @@ private slots:
 private:
     static void findAllReports(const QString &dir, QStringList *reports);
 
+    void loadSettings();
+    void saveSettings();
+
     QLabel *m_labelDir;
     QLineEdit *m_editDir;
     QPushButton *m_btnDir;
@@ -45,7 +49,9 @@ private:
     QLineEdit *m_editXml;
     QPushButton *m_btnXml;
 
-    QListView *m_list;
+    QListWidget *m_list;
+
+    ElidibleLabel *m_labelInfo;
 
     QProgressBar *m_bar;
 

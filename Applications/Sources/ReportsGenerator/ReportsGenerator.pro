@@ -14,9 +14,11 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
            mainwindow.cpp \
+           elidiblelabel.cpp \
            reportgenerator.cpp \
            reportparser.cpp
 
 HEADERS += mainwindow.h \
+           elidiblelabel.h \
            reportgenerator.h \
            reportparser.h

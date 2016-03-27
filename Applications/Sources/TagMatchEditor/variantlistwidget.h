@@ -16,6 +16,7 @@ public:
 
 signals:
     void variantsChanged(const QStringList &vars);
+    void requestClear();
 
 public slots:
     void setVariants(const QString &tag, const QStringList &vars);
@@ -38,6 +39,7 @@ private:
     QAction *m_actionRename;
     QAction *m_actionDelete;
     QAction *m_actionNew;
+    QAction *m_actionClear;
 
     QStringList m_vars;
     QString m_tag;

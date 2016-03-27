@@ -20,6 +20,7 @@ signals:
     void tagChanged(const QString &oldTag, const QString &newTag);
     void tagDeleted(const QString &tag);
     void tagAdded(const QString &tag);
+    void requestClear();
 
 public slots:
     void clearAllTags();
@@ -43,6 +44,7 @@ private:
     QAction *m_actionRename;
     QAction *m_actionDelete;
     QAction *m_actionNew;
+    QAction *m_actionClear;
 
     QStringList m_tags;
 

@@ -46,6 +46,8 @@ MainWindow::MainWindow(QWidget *parent) :
             this, SLOT(onTagDeleted(QString)));
     connect(m_listTags, SIGNAL(currentTextChanged(QString)),
             this, SLOT(onCurrentTagChanged(QString)));
+    connect(m_listTags, SIGNAL(requestClear()),
+            this, SLOT(onClearTags()));
 
     m_groupTags = new QGroupBox(tr("Tags"), this);
     QVBoxLayout *groupLayout = new QVBoxLayout(m_groupTags);
@@ -56,6 +58,8 @@ MainWindow::MainWindow(QWidget *parent) :
     m_listVars->setEnabled(false);
     connect(m_listVars, SIGNAL(variantsChanged(QStringList)),
             this, SLOT(onVariantsChanged()));
+    connect(m_listVars, SIGNAL(requestClear()),
+            this, SLOT(onClearVariants()));
 
     m_groupVars = new QGroupBox(tr("Tag Variants"), this);
     groupLayout = new QVBoxLayout(m_groupVars);
@@ -65,6 +69,10 @@ MainWindow::MainWindow(QWidget *parent) :
     m_splitter = new QSplitter(Qt::Horizontal, this);
     m_splitter->addWidget(m_groupTags);
     m_splitter->addWidget(m_groupVars);
+    m_splitter->setStretchFactor(0, 1);
+    m_splitter->setStretchFactor(1, 1);
+    m_splitter->setCollapsible(0, false);
+    m_splitter->setCollapsible(1, false);
 
     m_btnSave = new QPushButton(tr("&Save"), this);
     m_btnSave->setAutoDefault(false);
@@ -108,6 +116,9 @@ MainWindow::MainWindow(QWidget *parent) :
 
     setWindowTitle(tr("Tag Match Editor"));
     setAcceptDrops(true);
+
+    loadSettings();
+    loadFile();
 }
 
 MainWindow::~MainWindow()
@@ -132,10 +143,8 @@ MainWindow::~MainWindow()
 
 void MainWindow::selectFile()
 {
-    QString defaultFile;
-    if (!m_editFile->text().trimmed().isEmpty() && QFile::exists(m_editFile->text()))
-        defaultFile = m_editFile->text();
-    else
+    QString defaultFile = m_editFile->text().trimmed();
+    if (defaultFile.isEmpty() || !QFile::exists(defaultFile))
     {
         QDir current(qApp->applicationDirPath());
 #ifdef Q_OS_MAC
@@ -206,6 +215,9 @@ void MainWindow::saveFile()
 
 bool MainWindow::loadFile()
 {
+    m_listTags->clearAllTags();
+    m_listVars->clearAllVariants();
+
     QString file = m_editFile->text().trimmed();
     m_editFile->setText(QDir::toNativeSeparators(file));
 
@@ -225,7 +237,7 @@ bool MainWindow::loadFile()
         return false;
     }
 
-    m_listVars->clearAllVariants();
+    saveSettings();
 
     QSettings settings(file, QSettings::IniFormat, this);
 
@@ -296,6 +308,21 @@ void MainWindow::onVariantsChanged()
     m_tags.insert(currentTag, m_listVars->variants());
 }
 
+void MainWindow::onClearTags()
+{
+    if (m_tags.isEmpty())
+        return;
+
+    m_listTags->clearAllTags();
+    m_listVars->clearAllVariants();
+    m_tags.clear();
+}
+
+void MainWindow::onClearVariants()
+{
+    //Not implemented
+}
+
 void MainWindow::dragEnterEvent(QDragEnterEvent *event)
 {
     if (event->mimeData()->urls().size() == 1)
@@ -350,4 +377,37 @@ void MainWindow::dropEvent(QDropEvent *event)
         }
     }
     event->ignore();
+}
+
+void MainWindow::loadSettings()
+{
+    QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+    current.cdUp();
+    current.cdUp();
+    current.cdUp();
+#endif
+    QFileInfo binInfo(qApp->applicationFilePath());
+    QString config = current.absoluteFilePath(binInfo.baseName().append(".cfg"));
+    if (!QFile::exists(config))
+        return;
+
+    QSettings settings(config, QSettings::IniFormat, this);
+    if (settings.contains("File"))
+        m_editFile->setText(settings.value("File").toString());
+}
+
+void MainWindow::saveSettings()
+{
+    QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+    current.cdUp();
+    current.cdUp();
+    current.cdUp();
+#endif
+    QFileInfo binInfo(qApp->applicationFilePath());
+    QString config = current.absoluteFilePath(binInfo.baseName().append(".cfg"));
+
+    QSettings settings(config, QSettings::IniFormat, this);
+    settings.setValue("File", m_editFile->text().trimmed());
 }

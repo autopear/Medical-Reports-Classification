@@ -2,15 +2,15 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include <QStringListModel>
 
 class QCheckBox;
 class QGroupBox;
 class QLabel;
 class QLineEdit;
-class QListView;
-class QMutex;
+class QListWidget;
+class QListWidgetItem;
 class QPushButton;
+class QSemaphore;
 class QSplitter;
 
 class MainWindow : public QMainWindow
@@ -24,7 +24,7 @@ private slots:
     void selectDir(); //Open file dialog to select a directory to be searched in
     void exportList(); //Export selected list
     void search(); //Start search in directory
-    void onDoubleClicked(const QModelIndex &index); //Preview file
+    void onItemDoubleClicked(QListWidgetItem *item); //Preview file
 
 protected:
     virtual void timerEvent(QTimerEvent *event);
@@ -36,6 +36,8 @@ private:
     void processDirectory(const QString &dir); //Scan directory recursively and analyze txt files
     void refreshLists(); //Refresh all available list views
     QString formatPath(const QString &path); //Remove directory prefix, display and save relative path only
+    void loadSettings();
+    void saveSettings();
 
     QWidget *m_main;
 
@@ -57,15 +59,15 @@ private:
     QSplitter *m_splitter;
 
     QGroupBox *m_groupLeft;
-    QListView *m_listLeft;
+    QListWidget *m_listLeft;
     QPushButton *m_btnLeft;
 
     QGroupBox *m_groupMiddle;
-    QListView *m_listMiddle;
+    QListWidget *m_listMiddle;
     QPushButton *m_btnMiddle;
 
     QGroupBox *m_groupRight;
-    QListView *m_listRight;
+    QListWidget *m_listRight;
     QPushButton *m_btnRight;
 
     QPushButton *m_button;
@@ -75,20 +77,9 @@ private:
     QStringList m_listTagOnly; //Buffer for files containing only tag but not text (not available for empty text)
     QStringList m_listOthers; //Buffer for files not containing tag
 
-    QMutex *m_mutex;
-};
+    QSemaphore *m_mutex;
 
-class StringListModel : public QStringListModel
-{
-public:
-    void append(const QString &string) {
-        insertRows(rowCount(), 1);
-        setData(index(rowCount() - 1), string);
-    }
-    StringListModel &operator<<(const QString &string){
-        append(string);
-        return *this;
-    }
+    QString m_last;
 };
 
 #endif // MAINWINDOW_H
