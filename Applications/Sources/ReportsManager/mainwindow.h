@@ -31,6 +31,7 @@ protected:
 private slots:
     void selectXml();
     void saveXml();
+    void importFiles();
     void onXmlChanged();
     void onStateChanged();
     void loadXml();
@@ -42,6 +43,7 @@ private slots:
     void onValueEdited();
 
 private:
+    void importAndUpdate(const QStringList &files);
     void loadSettings();
     void saveSettings();
     static QString formatPath(const QString &path);
@@ -50,6 +52,7 @@ private:
     QLineEdit *m_editXml;
     QPushButton *m_btnOpen;
     QPushButton *m_btnSave;
+    QPushButton *m_btnImport;
 
     QListWidget *m_listReports;
 
@@ -74,6 +77,8 @@ private:
     QMap<QString, Report> m_reports;
 
     Report m_currentReport;
+
+    QString m_importDir;
 };
 
 #endif // MAINWINDOW_H

@@ -20,6 +20,7 @@
 #include <QUrl>
 #include <QVariant>
 #include <QVBoxLayout>
+#include "batchloaddialog.h"
 #include "propertylistwidget.h"
 #include "mainwindow.h"
 
@@ -47,6 +48,13 @@ MainWindow::MainWindow(QWidget *parent) :
     m_btnSave->setEnabled(false);
     connect(m_btnSave, SIGNAL(clicked(bool)),
             this, SLOT(saveXml()));
+
+    m_btnImport = new QPushButton(tr("&Import"), this);
+    m_btnImport->setShortcut(QKeySequence::New);
+    m_btnImport->setAutoDefault(false);
+    m_btnImport->setEnabled(false);
+    connect(m_btnImport, SIGNAL(clicked(bool)),
+            this, SLOT(importFiles()));
 
     m_listReports = new QListWidget(this);
     m_listReports->setSelectionMode(QAbstractItemView::SingleSelection);
@@ -119,6 +127,7 @@ MainWindow::MainWindow(QWidget *parent) :
     layoutXml->addWidget(m_editXml, 1);
     layoutXml->addWidget(m_btnOpen, 0);
     layoutXml->addWidget(m_btnSave, 0);
+    layoutXml->addWidget(m_btnImport, 0);
 
     QVBoxLayout *layout = new QVBoxLayout(m_main);
     layout->addLayout(layoutXml, 0);
@@ -145,6 +154,7 @@ MainWindow::~MainWindow()
     delete m_editXml;
     delete m_btnOpen;
     delete m_btnSave;
+    delete m_btnImport;
 
     delete m_listReports;
     delete m_groupReports;
@@ -214,11 +224,39 @@ void MainWindow::saveXml()
     delete file;
 }
 
+void MainWindow::importFiles()
+{
+    QString defaultDir = m_importDir;
+    if (defaultDir.isEmpty() || !QFile::exists(defaultDir))
+    {
+        QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+        current.cdUp();
+        current.cdUp();
+        current.cdUp();
+#endif
+        defaultDir = current.absolutePath();
+    }
+
+    QStringList files = QFileDialog::getOpenFileNames(this,
+                                                      tr("Import"),
+                                                      defaultDir,
+                                                      "*");
+    if (!files.isEmpty())
+    {
+        QFileInfo dirInfo(files.first());
+        m_importDir = dirInfo.absolutePath();
+
+        importAndUpdate(files);
+    }
+}
+
 void MainWindow::onXmlChanged()
 {
     if (m_editXml->text().trimmed().isEmpty())
     {
         m_btnSave->setEnabled(false);
+        m_btnImport->setEnabled(false);
 
         m_listReports->clear();
         m_groupProps->setEnabled(false);
@@ -227,7 +265,10 @@ void MainWindow::onXmlChanged()
         m_editValue->clear();
     }
     else
+    {
         m_btnSave->setEnabled(true);
+        m_btnImport->setEnabled(true);
+    }
 }
 
 void MainWindow::onStateChanged()
@@ -480,10 +521,21 @@ void MainWindow::dragEnterEvent(QDragEnterEvent *event)
             if (url.isLocalFile())
             {
                 QFileInfo info(url.toLocalFile());
-                if (info.isFile() && info.fileName().endsWith(".xml", Qt::CaseInsensitive))
+                if (info.isFile())
                 {
-                    event->acceptProposedAction();
-                    return;
+                    if (info.fileName().endsWith(".xml", Qt::CaseInsensitive))
+                    {
+                        event->acceptProposedAction();
+                        return;
+                    }
+                    else
+                    {
+                        if (m_btnImport->isEnabled())
+                        {
+                            event->acceptProposedAction();
+                            return;
+                        }
+                    }
                 }
             }
         }
@@ -500,10 +552,21 @@ void MainWindow::dragMoveEvent(QDragMoveEvent *event)
             if (url.isLocalFile())
             {
                 QFileInfo info(url.toLocalFile());
-                if (info.isFile() && info.fileName().endsWith(".xml", Qt::CaseInsensitive))
+                if (info.isFile())
                 {
-                    event->acceptProposedAction();
-                    return;
+                    if (info.fileName().endsWith(".xml", Qt::CaseInsensitive))
+                    {
+                        event->acceptProposedAction();
+                        return;
+                    }
+                    else
+                    {
+                        if (m_btnImport->isEnabled())
+                        {
+                            event->acceptProposedAction();
+                            return;
+                        }
+                    }
                 }
             }
         }
@@ -515,22 +578,97 @@ void MainWindow::dropEvent(QDropEvent *event)
 {
     if (event->mimeData()->hasUrls())
     {
+        QString xml;
+        QStringList files;
         foreach (QUrl url, event->mimeData()->urls())
         {
             if (url.isLocalFile())
             {
                 QFileInfo info(url.toLocalFile());
-                if (info.isFile() && info.fileName().endsWith(".xml", Qt::CaseInsensitive))
+                if (info.isFile())
                 {
-                    m_editXml->setText(QDir::toNativeSeparators(info.absoluteFilePath()));
-                    loadXml();
-                    event->acceptProposedAction();
-                    return;
+                    if (info.fileName().endsWith(".xml", Qt::CaseInsensitive))
+                    {
+                        if (xml.isEmpty())
+                            xml = info.absoluteFilePath();
+                    }
+                    else
+                        files.append(info.absoluteFilePath());
                 }
+            }
+        }
+
+        if (files.isEmpty())
+        {
+            if (!xml.isEmpty())
+            {
+                m_editXml->setText(QDir::toNativeSeparators(xml));
+                loadXml();
+                event->acceptProposedAction();
+                return;
+            }
+        }
+        else
+        {
+            if (xml.isEmpty())
+            {
+                if (m_btnImport->isEnabled())
+                {
+                    importAndUpdate(files);
+                    event->acceptProposedAction();
+                }
+            }
+            else
+            {
+                m_editXml->setText(QDir::toNativeSeparators(xml));
+                loadXml();
+
+                importAndUpdate(files);
+                event->acceptProposedAction();
+                return;
             }
         }
     }
     event->ignore();
+}
+
+void MainWindow::importAndUpdate(const QStringList &files)
+{
+    if (files.isEmpty())
+        return;
+
+    BatchLoadDialog *dlg = new BatchLoadDialog(files, this);
+    if (dlg->exec() == QDialog::Accepted)
+    {
+        QString currentReport = m_currentReport.report();
+        foreach (QString key, dlg->reports())
+        {
+            if (m_reports.keys().contains(key))
+            {
+                Report report = m_reports.value(key);
+                report.setPatientState(dlg->state());
+                m_reports.insert(key, report);
+
+                if (key.compare(currentReport) == 0)
+                {
+                    m_currentReport.setPatientState(dlg->state());
+                    switch (dlg->state())
+                    {
+                    case Report::None:
+                        m_checkState->setCheckState(Qt::Unchecked);
+                        break;
+                    case Report::Seizures:
+                        m_checkState->setCheckState(Qt::Checked);
+                        break;
+                    default:
+                        m_checkState->setCheckState(Qt::PartiallyChecked);
+                        break;
+                    }
+                }
+            }
+        }
+    }
+    delete dlg;
 }
 
 void MainWindow::loadSettings()
@@ -549,6 +687,8 @@ void MainWindow::loadSettings()
     QSettings settings(config, QSettings::IniFormat, this);
     if (settings.contains("XML"))
         m_editXml->setText(settings.value("XML").toString());
+    if (settings.contains("Import"))
+        m_importDir = settings.value("Import").toString();
 }
 
 void MainWindow::saveSettings()
@@ -564,6 +704,7 @@ void MainWindow::saveSettings()
 
     QSettings settings(config, QSettings::IniFormat, this);
     settings.setValue("XML", m_editXml->text().trimmed());
+    settings.setValue("Import", m_importDir);
 }
 
 QString MainWindow::formatPath(const QString &path)

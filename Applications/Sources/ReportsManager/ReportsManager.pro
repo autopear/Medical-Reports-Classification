@@ -14,11 +14,15 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
            mainwindow.cpp \
+           batchloaddialog.cpp \
+           elidiblelabel.cpp \
            newpropertydialog.cpp \
            propertylistwidget.cpp \
            report.cpp
 
 HEADERS += mainwindow.h \
+           batchloaddialog.h \
+           elidiblelabel.h \
            newpropertydialog.h \
            propertylistwidget.h \
            report.h
