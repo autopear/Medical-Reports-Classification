@@ -637,6 +637,8 @@ void MainWindow::importAndUpdate(const QStringList &files)
     if (files.isEmpty())
         return;
 
+    saveSettings();
+
     BatchLoadDialog *dlg = new BatchLoadDialog(files, this);
     if (dlg->exec() == QDialog::Accepted)
     {
