@@ -44,6 +44,7 @@ private slots:
 private:
     void loadSettings();
     void saveSettings();
+    static QString formatPath(const QString &path);
 
     QLabel *m_labelXml;
     QLineEdit *m_editXml;

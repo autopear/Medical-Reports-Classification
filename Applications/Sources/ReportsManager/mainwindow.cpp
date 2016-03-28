@@ -325,7 +325,7 @@ void MainWindow::loadXml()
     {
         QDomElement reportElement = reports.at(i).toElement();
 
-        Report report(reportElement.attribute("file").trimmed());
+        Report report(formatPath(reportElement.attribute("file").trimmed()));
         if (report.report().isEmpty())
         {
             qWarning(tr("Report file is undefined at line %1.").arg(reportElement.lineNumber()).toUtf8());
@@ -369,12 +369,15 @@ void MainWindow::loadXml()
         m_reports.insert(report.report(), report);
     }
 
-    QStringList reportList(m_reports.keys());
-
     m_listReports->clear();
-    m_listReports->addItems(reportList);
-    for (int i=0; i<reportList.size(); i++)
-        m_listReports->item(i)->setToolTip(reportList.at(i));
+    foreach (QString file, m_reports.keys())
+    {
+        QListWidgetItem *item = new QListWidgetItem(QDir::toNativeSeparators(file));
+        item->setFlags(Qt::ItemIsSelectable | Qt::ItemIsEnabled);
+        item->setToolTip(file);
+
+        m_listReports->addItem(item);
+    }
 
     m_groupReports->setEnabled(true);
 
@@ -390,7 +393,7 @@ void MainWindow::onReportSelected(QListWidgetItem *current, QListWidgetItem *pre
     if (!current)
         return;
 
-    Report report = m_reports.value(current->text());
+    Report report = m_reports.value(formatPath(current->text()));
 
     switch (report.patientState())
     {
@@ -561,4 +564,10 @@ void MainWindow::saveSettings()
 
     QSettings settings(config, QSettings::IniFormat, this);
     settings.setValue("XML", m_editXml->text().trimmed());
+}
+
+QString MainWindow::formatPath(const QString &path)
+{
+    QString ret = path;
+    return ret.replace("\\", "/");
 }

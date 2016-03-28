@@ -149,7 +149,7 @@ void ReportParser::run()
         }
 
         QDomElement reportElement = doc.createElement("Report");
-        reportElement.setAttribute("file", report);
+        reportElement.setAttribute("file", formatPath(report));
         reportElement.setAttribute("state", seizures ? 0 : -1);
 
         foreach (QString key, props.keys())
@@ -202,4 +202,10 @@ QString ReportParser::formatValue(const QString &value)
             ret = ret.append(c);
     }
     return ret;
+}
+
+QString ReportParser::formatPath(const QString &path)
+{
+    QString ret = path;
+    return ret.replace("\\", "/");
 }
