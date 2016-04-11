@@ -16,7 +16,9 @@ Reports Generator:
 Reports Manager:
   Allow to view and edit the XML report database.
   * Requires the XML file generated from Reports Generator.
-
+  
+Reports Stemmer:
+  Stem all reports and save the output into a single text file.
   
 Tag Finder:
   Search specified tags in directories recursively.
