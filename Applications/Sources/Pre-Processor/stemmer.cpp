@@ -48,38 +48,6 @@ static bool isNum(const QString &word)
     return true;
 }
 
-const static QStringList numSuffix = QStringList() << "st" << "nd" << "rd" << "th"
-                                                   << "s" << "sec" << "second" << "seconds"
-                                                   << "m" << "min" << "minute" << "minutes"
-                                                   << "h" << "hour" << "hours"
-                                                   << "d" << "day" << "days"
-                                                   << "w" << "week" << "weeks"
-                                                   << "mon" << "month" << "months"
-                                                   << "do" << "dayold" << "day-old"
-                                                   << "wo" << "weekold" << "week-old"
-                                                   << "mo" << "monthold" << "month-old"
-                                                   << "yo" << "yearold" << "year-old"
-                                                   << "y" << "year" << "years"
-                                                   << "f" << "bpm" << "hz" << "q" << "uv" << "n" << "v" << "mv"
-                                                   << "a" << "am" << "p" << "pm";
-
-
-static bool isNumberSuffix(const QString &input)
-{
-    foreach (QString suffix, numSuffix)
-    {
-         if (input.endsWith(suffix))
-         {
-             QString copy = input;
-             copy.chop(suffix.size());
-
-             if (isNum(copy))
-                 return true;
-         }
-    }
-    return false;
-}
-
 QStringList Stemmer::stemSentence(const QString &sentence)
 {
     //Split sentence with ' - ', but keep "A-B" as a single word
@@ -104,7 +72,6 @@ QStringList Stemmer::stemSentence(const QString &sentence)
             continue;
         else if (word.size() < 2 || //Skip single character
                  isNum(word) || //Skip pure number
-                 isNumberSuffix(word) || //Skip number plus a suffix
                  stopWords().contains(word)) //Skip stop word
             word.clear();
         else
@@ -120,6 +87,75 @@ QStringList Stemmer::stemSentence(const QString &sentence)
         QString stemmed = stemWord(word);
         if (stemmed.size() > 1)
             stemList.append(stemWord(word));
+    }
+    return stemList;
+}
+
+static bool isNumberSuffix(const QString &input, const QStringList &suffixes)
+{
+    foreach (QString suffix, suffixes)
+    {
+        if (input.endsWith(suffix))
+        {
+            QString copy = input;
+            copy.chop(suffix.size());
+
+            if (isNum(copy))
+                return true;
+        }
+    }
+    return false;
+}
+
+QStringList Stemmer::stemSentence(const QString &sentence,
+                                  const QStringList &filterWords,
+                                  const QStringList &filterNumerSuffixes)
+{
+    //Split sentence with ' - ', but keep "A-B" as a single word
+    QString copy = sentence.toLower();
+    while (copy.contains(" - "))
+        copy = copy.replace(" - ", " ");
+    while (copy.contains(" -"))
+        copy = copy.replace(" -", " ");
+    while (copy.contains("- "))
+        copy = copy.replace("- ", " ");
+
+    QStringList list;
+    QString word;
+    for (int i=0; i<copy.size(); i++)
+    {
+        QChar c = copy.at(i);
+        if (isLetterOrDigit(c))
+            word = word.append(c);
+        else if (c == '-')
+            word = word.append(c);
+        else if (word.isEmpty())
+            continue;
+        else if (word.size() < 2 || //Skip single character
+                 isNum(word) || //Skip pure number
+                 isNumberSuffix(word, filterNumerSuffixes) || //Skip number plus a suffix
+                 stopWords().contains(word) || //Skip stop word
+                 filterWords.contains(word)) //Skip user defined words
+            word.clear();
+        else
+        {
+            list.append(word);
+            word.clear();
+        }
+    }
+
+    QStringList stemList;
+    foreach (QString word, list)
+    {
+        QString stemmed = stemWord(word);
+        if (stemmed.size() < 2 || //Skip single character
+                isNum(stemmed) || //Skip pure number
+                isNumberSuffix(stemmed, filterNumerSuffixes) || //Skip number plus a suffix
+                stopWords().contains(stemmed) || //Skip stop word
+                filterWords.contains(stemmed)) //Skip user defined words
+            continue;
+
+        stemList.append(stemWord(word));
     }
     return stemList;
 }

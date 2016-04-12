@@ -7,7 +7,10 @@ class ReportsParser : public QThread
 {
     Q_OBJECT
 public:
-    explicit ReportsParser(const QString &dir, QObject *parent = 0);
+    explicit ReportsParser(const QString &dir,
+                           const QStringList &ignores,
+                           const QStringList &suffixes,
+                           QObject *parent = 0);
     ~ReportsParser();
 
 signals:
@@ -20,6 +23,8 @@ protected:
 private:
     static void findAllReports(const QString &root, const QString &dir, QStringList *reports);
     QString m_dir;
+    QStringList m_ignores;
+    QStringList m_suffixes;
 };
 
 #endif // REPORTSPARSER_H

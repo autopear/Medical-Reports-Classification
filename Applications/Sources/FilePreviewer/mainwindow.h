@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 
+class QCheckBox;
 class QLabel;
 class QLineEdit;
 class QListWidget;
@@ -24,6 +25,7 @@ private slots:
     void loadFileList();
     void onCurrentItemChanged();
     void onItemDoubleClicked(QListWidgetItem *item);
+    void wordWrapChanged();
 
 protected:
     virtual void dragEnterEvent(QDragEnterEvent *event);
@@ -43,8 +45,8 @@ private:
     QListWidget *m_list;
     QTextBrowser *m_browser;
     QSplitter *m_splitter;
+    QCheckBox *m_check;
     QPushButton *m_btnLoad;
-    QPushButton *m_btnClose;
     QWidget *m_main;
 };
 

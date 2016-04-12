@@ -1,4 +1,5 @@
 #include <QApplication>
+#include <QCheckBox>
 #include <QClipboard>
 #include <QDir>
 #include <QDragEnterEvent>
@@ -84,7 +85,6 @@ MainWindow::MainWindow(QWidget *parent):
 
     m_browser = new QTextBrowser(this);
     m_browser->setAcceptRichText(false);
-    m_browser->setLineWrapMode(QTextBrowser::NoWrap);
 
     m_splitter = new QSplitter(this);
     m_splitter->setOrientation(Qt::Horizontal);
@@ -96,14 +96,13 @@ MainWindow::MainWindow(QWidget *parent):
     m_splitter->setCollapsible(1, false);
 
     m_btnLoad = new QPushButton(tr("&Load"), this);
-    m_btnLoad->setDefault(false);
+    m_btnLoad->setDefault(true);
     connect(m_btnLoad, SIGNAL(clicked(bool)),
             this, SLOT(loadFileList()));
 
-    m_btnClose = new QPushButton(tr("&Close"), this);
-    m_btnClose->setDefault(true);
-    connect(m_btnClose, SIGNAL(clicked(bool)),
-            this, SLOT(close()));
+    m_check = new QCheckBox(tr("&Word Wrap"), this);
+    connect(m_check, SIGNAL(clicked(bool)),
+            this, SLOT(wordWrapChanged()));
 
     m_main = new QWidget(this);
 
@@ -121,11 +120,9 @@ MainWindow::MainWindow(QWidget *parent):
 
     QHBoxLayout *layout3 = new QHBoxLayout();
     layout3->setContentsMargins(0, 0, 0, 0);
-    layout3->addStretch();
     layout3->addWidget(m_btnLoad, 0);
     layout3->addStretch();
-    layout3->addWidget(m_btnClose, 0);
-    layout3->addStretch();
+    layout3->addWidget(m_check, 0);
 
     QVBoxLayout *layout = new QVBoxLayout(m_main);
     layout->addLayout(layout1, 0);
@@ -139,6 +136,7 @@ MainWindow::MainWindow(QWidget *parent):
     setAcceptDrops(true);
 
     loadSettings();
+    wordWrapChanged();
 }
 
 MainWindow::~MainWindow()
@@ -153,7 +151,7 @@ MainWindow::~MainWindow()
     delete m_browser;
     delete m_splitter;
     delete m_btnLoad;
-    delete m_btnClose;
+    delete m_check;
     delete m_main;
 }
 
@@ -336,6 +334,17 @@ void MainWindow::onItemDoubleClicked(QListWidgetItem *item)
         qApp->clipboard()->setText(item->text());
 }
 
+void MainWindow::wordWrapChanged()
+{
+    if (m_check->isChecked())
+        m_browser->setLineWrapMode(QTextBrowser::WidgetWidth);
+    else
+        m_browser->setLineWrapMode(QTextBrowser::NoWrap);
+
+    if (sender())
+        saveSettings();
+}
+
 void MainWindow::dragEnterEvent(QDragEnterEvent *event)
 {
     if (event->mimeData()->urls().size() == 1)
@@ -415,6 +424,8 @@ void MainWindow::loadSettings()
         m_editDir->setText(settings.value("Dir").toString());
     if (settings.contains("File"))
         m_editFile->setText(settings.value("File").toString());
+    if (settings.contains("WordWrap"))
+        m_check->setChecked(settings.value("WordWrap").toBool());
 }
 
 void MainWindow::saveSettings()
@@ -431,4 +442,5 @@ void MainWindow::saveSettings()
     QSettings settings(config, QSettings::IniFormat, this);
     settings.setValue("Dir", m_editDir->text().trimmed());
     settings.setValue("File", m_editFile->text().trimmed());
+    settings.setValue("WordWrap", m_check->isChecked());
 }

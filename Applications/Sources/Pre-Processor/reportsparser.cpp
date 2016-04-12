@@ -4,9 +4,14 @@
 #include "stemmer.h"
 #include "reportsparser.h"
 
-ReportsParser::ReportsParser(const QString &dir, QObject *parent) :
+ReportsParser::ReportsParser(const QString &dir,
+                             const QStringList &ignores,
+                             const QStringList &suffixes,
+                             QObject *parent) :
     QThread(parent),
-    m_dir(dir)
+    m_dir(dir),
+    m_ignores(ignores),
+    m_suffixes(suffixes)
 {
     if (!m_dir.endsWith("/"))
         m_dir = m_dir.append("/");
@@ -38,7 +43,8 @@ void ReportsParser::run()
         file->close();
         delete file;
 
-        emit reportStemmed(report, Stemmer::stemSentence(content));
+        QStringList stems = Stemmer::stemSentence(content, m_ignores, m_suffixes);
+        emit reportStemmed(report, stems);
     }
 }
 
