@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 23-year-old woman with past eclampsia/epilepsy.  The patient is a poor historian regarding her epilepsy.  Patient admitted for sustaining burns in house fire.  History of drug and alcohol abuse. 
+MEDICATIONS: Dilantin and narcotics (Hydromorphone, Dilaudid, and Percocet).  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and slightly drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is fairly well organized with a 7.5 Hz, 20 to 25 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Hyperventilation is performed with poor effort and does not significantly alter the record.  Several vertex waves were seen.  Deeper stages of sleep were not achieved.  Photic stimulation does not elicit a driving response.     
+HR:  108 BPM.
+	IMPRESSION: Slightly abnormal EEG due to:
+	1.	Mild background slowing.
+CLINICAL CORRELATION: No epileptiform discharges were seen. The amount of background slowing is consistent with a concomitant use of narcotic medications. A repeat tracing under sleep deprived conditions in order to capture deeper stages of sleep is recommended after the patient has been weaned off of the narcotics. 
+
+

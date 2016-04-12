@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 5-year-old male with perinatal anoxic brain injury with a three to four week NICU stay following delivery, infantile seizures, now with seizures lasting six minutes characterized by spastic movements.
+MEDICATIONS: Dilantin, Vancomycin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the Pediatric Unit using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake or drowsy with occasional spastic movements.  Other movements of this child, which appear to be playful movements include some oral automatisms and spastic movements of the left arm. The child is resting on his right arm during the EEG.
+DESCRIPTION OF THE RECORD: This technically challenging EEG is remarkable for diffuse muscle activity as well as diffuse beta and some higher amplitude 2 to 3 Hz delta, particularly from the posterior regions.  The child falls asleep.  Even in sleep, there is a fair amount of muscle artifact as well as diffuse beta.  The posteriorly predominant 2 to 3 Hz delta activity can be seen somewhat better on the right than the left, and the child continues to have some spontaneous movements even in sleep.  
+HR:  145 BPM.
+	IMPRESSION: Abnormal EEG for a child of this age due to:
+Lack of normal developmental milestones for a child of this age, although there is a suggestion of some alpha frequency activity seen in the frontal regions.  
+Excessive, occipitally predominant delta. 
+CLINICAL CORRELATION: In this technically challenging EEG, no epileptiform features were seen.  In that the child continues to be motorically active in sleep and produces a lot of muscle, it is not clear that a repeat EEG capturing additional sleep would solve these technical issues. 
+
+

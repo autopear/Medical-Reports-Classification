@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 32-year-old, right-handed woman.  She has been coming to the hospital for over a year with symptoms of left-sided numbness, tingling, slurred speech with a bad headache more on the left side.  She had an episode of shaking of her head while asleep in the past. 
+MEDICATIONS: Dilantin, aspirin, Plavix, Flovent, and Albuterol. 
+INTRODUCTION: Continuous digital video EEG is performed for more than 24 hours with standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and asleep record. No events were reported by the patient, nurse or recording system.
+DESCRIPTION OF THE RECORD: The EEG exhibits a normal sleep pattern with 10 Hz, 25 V posterior dominant rhythm.  The patient sleeps during the day and there is a disrupted sleep pattern at night.  There is abundant stage II sleep exhibiting K complexes, spindles, and vertex waves.  Also, a generous amount of POSTS were visualized. 
+HR:  90 BPM.
+	IMPRESSION: EEG within normal limits for a subject of this age.  Abundant stage II sleep pattern seen.
+CLINICAL CORRELATION: Normal EEG does not exclude the possibility of epilepsy.  A repeat EEG may be helpful to identify any epileptiform activity.If this is not the baseline this gets deleted.
+
+

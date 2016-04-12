@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 34-year-old male with an astrocytoma removed in 2002.  History of one single seizure prior to a craniotomy.  
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10.5 Hz, 40 to 45 uV posterior dominant rhythm, with a fair amount of frontocentral beta activity.  Hyperventilation does not significantly alter the record.  There is a subtle left frontal breach rhythm identified and two small F3 sharp waves. Photic stimulation elicits a driving response.
+HR:  66 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+Left frontal breach from previous craniotomy.
+Two rare F3 sharp waves.
+CLINICAL CORRELATION: Overall, this EEG seems to show improvement compared to a previous EEG in that there is less focal slowing in the left frontal region. Correlation with recent neuroimaging data would be valuable.  
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 42-year-old male with multiple strokes, left hemiparesis, hypertension, herpes infection, seizures, and multiple convulsions 3/27/04. Also multi-infarct dementia.
+MEDICATIONS: Dilantin, Haldol, and insulin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient receives Haldol for agitation at the end of the study. 
+DESCRIPTION OF THE RECORD: The background EEG is moderately disorganized for an adult of this age.  The primary frequencies in the background are theta, but there are occasional bursts of rhythmic delta or shifting arrhythmic delta.  Portions of the record, when the patient attempts to communicate, are characterized by an increase in alpha frequency activity.  Administration of Haldol produces a decrease in movement, but no significant change in the background EEG. 
+HR:  115 BPM.
+	IMPRESSION: Abnormal EEG for a subject of this age due to:
+Generalized background slowing. 
+Disorganization. 
+CLINICAL CORRELATION: The features described above are non-specific. They may be due to medication effect, toxic or metabolic encephalopathy, as well as subcortical ischemic disease.  There are no characteristic features of herpes encephalitis. 
+
+

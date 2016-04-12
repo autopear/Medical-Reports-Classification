@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is an 84-year-old woman with a left hemiparesis, hypertension, dementia, a 15-minute episode of unresponsiveness with gaze deviation treated with Dilantin.  Patient found to have an old right-sided stroke. 
+MEDICATIONS: Percocet, Labetalol, Ativan, Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake record in a confused patient who receives some sort of heart treatment during the record. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is awake with a theta frequency background and a 7 to 8 Hz posterior dominant rhythm.  There is a bit more arrhythmic delta activity noted on the right than the left.  The patient has an irregular and rapid heart rate of greater than 120 BPM.   
+HR:  Irregular, greater than 120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Intermittent arrhythmic delta from the right hemisphere. 
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function.  Consideration for an underlying subcortical process in the right is appropriate.  Treatment for the rapid heart rate appears to have been under consideration during this EEG.
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 62 year old right handed male admitted with a 15 minute tonic clonic seizure, followed by 3 additional tonic clonic seizures, intubated, and poorly responsive.
+MEDICATIONS:  Lisinopril, Metoprolol, Trimet, Dilantin, Diphenhydramine, Sulfamethoxazole
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and poorly responsive but has some eye movements
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a medium amplitude pattern rich in beta frequency activity with smaller amounts of delta.  There is occasional rhythmic delta activity observed from the right hemisphere,  particularly frontal central regions. As the record continues additional eye movement and motor activity is observed.   In addition, the asymmetry between the 2 hemispheres becomes a bit more prominent with beta asymmetry, more beta on the left compared to the right.
+	HR: 	104 bpm
+IMPRESSION: Abnormal EEG due to:
+	1.	Replacement of normal background with a beta frequency pattern.
+	2.	Superimposed rhythmic slowing from the right hemisphere, particularly frontal central.
+CLINICAL CORRELATION:  This is the third EEG for this patient.  Similar features have been previously described, although this EEG is a bit more focal than others.  No epileptiform features have been observed in any of these studies.
+
+

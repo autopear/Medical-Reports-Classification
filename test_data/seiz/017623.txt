@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 27-year-old woman who presents with new onset seizures while being extubated during gallbladder surgery.  Past medical history of febrile seizures for which she was taking medication until age five. 
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with an 11 Hz, 75 V posterior dominant rhythm and a small amount of low voltage frontocentral beta activity.  In drowsiness and in hyperventilation, there is some irregular temporal theta, right greater than left.  At times, it is sharply contoured on the right, but there are no definite sharp waves. In addition, the amplitude of the activity at T4 is slightly higher than the remainder of the temporal lobe.  
+Photic stimulation elicits bilateral driving. 
+HR:  56 BPM.
+	IMPRESSION: Mildly abnormal EEG for a subject of this age due to:
+Irregular, right greater than left temporal theta in hyperventilation and drowsiness. 
+CLINICAL CORRELATION: These findings are non-specific.  No epileptiform features were seen. If further characterization of this patient’s epileptiform activity is needed, a follow-up study capturing deeper stages of sleep would be useful.
+
+

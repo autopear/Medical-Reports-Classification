@@ -1,0 +1,18 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  This is a 59-year-old woman with a skull defect due to surgical intervention for a possible AVM who presents for a follow up EEG.
+MEDICATIONS:  Tegretol, Neurontin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is relative to eye opening.  There are some frontocentral beta.  Activating procedures, specifically hyperventilation accentuates the focal slowing which I will describe in the abnormal discharges.  The patient is recorded in wakefulness and stage I sleep.   
+Heart rate 72.
+ABNORMAL DISCHARGES:  
+A single focal sharp wave was seen at T4 during the recording while asleep.
+Continuous focal slowing seen at F7, T3 throughout the recording at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts.     
+Focal slowing seen intermittently at F8, T4 at a frequency of 2-4 Hz and amplitude of 20-60 microvolts.
+SEIZURES:  None. 
+Please note that the focal slowing in the left anterior temporal region at times has a sharply contoured morphology, but it is not clearly epileptic.
+IMPRESSION:  Abnormal EEG due to single right mid temporal sharp waves in addition to continuous focal slow waves in the left anterior temporal region with some intermittent focal slowing in the right anterior temporal region.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization related epilepsy with seizures possibly arising from the right mid temporal region.  In addition, there is evidence of focal structural dysfunction in the left anterior temporal region which is consistent with the known surgery and injury.   
+Lastly, there is evidence of focal cerebral dysfunction in the right anterior temporal region which is nonspecific in regards to etiology.  No seizures were clearly seen.
+
+

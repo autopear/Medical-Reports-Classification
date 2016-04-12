@@ -1,0 +1,18 @@
+CLINICAL HISTORY: 51 year old man with a history of seizures since 2005, with 2 seizure types and MRI with left mid cell temporal sclerosis as well as insular damage and some right frontal encephalomalacia. Medical history:  Depression, high cholesterol and anxiety.
+MEDICATIONS:  Tegretol, Zonisamide.
+REASON FOR STUDY:  Recurrent seizures.
+INTRODUCTION:  Digital video long-term EEG was performed using the standard 10-20 electrode system placement with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  No activating procedures were performed.  Continuous spike wave detention as well as seizure detection software in addition to the patient's events and nurses notes used to review the EEG.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  There is a normal amount of frontocentral beta.  Activating procedures were not performed.  The patient was recorded in wakefulness, stage 1, stage 2 and deeper stages of sleep.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen at F7/T3 mainly in sleep, at times with frontal field seen at F3.  
+Infrequent sharp waves seen at F8/T2 also in sleep.
+Focal slow waves at F7/T3 at 2-4 Hz, amplitude 20-50 microvolts at times seen in monomorphic runs.
+SEIZURES:  None.
+EPISODES:  No push buttons.
+IMPRESSION:  Abnormal EEG due to: 
+Left anterior temporal sharp waves. 
+Slow waves and infrequent right anterior temporal sharp waves.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization related epilepsy with seizures possibly arising from the left anterior temporal region or the anterior temporal region.  No seizures or events were captured during this 5 day long-term monitoring.
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 49-year-old male who crashed his bicycle into a car with loss of consciousness.  Accident occurred on 2/19/04 at 11:02 PM.  He had a seizure in the emergency room.  Deaf in the left ear.  Intubated and loaded with Dilantin. 
+MEDICATIONS: Atomodate, Lidocaine, Vecuronium, Ativan, Morphine. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is a mainly asleep record. 
+DESCRIPTION OF THE RECORD: The vast majority of the record demonstrates stage II sleep with spindles and POSTS.  In wakefulness there is a 9 Hz posterior dominant rhythm with a small degree of background disorganization of the theta and then the patient drifts off to sleep.  In the transition to sleep, there is slightly higher rhythmic theta activity on the left than the right, but no significant lateralizing features.  
+HR:  84 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+	1.	Mild background slowing and disorganization in wakefulness. 
+CLINICAL CORRELATION: The generous beta and persistent stage II sleep are compatible with sedative hypnotic medication administration.  No epileptiform features were seen and no definitive focal features were seen.  A follow-up study may be helpful to further characterize epileptiform activity if this individual has sustained significant head trauma.  
+
+

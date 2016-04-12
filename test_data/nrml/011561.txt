@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  A 76-year-old man with dementia, seizures, diabetes, hypertension, presented with 2 episodes of staring unresponsively for 7 minutes with no seizure-like activity.
+MEDICATIONS:  Valproic Acid, Insulin, Labetalol, Clonidine, Trazodone.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedure including photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with posterior dominant rhythm that at best reaches 7 Hz.  There is no normal frontocentral beta or sleep architecture seen.  The patient is stimulated during the recording and it appears to improve the frequency slightly.
+ABNORMAL DISCHARGES:  
+Generalized slow waves at 2-4 Hz with an amplitude of 20-60 microvolts.  Please note again that at times when he is stimulated, this improves to a theta frequency.
+Triphasic waves seen maximally anteriorly with periodicity of about 1-1.5 Hz at times asymmetric over the left or the right hemispheres.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:  
+Generalized slow waves.  
+Triphasics.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  However, the presence of triphasic waves suggests a metabolic encephalopathy, possibly due to underlying liver disease.  No seizures were seen.
+
+

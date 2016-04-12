@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 58-year-old woman with osteomyelitis of the spine, renal failure with new onset status epilepticus, and subacute infarct on MRI. 
+MEDICATIONS: Dilantin, Percocet, antibiotics, and many others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as lethargic at this time. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with a mixture of delta and theta.  There are occasional triphasic waves in the background and some sharply contoured activity in the left frontotemporal regions, as well as some EKG artifact.  Stimulation of the patient clearly produces an alerting response with a lower voltage pattern rich in beta and alpha frequency activity. 
+HR:  108 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Moderate background slowing in drowsiness/sleep. 
+Occasional triphasic waves. 
+Occasional left frontal sharp waves. 
+CLINICAL CORRELATION: No seizures were recorded.  The dramatic improvement with stimulation would suggest a dynamic process.  No seizures were recorded.   Consideration for a postictal state and/or toxic or metabolic encephalopathy are appropriate. 
+
+

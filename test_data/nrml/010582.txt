@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  49-year-old male found with alcohol intoxication acutely, no failure, and presented with a tonic-clonic seizure at 11:00 a.m.
+MEDICATIONS:  Ativan, Dilantin, thiamine.
+INTRODUCTION:  Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  Patient was stimulated during the EEG.  There were occasional muscle twitch artifacts noted.  As the recording continues, the patient was a bit more responsive with eye movement.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates a continuous pattern with mixed-frequency activity including low-voltage delta, occasional bursts of frontal delta, generous beta and small quantities of theta.  Tactile stimulation and auditory were associated with increase in faster frequency activity.  These are single sharply contoured transient and are in the left frontal region noted on only one occasion. 
+Heart Rate:  116 bpm.
+IMPRESSION:  This is an abnormal EEG due to replacement of normal background with a mixed frequency pattern rich in beta and delta.
+CLINICAL CORRELATION:  This EEG recorded at 12:00 p.m. on 7/7/2013, approximately one hour after the patient's seizure and utilization of benzodiazepines may reflect a postictal pattern, features of intoxication and features of benzodiazepine use.  If epilepsy is an important consideration, a followup tracing when the patient is extubated and out of the ICU may be considered.
+
+

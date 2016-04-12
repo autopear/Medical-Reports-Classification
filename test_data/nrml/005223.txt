@@ -1,0 +1,14 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  A 33-year-old female, blind with cerebral palsy, severe mental retardation, and seizure disorder with recurrent seizures.
+MEDICATIONS:  Dilantin, phenobarbital, and Keppra.
+INTRODUCTION:  A long-term EEG was performed for 48 hours, using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed.  Continuous spike detection software as well as seizure detection software along with patient alarms were used for reviewing the EEG.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm and/or frontocentral beta.  There is no normal sleep architecture.  No activating procedures were performed. 
+Abnormal discharges:  
+Focal sharp waves were seen in multiple places including F8/T2, F7/T3, T5, C4, and P3.  In addition to this, there are bursts of polyspike and wave at 2 Hz seen intermittently throughout the recording on both days.  There is no clinical correlation to these polyspike and wave discharges.
+At times there were, during the first 24 hours more frequently than the last 24, discharges of fast beta frequency discharges with an abrupt ending seen at T5/P3 and at times at P4/T6 with no clear correlate.  They would last for about 10 to 15 seconds and then stop. 
+Seizures:  The patient would develop sudden onset of bilateral arm raising and mouth opening for about 10 to 15 seconds and then stop.  During this, the EEG would suddenly attenuate and there would be a fast beta pattern seen diffusely followed by muscle artifact.  During this recording, the patient had only 3 of these in the past 2 days.
+IMPRESSION:  Abnormal EEG due to multifocal spikes, diffuse slowing, some electrographic seizures, and some clinical seizures.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regard to etiology.  In addition, there is evidence of multiple focal irritability and diffuse seizures consistent with generalized symptomatic epilepsy.  Please note that this recording has markedly improved since the beginning and the clinical seizures have almost subsided and only 3 were seen in the past 48 hours.  These findings were reported to the primary team.
+
+

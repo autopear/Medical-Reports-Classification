@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  65-year-old right-handed  gentleman with epilepsy and perhaps a history of prostate cancer who lives in a homeless  shelter. the patient was admitted  on Friday after a cluster of seizures. He had spasticity and rigidity and difficulty swallowing.
+MEDICATIONS:  Dilantin, Ativan, Lovenox, Famotidine, Lisinopril, Folic Acid, Lorazepam, Hydralazine
+INTRODUCTION:  Digital video EEG is performed in lab using standard 10.20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:   Background EEG is sharply contoured  and also has a significant amount of muscle artifact. There is a 9-Hz posterior dominant rhythm of 40 mV identified bilaterally. The background  is intermittently  disrupted by arrhythmic delta activity which can be seen in either hemisphere  with shifting asymmetries  and shifting maximums.  In this sharply contoured record, there is sharply contoured transients and a handful of sharp waves observed particularly left mid to posterior temporal regions and occasionally  C4. On rare occasions  these sharp waves are on the left central parietal region. Photic stimulationdoes not activate the record. Deeper stages of sleep are not achieved.
+	HR: 	96 bpm
+IMPRESSION:   Abnormal EEG due to
+	1. 	Prominent  shifting arrhythmic  delta activity.
+	2. 		In this sharply contoured  background  there are independent  sharp waves identified from either hemisphere.
+CLINICAL CORR ELATION:
+This EEG supports a localization-related mechanism  for epilepsy
+as well as a process involving gray and white matter of both hemispheres. Correlation with imaging may be of use.
+
+

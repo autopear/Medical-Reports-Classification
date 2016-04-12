@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 67-year-old woman with seizure disorder described as black outs with no recall of the events.  One to two episodes a month.  History of diabetes and hypertension.
+MEDICATIONS: Dilantin, Tegretol, antidiabetic meds, and antihypertensives. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is continuous, but mildly disorganized with excessive theta and delta.   There is a 7 Hz, 25 V posterior dominant alpha rhythm, with a small amount of low voltage, frontocentral beta activity.  There is a single channel at T5 with focal slowing throughout the tracing, which may be due to technical problems.  Sleep is not achieved in this tracing.  Photic stimulation did not activate the record.    
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Mildly disorganized and slow background.
+	Slow alpha rhythm.
+	T5 focal slowing, which may be due to technical difficulties. 
+CLINICAL CORRELATION: The above pattern is suggestive of a cerebral dysfunction involving mainly gray matter.  However, this is a non-specific finding. No epileptiform features were identified in this record.  The focal slowing at T5 may be due to technical problems, but needs to be evaluated in the next EEG.  A repeat EEG in three to six months is recommended.  Clinical correlation is advised.  
+
+

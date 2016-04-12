@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 72-year-old male with a history of head trauma, adult-onset epilepsy, and likely nonepileptic seizures as well.  The patient typically has seizures after encounters with the health care system and has many adverse reactions to antiepileptic drugs.
+MEDICATIONS:  Dilantin, oxycodone, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  This was a very drowsy patient.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there was a 10.5-Hz alpha rhythm.  The patient quickly transitioned to a drowsy pattern with prominent slowing of the alpha rhythm. Vertex waves were noted in stage 1 sleep.  As the patient drifted off to sleep, there was an involuntary jerk of the right leg. This was not associated with epileptiform features.  Cognitive testing was performed at the end to make sure that the patient was maximally awake and there was an awake pattern and then the patient quickly started to become a little drowsy with slowing of the alpha rhythm. 
+Photic stimulation elicited scant driving.  Heart rate 66 BPM.
+IMPRESSION:  This EEG is within normal limits for an adult of this age.
+CLINICAL CORRELATION:  No epileptiform activity was noted.  Sleep myoclonus was noted on one occasion which does not carry an EEG correlate.  This patient appears to be excessively drowsy which could be related to sleep deprivation or the use of opiate medications as described above.
+__________________________
+
+

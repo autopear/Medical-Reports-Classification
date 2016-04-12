@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  This is a 62-year-old man status post heart transplant in December 2011 with a new onset seizure in 2012 described as general tonic-clonic seizure, biting his tongue and urinary incontinence.  He also has a history of a left hemisphere subdural and subarachnoid hemorrhage in 2011.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with anterior temporal and single-lead EKG electrode.  Patient was recorded during wakefulness and sleep.  Activating procedures include photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that is best seen over the right hemisphere that reaches 9-10 Hz.  There is also normal frontocentral beta seen over both hemispheres, but with a high amplitude over the left hemisphere.  I will discuss the asymmetry and abnormal discharges.  The patient is recorded during wakefulness and sleep and photic stimulation produces no abnormal discharges.   
+Heart rate:  90. 
+Abnormal discharges:  Continuous focal slowing seen over the left hemisphere maximal T3/T5 at a frequency of 2-4 Hz and amplitude of 20-70 microvolts.  There is also increased faster frequencies which is consistent with a breach in that region. 
+Seizures:  None.
+IMPRESSION:  Abnormal EEG due to left hemispheric maximal mid to posterotemporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction of the left mid temporal to posterotemporal region, which is consistent with the known multicompartmental hemorrhage in 2011.  No clear seizures or epileptiform discharges were seen.
+
+

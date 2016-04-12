@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 23-year-old male with a seizure while driving resulting in a motor vehicle accident.  History of hepatitis C and LAP procedure.  Patient’s sister has seizures.
+MEDICATIONS: Dilantin, morphine, and Atenolol. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is symmetric and low voltage.  There is a 10 Hz, 20 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Lambda waves are seen.  In drowsiness, POSTS are seen.  Sleep is characterized by slow rolling eye movements, a mixed frequency pattern  with theta followed by vertex waves, spindles, and K complexes.  Photic stimulation elicits driving. 
+HR:  66 BPM.
+	IMPRESSION: EEG within normal linits.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  If epilepsy is a clinical concern, a repeat EEG may be helpful.
+
+

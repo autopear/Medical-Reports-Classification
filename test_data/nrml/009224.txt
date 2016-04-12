@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 64-year-old woman with a history of head trauma and epilepsy many years ago.  Patient presents with recurrent left subdural intracranial hemorrhage.  Patient required surgical intervention and now has staples on the right.  
+MEDICATIONS: Ativan, morphine, Phenobarbital?, Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there if a definable 8 Hz alpha rhythm seen better on the right in comparison to the left.  Overall, this is a dynamic record and at times the intrahemispheric asymmetry is more marked than others.  In wakefulness, there are intermittent bursts of arrhythmic delta activity from the left, however, when the patient becomes drowsy, there is an increase in background delta bilaterally, left greater than right.  In addition, there are sharply contoured delta and left posteriotemporal sharp waves noted in this record.  The degree of arrhythmic delta from the left hemisphere is varied both in wakefulness and in drowsiness. As the patient becomes drowsy, generalized slow arrhythmic delta activity is seen.  Photic stimulation does not clearly activate the record.  
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Focal slowing from the left hemisphere with arrhythmic delta activity seen in the central, temporal, and posterior regions with a generous field of spread.
+	Underlying sharp waves in the left posteriotemporal region. 
+	Intermittent bursts of generalized background slowing or generalized slow delta. 
+CLINICAL CORRELATION: This EEG supports a structural process on the left with an epileptogenic potential.  In addition, a diffuse process as can be seen with an intracerebral injury of any nature or toxic or metabolic encephalopathy is suggested.  
+
+

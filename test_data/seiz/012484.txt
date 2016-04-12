@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  59 year old right handed female with history of seizures.
+MEDICATIONS:  Keppra.
+REASON FOR EEG:  Seizure.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient was recorded during wakefulness and sleep and no activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to patient asleep who later wakes up and develops a posterior dominant rhythm of 10-11 Hz with amplitude of 20 to 60 microvolts which is reactive to eye opening. Normal frontocentral beta is seen. Sleep stage I and stage II are seen. No activating procedures were performed.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.
+
+

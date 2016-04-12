@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 31-year-old male with complex partial epilepsy secondary to traumatic brain injury.  On admission, the patient’s Dilantin level is 51.
+MEDICATIONS: Dilantin, Zantac, Risperdal, and Atenolol.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is poorly disorganized and diffusely slow. There is a 7 Hz, 30 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Bursts of shifting arrhythmic delta and frontally predominant sharp and slow wave activity is seen.  Hyperventilation increased the rhythmic delta activity. Sleep is characterized by vertex waves, a few spindles, and K complexes.  Photic stimulation elicits driving.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Poorly disorganized and diffusely slow background.
+Bursts of shifting delta activity.
+Frontally predominant sharp and slow wave activity.
+CLINICAL CORRELATION: This tracing demonstrates a non-specific, abnormal pattern that can be seen in patients with toxic or metabolic encephalopathy as well as a postictal phase.  In addition, Dilantin intoxication can also cause this pattern. This tracing is suggestive of a severe cerebral dysfunction involving both gray and white matter.  When the patient’s Dilantin level is in normal therapeutic range, a follow-up EEG is recommended.  
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 63-year-old male, intoxicated with alcohol and cocaine who fell off a barstool and suffered a right frontotemporal hemorrhage.
+MEDICATIONS: Dilantin, thiamine.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient has just been discontinued from an Ativan and Vecuronium drip.  The test was initially requested because the patient remained unresponsive following the Vecuronium drip.  He began to have motor activity by the time the EEG was recorded.  
+DESCRIPTION OF THE RECORD: The background EEG is low voltage.  There is a fair amount of muscle and shivering artifact.  Despite this, there is a discernable pattern of low voltage beta and delta.  The patient appears to be clinically unresponsive, but there is variability in this record and some portions of this record are richer in alpha and theta frequency activity than others. At the close of the record, when the patient is more comfortable, there is less in the way of muscle artifact and occasional right frontal delta can be identified.  
+HR:  100 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing. 
+Occasional focal slowing from the right frontal region.
+CLINICAL CORRELATION: No seizures or epileptiform features were recorded.  This EEG supports a diffuse disorder of cerebral function effecting both gray and white matter.  The patient’s benzodiazepines may produce the beta described above.  Because of the amount of muscle, a follow-up EEG when the patient is out of the ICU may be helpful to further evaluate underlying epileptiform activity. 
+
+

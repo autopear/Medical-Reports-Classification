@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 48 year old male with loss of consciousness, fall and normal CAT scan. 
+MEDICATIONS: Dilantin, Tegretol, Ativan. 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated and in a hard collar. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous pattern rich in beta frequency activity bilaterally. There is an amplitude asymmetry with lower voltage beta on the left and higher voltage beta, a bit more mixed beta and delta on the right. As the recording continues, the patient becomes a bit more agitated. This is associated with an increase in delta. 
+HR: 96 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Replacement of normal background with a beta frequency pattern. 
+2. Interhemispheric asymmetry with lower voltage activity on the left, higher on the right and a bit more focal delta. 
+CLINICAL CORRELATION: No epileptiform features were identified. The focal features may be correlation with imaging. 
+
+

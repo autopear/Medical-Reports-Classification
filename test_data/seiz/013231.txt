@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 54 year old right handed female with hyperlipidemia, TIA, and presyncope, presents with chief complaint of lightheadedness for one year, one episode of lightheadedness and being unable to speak or move briefly.
+MEDICATIONS:  Aspirin, Lovenox, Ceftriaxone.
+REASON FOR STUDY:  Rule out seizure.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 to 10 Hz with an amplitude of 20 to 60 microvolts, which is reactive to eye opening.  There is a normal amount of frontocentral beta.  The patient reached stage I and stage II sleep.  Activating procedures revealed no abnormal discharges.   
+ABNORMAL DISCHARGES:  Focal slowing present at F7/T3 with a frequency of 2 to 4 Hz and amplitude of 20 to 60 microvolts.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Intermittent left anterior temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction, which is nonspecific in regard to etiology.  No seizures or epileptiform discharges were seen.
+
+

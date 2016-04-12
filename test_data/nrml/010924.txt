@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures
+INTRODUCTION:  A routine EEG was performed using standard 10-20 system of electrode placement with additional anterior temporal and single-lead EKG.  The patient was recorded during wakefulness and sleep.  Activating procedures included photic stimulation only.
+MEDICATIONS:  Dilantin.
+HISTORY:  This 60-year-old woman presented with history of seizures, admitted on 7/19/2013 due to two seizures described as tonic-clonic with postictal confusion and tongue biting.  There may be a possibility of alcohol withdrawal and her seizures started five years ago.  The patient states that she is compliant with medication.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 10 Hz, which is reactive to eye opening.  There is a diffuse and excessive amount of frontocentral beta seen throughout diffusely, but mainly frontocentrally.  The patient is recording during wakefulness, stage 1 and stage 2.  Activating procedures include photic stimulation.  There were no abnormal discharges, but photic stimulation did produce some nice photic driving. 
+Abnormal discharges:  None. 
+Heart rate:  72. 
+Seizures:  None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  This is a normal awake and asleep EEG.  No seizures or epileptiform discharges were seen.  Please note that the excessive beta may be due, at least in part, to medication effect, such as the use of benzodiazepines or barbiturates.
+
+

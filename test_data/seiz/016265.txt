@@ -1,0 +1,13 @@
+	CLINICAL HISTORY:   76-year-old with a change in mental status, left parietal hemorrhage, prostate cancer, hypertension, diabetes.
+MEDICATIONS:   Dilantin, Keppra, Ativan, Folate Acid
+INTRODUCTION:   Digital video EEG is performed at bedside using standard 10-20 system of electrode placement of 1 channel EKG.
+DESCRIPTION OF THE RECORD:  As the tracing opens, the patient is intermittently agitated. The background EEG includes 1 of delta and theta. There is some shifting asymmetries. There is occasional attenuation of faster frequency activity in the left hemisphere, particularly the posterior quadrant, but again there are shifting asymmetries. Frequent eye blink artifacts are observed in wakefulness. As the patient becomes drowsy, there is an increase in frontally-predominant deltoid with higher amplitude on the left compared to the right.
+	HR: 	114, irregular
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Generalized  background  slowing.
+	2. 	Superimposed  focal slowing from the left.
+CLINICAL CORR ELATION:
+This EEG supports the diffuse disturbance  of cerebral
+function as well as a structural or functional process on the left. No epileptiform features were observed.
+
+

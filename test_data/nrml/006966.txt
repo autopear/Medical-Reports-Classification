@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 60-year-old woman with epilepsy, seizure free for the last 8 months.  Seizures characterized by staring and then fatigue.
+MEDICATIONS:  Dilantin, Lipitor, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1-channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.  Impedances were by in large acceptable.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is well organized with 10 Hz, 50 microvolt posterior dominant rhythm, and a small amount of low voltage, frontal central beta.  As the patient transitions in and out of sleep, there are bursts of shifting and relatively rhythmic theta noted in the right or left temporal region but from the left temporal region the activity is higher amplitude and is consistently sharply contoured, although there is no definitive sharp waves.  In stage 1 sleep includes vertex waves. 
+Hyperventilation seems to accentuate the focal slowing noted from the left temporal region, and on 1 occasion there is a more well-defined left frontotemporal sharp wave. 
+Photic stimulation elicited scant driving. 
+Heart rate is 78 beats per minute.
+IMPRESSIONS:  This is an abnormal EEG for an adult of this age due.
+Shifting temporal slowing.
+A sharply contoured slowing noted from the left temporal region.
+CLINICAL CORRELATION:  There was only a single left temporal sharp wave noted on the left temporal region but it is in the region of the focal slowing.  Although there are no previous EEGs, consideration for a focal or localization-related epilepsy is appropriate.  Correlation with imaging may be of value.
+
+

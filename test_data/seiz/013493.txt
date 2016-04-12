@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 58 year old gentleman with unresponsiveness, history of bilateral bifrontal encephalomalacia, epilepsy and likely, multiple seizures. 
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG includes a slow pattern with variable quantities of rhythmic delta and theta. There is a suggestion of asymmetry with slower delta observed on the right compared to the left. This is an intermittent finding. As the patient becomes drowsy, there is increasing rhythmicity of the background. Somewhat asymmetric eye movement artifact is observed with higher amplitude. As the recording continues, arousals are associated with an increasing faster frequency activity. Photic stimulation does not elicit a driving response. 
+HR: 110 bpm 
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing. 
+CLINICAL CORRELATION: No epileptiform features are observed. There is a suggestion of focality on the right. If epilepsy is an important consideration, a follow up study is suggested. 
+
+

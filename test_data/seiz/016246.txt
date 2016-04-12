@@ -1,0 +1,14 @@
+CLINICAL HISTORY:   63-year-old male with right frontotemporal  tumor, status post right craniotomy on September 7, 2007, now with left arm weakness.
+MEDICATIONS:   Dilantin, Keppra, Metoprolol.
+INTRODUCTION:  Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  This complex EEG demonstrates  multiple different abnormalities.  Through much of the record, the left hemisphere is relatively normal with a posterior dominant rhythm on the left at times reaching 9 Hz. During much of the record, the activity from the left is without focal slowing. The right hemisphere demonstrates  arrhythmic delta activity with a generous field in the frontocentral  and parietotemporal region. In addition, there are phase reversals or sharp waves including C4, P4, and P4/P6. As the recording continues, there are bifrontal sharps and then more clear spike and wave activity reaching 5 Hz.
+This is accentuated by the close of hyperventilation. Photic stimulation is not associated with a
+driving response particularly but the arrhythmic delta activity in the right centroparietal region with sharp waves.
+	HR: 	84 BPM.
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Arrhythmic delta activity primarily in the right hemisphere with variability central or centroparietal.
+	2. 	Sharp waves in the same region.
+	3. 	Frontally predominant generalized spike and wave activity occurring  towards the close of hyperventilation.
+CLINICAL CORRELATION:   Careful review of this patient's personal epilepsy history and family history is important to make sure that there is not more than one process contributing to epileptogenesis. The focal slowing and sharp waves are congruent with a neoplasm history in the right hemisphere.
+
+

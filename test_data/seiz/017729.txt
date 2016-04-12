@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 68-year-old gentleman with epilepsy since age 20, characterized by auras of a strange feeling for two years. With fresh air, these feelings resolve, per the patient.  History of throat cancer with several surgeries in June 2003 and radiation therapy, hypertension, and diabetes.  Seizure free.
+MEDICATIONS: Dilantin, antihypertensives, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake through stage I sleep record.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is fairly symmetric.  There is a 10 Hz, 40 V posterior dominant alpha rhythm and a small amount of low voltage, frontocentral beta activity. Rare, sharply contoured, irregular  theta with a subtle underlying sharp wave was found in the mid-temporal region in drowsiness.  Sleep is characterized by vertex waves.  Deeper stages of sleep were not achieved. Photic stimulation did not activate the record.  
+HR: 78 BPM.
+IMPRESSION:  Abnormal EEG due to:
+Rare, sharply contoured theta activity seen in the left mid-temporal region in drowsiness with underlying sharp waves. 
+CLINICAL CORRELATION: The focal features seen in this tracing may be partially responsible for the mechanism of seizures in this patient. 
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 57-year-old male with COPD, HIV, cocaine abuse, admitted with a total of six seizures of unclear etiology.
+MEDICATIONS: Dilantin and HART.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is reasonably well organized with a 9.25 Hz, 30 uV posterior dominant rhythm.  There is mild excess beta in maximal wakefulness.  In the transition to drowsiness, there is intermittent focal slowing from the left temporal region and some sharply contoured delta activity in the same region.  Features of sleep include vertex waves and an increase in background theta.   
+Photic stimulation does not significantly activate the record, although the left focal slowing is somewhat more prominent in photic.
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Mild excess background beta.
+Intermittent left temporal focal slowing more prominent in drowsiness.
+Sharply contoured delta on the left. 
+CLINICAL CORRELATION: This tracing supports a structural abnormality on the left.  No definite epileptiform features were seen.
+
+

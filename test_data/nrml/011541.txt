@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 49 year old woman with right hemisphere activity admitted after 20 seizures, history of recurrent, refractory epilepsy. 
+MEDICATIONS: Dilantin, Lamictal, Topamax. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is quite somnolent and has an abnormally shaped cranium. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG is primarily a rhythmic theta pattern with mixed theta frequency activities, some shifting arrhythmic delta activity. The patient does drift into sleep with vertex activity. There is an asymmetry with a more featureless pattern from the right frontal region. There are handful of sharp waves picked up in the left temporal region including maximum at the ear. Photic stimulation does not activate the record. During photic stimulation, the patient has some vertex sharps that are Cz-C3 and also some well-defined temporal sharp waves. 
+HR: 96 BPM 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Left anterior temporal theta. 
+CLINICAL CORRELATION: Despite the dramatic hemispheric resection, the asymmetry between the two hemispheres is much less remarkable than would otherwise be anticipated. The EEG identified today is similar to a 2008 study but is slower than the routine study done in 2010. 
+
+

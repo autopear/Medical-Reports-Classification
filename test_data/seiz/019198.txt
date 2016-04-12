@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 44-year-old woman who presented to the ER with weakness and dysphagia.  
+MEDICATIONS: Dilantin and Zantac.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and low voltage with excessive beta activity.  There is an 11 Hz, 30 uV posterior dominant alpha rhythm.  Hyperventilation mildly increased the slow activity in the background, as well as increasing the amplitude.  Post-hyperventilation, the patient became drowsy but no deeper stages of sleep were achieved.  
+Photic stimulation elicits driving. 
+HR:  102 BPM.
+	IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy. 
+
+

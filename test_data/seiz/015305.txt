@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 14-year-old female, 14 weeks pregnant, with hyperemesis gravidarium complicated by first-ever complex partial seizure, hepatic insufficiency, hypoalbumenemia, and encephalopathy. 
+MEDICATIONS: Dilantin
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  The patient is described as having had a complex partial seizure, amnestic for the event.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10.5 Hz, 50 to 70 uV posterior dominant rhythm and appropriate quantities of frontocentral beta activity.  Hyperventilation is performed early on in the record, increasing the amplitude of the background.  Features of drowsiness include an increase in background theta.  Photic stimulation elicits bilateral driving.  
+HR:  88 BPM.
+	IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  
+
+

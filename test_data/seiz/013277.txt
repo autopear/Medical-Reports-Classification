@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  This is a 59-year-old female with past medical history of AFib, stroke, that presented with episode of staring, head turns to 1 side of 1 minute, there is no recall of the event.
+MEDICATIONS:  Zofran, metoprolol, pantoprazole.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 7 Hz which appears to be reactive to eye opening.  There is a mild decrease in the normal frontocentral beta.  Activating procedures produced abnormal discharges.  The patient is recording during wakefulness and stage 1 sleep.
+ABNORMAL DISCHARGES:  Mild generalized slow waves at 5-7 Hz seen continuously throughout the recording with an amplitude 20-60 microvolts.
+HEART RATE:  Heart rate was 78, however, was irregular.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to mild generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction, which nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

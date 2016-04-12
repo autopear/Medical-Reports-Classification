@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 14-year-old male with epilepsy since birth with increasing seizures and developmental delay.  He has coarsening of facial features.  High Dilantin and Depakote levels. 
+MEDICATIONS: Dilantin, Depakote, Klonopin, and Risperdal. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This is an awake, but primarily asleep record. 
+DESCRIPTION OF THE RECORD: The vast majority of the record includes stage II sleep with vertex waves, K complexes, spindles, and POSTS.  In stage II sleep, there are rare, left anterior temporal sharp waves.  In addition, there are rare left central (C3 sharp waves) and a single right anterior temporal spike and slow wave complex. Hyperventilation is performed with good effort and produces bursts of rhythmic, hypersynchronous slowing.  The child remains asleep throughout the record.  He remains asleep in a noisy background and attempts to awaken him are unsuccessful.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal asleep EEG for a child of this age due to:
+Left anterior temporal and occasional central sharp waves.
+Rare right anterior temporal sharp waves.
+CLINICAL CORRELATION: Wakefulness was not achieved. A follow-up study when this child’s medical issues are addressed could be helpful. Compared to previous EEGs, the no epileptiform activity in the frontal nor occipital leads was seen.
+
+

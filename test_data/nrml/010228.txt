@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 45 year old right handed male with depression, cerebral palsy status post aneurysmal clipping and a tonic clonic seizure. 
+MEDICATIONS: Zoloft, Dilantin, Norvasc 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. There is no mention of a craniotomy deformity. This is an awake record with photic stimulation. 
+DESCRIPTION OF THE RECORD: In wakefulness there is a 10 Hertz alpha rhythm with generous low voltage frontal central beta. Significant electrode artifact is noted in the right temporal region. Features of drowsiness include an increase in beta with vertex waves. Photic stimulation elicits bilateral driving. 
+HR: 78 bpm 
+IMPRESSION: Normal EEG. 
+CLINICAL CORRELATION: No epileptiform features are identified. Consideration for an abnormality in the skull given the findings described above is suggested although none was reported by the tech. If epilepsy is an important consideration a repeat study capturing deeper stages of sleep is suggested. 
+
+

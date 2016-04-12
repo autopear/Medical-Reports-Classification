@@ -1,0 +1,11 @@
+HISTORY: 50 year old gentleman with change in mental status associated with cocaine abuse, found unresponsive.
+MEDICATIONS:  Nicardipine, Zofran, Dilantin
+INTRODUCTION: Digital video EEG is performed at bedside in ICU using standard 10-
+20 system of electrode placement with one channel EKG. The patient is somnolent.
+	DESCRIPTION OF 	RECORD:  Background EEG includes slow delta.  With arousals, there is some rhythmic theta and scant beta.  Occasional POSTS are noted. Stimulation of the patient occurs at the close of the record.  Vigorous stimulation does increase the theta activity.
+	HR: 	96 bpm
+IMPRESSION: Abnormal EEG due to:
+	1. 	Marked generalized slowing.
+	CLINICAL CORRELATION: 	No epileptiform features are seen.   No focal features are seen.  If epilepsy is an important consideration, a repeat study in the lab is advised.
+
+

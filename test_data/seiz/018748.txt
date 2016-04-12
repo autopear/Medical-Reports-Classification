@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 49-year-old male with tonic-clonic seizures and postictal combative behavior.  Frontal headache with photophobia, CAD, CABG, diabetes, hypertension, and hyperthyroidism. 
+MEDICATIONS: Dilantin, Labetalol, and many others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The initial portions of the record demonstrate a drowsy individual with a mixed frequency background rich in beta and theta frequency activity.  There are occasional bursts of shifting slowing.  The middle portions of the record include well-formed stage II sleep with vertex waves, K complexes, and spindles.  Testing is not performed at the close of the record to make sure that the patient is awake, but by the close of the record, the background EEG is better organized with more of a medium amplitude pattern, rich in beta and alpha frequency activity.  
+HR:  90 BPM.
+	IMPRESSION: Somewhat limited, but dynamic record with a pattern demonstrating improving organization over time.  
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  Because there was very little recording with the patient maximally awake or with testing, a follow-up study as he improves would be helpful to both assess the background and to search for epileptiform activity.  
+
+

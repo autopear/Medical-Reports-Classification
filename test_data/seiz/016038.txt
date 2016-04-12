@@ -1,0 +1,11 @@
+	CLINICAL HISTORY: 	This is a 4-year-old boy with a history of epilepsy with right arm and leg jerking lasting 45 seconds to 1 minute for the prior 2 months.
+	MEDICATIONS: 	Dilantin, Tegretol.
+	INTRODUCTION: 	Digital video EEG was obtained in the lab using 10/20 electrode system placement and 1 lead of EKG.
+	DESCRIPTION OF THE RECORD: 	The child is asleep throughout the majority of the record. Very high amplitude, spiky vertex activity is accompanied by spindle activity. In addition, using different transverse montages in association with the vertex spike, there is an asymmetry and there seems to be an underlying spike which lateralizes to the left at C3. On monitor rotations, this is also picked up in the temporal chain. Additional electrodes are not applied to help localize the activity. The child is asleep throughout the entire record, hence there is no evaluation to determine if there is a CV spike until the very end of the record when the child is awakened just briefly. At
+that time, the limited awake background does not have the anticipated milestones for age including an alpha rhythm, although the child is not particularly cooperative.
+	HR: 	120 BPM.
+	IMPRESSION: 	Abnormal EEG due to high suspicion for an underlying left frontal central spike seen in stage II sleep.
+	CLINICAL CORRELATION: 	A repeat study using additional electrodes or with more relaxed wakefulness is recommended to more clearly delineate the underlying epileptiform activity. Very limited wakefulness is identified, but the limited wakefulness seen raises concerns about failure to demonstrate the appropriate developmental milestones for
+the child's age.
+
+

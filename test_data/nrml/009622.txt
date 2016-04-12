@@ -1,0 +1,11 @@
+�
+	CLINICAL HISTORY:	44 year old male with epilepsy  since age 9-11 with a recent seizure followed by ventricular tachycardia.  History of both tonic, clonic and myoclonic seizures.
+MEDICATIONS: Depakote,  Thiamine, Oxycodone, Dilantin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. There is no hyperventilation, but photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, background EEG is well organized. There is an 11 Hertz alpha rhythm. In relaxed wakefulness, there is some focal slowing in the left mid temporal region. Other features of drowsiness including an increase in slowing of the background.  Photic stimulation elicits brief bilateral driving.
+	HR:	60 bpm
+IMPRESSION:  Mild abnormal EEG due to:
+1.  Occasional left temporal focal slowing in wakeful with a small amount of shifting slowing in drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were observed. In this individual with refractory epilepsy, a repeat study capturing stage 2 sleep and with hyperventilation is advised to characterize epileptiform activity.
+
+

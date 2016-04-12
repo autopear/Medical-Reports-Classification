@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  Seventy-five-year-old woman presents with hyperglycemia and generalized tonic and clonic seizures.  Past medical history of diabetes,  CAD, pacemaker, CVA. The patient is nonambulatory and found on the floor.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG is performed at the bedside using the standard 10-
+20 system of electrode placement with one channel of EKG.  Hypovolemia and photic stimulation were not performed.  The patient is intubated and on ventilator support.
+DESCRIPTION OF THE RECORD: The background EEG is significantly disorganized and attenuated.  The normal posterior dominant rhythm alpha rhythm cannot be recognized, instead superimposed low amplitude of slow activity and delta and small theta waves can be seen.  There is increased amount of low voltage beta activity can be seen throughout the tracing. Stimulation of the patient transiently decreased.  There is no activity in the background.  No epileptiform and no focal findings were seen on this tracing.
+Heart rate 90 bpm.
+IMPRESSION: Abnormal EEG due to:
+	1.	Disorganized and significantly attenuated background.
+	2.	Excessive slow activity in delta and theta range.
+CLINICAL CORRELATION:   These nonspecific findings are suggestive of cerebral dysfunction involving the cortical gray matter.   However, no focal findings, no epileptiform discharges were seen in this tracing.  If epilepsy is a clinical concern, a repeat EEG may be helpful.
+
+

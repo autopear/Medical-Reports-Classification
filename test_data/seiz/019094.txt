@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 47-year-old, left-handed, motorcycle rider, day 9 post-subdural hematoma evacuation with right temporal parietal injury, now requiring Propofol titration for diffuse brain swelling and right MCA ischemia.
+MEDICATIONS: Protonix, Labetalol, Tylenol, Propofol, Dilantin, and insulin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as intubated and somewhat responsive to stimuli.  
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with slow delta and respirator artifact.  Stimulation produces a small amount of theta in the background.  There is a very small degree of variability noted in this record.  
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Replacement of normal background with essentially very slow delta.
+CLINICAL CORRELATION: This tracing supports a severe disorder of cerebral function.  Medications may play a role in this pattern as may the severity of this patient’s injury.  Although there was only a small degree of reactivity and variability, these are considered positive prognostic features.  
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 46-year-old male comes status post subcraniotomy complicated  by subdural empyema and sinus surgery last week.  Patient has a drain in his nose.  History of hypersomnolence.
+	MEDICATIONS: 	Dilantin, amoxicillin, steroids.
+		INTRODUCTION: 	Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel EKG. Photic stimulation was performed. 	Hyperventilation was deferred due to the recent sinus surgery.
+							DESCRIPTION OF THE RECORD: 	In wakefulness, there is an 8.5 hertz 30 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. 	The technologist reported central parietal skull defect. 	There is a slight increase in amplitude in the right central region. 		In maximal wakefulness, there is a small amount of excess background theta. 	Drowsiness is characterized  by slow-moving  eye movements and anterior spread of the alpha rhythm. 	POSTS are observed in Stage I sleep. 	Photic stimulation elicits bilateral driving.
+HR: 66 bpm
+	IMPRESSION: 	Mildly abnormal EEG due to:
+					1. Mild excess theta. 	Clinical correlation: 	No epileptiform features were identified in this nor in a previous EEG. 	Normal EEG does not exclude a diagnosis of epilepsy. 	If 	seizures are a consideration of repeat tracing is advised. 
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is an 82-year-old woman who presents with two to three minutes of tonic-clonic activity with decreased responsiveness.  The patient’s baseline is advanced dementia, non-verbal, and bedridden.  Past medical history significant for hypertension.  CT of the brain showed diffuse atrophy and periventricular ischemic changes.
+MEDICATIONS: Dilantin and others.
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed. The patient is awake and confused during the recording.  
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow and poorly organized.  There is a 5 to 6 Hz, 40 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Occasionally, isolated waveforms of  3 to 4 Hz, 60 V are identified in the occipital area. 
+HR:  78 BPM.
+IMPRESSION: Abnormal EEG for a subject of this age due to:
+Diffusely slow and poorly organized background.
+Bursts of theta activity in the occipital area.
+CLINICAL CORRELATION: This tracing is suggestive of a disturbance of cerebral dysfunction, however, this pattern is non-specific and can be seen in patients with encephalopathy, a postictal pattern of seizures, or medication effect.  In view of the occipital delta- theta activity, a neuroimaging may be helpful in providing further information.  No epileptiform discharges were seen in this recording.  If epilepsy is a clinical concern, a repeat EEG may be useful.
+
+

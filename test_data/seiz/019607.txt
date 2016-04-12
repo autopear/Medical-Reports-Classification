@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 64-year-old woman with seizures since age 61.  Patient with abnormal CT and EEG in the past. 
+MEDICATIONS: Dilantin and Ativan.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: Much of the record demonstrates drowsiness with brief arousals.  When the patient is stimulated, the posterior dominant rhythm reaches 8 Hz, 30 uV.  There is excess beta activity and prominent, shifting arrhythmic delta activity, which is sharply contoured with sharply contoured delta seen from either left or right temporal regions and a handful of sharp waves seen more from the left temporal region than the right.  The sharp waves can be seen in wakefulness into the transition to stage II sleep.  Features of stage II sleep include vertex waves, K complexes, and spindles.  
+Photic stimulation is associated with a photoelectric response, but no definite driving.  
+HR:  104 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Shifting arrhythmic delta activity with independent, sharply contoured left or right temporal delta.
+Left temporal sharp waves.
+Rare right temporal sharp waves.  
+CLINICAL CORRELATION: A previous EEG suggested primarily a left-sided focus.  This EEG demonstrates a left-sided slowing.  This EEG demonstrates sharp waves seen from both hemispheres.  Interval neuroimaging may be appropriate at this time.  
+
+

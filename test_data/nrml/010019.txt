@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  50 year old male with hypertension who presents with lightheadedness and left sided headache behind the left eye for 1 month.
+MEDICATIONS:  Micardis.
+REASON FOR EEG:  Lightheadedness.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with an anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness.  No activating procedures with photic stimulation or hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior rhythm at 9-10 Hz with an amplitude of 20-60 mV, which is reactive to eye opening.  There is slightly increased amount of frontal central beta seen diffusely.  The patient is only recorded in wakefulness and photic stimulation and hyperventilation produces no abnormal discharges.   
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.
+
+

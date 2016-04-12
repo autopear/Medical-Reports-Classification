@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  50 year old woman with history of epilepsy, learning disability, hypothyroidism, admitted for an ankle fracture.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  This is an awake through stage II sleep.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates primarily a sleep EEG with generous vertex waves, K-complexes, spindles, and POSTs. Brief arousals include asymmetric, reactive 10 Hz alpha rhythm of 40 mV. Photic stimulation is performed while the patient is asleep.  There is scant driving. 
+HR:    96 bpm with occasional premature ventricular contractions.
+IMPRESSION:  Normal EEG primarily in stage II sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If epilepsy is an important consideration, a follow up study may be considered.
+
+

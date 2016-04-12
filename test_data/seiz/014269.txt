@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 24 year old male with a history of head trauma multiple times as a child. He currently has migraine headaches occurring one to times per week since childhood, and lumps on his scalp. 
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system electrode placement. Hyperventilation and photic stimulation were performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized. There is a 9 Hz reactive alpha rhythm. Features of drowsiness includes slow rolling eye movements. Vertex waves, posts, and spindles are seen during stage II sleep. Hyperventilation does not activate the record. Photic stimulation produces no significant driving. 
+HR: 66 bpm 
+IMPRESSION: Normal EEG. 
+CLINICAL CORRELATION: Normal EEG does not exclude a diagnosis of epilepsy. If epilepsy is an important consideration, a repeat study capturing additional sleep is advised. 
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 16-month-old female admitted with sepsis and a prolonged seizure.
+MEDICATIONS: Ceftriaxone, Midazalam, Dilantin, Phenobarbital.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The child is relatively inactive, but the mother is lying on top of the child, and the mother is actually almost continuously moving.  
+DESCRIPTION OF THE RECORD: The EEG demonstrates a drowsy or asleep pattern with bursts of frontally predominant delta.  There are vertex waves noted in the record.  Artifact is seen as the parent moves about.  There is a transition between drowsiness and what could be defined as a slow wave sleep pattern with high amplitude 2 Hz delta activity.  Sleep spindles are noted in the background in the central regions symmetrically.  
+HR:  150 BPM.
+	IMPRESSION: EEG within normal limits in sleep.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  This EEG is compatible with a sedated sleep pattern.  It must be noted that there are normal morphologies of stage II and III sleep, however, at times, the delta is somewhat featureless and this may be due to medication effect.  If epilepsy is an important consideration, a repeat tracing may be valuable. 
+
+

@@ -1,0 +1,14 @@
+	CLINCAL HISTORY: 	This 58-year-old male of unknown handedness with a history of seizures years ago, heart murmur, and heart failure, corneal dystrophy, COPD, cellulitis, and positive PPD evaluated for seizures.
+	MEDICINES: 	Celexa, Dilantin, Lamictal, Motrin, phenobarbital, Risperdal, Sudafed, and Zilactin.
+			INTRODUCTION: 	 Digital video EEG is performed in the lab using standard 10/20 system of electrode placement with one channel of EKG.	Photic stimulation is performed. 	This is an awake and a sleep record. 	No previous EEGs are available for comparison.
+				DESCRIPTION OF RECORD: 	In apparent wake the background EEG is somewhat disorganized for an adult of this age. 	There is a 7 Hz posterior dominant rhythm. 	The background is sharply contoured and there are 15 asymmetries observed. 	In this sharply
+	contoured record, there are rare right centro-temproal sharp waves observed in wakefulness, accentuated as the individual drift into a light sleep state with both discreet and higher amplitude right temporal sharp waves, with a variable phase reversal including T2 or right central temporal. Breech activity is also observed. 	Photic stimulation elicits a driving response, which is slightly at faster frequencies on the right.
+HR: 58 bpm
+	IMPRESSION: 	Abnormal EEG due to:
+1. Background slowing with a disorganized pattern.
+2. Occasional shifting slowing.
+3. Right central/central temporal sharp waves.
+	CLINICAL CORRELATION: 	 This EEG supports a diffuse disturbance of cerebral function. 	A localization related mechanic seizures can be considered.
+Because of the at times discreet and at other times high amplitude activity from the right as well as the asymmetric driving response, consideration for a previous craniotomy or breech rhythm is appropriate.
+
+

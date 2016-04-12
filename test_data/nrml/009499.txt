@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  A 31-year-old male with epilepsy since age 8, cerebral palsy, mood disorder.  The patient was admitted overnight following 3 seizures in a 4 hour time span with postictal confusion and agitation.   
+MEDICATIONS:  Dilantin, Keppra, Lamictal, __________.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not possible.  This is an awake EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm identified on the right but this is disrupted on the left.  The left hemisphere demonstrates nearly continuous focal slowing with intermittent disruption of the alpha rhythm, and disruption of __________ frequency activity with a mixture of theta and delta.  Occasional spikes and sharps are noted from the left hemisphere but, in addition, there is a burst of sharp waves noted from the right as well.  The right hemisphere demonstrates some degree of disorganization.  The patient waxes and wanes from wakefulness to sleep.   
+The majority of high amplitude epileptiform discharges are left anterior temporal maximum reaching 150 microvolts.  Some of these also have a bifid component.  In this awake record, there is a question of a higher frequency spike in the right greater than left frontal region which may represent an artifact.   
+As the recording continues, the patient was uncooperative with eye flutter.  Epileptiform activities seemed to be resolving over the course of the EEG. 
+Heart rate:  114 BMP.
+IMPRESSION:  This is an abnormal EEG due to:
+Left temporal focal slowing.  
+High amplitude left temporal sharp waves and spikes often occurring in pairs.
+A burst of right temporal sharp waves. 
+Mild slowing and disorganization on the right.
+CLINICAL CORRELATION:  This is the 10th EEG for this patient.  The left temporal focal slowing and sharp waves have been previously described.  Previous attempts for inpatient video EEG monitoring were not successful due to patient cooperation.
+
+

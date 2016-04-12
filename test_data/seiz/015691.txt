@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 38-year-old male who was admitted with the diagnosis of status epilepticus characterized by four seizures of two minutes duration.  History of previous head trauma. 
+MEDICATIONS: Dilantin, Ativan drip, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and sedated.  
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a pattern of diffuse background beta.  There appears to be an intrahemispheric asymmetry, as well as a breach rhythm with higher amplitude activity from the left, some movement artifact as is typically seen in the context of a skull defect, and an increase in theta and to some extent delta on the left compared to the right.  The patient demonstrates spontaneous arousals with an increase in background theta.  As the recording continues, the patient becomes increasingly restless.  
+HR:  96 to 120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Replacement of normal background with a pattern primarily of beta activity.
+	Superimposed focal slowing from the left hemisphere with more irregular theta and delta, as well as an amplitude asymmetry. 
+CLINICAL CORRELATION: No epileptiform features were identified and no seizures were recorded.  Of note, this patient was becoming increasingly agitated towards the close of the record suggesting either recovery from the status epilepticus process or reduction in the level of sedation.   
+
+

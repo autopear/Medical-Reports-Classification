@@ -1,0 +1,14 @@
+	CLINICAL HISTORY:	 47-year-old, woman of unknown handedness who had a tonic clonic seizure early this morning and continued to have myoclonus and decerebrate posturing, but intermittently arousing and moving the left side of the body.
+MEDICATIONS:   Dilantin, Lorazepam, Labetalol, Depacon
+INTRODUCTION:  Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intermittently arousable.
+DESCRIPTION OF THE RECORD:  Background EEG is markedly abnormal and very low voltage. When the patient is resting comfortably, the activity is very low voltage, suppressed pattern. Spontaneous arousals are associated with eye movement and the appearance of some alpha frequency activity in the left frontal central region as well as some occasional low voltage alpha and theta frequency activity. Suctioning of the patient clearly produces an alerting response with an increase in again very low voltage activity. In some points of the record, there is an interhemispheric asymmetry at times much more prominent than others with particularly initial portions of the record much more marked suppression on the left compared to the close of the record. Throughout the record, stimulation of the patient clearly produces an alerting response. In addition, throughout the record, additional arousals are associated with more eye movement.
+	HR:	 84 bpm
+IMPRESSION:   Markedly abnormal EEG due to:
+	1. 	Markedly low voltage suppressed record.
+	2. 	An interhemispheric asymmetry most prominent in the initial portions of the record with
+suppression on the left.
+	3. 	In this very abnormal background, a pattern of emerging, theta and alpha frequency activity
+with some arrhythmic delta activity on the right improving over time.
+CLINICAL CORRELATION: This EEG supports an improving CNS process. Toward the close of the record, spasticity and tremulousness was seen without epileptiform activity in the EEG. The posturing seen earlier on the morning of the 7th was no longer observed. The EEG concluded at 11:36 a.m.
+
+

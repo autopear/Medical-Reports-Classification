@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 40-year-old male with a history of narcotics abuse with brief loss of consciousness in the field, admitted to the ER at 5:00 PM on 10/03/06 with code blue.  Patient was noted to have a Glasgow coma score of 3T on presentation, myoclonus in the ER, and seizures from 2:00 AM until perhaps 7:00 AM.
+MEDICATIONS: Ativan, Dilantin, narcotics. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as comatose and is examined throughout the EEG.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a burst suppression pattern with periods of suppression lasting two to five seconds and brief bursts of cerebral activity, which include high amplitude delta and theta frequency activity.  The activity is relatively symmetric.  Stimulation of the patient does seem to produce a more discontinuous pattern, although the tactile stimulation that was performed was not particularly vigorous.  
+HR:  126 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Burst suppression pattern.
+CLINICAL CORRELATION: This finding, following an anoxic injury in the context of an individual who has been persistently comatose and has had seizures, carries a worrisome prognosis.  Additional recording as time passes from the recurrent seizures is important to follow the evolution of this pattern and to make sure that no subclinical seizures have developed.  
+
+

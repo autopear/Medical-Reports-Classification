@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 67-year-old male with multiple mets including with one on the right with a one-minute “code” on 8/13/06. 
+MEDICATIONS: Dilantin, Mannitol, Decadron, morphine.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is abnormal and poorly organized with shifting asymmetries.  The most prominent features include an intrahemispheric asymmetry with more arrhythmic delta on the right compared to the left and more theta and alpha frequency activity on the left compared to the right.  There is a sharply contoured background and there is some single channel sharply contoured activity at T6, but without a clear field of spread in an individual without a previous craniotomy.  Features of sleep include an increase in beta, as well as vertex waves and spindles.  
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG for an adult of this age due to:
+	Generalized background slowing.
+	Shifting slowing with more prominent arrhythmic slowing on the right. 
+CLINICAL CORRELATION: This EEG supports a bihemispheric process, which involves the right hemisphere more significantly than the left.  Although there are some sharply contoured waveforms from the right, they do not have a reproducible field and careful correlation with imaging may be important to determine if there is some form of a breach-type pathology contributing to this pattern.   No seizures were recorded.  
+
+

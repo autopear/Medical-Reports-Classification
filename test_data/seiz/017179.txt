@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 72-year-old woman with three seizures and diabetes out of control. History of lifelong epilepsy with increasing seizures this past year.
+MEDICATIONS: Dilantin and many others.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz, 30 V posterior dominant rhythm and a small amount of background theta.  The patient quickly drifts off to sleep with an increase in background slowing and some shifting slowing.  
+HR:  70 BPM.
+	IMPRESSION: Mildly abnormal EEG for a subject of this age due to:
+A small degree of background disorganization and slowing in wakefulness. 
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The slowing described above is non-specific and may be due to medications or postictal state.  In comparison with previous EEGs, night studies were normal up until 1999 when a single EEG identifying bitemporal delta. 
+
+

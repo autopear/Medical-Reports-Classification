@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Rule out seizures.
+CLINICAL HISTORY:  A 59-year-old woman with a history of 2 CVAs in 2006 and 2012, with a right facial droop, slow speech and episodes of aphagia, again with a recent episode of feeling woozy, with a past medical history of diabetes and neuropathy.
+MEDICATIONS:  Captopril, hydrochlorothiazide, aspirin, glipizide, Klonopin, albuterol, fluticasone.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and limited drowsiness. Activating procedures included hyperventilation and photic stimulation that were performed.
+TECHNICAL DIFFICULTIES:  Some T3 electrode artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9-10 Hz, which is reactive to eye opening.  There is some frontocentral beta.  Activating procedures produced no abnormal discharges which included hyperventilation and photic stimulation.   
+Heart rate 96, regular.
+ABNORMAL DISCHARGES:  At times there is excessive theta in wakefulness.  At a frequency of 5-7 Hz and an amplitude of 20-60 microvolts seen intermittently.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to excessive theta in wakefulness.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild to moderate diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were clearly seen.
+
+

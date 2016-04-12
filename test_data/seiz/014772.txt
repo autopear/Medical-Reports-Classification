@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 78-year-old with bilateral subdural hematomas, history of recurrent subdural hematomas, and likely subacute stroke the week before he was admitted with the subdural hematomas.  This EEG was requested because the patient has been on longstanding antiseizure medication, but has never had a seizure.  
+MEDICATIONS: Dilantin, Labetalol, Heparin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake and drowsy. 
+DESCRIPTION OF THE RECORD: The background EEG is low-to-medium amplitude, continuous with a mixture of theta and alpha frequency activity.  There is a discernable posterior dominant rhythm. There is an asymmetry noted from the right frontocentral regions with disruption of faster frequency activity in this region and a bit more rhythmic right frontotemporal theta and delta.  This can be identified in drowsiness and in wakefulness. 
+HR:  84 BPM with occasional ectopy. 
+	IMPRESSION: Abnormal EEG due to:
+Mild background slowing from the left.
+Intermittent slowing from the right with disruption of faster frequency activity. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  This EEG supports both a diffuse disturbance of cerebral function and a more significant structural abnormality on the right than the left.  No previous EEGs were available for comparison. 
+
+

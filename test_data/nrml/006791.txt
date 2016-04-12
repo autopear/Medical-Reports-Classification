@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  Adult male transferred from an outside hospital following a head injury.  The patient presented with a seizure and was found to be in atrial flutter with an aortic aneurysm.
+MEDICATIONS:  Zosyn, Fentanyl, Dilantin, Amiodarone, Midazolam, Pantoprazole, Lopressor
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated, in a collar, and unresponsive.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates a continuous low-voltage pattern with a mixture of beta and slower low-voltage delta.  As the recording continues, the patient has eye movement and is described by the tech as appearing to be awake.  At that point, there is eye movement and a lower voltage beta pattern.  In addition, the EEG is slower and there is less beta on the right.   
+HR:    132 bpm and irregular
+IMPRESSION/CLINICAL CORRELATION:  Abnormal EEG due to:
+Replacement of normal background with a pattern of beta and delta.  With stimulation, there is eye movement and the background EEG is reactive; however, there is focality in this very difficult record, raising concerns about a process in the right hemisphere.
+
+

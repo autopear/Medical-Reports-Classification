@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 2-year-old male with seizure onset at five months.   He has tonic-clonic seizures and drop attacks and was admitted on the 20th with status epilepticus. 
+MEDICATIONS: Topamax, Phenobarbital, Keppra, Lorazepam, Midazalam, Fentanyl, and Ranitidine. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The child is initially drowsy and then asleep.  
+DESCRIPTION OF THE RECORD: This is primarily a drowsy record.  In the transition to drowsiness, there is rhythmic, hypersynchronous theta activity, which is best represented in the left hemisphere in comparison to the right.  As the child becomes a little bit slower, there is posteriorly predominant delta.  In wakefulness, there is a single C3 sharp wave and much of the record includes stage II sleep with high amplitude vertex waves, remarkably generous beta activity, and sleep spindles.  Throughout the record, there is intermittent delta seen in the occipital region when the child is asleep, which is slower and somewhat more asynchronous than would be expected in sleep.  Stimulation of the patient produces a higher amplitude regular pattern.  This actually occurs just prior to tactile stimulation, and tactile stimulation for the child produces a high amplitude delta pattern without evidence of the child clearly waking up.  Later on, tactile stimulation of the foot produces more or an attenuating pattern.  The child didn’t really seem to awaken with either attempts at stimulation behaviorally, just the EEG changes described above.  
+HR:  114 BPM.
+	IMPRESSION: Abnormal EEG for a child of this age due to:
+	Asynchronous rhythmic theta from the left hemisphere, more prominent from the left hemisphere during portions of the record and not always seen bilaterally.  
+	Higher amplitude occipital delta, which is somewhat more irregular than anticipated for age, maximum in the right.
+	Prominent excess beta. 
+CLINICAL CORRELATION: In comparison to previous records, the vertex epileptiform activity in wakefulness was not identified.  The occipital slowing is outside of the anticipated range of normal for a child of this age and the intermittent asynchrony of the rhythmic theta is also remarkable.  No epileptiform features were seen.  These findings may be correlated with imaging.  There is a relative paucity of epileptiform activity for a child of this age with this clinical history of intractable seizures.  
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  56 year old right handed woman with right hemiatrophy syndrome, admitted after 2 tonic-clonic seizures.  Total duration of seizures 45 minutes.
+MEDICATIONS:  Dilantin, 
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is somnolent and wearing a face mask.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow with primarily a slow, medium to low voltage delta pattern with smaller amounts of theta, frontocentral beta activity, and small, discrete right frontal sharp waves.  In some sections of the record there is a beta asymmetry with disruption of beta in the right frontal region relative to the left.  There is also some more subtle, focal mixed theta-delta in the right frontal region.  This starts to emerge as the patient becomes a little bit more stimulated.  Sharp waves from the right hemisphere may be maximum in the right frontal or right frontotemporal region.  The subtle asymmetry and faster frequency activity is again apparent toward the end of the record as faster frequency activity emerges sooner from the left hemisphere than the right. 
+HR:    96 bpm.
+IMPRESSION:   EEG is remarkable for:
+Marked background slowing.
+Focal spikes in the right frontal or right frontotemporal.
+Beta asymmetry as well as a bit of focal mixed theta-delta on the right.  Beta asymmetry with less beta on the right as well as some focal slowing.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function.  In addition, focal sharp waves are congruent with the patient's clinical epilepsy history.  
+
+

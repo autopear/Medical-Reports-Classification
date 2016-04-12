@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is an 85-year-old woman with a history of amyloid angiopathy and old right temporal hemorrhage who presents with left frontal bleed with change in mental status and lethargy, not following commands.   
+MEDICATIONS: Dilantin, insulin, and others.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with a 10 Hz, 20 to 25 uV posterior dominant rhythm.  In drowsiness, there are prominent wicket spikes visible as well as temporal sharp waves at T4, as well as a few temporal sharp waves over the left hemisphere. Two T3 sharp waves are seen in the left hemisphere and a handful of sharp waves in the right hemisphere.  There is intermittent right focal delta appreciated in this record.
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Rare right temporal sharp waves and a few left temporal sharp waves at T4 and T3 respectively. 
+Occasional right frontal slowing. 
+CLINICAL CORRELATION: This tracing is consistent with the patient’s prior history of a right hemispheric lesion with intermittent discharges at T4, as well as fewer discharges from the left temporal region consistent with the new frontal intracerebral hemorrhage. No epileptiform features were seen. Correlation with neuroimaging data would be appropriate.   
+
+

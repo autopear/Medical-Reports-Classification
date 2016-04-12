@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 25-year-old, right-handed, schizophrenic woman with a syncopal event in her doctor’s office.
+MEDICATIONS: Xanax, Dilantin, Celexa, Zyprexa.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is low voltage with a 10 Hz, 20 V posterior dominant rhythm.  There is a modest amount of low voltage frontocentral beta.  
+Drowsiness is characterized by an increase in background theta.  Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicits driving as well as a photoelectric effect. 
+HR:  72 BPM.
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  If seizures are an important consideration, a repeat tracing capturing deeper stages of sleep could be useful.
+
+

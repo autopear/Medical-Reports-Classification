@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  51 year old right handed woman with epilepsy since age 21.  Seizures characterized as right-sided shaking for 2-3 minutes and loss of consciousness and post ictal confusion.  Depression, anxiety, asthma, COPD.
+MEDICATIONS:  Dilantin, ASA, Metoprolol, Simvastatin, Evista, Ferrous Sulfate, Amlod Hydroxyzine, Ranitidine, Combivent
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10-Hz alpha rhythm.  Features of drowsiness include hypersynchronous rhythmic slowing.  There is one slightly asynchronous burst noted in the background.  Rhythmic theta characterizes the drowsy state.  Mu activity is noted in wakefulness.  Hyperventilation produces a small degree of background slowing.  Brief hypoxic deeper stages are noted but these do not sustain.  Photic stimulation elicits bilateral driving.  Hyperventilation does not significantly activate the rate.  
+HR:    66 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  There were no epileptiform features identified in this record.  The single, slightly asynchronous burst in drowsiness is a nonspecific finding.
+
+

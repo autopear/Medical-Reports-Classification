@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 7-year-old, right-handed female C/C in school, noticed vomiting, unresponsiveness, limpness with eyes rolling around but without any tonic-clonic activity or tongue biting.  History of febrile seizures at 13 months of age.  
+MEDICATIONS: Dilantin, Midazalam, Ativan, Atropine, and Vecuronium.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. At the time, the child is not intubated. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The vast majority of the record demonstrates a drowsy or sleep pattern.  There is some head-rocking artifact seen in the background as well.  In the brief portions of the record when the patient is awake, there is an 8 Hz symmetric, reactive posterior dominant rhythm with an alpha rhythm a bit higher amplitude on the right than the left, which is a normal finding.  Features of drowsiness include occipitally predominant rhythmic delta activity with vertex waves and spindles seen in stage II sleep. 
+HR:  120 BPM.
+	IMPRESSION: EEG within normal limits.  
+CLINICAL CORRELATION: Given the head-rocking artifact described above and the ongoing concerns regarding a possible seizure, a repeat study as an outpatient in the lab would be helpful to resolve some of the occipital head-rocking artifact.  
+
+

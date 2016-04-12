@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 16-year-old, left-handed male with epilepsy since age eight described as generalized shaking of the body lasting two to five minutes.  Last seizure yesterday.  The patient is non-compliant with his medications. 
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is appropriately organized for a child of this age with a 10 Hz, 30 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by rhythmic background slowing. There is very brief stage II sleep with vertex waves and spindles, however, deeper stages of sleep are not sustained. Hyperventilation is performed with good effort, not significantly activating the record.  Photic stimulation is performed while the patient is actually drowsy, but does elicit a driving response. 
+HR:  60 BPM.
+	IMPRESSION: EEG within normal limits.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  In this child with ongoing seizures, a repeat study capturing extended sleep is appropriate to characterize his underlying epilepsy. 
+
+

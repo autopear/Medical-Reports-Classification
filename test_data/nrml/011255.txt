@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  46 year old right handed man with status post left frontal meningioma resection on January 12, 2012, presents with seizure at the time.  He presents today with complaints of right sided upper extremity numbness and blurry vision.
+MEDICATIONS:  Keppra.
+REASON FOR STUDY:  Intermittent right sided numbness.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures, including hyperventilation and photic stimulation, were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior rhythm that reaches 11 Hz which is reactive to eye opening.  There is a normal amount of frontal central beta, at times seen a little bit more posterior than usual. Activating procedures, including photic stimulation and hyperventilation, produce no abnormal discharges. Sleep stage I was seen. 
+ABNORMAL DISCHARGES:  There is continuous focal slowing at C3 at a frequency of 2-4 Hz with an amplitude of 20-50 mV and associated with breech in that region.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left central focal slowing and breech.
+CLINICAL CORRELATION:  This EEG reveals evidence for focal cerebral dysfunction in the left central region, which is consistent with a known tumor removal in that region.  No seizures or epileptiform discharges were seen.
+
+

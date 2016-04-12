@@ -1,0 +1,19 @@
+CLINICAL HISTORY:  54 year old right handed female with history of seizures since childhood that was recently described as left side of the body burning lasting for a second.
+MEDICATIONS:  Tegretol
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with an additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness.  Activating procedures, including hyperventilation and photic stimulation, were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm of 9 Hz only seen over the left hemisphere.  Over the right hemisphere there is attenuation of all frequencies, including beta frequency, which can only be seen over the left hemisphere.  The patient is only recorded during wakefulness.   
+Activating procedures produce no abnormal discharges.  However, during hyperventilation the patient does start complaining of left arm numbness and pain.  During this time and intermittently there appears to be a change in the EKG lead to what appears to be bigeminy for seconds intermittently.   
+ABNORMAL DISCHARGES: 
+Focal attenuation of the entire right hemisphere and disruption of the posterior dominant rhythm seen throughout the recording.
+Mild excessive theta in wakefulness, along with bursts of FIRDA in wakefulness.   
+SEIZURES:  During the recording the patient complained of her left arm hurting, which is consistent with her typical events, but there is no EEG correlate during this event.  The patient did not loose consciousness.
+IMPRESSION:  Abnormal EEG due to: 
+Right hemisphere attenuation and disruption of the posterior dominant rhythm in that hemisphere. 
+Mild generalized slowing. 
+FIRDA.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cortical dysfunction in the right hemisphere, which is consistent with a known hemiatrophy seen on the right hemisphere for this patient.  In addition, there is evidence of mild diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  The episodes of left arm burning did not have any EEG correlate.  However, please note that up to 75% of simple partial seizures may not be captured during scalp EEG.  Lastly, the patient did have some EKG abnormalities seen throughout the recording.  Due to this the patient was recommended to be seen in the emergency room right after the EEG.  She was taken there for this.
+__________________________
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 37-year-old woman with bilateral weakness, dizziness, and neurosarcoidosis.
+MEDICATIONS: Dilantin, Colace, Protonix, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The patient is lethargic.  The primary frequency in the background is rhythmic, 4 to 7 Hz theta frequency activity.  There is rhythmic, frontally predominant delta activity as well as shifting, arrhythmic delta activity.  Again, this is most prominent in the frontal regions.  There is a suggestion of a 7 Hz posterior dominant rhythm. Drowsiness is characterized by slow rolling eye movements. Photic stimulation elicits minimal driving at intermediate and faster flash frequencies. 
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Rhythmic, frontally predominant delta as well as shifting arrhythmic, frontally predominant delta. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  These features are non-specific but support a diffuse disorder of cerebral function.  Consideration for a toxic or metabolic encephalopathy and/or a process involving white matter in the frontal regions is appropriate.  Previous studies not available for comparison. 
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 50-year-old woman with hypertension, obstructive sleep apnea, and seizures. 
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 Hz, 30 to 50 V posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  In relaxed wakefulness and early drowsiness, there is rhythmic, 5 Hz, sharply contoured activity with a flat-top shape in the left temporal region.  This may appear in bursts lasting up to 1.5 seconds.  There is a very slight degree of variability in the activity.  Identical, 5.2 Hz activity is identified from the right in similar states.  This is also seen at the close of hyperventilation as the patient becomes drowsy.  
+Photic stimulation elicits symmetric driving at intermediate and faster flash frequencies.
+HR:  90 BPM.
+	IMPRESSION: This EEG is at the limits of normal in wakefulness and drowsiness.
+CLINICAL CORRELATION: No definite epileptiform features were identified in this record.  The findings described above are most compatible with a psychomotor variant.  They have the characteristic 5 Hz activity.  On the left, there is just a touch of variability in terms of actual frequency, but the identical activity is seen on the right in the same sleep state.  To further define this, a repeat study in deeper stages of sleep could be of use, however, a previous study in stage II sleep earlier this year did not identify epileptiform activity. 
+
+

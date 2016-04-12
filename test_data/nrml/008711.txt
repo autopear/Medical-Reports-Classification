@@ -1,0 +1,14 @@
+REASON FOR STUDY:  Possible seizure.
+CLINICAL HISTORY:  A 42-year-old woman with a history of seizures for 3 years, head trauma.  Last seizure August 19, 2013, with shaking and loss of consciousness.  She has a past medical history of anxiety, depression, PTSD, asthma, and emphysema.
+MEDICATIONS:  Celexa, Xanax, Flovent, Ventolin, Soma, Percocet.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  Some T4 electrode artifact.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is an excessive amount of beta seen throughout the recording.  The patient is recorded during wakefulness and sleep, stage I.  Activating procedures including photic stimulation and hyperventilation produce no abnormal discharges.  Please note that photic stimulation did produce a nice photic driving response. 
+Abnormal discharges:  None. 
+Seizures:  None. 
+Heart rate:  66.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges were seen.  Please note that the excessive beta may be seen as an effect of benzodiazepines or barbiturate use.
+__________________________
+
+

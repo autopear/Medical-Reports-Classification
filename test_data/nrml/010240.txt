@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  21 year old right handed woman with epilepsy since age 12, nocturnal tonic clonic seizures.  Seizure free for 6 months until she stopped Dilantin.  Now seizure free for 1 month.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 70 mV 11 Hz alpha rhythm and posterior slow waves. Hyperventilation is performed early in the record producing an increase in amplitude of the background.   
+Photic stimulation did not activate the record. 
+HR:    60 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  If additional information is needed, a repeat sleep deprived study is suggested.  Alternatively this EEG could be compared with her childhood EEGs.
+
+

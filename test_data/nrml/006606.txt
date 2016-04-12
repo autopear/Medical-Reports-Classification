@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 44-year-old male with factor V deficiency, hypertension, DVT, and coronary artery disease as well as epilepsy.  The patient developed chest pain and 3 seizures on the 3rd, characterized by generalized, upper extremity movements.
+MEDICATIONS:  Zocor, Plavix, aspirin, Keppra, Dilantin, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient appears to be drowsy.  In addition, there is some head rocking movement on the right.
+DESCRIPTION OF THE RECORD:  The drowsy record is relatively symmetric with generous beta.  TOSTs are noted with occasional spindles in sleep.  Despite the head rocking artifact, there does appear to be some focal slowing and a discreet sharp wave in the right posterior temporal region.  Other sections of the record demonstrate more symmetric TOSTs in sleep.   
+Stimulation of the patient produced a brief arousal with an increase in alpha frequency activity but wakefulness was not sustained. 
+Heart rate 96 BPM.
+IMPRESSION:  This is a primarily drowsy EEG and is somewhat technically limited by head rocking artifact but is abnormal due to: 
+Right posterior temporal focal slowing.
+Rare right posterior sharp waves. 
+No seizures were recorded.  Overall, much of the sleep morphology is symmetric.  In this individual with focal features, additional testing to look for an asymmetric alpha rhythm might be of value.
+
+

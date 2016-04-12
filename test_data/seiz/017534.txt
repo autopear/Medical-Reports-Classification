@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a man with unknown medical history who presented in status epilepticus, pneumothroax.  Ativan drip now tapering off.  Tox screen positive for cocaine and CT demonstrating cerebral atrophy.
+MEDICATIONS: Ativan drip, Phenobarbital, Dilantin, Acyclovir, antibiotics.
+INTRODUCTION: Continuous digital video EEG monitoring is performed at the bedside in the ICU.  The recording begins at 11:15 on the 12th and concludes at 7:45 AM on the 13th.  During this portion of the record, no clinical seizures are recognized by the team, and no seizures are identified by the computer system. 
+DESCRIPTION OF THE RECORD: The background EEG is low voltage, continuous.  There are some portions of the record demonstrating some artifact.  This includes single channel artifact at F7.  The overall pattern is low voltage, continuous, with diffuse beta.  The Ativan is decreased at 15:17 on the 12th and stopped at 4:01:57.  By the time the Ativan is stopped at 4:01:57, there is decreasing amounts of muscle in the background and the EEG is becoming lower voltage and more featureless.  The activity is overall relatively suppressed with low voltage theta and beta and rare shifting asymmetries.  At the close of the record, the EEG demonstrates slow voltage, continuous beta activity.  
+HR:  67 to 90 BPM.
+IMPRESSION: Abnormal continuous video EEG monitoring due to:
+Initial unusual ictal patterns with both periodic complexes and sharp waves, which could be seen from either hemisphere, as well as an unusual ictal pattern. The ictal pattern seemed to arise more from the right hemisphere than the left and was pretty consistently associated with the absence of motor activity.
+Intermittent burst suppression, sometimes more remarkable in the right hemisphere and left posterior temporal regions. 
+CLINICAL CORRELATION: By the close of the record, the patient was out of status epilepticus and the EEG was relatively suppressed. This tracing supports a partial or localizing mechanism for this patient’s seizures with both hemispheres involved.  Correlation with imaging may be helpful. 
+
+

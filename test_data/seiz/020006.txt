@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 45-year-old male with a large stroke, unilateral facial twitching without an EEG correlate.
+MEDICATIONS: Dilantin, Phenobarbital, Topamax. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated with a ventriculostomy. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow, low voltage, relatively featureless with slow delta and smaller amounts of faster frequency activity.  Occasional muscle is picked up on the left with the left scalp electrodes and rarely on the right, but the focal facial twitching identified previously is not seen.  There is variability in the record and some portions of the record are richer in faster frequency activity than others.  Using a referential montage, the electrodes from the left temporal region appear to be relatively featureless compared to the right.  
+HR:  54 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Generalized background slowing, relatively severe.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The occasional focal features are seen primarily in some montages more than others.  The patient’s facial twitching was not identified and there was no epileptiform activity.
+
+

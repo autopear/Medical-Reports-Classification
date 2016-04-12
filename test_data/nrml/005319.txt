@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  71 year old right handed female with past medical history of hypertension, chronic liver disease, hyperlipidemia, seizure disorder, presents with 2 episodes of generalized tonic-clonic seizures with urinary incontinence.
+MEDICATIONS:  Vimpat, Topiramate, Keppra, Ativan p.r.n.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  Some movement artifact and temporalis muscle artifact.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that at best reaches 8 Hz which is reactive to eye opening and can only be seen over the left hemisphere.  Faster frequencies can also only be seen over the left hemisphere.  Activating procedures were not performed.  The patient appears to have some state changes from wakefulness to sleep.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen occasionally at F8/T4.
+Focal slow waves are seen continuously in the right hemisphere, maximum at F8/T4.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:
+Right anterior temporal sharp waves. 
+Continuous slowing.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of localization related epilepsy with seizures likely arising from the right anterior temporal region.  In addition, there is evidence of focal structural dysfunction in the right anterior temporal region, which has a high correlation with a lesion in that region. 
+
+

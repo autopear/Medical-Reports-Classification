@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  48 year old female with a history of seizures since age 25, seizure-free for 8 years, now returned for the past 7 years with nocturnal seizures.
+MEDICATIONS:  Zonisamide and Keppra
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness.  Activating procedures included photic stimulation and hyperventilation.
+TECHNICAL DIFFICULTIES:  Some movement artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 8 Hz which is reactive to eye opening.  There is minimal frontocentral beta.  The patient is recorded during wakefulness and drowsiness.  Activating procedures produced no abnormal discharges. 
+ABNORMAL DISCHARGES:  Generalized slow waves at 5 to 7 Hz with an amplitude of 20 to 60 microvolts. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Mild generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild to moderate diffuse cerebral dysfunction which is nonspecific with regard to etiology.  No seizures or epileptiform discharges were seen.
+
+

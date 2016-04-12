@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 51-year-old male with multiple cerebral mets and episodes of bilateral shaking, but without loss of awareness. 
+MEDICATIONS: Dilantin, Keppra, Oxycodone, Ativan, and others. 
+INTRODUCTION: Continuous video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. The patient presses the button on many occasions, but typically when he does so it is to ask for the nurse.  It does not appear that there were any behavioral events or clinical seizures. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a pattern with excess background beta and occasional shifting slowing.  The sleep record demonstrates spindles.  
+There are multiple push button events and on some occasions, the patient is actually not hooked up or not on camera.  However, in all cases, the behaviors in question do not fit his description of seizures and are not associated with epileptiform activity.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal long-term video EEG monitoring for an adult of this age due to:
+	Excess beta. 
+	Excess theta.
+	Shifting slowing.
+CLINICAL CORRELATION: No seizures were recorded. Unfortunately, none of the patient’s behaviors were captured either.  Additional recording may be obtained at the request of the attending physician.  If clinically indicated, an outpatient ambulatory study may be obtained
+
+

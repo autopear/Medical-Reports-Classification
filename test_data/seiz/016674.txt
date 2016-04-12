@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is an 81-year-old woman with a left thalamic hemorrhage, old left PCA infarct, bilateral basal ganglia infarct found this morning with a gaze deviation to the right and posturing of the right arm.  
+MEDICATIONS: Labetalol, Dilantin, Ativan.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is comatose, intubated without motor activity identified.  
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an intrahemispheric asymmetry with a very low voltage, overall suppressed pattern on the right.  Intermittently, there is some low voltage delta and faster frequency activity, but the activity is overall suppressed.  The left hemisphere demonstrates intermittent rhythmic bursts of mixed alpha frequency activity with some underlying delta.  There is some intermittent discontinuity in the record including some generalized attenuation.  Stimulation of the patient by holding her eyes open seems to produce an electrodecrimental response for approximately two seconds.  There is some variability in the record with some portions of the record demonstrating a bit less in the way of suppression on the right compared to the left.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Marked intrahemispheric asymmetry with overall suppression from the right hemisphere.
+Intermittent, rhythmic mixed frequency activity from the left hemisphere with a combination alpha, rare beta, theta, and delta frequency activity.
+Intermittent electrodecrimental response including to tactile stimulation.
+CLINICAL CORRELATION: This tracing supports a severe disorder of cerebral function effecting both hemispheres.  Despite the clinical history described above, the right hemisphere appears to have been effected more negatively than the left.  This may be due to a new process in the brain or a postictal pattern. A follow-up EEG is recommended. No seizures were recorded. 
+
+

@@ -1,0 +1,10 @@
+CLINICAL  HISTORY: This is a 60-year-old male who fell down six stairs while drunk, was unresponsive, and found to have diffuse subarachnoid hemorrhage with intraventricular hemorrhage.   Ventriculostomy  x 2.  Patient has preserved brain stem signs, but has tremulousness.
+MEDICATIONS: Dilantin, Baclofen, Ativan, Hydralazine, and Plavix. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and described as comatose. He is stimulated during the EEG.
+DESCRIPTION  OF  THE   RECORD:   The  background EEG  demonstrates  a  low voltage, slow pattern with a subtle intrahemispheric asymmetry. The background appears lower voltage and a bit more suppressed on the right compared to the left.   There is variability in the record, and there is some low voltage beta, theta, and even alpha frequency activity.
+HR: 110 BPM, irregular. IMPRESSION: Abnormal EEG due to:
+1.  Replacement of normal background with a lower voltage, mixed frequency but slow pattern.
+. 2.  Superimposed asymmetry with more attenuation on the right compared to the left.
+CLINICAL  CORRELATION: Correlation with imaging and exam may be important, particularly if there is an  underlying subdural hematoma on the right.
+
+

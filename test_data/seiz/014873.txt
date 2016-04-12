@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 26-year-old woman who was hit in the head at a party and fell to the floor requiring frontal stitches.  Following this, she experienced generalized tonic-clonic seizures.  
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric, continuous, and fairly well organized for age.  There is a 9 Hz, 75 V posterior dominant alpha rhythm, which is attenuated with eyes opened.  As the tracing continues, sharp activity is occasionally seen at the T3 and C3 regions. Sleeping is evidenced by a mixture of brain frequency activity and a decrease in the amplitude of the background. Deeper stages of sleep are not achieved.  Photic stimulation occasionally elicits focal sharp discharges at C3, T3, and T5 regions.  No clinical seizures were correlated.  
+HR:  80 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	A few sharp waves in the left posterior quadrant.
+CLINICAL CORRELATION: This abnormal EEG is suggestive of a focal abnormality of epileptiform discharges providing a focal mechanism for epilepsy in this patient. 
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 62-year-old gentleman who received open heart transplant in 1996 with end stage renal disease on hemodialysis: change in mental status.
+MEDICATIONS: Tylenol, insulin, Cyclosporine, and others. 
+INTRODUCTION: Portable digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is lethargic during the record.  
+DESCRIPTION OF THE RECORD: From the beginning of the record, the background EEG demonstrates continuous, triphasic high amplitude waves. The amplitude is greater than 200 V with a frequency of 2 to 3 Hz, but mainly 2.5 Hz frontal dominant triphasic waves.  Stimulation of the patient produced attenuation of the background of triphasic waves, but transiently decreased amplitude and frequency.  After administering Ativan 2 mg IV, this temporarily suppressed or decreased the triphasic waves.  During the record, on the digital camera, occasional movements of the patient were noted without significant EEG correlate.
+HR:  132 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Continuous high amplitude triphasic waves.
+CLINICAL CORRELATION: In comparison to this patient’s previous EEG, which was done yesterday, this is the same pattern which is suggestive of encephalopathy due to either metabolic, toxic, structural lesions, or other etiology.  Reactivity of the EEG with stimulation suggests the patient is not in seizure status.  Ativan temporarily suppressed the triphasic pattern raising the possibility of the patient to benzodiazepine(?).  If not contraindicated, treatment with either Ativan or Dilantin is suggested.  A follow-up EEG is recommended.  
+
+

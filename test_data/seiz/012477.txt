@@ -1,0 +1,27 @@
+INTRODUCTION: 
+PROCEDURE NOTE 
+Routine EEG was performed using the 10-20 electrode placement system with EKG electrode as well as anterior temporal 
+electrodes. Hyperventilation and photic stimulation were performed. Sleep recording was performed. 
+MEDICATIONS: 
+No seizure medications. 
+TECHNICAL PROBLEMS: 
+Increased muscle artifact. 
+HISTORY: 
+This 56-year-old woman with a family history of seizures, who presents with several episodes of syncope with loss of 
+consciousness, dizziness, and migraine headaches. 
+DESCRIPTION OF RECORD: 
+The record opens up to low-amplitude recording with fronto-central muscle artifact at times a 9 to 1 0 Hz posterior dominant 
+rhythm can be seen, which is reactive to eye opening and eye closing with a small amplitude of 20 to 30 microvolts. Some 
+frontal central beta seen. No sleep activity is noted in the recording. No abnormal discharges were noted during 
+hyperventilation. Interestingly, there is some photic driving seen specifically at 11 Hz during photic stimulation. 
+ABNORMAL DISCHARGE: 
+None. 
+SEIZURES: 
+None. 
+IMPRESSION: 
+Normal awake EEG. 
+CLINICAL CORRELATION: 
+Normal awake EEG. No seizures or epileptiform discharges were seen. Please note that a repeated record with sleep may 
+increase the yield of capturing epileptiform abnormalities. 
+
+

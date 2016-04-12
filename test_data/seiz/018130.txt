@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 61-year-old woman with syncope, MI, and question of seizures. 
+MEDICATIONS: Dilantin, Toprol, antiarrhythmics, and many others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The technologist notes that she has a great deal of difficulty obtaining impedances under 10 because of scalp oil.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9 Hz, 30 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  In wakefulness and in hyperventilation, there are rare, brief bursts of 3 to 5 Hz activity from the left temporal region, all less than one second in duration.  Hyperventilation does not otherwise augment the record.  Brief drowsiness is characterized by slow rolling eye movements. 
+Photic stimulation elicits scant bilateral driving. 
+HR:  54 BPM, with rare PVCs.
+	IMPRESSION: Mildly abnormal EEG due to:
+	1.	Rare left temporal focal slowing.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The focal slowing is of unclear clinical significance in a subject of this age and may be due to this patient’s previous stroke.  Previous EEGs were normal.
+
+

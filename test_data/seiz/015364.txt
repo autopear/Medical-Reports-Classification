@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 48-year-old woman with meningitis and migraine headaches with the appearance of epilepsy following the meningitis.  Tremors, and gait dysfunction. 
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is an 11 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements with an increase in background beta.  Hyperventilation produces an increase in the amplitude of the background.  Photic stimulation is reviewed with the digital video EEG.  The technologist reports that the patient is getting antsy and agitated during photic stimulation, although the audio is off.  A bilateral brief driving response is seen and there is also some head-rocking artifact.  The technologist’s notes are excellent, although there is no audio.  The patient is telling the tech that the photic stimulation is making her shake.  Reviewing the EEG, there is head-rocking artifact in the background and the tech describes the patient as having a panic attack, but there is no epileptiform activity and the patient does permit the conclusion of photic stimulation, which elicits a bilateral driving response. 
+HR:  114 BPM.
+	IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Of note, the patient is tachycardic at baseline and becomes panicked during photic stimulation.  Evaluation as to the cause of these symptoms may be valuable.  
+
+

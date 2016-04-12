@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 57-year-old male with a history of cocaine abuse, chest pain, hypertension, CHF, afib, and CVA. The patient was transferred to Temple after a witnessed seizures and intubated.
+MEDICATIONS: Ativan drip, Dilantin, aspirin, Digoxin, Versed, Labetalol, and check tech sheet.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation and hyperventilation were not performed.  The patient is intubated and unresponsive during the recording.
+DESCRIPTION OF THE RECORD: The background EEG is low voltage, symmetric with diffuse beta activity.  Stimulation of the patient produced….. 
+HR:  136 BPM.
+IMPRESSION: Abnormal EEG due to:
+Low voltage and diffuse beta activity.
+CLINICAL CORRELATION: The diffuse beta activity is consistent with barbiturate or benzodiazepine use. No focal nor epileptiform features were seen in this record.  If epilepsy is a clinical concern, a follow-up EEG when the patient is stable after being extubated may be useful. 
+
+

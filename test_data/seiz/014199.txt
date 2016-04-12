@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  88 year old woman with left craniotomy with subdural hematoma evacuation.
+MEDICATIONS: Dilantin, Keppra,  HCTZ, Lisinopril, Levothyroxin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1  channel EKG. The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates an asymmetry with lower voltage theta and small amounts of delta on the right. The left side demonstrates the craniotomy with a sharp wave in the left temporal region. This sharp wave is associated with arrhythmic delta activity. It appears in trains, waxes and wanes, but does not build up into seizures.  Stimulation of the patient produces an increases in muscle and an increase in theta frequency activity, but no seizures.
+	HR:	72 bpm
+IMPRESSION: Abnormal EEG due to:
+	1. 	Generalized background slowing.
+	2.	lntrahemispheric asymmetry.
+	3.	Sharp waves and focal slowing in the left temporal region.
+CLINICAL CORRELATION:  No seizures were recorded. This EEG supports a bihemispheric disturbance more significant on the left.
+
+

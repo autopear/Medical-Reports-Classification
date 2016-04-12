@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 46-year-old, right-handed male with an episode of dizziness and loss of consciousness after falling.  Patient reports that the dizziness was attributed to his diabetes.  
+MEDICATIONS: Lipitor, Avandia, Verapamil, Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz, 50 uV posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements. Hyperventilation produces rare bursts of synchronous slowing.   Photic stimulation elicits scant bilateral driving. 
+HR:  90 BPM.
+	IMPRESSION: Normal EEG in wakefulness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  If epilepsy is an important consideration, a repeat tracing capturing sleep may be valuable.  
+
+

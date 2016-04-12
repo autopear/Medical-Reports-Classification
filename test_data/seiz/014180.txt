@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  66 year old man with AFib, pacer, old left CVA a left occipital hyperdensity with new-onset seizure.
+MEDICATIONS:  Dilantin, Digoxin, Ativan, Phenobarbital, Pantoprazole, Zosyn
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient intubated.
+DESCRIPTION OF THE RECORD:   At the start of this epoch, excessive muscle artifact is seen.  At times, there is clearing of the muscle artifact and a suppressed rhythm is seen on the left hemisphere.  This suppression is seen as theta delta pattern.  On the right hemisphere, continuous spike waves are seen in the posterior temporal, centro­ parietal and maximally in the posterior occipital regions.  At times, evolution of this activity is seen.  This continuous spike wave on the right hemisphere is seen whether the patient is chewing or not.
+	HR: 	60 bpm and irregular.
+IMPRESSION: This is an abnormal EEG due to:
+1. Continuous spike activity seen in the right hemisphere maximally posteriorly which evolves and is consistent with status epilepticus.
+CLINICAL CORRELATION: Team is aware of this consistent seizure activity and appropriate treatment was started.  Patient was placed on LTM.
+
+

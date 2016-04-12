@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 48-year-old woman admitted in status epilepticus for one hour on 1/29/06.  History of an anoxic encephalopathy, diabetes, hypertension, trache PEG, and epilepsy.  History of IVDA.
+MEDICATIONS: Dilantin, Keppra, Novolin, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient’s eyes are opened, but she is poorly responsive. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal for this awake individual.  The overall background is primarily one of 4 to 5 Hz activity with frequent eye blink artifact, but with what appears to be higher amplitude activity from the left hemisphere and nearly continuous left temporal sharp or spike activity.  As the recording continues, the patient is noted to blink in two.  There is no clear clinical correlate with this nearly continuous spike activity.  She seems to sit with her right hand in a spastic, postured position.  Although there are no specific interventions made during the record, towards the close of the record, the spike activity from the left hemisphere, which demonstrates a generous field of spread, has decreased somewhat, but has not completely disappeared. The spike focus has a generous field of spread in the left centrotemporal region.
+HR:  126 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Dramatic left temporal spike and slow wave activity continuous throughout the record without demonstrable clinical correlate. 
+CLINICAL CORRELATION: It may be valuable to look at this patient’s baseline and determine whether or not this epileptiform activity is part of an ongoing ictal pattern.  This must be evaluated in the context of this patient’s baseline.  Of note, at times the epileptiform activity is maximum in the left temporal region and at other times a bit more prominent in the left centroparietal.
+
+

@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  66 year old man with hypertension, diabetes, CRD, motor vehicle accident with subsequent intracranial hemorrhage, felt shortness of breath, collapsed at home, was taken to the emergency room, 10 minutes of arrest.  Prior EEG on 01/27/2012, now in continuous myoclonus.
+MEDICATIONS:  Depakote.
+REASON FOR STUDY:  Myoclonus.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded with no stimulation, and he was comatose during the exam.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no clear posterior dominant rhythm, frontocentral beta, or variability.  There is no activating procedures.  During the recording there are diffuse bursts of attenuation intermixed with infrequent bursts of, at times, generalized polyspike seen maximal anterior and spike and wave that sometimes can be seen prior to EMG muscle correlate and sometimes are not seen before EMG muscle correlate, which on video is consistent with myoclonus and twitching of the lower extremities.  During the exam, the patient is stimulated with noxious stimuli, variable, and sound stimuli, and there is no improvement of the EEG frequencies.   
+ABNORMAL DISCHARGES:  
+Polyspike discharges with associated muscle activity consistent with myoclonus.
+Generalized slowing at 2 to 4 Hz with microvolts of 20 to 40 microvolts amplitude with intermittent burst suppression and attenuation in the background. 
+SEIZURES:  See above.
+IMPRESSION:  Abnormal EEG due to:
+Myoclonus.
+Severely slow and attenuated background.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cortical dysfunction and irritability consistent with myoclonus.  These findings are suggestive of poor prognosis, especially in the setting of hypoxic brain injury.
+
+

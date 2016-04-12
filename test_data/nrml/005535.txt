@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  43 year old right handed male presents with seizures.
+MEDICATIONS:  Dilantin, Depakote, Ativan
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was markedly drowsy after a number of seizures, treated with Ativan.
+DESCRIPTION OF THE RECORD:  The majority of the EEG includes stage 2 sleep with vertex waves, spindles, K-complexes, and POSTS. Photic stimulation produces a driving response discernable in stage 2 sleep.  There is some head rocking movements noted. 
+HR:    90 bpm
+IMPRESSION:  Normal EEG primarily in sleep.
+CLINICAL CORRELATION:  This is the second normal EEG for this individual.  If further information is needed to characterize this patient's epilepsy, EEG monitoring may be necessary.
+
+

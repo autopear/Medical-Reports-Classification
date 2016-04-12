@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  45 year old male with a history of seizures who presents with multiple seizures in the emergency room.  He was given Ativan and Keppra and intubated.
+MEDICATIONS:  Keppra, Ativan, Tylenol, Rocephin.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior, temporal, and single-lead EKG electrodes.  The recording was performed during wakefulness and lethargy.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None
+DESCRIPTION OF THE RECORD:  The record opens to a low-voltage diffusely slow background in the delta frequency.  No posterior dominant rhythm or frontocentral beta is seen.  No normal sleep architecture is seen.  No activating procedures were performed.   
+ABNORMAL DISCHARGES:  
+Generalized slow waves seen at 2 to 4 Hz with an amplitude of 20 to 60 microvolts continuously.
+Frontal intermittent rhythmic delta seen (FIRDA).
+During the recording, the patient was stimulated and there appears to be increase in muscle artifact and mild increase in the frequency to theta frequency. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves. 
+FIRDA.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regard to etiology.  No seizures or epileptiform discharges are seen.
+
+

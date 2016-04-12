@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 14-year-old male who presents with a single seizure on July 2006.  He fell to the ground with tongue biting.  
+MEDICATIONS: Dilantin, Metformin, Vasotec, Procardia, and Catapres. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is low voltage and well organized.  A discernable posterior dominant rhythm of 10 Hz, 20 uV was seen, which is symmetric and reactive.  Hyperventilation produces an increase in the amplitude of the background, and a few suspicious sharp waves are seen in the left temporal region. However, at the end of hyperventilation, there is a rhythmic as well as arrhythmic slowing of the left temporal region, and the sharps seen earlier are more clearly defined and sharper.  In drowsiness, there is a well-defined sharp wave, and well-defined left sharp waves are seen in stage II sleep.  Spontaneous arousals are seen.  Photic stimulation elicits a subtle driving response.
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Left temporal sharp waves. 
+	Intermittent slowing in the left temporal region.
+CLINICAL CORRELATION: This EEG supports a localization-related mechanism for epilepsy.  
+
+

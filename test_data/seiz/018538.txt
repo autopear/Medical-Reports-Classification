@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a __-year-old man with a basal ganglia bleed on 11/25/03, persistently unresponsive, intubated with ventriculostomy. 
+MEDICATIONS: Dilantin, insulin, Heparin, Vancomycin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and comatose throughout the entire record.  No spontaneous movements are identified.   The patient is stimulated on one or two occasions.   
+DESCRIPTION OF THE RECORD: The background EEG is low voltage and featureless with rare, very low voltage delta.  Although the patient doesn’t appear to move on the video and there is no note from the tech, there is intermittent muscle in the background and following this, there is some very low voltage theta.  Stimulation of the patient produces some muscle artifact, but no real alerting.  
+HR:  84 BPM.
+	IMPRESSION: Technically limited due to muscle but abnormal EEG due to:
+Replacement of normal EEG with very low voltage, primarily delta pattern with scant amounts of theta frequency activity.
+CLINICAL CORRELATION: While no discernable motor activity is seen, there is some intermittent muscle and this may represent spasm or other features.  In this very low voltage, suppressed background, the muscle becomes more prominent.  There is scant evidence of reactivity.  This tracing would support a severe disturbance of cerebral function recorded eleven days after the intracerebral hemorrhage.  
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 58-year-old woman with osteomyelitis with a history of status-epilepticus on presentation.  Patient is now responsive to stimuli
+MEDICATIONS: Antibiotics, Dilantin, and Protonix.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake and responsive.   
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal.  The primary frequency in the background is rhythmic theta, but there are bursts of frontally predominant delta activity, as well as arrhythmic delta activity.  The background is notable for occasional triphasic waves identified from the frontal regions, as well as independent, left or right anterior temporal spike and slow wave or sharp and slow wave complexes.  Features of sleep include vertex waves.  The overall background is relatively symmetric.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Triphasic waves.
+Independent, right or left temporal sharp waves. 
+CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function.  Consideration for a toxic or metabolic encephalopathy, as well as a potential epileptogenic process is appropriate.  No seizures were recorded.  Patient’s previous EEGs were not available for comparison. 
+
+

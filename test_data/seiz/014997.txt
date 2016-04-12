@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 48-year-old woman with acute renal failure, atrial fibrillation, obesity, and intermittent jerking on the right side with impairment of awareness.  Patient treated with bedside Dilantin in an attempt to alleviate the jerking of the right arm. 
+MEDICATIONS: Dilantin and Diltiazem. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is lethargic. 
+DESCRIPTION OF THE RECORD: When the patient is resting quietly, the background EEG demonstrates an intermittent intrahemispheric asymmetry.  There are some portions of the record in which there is 7 Hz alpha frequency activity identified from the right hemisphere, which is not as easily defined on the left.  As the patient drifts off to sleep, there are occasional bilateral triphasic waves, and there is some fast activity picked up intermittently from the right or left central regions.  Myoclonic jerks can be seen in the EEG with muscle artifact, but without an EEG change. Occasionally, the patient jerks her head upwards.  This is associated with muscle artifact, but the EEG remains interpretable and there is no clear correlate.  
+HR:  98 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:
+An abnormal background with poor organization and intermittent excess delta.
+Triphasic waves.
+Occasional asymmetries with more arrhythmic delta from the left frontocentral region and occasional evidence of a posterior dominant rhythm, which is better represented on the right compared to the left.
+Independent right or left central sharp waves. 
+CLINICAL CORRELATION: This patient’s jerking was not associated with epileptiform activity.  This EEG does, however, demonstrate sharp waves.  The triphasic waves identified in this record are hallmarks of a metabolic encephalopathy.  There is some asymmetry in this record, which may be best correlated with available neuroimaging.
+
+

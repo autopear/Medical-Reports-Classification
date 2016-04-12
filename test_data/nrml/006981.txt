@@ -1,0 +1,12 @@
+	CLINICAL HISTORY: 	63 year old female with 2 witnessed seizures. Patient has a history of seizure disorder, old CVA with left-sided numbness and weakness, hypertension, CVA, and seizures.
+MEDICATIONS:  Keppra, Clonidine, aspirin, Zetia, Nexium, Lovenox, and Dilantin.
+Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1  channel of EKG. Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF  THE RECORD:  The background EEG includes a 7-8Hz posterior dominant rhythm that is high in amplitude. There is shifting arrhythmic delta, right greater  than the left. In addition, there is sharply contoured slow waves but no definitive sharp waves, particularly at C3. Again, photic stimulation and hyperventilation were not performed.
+	HR: 	90 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1.	Sharply contoured waves without definitive sharp waves, particularly at C3.
+	2.	Shifting arrhythmic delta, right greater than left.
+	CLINICAL CORRELATION: This is a record that is indicative of decreased global function. Given the shifting slowing, right greater than left, and sharply contoured waves
+there is a localization for the mechanism of this patient's seizures.
+
+

@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  A long-term EEG was performed using a standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed. 
+Continuous spike wave detection as well as seizure detection software along with nurse's notes and alarms were used to review the EEG.
+MEDICATIONS:  None mentioned.
+HISTORY:  A 26-year-old man with a history of generalized tonic-clonic seizures for 2 years and now with staring episodes and metallic taste and confused, recently with abdominal pain, and episodes of loss of consciousness, here for seizures.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which reactive to eye opening.  There is normal frontal central beta.  Activating procedures were not performed.  The patient is recorded in wakefulness and sleep, stage I, stage II in different stages.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  This is a normal wake and sleep EEG.  No seizures or epileptiform discharges were seen.
+
+

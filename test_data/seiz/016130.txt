@@ -1,0 +1,15 @@
+	CLINICAL HISTORY: 	43-year-old right handed woman with history
+	of epilepsy for 30 years. 	Her with loss of consciousness and
+	MEDICATIONS: 	Dilantin
+last seizure was in July 2007 post ictal confusion.
+				INTRODUCTION: 	This is a digital video EEG done in the lab. 	The EEG was performed with a standard 10-20 system of electrode placement with one lead of EKG.	The EEG was performed with hyperventilation and photo stimulation.	EEG went from
+drowsiness through wakefulness.
+		DESCRIPTION OF THE RECORD: 	In wakefulness, background EEG is sharply contoured.	There is an 11 to 11.5 Hz, 50-60 microvolt, posterior dominant rhythm with a small amount of low voltage, frontal central beta activity. Wicket activity is observed. In addition what is likely rhythmic mid temporal theta activity of drowsiness is also seen. The patient transitions in and out of stage II sleep with vertex waves, K complexes, spindles and then brief arousals.
+				Despite this, on some occasions, there is some irregularity in the left temporal region with activity in that region which is slower than 5-6 Hz as would be anticipated with rhythmic mid temporal theta of drowsiness.	 There is a brief brisk of sharply contoured, slightly irregular left temporal theta seen in an early drowsy pattern. 	Unfortunately, similar bursts are not observed in stage II sleep which is by in large not sustained in this individual. 	Hyperventilation seems to accentuate some of these left temporal features. 	On rare occasions, there are isolated bursts of focal slowing from the right central temporal region. 	Photic stimulation elicits bilateral driving which is quite vigorous.
+	HR: 	90 bpm
+	IMPRESSION: 	Abnormal electroencephalogram due to:
+	1. 	Sharply contoured left temporal slowing.
+	CLINICAL CORRELATION: 	Because of this patient's normal variance including rhythmic mid temporal theta of drowsiness at
+	5-6 Hz and temporal wicket, the epileptiform activity does resemble normal variance. 	If additional information is needed to more completely characterize this individual's epilepsy, a more prolonged sleep study is advised.
+
+

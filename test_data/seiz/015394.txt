@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 29-year-old woman with new onset seizures,3 tonic-clonic in nature,  
+MEDICATIONS: Protonix, Heparin, Lisinopril, Catapres, folic acid, Dilantin, and aspirin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  The patient is drowsy or asleep throughout much of the record. Adequate testing to make sure that the patient is maximally awake is not performed.  
+DESCRIPTION OF THE RECORD: In drowsiness, there is a pattern of low voltage, slow waves with vertex waves, K complexes, and spindles in stage II sleep.  
+In stage I sleep, there are two, low amplitude frontotemporal sharp waves seen.  Photic stimulation is performed while the patient is in stage II sleep and does not significantly activate the record.     
+HR:  96 BPM.
+	IMPRESSION: This EEG may well be normal.  The small sharp waves identified above may represent a normal variant.  
+CLINICAL CORRELATION: A repeat study with maximal wakefulness is important to assess the background.  In addition, a more prolonged sleep study may be valuable to search for epileptiform activity. 
+
+

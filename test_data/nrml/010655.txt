@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 40-year-old left-handed man who presents with the onset of tremors in the hands for 1 year.  Recent hernia surgery and now reports an episode of dizziness lasting for minutes.
+MEDICATIONS:  Pain medications.
+INTRODUCTION:  Routine EEG was performed using standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and mainly in sleep.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is an excessive amount of beta seen throughout the recording.  The patient is recorded mainly during sleep, stage I, stage II.  Activating procedures include hyperventilation.  There were no abnormal discharges.  Photic stimulation produced a nice photic driving.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  This is a normal awake and asleep EEG.  No seizures or epileptiform discharges were seen.  Please note that the excessive theta can be seen in the setting of medications like benzodiazepine or barbiturate use.
+
+

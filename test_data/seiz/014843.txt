@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is an 83-year-old woman involved in an MVA found to have a subdural hematoma several days later.  Post-op day #3 following burr hole.  Patient had brief mental status changes, but is now back to baseline. 
+MEDICATIONS: Dilantin, codeine, and Tigan.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz, 40 uV posterior dominant rhythm.  There is a generous amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements.  As the patient drifts off to sleep, there is snore artifact with bursts of frontal delta.   
+HR:  66 to 80 BPM.
+	IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  
+
+

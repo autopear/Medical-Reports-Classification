@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 27-year-old male with childhood epilepsy admitted with convulsions and found to have low Dilantin and Depakote levels. Alcohol and drug abuse.  
+MEDICATIONS: Depakote, Dilantin, and Tegretol.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is primarily an asleep record. 
+DESCRIPTION OF THE RECORD: This EEG demonstrates almost exclusively stage II and early stage III sleep. There is abundant beta frequency activity with beta spindles.  There are vertex waves and K complexes seen in stage II sleep, and there is an early transition to stage III sleep with higher amplitude delta.  Attempts to stimulate the patient also elicits delta.  Photic stimulation is attempted.  The patient doesn’t wakeup and there is a photoelectric artifact and some shifting arrhythmic delta.  
+HR:  100 to130 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+	1.	Shifting slowing identified when there is an attempt made to arouse the patient. 
+CLINICAL CORRELATION: The abundant stage II and III sleep may be due to  medications, sleep deprivation, or other causes of hypersomnolence.  The shifting arrhythmic delta is a non-specific finding.  If further characterization of this individual’s epilepsy is needed, a repeat tracing is advised.  Compared to a single previous EEG, there was subtle asymmetry in the past with disruption of faster frequency on the right. 
+
+

@@ -1,0 +1,17 @@
+/Pt, ../Pt, ..IIHIIH
+/Pt, ..
+/Pt, ..
+IIH
+IIH
+	CLINICAL HISTORY: 	51 year-old right-handed male with a history of craniotomy on the right, seizure-free  for the last 3 years.
+MEDICATIONS:  Dilantin and Topamax.
+INTRODUCTION: Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation  and photic stimulation are completed.
+DESCRIPTION OF THE RECORD:  In wakefulness background EEG demonstrates an intrahemispheric asymmetry. Congruent with a breach rhythm and the previous craniotomy, the activity is significantly higher amplitude on the right than the left. The left is relatively low voltage, without any alpha rhythm. The right hemisphere  demonstrates higher amplitude theta activity with arrhythmic delta activity, particularly in the right central temporal region. Features of drowsiness include slow rolling eye movements. Neither hyperventilation nor photic stimulation activate the record.
+	HR: 	58 bpm
+IMPR  ESSION:  Abnormal EEG  due to:
+	1. 	lntrahemispheric asymmetry.
+	2. 		Focal slowing with an amplitude asymmetry on the right with a mixture of theta and delta in that region.
+	3. 	Generalized background slowing.
+CLINICAL CORR  ELATION:   These features support a structural abnormality on the right involving gray and white matter. In addition, there is a low voltage pattern on the left. No epileptiform features were seen today.
+
+

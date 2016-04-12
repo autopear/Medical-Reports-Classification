@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  62 year old woman status post cardiac arrest on 06/24, now with intermittent involuntary eye movements.
+MEDICATIONS:  Dilantin, Ativan.
+INTRODUCTION:  Digital video long term EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Seizure and spike detection software is utilized.
+DESCRIPTION OF THE RECORD:  This EEG continues to demonstrate a burst suppression pattern.  Intermittent bursts of higher amplitude paroxysmal activity are observed.  These are generally synchronous.  The bursts have shown some shifting asymmetries from right to left and are typically under 3 seconds in duration.  The interburst pattern may be a suppressed pattern lasting as long as 5 seconds or it may include lower voltage, more rhythmic theta frequency activity.   
+HR:    N/A
+IMPRESSION:  Abnormal video EEG monitoring session due to:
+Burst suppression pattern.
+Absence of reactivity or variability.
+CLINICAL CORRELATION:  For this section of the EEG, the camera is not close enough to determine if the patient is continuing to have eye blink with the bursts of higher amplitude activity.  This EEG is similar to the previous study and supports a severe disturbance in the CNS. 
+
+

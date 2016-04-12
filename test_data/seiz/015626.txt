@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 74-year-old male with a previous history of epilepsy with a left MCA CVA and profound right-sided neglect.  No seizures were noted during this hospitalization. 
+MEDICATIONS: Labetalol, Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU lab using standard 10-20 system of electrode placement with one channel of EKG. The patient demonstrates clinical neglect during the EEG.  This is primarily an asleep record.  
+DESCRIPTION OF THE RECORD: In the sleep section, the background EEG includes diffuse theta.  There is an asymmetry of faster frequency activity with more faster frequency activity identified in the right central region.   The skull defect on the right can also be picked up, and there is a skull defect in the right central region and a suspicious underlying right central sharp in that area. In this individual with a left MCA CVA, some of the normal sleep morphologies are also missing from the left central region.  Stimulation of the patient produces an increase in muscle activity and partially obscures the EEG, but alpha frequency activity and a MU rhythm can be observed to be emanating from the right hemisphere with brief arousals.  Despite the muscle, there does appear to be an asymmetry in terms of less faster frequency activity generated from the right.  No sustained ictal discharges are seen and there is less than anticipated arrhythmic delta activity from the left.  
+HR:  Paced rhythm 66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Focal slowing from the left
+	Breech rhythm with underlying sharp waves R central region
+CLINICAL CORRELATION: This EEG supports a cortical process on the left with disruption of faster frequency activity.  In addition, in the context of a previous craniotomy on the right, there is also focal slowing from the right centrotemporal region and in the context of a breach rhythm, there is still a handful of sharp waves.  No seizures were recorded.  
+
+

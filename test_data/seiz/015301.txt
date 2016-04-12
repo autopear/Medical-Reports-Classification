@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 49-year-old male with epilepsy and a fall and seizure associated with alcohol ingestion.  
+MEDICATIONS: Dilantin, Serax. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement without EKG lead. The patient is asleep throughout much of the record, but arouses spontaneously.  
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is a 10.5 Hz posterior dominant rhythm in a background with generous beta activity.  The patient has prominent eye movement artifact.  Vertex waves and spindles are identified in sleep.  The EKG lead is not working during this study.  
+HR:  N/A.
+	IMPRESSION: EEG within normal limits. 
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The generous beta activity described above may be due to medications. 
+
+

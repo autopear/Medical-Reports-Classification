@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 54 year old gentleman with posttraumatic epilepsy, recurrent seizures. 
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates a 10.7 Hz, 40 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. Early and drowsy in the series the appearance of theta activity and POSTS. Photic stimulation is performed while the patient is drifting off to sleep, but there is a scant driving response. Vertex waves are observed in stage I sleep. 
+HR: 72 bpm 
+IMPRESSION: Normal EEG in wakefulness through stage II sleep. 
+CLINICAL CORRELATION: No epileptiform features were observed. If epilepsy is an important consideration, a repeat tracing capturing deeper stages of sleep or using special activation procedures is suggested. Hyperventilation was not performed in this record and if there is no contraindication should be performed. 
+ 
+
+

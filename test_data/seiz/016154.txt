@@ -1,0 +1,11 @@
+	CLINICAL HISTORY: 	The patient is a 29-year-old right-handed woman with epilepsy 3 to 4 years ago and 2 tonic-clonic seizures and previously on Dilantin. The patient has been seizure-free and Dilantin was discontinued 2 years ago. The patient is now experiencing episodes of right arm twitching with a taste of metal in her mouth. These episodes last 5 minutes. She denies any impairment of awareness or incontinence.
+	MEDICATIONS: 	None.
+	INTRODUCTION: 	Digital video EEG is performed in the laboratory using the standard 10/20 system of electrode placement with 1 channel of electrocardiogram.  Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+	DESCRIPTION OF THE RECORD: 	In wakefulness background EEG is well­ organized with 9 Hertz alpha rhythm and a generous amount of low voltage and central beta activity. Hyperventilation was performed early on in the record producing an increase in the amplitude of the background. Following this, in relaxed wakefulness, both alpha and Mu activities are seen but testing is not performed to confirm this. Photic stimulation elicits brief bilateral driving.
+HR: 72 bpm
+	IMPRESSION: 	Normal awake EEG.
+	CLINICAL CORRELATION: 	No focal or epileptiform features are observed in this record. Multiple normal variants such as alpha, Mu and posts were identified. To further characterize this
+individual's epilepsy, a more prolonged record capturing  sleep is
+advised.
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 67-year-old woman with an aneurysm clip as well as a pacemaker and staring spells, 
+MEDICATIONS: Prozac, Dilantin, Topamax, and many others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is diffusely slow with primarily a rhythmic theta frequency pattern and a 7 Hz, 50 uV posterior dominant rhythm.  Despite some head rocking and other artifacts, there appears to be a breach rhythm on the left with rare left temporal sharp waves, the vast majority of which have a typical morphology, but some would seem to have some positivity.  The patient has intermittent chewing and swallowing, which also produces artifact in the background.  Occasional shifting arrhythmic delta is identified as she becomes drowsy. 
+HR:  66 BPM.
+	IMPRESSION: Abnormal: Left temporal sharp waves
+CLINICAL CORRELATION: Supports a partial mechanism for epilepsy although the chewing movements have no EEG correlate.
+
+

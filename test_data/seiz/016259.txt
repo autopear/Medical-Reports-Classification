@@ -1,0 +1,11 @@
+	CLINICAL HISTORY: 	41-year-old woman with refractory epilepsy, admitted
+November 15, 2007 after 7 seizures, confusion, lethargy and a migraine headache.
+MEDICATIONS:   Dilantin and Ativan.
+INTRODUCTION:   Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  In wakefulness  there is a 10 Hz posterior dominant rhythm. There is intermittently, excess background theta. Rhythmic 3-4 Hz activity is identified intermittently  in the left frontal region, maximum F7, F3, sometimes at FP3. It has somewhat of an unusual field at times. It increases in hyperventilation. Features of drowsiness include slow rolling eye movements. Photic stimulation is performed while the patient is drowsy and is associated with bilateral driving.
+	HR: 	84 bpm
+IMPRESSION:   Abnormal EEG due to:
+1.   Rhythmic 3-4 Hz in the left frontal/frontotemporal region.
+CLINICAL CORRELATION: No epileptiform features are seen. However, this type of rhythmic theta/delta can be seen in localization-related epilepsy. Correlation with imaging may be useful.
+
+

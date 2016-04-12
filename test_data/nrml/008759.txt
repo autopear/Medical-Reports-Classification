@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 26 year old male status post craniotomy for medulloblastoma, now with CSF leakage, status post PEG, trache, and ventriculostomy. 
+MEDICATIONS: Dilantin, Keppra, Morphine, Lovenox, Protonix, Senna, Raglan, Metoprolol 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is awake, staring. There is no mention as to the exact location of his craniotomy. 
+DESCRIPTION OF THE RECORD: The normal morphology of an awake adult are absent in this record, which is primarily low voltage beta. There is some rhythmic artifacts. Eye movement artifacts are out of phase, raising the possibility of disconjugate eye movements. There is some rhythmic delta in the right posterior quadrant. Stimulation of the patient produces muscle artifact. As the recording continues, the eye movements are more symmetric. When the patient is unstimulated as the recording continues, the overall pattern is one of delta and theta with a featureless pattern, particularly missing faster frequency activity with slower, more rhythmic delta activity in the right occipital region and then less rhythmic delta in the left occipital region. Stimulation of the patient increases eye movement artifact. 
+HR: 130 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Very slow, featureless, background. 
+2. An asymmetry in the occipital regions with more rhythmic slowing on the right and more arrhythmic slowing on the left. 
+CLINICAL CORRELATION: No epileptiform features were observed. This EEG supports a significant disturbance of cerebral function, which may be chronic particularly in that the patient at least has eye opening and eye movement with some degree of interactivity. Technically this is better quality than the previous study. 
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 52-year-old man with status post aortic valve replacement for endocarditis, with being off sedation for 2 days with no improvement in exam.  At times, there are changes in the exam, concern for seizures.
+MEDICATIONS:  Morphine, Dilantin, ciprofloxacin, vancomycin, heparin, midazolam, acetaminophen, daptomycin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded while unresponsive.  Activating procedures were not performed.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontocentral beta.  There is no normal sleep architecture.  No activating procedures were performed.  Overall the background consistent with diffuse slowing at 2-4 Hz and amplitude of 20/50 microvolts seen maximal anteriorly with intermittent bursts of suppression, and at times bursts of thea with intermixed faster frequencies that last 2-5 seconds.  The patient was stimulated and there appears to be an increase in the frequency to a theta frequency for about 5-10 seconds.  The heart rate was 108 and there were some skipped beats.
+SEIZURES:  None.
+ABNORMAL DISCHARGES:  Please see above.
+IMPRESSION:  Abnormal EEG due to generalized slowing with variability and reactivity noted.
+CLINICAL CORRELATION:  This EEG reveals evidence of moderate to severe cerebral dysfunction, which is nonspecific with regards to etiology but may be due at least in part to medication effect.  No seizures or epileptiform discharges were seen.
+
+
