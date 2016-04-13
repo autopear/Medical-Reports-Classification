@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 46-year-old male who presents with left temporal stroke.  Past medical history significant for IV drug abuse and hepatitis C.
+MEDICATIONS: Dilantin, Versed, Percocet, antibiotics, cortical steroids, Risperdal, methadone, Phenobarbital, Topiramate, Acyclovir, and others.   
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is intubated and sedated during the record. 
+DESCRIPTION OF THE RECORD: The background EEG is low voltage with an increased amount of generalized diffuse beta activity.  From the beginning, PLEDS were seen in the left temporal region, accompanied by focal slow delta activity and seemed to be focal at the F7 area.  As the EEG continues with adjustment of Versed, interval slowing of the PLEDS becomes longer and appears as a discontinuous pattern.  In the latter portions of the EEG, the PLEDS became warming(?) and more theta and beta activity was seen.  No clinical seizures were observed on the digital video camera during this portion of the record. 
+HR:  114 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Left temporal PLEDS with focal slowing.
+CLINICAL CORRELATION: This tracing demonstrates left temporal PLEDS consistent with an underlying pathological change such as a structural lesion secondary to a stroke in this patient.  The evolution of the EEG and the Versed drip may reflect a therapeutic effect.  No physical seizures were observed during this recording. 
+
+

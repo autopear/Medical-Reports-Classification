@@ -1,0 +1,11 @@
+HISTORY: 63  yr  old  female  with  seizures,  stroke  and  pulmonary  disease.     Patient admitted on Sunday with change in mental status.
+MEDICATION: Dilantin. ACTIVATION: Photic Stimulation.
+INTRODUCTION: Digital Video EEG was perf01med in the lab  using standard 10-20 system of electrode placement with one channel of EKG.
+DESCRIPTION OF  THE  RECORD: The background EEG is slow and disorganized. There is a 7 Hz posterior dominant at times, better represented  on the left than the right. There  are  a  handful  of  left  frontocentral  sharp  waves.    Photic  stimulation   does  not activate the record.
+HR:    78 BPM
+IMPRESSION: Abnormal EEG due to:
+1.   Generalized background slowing
+2.   Rare left frontocentral sharp waves
+CLINICAL CORRELATION: In comparison  to the previous study, the background is improved.  There are no sustained vertex sharp waves.  There is overall, less epileptiform activity
+
+

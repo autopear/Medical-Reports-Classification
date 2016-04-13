@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 50-year-old male who presented with two tonic-clonic seizures and a positive tox screen for barbiturates. CT scan demonstrated ventriculomegaly.
+MEDICATIONS: Ativan and Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The tech noted some technical difficulties due to the patient’s cleanliness. Hyperventilation and photic stimulation were performed. This is an awake through stage I sleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.5 Hz, 30 to 50 uV posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  There is MU rhythm seen in the central regions, but testing is not performed.  Lateral rectus spike artifact is identified.  Features of drowsiness include attenuation of the alpha rhythm with rhythmic central theta. Hyperventilation produces rhythmic slowing.  Photic stimulation elicits scant driving.
+HR:  102 BPM.
+	IMPRESSION: EEG within normal limits in wakefulness and drowsiness. 
+CLINICAL CORRELATION: No focal or epileptiform features were seen in this record.   This patient has spiky eye artifact.  If epilepsy is an important consideration, a follow-up study may be valuable. 
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  19 year old female with history of syncopal events who presents with episodes of waking up paralyzed and feeling shaky for seconds to minutes.
+MEDICATIONS:  Topamax.
+REASON FOR STUDY:  Episode of passing out.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with anterior temporal electrodes and EKG electrodes.  Wakefulness, drowsiness, and stage 1 sleep were recorded.  Activating procedures including hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORDING:  The recording opens to a well-formed 9 Hz posterior dominant rhythm which is reactive to eye opening.  There is a normal amount of frontal central beta.  Sleep is characterized by stage I and stage II.  Activating procedure, including photic stimulation and hyperventilation revealed no abnormal discharges.
+TECHNICAL DIFFICULTIES:  None.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  This awake and asleep EEG is normal.  No seizures or epileptiform activity were seen.  Please note that a normal EEG does not exclude the diagnosis of epilepsy.
+
+

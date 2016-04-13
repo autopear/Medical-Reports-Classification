@@ -1,0 +1,18 @@
+	CLINICAL HISTORY: 	43-year-old woman with epilepsy, last seizure more than a year ago, history of VST repair.
+	MEDICATIONS: 	Depakote, Dilantin
+	INTRODUCTION: 	Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.
+This is an awake and drowsy record.
+	DESCRIPTION OF THE RECORD: 	In wakefulness, there is a 9.5 Hz,
+50 mV posterior dominant rhythm and a small amount low-voltage frontocentral beta activity. features of drowsiness include slow rolling eye movements and an increase in CPAP. Hyperventilation does not significantly  activate the record. Post and vertex
+waves are observed in stage 1 sleep. In the transition into and out of sleep, there is a single burst of polyspike and wave activity which is frontally predominant, high amplitude, and symmetric. Although there is only a single burst, the wave associated with this is approximately 5 Hz. Photic stimulation elicits scant driving.
+HR: 60 bpm
+	IMPRESSION: 	This is an abnormal EEG due to:
+1. Definitive
+2. High amplitude
+3. Polyspike
+4. Slow-wave complex.
+	CLINICAL CORRELATION: 	To be abnormal by conventional criteria, typically one must identify 2 epileptiform discharges. The single discharge identified today is high amplitude and clearly generalized, polyspike, and slow-wave complex. Thus, although there is only one discharge, this must be considered
+epileptiform. If there are additional questions, comparison with
+previous EEGs, none of which were available today, may be made.
+
+

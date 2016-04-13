@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 17-year-old male with a skull defect with a gun shot wound to the head, right ear pain, and headaches.  
+MEDICATIONS: Dilantin, others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is primarily an asleep record.
+DESCRIPTION OF THE RECORD: Drowsiness is characterized by slow rolling eye movements with rhythmic background theta.  Vertex waves, K complexes, and spindles are identified in stage II sleep.  On one occasion, there are POSTS identified, which are higher amplitude on the right in comparison to the left.  Brief arousal of the patient produces an alerting with an increase in beta, but wakefulness is not sustained.  
+HR:  60 to 116 BPM.
+	IMPRESSION: EEG within normal limits in sleep.  
+CLINICAL CORRELATION: The higher amplitude POSTS on the right compared to the left may be related to the patient’s previous craniotomy and are of unclear clinical significance.  If the child is thought to have any underlying encephalopathy, a repeat tracing capturing wakefulness would be advised. 
+
+

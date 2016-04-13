@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  41 year old left handed male with moderate mental retardation and epilepsy.  No recent seizures.
+MEDICATIONS:  Dilantin, Pravastatin, Singular, Naprosyn, Advair, Albuterol, Atenolol, Fluticasone
+INTRODUCTION:  Digital EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.   Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is reasonably well organized.  There is a 9.5 Hz alpha rhythm.  There is also a small amount of 6 Hz theta and intermittent delta noted in the right posterior quadrant.  Some sections of the record, particularly at relaxed wakefulness, demonstrate a very well organized pattern with just a very subtle amount of slowing noted in the right posterior quadrant in comparison to the left.  This is an intermittent finding. Features of drowsiness include an increase in synchronous state in the background.  Photic stimulation does not activate the record. 
+HR:    78 bpm
+IMPRESSION:  Very mildly abnormal EEG due to:
+Mild excess theta.
+Infrequent slowing in the right posterior quadrant.
+CLINICAL CORRELATION:  These are relatively subtle findings.  No epileptiform features were seen.  These subtle focal features may be correlated with imaging.  There are no previous EEGs available for comparison.
+
+

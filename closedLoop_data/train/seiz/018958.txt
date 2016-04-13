@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 20-year-old woman with right hemiparesis, headache, patient fell and was found to have a left frontal lobe neoplasm five weeks pregnant.
+MEDICATIONS: Decadron, Dilantin, Oxacillin, Mannitol, and morphine. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and has a craniotomy on the right.  
+DESCRIPTION OF THE RECORD: The background EEG is continuos.  There is an intrahemispheric asymmetry and a breach rhythm with higher amplitude delta activity identified from the right frontal region than the left.  The primary frequency in the background is theta, approximately 5 to 6 Hz, again higher amplitude on the right compared to the left.  There is also focal delta identified from the right hemisphere maximum in the frontotemporal regions.  Stimulation of the patient elicits an alerting response with an increase in faster frequency activity ranging from 6 to 9 Hz.  There are rare T6 sharp waves.  
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Superimposed focal slowing from the right frontotemporal region.
+Right posterior temporal sharp waves. 
+CLINICAL CORRELATION: The breach rhythm is an anticipated finding following a craniotomy.  The focal features and the sharp waves are ipsilateral to the metastasis.  The generalized background slowing supports a diffuse disorder of cerebral function, which may be due to a post-operative state, edema, or medications.
+
+

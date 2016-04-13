@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 48-year-old woman status-post PEA code for unknown period of time found down at home by a friend.  Patient was febrile at the time of admission with a temperature of 101.  Patient had seizures in the ER.  
+MEDICATIONS: Dilantin and Vancomycin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as intubated and unresponsive.  
+DESCRIPTION OF THE RECORD: The background EEG is markedly low voltage and suppressed.  There is low frequency of sweat artifact and generous muscle.  There is a suggestion of cerebral activity with occasional theta seen from the central regions and the left temporal region of about 5 to 6 Hz.  This is seen in only some portions of the record.  Stimulation of the patient may have produced some theta.  
+HR:  108 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Replacement of normal background with a very low voltage, suppressed pattern. 
+CLINICAL CORRELATION: Because of the severity of suppression, consideration for a repeat tracing with a neuromuscular blocker might be appropriate.  
+
+

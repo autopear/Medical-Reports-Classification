@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 64-year-old, right-handed male with a subdural hematoma and acute seizures.  Complicated past medical history includes CHF, epilepsy, alcohol abuse, gout, renal insufficiency, prostate disease, rectal carcinoma, gun shot wound, and acute left frontotemporal subdural. 
+MEDICATIONS: Hydralazine, Serax, and Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake record. 
+DESCRIPTION OF THE RECORD: The background EEG is remarkable for a generous amount of background beta and a small amount of background theta.  There is a 10 Hz, symmetric and reactive alpha rhythm.  There is a fair amount of movement artifact.  
+HR:  84 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+Excess beta.
+Mild excess theta.
+CLINICAL CORRELATION: Given the history described above, this EEG is remarkable for the absence of focal or epileptiform activity. If additional information is needed, a repeat tracing when the patient is more cooperative may be useful.  Previous EEGs were not available for comparison. 
+
+

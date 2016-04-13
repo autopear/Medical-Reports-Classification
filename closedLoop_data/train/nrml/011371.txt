@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 79 year old woman with acute stroke on the 16th followed by right sided twitching later on that day at 3:00 p.m. 
+MEDICATIONS: Dilantin, Simvastatin, Hydralazine, Folic Acid, ASA, Isosorbide, Carvedilol 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is poorly responsive. 
+DESCRIPTION OF THE RECORD: This bedside emergency room record for this intubated patient demonstrates a slow background with primarily theta frequency activity. There is intermittent, generalized attenuation with some lower voltage arrhythmic delta activity. Occasional sharp waves are identified in the left hemisphere including T2, T1 or T1, F3. Stimulation of the patient is associated with a bit more faster 
+frequency activity at a little less in the way of the attenuation. 
+HR: 84 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Bilateral generalized background slowing. 
+2. Intermittent, bilateral attenuation. 
+3. Occasional sharp waves in the left hemisphere, frontal or frontal temporal. 
+CLINICAL CORRELATION: The generalized background slowing suggest a bihemispheric process involving gray and white matter. The sharp waves are ipsilateral to the acute stroke. 
+
+

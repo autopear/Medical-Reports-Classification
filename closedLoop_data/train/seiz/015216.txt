@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 71-year-old male found down with right facial twitching and questionable alcohol abuse.  
+MEDICATIONS: Aspirin, Ativan, IV Heparin, and Dilantin. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is obtunded.  There is no documentation noted on the EEG that the patient experienced facial twitching.  
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal and intermittently discontinuous.  The right hemisphere is low voltage and severely suppressed.  The left hemisphere has amplitude spike and wave activity, which is seen more in the left frontal and anteriotemporal regions.  Overall amplitude on the left is higher than the right.  The patient is reactive when stimulated.    
+HR:  114 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Marked asymmetry between the hemispheres. 
+	Left frontotemporal spikes are seen with suppression of the background on the right side. 
+	Higher amplitude activity on the left compared to the right. 
+CLINICAL CORRELATION: The features seen in this EEG support a localization-related mechanism for epilepsy from the left frontotemporal region.  
+
+

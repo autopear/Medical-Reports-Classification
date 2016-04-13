@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 67-year-old male with a brain tumor and persistent obtundation, staring, hand trembling, and fever following right temporal lobectomy.
+MEDICATIONS: Antibiotics, Ativan, Depakote, and Clonidine. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is coughing and responsive to external stimuli. 
+DESCRIPTION OF THE RECORD: The background EEG is low voltage, featureless, with low voltage delta and smaller amounts of theta activity.  There is attenuation of the activity from the right anterior temporal region.  There is spontaneous eye movement.  Coughing and other forms of stimuli do not produce a very small amount of background theta.  There is a small amount of variability with rare, frontally predominant 8 Hz activity seen on rare occasions in this record. 
+HR:  119 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Severe background slowing.
+Superimposed attenuation from the right temporal region. 
+CLINICAL CORRELATION: This tracing supports a severe disorder of cerebral function effecting both gray and white matter.  There was no epileptiform activity and no seizures were recorded.  Consideration for a bihemispheric process as well as underlying encephalopathy is appropriate. 
+
+

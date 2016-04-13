@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  28 year old left handed woman with involuntary movements since age 6 with dizziness and headaches.
+MEDICATIONS:  None.
+REASON FOR STUDY:  Dizziness and involuntary movements.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and stage I sleep.  Activating procedures, including hyperventilation and photic stimulation, were performed.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm at 9 Hz, which is reactive to eye opening.  There is normal frontal central beta.  The patient goes into stage I sleep.  Activating procedures produce no abnormal discharges. 
+ABNORMAL DISCHARGES:  Focal slow waves seen intermittently at F7/T3 and at F8/T4 independently, at times sharply contoured, but not clearly epileptic.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+independent bilateral anterior temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals focal cerebral dysfunction in the bilateral anterior temporal regions, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

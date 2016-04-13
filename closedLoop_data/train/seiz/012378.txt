@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  49-year-old male with stroke 20 years ago with uncontrolled epilepsy, generalized tonic-clonic seizures with loss of consciousness.
+MEDICATIONS:  Keppra, Dilantin, phenobarbital, lisinopril, Catapres, Zantac and others.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not possible.  The technical quality was acceptable as impedance is under 5 kilo-ohms.  Electrode placement was acceptable.
+DESCRIPTION OF THE RECORD:  In wakefulness, the overall EEG is low voltage, but with a symmetric reactive 10 Hz alpha rhythm and a small amount of low-voltage, frontocentral beta.  The patient transitions in and out of stage 1 sleep with vertex waves.  Stage 2 sleep include vertex waves, K-complexes, spindles and posts. 
+Heart rate:  60 to 80 bpm.
+IMPRESSION:  Normal EEG in wakefulness to sleep.
+CLINICAL CORRELATION:  In this individual with a history of stroke and refractory epilepsy, this is a normal EEG.  There are no focal or epileptiform features.
+RECOMMENDATIONS:  A normal EEG does not exclude a diagnosis of epilepsy.  Correlation with imaging may be of value.  If this individual continues to have frequent spells, a followup study may be of value.
+
+

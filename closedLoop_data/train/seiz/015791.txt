@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 19-year-old male with new onset seizure disorder, which was described as generalized tonic-clonic seizure activity.  Prior use of cocaine.
+MEDICATIONS: Dilantin and Penicillin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and briefly drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the alpha rhythm is 9.5 Hz, 25 V amplitude, symmetric and reactive. There is a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by an increase in background theta with a single asynchronous burst.  Hyperventilation produces an increase in background theta.  Photic stimulation elicits driving at intermediate and faster flash frequencies.  Photoelectric artifact was noted. 
+HR:  66 BPM.
+	IMPRESSION: EEG within normal limits in wakefulness and drowsiness.  
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy. If seizures are an important consideration, a repeat EEG may be of use. 
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  40 year old left handed woman with epilepsy, last seizure was one week ago, tonic clonic seizures, hyperlipidemia.  History of epilepsy as a teenager which recurred in 2006.  The patient may be startled, drops things, and then have tonic clonic activity with loss of consciousness.  Previously treated with Dilantin and phenobarbital.
+MEDICATIONS:  Keppra, Lamictal.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8 Hz posterior dominant rhythm.  There is generous beta and a small amount of theta.  Head rocking artifact is noted a bit more so on the right compared to the left. Photic stimulation elicits bilateral driving.
+IMPRESSION:  Abnormal EEG due to:
+Excess theta. 
+Excess beta.
+A question of some posterior slowing, but unfortunately also some head rocking artifact.
+CLINICAL CORRELATION:  These findings were identified on previous EEGs.  This is the patient's fourth EEG.  None of them have identified epileptiform activity, but posteriorly predominant features have been a consistent pattern for this individual.   
+
+

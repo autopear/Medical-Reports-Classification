@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  76 year old man found to have intracerebral hemorrhage on the right hemisphere.  The patient remains agitated and stuporous.
+MEDICATIONS:  Clonidine, Metoprolol, Keppra.
+REASON FOR STUDY:  Agitation.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with anterior temporal leads and EKG.  Stages seen were during wakefulness only.  Activating procedures were not done.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  Background rhythm is around 3 Hz with 20-70 mV.  It is asymmetric and slightly depressed on the right.  There is no normal frontal central beta noted.  There was no sleep stages noted.  
+ABNORMAL DISCHARGES:  Generalized slowing with attenuation of the right hemisphere, shifting frontal delta.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slowing with attenuation of the right hemisphere.
+FIRDA
+CLINICAL CORRELATION:  Features of shifting frontal delta activities may be seen in diffuse cerebral dysfunction, or frontal lobe dysfunction, or toxic metabolic encephalopathy, or increased intracranial pressure.  Clinical correlation recommended.
+
+

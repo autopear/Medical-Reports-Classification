@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is an 73-year-old gentleman who fell resulting in an occipital intracranial hemorrhage on the right. He resides in a nursing home.  
+MEDICATIONS: Dilantin and others.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed due to the patient’s medical condition. The patient is intubated and unresponsive.
+DESCRIPTION OF THE RECORD: No definitive cerebral activity was identified.  Stimulation of the patient did not evoke definitive cerebral activity reaction.
+HR:  96 BPM.
+IMPRESSION: Abnormal EEG due to:
+	1.	No definitive cerebral activity.
+CLINICAL CORRELATION: No definitive cerebral activity is detected by EEG. In the absence of a servere medical condition such as toxic or metabolic encephalopathy (i.e., drug overdose, hypothermia, sedative overdose) the EEG supports severe brain injury. If clinically indicated, a cerebral electrical silence study should be performed on this patient.
+
+

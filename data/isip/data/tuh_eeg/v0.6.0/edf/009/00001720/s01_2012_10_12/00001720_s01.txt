@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  73 year old male with acute right posterior MCA infarct with hemorrhagia conversion.
+MEDICATIONS:  Keppra
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is somnolent.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow and low voltage.  It is somewhat lower voltage and slower on the right in comparison to the left.  There is a bit of head rocking artifact, but also some slower delta picked up in the right occipital and posterotemporal region.  Stimulation of the patient produces an alpha rhythm briefly which is not sustained.  The patient transitions into stage 2 sleep with scant, low voltage spindle.  An abnormal EKG with significant EKG artifact throughout the EEG. 
+HR:    90 bpm and irregular
+IMPRESSION:  Markedly abnormal EEG due to:
+Significant background slowing. 
+An asymmetry with a lower voltage pattern on the right in comparison to the left.  In addition, although there is more EKG artifact on the right, there is a bit of more slowing in the right posterior quadrant.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function affecting gray and white matter.  No seizures were recorded and there 
+were no epileptiform features. 
+
+

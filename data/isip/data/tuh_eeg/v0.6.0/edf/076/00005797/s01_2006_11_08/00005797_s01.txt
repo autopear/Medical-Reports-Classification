@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 91-day-old male born at 36-weeks gestation (39 weeks estimated gestational age) with seizures and grade I intracerebral hemorrhage.  The infant is now experiencing desaturations.  Evaluate for current seizures.  
+MEDICATIONS: Caffeine, Reglan, Phenobarbital on hold.
+INTRODUCTION: Digital video EEG is performed in the nursery using standard 10-20 system of electrode placement with one channel of EKG. The appropriate neonatal montage was employed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an initially continuous pattern, but there is intermittent discontinuity identified in the record.  The discontinuity can be seen when the child is motorically active.  There are also a handful of sharp waves identified in the left central and right temporal regions.  Vertex sharp waves are identified in what does not appear to be sleep.  There is some rhythmic theta frequency activity picked up in the central regions on occasion.  Occasional triangular-shaped bifrontal sharp waves are identified.  There are a handful of morphologies when the child seems to be drifting off to sleep, which are characteristic of more typical sleep states. The overall voltage is reduced compared to what would be expected for gestational age.  There is also concern about the quality of the T4-O2 lead rather than true suppression.  
+HR:  150 BPM.
+	IMPRESSION: Abnormal EEG for an infant of this age due to:
+	Excessive discontinuity for age. 
+	Excessive sharp waves including left central, right temporal, and vertex sharp waves. 
+CLINICAL CORRELATION: No seizures were recorded.  This EEG supports an irritative process in the brain.  Intraventricular hemorrhage has been associated with vertex positive sharps. 
+
+

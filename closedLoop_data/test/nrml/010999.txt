@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 55-year-old male admitted 10/09/06 with status epilepticus.  This is a follow-up EEG.  This is a boarding home resident with a history of alcohol abuse.  
+MEDICATIONS: Dilantin, Tylenol, Seroquel.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates an awake pattern from the left with a 10 Hz posterior dominant rhythm and intermittent bursts of somewhat irregular theta and delta.  In contrast, the right hemisphere demonstrates marked disruption of faster frequency activity.  An alpha rhythm is identified on rare occasions.  In drowsiness, the intrahemispheric asymmetry is accentuated.  In addition, there are occasional right temporal sharp waves.  The overall background from the right is relatively low voltage.  Hyperventilation increases the amplitude of the background and accentuates the intrahemispheric asymmetry.  Following hyperventilation, as the patient becomes drowsy, there is an increase in background beta and occasional vertex waves.  The patient is awakened at the end of the record for photic stimulation, and a unilateral driving response is noted.  In addition, in the waking background, occasional FIRDA is noted. 
+HR:  100 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Marked intrahemispheric asymmetry with disruption of faster frequency activity and excess delta. 
+	Rare right temporal sharp waves. 
+	Occasional bursts of slowing from the left hemisphere.
+	FIRDA.
+CLINICAL CORRELATION: This EEG supports a structural or functional abnormality on the right affecting both gray and white matter.  The sharp waves are in this region.  FIRDA is a non-specific finding supportive of a diffuse disturbance of cerebral function.  Previous EEGs were not available for comparison. 
+
+

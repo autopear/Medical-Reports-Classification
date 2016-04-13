@@ -1,0 +1,13 @@
+CLINICAL HISTORY:   17-year-old,  right-handed high school student, who fell off his bicycle, had a skull fracture, and an episode of loss of consciousness. MRI demonstrates hemorrhagic contusions and skull fracture.
+. .. .MEDICATIONS:   Dilantin, Tetnus, Cefazolin, Famotidine
+. .
+. .
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 system of electrode placement  with one channel of EKG.  The recording is 48 hours after closed head injury.
+DESCRIPTION OF THE RECORD:  The patient is drowsy throughout  much of the record.  Very brief wakefulness.  A 9.5  Hz posterior dominant rhythm is observed, but then the patient drifts off to sleep.  In drowsiness there is a subtle intrahemispheric asymmetry with a decrease in amplitude on the right compared to the left.  Stage II sleep, however, is symmetric  with vertex waves and spindles.  In the transition to stage II sleep there are a handful of small sharp spikes in the right or left temporal region.
+	HR: 	72  bpm, increasing to 120 bpm with stimulation.
+IMPR  ESSION:
+Abnormal EEG for a teenage of this age due to:
+1. Intermittent  attenuation of amplitudes from the right seen primarily in drowsiness, not wakefulness  nor stage II sleep.
+CLINICAL CORRELATION: There are some benign-appearing small sharp spikes. These have the morphology of a benign variant, but in the context of a significant head injury, additional followup  is necessary including a repeat study in two weeks.
+
+

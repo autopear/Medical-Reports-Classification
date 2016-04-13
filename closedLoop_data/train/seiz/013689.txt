@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  32 year old right-handed woman with epilepsy, seizures in January 2009 and February 2009, all with loss of consciousness.  Multiple previous EEGs, 3 of which were normal. Recurrent seizures during pregnancy.
+MEDICATIONS:  Dilantin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In  wakefulness, there is a well-defined, 10.5 hertz
+50 microvolt posterior dominant rhythm with a small amount of low voltage, frontal central beta.  Drowsiness is characterized by slow rolling eye movements with attenuation of the alpha, increasing theta and POSTS.  Hyperventilation does not activate the record.  Photic stimulation elicits brief bilateral driving.
+	HR: 	72 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This is the fourth normal EEG for this adult.  If epilepsy is an important consideration, additional testing may be appropriate.
+
+

@@ -1,0 +1,10 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  A 23-year-old female with history of childhood seizures, last one in April 2011, describes tonic-clonic activity in her sleep with incontinence, has a history of agenesis of the corpus callosum with right hemiparesis and congenital head deformity.  Most recent seizure was October 15, 2012, multiple seizures in 1 day.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  The record is mainly in sleep, however, during limited wakefulness, a posterior dominant rhythm that reaches 9 Hz which is seen over both the right and left hemisphere is slightly higher on the right.  There is also frontocentral beta slightly less prominent over the left hemisphere compared to the right.  The patient is recorded in wakefulness, stage 1 and stage 2 sleep.  Please note that stage 1 vertex waves were noted to be asymmetrical and at times seen more prominently over the left than the right.  However, this only occurs in sleep which suggested these are vertex waves rather than epileptiform discharges.
+ABNORMAL DISCHARGES:  Paucity of faster frequencies over the left hemisphere compared to the right and some slowing in the left frontal region.
+IMPRESSION:  Abnormal EEG due to left frontal F3 slowing as well as paucity of faster frequencies.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left frontal region, which may have a correlation with a lesion in that region.  No seizures or epileptiform discharges were clearly seen.
+
+

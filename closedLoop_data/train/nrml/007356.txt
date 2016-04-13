@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  60 year old right handed man with new onset seizures.
+MEDICATIONS:  Heparin, levetiracetam.
+REASON FOR EEG:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures including hyperventilation and photic stimulation were.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm at 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta seen.  Sleep stage 1 and stage 2 were captured.  Activating procedures did not reveal any abnormal discharges. 
+ABNORMAL DISCHARGES:  Focal slow waves seen at F7/T3 intermittently at 2-4 Hz with an amplitude of 20-60 mV. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left anterior temporal slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of left anterior temporal dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

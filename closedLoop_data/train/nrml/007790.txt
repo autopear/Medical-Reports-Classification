@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  62 year old male, status post cardiac arrest, now with myoclonus.
+MEDICATIONS:  Ativan, Fentanyl, Valproate Acid, Vecuronium.
+REASON FOR STUDY:  Status post cardiac arrest, now with myoclonus.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during unresponsiveness and comatose.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  Some artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely attenuated, or almost completely suppressed background, with no normal posterior dominant rhythm or frontal central beta.  There is no normal sleep architecture.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:
+During the recording there is intermittent bursts of anterior predominant spike and wave, as well as polyspike and wave appearing at 5 Hz in bursts that may last up to 20-30 seconds.  They appear to be mainly symmetric, but with some frontal predominance at times.  During these bursts the patient is seen on video to be having regular diffuse marked jerking of the truncal muscles associated with each one of these bursts.  This is most consistent with myoclonus.
+Generalized attenuation of background. 
+SEIZURES:  See myoclonus described above.
+IMPRESSION:  Abnormal EEG due to: 
+myoclonus and diffuse suppression of the EEG.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cortical dysfunction and irritability, which is consistent with the known hypoxic injury.  However, it is possible that the intermixed diffuse attenuation may be at least in part due to medication effect.  Lastly, the myoclonus seen after a hypoxic injury suggests a poor prognosis for significant neurological recovery.
+
+

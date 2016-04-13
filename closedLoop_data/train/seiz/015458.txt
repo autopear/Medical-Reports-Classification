@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 49-year-old, right-handed male with epilepsy since childhood described with an aura of numbness in the hands, followed by generalized shaking lasting two to five minutes.  
+MEDICATIONS: Depakote, Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 Hz, 30 uV posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements with vertex waves, K complexes, and spindles noted in stage II sleep.  There are one or two asynchronous bursts in the transition to sleep.  Hyperventilation is performed with fair effort and does not activate the tracing.  Photic stimulation elicits a bilateral driving response.
+HR:  90 BPM.
+	IMPRESSION: EEG within normal limits in wakefulness through stage II sleep.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  No previous EEGs were available for comparison.
+
+

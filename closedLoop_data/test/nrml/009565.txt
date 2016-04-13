@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  52 year old gentleman with 30-year history of post traumatic epilepsy, seizures 0.5 to 2 per month, with eyes becoming glazed, loss of consciousness, falling, and bilateral motor activity.
+MEDICATION:   Dilantin, Motrin, Tylenol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  The overall EEG is relatively low voltage. Hyperventilation is performed early on in the record producing an increase in amplitude of the background. Features of drowsiness include an increase in theta.   Photic stimulation does not activate the record.   
+HR:    90 bpm
+IMPRESSION:  Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If further information is needed regarding this patient's epilepsy, a follow up study capturing sleep is advised.
+
+

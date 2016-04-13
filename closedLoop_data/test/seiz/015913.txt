@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 60-year-old woman transferred from St. Joseph’s Hospital with right basal ganglia hemorrhage and status epilepticus. 
+MEDICATIONS: Dilantin, Ativan, Versed, Fentanyl. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and poorly responsive, but responsive to tactile stimuli. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal.  The background includes low voltage fast activity and delta activity.  There is also a great deal of EKG artifact noted throughout.  Portions of the record demonstrate occasional irregular bursts of delta from the right.  In addition, on several occasions, there is a build-up of sharply contoured delta from the right hemisphere, at times almost with a right occipital sharp wave noted in the background.  These bursts are seen on three occasions without clinical change in the patient.  Tactile stimulation produces an increase in delta on the right.   
+HR:  60 to 100 BPM.
+	IMPRESSION: Markedly abnormal EEG due to:
+	Markedly abnormal background with a mixture of delta and beta. 
+	Intermittent bursts of rhythmic delta from the right hemisphere, which on one occasion includes a parietooccipital periodic sharp wave.
+	Intermittently discontinuous pattern. 
+CLINICAL CORRELATION: This EEG supports a severe underlying encephalopathy.  Medications may play a role in the burst suppression pattern seen above.  The paroxysmal delta is of unclear clinical significance.  It was not associated with clinical changes in the patient’s behavior, but ongoing surveillance is appropriate.  
+
+

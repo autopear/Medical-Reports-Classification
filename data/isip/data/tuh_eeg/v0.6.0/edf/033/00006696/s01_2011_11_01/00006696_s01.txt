@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  58 year old right handed male with hypertension status post AVM rupture in 2005, hospitalized for 30 days.  Subsequent right-sided weakness and trembling.  Gamma knife improvement.  Evaluate for seizures.  Auras of a circular feeling in the left eye and feet.
+MEDICATIONS:  Keppra, Prednisone
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz 30 microvolt posterior dominant rhythm.  In the transition to drowsiness, focal slowing is noted with some sharply contoured delta in the right centrotemporal region.  Eye blink artifact is also noted in the same region.  Considerably separate from the eye blink artifact are broadly contoured T4 sharp waves noted in relaxed wakefulness.  In addition, as the patient transitioned in and out of drowsiness, as beta frequency becomes more prominent there is a disruption of beta in the right centrotemporal region and some sharply contoured slowing in this same region. Hyperventilation does not significantly activate the record.  Photic stimulation elicits driving at intermediate flash frequencies. 
+HR:   60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Intermittent focal slowing in the right centrotemporal region characterized by the appearance of slowing and/or disruption of faster frequency activity.
+Right centrotemporal sharp waves and/or sharply contoured slowing.
+CLINICAL CORRELATION:  This EEG supports a focal mechanism for seizures.  The focal slowing may be correlated with imaging.  No seizures were recorded, and if additional evaluation is needed an outpatient long-term EEG monitoring study may be considered.
+
+

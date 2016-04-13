@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 64-year-old woman admitted with a subarachnoid hemorrhage due to rupture of a right super sella aneurysm; subsequent diffuse cerebral edema, increased intracranial pressure and brain stem compression requiring a left frontal ventriculostomy.  Pentobarb coma. 
+MEDICATIONS: Dilantin, Dexamethasone, and Phenobarbital. Pentobarb.
+INTRODUCTION: This is a 24-hour video EEG performed at the bedside in the NICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is comatose and intubated.  There is no information regarding the time when the Pentobarb starts.
+DESCRIPTION OF THE RECORD: As the tracing opens, the overall background is markedly suppressed without definite evidence of electrocortical activity.  When the data is reformatted with ECS montage, there are several muscle artifacts seen, but no cerebral activity was recorded. EKG artifacts are seen throughout the record.  The quality of the EEG recording is satisfactory until about 7:00 AM, after which the integrity of the montage is disturbed and the close of the EEG is obscured by artifact due to low impedance.
+HR:  102 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	No definite cerebral activity seen in this record.  
+CLINICAL CORRELATION: In this patient with Phenobarbital/Pentobarb, these medications may also suppress EEG activity though no cerebral activity was seen at the start of the study. cerebral blood flow study was performed to evaluate this issue following this EEG.  
+
+

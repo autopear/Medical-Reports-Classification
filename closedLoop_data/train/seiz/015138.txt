@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 22-year-old male status-post attempted suicide by hanging on 6/13/06, intubated in the field.  CT scan demonstrates global infarcts.  Past substance abuse. 
+MEDICATIONS: Morphine, Midazalam, Propofol, Dilantin, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is shivering throughout the recording.  The patient is evaluated by the neurologist during the EEG in an attempt to assess the impact of the shivering artifact.  The record is recorded at sensitivities of 5 Hz and below, with 70 Hz high frequency filter and 1 Hz slow frequency filter.
+DESCRIPTION OF THE RECORD: Much of this EEG includes shiver artifact, but in the brief portions of the record, when the patient stops shivering, there is underlying low voltage cerebral activity with some low voltage delta and theta.  In terms of assessing reactivity and variability, it is very difficult because of the patient’s movements.  There seems to be a bit more activity in some montages in the right central region.   
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Replacement of normal background with a slow, low voltage pattern.
+CLINICAL CORRELATION: This patient’s hyperthermia and shivering precludes adequate EEG evaluation.  The use of sedative hypnotic medications may contribute to the pattern described above, however, the pattern described is quite suppressed and correlation with imaging, doses of medications at the time of the recording, and the presence of a sepsis are all important.  
+
+

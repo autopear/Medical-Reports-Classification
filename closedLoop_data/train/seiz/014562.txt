@@ -1,0 +1,14 @@
+CLINICAL IDSTORY: This is a  62-year-old  woman with  a history  of seizure  disorder  and strokes  admitted  with  a right occipital  stroke.   Patient developed  subsequent  change  in mental status with hallucinations and worsening mental status.
+MEDICATIONS: Dilantin,  Haldol, Valium, Ativan, and others.
+INTRODUCTION: Digital video EEG is performed  at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is confused.
+DESCR  IPTION
+OF  THE   RECORD:  The   background  EEG  is  disorganized   with
+generalized background slowing, excessive theta and delta activity, as well as superimposed  beta frequency activity.   Generous muscle movement  artifact obscures the observation  of the record. There is some reactivity  in response to voice, which decreases the delta activity.  The amplitude ranges from 50 to 70 uV.   Normal  alpha activity  cannot be identified. No seizure  activity was seen.
+HR: 114BPM.
+IMPRESSION: Abnormal EEG due to:
+1.  Slow and poorly organized background.
+2.   Absent alpha activity
+3.   Reactivity to stimuli
+CLINICAL CORRELATION: No epileptifom1 features were  identified  in this record.    This tracing supports  a diffuse  disturbance  of cerebra l function with involvement  of  both  gray and white matter.   This can be seen in patients  with toxic metabolic disturbances  or medicine effect. If epilepsy is clinical concern a repeat EEG may be helpful.
+
+

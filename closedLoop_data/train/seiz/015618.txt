@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 33-year-old woman with cerebral palsy, mental retardation, and seizures.  Patient found to have a high Dilantin level of 37.1.  CT of head ten weeks ago revealed right frontal hematoma. 
+MEDICATIONS: Phenobarbital and Dilantin. 
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is very sleepy during the recording, but wakes up frequently.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric, continuous, but disorganized with diffusely excessive slow theta and delta activity.  There is a 7.5 Hz, 30 V posterior dominant alpha rhythm, and a small amount of low voltage, frontocentral beta activity.  The patient seems very sleepy during the record even though she frequently wakes up spontaneously. Occasionally, there is suppression of the background without behavioral correlation. 
+HR:  102 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Disorganized background with excessive background slowing.
+	Slow alpha activity. 
+CLINICAL CORRELATION: This tracing is suggestive of a cerebral dysfunction involving both gray and white matter.  It can be seen in patients with encephalopathy secondary to metabolic, infectious, or other etiology.  It can also be seen in patients with dementia or mental retardation.  However, no epileptiform features were identified in this record.  If epilepsy is a clinical concern, a repeat EEG may be helpful.
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 33-year-old male with a history of seizures following a fall two years ago.
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with 10 Hz alpha rhythm. Drowsiness is characterized by slow rolling eye movements. Hyperventilation produces symmetric slowing. Photic stimulation elicits driving at intermediate flash frequencies.  
+HR:  72 BPM.
+	IMPRESSION: Normal EEG in wakefulness and drowsiness.  
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  If further characterization of epilepsy is important, additional testing capturing sleep may be valuable.  
+
+

@@ -1,0 +1,14 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  This is a 20-year-old man with a history of motor vehicle accident in 2010 and seizures, most recently 1 month ago when he ran out of medications.
+TECHNICAL DIFFICULTIES:  None.
+HEART RATE:  54 which at times appears to be changing in frequencies with respirations.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A routine EEG was performed in using standard 10-20 electrode placement system with the addition of anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness.  Activating procedures included hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 8-9 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.  The patient was recorded in wakefulness and drowsiness.
+ABNORMAL DISCHARGES:  Focal slow waves seen intermittently at F7/T3 at a frequency of 2-4 Hz and amplitude of 20-60 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to left anterior temporal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left anterior temporal region, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen. 
+Please note the asymmetric interval in the EKG, which may be due to respiratory related changes.
+
+

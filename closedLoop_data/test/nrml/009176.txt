@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 59-year-old, HIV-positive male who had a seizure at home and a second seizure in the ER with postictal confusion.  
+MEDICATIONS: Dilantin, Ativan, Ceftriaxone, vitamins.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is awake.  The overall pattern is low voltage with an approximately 9 Hz, 25 uV posterior dominant rhythm.   There is a small amount of background theta and there are a handful of subtle, shifting asymmetries from either hemisphere.  Drowsiness is characterized by slow rolling eye movements.   Photic stimulation elicits bilateral driving.
+HR:  110 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+	1.	Mild background slowing with mild excess theta and generous beta. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  Overall, there were rare bursts of shifting slowing, and the major features are the mild background slowing.  This may be seen in a postictal state, CNS HIV infection, or other causes of diffuse disturbances of cerebral function.
+
+

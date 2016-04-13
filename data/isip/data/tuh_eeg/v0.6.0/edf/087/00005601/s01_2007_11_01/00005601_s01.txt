@@ -1,0 +1,12 @@
+CLINICAL HISTORY:   81-year-old woman status post cardiac arrest on October 11, 2007, persistently comatose, with advanced chronic obstructive pulmonary  disease.
+MEDICATIONS: Allegra, Tylenol, Nexium, Cipro., Valproic Acid, Lorazepam, Methylpredinsolone, Ativan, Depakote
+INTRODUCTION: Digital video EEG is performed at bedside using standard  10-20 system of electrode placement with 1  channel of EKG.
+DESCRIPTION OF THE RECORD:  The background  EEG demonstrates a slow pattern.  There is a mixture of frequencies, including theta and delta.  Occasional sharp waves are noted from the left anterior temporal region, maximum  at T1/F7. There is slight discontinuity  to the record. Stimulation of the patient or spontaneous arousals are associated with the patient biting down on the endotracheal tube and muscle artifact. When the patient rests comfortably, the EEG transitions to a slower pattern.  That pattern is more consistently  a delta pattern.  As the recording continues, no additional sharp waves are observed.
+	HR: 	108 bpm
+IMPRESSION: Abnormal EEG due to:
+	1. 	Slow mixed frequency  background with a mixture of theta and delta.
+	2. 	Dynamic pattern, but the pattern when the resting is quietly is slightly discontinuous.
+	3. 	Rare left tempoal sharp waves
+CLINICAL CORRELATION:  This EEG supports a relatively severe disturbance  of cerebral function.  The patient's clinical evaluation,  now 5 days following cardiac arrest, may be more helpful for prognosis than this particular EEG pattern.  The mixed frequency, slow pattern may be seen in many different clinical situations, including anoxic encephalopathy, toxic metabolic encephalopathy, or multifactorial CNS process.   No seizures were recorded.
+
+

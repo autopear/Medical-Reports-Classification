@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 36-year-old female with a history of bipolar disorder and seizures since childhood.  Currently, the patient is three-months pregnant, with increased seizure activity. 
+MEDICATIONS: Dilantin, Depakote, Phenobarbital, and Ativan. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and low voltage. There is a scant 9 Hz posterior dominant rhythm and an excessive amount of increased diffuse beta activity.  Also, mild excessive slow theta activity is superimposed on the background.   Occasional LAMBDA activity was seen in the posterior quadrants. Drowsiness is characterized by a further decrease in the amplitude of the background with slow rolling eye movements. Deeper stages of sleep were not achieved. 
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG in wakefulness and drowsiness due to:
+Background slowing with mild excessive theta activity. 
+Excessive fast beta activity.  
+CLINICAL CORRELATION: The abnormal EEG pattern recorded in this tracing may be due to medication effect such as antiepileptic drugs, Ativan, and Phenobarbital use.  However, no focal or epileptiform features were seen in this record. If clinically indicated, long-term EEG monitoring may be helpful. 
+
+

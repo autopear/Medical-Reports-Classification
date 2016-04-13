@@ -1,0 +1,13 @@
+LENGTH OF THE RECORDING:  22 minutes.
+CLINICAL HISTORY:  The patient is a 54-year-old right-handed man with a history of a stab wound to the left frontal area in 1975 with subsequent seizures.  Seizures are characterized as loss of consciousness with postictal confusion.  Seizures are preceded by an aura of an abnormal sensation in his stomach area.  His last seizure was approximately one week ago.
+MEDICATIONS:  Dilantin and Keppra.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  Hyperventilation was not performed.  Stepped photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of well formed and modulate 9 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  As the recording progresses, the patient becomes drowsy.  During drowsiness, the posterior dominant rhythm attenuates, voltages increase in amplitude, and diffuse theta activity appears.  There is continuous, often sharply contoured, theta and delta activity over the right frontotemporal region.  No clear epileptiform discharges are captured.  Hyperventilation was not performed. Stepped photic stimulation results in occipital driving at multiple flash frequencies over the left hemispheric leads only.
+FINDINGS:  
+Continuous focal moderate right frontotemporal slowing.
+No photic driving over the right hemisphere.
+No stage II sleep.
+No clear epileptiform discharges.
+IMPRESSION:  This is an abnormal awake and drowsy 22-minute EEG due to continuous moderate focal right frontotemporal slowing as well as lack of photic driving over the right hemisphere.  These findings indicate focal cerebral dysfunction, likely structural in etiology, more pronounced over the frontotemporal region.  No clear epileptiform discharges were captured; however, stage II sleep was not recorded.  If clinical indication for seizures persists, a repeat study with stage II sleep may be of benefit.
+
+

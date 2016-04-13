@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 50-year-old woman with end-stage renal disease, shortness of breath, confusion, some subtle cortical hemorrhages, and a possible seizure.
+MEDICATIONS: Norvasc, Metoprolol, Protonix, Dilantin, and Esmolol. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is often asleep, but when awake, she is markedly tremulous.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a dynamic pattern.  In some portions of the record when the patient is clearly awake, there is a 10 Hz posterior dominant rhythm, but other portions demonstrate, even with wakefulness, rhythmic frontal delta and/or excess theta. Features of sleep include vertex waves and spindles.  The sleep pattern is well preserved.   
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Frontally predominant intermittent rhythmic delta. 
+	Excess theta.
+CLINICAL CORRELATION: Despite the history above, this EEG is most compatible with a toxic or metabolic process. No epileptiform features and no significant focal features were identified.
+
+

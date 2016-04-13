@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  65 year old man found to have a seizure in the setting of high blood pressure, with a history of dementia, bipolar, schizophrenia.
+MEDICATIONS:  Valproic Acid, Coreg, Hydrochlorothiazide, Haldol, Risperdal, Pantoprazole, Zofran, Pravastatin. Pravastatin
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded while obtunded.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 6 Hz.  There is no normal sleep architecture seen.  No activating procedures.  However, during the EEG the patient is stimulated and there appears to be a response and reactivity to the EEG with increased muscle artifact and some slight increase in the frequencies.  No normal frontocentral beta is seen.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen at C4/F4 frequently throughout the recording.
+Focal slow wave seen at F4/C4 throughout the recording.  Please note that at times the sharp waves and slowing becomes slightly more monomorphic and rhythmic, however, it does not appear to evolve clearly in pattern, therefore not consistent with a clear electrographic seizure.
+Generalized slow waves.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due: 
+Focal sharp and slow waves arising from the right frontocentral region. 
+Generalized slow waves.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of localization related epilepsy with seizures arising rightly from the right frontocentral region.  In addition, there is evidence of focal structural cerebral dysfunction in this region which has a direct correlation with a lesion in that region.  Lastly, there is evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology, but may be due at least in part to medication effect.  No seizures were clearly seen.
+
+

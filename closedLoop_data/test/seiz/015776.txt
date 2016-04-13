@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 52-year-old male with a history of alcohol abuse, left occipital subarachnoid hemorrhage, and subdural hematoma with evacuation in 2005.  Patient found unresponsive with a seizure in the ER, treated with Ativan and Dilantin.  CAT scan showed left frontal encephalomalacia and left temporal craniotomy.
+MEDICATIONS: Dilantin, Oxycodone, and Keppra
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz, 30 uV posterior dominant rhythm.  There is some double phase reversing artifacts picked up in the left mid-to-anterior temporal regions in the area of the patient’s previous skull defect.  There is also some arrhythmic delta activity identified in the frontal regions intermittently, left more than right.  Hyperventilation is performed with good effort and as hyperventilation continues, there is intermittent accentuation of focal slowing with a mixture of rhythmic and arrhythmic mixed theta and delta.  Features of drowsiness include an increase in beta.  Photic stimulation elicits brief bilateral driving.  
+HR:  108 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Intermittent focal slowing from the left frontal region.
+CLINICAL CORRELATION: The features described above are in the region of this patient’s previous head trauma. No epileptiform features were seen. 
+
+

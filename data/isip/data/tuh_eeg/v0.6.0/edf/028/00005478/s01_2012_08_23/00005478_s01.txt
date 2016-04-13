@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  74 year old right handed woman with acute change in mental status and language disorder, found to have acute MCA infarct.
+MEDICATIONS:  Atorvastatin, Protonix, Norvasc.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.  The patient was observed to clench her jaw.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an asymmetry noted.  Although the activity from the right is somewhat disorganized, there is a 9.5 Hz alpha rhythm on the right.  This is significantly disrupted on the left.  In maximal wakefulness, there tends to be a great deal of muscle artifact which obscures asymmetry, but asymmetries between the 2 hemispheres are most prominent in wakefulness and are primarily characterized by disruption of faster frequency activity.  Shifting slowing is noted.  The sleep record is relatively symmetric, and in the transition to sleep, shifting slowing was identified. Photic stimulation does not clearly activate the record.   
+HR:    72 to 104 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Disorganization and shifting slowing.
+Disruption of the alpha rhythm on the left.
+CLINICAL CORRELATION:  This EEG supports a structural or functional process on the left involving gray matter.  No seizures were recorded.  These findings may be correlated with imaging.
+
+

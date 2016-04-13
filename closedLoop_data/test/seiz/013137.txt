@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  26 year old male found unresponsive. Patient has history of drug use.
+MEDICATIONS:  Dilantin, Ativan, Pepcid, Phenytoin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are completed.  The patient is in a hard collar, intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly low voltage, slow and relatively featureless.  There is low voltage beta.  Stimulation of the patient produces artifact.  Slow, sweat artifact is noted.   
+HR:    114 bpm
+IMPRESSION:  Markedly abnormal EEG due to: 
+Low voltage, slow pattern with beta. 
+CLINICAL CORRELATION:  This EEG supports a significant, severe disturbance of cerebral function.  This patient's medications may play a roll in the pattern described above.  Because of the poor reactivity and variability, if the doses of medications would not be expected this degree of coma, a significant disturbance of cerebral function should be considered.
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 72-year-old male with metastatic lung cancer with metastasis right parietal/left temporal with a seizure yesterday and persistent obtundation following Ativan. 
+MEDICATIONS: Morphine, Dilantin, and Labetalol. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is a drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is low voltage.  In wakefulness, there is a 7 Hz posterior dominant rhythm, but much of the record includes stage I or stage II sleep with generous beta and beta spindles.  There is some arrhythmic delta activity picked up occasionally from the right occipitotemporal region and there are rare right centrotemporal sharp waves identified.  There is rare arrhythmic delta activity from the left anterior temporal region.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Excess beta.
+Rare sharp waves from the right hemisphere including centrotemporal and anterior temporal regions. 
+Rare, left anterior temporal delta. 
+CLINICAL CORRELATION: The sharp waves correlate with the cortical lesion on the right.  The rare delta on the left is in the same region as the patient’s second metastasis.  The background slowing supports a diffuse disturbance of cerebral function as may be anticipated following use of benzodiazepines.  No subclinical seizures were seen.  
+
+

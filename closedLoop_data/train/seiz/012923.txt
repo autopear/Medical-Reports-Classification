@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 57 year old male with epilepsy, past history of head and neck cancer, throat and childhood head injury. 
+MEDICATIONS: Dilantin, Phenobarbital. 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Patient is responsive. He is status epilepticus. This occurred on the 10th. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a low voltage pattern with diffuse beta. There is some variability and underneath the beta is more of a pattern of rhythmic theta. The technologist notes previous bilateral craniotomies and breach rhythm is noted, particularly in the right central temporal region. Spontaneous arousals are associated with eye movement. As the recording continues, the arousals are associated with faster theta frequency activity as well. 
+IMPRESSION: Abnormal EEG due to: 
+1. Replacement of normal background with a pattern rich in beta and theta. 
+2. Superimposed focal slowing in the right central temporal region. 
+CLINICAL CORRELATION: In this individual with recent status epilepticus, no epileptiform features were seen. The features described above with excess beta and theta may be related to medications and post ictal slate. Additional recording is advised. 
+
+

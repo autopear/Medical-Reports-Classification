@@ -1,0 +1,18 @@
+CLINICAL HISTORY: 59 year old female with epilepsy. Recent status epilepticus. 
+
+MEDICATIONS: Dilantin, Ativan, Pantoprazole, Trileptal 
+
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic simulation are both attempted. 
+
+DESCRIPTION OF THE RECORD: In wakefulness the background EEG is disorganized. There is a 10.5 Hz alpha rhythm but there is variability in the alpha rhythm and excess theta. Hyperventilation is performed early on in the record producing an increase in rhythmicity. In addition, in hyperventilation there is some focal slowing identified in the right frontotemporal region with rare sharp waves. Photic stimulation elicits a driving response which is relatively symmetric but may be a bit more vigorous on the left. This is followed by some drowsiness. 
+
+HR: 96 bpm 
+
+IMPRESSION: Abnormal EEG due to: 
+1. Background slowing and disorganization. 
+2. Focal slowing in the right frontotemporal region. 
+3. Rare right frontotemporal sharp waves. 
+
+CLINICAL CORRELATION: This EEG supports both a diffuse disturbance of cerebral function as well as a structural process in the right frontotemporal or frontocentral region. Correlation with imaging is suggested. If this patient is thought to be postictal, a follow-up study may be considered. 
+
+

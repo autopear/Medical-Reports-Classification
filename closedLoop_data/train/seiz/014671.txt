@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 21-year-old woman with a gunshot wound to the head on presentation.  The patient was shot in the back of the head and the bullet exited through the left eye. 
+MEDICATIONS: Pentobarb 600 mg/hr, Dilantin, and Propofol. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: This EEG demonstrates a continuous low voltage, but dynamic pattern. There are intermittent asymmetries seen in this very low voltage pattern, with occasional sharply contoured delta identified.  As the recording continues, there is EKG artifact.  Some portions of the record are slower and more low voltage than others. This pattern of declining cerebral activity is seen by 18:48 and is a consistent pattern following after 19:25. There is no note on this EEG as to whether or not medications are changed, but as the recording continues, particularly by 2300 hours, there is a marked paucity of cerebral activity.
+HR:  __ BPM.
+Long-Term EEG Monitoring – May 9, 2006 to May 10, 2006
+	DESCRIPTION OF THE RECORD: The background EEG demonstrates a low voltage, markedly suppressed pattern.  There are other portions of the record where there is a low voltage pattern.  The EEG demonstrates a loss of the T3 electrode in portions of the record.  The patient is examined, and examination of the patient does not seem to produce a change in the EEG.  
+	
+	COMMENT:  This patient has more days to read, but this section of this long-term video EEG monitoring is not acceptable.  There is no interval history and no medications available.  
+
+

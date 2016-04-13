@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 43-year-old male with end-stage HIV, history of head trauma 5/21/03, recurrent seizures in the emergency room with a Glascow coma score of 4, hypothermia, hypoglycemia, and cocaine intoxication with multiple cerebral lesions.
+MEDICATIONS: Ativan, Vecuronium, Thiopental (received last night in the ER), and Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as unresponsive, intubated with a hard collar and a temp of 101.2.
+DESCRIPTION OF THE RECORD: The background EEG is extremely low voltage but continuous.  There is very low voltage mix with 3 to 5 Hz activity, as well as .5 to 2 Hz delta activity.  There is a small amount of beta frequency activity seen intermittently in the record, sometimes slightly more prominent in the right centrotemporal region.  There is some variability in the record.  While tactile stimulation doesn’t clearly activate the record, auditory stimulation clearly produces an increase in beta frequency activity and after the auditory stimuli, the EEG pattern is sustained for a brief period of time, although clinically there is no change in the patient’s level of awareness.  In later portions of the record, low voltage, vertex waves can be seen with the use of a variable frequency filter.  
+HR:  112 BPM.
+	IMPRESSION: Markedly abnormal EEG due to:
+	1.	Very low voltage, slow pattern. 
+CLINICAL CORRELATION: In this very low voltage record, no definite focal or epileptiform features were seen.  Relatively positive prognostic features include the presence of reactivity to external stimuli, particularly at the close of the record, as well as the appearance of low voltage vertex waves.  Consideration for CNS acting agents, which may be wearing off (toxic or metabolic encephalopathy), may account for this pattern.  No epileptiform features were seen, but given the limitations of this EEG, a follow-up study may be of use as the patient improves clinically. 
+
+

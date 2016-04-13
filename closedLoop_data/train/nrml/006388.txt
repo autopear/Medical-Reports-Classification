@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 56 year old with refractory epilepsy, admitted after a more prolonged tonic-clonic seizure with postictal agitation. 
+MEDICATIONS: Dilantin, Topamax, Vimpat, Zoloft, Metformin,Ttrazodone 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation were performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well-organized with symmetrical reactive 9 Hz posterior dominant rhythm. In wakefulness and hyperventilation, there are brief bursts of frontally predominant 3 Hz to 5 Hz spike and wave activity. Hyperventilation clearly accentuates the generalized spike and wave activity. Some of the activity demonstrates a polyspike component. Photic stimulation elicits brief bilateral driving. It does not appear to accentuate the underlying spike and wave activity as the spike and wave bursts occur when the photic stimulation is turned off rather than turned on. 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. 3-5 Hz frontally predominant spike and wave activity.
+ 
+CLINICAL CORRELATION: This individual is known to have 2 patterns for his epilepsy: A right temporal focal spike as well as generalized spike and wave activity. Careful consideration as to the cause of his recent break through seizures is appropriate as it is typically difficult to identify the generalized spike and wave activity for this individual. 
+
+

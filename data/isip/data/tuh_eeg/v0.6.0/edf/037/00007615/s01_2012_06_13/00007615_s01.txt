@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  25 year old right handed female with episode of shaking, increased heart rate, rapid breathing followed by left arm shaking which progressed to the whole body.  The patient awake and aware of the episode.
+MEDICATIONS:  Keppra.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with anterior temporal single lead EEG electrodes.  The patient was recorded in wakefulness and sleep.  Hyperventilation and photic stimulation were performed.
+ 
+TECHNICAL DIFFICULTY:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures including hyperventilation produced no abnormal discharges, however, see below for photic stimulation.
+ABNORMAL DISCHARGES:  None.
+EVENTS:  During photic stimulation, the patient started having slow movements of her head side to side then started twitching her upper extremities and moving her body towards the right side and appeared to be unresponsive to commands.  This episode lasted for a period of about 40 seconds and then she remained with her eyes closed and appeared to be slightly more responsive.  Minutes later, photic stimulation was performed again after she had opened her eyes and appeared to have followed commands.  At that point she started jerking her left shoulder slowly, then trembling her upper extremities and again falling towards the right side of the seat.  This second episode lasted for about approximately a minute and 20 seconds.  During both episodes, the EEG revealed a normal awake background with no epileptiform abnormalities and no EEG correlate to this behavior described above.
+IMPRESSION:  Normal EEG with two episodes of shaking during photic stimulation with no EEG correlate.
+CLINICAL CORRELATION:  This is a normal awake and asleep EEG with no seizures or epileptiform discharges.  The episodes captured above had no EEG correlate and are consistent with nonepileptic events.  No seizure.
+
+

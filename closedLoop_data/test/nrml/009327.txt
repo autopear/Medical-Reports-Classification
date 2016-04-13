@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Classification on differential seizures.
+CLINICAL HISTORY:  This is a 24-year-old woman with episodes of loss of consciousness since age 12, worsening at age 16, now with recurrent seizures after starting Depakote recurring about once a month despite Dilantin and Depakote.  Here for differential classification.  Has a past medical history of bipolar disease.
+MEDICATIONS:  Depakote was stopped 2 days before admission.
+INTRODUCTION:  A long term EEG was performed using a standard 10-20 electrode placement with anterior temporal and single lead EKG electrode. The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  The patient had a disconnection of her EEG from 9 p.m. to 10 p.m. for unclear reasons, on day one. Also intermittent electrode effect were seen. 
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9 Hz, which is reactive to eye opening.  There is no more frontocentral beta.  The patient is regarded in wakefulness, stage I, stage II and deeper stages of sleep.  Activating procedures were not performed.
+ABNORMAL DISCHARGES:  None.
+PUSH BUTTONS OR SEIZURES:  None.
+HEART RATE:  90.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  This is a normal awake and sleep long term EEG.  No seizures or epileptiform discharges were seen.  This is days 1-4.  No evidence noted.
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  51 year old right handed man with a history of seizures in 2005 after a car accident and hyperlipidemia, now with recurrent seizures.
+MEDICATIONS:  Carbamazepine, Zonisamide, Dilantin.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep, stage I and stage II.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None apparent.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 to 10 Hz which is reactive to eye opening.  There is a normal amount of frontal central beta.  Activating procedures produce no abnormal discharges.  The patient is recorded during wakefulness and stage I and stage II sleep. 
+ABNORMAL DISCHARGES:  Focal sharp waves seen at F7/T1 occasionally with a small amplitude, at times a field that appears to spread lightly to F3.  There is a single F8/T4 sharp wave seen throughout the recording. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+1.  Left anterior temporal sharp waves.
+2.  A single right anterior temporal sharp wave.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization related epilepsy with seizures likely arising from either anterior temporal lobe.  No seizures or epileptiform activity were seen.
+
+

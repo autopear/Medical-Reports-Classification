@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  71 year old right handed man with hypertension, who poor memory and seizures.
+MEDICATIONS:  Amlodipine, Singulair, Simvastatin, Ecotrin, ASA.
+REASON FOR STUDY:  Memory problems and seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record reveals a dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is some normal frontocentral beta.  The patient is recorded in wakefulness and stage 1 sleep.  Photic stimulation produced no abnormal discharges.  Hyperventilation activated focal slowing mentioned below.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen in the left anterior temporal region at F7/T3 at a frequency of 2-4 Hz with an amplitude of 20-60 microvolts. 
+Intermittent right F8/T4 slowing seen at 2-4 Hz at an amplitude of 20-60 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left more than right anterior temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the bilateral anterior temporal regions (left more than right), which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were clearly seen.
+
+

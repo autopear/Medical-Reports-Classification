@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 40 year old right handed man with skull fracture, was admitted on the 25th and had a seizure during the CAT scan.
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode with 1 channel of EKG. Photic stimulation was completed. The patient is awake and able to follow commands. There are impedance issues due to the dried blood on the scalp. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness the background EEG is somewhat slow with a rhythmic theta pattern. There are a handful of shifting asymmetries. There is some artifact at T3. Features of drowsiness include a slowing of the background. Brief vertex waves are noted. Photic stimulation does not activate the record. 
+HR: 90 bpm 
+IMPRESSION: Abnormal EEG due to:
+1. Slow background.
+CLINICAL CORRELATION: If epilepsy is an important consideration, a follow-up study is recommended. In this individual with head trauma, a repeat EEG should be performed following discharge. 
+
+

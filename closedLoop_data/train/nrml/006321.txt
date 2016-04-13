@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  50 year old woman with schizophrenia, referred from an outside hospital for multiple behavioral events; epilepsy, VDRF.
+MEDICATIONS:  Dilantin, Depakote, Keppra, Risperidone
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient had multiple behavioral spells on the 23rd and in the evening of the 23rd.  Continuous seizure and spike detection software was utilized.
+DESCRIPTION OF THE RECORD:  The patient is asleep through much of the EEG with stage II sleep and K-complexes.  In wakefulness, there is a low-voltage pattern with a glimpse of an alpha rhythm. Bitemporal theta was identified. 
+Nonepileptic seizure 12:28 a.m. to 12:20:12:  Patient is somewhat drowsy.  She demonstrates alternate right leg, left arm shaking and then asynchronous shaking.  No postictal spiking was seen.
+Nonepileptic seizure:  12:44:16 a.m. and 12:44:52 a.m.  The patient has characteristic nonepileptic seizure-like behaviors with waxing and waning and undulating movements.  She has purposeful movements during the behavioral event, pushing herself up in the bed.  The behaviors produce artifact but no change in the EEG.   A physician examines the patient. She has voluntary movements and is interactive during the spell.
+HR:    100 bpm
+IMPRESSION:  This EEG monitoring session is remarkable for:
+A relatively low-voltage slow pattern.
+Scant alpha rhythm in this patient with enucleation.
+CLINICAL CORRELATION:  Characteristic behaviors video compatible with nonepileptic seizures.
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is an18-year-old male found in bed foaming at the mouth with right leg twitching for five minutes, postictal confusion, and right-sided headache.  
+MEDICATIONS:   please check tech sheet
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.5 Hz, 30 uV posterior dominant rhythm.  Much of the record includes drowsiness, and in drowsiness there is a clear asymmetry between the two hemispheres with a disruption of faster frequency activity from the right in comparison to the left.  In addition, there are right anterior temporal spike and slow wave complexes, the majority of which are maximum at T2/F8 and have a spread into the centrotemporal region.  They range from small discrete spikes to higher amplitude discharges.  Unfortunately, in terms of the intrahemispheric asymmetry, that asymmetry is less prominent in wakefulness in part due to limited sampling secondary to muscle artifact.  Hyperventilation appears to be accentuate the focal slowing from the right hemisphere.  By the close of the record, the posterior dominant rhythm is more symmetric.  Photic stimulation is performed and elicits brief bilateral driving.  
+HR:  48 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Right temporal/hemispheric focal slowing.
+Right anterior temporal spike and slow wave activity identified in drowsiness and sleep.
+CLINICAL CORRELATION: This tracing supports a partial mechanism for this patient’s seizures.  No seizures were recorded.  Correlation with imaging is suggested. 
+
+

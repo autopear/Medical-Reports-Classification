@@ -1,0 +1,17 @@
+INTRODUCTION: 
+The routine EEG was performed using 10-20 electrode placement system with an EKG electrode. The patient is awake during the record and photic stimulation is performed. 
+MEDICATIONS: 
+Lamictal, Klonopin, and temazepam. 
+TECHNICAL PROBLEM: 
+This is a low voltage record, impedance artifact. 
+HISTORY: 
+This is a 35-year-old male who presents with history of fall down the stairs with loss of consciousness. He has had several episodes of syncope about 3-4 per year since the age of 7. His medical history is significant for bipolar, hepatitis C and hypoglycemia. 
+DESCRIPTION OF THE RECORD: 
+Posterior dominant rhythm is seen at 9-10 Hz and 20 to 30 microvolts, which is symmetric and reactive to eye opening. Beta rhythm is also seen at 15 to 25 Hz and amplitude is less than 10 microvolts in frontocentral region. The patient is awake during the record. Diffusely low amplitude is seen over all electrodes. Photic stimulation is performed, which is 
+normal. No abnormal discharges are seen. 
+IMPRESSION: 
+Normal EEG, awake. 
+CLINICAL CORRELATION: 
+This limited EEG due to diffuse low amplitude recording reveals no abnormalities. No seizures were seen. 
+
+

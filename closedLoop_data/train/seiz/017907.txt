@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 72-year-old woman with hypertension, COPD, left MCA CVA, and expressive aphasia admitted with decreased responsiveness and an episode of lip smacking. 
+MEDICATIONS: Dilantin and many others.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake but confused.  
+DESCRIPTION OF THE RECORD: This is a dynamic record.  The initial portions of the record are slower than at the close of the record.  In the initial portions of the record, the background is overall diffusely slow with a mixture of delta and theta frequency activity and a more subtle intrahemispheric asymmetry with decreased faster frequency activity from the left.  There are occasional sharp waves identified from the right hemisphere, particularly mid-to-posterior temporal.  As the recording continues, the background is increasingly rich in faster frequency activity and a 7 Hz posterior dominant rhythm is identified, right better than left.  By the close of the record, occasional T4/T6 sharp waves are identified.  
+HR:  98 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Focal slowing with disruption of faster frequency activity from the left.
+Occasional right posterior temporal sharp waves. 
+Moderate background slowing, improving on the right.  
+CLINICAL CORRELATION: No seizures were recorded.  This EEG supports a structural or functional abnormality on the left, congruent with this patient’s history of a previous stroke.  Consideration for a mechanism for epilepsy from the right hemisphere is appropriate.
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 53-year-old woman with epilepsy since age 7; last seizure in 2002.  Previous EEGs normal.  
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10 Hz, 30 to 60 uV posterior dominant rhythm. Drowsiness is characterized by a prominent increase in background beta.  This is followed by attenuation of the alpha rhythm with some rhythmic central theta.  Hyperventilation is performed with good effort producing a prominent increase in the amplitude of the background.  Photic stimulation elicits vigorous bilateral driving. 
+HR:  66 BPM.
+	IMPRESSION: Normal EEG in wakefulness through stage I sleep.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  
+
+

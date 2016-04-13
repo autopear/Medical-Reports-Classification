@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 19-year-old male admitted for cocaine overdose, seizures, and cardiac arrest. 
+MEDICATIONS: Ativan and Dilantin.  
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and unresponsive during the record.  
+DESCRIPTION OF THE RECORD: In the initial portions of the record, the background EEG has a burst and suppressed pattern, which repeated at about 2 to 4 seconds at each cycle.  Intermittently, the burst pattern may evolve into seizures, which last for about a half a minute to one minute with or without generalized body twitching that was observed on the video.   Throughout the tracing, 19 seizures were recorded.  
+HR:  114 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Burst and suppressed pattern. 
+19 seizures with epileptiform discharges and clinical body twinges consistent with status epilepticus.
+CLINICAL CORRELATION: This tracing demonstrates a severe disturbance of cerebral dysfunction involving both the gray and white matter, with evidence of cortical irritability. While the EEG record was running, the neurological consult team was aware of the EEG results and antiepileptic drugs were started through an IV.  
+
+

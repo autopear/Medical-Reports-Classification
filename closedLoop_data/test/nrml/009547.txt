@@ -1,0 +1,15 @@
+	CLINICAL HISTORY: 	A 59-year-old woman with right craniotomy, frontal ventriculostomy, following MCA aneurysm clip, diabetes, hypertension, stroke.
+	MEDICATIONS: 	Dilantin, probably mannitol, heparin, amlodipine.
+	INTRODUCTION: 	Digital video EEG is performed at bedside in reo using standard 1020 system of electrode placement with one channel of EKG.
+	DESCRIPTION OF THE RECORD: 	The background includes a mixed frequency pattern rich in very slow delta with smaller amounts
+	of beta and theta frequency activity. 	The activity on the right
+		is slower than the left. 	The left frontal region seems to demonstrate a wicket, not observed on the right. 	Spontaneous arousals including coughing for this intubated reo patient are associated with a prominent increase in faster frequency activity, right greater than left.
+HR: 96 bpm.
+	IMPRESSION: 	Abnormal EEG due to:
+1. Prominent background slowing, right greater than left with very slow arrhythmic delta.
+2. Generalized background slowing.
+3. A single burst of high amplitude periodic complexes with an unusual field of spread lasting approximately 10 seconds at
+16:23:30, with an usual field of spread left frontal and right posterior.
+		CLINICAL CORRELATION: 	This EEG supports a structural process on the right as well as a diffuse disturbance of cerebral function. The unusual frontal periodic complexes were not sustained. Testing was not performed during these discharges. Additional EEG recording and observation may be important if this individual is thought to have subclinical seizures.  A follow-up, 1-hour EEG is recommended to make sure there are no subclinical seizures.
+
+

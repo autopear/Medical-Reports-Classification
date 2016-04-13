@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 81 year old woman with a past history of a frontal lobe tumor resected 25 years ago, now with a confusional spells. 
+MEDICATIONS: Dilantin, Nifedical, Levemir, Timolol, Stalin, Xalatan, Levamir. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake record with photic stimulation. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes an 8.5 Hz alpha rhythm and a small amount of theta. Frequent eye blink artifact was observed in wakefulness. In the transition to sleep, there is some frontal delta, some of which is sharply contoured at F8. Photic stimulation elicits scant driving. 
+HR: 72 bpm 
+IMPRESSION: Minimally abnormal EEG for an adult of this age due to: 
+1. Frontal delta and the transition to sleep right greater than left. 
+CLINICAL CORRELATION: If epilepsy is an important consideration, please repeat a study with stage II sleep. May 13, 2010 
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 64-year-old woman with seizures without loss of consciousness or aura.  Last episode 9/8/04; evaluate for temporal lobe epilepsy.
+MEDICATIONS: High dose Dilantin, Abilify, Effexor and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: The background EEG is somewhat disorganized for age.  There is a 9Hz, 40 uV posterior dominant rhythm, a fair amount of muscle artifact, and small amounts of theta.  There are intermittent bursts of sharply contoured theta and delta seen from the left temporal region, particularly if the patient becomes drowsy.  In later stage I sleep, there is a dramatic increase in beta frequency activity.  
+Photic stimulation elicits brief bilateral driving. 
+HR:  __ BPM.	Check prelim sheet
+	IMPRESSION: Abnormal EEG for a subject of this age due to:
+Sharply contoured delta maximum at T1 seen primarily in drowsiness with some spread to the left frontal region as well. 
+CLINICAL CORRELATION: This tracing is supportive of a structural or functional abnormality on the left.  Given the sharply contoured nature, this activity should be considered epileptogenic. 
+
+

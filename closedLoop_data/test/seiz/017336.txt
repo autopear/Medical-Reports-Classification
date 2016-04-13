@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 46-year-old, hypersomnolent adult male with one seizure in the past year and a remote seizure associated with alcohol ingestion, CHF, renal transplant patient.  
+MEDICATIONS: Dilantin, insulin, Lasix, and many other cardiovascular medications. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is primarily a drowsy or asleep record. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: The patient is drowsy or asleep throughout the entire record.  He is noted to snore and, in fact, even when stimulated and when asked to open his eyes, as he alerts he snores.  In brief wakefulness, there is an 8.5 Hz, 30 V posterior dominant rhythm and central MU activity.  Drowsiness is characterized by attenuation of the alpha rhythm with a more diffuse distribution of beta activity.  As the patient reaches deeper stages of sleep, he snores and the snoring seems to produce alerting.  Other features of sleep include vertex waves.  Hyperventilation is attempted and the patient has difficulty cooperating and is falling asleep during hyperventilation.  Photic stimulation elicits trace driving in a somnolent individual. 
+HR:  84 BPM.
+	IMPRESSION: Normal EEG but in a pathologically drowsy individual.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  With the prominent snoring and hypersomnolence, consideration for an underlying sleep disorder such as obstructive sleep apnea is appropriate. 
+
+

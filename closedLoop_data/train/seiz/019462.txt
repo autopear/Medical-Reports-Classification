@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 48-year-old woman with a history of seizures; last seizure yesterday.  Seizures described with auras and numbness on the right side of the face and head followed by expressive aphasia and loss of consciousness.  Patient experiences urinary incontinence and postictal confusion.  Seizure frequency has increased since the patient was switched from Tegretol to Topamax. 
+MEDICATIONS: Topamax and Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with an 8 to 10 Hz, 40 to 50 uV posterior dominant rhythm.  Hyperventilation produces diffuse paroxysmal slowing in the left temporal area more so than the right.  Following hyperventilation, the patient falls into stage I sleep identified by vertex waves with accentuation of the delta activity, left temporal area more than right with occasional sharp waves.  Photic stimulation elicits minimal driving.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Occasional left temporal sharp waves.
+Hyperventilation producing left temporal slowing more than the right. 
+CLINICAL CORRELATION: The above findings in this tracing are supportive of this patient’s seizures. If seizures are an important consideration, a repeat tracing capturing deeper stages of sleep would be useful. 
+
+

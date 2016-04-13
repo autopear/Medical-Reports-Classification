@@ -1,0 +1,12 @@
+	CLINICAL HISTORY: 	50-year-old right-handed woman who presents with history of epilepsy. Her last seizure was in August 2007.
+	MEDICATIONS: 	Dilantin, Relpax, Lexapro, Cyclobenzaprine and Depakote.
+	INTRODUCTION: 	This is a digital video EEG done in the lab. The EEG
+was performed with a standard 10-20 system of electrode placement with one channel lead of EKG. Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE   RECORD:  In wakefulness, the background EEG is well organized. Unfortunately, as the record continues there are increasing amounts of muscle artifact. There is a suggestion of a low voltage, 9-
+10 Hz alpha rhythm with a generous amount of low voltage, frontocentral
+beta. Drowsiness is characterized by slow rolling eye movements with POSTS observed on one occasion. Hyperventilation  is performed with good effort producing a great deal of head rocking artifact but no definite slowing. Photic stimulation elicits generous bilateral driving.
+	HR:	60 BPM.
+	IMPRESSION: 	EEG within normal limits.
+	CLINICAL CORRELATION: 	Due to the technical limitations described above with excessive muscle artifact as well as the absence of stage II sleep, a repeat study is essential to more completely characterize epileptiform activity.
+
+

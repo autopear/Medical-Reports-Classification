@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  68 year old man with sudden onset seizure lasting several minutes. Past medical history includes hypertension and a right frontal lobe lesion.
+MEDICATIONS:   Dilantin, Ativan, ASA, Lisinopril, Metoprolol, Simvastatin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  Background EEG demonstrates a relatively slow pattern of theta and beta waves. Patient is drowsy and drifts in and out of sleep. With sleep he has slowing. There are intermittent 3 Hz rhythmic activity in the right frontocentral regions. When he is maximally awake he reaches 11 Hz alpha rhythm. EEG at maximal wakefulness shows symmetric activity.
+	HR: 	96 bpm.
+IMPRESSION:  Abnormal EEG due to:
+1. Rare bursts of 3 Hz rhythmic activity in the right frontocentral region.
+CLINICAL CORR  ELATION:  This EEG is compatible with his clinical history of a right frontal mass. There is no epileptiform activity seen during this EEG. Further clinical correlation is recommended.
+
+

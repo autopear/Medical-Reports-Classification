@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 73-year-old woman with an intracranial hemorrhage presenting with speech difficulty and right-sided weakness.  Hypertension, depression, and anxiety.
+MEDICATIONS: Reglan, Dilantin, Mannitol.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient is awake, but not able to speak.  
+DESCRIPTION OF THE RECORD: The background EEG is disorganized.  There is an intrahemispheric asymmetry, disruption of faster frequency activity on the left, and an increase in slow activity in the left frontal region.  There is an alpha rhythm identified of 6.5 to 8.5 Hz, which is sometimes disrupted on the left side.  There is prominent temporal wicket activity, as well as suspicious left temporal sharps. 
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Disorganized background.
+	Asymmetric intrahemispheric activity bilaterally.
+	Abnormal sharp waves in the left temporal region. 
+CLINICAL CORRELATION: Given the wicket activity described above, a follow-up EEG capturing deeper stages of sleep may be helpful to make sure that these are actually epileptiform in nature.  
+
+

@@ -1,0 +1,19 @@
+CLINICAL HISTORY:  60 year old male with multiple focal seizures involving right arm with chewing movements.  Past MCA stroke, hypertension, aphasia, pacemaker.
+MEDICATIONS:  Depakote, Ativan
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has clinical seizures characterized by facial twitching and involuntary movements of the right arm.
+DESCRIPTION OF THE RECORD:  As the tracing begins the patient has been having seizures and continues to have seizures.  The overall EEG is sharply contoured, almost a chaotic pattern, and intermittently discontinuous.  Left frontal sharp waves precede the seizure and the seizure includes a mixture of frontal and left hemispheric sharp activity and fast activity.  The activity is maximum in the front, but is really seen throughout the left hemisphere in the parasagittal region.  The fast activity is prominent in the central regions.  Some of the activity spreads to the right.   
+By 8:15 p.m. the epileptiform activity is a bit more isolated.  At 8:00 p.m. the patient receives a Dilantin load.  He develops respiratory distress and a pleural effusion.  He is placed on a propofol drip for respiratory management. No additional clinical seizures are observed.  The EEG demonstrates a pattern with left frontal or bifrontal sharp activity or fast activity with a discontinuous background.   
+HR:    104 bpm
+IMPRESSION:  Abnormal EEG due to:  
+Initially status epilepticus pattern with repetitive seizures, improving to a discontinuous pattern with the use of both Dilantin and propofol.
+INTERVAL CLINICAL CORRELATION:  This EEG remains a highly epileptiform pattern.  There are bursts of sharp waves and spikes, but no clearly evolving seizures or clinical events noted in the later sections of the record.
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated, extremely ill, but responsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a left frontal spike or a sharp wave, which is periodic, merging to nearly continuous.  It does not evolve, as would be expected with a seizure.  The remaining background is markedly slow and suppressed.   
+Despite the patient's arousability, with occasional spontaneous movement and reactivity to external stimuli, the background does not improve.  It is a markedly slow and suppressed pattern with a frontal PLED with a periodicity of approximately 1 to 2 per second. 
+HR:    100 bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+Markedly suppressed background.
+Left frontal PLED with a generous field of spread.
+CLINICAL CORRELATION:  No seizures were recorded.  This EEG continues to demonstrate a marked disturbance of cerebral function.
+
+

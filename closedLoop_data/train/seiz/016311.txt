@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  43 year-old vietnamese male with a 2 year history of epilepsy after he came to this country. Multiple head traumas during the Vietnam war, but no seizures until reaching the United States in 2005. Recurrent seizures with many seizure related falls and injuries due to an inability to obtain seizure medication.
+MEDICATIONS: Dilantin.
+INTRODUCTION:  Digital video EEG is performed at the bedside using standard 10/20 system of electrode placement with 1 channel of EKG. The patient is in a hard collar.
+DESCRIPTION OF THE RECORD:  Much of the record includes stage II sleep with symmetric vertex waves, K-complexes and spindles. The drowsy record suggests that there may be some attenuation on the right. The awake record demonstrates  symmetric reactive posterior dominant rhythm with a well-organized pattern of 10 Hz.
+	HR: 	115 bpm
+IMPRESSION:  This bedside portable electroencephalogram from an individual in a hard collar is remarkable for occasional attenuation of amplitude on the right.
+CLINICAL CORRELATION:  Given the limitation of a bedside recording in a patient in a hard collar which alters electrode placement, these findings are of unclear clinical significance. Positive features for this individual with head trauma are a normal awake background with maximal stimulation. An additional EEG in the lab when he is clinically stable and out of the ICU is advised.
+
+

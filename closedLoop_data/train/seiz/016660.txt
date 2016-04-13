@@ -1,0 +1,15 @@
+CLINICAL HISTORY: This is a 76-year-old woman who presents with hypertension, CHF, and afib with change in mental status.  Patient leaned to the left then had right-sided shaking.  
+MEDICATIONS: Zantac, Coumadin, Lasix, Dilantin, and antihypertensives. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is poorly organized with diffuse slowing.  There is a unilateral posterior dominant alpha rhythm of about 8.5 Hz, 20 V on the left. Intermittent asymmetry of slowing was seen in the right central area with delta activity.  Occasional left central sharp activity is also seen.  As the recording continues, shifting arrhythmic delta activity is also seen. Drowsiness is characterized by a mixed frequency of brain activity, but no deeper stages of sleep were achieved.  
+Photic stimulation elicits driving as well as photoelectric artifact.
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Poorly organized background with diffuse slowing.
+Unilateral alpha activity on the left.
+Intermittent asymmetric slowing with delta activity.
+Occasional left central and temporal sharp activity.
+Occasional shifting arrhythmic delta activity.  
+CLINICAL CORRELATION: This abnormal EEG is suggestive of a mild to moderately severe cerebral dysfunction and an underlying pathological process in this patient.  Correlation with neuroimaging studies may be helpful.  No seizure behavior was observed in this tracing. If epilepsy is a clinical concern, when the patient is more stable, a repeat EEG in the lab using full activation methods including hyperventilation and capturing deeper stages of sleep may be helpful.
+
+

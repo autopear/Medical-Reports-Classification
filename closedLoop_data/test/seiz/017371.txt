@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 63-year-old woman with ESRD and respiratory distress requiring brief resuscitation, now increasingly alert.  
+MEDICATIONS: Ativan and Dilantin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is awake, in the ICU with a face mask.  When maximally awake, there is an 8 Hz posterior dominant rhythm, which reaches amplitudes up to 40 V.  There is excess background theta and occasional isolated bursts of arrhythmic delta from either temporal region.  As the recording continues, the patient is increasingly uncomfortable and there is additional muscle identified in the background.  There is a single burst of sharply contoured activity in the right mid-to-posterior temporal region.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG for a subject of this age due to:
+	1.	Modest background slowing.
+CLINICAL CORRELATION: In light of this patient’s recent critical illness, the EEG findings are relatively unremarkable.  The background slowing may be due to the patient’s recent resuscitation, renal failure, or other medications. No epileptiform features were seen. 
+
+

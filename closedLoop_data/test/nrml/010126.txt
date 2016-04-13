@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  41 year old right handed male with a history of cerebral palsy and localization related epilepsy who presents for exam.
+MEDICATIONS:  Levetiracetam, Carbamazepine.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep, stage I to II.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 10 to 11 Hz which is reactive to eye opening.  There is a decrease in the amount of normal frontocentral beta seen in both the left and right central regions.  Activating procedures produce no abnormal discharges.  Sleep is characterized by stage I/stage II sleep.  Some of the records appear to be slightly asymmetric toward the right. 
+ABNORMAL DISCHARGES:  Decreased voltage and absence of normal faster frequencies over the central region. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Attenuation of normal faster frequencies over the central region.
+CLINICAL CORRELATION:  This EEG reveals evidence of possible cortical dysfunction over the central region of the brain which may be related to his previous ischemia at birth.  No seizures or epileptiform discharges were seen.
+
+

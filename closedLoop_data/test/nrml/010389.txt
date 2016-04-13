@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  42 year old right handed male with an unclear history of epilepsy, confused.  The patient experienced a seizure in jail 2 months ago.
+MEDICATIONS:  Phenobarbital, Dilantin, Metoprolol.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was performed.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 8.7 Hz alpha rhythm.  The overall EEG is relatively low voltage.  In the early section of the record, the patient seems to drift in and out of sleep.  Vertex waves are noted with spiky vertex activity.  There are a handful of vertex waves which are phase reversing just to the right of the midline.  Brief arousals include a pattern with an alpha rhythm, and a small amount of excess beta and theta. Hyperventilation is performed with good effort producing head rocking artifact.   
+HR:    60 bpm
+IMPRESSION:  This EEG is remarkable for:
+Mild excess beta.
+Mild excess theta in maximal wakefulness.
+CLINICAL CORRELATION:  This patient's medications may play a role in the mild excess beta and theta.  The vertex waves are slightly asymmetric.  In the context of a 
+challenging patient who had difficulty cooperating, the challenges of electrode placement might explain the slight asymmetry in vertex waves.
+
+

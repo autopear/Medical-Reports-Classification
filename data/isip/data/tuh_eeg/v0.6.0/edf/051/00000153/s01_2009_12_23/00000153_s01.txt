@@ -1,0 +1,14 @@
+CLINICAL HISTORY:   64 year old woman with dementia, delirium and seizures.
+MEDICATIONS: ASA, Insulin, Amlodipine, Valsartin, Cipro, Lovenox, Zocor, Coreg., Bisacodyl
+INTRODUCTION:   Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic simulation are performed.  No clinical seizures are noted, but the patient is quite drowsy and frequently agitated. The patient remains confused.
+DESCRIPTION OF THE R ECORD:  The background EEG demonstrates focal slowing from the right hemisphere particularly in the temporal region with mid to posterior temporal sharp waves. Some of this occurs in bursts. There are rare sharp waves noted on the left.
+HR:   80 bpm
+IMPRESSION: Abnormal EEG due to:
+	1. 	Background slowing.
+	2. 	Right temporal sharp waves.
+	3. 	Rare left temporal sharp waves.
+CLINICAL CORR ELATION:
+This EEG supports a diffuse disturbance of cerebral
+function effecting gray and white matter, but no seizures were recorded.
+
+

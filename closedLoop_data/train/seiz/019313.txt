@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 43-year-old male with metastatic lung cancer with monthly seizures. 
+MEDICATIONS: Dilantin, morphine, valium, and steroids.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there a 10 Hz, 40 uV posterior dominant rhythm, which is disrupted on the right compared to the left.  The major abnormality is focal slowing from the right hemisphere with arrhythmic delta and a small amount of theta.  This is seen intermittently in wakefulness, increasing in drowsiness, and is accompanied by an occasional right mid-temporal sharp wave with amplitudes reaching up to 70 uV.  On occasion, the sharp wave demonstrates a right frontal maximum.  The overall background is relatively sharply contoured, but the sharp wave is followed by an after going slow wave. 
+Photic stimulation does not activate the record. 
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Focal slowing from the right hemisphere, particularly in the centrotemporal region.
+Right mid or frontotemporal sharp waves. 
+CLINICAL CORRELATION: This tracing supports a structural or functional abnormality on the right, as well as a localization-related mechanism for his epilepsy.  These results are different from his two previous EEGs, which were either normal or demonstrating left-sided abnormalities.
+
+

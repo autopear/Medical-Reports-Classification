@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  51 year old male admitted with status epilepticus.
+MEDICATIONS:  Midazolam, Keppra, Dilantin, Phenobarbital, Lovenox, Pantoprazole, Phenytoin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG..  The patient has a tracheostomy.  He is responsive.
+DESCRIPTION OF THE RECORD:  The background EEG has some generous, frontal beta.  There was occipital delta which had some shifting asymmetry.  The activity is lower voltage in the right occipital region.  Spontaneous arousals and tactile stimulation produced an increase in theta.   
+HR:    120 bpm
+IMPRESSION:  Abnormal EEG due to:
+Replacement of normal background with excessive theta.  
+Shifting slowing in the occipital region.
+CLINICAL CORRELATION:  The excess theta may be due to the patient's medications such as midazolam.  The shifting occipital slowing may be an artifact in the ICU setting.  In this patient with status epilepticus for 1 hour at midnight yesterday, no epileptiform features were seen in today's EEG.
+
+

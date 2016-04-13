@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 54-year-old male with post-traumatic epilepsy, increasing seizures associated with alcohol abuse. 
+MEDICATIONS: Dilantin, Ativan, Verapamil, and Pamelor.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 9 Hz, 30 V posterior dominant rhythm with a modest amount of low voltage, frontocentral beta activity and a small amount of underlying diffuse background theta. Hyperventilation is performed early on in the record producing an increase in amplitude of the background, as well as rare bursts of rhythmic, frontally predominant slowing.  Following hyperventilation, the patient becomes somewhat drowsy.  Features of drowsiness include attenuation of the alpha rhythm and an increase in background beta.   
+Photic stimulation elicits a faint driving response bilaterally. 
+HR:  78 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+	1.	Excess theta.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record. If epilepsy is an important consideration for this patient, a follow-up study capturing deeper stages of sleep or recording one of his seizures would be useful. 
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 31-year-old male with a history of a gun shot wound to the left posterior temporal region in 1996 with subsequent epilepsy, seizures several times a year, but now with severe pain in the left side of the head radiating down to the back and the neck.  
+MEDICATIONS: Depakote, Dilantin, and Elavil.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In maximal wakefulness, the background EEG demonstrates an asymmetry.  The overall background is relatively low voltage, but there is a breach rhythm identified on the left with higher amplitude activity from the left with a mixture of a 10 Hz posterior dominant rhythm with theta frequency activity particularly from the left mid-temporal region.  The right hemisphere is lower voltage, demonstrating a similar posterior dominant rhythm.  There is a small amount of right temporal theta, but not nearly as prominent as that from the left.  In quiet wakefulness, there is occasional left temporal delta. 
+Hyperventilation is performed early on in the record accentuating the left temporal theta.  Drowsiness is characterized by slow rolling eye movements.  On some occasions, there is drop out of faster frequency activity from the left mid-temporal region before the right.  Other features of drowsiness include rhythmic central theta.  Vertex waves and K complexes are seen in stage II sleep.  In stage II sleep at times the left temporal focal slowing is more sharply contoured, but there are no definitive sharp and slow wave complexes. 
+Photic stimulation is performed.  While there is no photic marker on the EEG, there is a clear low voltage bilateral driving response at intermediate flash frequencies.
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Left temporal focal slowing.
+CLINICAL CORRELATION: There are no definite sharp or slow wave abnormalities identified in this record.  There is a breach rhythm and activity from the breach is more sharply contoured. If seizures are an important consideration for this individual, further studies may be helpful. 
+
+

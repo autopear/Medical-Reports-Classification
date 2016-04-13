@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  66 year old right handed male, Intractable complex partial epilepsy, cervical radiculopathy.  The patient has typical seizures, but now has funny feelings in his right hand.
+MEDICATIONS:  Lamotrigine, Dilantin, Celexa, Calcium, Fosamax, Multivitamin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  Much of this EEG includes stage II sleep with vertex waves, K-complexes, spindles, and POSTS.  In the transition in and out of sleep, there is focal slowing noted from the right temporal region. In wakefulness there is a 10.5 Hz alpha rhythm.  Photic stimulation elicits bilateral driving. 
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:   
+Right temporal focal slowing, most prominent when the patient is transitioning in and out of sleep.
+CLINICAL CORRELATION:  No right temporal sharp waves or spikes were observed today.  This EEG is congruent with a focal or structural process in the right temporal region in this patient with a history of basal temporal sclerosis.
+__________________________
+
+

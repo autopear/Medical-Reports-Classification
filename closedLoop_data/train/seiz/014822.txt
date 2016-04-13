@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is an 11-year-old male with epilepsy, seizure-free for almost two years on Dilantin.  
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is a sleep deprived EEG with a goal of recording 20 minutes of sleep.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is appropriately organized for a child of this age with an 8.5 to 9 Hz, 50 to 70 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  In wakefulness, there are occasional LAMBDA waves.  Features of drowsiness include attenuation of the alpha rhythm followed by vertex waves, K complexes, spindles, and POSTS in stage II sleep.  In the initial sleep recording, there are occasional left or right centrotemporal sharp waves.  As the sleep recording continues, the epileptiform activity is seen less frequently and the field may include central parietal rather than centrotemporal regions.  They are seen more frequently in the initial sleep recording than infrequently in the later sleep recording.  Deeper stages of sleep are not sustained. 
+Hyperventilation is performed with good effort producing hypersynchronous, rhythmic high amplitude slowing.  
+Photic stimulation is performed while the child is asleep; in fact, it is performed as the child starts to enter stage III sleep and produces a bit of driving at faster frequency activity although the child does not remain awake.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG for a child of this age due to:
+	1.	Centrotemporal sharp waves.
+CLINICAL CORRELATION: Comparison with previous EEGs would be helpful, but this pattern may be seen in rolandic epilepsy and similar epilepsy syndromes. 
+
+

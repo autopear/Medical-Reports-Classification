@@ -1,0 +1,10 @@
+CLINICAL IDSTORY: This  is a 71-year-old  woman  with right-sided  weakness  and focal  twitching,  as well  as  somnolence.    History  of  lung  cancer, left  cerebellar   and parietal metastasis.
+MEDICATIONS: Dilantin, Decadron, and Ativan.
+INTRODUCTIO N: Digital  video  EEG is performed  at the bedside  in  the ICU  using standard 10-20 system  of electrode placement with one channel of EKG. The patient is not intubated, but appears somnolent.
+DESCRIPTION OF  THE RECORD:  The background  EEG is somewhat  slow with a posterior dominant rhythm in the theta range.   There is a slight asymmetry  with marked slowing on the left side compared to the right, best seen in the transverse montage. Drowsiness is characterized by an increase in background slowing.
+HR:  75BPM.
+Il\1PRESSION: Abnormal EEG due to:
+1.   Slow background, more so on the left than the right.
+CLINICAL CORRELATION: This BEG supports a diffuse disturbance of cerebral dysfunction  on the left more than the 1ight side.
+
+

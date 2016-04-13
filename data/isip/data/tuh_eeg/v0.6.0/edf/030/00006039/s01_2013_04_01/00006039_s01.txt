@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 79-year-old female with seizures during sleep in the 1970s.  Seizure-free for over a year.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 system of electrode placement with added channel anterior temporal and an EKG electrode.   The patient was recorded during wakefulness and sleep.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is some frontocentral beta.  The patient is recorded during wakefulness, stage I sleep.  Activating procedures including photic stimulation produce no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+HEART RATE:  60.
+IMPRESSION:  Normal awake and asleep electroencephalogram.
+CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges are seen.
+
+

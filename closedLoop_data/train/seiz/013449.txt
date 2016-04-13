@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 27-year-old with chronic static encephalopathy.  Evaluate for status epilepticus.
+MEDICATIONS: Ativan, Keppra, Dilantin.
+INTRODUCTION: Digital video EEG was performed in the emergency room using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is intubated, poorly responsive with low voltage, markedly featureless record with low voltage pattern, occasional bursts of isolated frontal delta, left greater than right, and small amounts of theta frequency activity. Arousals produce muscle artifact as well as some alpha frequency artifact. The patient is never stimulated during the EEG.
+	HR:	108 bpm
+IMPRESSION: Abnormal EEG due to:
+Absence of normal morphology for an adult of this age.
+	2. 	Low voltage pattern.
+	CLINICAL CORRELATION: This featureless pattern is similar to previous studies. This patient did not have auditory or tactile stimulation. Therefore, the EEG does not meet technical criteria for a coma study unless we repeat it.
+
+

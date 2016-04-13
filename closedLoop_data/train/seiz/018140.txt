@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 60-year-old male admitted for generalized shaking followed by confusion.  History of epilepsy.
+MEDICATIONS: Dilantin and Depakote. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is confused throughout the record. 
+DESCRIPTION OF THE RECORD: The background EEG is disorganized and diffusely slow with theta and delta activity.  The normal posterior alpha rhythm is not identified. Diffuse low voltage beta activity is superimposed on the background.  The patient is uncooperative during the recording and no sleeping stages were achieved. 
+HR:  112 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Disorganized background and generalized slowing.
+CLINICAL CORRELATION: The findings described above reveal a non-specific pattern that can be seen in patients with encephalopathy secondary to metabolic, toxic, or postictal phase, as well as medication effect.  In comparison to this patient’s previous EEG on May 15, 2003, this recording is significantly slower, however, no epileptiform features were identified in this record.  If clinically indicated, a repeat EEG may be helpful.
+
+

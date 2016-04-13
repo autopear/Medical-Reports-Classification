@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 27-year-old woman with a history of epilepsy following meningitis at the age of two.  Seizures are characterized by an aura of dizziness followed by seeing stars – tonic-clonic activity follows. 
+MEDICATIONS: Dilantin and Phenobarbital. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. The patient refused to have her hair cleaned for the EEG. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 9 Hz, 60 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Posterior slow waves of youth are seen.  When the patient is awake, there is a fair amount of muscle artifact.  Drowsiness is characterized by POSTS and rhythmic background slowing. Deeper stages of sleep are not sustained. 
+Photic stimulation elicits a bilateral driving response. Hyperventilation produces an increase in the amplitude.  
+HR:  __ BPM.
+	IMPRESSION: EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION: To identify focal or epileptiform features, a record with more sustained sleep may be valuable.  
+
+

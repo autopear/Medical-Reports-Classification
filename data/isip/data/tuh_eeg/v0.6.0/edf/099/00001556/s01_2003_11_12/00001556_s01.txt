@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 9-year-old male with multiple episodes with glazed eyes, staring, followed by several hours of sleep, former 32-week preemie with tracheostomy, grade IV intraventicular hemorrhage, congenital hydrocephalus, and shunt; recurrent pneumonias.
+MEDICATIONS: Tylenol and Zantac. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The child is awake, laughing, and talking throughout.  The background EEG is disorganized and is primarily a mixture of rhythmic 4 to 7 Hz activity with smaller amounts of frontocentral beta activity.  There is no well-defined alpha rhythm.  There is some shifting asymmetries, but no significant lateralizing features. 
+HR:  108 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Generalized slowing with poor organization. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record and no seizures were identified.  If epilepsy is an important consideration, a repeat tracing could be helpful. 
+
+

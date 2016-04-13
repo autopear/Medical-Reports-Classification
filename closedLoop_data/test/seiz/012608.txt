@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  73 year old woman with history of colon cancer noted to have right arm movement with arm movements.  Given 2 mg of Ativan afterwards, activity stopped.
+MEDICATIONS:  Dilantin, Lorazepam, Morphine
+INTRODUCTION:  Digital video EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded while unresponsive.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  Some ventilator artifacts seen periodically every 3 seconds during the EEG recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no posterior dominant rhythm.  No frontocentral beta or normal sleep architecture.  There were no activating procedures performed.  The background consists of low amplitude, slow delta at 1-2 Hz which has a superimposed ventilator artifact occurring every 3 seconds.  At one point, the patient is stimulated with nasal noxious stimuli and the EEG appears to develop muscle artifact mainly over the left hemisphere.
+ABNORMAL DISCHARGES:  Generalized slowing at 1-2 Hz and a low amplitude of 10-20 microvolts seen continuously throughout the recording.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves. 
+Low amplitude recording with some mild muscle reactivity.
+CLINICAL CORRELATION:  This EEG reveals evidence of marked cerebral dysfunction, which is nonspecific with regards to etiology but may be due, at least in part, to medication effect.  Mild muscle reactivity seen may imply a favorable prognosis.
+
+

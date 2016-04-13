@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  The patient is a 73-year-old woman with renal failure, dementia, hepatitis C, and change in mental status with previous EEG monitoring
+MEDICATIONS:  Cefepime, Keppra and Dilantin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1-channel EKG.  The patient was confused.
+DESCRIPTION OF THE RECORD:  As the recording begins, the patient is quite drowsy but has some voluntary movements.  The background EEG is markedly abnormal and is composed of essentially continuous high amplitude triphasic-appearing waveforms.  There is some variability noted in these wave forms.  There is no clear response to tactile stimulation.  This EEG lacks typical onset and offset for an ictal pattern. 
+During the course of the EEG, lorazepam was administered on 2 occasions.  Subsequently, at 10:16 the pattern seemed to improve with resolution of many of the periodic complexes and more of a beta and theta pattern.  As the patient drifts off to sleep, some of the triphasic waves start to return particularly in the frontal regions. 
+Heart rate is 108 BPM.
+IMPRESSIONS:  This is an abnormal EEG due to:
+Initially a nearly continuous periodic pattern with frontally predominant triphasic-looking wave forms.
+Responsiveness of that pattern to lorazepam.
+Marked background slowing.
+CLINICAL CORRELATION:  Many features of this record suggest a metabolic pattern with triphasic waves with anterior-posterior morphology.  There is, however, subtle evolution in the record, as well as responsiveness lorazepam.  At the close of the record, the characteristics of the pattern at that time are frontally predominant triphasic waves suggesting that this is more likely a metabolic pattern than an ictal pattern
+_________________________
+
+

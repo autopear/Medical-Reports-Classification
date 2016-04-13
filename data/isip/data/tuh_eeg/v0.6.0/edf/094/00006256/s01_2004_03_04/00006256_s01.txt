@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 70-year-old ?female with a stroke eight years ago, renal failure, glaucoma, and acute change in cognitive status with left occipital temporal stroke. 
+MEDICATIONS: Depakote, Heparin, and Hydralazine.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is obtunded and undergoing dialysis. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with primarily rhythmic theta activity and a smaller amount of arrhythmic delta activity.  There is a periodic, high amplitude left anterior temporal spike and slow wave complex, which sometimes is poly spike and slow wave with a generous field of spread into the left hemisphere. Typical periodicity is three to four discharges per ten seconds, although there are portions where the periodicity is Q 1.5 seconds.  Stimulation of the patient elicits an alerting response and attenuation of the periodic activity.
+HR:  108 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Frequent, periodic left anterior temporal spike and slow wave and sharp and slow wave complexes.
+Generalized background slowing. 
+CLINICAL CORRELATION: No seizures were recorded.  The ability to ameliorate the periodic activity may in part be due to the metabolic features and help rule out a form of status-epilepticus. 
+
+

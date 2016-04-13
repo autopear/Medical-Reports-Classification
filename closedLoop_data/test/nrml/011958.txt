@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 23-year-old male with a gunshot wound to the head.  The patient had episodes of increased heart rate and eye deviation to the left.
+MEDICATIONS:  Dilantin, Ativan and others.
+INTRODUCTION:  A digital video EEG was performed in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  This was a technically challenging EEG because the patient has a craniotomy, no bone flap on the right and scalp edema.
+DESCRIPTION OF THE RECORD:  As the tracing opens, the patient is relatively motionless in the ICU.  The overall background is diffusely slow with scant low voltage beta in the frontocentral regions.  There is some shifting slowing and the record appears to be a bit more attenuated on the right.  Tactile stimulation elicits eye opening.  The scalp EEG demonstrates a bit more faster frequency activity on the left than the right.  Tactile stimulation including eye opening and noxious stimuli both elicit an increase in faster frequency activity on the left.  Afterwards, there are some spontaneous eye movements.   
+At 10:12, the patient had one of the patient's typical spells with an increase in heart rate and eye deviation to the left.  This is associated with an increase in heart rate and eye movement.  There is an increase in faster frequency activity noted particularly in the left hemisphere but also right frontocentral but no epileptiform features were associated with this.  The right hemisphere does not seem to produce as much faster frequency activity in comparison to the left both with the episodes of rapid heart rate and eye opening as well as with tactile stimulation. 
+Heart rate:  96 to 120 BPM.
+IMPRESSION:  This is an abnormal EEG due to: 
+Generalized background slowing.
+The suggestion of focality with faster frequency activity identified on the left compared to the right.
+CLINICAL CORRELATION:  In this patient with scalp edema and a craniectomy, the extracranial fluid may attenuate the EEG and this asymmetry may be an artifact.
+
+

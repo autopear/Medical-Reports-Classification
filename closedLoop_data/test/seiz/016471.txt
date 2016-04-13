@@ -1,0 +1,13 @@
+CLINICAL HISTORY:   58 year-old woman with endometrial carcinoma,  Whipple, ileus, multiple thromboses, right craniectomy for intracerebral hemorrhage and sagittal sinus thrombosis, persistently obtunded.
+MEDICATIONS:  Dilantin, Erythromycin, Protonix, Gentamicin
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE R ECORD:
+Background EEG demonstrates a slow, delta
+pattern.  Activity from the right hemisphere is actually lower voltage and slower compared to the left.  There are a handful of a sharply contoured transients on the left, particularly frontotemporal or posterior temporal. Tactile stimulation is performed. Stimulation of the patient does not activate the record.
+	HR: 	66 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Marked background  slowing.
+	2. 	Relative attenuation of the activity on the right compared to the left.
+CLINICAL CORR  ELATION:   In comparison to the previous record, this study shows more higher amplitude delta.  The other study showed discontinuity.  Both patterns are characteristic of severe brain injury.
+
+

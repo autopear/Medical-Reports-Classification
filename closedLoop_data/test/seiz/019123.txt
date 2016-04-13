@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 55-year-old male with a right thalamic plate with intraventricular hemorrhage and placement of a right ventriculostomy.  Twitching of the face two days ago, right downward gaze deviation last night, and right-sided twitching today. 
+MEDICATIONS: Dilantin, Phenobarbital, and Ativan. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and poorly responsive.  
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal and includes a subtle, discontinuous pattern.  When there is activity identified, the activity is mixed frequency, low voltage, with alpha and theta frequency activity as well as smaller amounts of delta.  The periods with activity range from 3 to 7 seconds in duration and the periods of suppression averages approximately 5 seconds in duration.  There is some variability towards the close of the record.  The periods with activity are a little bit longer lasting than those in the initial portions of the record and there is some higher amplitude theta there.  Stimulation of the patient does not clearly activate the record, although stimulation was performed primarily at the close of the record as the discontinuity is improving.  There are a few shifting asymmetries more prominent at the end of the record.  There is also a breach rhythm a bit more prominent towards the close of the record.  A single F3 sharp wave is identified.  
+HR:  92 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Initial burst suppression pattern, which gradually improves as the recording continues. 
+Some shifting asymmetries with a breach rhythm.  Some portions of the record demonstrate a breach rhythm on the right with a bit more slower frequency activity.
+CLINICAL CORRELATION: This tracing supports a severe disturbance of cerebral function.  The improvement over the course of a brief EEG may be due to either improvement in this patient’s neurologic status, or the duration of time since his Phenobarbital infusion.  
+
+

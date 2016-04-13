@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 20-year-old male with bifrontal abscesses.  Interval history of possible seizures or encephalopathy.
+MEDICATIONS: Dilantin, Valproate, Ativan, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is a bit agitated during the record and confused.  
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a variable pattern.  Some portions of the record demonstrate rhythmic, primarily theta frequency activity, but others demonstrate more delta frequency activity.  There is some frontal delta and a bit of shifting asymmetries.   
+HR:  80 to 100 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Generalized background slowing.
+	Frontal delta, which may be symmetric or demonstrate shifting asymmetries. 
+CLINICAL CORRELATION: This EEG has not significantly changed compared to previous EEGs.  There are some portions of the record that are slower than his most recent EEG, but others do suggest the appearance of an alpha rhythm, which is an improvement in this case.   
+
+

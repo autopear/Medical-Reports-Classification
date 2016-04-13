@@ -1,0 +1,16 @@
+REASON FOR STUDY:  Change in mental status.
+CLINICAL HISTORY:  A 36-year-old man with loss of consciousness, possible drug overdose.  Has a past medical history of drug abuse.
+MEDICATIONS:  Tegretol.
+TECHNICAL DIFFICULTIES:  None.
+INTRODUCTION:  Digital video EEG was performed using the standard 10-20 system of electrode placement and 1-channel EKG at the bedside.  Stages:  The patient is intubated and sleep architecture was noted on the EEG.  Activating procedures were not performed.
+DESCRIPTION OF THE RECORD:  The background is characterized by diffuse slowing in the theta and delta range.  There is no PDR noted in any part of the recording.  No faster frequency activity was noted.  Sleep architecture was characterized by appearance of posts, spindles, and K complexes but with stimulation there was no reactivity or variability in the EEG recording.   
+Hyperventilation was not performed. 
+Photic stimulation was not performed.
+ABNORMAL DISCHARGES:  
+Diffuse slowing in the theta and delta range.  
+There was no variability or reactivity to the EEG upon stimulation.
+SEIZURES:  None.
+IMPRESSION:  This EEG is abnormal due to diffuse slowing and lack of variability and reactivity in the record with stimulation.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction however there is suggestion of an intact subcortical function as evidenced by the presence of a normal sleep architecture. This may be due to a toxic metabolic pattern from drugs or sedative overuse causing encephalopathy or may be due to process involving diffuse cortical injury.
+
+

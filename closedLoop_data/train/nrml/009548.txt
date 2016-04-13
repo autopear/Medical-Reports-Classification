@@ -1,0 +1,14 @@
+	CLINICAL HISTORY: 	This is a 59-year-old female with confusion status post right craniotomy, frontal ventriculostomy, following MCA aneurysm clip, diabetes, hypertension, stroke.
+	MEDICATIONS: 	Dilantin, mannitol, propofol, nimodipine.
+	INTRODUCTION: 	Digital video EEG is performed at the bedside in the intensive care unit using the standard 10/20 system of electrode placement with 1 channel of electrocardiogram. The patient was intubated and poorly responsive. The patient is intermittently responsive with eye movement and spontaneous movement.
+	DESCRIPTION OF THE RECORD: 	Background EEG demonstrates an intrahemispheric asymmetry. The left hemisphere demonstrates stable arrhythmic delta activity. The right hemisphere demonstrates more significant arrhythmic delta. Both hemispheres demonstrate some arrhythmic delta. Occasional sharp waves are observed. There are no sustained periodic complexes identified. At the close of the record, spontaneous arousals are observed particularly for auditory and noxious stimulation with a prominent increase in faster frequency, left greater than right.
+HR: 100 bpm
+	IMPRESSION: 	Abnormal 20 minute video EEG due to:
+1. Generalized background slowing.
+2. Arrhythmic delta activity, much more remarkable in the right hemisphere with disruption of faster frequency activity.
+3. Sharp waves identified from the left fronto-central region.
+	CLINICAL CORRELATION: 	A 1 hour study was requested for the patient giving bursts of prominent periodic delta identified in the first study. Similar sustained bursts were not seem in this record. Fortunately the patient appears more awake at the close of the record.
+	
+	
+
+

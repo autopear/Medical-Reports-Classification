@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 65-year-old male with MI, anxiety and numbness in the left arm.
+MEDICATIONS: Ativan, Dilantin, and nitroglycerin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is low voltage with a 10 Hz alpha rhythm.  Much of the record includes mild drowsiness and slowing of the posterior dominant rhythm and subtle slow rolling eye movements followed by background theta.  Brief vertex waves are seen in stage I sleep.  Vertex waves, spindle and snore artifact are identified in stage II sleep with arousals from sleep.  
+Photic stimulation elicits scant bilateral driving. 
+HR:  90 BPM.
+	IMPRESSION: Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  
+
+

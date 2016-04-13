@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  A 47-year-old woman with history of complex partial seizures, headaches and staring spells.
+MEDICATIONS:  Vimpat and Lyrica.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 10-11 Hz which is reactive to eye opening.  There is excessive beta throughout the recording.  Activating procedures included hyperventilation and photic stimulation, produced no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None. 
+Heart rate 60.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges were seen.  Please note that the excessive beta may be at least in part due to medication effect.
+
+

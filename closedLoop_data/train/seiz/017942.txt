@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 28-year-old woman with epilepsy since age 15 described as generalized convulsions with loss of consciousness and incontinence.  Seizure-free since 1999, but having episodes of auras of a blinking light and dizziness. 
+MEDICATIONS: Dilantin and Depakote.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz, 30 to 50 V posterior dominant rhythm.  There is a subtle, nearly continuous asymmetry in the temporal regions with subtle left temporal theta identified on the left and not seen on the right as well as some attenuation of the faster frequency activity on the left.  In drowsiness, there are rare bursts of sharply contoured delta activity and in the left mid-to-anterior temporal region with one more well defined left anterior temporal sharp wave. Hyperventilation was performed with good effort.  The focal features identified on the left are not significantly augmented in hyperventilation.  Photic stimulation elicits brief driving. 
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Subtle left temporal focal slowing.
+Rare sharply contoured slowing or sharp waves from the mid-to-anterior temporal region.
+CLINICAL CORRELATION: Comparison with this patient’s previous EEGs may be useful, but this EEG supports a partial or focal mechanism for epilepsy.
+
+

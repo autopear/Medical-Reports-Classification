@@ -1,0 +1,10 @@
+HISTORY: This is a 40-year-old woman with epilepsy Three years ago, the patient had traumatic brain injury with brain surgery.  Also, “beaten up two months ago with two black eyes”.  Last seizure was two weeks ago described as “throat closing” with generalized tonic-clonic seizure.  
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is a drowsy record recorded on an individual who was disoriented, smelling of alcohol.  . 
+DESCRIPTION OF THE RECORD: The background EEG is disorganized and diffusely slow, with excessive theta activity.  There is a nearly continuous C3 breach rhythm, as well as arrhythmic delta activity.  Vertex waves are seen in drowsiness. 
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Left central breach rhythm as well as arrhythmic delta activity.  
+CLINICAL CORRELATION: The focal features of a breach rhythm and arrhythmic delta activity is consistent with underlying pathological changes secondary to the previous traumatic brain injury and brain surgery.   No epileptiform activity was recorded in this tracing.  If clinically indicated, when the patient is more sober, a repeat EEG may be helpful.
+
+

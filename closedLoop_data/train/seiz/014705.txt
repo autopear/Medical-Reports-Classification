@@ -1,0 +1,11 @@
+CLINICAL IDSTORY: This is a 41-year-old male with an episode of slurred speech, shaking, head rocking for three minutes followed by confusion. History of childhood epilepsy with two seizures over the past year.  Five years ago, the patient experienced head trauma without loss of consciousness.
+MEDICATIONS: Dilantin
+INTRODUCTION: Digital video BEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a symmetric, reactive 8.5
+Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta
+activity.  This BEG is remarkable for hypersomnolence with the patient demonstrating epochs in which he drops into stage TI  sleep and then awakens.  Hyperventilation is performed, but the patient is quite somnolent.  Multiple brief arousals are attempted. Features of stage IT sleep include vertex waves, K complexes, spindles, and POSTS. Photic stimulation does not activate the record.
+HR:  60BPM.
+IMPRESSION: BEG within normal limits.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  However, evaluation for the cause of this patient's hypersomnolence may be necessary.
+
+

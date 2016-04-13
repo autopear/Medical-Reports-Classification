@@ -1,0 +1,9 @@
+CLINICAL HISTORY: 65 year old right handed gentleman with epilepsy, seizure free for the last 10 years, diabetes, hypertension, and other medical problems. 
+MEDICATIONS: Dilantin, Folate Acid, Lasix, Naprosyn, Simvastatin, Atrovent, Furosemide, Diovan, MVI, ASA, Flomax 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness there is a 9Hz alpha rhythm with a small amount of low voltage frontal central beta activity. Drowsiness is characterized by an increase in beta activity. Photic stimulation does not activate the record. 
+HR: 80 bpm 
+IMPRESSION: Normal EEG. 
+CLINICAL CORRELATION: No focal nor epileptiform features were seen. If additional information is needed, a sleep deprived record is suggested. 
+
+

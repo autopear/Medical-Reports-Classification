@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is an 8-year-old male with a disruptive behavioral disorder and a recent motor vehicle accident with a frontal hematoma requiring surgery.  He has Wolff-Parkinson-White syndrome. 
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and asleep record in a patient who is sometimes cooperative.
+DESCRIPTION OF THE RECORD: In wakefulness, the EEG is somewhat disorganized for age.  There is a 7 Hz, 70 V posterior dominant rhythm with intermittent theta or delta.  A breach rhythm is seen from the left frontal region and there is frontal delta, which is higher amplitude and more frequent from the left compared to the right.  As the child drifts off to sleep, there is prominent drop out of the alpha rhythm followed by the appearance of vertex waves.  In drowsiness, there are rare left central sharp waves.  
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG for a child of this age due to:
+Left frontal delta.
+Background slowing and disorganization.
+Left central sharp waves.
+CLINICAL CORRELATION: This tracing supports a structural abnormality more prominent on the left than the right, as well as a partial mechanism for epilepsy. 
+
+

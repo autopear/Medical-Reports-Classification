@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 68-year-old male with a history of epilepsy admitted with Dilantin toxicity.  Episodic vertigo and cerebellar atrophy.
+MEDICATIONS: Dilantin, insulin, and others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record in a patient who is relatively drowsy.
+DESCRIPTION OF THE RECORD: The patient is drowsy throughout much of the record, but in maximal wakefulness, the background is diffusely slow with primarily a rhythmic theta pattern and small amounts of delta.  In wakefulness and in early drowsiness, there are occasional left temporal sharp waves maximum at T1-T3.  These vary from discrete sharp waves to sharply contoured delta, but none have an amplitude greater than 70 V.  Additional features of sleep include an increase in the background slowing and the appearance of vertex waves.   In addition to drowsiness, there is some shifting asymmetries with some amplitude asymmetry and variability in terms of the amount of theta and delta in the temporal regions. 
+Photic stimulation does not significantly activate the record. 
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Rhythmic background slowing.
+Occasional shifting temporal asymmetries.
+Left temporal sharp waves.
+CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function as well as a partial mechanism for seizures.  This patient’s Dilantin toxicity may contribute to the background slowing and if there are no previous records for comparison, a follow-up study may be of use. 
+
+

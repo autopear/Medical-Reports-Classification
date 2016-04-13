@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  65 year-old male with recurrent seizures
+MEDICATIONS:   Trileptal and Norvasc.
+INTRODUCTION:  Continuous video EEG monitoring is performed  at bedside using standard
+10-20 system of electrode placement with 1 channel EKG.  The patient has no clinical events noted by the patient, clinical team, or computerized  software.  He was given exercises to bicycle throughout on the morning of August 6.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG is well organized with
+10 hertz posterior dominant rhythm.   Throughout the night the patient is stimulated due to bradycardia.   He has intermittent  arousals from sleep.  Brief epochs include REM sleep.   The after-midnight  portion of the record, when the patient is allowed to drift into deeper stages of sleep demonstrate  high amplitude right anterior temporal spike and slow wave complexes.    The patient was give bicycling exercises.  With bicycling, his heart rate increased to 60 BPM.  He
+had no clinical events with impaired attention.
+	HR: 	30 to 60 bpm
+IMPRESSION:   Abnormal EEG monitoring due to:
+	1. 		High amplitude right anterior temporal sharp and slow wave complexes  observed exclusively in sleep.
+	2. 	Background  slowing observed initially in the first part of the record but improving over the course of the recording.
+CLINICAL CORRELATION:   No seizures were recorded.  The sharp waves support a localization-related mechanism  for epilepsy.  Clinical causes should be sought to determine why the patient's background  slowing was seen in the initial baseline but improved over time.  It may have been due to toxic or metabolic factors or a postictal state.
+
+

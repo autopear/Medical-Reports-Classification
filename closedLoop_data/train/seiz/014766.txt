@@ -1,0 +1,10 @@
+IDSTORY: 54 yr old male with a brain tumor resection in 1994.  Had 30 second seizure followed by postictal confusion.
+MEDICATION: Dilantin, Phenobarbital. ACTIVATION: Photic Stimulation.
+INTRODUCTION: Digital Video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.
+DESCRIPTION OF  THE RECORD: The  background  EEG  is  well  organized  with symmetric  reactive  posterior  dominant rhythm  with a low voltage pattern.   Drowsiness includes  much  of  the  record  with  rhythmic  slowing  and  beta.     Other  features  of drowsiness  include  an  increase  in  background  beta.   As the patient  becomes  drowsy, there is an increase in background delta.  Photic stimulation elicits an asymmetric driving response.   At 5 Hz, this is more prominent on the left and at 7 Hz, it is higher amplitude and  more  prominent   on  the  right.    This  is  also  seen  at  other  intermediate   flash frequencies.  Photic stimulation is performed while the patient is relatively drowsy.
+HR:  96 BPM -occasional PVC's
+IMPRESSION: This EEG is remarkable for:
+1. An asymmetric driving response in this low voltage record
+CLINICAL CORRELATION:  The previous craniotomy may explain  the asymmetry of the driving response.  Additional recording in deeper stages of sleep may be. helpful to search  for  significant  underlying  focal  features.   There  were  no  epileptiform  features noted.
+
+

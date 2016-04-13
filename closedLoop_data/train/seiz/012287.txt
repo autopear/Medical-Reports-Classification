@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  70 year old man with lung cancer status post chemo and hypertension at home with oxygen who presented with consciousness but breathing heavily, eyes rolled back, twitching rhythmically, unable to move his left arm.
+MEDICATIONS:  Keppra, Insulin, Dexamethasone, Lovenox.
+REASON FOR STUDY:  Found with eyes rolled back and twitching, unable to communicate, not moving left arm.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 7 to 8 Hz and appears to be reactive to eye opening.  There is some sleep with state changes which reveals some normal patterns of sleep architecture.  There are no activating procedures.  Overall, the EEG background is that of polymorphic delta with some intermixed theta at a frequency of 2 to 4 Hz and an amplitude of 20 to 60 microvolts. 
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen at O2/P4 and at times more at O2, seen almost continuously in a rhythmic pattern consistent with periodic lateralized epileptiform discharges occurring at 0.5 Hz.  
+Generalized slowing at 2 to 4 Hz and an amplitude of 20 to 60 microvolts. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Right posterior parietal occipital periodic lateralized epileptiform discharges.
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization related epilepsy with seizures likely arising from the right occipital and parietal regions.  In addition, there is evidence of focal cerebral dysfunction and irritabilities in the right parietal region which has a high correlation with a lesion in that region, occipital regions as well as diffuse cerebral dysfunction which is nonspecific with regard to etiology.  No seizures were seen.
+
+

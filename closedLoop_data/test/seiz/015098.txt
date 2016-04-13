@@ -1,0 +1,25 @@
+CLINICAL HISTORY: This is a 46-year-old male with a longstanding history of epilepsy, atrophy in his hands with intermittent shaking in the right foot, sometimes associated with pain.  
+MEDICATIONS: Dilantin, antihypertensives. 
+INTRODUCTION: Continuous video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. This section of the record captures wakefulness and sleep.  
+PUSH BUTTON EVENTS:
+ Time 15:27 - This is a practice push button.
+Time 15:48 - The patient is lying on his side in bed under the covers.  He is talking on the telephone and rocking.  No epileptiform features were seen.  
+Time 15:51:11 - The patient is lying in bed, talking on the phone, under the covers.  Again, no epileptiform features are associated with this push button.
+Time 16:29 – The patient is lying on his back.  He pushes the button at 16:29:13.  There is some breakdown in the video, and his legs are under the covers.  It is difficult to see movement, but the EEG demonstrates a normal awake pattern.
+Time: 18:10:22 – The patient is lying on his side.  His right leg is away from the camera.  The EEG demonstrates no epileptiform features associated with this push button. 
+Time 19:09 – The patient is lying on his back and pushes the button.  No epileptiform features are seen. 
+Time 19:19 – The patient’s leg can be seen to jerk very slowly under the covers at 19:19.
+Time 20:36 – The patient is asleep.  His leg can be seen moving under the covers.  No epileptiform features are seen.  
+Time 20:37:02 – ditto. 
+Time 20:39:12 – ditto.
+Time 21:31:20 – ditto.
+Time 21:37:37 – ditto.
+Time 22:17:38 – ditto.
+Time 22:50:50 – ditto.
+RANDOM WAKEFULNESS AND SLEEP: In wakefulness, the background EEG includes a well-organized background.  Drowsiness is characterized by some rhythmic background slowing.  Rhythmic theta is seen in sleep, which is captured at 21:41.  Vertex waves and spindles are identified in stage II sleep.  
+HR:  90 BPM.  
+	IMPRESSION:  Long-term continuous video EEG monitoring is remarkable for:
+	1.	 Multiple episodes of shaking of the right leg without impairment of awareness.  
+CLINICAL CORRELATION: Consideration for a disturbance other than epilepsy for these behaviors is appropriate.  
+
+

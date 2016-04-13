@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  45 year old right handed woman with encephalitis and CVA in the past, now with seizure.
+MEDICATIONS:  Keppra
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a low amplitude posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  The patient is recorded during wakefulness and stage I sleep.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges. 
+ABNORMAL DISCHARGES:  None
+SEIZURES:  None
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 22-year-old, right-handed male with first-ever  tonic­
+clonic seizure following MVA two weeks ago, admitted on the 8111 with a seizure.
+MEDICATIONS: Dilantin and Ambien.
+INTRODUCTION: Digital  video EEG is perfom1ed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In maximal wakefulness, the background EEG is well organized with a 10 Hz, 40 uV posterior dominant rhythm with prominent eye blink artifact.  Hyperventilation produces a small amount of background slowing.   Photic stimulation elicits driving.
+HR:  96BPM.
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified in this record.  The eye blink artifact can be seen in anxiety.
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 71-year-old, right-handed woman with dementia and large right basal ganglia/left thalamic infarct with worsening confusion and seizures.  
+MEDICATIONS: Dilantin, Topiramate, Ativan, and antibiotics. 
+INTRODUCTION: Continuous video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. There is no clinical information regarding this patient’s clinical correlate. Technically, this 24-hour study is very difficult to review.  However, the study was formatted and the review process is very slow.  There are no patient, nurse, or tech notes regarding seizures, and the computer did not identify seizures.  The patient was examined during this 24-hour portion of the record at 7:40 AM.
+DESCRIPTION OF THE RECORD: The background EEG is abnormal.  The background is diffusely slow with a mixture of slower theta and delta.  There are both periodic sharp waves seen from the frontal regions bilaterally, particularly from the frontotemporal regions.  There are also occasional intermittent frontotemporal sharp waves seen from either hemisphere with some variability; some of these involving the posterior regions.  Stimulation of the patient at 7:43 AM on the 27th is associated with an increase in theta activity in the background, as well as a decrease in epileptiform activity.  There are other localizations for some of the sharp activity including right frontal and left central.  
+HR:  90 BPM.
+	IMPRESSION: Technically somewhat challenging EEG in terms of the difficulty reviewing the data, but abnormal due to:
+Relatively severe generalized slowing.
+Epileptiform activity including both sharp waves and periodic complexes seen from either hemisphere with variable fields.  
+CLINICAL CORRELATION: No seizures can be identified in this record, however, this EEG supports a relatively severe disturbance of cerebral function with an irritative process involving both hemispheres.   
+
+

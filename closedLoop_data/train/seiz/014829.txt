@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 50-year-old, right-handed female with childhood seizures, last seizure two weeks ago.  Patient reports biting her lip during sleep.  
+MEDICATIONS: Gabapentin and Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  The patient has difficulty following commands.  She seems to be excessively drowsy at the close of the record.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG includes a 10 Hz, 40 uV posterior dominant rhythm with excess background beta.  There is a small degree of disorganization in the record.  Intermittently, there is rhythmic theta in the posterior regions, but the tech has difficulty determining whether or not the patient is asleep.  Photic stimulation is performed later on in the record with the patient is in stage II sleep with vertex waves and spindles, but as she arouses from sleep, a brief driving response can be noted.  
+HR:  96 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+	1.	Excess background beta and disorganization. 
+CLINICAL CORRELATION: There is some posterior theta identified in this record particularly close to photic stimulation.  Additional testing with a Spanish-speaking individual would be necessary to determine whether or not the patient was excessively drowsy or whether or not this is a pathological finding.  No epileptiform features were seen.
+
+

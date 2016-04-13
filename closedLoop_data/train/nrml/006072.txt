@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 61 year old male with altered mental status, intermittent paroxysmal spells of tremulousness and tachycardia. Past history of stroke, multiple seizures on the morning of the 4th followed by obtundation. 
+MEDICATIONS: Dilantin, Keppra 
+INTRODUCTION: Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Seizure and spike detection software is used. 
+DESCRIPTION OF THE RECORD: This long term 24 hour video EEG monitor demonstrates a slow background. The initial sections are primarily delta. As the recording continues, there is more theta frequency noted in the background with 1.5 hertz, 4.2 hertz activity and 6 hertz activity in the background. Stimulation of the patient produces an alerting response with an increase in muscle. Some sections of the record demonstrate medium amplitude FIRDA. Others demonstrate theta. Multiple clinical events are documented by the team. These include impaired mental status. Episodes of tremulousness are noted at 1:56 a.m. and 3:48 a.m. These are not associated with change in awareness. On a handful of occasions, an asymmetry is noted with a 6 hertz alpha rhythm identified on the left, not so clearly identified on the right 
+HR: 120 bpm 
+IMPRESSION: Abnormal electroencephalogram due to: 
+1. Markedly slow background. 
+2. Frontal intermittent and rhythmic delta activity. 
+3. On occasion, an asymmetric alpha rhythm, present only on the left. 
+CLINICAL CORRELATION: These findings are compatible with a generalized disturbance of cerebral function. This is a nonspecific finding and can be seen in the toxic or metabolic encephalopathy as well as other causes. There are no epileptiform features noted. Although a Holter devise was not utilized, the patient has persistent tachycardia rather than intermittent paroxysmal tachycardia. 
+
+

@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  73 year old right handed male with a history of seizures in a nursing home, recently admitted for Dilantin toxicity.
+MEDICATIONS:  Dilantin, Tylenol.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and sleep.  Activating procedures with photic stimulation performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a moderately slow background with a posterior dominant rhythm with, at best, 7 Hz, which appears to be slightly reactive to eye opening and closing.  There is a decreased amount of frontocentral beta.  Sleep is characterized by stage I.  Activating procedures produced no abnormal discharges. 
+ABNORMAL DISCHARGES:  
+Generalized slow waves of 5 to 7 Hz seen throughout the recording.
+Focal slow waves seen at T3, infrequently, at 2 to 4 Hz.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves. 
+Intermittent left mid-temporal slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left mid-temporal region with additional evidence of diffuse cerebral dysfunction, both of which are nonspecific with regard to etiology.  No seizures or epileptiform discharges were seen.
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 30-year-old male with an anoxic injury at unknown time, now in a nursing home with pyelonephritis, global aphasia, urosepsis, epilepsy, and quadriplegia.  No other information available. 
+MEDICATIONS: Baclofen, Dilantin, Phenobarbital.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. The patient demonstrates oral automatisms. 
+DESCRIPTION OF THE RECORD: This is a somewhat abbreviated study because of a system crash.  In wakefulness, the background EEG demonstrates a lower voltage pattern with lower voltage beta and some theta.  At times, it is a sharply contoured background with significant eye artifact.  Vertex waves are identified in sleep.   
+HR:  60 BPM.
+	IMPRESSION: Limited EEG due to short duration of the study but abnormal due to:
+	Excess background slowing.
+	Lower than anticipated amplitude awake pattern than expected for age. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  A repeat, more prolonged study may be important to characterize epileptiform activity.  This EEG supports a diffuse disturbance of cerebral function compatible with anoxia or multiple different causes.  The generous beta seen in wakefulness may be part of the barbiturate effect. 
+
+

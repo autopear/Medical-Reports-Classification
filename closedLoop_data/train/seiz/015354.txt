@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 42-year-old woman with recent therapy for HIV, seizures, elevated CSF protein without white cells, and possible cryptococcal antibody.  Patient has had no seizures since Monday.
+MEDICATIONS: Dilantin, Valproate.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake despite the endotracheal tube and follows commands. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz posterior dominant rhythm identified, which is reactive to eye opening.  There is a small amount of background beta and a small amount of background theta.  
+HR:  72 BPM.
+	IMPRESSION: Mildly abnormal EEG for an adult of this age due to:
+	Mild excess theta in wakefulness.
+	Mild excess beta. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  There are some technical limitations of this record including a dysfunctional FP2 and F4 electrode.  Because of these technical issues, a repeat study is unfortunately necessary.
+
+

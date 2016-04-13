@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 51-year-old woman with epilepsy since childhood who presents with an increased number of seizures during the last few months, preceded by aura of an intense headache.  Past history significant for cardiac disease with recent mitral valve repair and new onset atrial flutter.  
+MEDICATIONS: Dilantin, Digoxin, and other blood pressure medications, as well Heparin. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with a 9 Hz posterior dominant rhythm.  The patient is excessively drowsy and is asleep during significant portions of the record.  Stage II sleep is achieved and characterized by vertex waves and spindles.  In other portions of the record, right temporal wicket activity is seen, as well as occasional LAMBDA waves.  
+HR:  78 BPM.
+	IMPRESSION: Normal EEG in wakefulness and in stage II sleep.  
+CLINICAL CORRELATION: No epileptiform discharges were seen. Normal EEG does not rule out seizure activity. A repeat study may be attempted in six to twelve months as an outpatient. 
+
+

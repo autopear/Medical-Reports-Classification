@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 61-year-old male with new onset seizures.  History of diabetes, hypertension, afib, and alcohol abuse.  
+MEDICATIONS: Dilantin, antihypertensives, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was completed, but photic stimulation was not performed.  This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and diffusely slow with excessive theta activity.  In maximal wakefulness, there is a 7 Hz, 30 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Hyperventilation did not activate the record.  Post-hyperventilation, the patient fell asleep immediately with increased delta activity seen in the background.  Sleep is characterized by a mixed frequency of vertex waves and occasional spindles. 
+HR:  90 BPM, occasionally irregular.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Disorganized and diffusely slow background with excessive theta activity. 
+CLINICAL CORRELATION: This abnormal EEG pattern is non-specific and can be seen in patients with toxic or metabolic encephalopathy or in the postictal phase.  This is suggestive of the dysfunction of both gray and white matter. No epileptiform features were identified in this record. If epilepsy is a clinical concern, a repeat EEG in the lab when the patient is awake and cooperative may be helpful. 
+
+

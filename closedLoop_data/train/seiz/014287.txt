@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  40 year old diabetes, hypertension, epilepsy, discharged from the hospital on 03/22 and experienced 2 additional seizures.  He is complaining of right shoulder pain and drug abuse.
+MEDICATIONS:  Tegretol, Tramadol, Dilantin, Zocor, HCTZ
+INTRODUCTION:   Digital video EEG was performed in lab using standard 10-20 system of electrodes with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:   Some sections of the record include a 9 Hz posterior dominant rhythm.  Much of the maximally awake record does include a small amount of excess rhythmic theta and at times there is some arrhythmic slowing in the temporal regions.  Stage I sleep is characterized by vertex waves and vertex waves and spindles are seen in stage II sleep. Photic stimulation does not activate the record. Hyperventilation produces a small amount of background slowing.
+HR:   60 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Background slowing
+	2. 	Disorganization.
+CLINICAL CORRELATION:  No epileptiform features were observed.  Clinical correlation with medications and other clinical phenomena may be important regarding the background slowing and disorganization. This is the 3rd EEG with out epileptiform activity.
+
+

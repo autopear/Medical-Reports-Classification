@@ -1,0 +1,10 @@
+CLINICAL  HISTORY:  Tllis is a 64-year-old male with multiple craniotomies on the right side, status-post  VP shunt.   Evaluated today for decreased  mental status, Broca's aphasia, and perseveration.
+:MEDICATIONS: Dilantin and others.
+INTRODUCTION:  Digital  video  EEG is performed in  the lab using standard  10-20 system of electrode  placement  with one chmmel of EKG. Hyperventilation  and photic stimulation   were  performed.      This  is  an  awake  and  drowsy  record  with   photic stimulation.
+DESCRIPTION   OF  THE  RECORD:  The  background  EEG  is  abnormal  due  to  a pattern of generalized slowing.   There is a mixture of theta and delta, with at tin1es more delta than theta.  Anhythmic m1d rhythmic delta is identified from both hemispheres. In tern1s of  asymmetry,  there is  a bit more  rhythmic  activity  in the right  frontal region compared  to the left.   There  is also some lllgher amplitude  delta activity in the right frontal region.
+HR:  84BPM.
+IMPRESSION: Abnormal EEG due to:
+1.  Sig lificant generalized slowing.
+CLINICAL CORRELATION: Given the history provided above, the focal features m·e modest.  No epileptifonn features were identified in tills record.
+
+

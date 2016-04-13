@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a __-year-old male with change in mental status and recurrent tonic-clonic seizures.
+MEDICATIONS: Multiple antibiotics, Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is low voltage, diffusely slow.  In wakefulness, there is a scant, 9 Hz posterior dominant rhythm with a background of low voltage delta and theta. When the patient is not stimulated, there is an increase in background beta, as well as beta and delta. Photic stimulation elicits brief bilateral driving. In drowsiness, there is occasional rhythmic theta, higher amplitude on the right than the left.  
+HR:  56 BPM, irregular.
+	IMPRESSION: Improved, but abnormal EEG due to:
+Modest background slowing.
+Intermittent rhythmic slowing from the right hemisphere in sleep. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The asymmetry in this record has improved significantly compared to a previous study. 
+
+

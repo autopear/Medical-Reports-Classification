@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 37 year old right handed male with history of a gunshot wound to the in the left temporal area in December 2009, now with seizures and post ictal confusion. Seizure free since February 2009.
+MEDICATIONS:  Dilantin or Depakote.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic simulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates mild, bilateral background slowing with a posterior dominant rhythm of 8-9 Hz. The alpha rhythm on the right reaches 9.3 Hz. There is a breach rhythm with higher amplitude activity on the left and mild, continuous slowing on the left with slowing of the frequencies on the left typically in 7 Hz. Hyperventilation accentuates the focal slowing. The activity becomes somewhat rhythmically slow in drowsiness on the left and sharply contoured at T3. Photic stimulation elicits scant driving at intermediate  flash frequencies. This is better represented  on the right. At the close of the record, there are problems with the F4 electrode.
+HR:   90 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Essentially continuous focal slowing on the left.
+CLINICAL CORRELATION:  The focal slowing is compatible  with the structural process. The left temporal intermittent rhythmic delta activity can sometimes be seen in individuals with localization-related epilepsy, but it can also be seen in the context of a structural brain pathology.
+
+

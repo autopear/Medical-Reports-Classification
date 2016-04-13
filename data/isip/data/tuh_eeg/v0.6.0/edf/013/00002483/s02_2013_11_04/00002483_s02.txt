@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 73-year-old man with history of seizures with follow-up EEG, and a past medical history of Alzheimer's, alcohol abuse, hypertension and heart surgery.
+MEDICATIONS:  Keppra, Aricept, Haldol, lisinopril, Lipitor, metoprolol, aspirin.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  A routine EEG was performed using standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Procedures included photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9 Hz, which is reactive to eye opening.  There is some frontal central beta.  The patient was recorded during wakefulness and drowsiness.  Procedures included photic stimulation.  No abnormal discharges.
+TECHNICAL DIFFICULTIES:  None.
+ABNORMAL DISCHARGES:  
+Focal slow wave seen at F7/T3 at a frequency of 2-4 Hz and amplitude of 20-40 microvolts seen frequently throughout the recording.
+Seizures - None.
+Heart rate 48.
+IMPRESSION:  Abnormal EEG due to left anterior temporal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left anterior temporal region, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

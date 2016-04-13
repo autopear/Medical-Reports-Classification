@@ -1,0 +1,14 @@
+.
+CLINICAL HISTORY:  Epilepsy since the age of 22, history of head trauma.  Patient recalls 20-minute seizures with tongue biting, seizure free for 2 months.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  A digital video EEG was performed in the laboratory using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  There is a fair amount of muscle artifact observed in the EEG.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 8.5 Hz alpha rhythm.  Notable features in the EEG include an interhemispheric asymmetry.  Faster frequency activity is attenuated in the right hemisphere relevant to the left.  In addition, there is more slow, lower frequency activity in the right hemisphere.  At times, an alpha rhythm is identified bilaterally but it is always more vigorous on the left.  Occasional sharp waves are noted, typically maximum at T6.   
+Hyperventilation seems to accentuate the focal slowing in the right hemisphere.  Features of drowsiness include slow rolling eye movements.   
+Photic stimulation elicits scan driving.  Photic stimulation also seems to subtly accentuate an underlying right parietotemporal sharp wave.   
+Heart rate 84 BPM.
+IMPRESSION:  This is an abnormal EEG due to: 
+Slowing from the right hemisphere which is relatively persistent and includes disruption of faster frequency activity an the presence of focal slow activity.
+Right posterotemporal sharp waves.
+CLINICAL CORRELATION:  These findings are congruent with the history provided.  No seizures were recorded.  This EEG supports a focal mechanism for seizures and a structural abnormality on the right.  No previous EEGs were available.
+
+

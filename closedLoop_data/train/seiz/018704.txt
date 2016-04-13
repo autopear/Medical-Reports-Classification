@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 44-year-old male with a generalized tonic-clonic seizure.  The patient had another seizure nine months ago with urinary incontinence.
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with a 9 Hz, 60 to 70 uV posterior dominant rhythm. Drowsiness and stage II sleep are characterized by vertex waves and spindle activity.  The patient is seemingly excessively drowsy and falls asleep during photic stimulation.  Generous amounts of POSTS are noted in the record.  Photic stimulation elicits a driving response.  Hyperventilation produces an increase in the amplitude of the background.  
+HR:  78 BPM, slightly irregular.
+	IMPRESSION: Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  If seizures are an important consideration, a repeat tracing under sleep deprived conditions is appropriate. 
+
+

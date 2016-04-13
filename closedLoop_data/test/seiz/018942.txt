@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 67-year-old woman with heart failure, a prosthetic valve, hepatic failure, acute left subdural hematoma with hemiparesis, confusion, aphasia, and coagulopathy. 
+MEDICATIONS: Dilantin, Digitek, and Zofran.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is somewhat challenging.  There is a fair amount of muscle picked up in the right, but despite this, there is a clear intrahemispheric asymmetry.  The activity from the right hemisphere is lower voltage with lower voltage beta frequency activity.  Despite the muscle seem from the left, the sections of the record free of muscle demonstrate arrhythmic delta and superimposed rhythmic 5 Hz theta activity.  There is also sharply contoured delta activity and occasional sharp waves identified at T1.  While the rhythmic theta from the left waxes and wanes, there are no definite or even subtle seizures seen in the record. Drowsiness is characterized by an increase in slowing.  Stimulation of the patient produces an arousal and seems to produce some more of the rhythmic left temporal theta.  
+HR:  90 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:
+Intrahemispheric asymmetry.
+Rhythmic theta from the left temporal region.
+Occasional left temporal sharp waves. 
+CLINICAL CORRELATION: This tracing supports a disturbance involving both hemispheres, but more significantly the left compared to the right.  The activity from the left is epileptogenic in nature and observation for subtle seizures is recommended.  
+
+

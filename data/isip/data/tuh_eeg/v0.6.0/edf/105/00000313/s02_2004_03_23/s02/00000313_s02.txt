@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 29-year-old woman with epilepsy since age eight, developmental delay. 
+MEDICATIONS: Tegretol, Trileptal, and Keppra. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8 Hz, 60 uV posterior dominant rhythm.  The background in wakefulness is mildly disorganized, with a mild degree of excess theta with some focal slowing from the left temporal region.  There are sharp waves identified in the record.  There are some seen in the left occipital region, which are somewhat subtle as well as more clear-cut sharp and slow wave complexes with focal slowing identified from the left mid-to-anterior temporal region. These are seen in wakefulness and brief drowsiness.  There are also rare, right anterior temporal spike and slow wave complexes and on one occasional there is a poly spike morphology with spread to the right temporal region.  
+Photic stimulation is remarkable for a slight driving response, as well as accentuation of the occipital spike and slow wave activity. 
+HR:  56 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Epileptiform activity identified from the left temporal region, as well as left occipital and rare right temporal. 
+Mild background slowing. 
+CLINICAL CORRELATION: No seizures were recorded. The patient’s previous EEGs were not available for comparison.
+
+

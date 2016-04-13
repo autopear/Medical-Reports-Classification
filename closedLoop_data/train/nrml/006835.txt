@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  43 year old left handed male with oligodendroglioma, diabetes, hyperlipidemia, depression, and VP shunt status post resection with change in mental status.
+MEDICATIONS:  Versed, Keppra, Zonisamide
+REASON FOR STUDY:  change in mental status, concern for seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  No activating procedures were performed.  The patient was recorded in wakefulness and agitation, but slightly lethargic.
+TECHNICAL DIFFICULTIES:  Some T3 electrode continuous electrode artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that best reaches 5 Hz and does not appear to be reactive to eye opening.  There is no normal frontocentral beta seen.  No normal sleep architecture is captured.   
+ABNORMAL DISCHARGES:  
+Generalized slow waves at 5 to 7 Hz with an amplitude of 20 to 70 microvolts seen continuously throughout the recording.
+There is an associated breach at C3 seen continuously throughout the recording. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves. 
+Focal slowing and breach seen at C3.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left central region, which is consistent with a known mass/lesion.  In addition, there is evidence of diffuse cerebral dysfunction, which is nonspecific with regard to etiology.  No seizures or epileptiform discharges are seen.
+
+

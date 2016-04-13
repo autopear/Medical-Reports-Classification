@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 52-year-old woman presenting with “the worst headache of her life,” blurred vision, double vision, dizziness, nausea, and vomiting.  There is a history a subarachnoid hemorrhage with aneurysm clipped 10 to12 years ago.  Epilepsy, substance abuse, depression.
+MEDICATIONS: Dilantin, Ativan, Fioricet, Benadryl and others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed. This is an awake and asleep record.  
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, 60 V posterior dominant rhythm.  Excess theta is identified in wakefulness and there are rare bursts of shifting slowing, somewhat more remarkable on the right. As the patient becomes drowsy, there is a prominent increase in background theta.  A breech rhythm is identified by an increased amount of beta rhythm in the frontal regions.  
+HR:  88 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+Excess theta.
+Occasional shifting slowing primarily from the right.
+CLINICAL CORRELATION: No epileptiform features were seen.  Supports a bi-hemispheric process.  Medications or post-ictal state may produce the theta described above. 
+
+

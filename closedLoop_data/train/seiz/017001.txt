@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 61-year-old woman with a follow-up EEG study more than 50 days status-post CPA angle tumor resection, persistently unresponsive. 
+MEDICATIONS: HCTZ, Labetalol, Phenobarbital, Topiramate, folate, Dilantin, and Morphine.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and unresponsive.  
+DESCRIPTION OF THE RECORD: The patient remains poorly responsive throughout the record.  The record is continuous with a mixture of slow, arrhythmic delta activity and smaller quantities of background theta.  There is some asymmetry and some portions of the record show more slowing from the right hemisphere, particularly the posterior quadrant and the temporal regions.  There are rare sharp waves identified from the right hemisphere.  There is eye movement artifact, but no definite triphasic waves. 
+Stimulation of the patient produces a very small amount of theta in the background, initially followed by some movement.  Later spontaneous stimulation with coughing and gagging produces more significant theta from the left hemisphere at the close of the record.
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Severe, generalized background slowing.
+Asymmetry with reactivity identified from the left hemisphere, which is more vigorous than that from the right, as well as more significant focal slowing on the right. 
+CLINICAL CORRELATION: This tracing supports a severe disorder of cerebral function effecting both hemispheres.  In comparison to previous records, the epileptiform activity is markedly reduced.  In addition, the overall background is significantly improved compared to previous studies.  
+
+

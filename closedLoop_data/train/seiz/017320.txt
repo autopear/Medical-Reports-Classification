@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 77-year-old woman with a history of diabetes found unresponsive and seizing.    
+MEDICATIONS: Dilantin, insulin, Lisinopril, antibiotics, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  The patient is intubated and confused during the recording.   
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is relatively symmetric but organized with diffuse slowing and excessive theta activity. There is an 8 Hz, 20 V posterior dominant rhythm with a small amount of beta activity.  Occasionally, frontal bursts of intermittent rhythmic theta activity were observed.  Sleeping is characterized by vertex waves.  Deeper stages of sleep were not achieved.  Photic stimulation did not activate the record.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Poorly organized background with diffuse slowing and excessive theta activity.
+Occasional frontal intermittent rhythmic theta activity.
+CLINICAL CORRELATION: In comparison to this patient’s previous EEG, this recording demonstrates a marked improvement, however, the poorly organized background with excessive theta activity and generalized slowing suggests a disturbance of cerebral function.  No focal features or epileptiform discharges were seen in this recording. If epilepsy is a clinical concern, a repeat EEG may be helpful. 
+
+

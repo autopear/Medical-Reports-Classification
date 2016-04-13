@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 43-year-old woman with a history of brain surgery in childhood secondary to a cyst, cerebral palsy, and seizures.  She has been seizure-free for ten years. 
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation and hyperventilation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the posterior dominant rhythm is 9 Hz, 30 V.  There is occasional background theta and delta identified from the left hemisphere in wakefulness.  On transition to drowsiness, there is increased theta frequency which is symmetric.  As she drifts off to sleep, vertex waves are seen.  Deeper stages of sleep are not achieved.  Photic stimulation elicits bilateral driving.
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Focal slowing in the left hemisphere. 
+CLINICAL CORRELATION: No epileptiform activity was identified in this record.  In a patient who has a history of seizures, focal features supporting an underlying structural abnormality on the left. 
+
+

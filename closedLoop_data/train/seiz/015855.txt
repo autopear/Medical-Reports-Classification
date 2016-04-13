@@ -1,0 +1,11 @@
+		
+CLINICAL HISTORY:  Adult hospitalized 2-3 weeks ago with hyperglycemic coma and status epilepticus.   Found down unresponsive with stiffness in one arm.  He received 6 mg of Ativan as well as Dilantin load.  He was intubated and paralyzed.  Evaluate for subclinical status.
+MEDICATIONS:  Dilantin, Lorazepam, Insulin, Ativan, Heparin
+INTRODUCTION:  Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was intubated but was starting to have spontaneous muscle activity.
+DESCRIPTION OF THE RECORD:  Background EEG demonstrates an active male with a low voltage pattern of beta, theta and small amounts of delta. Due to the muscle artifact, he received Ativan.  This produces a decrease in muscle and there is a pattern of delta and theta.  When the muscle drops out to background, it is low voltage and featureless.  In this very low voltage record, there is a suggestion of a left center temporal sharp wave.  These epochs are followed by spontaneous arousals with muscle.
+	HR: 	84 bpm
+IMPRESSION:   Abnormal EEG due to:
+1.  Replacement of normal background with a slow voltage pattern.
+CLINICAL CORRELATION:  No definitive epileptiform features are observed.  In comparison to previous studies, this is more of a slow pattern without epileptiform features.
+
+

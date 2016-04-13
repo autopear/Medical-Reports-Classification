@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 58-year-old male with a history of epilepsy, previously off antiepileptic drugs for the past three months, tracheostomy on 1/27.
+MEDICATIONS: Sevoflurane, Lidocaine, SUX, Vecuronium, Fentanyl, Midazalam, Ativan, Dilantin, Tiagan, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the PACU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is appropriately organized with primarily a drowsy pattern, but with brief wakefulness.  At times, there is a 10 Hz posterior dominant rhythm.  A central MU rhythm is identified, but testing is not performed to confirm this.  Generous beta activity is identified in wakefulness.  In drowsiness there is an increase in beta as well as some rhythmic theta and one or two bursts of shifting asymmetry.  Vertex waves are seen in stage I sleep. 
+HR:  96 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+	1.	Excess beta. 
+CLINICAL CORRELATION: These results are similar to a previous tracing from 2001.  No epileptiform features were seen.
+
+

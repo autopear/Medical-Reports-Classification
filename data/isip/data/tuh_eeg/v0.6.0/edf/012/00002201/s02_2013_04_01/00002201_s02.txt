@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 53-year-old woman with a 17-year history of epilepsy with several tonic-clonic seizures per year.
+MEDICATIONS:  Depakote, Tegretol, and phenobarbital.
+INTRODUCTION:  A digital video EEG was performed in laboratory using the standard international 10-20 system of electrode placement in addition to 1 channel of EKG monitoring.  Hyperventilation and photic stimulation were performed.  This tracing captures the patient during wakefulness and stage 1 sleep.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was about 6-7 Hz in frequency.  There was disorganized and diffuse theta activity seen during wakefulness.  The background activity was intermittently disrupted by burst of higher amplitude bilateral delta activity most pronounced on the left side.  There were also rare left frontotemporal spike and slow wave complexes noted during hyperventilation with no evolution.  A stage 1 sleep was characterized by the presence of transient sharp waves and posts.  Hyperventilation was performed and characterized by high amplitude rhythmic delta activities.  Photic stimulation was performed and results in no driving response.  Heart rate was 60 to 70 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to;
+Slowing of the posterior dominant rhythm and generalized background activity.
+Burst of paroxysmal high amplitude and at times sharply contoured delta waves, most pronounced on the left side.
+Rare left frontotemporal spike and slow wave complexes during hyperventilation.
+CLINICAL CORRELATION:  Diffuse slowing of the background is suggestive of toxic, metabolic, infectious, or degenerative encephalopathy or due to the effect of medications or bilateral cerebral dysfunction.  The presence of rare sharp waves from the right frontotemporal region is suggestive of underlying epileptogenicity of that region.  No seizures were captured.  An inpatient EEG monitoring session is recommended for further seizure evaluation.
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 73-year-old woman with an episode of loss of consciousness one year ago and abnormal EEG, now event free, but memory impairment.
+MEDICATIONS:  Keppra, thyroid.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was not performed, but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  Although there is a fair amount of muscle artifact when the patient is anxious, there is clear focal slowing in the left frontal temporal region.  In addition, there are a handful of left frontal or frontotemporal sharp waves, typically maximum at FP1 or F7.  In addition, as the patient becomes drowsy more sustained arrhythmic slowing from the left mid temporal region with a T1 sharp waves was noted.   
+Photic stimulation is remarkable for significant muscle artifact.   
+Heart rate:  50 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Left anterior temporal focal slowing.
+Left frontal temporal sharp waves.
+CLINICAL CORRELATION:  No seizures were recorded.  The findings described above have been seen in previous EEGs for this individual.  This is her third EEG and 2 of the 3 have identified unilateral left focal pathology.
+
+

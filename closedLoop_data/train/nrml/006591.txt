@@ -1,0 +1,11 @@
+	CLINICAL HISTORY:	65 year old  with subdural hematoma found down after a seizure. Previous craniotomy in the left frontocentral region.
+MEDICATIONS: Keppra, Dilantin
+INTRODUCTION: Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is a bedside portable study for an individual who is intubated and in a hard collar.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an asymmetry.  The activity is lower voltage and slower on the left with more of a pattern of slower lower voltage delta with theta. The right hemisphere includes more beta and some theta some of which is sharply contoured.  The patient starts to drift off to sleep with asymmetric vertex waves and spindles on the right. Stimulation of the patient produces an increase in faster frequency more so on the right compared to the left.
+	HR:	90 bpm
+IMPRESSION: Abnormal EEG due to:
+	1.	Generalized background slowing.
+	2.	Superimposed focal slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified. The characteristics of this patient's focal slowing suggest a structural process on the left involving gray and white matter. There were no epileptiform features noted, but if seizures are an important consideration, a follow up study is suggested.
+
+

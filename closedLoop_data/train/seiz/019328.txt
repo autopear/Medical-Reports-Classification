@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is an 18-year-old female suffering from depression with a suicide attempt in June 1990.  Wellbutrin-associated seizure, Dilantin level 20.
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is primarily a drowsy record. 
+DESCRIPTION OF THE RECORD: Much of the record includes stage II sleep with symmetric vertex waves, K complexes, spindles, and POSTS.  In relaxed wakefulness and early drowsiness, there is excess background theta seen diffusely, but testing to make sure that the patient is maximally awake is never performed.  There is a small amount of irregular theta in the temporal regions.  
+HR:  66 BPM.
+	IMPRESSION: Very mildly abnormal EEG due to:
+	1.	A small amount of irregular theta seen in the temporal regions in drowsiness. 
+CLINICAL CORRELATION: The excess drowsiness described above may be due to sleep deprivation or postictal state.  The theta seen is a non-specific finding, which again may be due to postictal state, medications, or other cerebral dysfunction. No epileptiform features were seen. If epilepsy is an important consideration, a repeat tracing in the lab is recommended. 
+
+

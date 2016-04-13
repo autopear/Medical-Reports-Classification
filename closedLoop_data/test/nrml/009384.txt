@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 53-year-old male with refractory seizures, deafness and behavioral issues.
+MEDICATIONS:  Keppra, Zoloft.  Dilantin on hold.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient reported no seizures.  None were identified by the clinical team or the seizure and spike detection software.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrates an asymmetry.  The activity on the left is lower voltage and slow.  There is a more consistent alpha rhythm of 9 Hz  noted on the right. 
+There is a breach rhythm on the right with accentuation of fast activity in the right frontal central region.  Sharply contoured delta is noted in wakefulness with occasional broad sharp waves noted at T4 or T4/C4 in sleep. 
+Heart rate 66 BPM.
+IMPRESSION:  This 24 hour section of EEG monitoring did not identify any epileptiform seizures, but did identify:
+An asymmetry.
+Sharp waves from the right hemisphere. 
+Clinical correlation:  This patient had 48 hours of continuous video EEG monitoring.  No seizures were recorded in either day.  In this individual with bihemispheric pathology, well-defined sharp waves or spikes were not identified at this time from the left, but sharply contoured slowing or sharp waves were noted on the right.
+
+

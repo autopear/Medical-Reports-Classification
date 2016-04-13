@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 45-year-old male found unresponsive with seizures.  History of COPD.
+MEDICATIONS: Ativan, Dilantin, and antibiotics.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed due to the patient’s medical condition. The patient is agitated and combative during the recording. 
+DESCRIPTION OF THE RECORD: The background EEG is low voltage with significant beta activity and muscle movement artifact, but basically symmetric.  
+HR:  90 BPM.
+IMPRESSION: Abnormal EEG due to:
+	1.	Replacement of normal background with low voltage pattern with diffuse beta activity.
+CLINICAL CORRELATION: The beta activity may be due to medication such as Ativan.  Epileptiform activity may be missed due to the muscle artifact.  A repeat EEG when the patient is more cooperative is recommended. 
+
+

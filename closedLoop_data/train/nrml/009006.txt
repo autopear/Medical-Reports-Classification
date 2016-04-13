@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  74 year old gentleman with epilepsy since 1978, nocturnal seizures, seizure-free for 15 years.
+MEDICATIONS:  Lipitor, Dilantin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately organized with 9 Hz 40 mV alpha rhythm with a small amount of low voltage, frontal central beta. Drowsiness is characterized by an increase in background slowing with a scant amount of shifting right or leg temporal isolette and focal slow waves. Hyperventilation also produces the background slowing. Additional features of drowsiness include anterior spread of the alpha rhythm. Photic stimulation elicits bilateral driving.  As the patient becomes drowsy there is a bit of head rocking artifact in the right posterior region.  A scant photic driving response was obtained. 
+HR:    86 bpm
+IMPRESSION:  EEG within normal limits for an adult of this age.
+CLINICAL CORRELATION:  No epileptiform features were identified.  If further characterization of his epileptiform activity is needed, a more prolonged sleep study could be obtained.
+
+

@@ -1,0 +1,11 @@
+	CLINICAL HISTORY: 	55 year-old male with recent onset of epilepsy in March, 2008 characterized by loss of consciousness and tongue biting. Seizures last 2-5 minutes.
+MEDICATIONS:   Dilantin, Naproxen, Clonazepam,  Fluroxetine, Clonidine, Amlodipine, Temazepam, Lisinopril
+INTRODUCTION:  Digital video EEG is performed in lab using standard 10-20 system of electrode placement  with 1 channel EKG.  This is a 1 hour EEG.
+DESCRIPTION OF THE RECORD:  The initial portions of the record show mild background disorganization with an alpha rhythm ranging from 7.5 to 10 hertz. Later portions of the record show better organization, but the alpha remains slow, typically 8 to 8.5 hertz. Temporal wicked activity is observed in drowsiness. Hyperventilation produces an increase in background. Photic stimulation elicits scant driving.
+	HR: 	78 bpm
+IMPRESSION:   Mildly abnormal EEG due to:
+1.  Slowing of the alpha rhythm
+2.  Mild background disorganization seen most prominently  in the early portions of the record.
+CLINICAL CORRELATION:  No epileptiform features were observed. Prominent wicked activity was seen in the transition to sleep. Deeper stages of sleep are not achieved.
+
+

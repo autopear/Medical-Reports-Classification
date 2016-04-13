@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 75 year old male with Parkinson disease, tremors, psychosis, dementia, possible seizures with episode of shaking in the context of sepsis and hypotension earlier today. 
+MEDICATIONS: Dilantin, Vanco, ASA, Haldol, Zosyn, Clonidine, Ativan
+ 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated and relatively obtunded during the EEG. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a low voltage, continuous pattern rich in alpha and beta frequency activity. Prominent, frontal 14 Hz activity is observed as well as 10-11 Hz activity in the central region. There is a small degree of background variability in the record. Very minimal stimulation of the patient occurs during the EEG. 
+HR: 80 bpm. 
+IMPRESSION: Abnormal EEG due to: 
+1. Mixed frequency background rich in beta and alpha frequency activity but also some theta and delta. 
+2. What appears to be a pattern of pharmacologic coma with a decrease in faster frequency at the close of the record. 
+CLINICAL CORRELATION: There are no epileptiform features. Inadequate tactile stimulation was performed to determine that the patient's reactivity to external stimuli. 
+
+

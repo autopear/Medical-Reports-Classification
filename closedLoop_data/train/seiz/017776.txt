@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 58-year-old male with epilepsy, stroke, and right hemiparesis.  The patient was found unresponsive.
+MEDICATIONS: Ativan, Dilaudid, and Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and unresponsive.  Photic stimulation and hyperventilation were not performed. The patient was sedated with Haldol prior to the test.
+DESCRIPTION OF THE RECORD: In the initial portions of the record, the background EEG is low voltage with a mixture of low voltage delta.  There are bursts of arrhythmic delta activity and central beta activity.  There are also rare bursts of frontally predominant delta activity.  The patient demonstrates spontaneous arousals.  With the spontaneous arousals, there is a dramatic increase in theta and a suggestion of a posterior dominant rhythm.   On one occasion, there is a burst of slowing from the right hemisphere without evidence of movement by the patient.  The patient waxes and wanes.  When he is moving, the EEG is richer in higher amplitude theta and at times delta.  When he drifts off to sleep, the pattern is lower voltage.  Toward the close of the record, the patient is stimulated again.  With stimulation, there is eye opening and eye closure and a much better defined posterior dominant rhythm.  Unfortunately, this also creates a fair amount of muscle and movement artifact.
+Some sections of the record are marred by high frequency activity, which prohibits reformatting of the data.
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing. 
+A dynamic slow, relatively featureless record with arrhythmic delta and FIRDA alternating with a much more alert record, although there is still background slowing in wakefulness.
+CLINICAL CORRELATION: These features are non-specific but are most supportive of a toxic or metabolic encephalopathy.  Correlation with imaging may be helpful, particularly regarding the bursts of slowing on the right.  Because of the technical limitations described above, a follow-up study when the patient leaves the ICU was recommended. 
+
+

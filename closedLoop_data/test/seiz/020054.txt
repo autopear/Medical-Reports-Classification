@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 42-year-old woman with hypertension, COPD, diabetes, a stroke, and episodic loss of consciousness. 
+MEDICATIONS: Dilantin and Ativan.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, 20 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by background slowing with rhythmic 7 Hz theta frequency activity. Photic stimulation elicits minimal driving. 
+HR:  72 BPM.
+	IMPRESSION: Normal EEG primarily in drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.
+
+

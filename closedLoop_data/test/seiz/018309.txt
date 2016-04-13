@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 40-year-old male admitted with AIDS, toxoplasmosis, and dementia.  
+MEDICATIONS: Dilantin, antibiotics, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is awake but confused during the record. 
+DESCRIPTION OF THE RECORD: The background EEG is disorganized and diffusely slow.  There is a 7.5 Hz, 30 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Occasional rhythmic 3 to 4 Hz delta or theta activity is seen in the right hemisphere.  No sleeping stages were achieved.  
+HR:  122 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Disorganized and diffusely slow background. 
+Occasional rhythmic 3 to 4 Hz slow activity seen in the right hemisphere. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  In comparison to this patient’s previous EEG done on December 3, 2003, this tracing demonstrates an improved record.  
+
+

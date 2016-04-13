@@ -1,0 +1,8 @@
+CLINICAL HISTORY:  46 year old ambidextrous woman with myasthenia gravis and epilepsy.  Seizures characterized by shaking with loss of consciousness occurring monthly.  Onset several years ago.
+MEDICATIONS:  Depakote, Dilantin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was performed twice.  Photic stimulation was completed.  The patient was extraordinarily sleepy and had great difficulty staying awake.
+DESCRIPTION OF THE RECORD:  Abundant stage 2 sleep with vertex waves, K complexes, spindles and POSTs were identified.  The patient sometimes has eye movements persisting into stage 2 sleep.  Brief arousals can produce a beta pattern.  With maximal wakefulness, a 12 Hz alpha rhythm was noted.  Hyperventilation served to awaken the patient.  Photic stimulation elicited vigorous bilateral driving at faster flash frequencies.  Heart rate 60 BPM.
+IMPRESSION:  Normal EEG predominantly in sleep.
+CLINICAL CORRELATION:  This degree of sleepiness can be seen in a sleep-deprived EEG or in a patient who is sleepy from some other cause.
+
+

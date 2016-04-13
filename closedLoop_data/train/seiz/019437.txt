@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 68-year-old woman found unresponsive:  hypoglycemia and possible urosepsis, possible seizures followed by change in mental status.  History of dementia, seizure, diabetes, and stroke. 
+MEDICATIONS: Dilantin, insulin, Ceftriaxone, and Vancomycin. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as lethargic.  Tactile stimulation was performed.  
+DESCRIPTION OF THE RECORD: The background EEG is mildly disorganized with excessive amounts of beta activity.  The posterior dominant rhythm is poorly defined with a frequency, at best, of 7.5 Hz.  There is frequent sharply contoured theta seen from the left temporal region best seen at T3.  Stimulation of the patient seems to alter the record with increasing faster frequency.  
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Mild background slowing.
+Left temporal sharply contoured theta. 
+CLINICAL CORRELATION: This tracing supports a diffuse disturbance of cerebral function involving both gray and white matter.  Consideration for a partial mechanism for epilepsy is recommended.  Correlation with neuroimaging data would be valuable. 
+
+

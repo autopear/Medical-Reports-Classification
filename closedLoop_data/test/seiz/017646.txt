@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 54-year-old male with status epilepticus, status-post closed head injury.  Multiple hematomas.  
+MEDICATIONS: Ativan, Depakote, Dilantin, Propofol, and Phenobarbital. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and unresponsive.
+DESCRIPTION OF THE RECORD: The background EEG is diffusely low voltage and poorly organized.  With the Propofol IV drip and Phenobarbital, the previously seen bursts of spike and slow wave epileptiform discharges were no longer seen during this tracing. Periodic delta activity in the left hemisphere is somewhat subtly more involved than the right.  Near the end of the record, no physical seizures were recorded by the video during this period. 
+HR:  72 BPM.
+IMPRESSION: Abnormal EEG due to:
+Low voltage and diffusely slow record.
+Intermittent, periodic delta activity. 
+CLINICAL CORRELATION: This abnormal EEG demonstrates severe cerebral dysfunction, which may be due to postictal phase or late status pattern.
+
+

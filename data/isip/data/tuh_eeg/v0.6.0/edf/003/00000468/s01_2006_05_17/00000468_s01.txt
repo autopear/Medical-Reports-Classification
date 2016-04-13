@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 43-year-old male with seizures in sleep described as dizzy spells.  Wife has tonic-clonic seizures.  
+MEDICATIONS: None.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 9 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  In hyperventilation, which is performed early on in the record, there are high amplitude left anteriotemporal spike and slow wave complexes identified in the record, as well as independent bursts of right temporal spike and slow wave complexes.   Features of drowsiness include slow rolling eye movements.  Vertex waves, K complexes, and spindles are identified in stage II sleep.  Although there is some artifact in the background, epileptiform activity persists into stage II sleep.  
+Photic stimulation elicits bilateral driving. 
+HR:  70 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Independent, high amplitude left greater than right spike and slow wave complexes.
+CLINICAL CORRELATION: No seizures were recorded.  This EEG supports a localization-related mechanism for epilepsy.  Further evaluation may be warranted.  
+
+

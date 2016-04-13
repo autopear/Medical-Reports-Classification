@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 55 year old right handed woman with recent left coronary who had a stroke, history of hypertension, diabetes, Bell's palsy and an episode of confusion presents for a follow up EEG.
+MEDICATIONS:  ASA, Folic Acid, Pravachol, Plavix.
+REASON FOR STUDY:  History of a stroke and occipital access.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 system of electrode placement with anterior temporal single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures only included photic stimulation are performed.   
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 8 Hz which is reactive to eye opening.  There is some frontocentral beta seen.  The patient was recorded in wakefulness and drowsiness.  Photic stimulation produced no abnormal discharges.   
+ABNORMAL DISCHARGES:
+Focal slow waves seen frequently at F7/T3 at a frequency at 2-4 Hz with an amplitude of 20-60 microvolts.  
+Mild generalized slow waves at 5-7 Hz with an amplitude of 20-40 microvolts.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due: 
+Left arterial temporal slowing. 
+Mild generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left anterior temporal region with the addition of mild diffuse cerebral dysfunction, both of which are nonspecific with regards to the etiology.  No seizures or epileptiform discharges were clearly seen.
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  59 year old right handed female with an episode of lightheadedness and numbness followed by shaking, now with headaches and dyspnea if she stands or bends over too quickly.  She has a past medical history of hypertension and acid reflux.
+MEDICATIONS:  Keppra.
+REASON FOR STUDY:  Episodes of loss of consciousness.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and stage I/stage II sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 to 10 Hz and is reactive to eye opening.  There is a normal amount of frontocentral beta.  The patient goes into stage I/stage II sleep.  Activating procedures with photic stimulation and hyperventilation produce no abnormal discharges.  At times there are nice bursts of rhythmic mid-temporal theta of drowsiness seen throughout the recording but no abnormal discharges. 
+ABNORMAL DISCHARGES:    None. 
+SEIZURES:    None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 44-year-old male with dizziness and weakness in the right side, diabetes, hypertension, brain biopsy with CNS, Whipple’s disease, and seizures in the past, stroke with slurred speech and a left facial.
+MEDICATIONS: Ecotrin, Lipitor, Norvasc, Heparin, and others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat poorly organized.  While there is an 8.5 to 9 Hz, 30 V posterior dominant rhythm, there is occasional slowing identified in the occipital regions, background disorganization, and excess theta.  The patient also appears to be quite drowsy, intermittently drifting off to sleep and then spontaneously arousing.  In the transition to sleep, there are bursts of frontally predominant delta activity some of which are somewhat irregular. 
+Photic stimulation elicits symmetric, bilateral driving.
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing and disorganization.
+Posteriorly predominant intermittent slowing.
+CLINICAL CORRELATION: This tracing differs from a previous study, which was described as normal.  Consideration for a diffuse disturbance of cerebral function as well as perhaps involving the posterior regions is appropriate. No seizures were seen and no epileptiform features were seen. 
+
+

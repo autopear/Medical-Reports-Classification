@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 60-year-old woman with epilepsy, stroke, and head injury in childhood.
+MEDICATIONS: Dilantin, Zyprexa, Zoloft, Trazodone, Clonidine, and aspirin.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake through stage I sleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and low voltage.  There is 9 Hz, 50 V posterior dominant rhythm with excessive amounts of diffuse beta activity.  There is a questionable left temporal breach rhythm with intermittent focal theta slow activity.  Rare left temporal sharp waves with focal slowing is also identified.  Photic stimulation elicits driving.  
+HR:  54 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Left temporal breach rhythm with intermittent focal theta activity and left temporal sharp activity with focal slowing.  
+CLINICAL CORRELATION: The left temporal breach rhythm suggests skull defect. The left sharp activity with focal slowing suggests a partial mechanism of epilepsy in this patient. 
+
+

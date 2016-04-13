@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 18 year old right handed woman with recurrent seizures described as an hour of tingling and numbness in the right hand and feet.
+MEDICATIONS:  Dilantin
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures included hyperventilation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 to 10 Hz which is reactive to eye opening.  There is a mild amount of beta seen throughout the recording.  The patient is recorded in wakefulness and stage I and stage II sleep.  Activating procedures including hyperventilation produce no abnormal discharges.   
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION: Normal awake and asleep EEG.
+CLINICAL CORRELATION:   No seizures or epileptiform discharges were seen.
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  38 year old male with epilepsy since age 16-17, last seizure 3 weeks ago.
+MEDICATIONS:  Dilantin
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation  and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a low-voltage, 9 Hz posterior dominant rhythm which is symmetric and reactive to eye opening.  Photic stimulation elicits scant driving.  Hyperventilation does not activate the record.
+	HR: 	60 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  No focal nor epileptiform features are observed in this EEG.  Normal EEG does not exclude a diagnosis of epilepsy.  If indicated, a followup study with more extensive sleep may be helpful in characterizing epileptiform activity.
+
+

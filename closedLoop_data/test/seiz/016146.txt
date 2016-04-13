@@ -1,0 +1,10 @@
+CLINICAL HISTORY:   55 year old female with hypertension and  multiple seizures and high glucose
+MEDICATIONS:  Insulin, Lorazepam, Dilantin, Lovenox
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake, somewhat uncooperative and has thickly matted hair.
+DESCRIPTION OF THE RECORD:  The EEG provided includes a somewhat slow pattern with rhythmic theta and generous beta. The patient is awake and animated throughout the record. Brief drowsiness is characterized by an a decreasing motion and movement artifact and an increasing slowing. There are also bursts of rhythmic frontal delta and an increase in overall delta.
+	HR: 	84 bpm
+IMPRESSION:  Abnormal EEG due to:
+1.  Background slowing.
+CLINICAL CORRELATION:  No epileptiform features are observed. This EEG supports a diffuse disturbance of cerebral function.
+
+

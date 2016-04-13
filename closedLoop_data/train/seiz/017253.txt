@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 63-year-old male with a large left MCA infarct, recently presented in status epilepticus. 
+MEDICATIONS: Topiramate, Dilantin, Depakote, and many others.  
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is extubated, coughing, and responsive.
+DESCRIPTION OF THE RECORD: In wakefulness and drowsiness, the background EEG remains diffusely slow with a mixture of rhythmic delta and theta.  When the patient is uncomfortable and coughing, there is more beta and some bursts of frontally predominant delta.  There are occasional asymmetries noted in the record with either attenuation of the theta frequency activity from the left temporal region, or a bit slower delta on the left.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Superimposed occasional focal slowing on the left.  
+CLINICAL CORRELATION: Like the other two EEGs, this EEG again does not show epileptiform activity.  The background slowing seen in this record is not substantially different than the previous study.  
+
+

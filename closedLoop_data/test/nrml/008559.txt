@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 60 year old male with history of subdural hemor and a history of seizures recently noncompliant with medication.
+MEDICATIONS:  Versed, Fentanyl, Propofol, Dilantin, Keppra.
+REASON FOR EEG:  Seizures.
+INTRODUCTION:  Long-term digital video EEG monitoring was performed at bedside for 17 hours using standard 10-20 electrode placement system with additional EKG and anterior temporal lobe electrodes.  No activating procedures were performed.  Wakefulness and sleep were recorded.  Continuous spike wave detection software as well as seizure detection software in addition to notes from nurses were used to review this EEG.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF RECORD:  The record opens to a background which is best described as diffuse beta and theta frequencies.  When he wakes up it at best reaches a posterior dominant rhythm of 7.5 Hz.  Sleep architecture Stage I and Stage II are seen. No activating procedures were performed.
+ABNORMAL DISCHARGES:  Excessive theta in wakefulness, in addition to excessive beta seen diffusely throughout the recording.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:  
+Excessive theta in wakefulness. 
+Excessive beta.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  In addition, there is evidence of diffuse beta which is likely due at least in part to medication effect.  No seizures or epileptiform discharges were seen.  Please note that no episodes were reported of seizures in the recording.
+
+

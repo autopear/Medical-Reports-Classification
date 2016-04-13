@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Hyperthermia protocol.
+DURATION OF STUDY:  08/26/2013 to 08/27/2013 for a total of 16 hours.
+CLINICAL HISTORY:  
+MEDICATIONS:  Ativan Versed drip, Dilantin.
+INTRODUCTION:  A long term EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded while sedated and unresponsive.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  There are multiple electrode artifact occurring by 1 in the morning in the recording, actually starting earlier than that, specially at 01 and 02 which obscured the EEG.  In addition, there is almost continuous muscle artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely abnormal background with no normal posterior dominant rhythm or frontal central beta.  Overall there is only some muscle artifact seen, but no clear electrocerebral activity seen.  There is no variability or reactivity to the EEG that could be seen.  The patient is noted on video to have some movements which appears to be due to respiration, but no clear EEG correlate to them.  Overall the pattern gets obscured by muscle and the technical difficulty described above, but no clear seizures could be seen. 
+Heart rate 60.
+IMPRESSION:  Abnormal EEG due to lack of normal electrocerebral activity.
+CLINICAL CORRELATION:  This EEG reveals evidence of severe diffuse cerebral dysfunction, which is nonspecific with regards to etiology, but in this case due to the hypothermic protocol and sedation, may be at least due to this medication effect.  No clear seizures or epileptiform discharges were seen.
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 55-year-old woman admitted with Dilantin toxicity, ataxic gait.  This morning at 6:38 in the morning she had an episode of tonic-clonic posture lasting 1-2 minutes.  Past history of schizophrenia, syncope, as well as migraine headaches and seizures.
+MEDICATIONS:  Neurontin, Haldol, Cogentin, and Lovenox.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This EEG captured wakefulness through stage II sleep.  Photic stimulation was completed.  Hyperventilation was not possible.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is low voltage.  There is lambda activity, but no alpha rhythm was identified.  The patient had intermittent oral automatisms.  Abundant stage II sleep with vertex waves, K complexes, spindles, and POSTS were noted.   
+Involuntary movements, such as muscle 2 artifact were noted intermittently.   
+Photic stimulation elicited bilateral driving.   
+Heart rate 84 BPM.
+IMPRESSION:  This EEG is remarkable for:  
+A relatively hypersomnolent patient with abundant stage II sleep.  
+In limited wakefulness, a low-voltage pattern with lambda with no alpha rhythm.  
+Involuntary motor activity with oral automatisms without EEG correlate.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The low-voltage pattern described above is a nonspecific finding.  The apparent dyskinesias may reflect a side effect of this patient's medications.  If additional information is needed, a repeat tracing capturing deeper stages of sleep may be of value.
+
+

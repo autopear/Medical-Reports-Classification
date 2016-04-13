@@ -1,0 +1,8 @@
+CLINICAL HISTORY:  This is a 55-year-old man, who presents on 08/01/2013, for heart transplant.  Procedure was aborted due to cardiopulmonary arrest, status post PEA code for 10 minutes.
+MEDICATIONS:  Unknown.
+INTRODUCTION:  A digital video EEG was performed in ICU using the standard international 10-20 system of electrode placement in addition to 1 channel of EKG monitoring.  Hyperventilation and photic stimulation were not performed.  This tracing captures the patient in a comatose state.
+DESCRIPTION OF THE RECORD:  In the comatose state, there was seen diffuse attenuation of the background with intermittent ventilator artifact.  There was seen very low voltage 1.5 to 2 Hz delta frequency activity and occasional 3 Hz delta frequency of 3-5 microvolt amplitude.  There was seen a spontaneous variability.  No seizures or epileptiform activity was seen during this recording.  Heart rate was 100 to 120 beats per minutes.
+IMPRESSION:  This is an abnormal EEG recording capturing the patient in a comatose state due to diffuse slowing and attenuation of the background.  No seizures or epileptiform activity was seen during this recording.
+CLINICAL CORRELATION:  Diffuse slowing and attenuation of the background are suggestive of severe anoxic hypoxic encephalopathy, which is most likely in this patients.  Alternatively, it could be due to severe metabolic or infectious encephalopathy or due to the effect of medication or bilateral cerebral dysfunction.  In addition, diffuse attenuation could be seen in bilateral fluid collection in the extra-axial space or the overlying skull.  Clinical correlation is recommended.  No epileptiform abnormalities or seizures were captured.  This does not rule out the diagnosis of epilepsy or intermittent seizures.
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 66-year-old male with depression, anxiety, memory impairment and epilepsy.  The patient may confuse seizures with panic.  
+MEDICATIONS: Dilantin and many others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10 to 10.5 Hz, 40 to 50 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Hyperventilation is performed early on in the record, producing a small amount of slowing and a scant amount of shifting slowing.  Features of drowsiness include slow rolling eye movements and an increase in background theta.  POSTS are noted in sleep.  Vertex waves, K complexes, and spindles are noted in brief sleep.  Photic stimulation does not significantly activate the record.   
+HR:  72 BPM.
+	IMPRESSION: EEG within normal limits for a subject of this age in wakefulness through stage II sleep. 
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  It may be appropriate to compare these findings to previous EEGs.  
+
+

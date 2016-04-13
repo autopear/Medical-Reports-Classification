@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 47-year-old male with who fell out of bed, had loss of consciousness, and then a seizure. Patient received 2 mg of Ativan in the ER on the 9th and was agitated and shaky.  History of an intracranial hemorrhage in September 2005 and left encephalomalacia. 
+MEDICATIONS: Dilantin, thiamin, Depakote, Haldol.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is a 9 Hz posterior dominant rhythm.  There is intermittent focal slowing from the left hemisphere, particularly in the centrotemporal regions, which at times is sharply contoured.  In addition, on one or two occasions as the patient emerges from a drowsy stage, an alpha rhythm is identified, which is more vigorous on the right compared to the left.  Features of drowsiness include slow rolling eye movements.  Hyperventilation is performed with good effort, accentuating some of the slowing from the left, as well as a small degree from the right.  In the transition to drowsiness, there is occasional delta from the right as well as the left. Photic stimulation elicits a driving response with some shifting asymmetries, but essentially bilaterally.   
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Left centrotemporal irregular delta, at times sharply contoured. 
+	Asymmetric alpha rhythm with awakening with alpha identified earlier on the right.
+	Occasional slowing from the right hemisphere. 
+CLINICAL CORRELATION: This EEG supports a structural or functional abnormality on the left, which may be irritative in nature. There is also some occasional slowing from the contralateral centrotemporal region.  
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 49-year-old woman with Xanax and Ambien dependence, mental illness, narcotic dependence, chronic back pain, admitted with encephalopathy.
+MEDICATIONS:  Dilantin, Versed, others.
+INTRODUCTION:  A digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was wearing a face mask and initially poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates abundant features of stage 2 sleep with vertex waves, spindles and posts.  Stimulation of the patient produces an increase in theta.  The patient achieves an awake state for less than 30 seconds with a 9 Hz alpha rhythm before drifting off to sleep.   
+Heart rate 104 BPM.
+IMPRESSION:  Normal EEG primarily in sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features are noted.  The use of sedative/hypnotic medications may play a role in the hypersomnolence described above.
+
+

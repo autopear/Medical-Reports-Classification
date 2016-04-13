@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  49 year old right handed female with seizures since age 14, presents with refractory episodes, here for seizure classification.
+MEDICATIONS:  Keppra.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness.  Hyperventilation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9 to 10 Hz, which is reactive to eye opening.  There is an increased amount of beta activity seen diffusely throughout the EEG.  During the recording, the patient is recorded only during wakefulness.  The only activating procedure that is performed is hyperventilation, during which she has an episode which I will describe below. 
+ABNORMAL DISCHARGES:  None. 
+Events:  During this recording, while the patient was doing hyperventilation she suddenly stopped responding, started moving her throat and jerking her back and forth repeatedly.  At times she would move to the left and then to the right.  During this episode, the tech stimulated her feet and she would respond and at times appeared to follow commands, but would not verbalize.  The whole episode of unresponsiveness lasted some minutes, but with the clinical presentation lasted about 12 minutes.  During this recording, the EEG revealed prominent muscle artifact but a nice posterior dominant rhythm could be seen at times and normal EEG could be seen at times throughout the episode. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake EEG with an episode of unresponsiveness as described above with no EEG correlate.
+CLINICAL CORRELATION:  This EEG is diagnostic of a nonepileptic event, likely psychogenic in nature.  Otherwise this is a normal awake EEG and no seizures or epileptiform discharges were seen.
+
+

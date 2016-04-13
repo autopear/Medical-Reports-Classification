@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  73 year old right handed woman with new-onset seizures and end-stage renal disease on hemodialysis.
+MEDICATIONS:  Protonix, Hydralazine, Plavix, Metoprolol, ASA, Lipitor, Lisinopril.
+REASON FOR STUDY:  New-onset seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and drowsiness.  Photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that best reaches 7 Hz and which appears to be reactive to eye opening.  There is a lack of normal frontocentral beta.  No normal sleep architecture is seen.  Photic stimulation produces no abnormal discharges.  Throughout the recording, there appears to be diffuse generalized theta, 5 to 7 Hz discharge, that is intermixed with bursts of high-amplitude delta seen bilaterally with multiple sharp components throughout those discharges that last, at times, up to 30 to 40 seconds.  There is no clear evolution or change during these discharges.  The morphology is consistent with triphasic waves, but there are some intermixed sharp waves that we will discuss in "abnormal discharges" below.   
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen independently at F7/T3, as well as F8/T4, and at times FP2.  
+Bursts of generalized slow waves at 2 to 4 Hz with an amplitude of 20 to 50 microvolts.
+Triphasic waves. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Multifocal sharp waves. 
+Bursts of generalized slow waves. 
+Triphasics in the midst of moderate diffuse cerebral dysfunction.
+CLINICAL CORRELATION:  This EEG reveals evidence of multiple focal cerebral irritability and dysfunction, in addition to diffuse cerebral dysfunction which may be, at least in part, due to a metabolic derangement.  No seizures were seen.
+
+

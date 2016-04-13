@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 40-year-old woman with epilepsy, aneurysms, pancreatitis, pyelonephritis, severe headache following a seizure.  Her seizures involve the right upper extremity. She also has a history of head trauma.
+MEDICATIONS: Dilantin, Topamax, Dilaudid, Versed. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record in a lethargic patient.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates a 7 to 8 Hz posterior rhythm and a background overall, rich in theta frequency activity. There is a skull defect in the left frontal region and, in fact, there is prominent accentuation of beta activity from the frontal regions bilaterally, but more prominent on the left. There is occasional focal slowing from the left frontal region, and there are one or two bursts of shifting delta including the right posterior temporal region as well as the right mid-temporal region.  There are occasional bursts of frontally predominant delta as the patient becomes drowsy, left greater than right. 
+HR:  78 BPM.
+IMPRESSION: Abnormal EEG due to:
+		Prominent excess theta.
+		Occasional focal delta from the left frontotemporal region.
+		Occasional shifting arrhythmic delta activity seen from either hemisphere including the right mid and posterior temporal regions.
+CLINICAL CORRELATION: The breach rhythm is an anticipated finding following craniotomy and the focal features are primarily on the left in the region of the craniotomy.  There is no definite epileptiform activity. The generous background theta and the beta activity may be related to medications.  To further characterize this patient’s epileptiform activity, a follow-up EEG capturing deeper stages of sleep could be of use. No previous EEGs were available for comparison. 
+
+

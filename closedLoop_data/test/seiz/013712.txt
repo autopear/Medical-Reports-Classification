@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 35-year-old male with epilepsy following an MVA in 1991.  Patient can’t recall his last seizure or any of its features. 
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz posterior dominant rhythm with a generous amount of low voltage, frontocentral beta activity and a great deal of eye movement artifact.  Hyperventilation is performed early on in the record, producing an increase in background theta.  Drowsiness is characterized by an increase in background rhythmic theta and beta.  Deeper stages of sleep are not sustained. 
+Photic stimulation elicits brief bilateral driving.
+HR:  66 BPM.
+	IMPRESSION: EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION: No epileptiform features were identified in this record, and the overall background organization is within the limits of normal for a subject of this age.  To further characterize epileptiform activity in this patient, a repeat test capturing sleep may be helpful.  
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 65-year-old male admitted to MCP with hypoglycemic state, with a glucose of 40 to 50, failed to wake up. CSF showed WBCs but grew a skin contaminant.  Persistently unresponsive with clenching of the hands. 
+MEDICATIONS: Dilantin, antibiotics, Valium, and Valproate. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: The background EEG is continuous and includes a mixture of alpha and theta frequency activity.  There is an intermittent, frontally predominant periodic complex, which does not clearly localize, is maximum in the frontal regions, sometimes a bit more in the left or right frontal region.  It doesn’t evolve, and the periodicity is approximately one per 1.5 to 2 seconds.  The patient has irregular respirations and occasional clenching of the hands, as well as some other involuntary movements including oral facial movements, but the periodic complex doesn’t seem to have a relationship to that activity.  Stimulation of the patient produces an increase in faster frequency activity.  
+HR:  116 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Poorly localized, bifrontal irregular periodic activity.
+Generalized background slowing.
+CLINICAL CORRELATION: The PLEDS raise concerns about an underlying metabolic, post-anoxic, or hypoglycemic process. They don’t clearly evolve as in the case of an epileptiform discharge, but additional recording is warranted to make sure that there are no subclinical seizures.  The background slowing supports a severe, diffuse disturbance of cerebral function, but is non-specific.  
+
+

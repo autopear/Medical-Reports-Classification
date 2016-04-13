@@ -1,0 +1,19 @@
+REASON FOR STUDY:  Elective EMU admission to capture events.
+CLINICAL HISTORY:  A 53-year-old lady with a history of epilepsy of 17 years duration, last seizure was in February of 2013.  The seizures are characterized by loss of consciousness with shaking of the upper extremities and urinary incontinence.
+MEDICATIONS:  Depakote, Tegretol, phenobarbital.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+Wakefulness and sleep were captured.
+TECHNICAL PROBLEMS:  None.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a disorganized background.  The posterior dominant rhythm is in the theta range of 6 to 8 Hz frequency and 40 to 60 microvolts in amplitude which is symmetric and reactive to eye opening.
+Sleep is characterized by diffuse slowing into the delta range with high amplitude.
+EVENTS:  There were practice pushbuttons, but there were no patient events.
+ABNORMAL DISCHARGES:
+Diffusely slow background in the theta range.
+Shifting slowing with arrhythmic delta which is fairly sharply contoured.
+No epileptiform activity was noted. No seizures were captured.
+IMPRESSION:  This EEG is abnormal due to:
+Diffuse slowing in the theta range.
+Arrhythmic delta in both hemispheres occasionally sharply contoured.
+CLINICAL CORRELATION:  This EEG is suggestive of diffuse cerebral dysfunction which can either be toxic metabolic in etiology, or neurodegenerative or genetic forms of epilepsy.  There was no epileptogenic activity noted.  Clinical correlation recommended.
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 68-year-old, alcoholic male with a left occipital parietal stroke and status epilepticus.  
+MEDICATIONS: Ativan 10 mg, Heparin, Dilantin, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and poorly responsive.  
+DESCRIPTION OF THE RECORD: At the close of the record, the patient is a bit more arousable with a theta frequency background and generous low voltage beta.  During the initial portions of the record, however, the activity is lower voltage, slower primarily delta with muscle.  There are occasional right temporal sharp waves.  Stimulation of the patient clearly produces an arousal by EEG, although it is difficult to appreciate clinically. 
+HR:  100 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing. 
+Right temporal sharp waves.  
+
+

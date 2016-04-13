@@ -1,0 +1,13 @@
+CLINICAL HISTORY:   62 year old man with left sided hand tremor, here to rule out seizures.
+MEDICATIONS:  Metformin, Lopressor.
+REASON FOR STUDY:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  Marked movement artifact throughout the recording, as well as chewing and also glossokinetic artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 7.5 Hz with an amplitude of 20-60 mV.  There is some frontal central beta.  The posterior dominant rhythm does attenuate with eye opening.   No normal sleep architecture is seen or any sleep is seen.  No activating procedures were performed.  Again, this EEG is limited due to marked motion artifact, as well as chewing artifact, and glossokinetic artifact.   
+ABNORMAL DISCHARGES:  Generalized slow waves of 5-7 Hz with an amplitude of 20-70 mV. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Mild diffuse slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.   The patient was moving and having this tremor artifact during the recording seen on the video, but no epileptiform activity was recorded.
+
+

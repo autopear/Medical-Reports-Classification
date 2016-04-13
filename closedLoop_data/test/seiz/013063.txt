@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  48 year old right handed female with history of spinal meningitis in 1985 and 1987, COPD, and vertigo for a month and a half complaining of spinning around sensation that lasts for a couple of hours and comes back.  Also with mild numbness.
+MEDICATIONS:  None.
+REASON FOR STUDY:  Paresthesia.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures, including photic stimulation and hyperventilation, were performed.
+TECHNICAL DIFFICULTIES:  Some movement artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm, the average is 9 Hz which is reactive to eye opening.  There is an increased amount of beta seen diffusely. Activating procedures, including hyperventilation produces some generalized slowing and photic stimulation produces normal driving.  The patient is recorded in wakefulness and drowsiness. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and drowsy EEG.
+CLINICAL CORRELATION:  No seizure or epileptiform discharges were seen.
+
+

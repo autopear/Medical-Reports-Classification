@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  66 year old male from a nursing home with a history of a left occipital stroke for a followup study after recent status epilepticus.
+MEDICATIONS: Phenobarbital, Chlorhexidine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated.
+DESCRIPTION OF THE RECORD:  During the epoch, a severely suppressed rhythm is seen throughout with superimposed  bilateral muscle artifact.  The overall study is of low voltage.  Rarely in the record low voltage sharp waves in the right hemisphere are seen.
+HR:   84 bpm
+IMPRESSION:   Markedly abnormal EEG due to:
+	1. 	Severely suppressed background EEG.
+	2. 	Occasional rare low voltage right hemispheric sharp waves.
+CLINICAL CORRELATION:  This record is consistent with a Severe depressed background rhythm is consistent with a severe generalized brain pathology.  The low voltage sharp waves on the right are coming from the same region as where the patient initially had status epilepticus.  This right now is the focus for seizure disorder but no seizures were recorded on this record.
+
+

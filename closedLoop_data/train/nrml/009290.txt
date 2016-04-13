@@ -1,0 +1,15 @@
+REASON FOR STUDY:  Possible seizures.
+CLINICAL HISTORY:  This is a 73-year-old woman who presents with history of episodes of right hand and arm shaking for 5-10 seconds as well as left-sided shaking for the past 3 months.  She denies any clear loss of consciousness or Unresponsiveness.  Also has a past medical history of stroke in 2001 and hyperlipidemia.
+MEDICATIONS:  No antiepileptic medications.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep, stage I.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontal central beta.  The patient is recorded during wakefulness and stage I sleep.  Activating procedures produce no abnormal discharges. 
+Abnormal discharges:
+Focal sharp waves seen at F7/T3 frequently while in wakefulness and sleep.
+Focal slow waves seen frequently at F7/T3 at a frequency of 2-4 Hz and amplitude of 20-60 microvolts. 
+Seizures: None. 
+Heart rate: 72.
+IMPRESSION:  Abnormal EEG due to left anterior temporal sharp waves and slowing.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization related epilepsy with seizures likely arising from the left anterior temporal region.  In addition, there is evidence of focal cerebral dysfunction in the left anterior temporal region, which is nonspecific in regards to etiology.  No seizures were seen.
+
+

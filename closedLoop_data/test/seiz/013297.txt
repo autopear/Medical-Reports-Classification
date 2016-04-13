@@ -1,0 +1,13 @@
+LENGTH OF THE RECORDING:  Nearly 21 minutes.
+CLINICAL HISTORY:  The patient is a 48-year-old man with a past medical history of right hemispheric strokes with a result in left hemiparesis and spasticity with new seizure onset approximately 2 years ago.  The last seizure occurred approximately 5 months ago.
+CURRENT MEDICATIONS:  Keppra, aspirin, and others.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation was not performed.  Stepped photic stimulation was performed.
+DESCRIPTION OF THE RECORDING:  There is right to left interhemispheric asymmetry with slower waveforms at high amplitudes over the right hemisphere.  The posterior dominant rhythm over the left hemisphere consists of well-formed and modulated 10 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient over the left hemisphere.  The posterior dominant rhythm over the right hemisphere is unstable and reaches 9 Hz.  There is no clear anterior to posterior frequency amplitude gradient over the right hemisphere.  The background over the right hemisphere consists primarily of a mixture of polymorphic alpha, theta and delta activity.  Diffuse excess beta is observed.  During sleep the amount of beta decreases and __________ rhythm attenuates.  Hyperventilation is not performed.  Stepped photic stimulation results in  occipital driving over the left hemisphere.  There is no clear occipital driving over the right hemisphere.
+FINDINGS:  
+Continuous moderate right hemispheric slowing.  
+No occipital driving over the right. 
+No stage 2 sleep.
+Excess beta.
+IMPRESSION:  This is an abnormal awake and drowsy 21 minute EEG due to moderate continuous right hemispheric slowing and lack of occipital driving over the right occipital region.  These findings indicate focal cerebral dysfunction, likely structural in etiology and is consistent with the patient's history of right hemispheric strokes.  The excess beta could be secondary to a medication effect such as benzodiazepines or barbiturates.  The lack of epileptiform discharges on a routine EEG does not preclude a clinical diagnosis of epilepsy.
+
+

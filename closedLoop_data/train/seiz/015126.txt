@@ -1,0 +1,13 @@
+IDSTORY: 87 yr old female found on the floor by her daughter.  Phone was busy since the night before. In the ER, she had a generalized tonic clonic seizure.
+MEDICATION: Dilantin and Heparin.
+ACTIVATION: Photic Stimulation and Hyperventilation.
+INTRODUCTION: Digital Video EEG was performed using standard 10-20 system of electrode placement with one channel of EKG.
+DESCRIPTION OF  THE  RECORD: The background EEG is  unusual.   There  is an alpha rhythm  of  8.5  - 9.5  Hz.    The  alpha  rhythm  is  intermittently  disruptive  on  the  right  and intermittent right occipital temporal delta is seen.   In addition, there is a vertex wave seen at CZIFZIC4.  There is clearly delineated in stage II sleep but also can be picked up in wakefulness. Features of stage II sleep include a symmetric vertex wave, normal appearing vertex waves and abundant spindles.  Various montages were employed in an attempt to localize the epileptiform activity.
+HR.: 96BPM.
+IMPRESSION: Abnormal EEG due to:
+1.   Right occipital delta
+	2. 	Spike and slow wave activity which is very close to midline but seems to phase reverse to
+the right of the midline
+CLINICAL CORRELATION: This EEG supports a structural or functional abnormality on the right.  Consideration for a localization related mechanism for epilepsy is appropriate.
+
+

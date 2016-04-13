@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 64-year-old male with epilepsy since childhood.  Patient admitted after two seizures. 
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is continuous, but disorganized  and diffusely slow.  The normal posterior dominant alpha rhythm is difficult to identify.  There is an excessive amount of beta activity.  Occasionally, independent right greater than left temporal sharp activity is seen.  Significant muscle artifact was seen in this low voltage EEG.
+Photic stimulation did not activate the record. Deeper stages of sleep were not achieved.
+HR: 96 BPM, with frequent PVCs.
+	IMPRESSION: Abnormal EEG due to:
+Disorganized and slow background.
+Independent right > left temporal sharp waves. 
+CLINICAL CORRELATION:   Supportive of a partial mechanism for epilepsy.  In view of the artifact, consider either comparing to priors or repeating.  Background slowing is non-specific and may be due to post-ictal state. 
+
+

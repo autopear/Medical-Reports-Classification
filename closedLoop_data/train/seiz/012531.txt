@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  58 year old right handed man with oral cavity cancer admitted for surgery on February 12th with periods of agitation and confusion.
+MEDICATIONS:  Methadone, Seroquel, Clonazepam, Heparin, Motrin, Protonix, Metoprolol, ASA.
+REASON FOR STUDY:  Confusion.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with an additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely low posterior dominant rhythm which at best reaches 7 Hz during limited wakefulness.  The majority of the recording is recorded during sleep, stage I and stage II.  There is a decreased amount of normal frontocentral beta within the limited wakefulness.  No activating procedures were performed.
+ABNORMAL DISCHARGES:  Generalized slow waves at 5-7 Hz with an amplitude of 20-60 microvolts seen during wakefulness.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slowing during wakefulness.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  However, in this case it may be due at least in part to medication effect.  No seizures or epileptiform discharges were seen.
+
+

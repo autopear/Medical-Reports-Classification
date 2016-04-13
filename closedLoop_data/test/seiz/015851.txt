@@ -1,0 +1,18 @@
+CLINICAL IDSTORY: This is a 71-year-old woman with continuing confusion with improving right-sided wealmess.
+MEDICATIONS: Tegretol, Dilantin, Ativan.
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intem1ittently confused, but is more awake and interactive.
+DESCRIPTION OF THE RECORD: The background EEG continues to show a very abnormal pattern with high amplitude poly spike activity, which is periodic at times and at times builds up with faster frequency activity. This activity has unclear clinical correlates.  No clinical  seizures are recognized, but the patient remains somewhat confused.   Of note, as this  24-hom epoch passes, the activity on the left becomes increasingly rich in faster frequency activity and the PLEDs begin to become less prominent.     As the patient dtifts off to sleep,  the epileptifom1 activity at tin1es attenuates, but at other times, particularly at 14:16, the activity  is a bit more prominent.  As the recording continues in this 24-hour section of the record, the patient is at times confused, but by the midnight hours, the PLEDs from the left have shown a significant improvement. The patient discontinued the EKG lead at this time.
+Long-Term /Yionitoring, January 11, 2007 to January 12, 2007
+DESCRIPTION OF THE  RECORD:  After the patient 's turbulent night the night before with removal of electrodes, the teclmologist comes, reboots the system, readjusts the electrodes, and the  left  temporal  PLED-like  activity  is  once  again seen.    The  PLED-like  activity  is  still polyphasic in nature, but no longer builds up and at times as few as three are seen in a ten second period. The patient is increasingly active and is sometimes out of bed to chair.   At this time, despite a fair amount of muscle and movement activity, the left hemispheric PLEDs with a generous field of spread in the left antetiotemporal and frontotemporal regions is identified. Overall, particularly  in sleep, the PLED-like activi ty continues to slow although it still has a polyphasic  component  with  a  generous  field  of  spread,  left  frontotemporal/frontocentral. Features of sleep include marked background slowing.
+DESCRIPTION  OF  THE  RECORD: No  clinical  seizures   are  reported.     The  patient  1s increasingly  awake,  alert,  animated  and  out  of  bed  to  chair.     The  overall  background   is increasingly richer in faster frequency.  Despi te this, when the patient is not moving about, these high amplitude, poly spike left frontotemporal PLED-like discharges are still identified, as well as atThythrnic delta from the left.  As the patient drifts off to sleep, the high amplitude discharges are again  quite prominent.    As she wakes  up, there is a dramatic  decrease in the PLEDs  and the overall  background  is  again  richer  with  much more  prominent  theta  throughout  much  of the record.
+HR:  60-96 BPM.
+IM    PRESSION: Continuous video EEG monitoring is remarkable for:
+1.   In the initial studies, left PLEDs with bursts of activity, waxing and waning.
+2.   Prominent arrhythmic del ta and PLEDs throughout the record.
+3.   An  incongruity   with  marked  improvement   in  this  patient's   mental   status   despite   the appearance of PLEDs.
+	C 	LINICAL
+CORRELATION:  This  EEG  is  supportive  of  a  resolving   or  postictal  status
+epilepticus  in the context  of a highly  irritative  brain.   This patient's  previous craniotomy  may accentuate the epileptiform  activity.
+	
+
+

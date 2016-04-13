@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 70 year old right handed woman with complex partial epilepsy. 
+MEDICATIONS: Dilantin, Fosamax, Advair, Singular
+ 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation was performed. 
+This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximal wakefulness, the background EEG is somewhat slow with an alpha rhythm of 8 Hz and a small amount of 7 Hz activity. In the transition to sleep there is some shifting arrhythmic delta activity, particularly in the temporal regions. This is somewhat sharply contoured. Deeper stages of sleep are not sustained. Photic stimulation elicits scant driving. During photic stimulation, there is some wicket activity, but there are also 3 sharp waves noted from the left temporal region in between the flash stimuli. 
+HR: 66 bpm. 
+IMPRESSION: Abnormal EEG due to: 
+1. Mild excess theta. 
+2. Mild background slowing. 
+3. Rare left temporal sharp waves. 
+CLINICAL CORRELATION: The background slowing supports a diffuse disturbance of cerebral function. Medications may play a role in the pattern described above. The sharp waves support a localization related mechanism for epilepsy. 
+ 
+
+

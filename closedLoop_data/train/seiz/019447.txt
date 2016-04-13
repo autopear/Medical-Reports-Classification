@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 61-year-old male with a right temporal metastasis status-post resection and radiation, now with a confusional spell. 
+MEDICATIONS: Oxycodone, Dilantin, and Klonopin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  The patient is awake and somewhat cooperative.  
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow and poorly organized with a posterior dominant rhythm which can be identified and is approximately 7 Hz bilaterally. There is a right temporal breach identified.  On occasion, there is arrhythmic delta activity from the right temporal region, but there are also occasional bursts of bilateral arrhythmic delta.  Features of drowsiness include an increase in background slowing and vertex waves.  Rare, left anterior temporal sharp waves are identified in sleep.  In sleep, there is an occasional attenuation of the background.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized slowing and poor organization.
+Arrhythmic delta, much more prominent on the right than the left. 
+Rare left temporal sharp waves. 
+CLINICAL CORRELATION: In this context, consideration for either a bitemporal process or projection of an epileptiform discharge from right to left would be appropriate.  Correlation with neuroimaging may be valuable. 
+
+

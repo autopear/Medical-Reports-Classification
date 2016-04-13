@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 39-year-old woman with three tonic-clonic seizures beginning with an aura of feeling unwell with tongue biting and postictal confusion.  Family history negative for epilepsy.  
+MEDICATIONS: Dilantin
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10 Hz, 40 to 50 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  There is some subtle frontal eye flutter artifact noted bilaterally.  Features of drowsiness include disruption of the alpha rhythm with some bilateral frontal theta and slow rolling eye movements.  
+Hyperventilation does not clearly activate the record.  
+Photic stimulation produces abnormalities in this EEG, which are interesting.  The patient starts out feeling uncomfortable with photic stimulation and has eye flutter at 1 Hz.  At 3 Hz, she may still have eye flutter, but at 5 Hz she doesn’t seem to be having eye flutter, although there is 5 Hz rhythmic activity in the front most compatible with eye flutter, although none can be seen suggesting that this may actually be entrainment of the EEG.  Following the 9 Hz photic stimulation, but not during it, the first of three bursts of frontally predominant spike and slow wave discharges are identified.  The bursts are relatively symmetric, frontally predominant.  The first one has a poly spike component and ranges in frequency from 7 Hz to more typically 3.5 Hz with a burst duration of 1.5 seconds.  The patient is not aware of somatic symptoms in association with these brief bursts and they are not long enough for testing to be performed.  All three bursts occur in between photic stimuli.  The duration time between the end of photic stimulation and the bursts is 4 seconds on one occasion, on the second 7 seconds, and on the third again 7 seconds.    
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Frontally predominant spike and slow wave activity.
+CLINICAL CORRELATION: Typically, a photoparoxysmal response occurs during stimulation.  The patient reported that she has never had these findings before, but did not think that she previously had photic stimulation. In that two of them seemed to have occurred seven seconds after photic stimulation, perhaps there is an unusual link with the photic stimulation and the discharge.  
+
+

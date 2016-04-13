@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a young man with a one to two-year history of substance abuse and recent tonic-clonic seizures in association with drug ingestion.  Status-post Dilantin load last night, somewhat ataxic today. No history of febrile convulsions, and family history negative for epilepsy. No developmental abnormalities. 
+MEDICATIONS: Dilantin, benzodiazepines.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a symmetric, reactive 11 Hz alpha rhythm of 40 to 60 uV with a generous amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements, with vertex waves and spindles seen in stage II sleep.  Hyperventilation is performed with good effort, producing an increase in the amplitude of the background.  Photic stimulation elicits driving at faster flash frequencies. 
+HR:  78 BPM.
+	IMPRESSION: Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  If epilepsy is an important consideration, a repeat study with more prolonged sleep may be valuable.  Individuals with reactive seizures may have normal EEGs.
+
+

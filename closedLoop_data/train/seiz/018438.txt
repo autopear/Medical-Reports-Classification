@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 56-year-old female with new onset right-sided weakness.  She has preexisting epilepsy.  
+MEDICATIONS: Dilantin, Klonopin, others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. No previous EEGs were available for comparison.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.5 Hz, 40 to 50 V alpha rhythm, which is symmetric and reactive to eye opening.  There is generous  background beta.  As the patient becomes drowsy, there is rhythmic 6 Hz activity identified in the right occipital region.  This is followed by sharply contoured sharp waves, some of which are positive waves in the occipital region.  These are picked up at O1 and O2, but are maximal at O2.  Some of them have polyspike component.  With the use of an average reference and Cz montage, they seem to be positive at O2.  They are occasionally maximal at O1.   They are associated with posterior slowing (theta/ delta).
+Hyperventilation does not significantly effect the record. Photic stimulation elicits driving bilaterally.  
+HR:  42 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Unusual right occipital sharp waves, surface positive rather than negative activity but associated with occipital and temporal slowing.  
+CLINICAL CORRELATION: This tracing supports a localization of focal epilepsy.  Correlation with history and imaging may be of use. 
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 4-year-old female who remains intubated and poorly responsive.
+MEDICATIONS: Dilantin, Acyclovir, and Solumedrol. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and poorly responsive.  
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with a mixture of slow, 0.5 to 2.25 delta activity with smaller amounts of theta.  The overall background is symmetric.   Stimulation of the patient produces some artifact, but no clear alerting.  There is some variability in the record, with some portions of the record richer in 4 Hz activity than others.  Some portions of the record are richer in theta and other portions are richer in slow delta.  
+HR:  108 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Severe slowing of the background with absence of typical sleep wave forms and absence of reactivity to stimuli. 
+	 
+CLINICAL CORRELATION: The tech observed a mouth movement during the EEG.  This isn’t observable on the video, but in any case no epileptiform features were seen.  Compared to this patient’s previous record 7/2/04, this pattern represents an improvement. 
+
+

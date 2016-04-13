@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Episode of confusion.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+MEDICATIONS:  Lovenox.
+CLINICAL HISTORY:  This is a 48-year-old man with a history of posterior headache and disorientation, became lightheaded and collapsed with confusion for 5-7 minutes.  No tongue biting or urinary incontinence.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF RECORD:  The record opens to a well-defined posterior rhythm and a rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontal central beta.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.  The patient was recorded in wakefulness and sleep stage I and stage II.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+HEART RATE:  66.
+IMPRESSION:  Normal awake and asleep electroencephalogram.
+CLINICAL CORRELATION:  This is a normal awake and asleep EEG.  No seizures or epileptiform discharges were clearly seen.
+
+

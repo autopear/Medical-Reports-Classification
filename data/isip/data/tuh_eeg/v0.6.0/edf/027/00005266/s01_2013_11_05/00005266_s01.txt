@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 65-year-old lady, who presents with history of change in mental status.
+PAST MEDICAL HISTORY:  Significant for hypertension, diabetes, dementia, and syncope.
+MEDICATIONS:  Metformin, lisinopril, insulin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm is 9 Hz in frequency, 20-40 microvolts in amplitude seen in the occipital region, which attenuates with eye opening.  There is a small amount of low amplitude frontocentral beta activity, which is distributed symmetrically.  Drowsiness is characterized by disappearance of the posterior dominant rhythm, slowing of the background, and absence of muscle and eye blink artifact.  During drowsiness, there are intermittent bursts of frontal intermittent delta activity (FIRDA) seen with a frequency of 1.2-2 Hz and an amplitude of 70-80 microvolt lasting for 1-3 seconds.  Heart rate is 80 beats per minute and regular.
+IMPRESSION:  This is an abnormal EEG recording due to the presence of FIRDA bursts during sleep.
+CLINICAL CORRELATION:  FIRDA burst could be due to increased intracranial pressure, metabolic- Toxic abnormalities, or a deep midline lesion in the brain or degenerative brain disease.  No epileptiform abnormalities are identified in this record.  No seizures are captured.  This does not rule out the diagnosis of epilepsy or intermittent seizures.  If clinically indicated, a repeat EEG or continuous bedside EEG monitoring may be helpful.
+
+

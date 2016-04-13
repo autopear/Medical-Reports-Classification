@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 20-year-old woman with a 2 month history of epilepsy (nocturnal seizures with tongue biting and postictal drowsiness) and a past history of migraines.
+MEDICATIONS:  Lamictal, Topamax, Elavil, Benadryl, Naprosyn.
+INTRODUCTION:  Digital video EEG was performed in the laboratory using the standard 10-20 System of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there was a well-formed alpha rhythm of 10.5 Hz.  Nearly continuous focal slowing was noted in the left hemisphere, particularly in the left temporal region.  The background is disrupted by some rhythmic theta and delta, and there is disruption of faster frequency activity.  In addition, there are intermittent bursts of rhythmic temporal theta.  Left temporal sharp waves were noted, often occurring in pairs, sometimes relatively discrete, noted in wakefulness and in the transition to drowsiness.  Hyperventilation was performed early in the record and appeared to accentuate focal slowing and sharp waves.  Features of drowsiness included hypersynchronous, rhythmic slowing.  Sleep was not sustained.  Photic stimulation elicited scant driving.  Heart rate was 96 bpm.
+IMPRESSION:  This is an abnormal EEG due to: 
+Focal slowing from the left temporal region, which becomes nearly continuous in relaxed wakefulness or drowsiness.
+Left temporal sharp waves.
+Left temporal rhythmic theta/delta.
+CLINICAL CORRELATION:  This EEG is quite characteristic of the pattern expected in left temporal lobe epilepsy, with focal sharp waves and rhythmic theta.  No seizures were recorded.
+
+

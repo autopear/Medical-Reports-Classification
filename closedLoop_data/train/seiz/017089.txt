@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 41-year-old male with right hemisphere previous Astrocytoma.Patient was admitted with recurrent seizures. 
+MEDICATIONS: Dilantin, Phenobarbital, Baclofen, Heparin, and Pantoprazole. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation and hyperventilation were not performed.  The patient is lethargic during the recording.  Prior to the start of the EEG recording, the patient was experiencing seizures
+DESCRIPTION OF THE RECORD: As the EEG begins, the patient is having a seizure characterized by right temporal continuous spike and waves and lasted for 20 seconds.  The second seizure was noted at 15:13 and also showed continuous right temporal spike and waves.  It ended at 15:16.  The third one was seen at 15:19 and ended at 15:23.  The fourth one occurred at 15:25 and ended at 15:27.  All the seizures were not associated the clinical changes in the patient, as seen in the video recording.  When the patient was not seizing, the background EEG was low voltage with a generous amount of beta activity.  Frequently, slow theta and delta activity was seen in the right temporal lobe. In sleep, while the patient was snoring, centrally predominant spindles were well correlated with the patient snoring.  Beta activity was more clearly evident in the left hemisphere.  
+HR:  80 BPM.
+IMPRESSION: Abnormal EEG due to:
+Recurrent seizures from the right temporal region.
+Low voltage tracing with more beta activity in the left hemisphere. 
+CLINICAL CORRELATION: This abnormal EEG demonstrated four seizures without clinical seizure activity. Increasing beta activity in the left hemisphere may be due to medication such as Phenobarbital.  Decreased beta activity as well as slow activity and continuous spikes in the right
+hemisphere suggests a pathological finding related to epilepsy. This tracing also suggests that the patient is in non-convulsive status-epilepticus.
+
+

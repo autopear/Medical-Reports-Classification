@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 71-year-old female with HTN, DM, afib with left parietal hemorrhage and right arm shaking.
+MEDICATIONS: Dilantin and Labetalol. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is somnolent in some portions of the record.  Even when the patient is awake, she is not interactive with the technologist.  
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is a 10.5 Hz, 50 to 70 uV alpha rhythm identified bilaterally.  In wakefulness, there is a clear intrahemispheric asymmetry with arrhythmic delta and theta in the left hemisphere.  There is intermittent disruption of the alpha rhythm and as the patient becomes even the slightest bit drowsy, there is a clear focus of sharply contoured delta activity with a phase reversal at T5.  At times, this demonstrates a slow periodicity seen approximately once every four seconds.  
+HR:  140 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Marked disruption of faster frequency activity from the left with arrhythmic theta and delta.
+T5 sharp waves.  
+CLINICAL CORRELATION: NOT DICTATED.
+Additional EEG Recording 10:47 AM
+DESCRIPTION OF THE RECORD: This section of the EEG demonstrates arrhythmic delta from the left hemisphere with a 10.5 Hz posterior dominant rhythm.  The right hemisphere is essentially normal.  There are portions of the awake record where there is clear disruption of the alpha on the left and a more marked pattern of lower voltage theta and delta from the right. 
+
+

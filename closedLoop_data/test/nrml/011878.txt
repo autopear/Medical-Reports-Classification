@@ -1,0 +1,12 @@
+.
+CLINICAL HISTORY:  A 61-year-old woman with HIV, COPD, shortness of breath, DKA, pneumonia with acute change in mental status, patient looking to the left, increasing rigid.
+MEDICATIONS:  Flagyl, Haldol, vancomycin, Dilantin.
+INTRODUCTION:  Digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated and on a warming blanket.
+DESCRIPTION OF THE RECORD:  The background EEG includes a mixed frequency background with generous theta, smaller amounts of alpha and delta.  There are some shifting asymmetries and the activity tends to be slower in the left midtemporal region and the right posterior region.  Occasional frontal delta is observed.  Rare spontaneous eye movements were noted.  Some sections of the record demonstrate a bit more in the way of eye movement and frontal fast activity.   
+Heart rate 153 bpm.
+IMPRESSION:  This is a markedly abnormal, but improved EEG:
+Marked background slowing.
+Shifting slowing with slowing noted in the left temporal region and right posterior region.
+CLINICAL CORRELATION:  This EEG is markedly improved compared to a previous study which demonstrated discontinuity and more significant left focal slowing.  It continues to support a severe bihemispheric process.  If epilepsy is an important consideration, a followup study when the patient is out of the ICU may be of value.
+
+

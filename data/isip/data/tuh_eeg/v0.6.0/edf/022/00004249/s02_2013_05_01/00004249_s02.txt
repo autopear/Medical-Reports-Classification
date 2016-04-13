@@ -1,0 +1,12 @@
+LENGTH OF EEG:  28 minutes.
+CLINICAL HISTORY:  The patient is a 31-year-old woman, history of migraine headaches for about 3 years.  The patient also has unspecified attacks in the patient occurring every 2-3 weeks.
+MEDICATIONS:  Gabapentin.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2  electrodes and a single EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well formed and modulated low to moderate amplitude 11-1/2 Hz alpha activity that __________ opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During drowsiness, posterior dominant rhythm attenuates, bursts of theta observed, as well as RMTV (rhythmic mid temporal theta drowsiness) are captured.  Occasional bursts of polymorphic beta activity is observed over the left temporal region.  Hyperventilation produces no significant change in the background.  Photic stimulation results in symmetric driving with multiple __________ frequencies.
+FINDINGS:  
+Occasional mild left temporal slowing.
+No abnormal epileptiform  discharges.
+No seizures seen.
+IMPRESSION:  This is a mildly abnormal awake and drowsy 28 minute EEG due to occasional mild left temporal slowing.  This finding indicates focal cerebral dysfunction, possible structural etiology.  No epileptiform discharges were captured, however, patient's sleep was not recorded. If clinical indication for seizures persist, a repeat study with stage II sleep may be of benefit.
+
+

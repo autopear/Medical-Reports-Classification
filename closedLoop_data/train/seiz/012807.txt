@@ -1,0 +1,12 @@
+`CLINICAL HISTORY:  60 year old right handed male with previous anoxic insults, seizures with previous left temporal sharp waves noted, now with right carotid stenosis.
+MEDICATIONS:  Aspirin, Lisinopril, Dilantin, Risperdal, Lipitor, ASA, Metformin, Lovenox
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was not performed, but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  From the right hemisphere, the EEG is pretty well organized with a 9 Hz posterior dominant rhythm.  There are occasional bursts of slowing from the right.  The left hemisphere demonstrates a more consistent, rhythmic slowing with disruption of the alpha rhythm on the left.  There is some sharply contoured slowing which may be seen at T3, left midtemporal or P3.  Features of drowsiness include attenuation of the alpha rhythm with vertex waves. Photic stimulation elicits a driving response bilaterally. 
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Rhythmic slowing in the left hemisphere with a generous field of spread.
+Disruption of faster frequency activity on the left.
+CLINICAL CORRELATION:  This EEG is most supportive of a process in the left hemisphere involving both gray and white matter.  The findings are more extensive than 
+one would expect for a left subcortical stroke and may be related to his previous neurological pathology.
+
+

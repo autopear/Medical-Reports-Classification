@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 22-year-old, right-handed woman with rheumatoid arthritis, new abnormal MRI changes and two seizures at an outside hospital.  
+MEDICATIONS: Dilantin, Heparin, Prednisone, and HCTZ.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation is deferred in light of the patient’s plural effusions.  Photic stimulation is performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is well organized with a 10.4 Hz, 40 to 60 V posterior dominant rhythm.  In the posterior head regions, there is subtle focal slowing with occasional theta or delta activity identified in the posterior temporal/occipital regions, slightly more prominent on the right than the left.   Features of drowsiness include anterior spread of the alpha rhythm followed by arrhythmic central theta. Deeper stages of sleep are not sustained.   Photic stimulation elicits brief bilateral driving.  
+HR:  56 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+	1.	 Subtle focal slowing from the posterior regions bilaterally.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The focal features are seen in the region of this patient’s MRI abnormalities.  If further characterization of this patient’s epileptiform focus is important, a repeat study with sleep could be helpful. 
+
+

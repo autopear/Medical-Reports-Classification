@@ -1,0 +1,12 @@
+.
+REASON FOR STUDY:  Seizure.
+CLINICAL HISTORY:  This is a 43-year-old woman who presents with a history of onset history of seizures at age 32.  Seizure free for 4 to 5 months and then sudden episode of loss of consciousness with a fall, lasting 15 minutes and postictal confusion.
+TECHNICAL DIFFICULTIES:  None.
+MEDICATIONS:  No medications.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep stage I.  Activating procedures included hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded in wakefulness and sleep stage I.  Activating procedures produces no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges were seen.
+
+

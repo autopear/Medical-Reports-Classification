@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  42 year old man with a history of seizures who now presents with depressed mental status concerning for nonconvulsive status epilepticus.
+MEDICATIONS:  Dilantin, Phenobarbital, Vancomycin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  During maximal wakefulness and with stimulation, the background consists of moderate amplitude polymorphic slow delta activity admixed with occasional theta.  No normal sleep architecture is present; however, sleep spindle-like complexes are present diffusely.  Additionally, during the periods of no stimulation, the background activity decreases in amplitude, delta activity becomes less pronounces and theta and beta activity predominate.  Hyperventilation and photic stimulation are not performed.  No clear epileptiform discharges are present. 
+A single EKG lead demonstrates tachycardia at about 120 beats per minute.
+FINDINGS:  
+Moderate diffuse slowing.
+No epileptiform discharges.
+Tachycardia.
+IMPRESSION/CLINICAL CORRELATION:  This is a very abnormal approximately 23-minute EEG due to moderate diffuse slowing.  This finding indicates a nonspecific cerebral dysfunction of a moderate degree.  The lack of epileptiform discharges on the routine EKG does not preclude a clinical diagnosis of epilepsy.  Tachycardia is noted on a single EKG lead.
+
+

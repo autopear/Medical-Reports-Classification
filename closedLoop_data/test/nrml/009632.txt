@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 48-year-old male with hypertension, renal failure, diabetes.  Past history of MVA while intoxicated, admitted in early March with right subdural hematoma requiring right craniectomy.  The patient experienced 1 seizure since discharge from the hospital.  This is a repeat EEG.
+MEDICATIONS:  Dilantin, isosorbide, Norvasc, gabapentin, lisinopril, many others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed, but hyperventilation was deferred.  A right craniotomy defect was noted.
+DESCRIPTION OF THE RECORD:  In relaxed wakefulness, the background EEG is low-to-medium amplitude with a 6 Hz alpha rhythm which is a bit more prominent on the right than the left.  Bursts of shifting slowing were noted with sharply contoured delta with a broad field of spread in the right temporal region, but also right central parietal region.  Features of drowsiness include an increase in background slowing.  As the patient drifts off to sleep, snore artifact was noted and snoring functioned as an arousal for this individual.  Following snoring, the patient was waking up with an actually a faster alpha rhythm of 7.5 Hz.   
+Photic stimulation did not significantly active the record. 
+Heart rate 90 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing with slowing of the alpha rhythm. 
+Shifting slowing. 
+Focal slowing in the right hemisphere which may be maximum at T4, the right parietal region or right temporal region.
+Breach rhythm.
+CLINICAL CORRELATION:  The background slowing is a nonspecific findings which can be seen in diffuse disturbance of cerebral function which may include significant head trauma, renal failure or other metabolic issues. This patient appears to be excessively sleepy and in fact, snoring produced an alerting response for this individual. Evaluation of this patient's neuro anatomy as well as other causes for hypersomnolence with important, given the prominent snore arousals. In comparison to the March 20, 2013, EEG, the focal slowing from the right has improved.
+
+

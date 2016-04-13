@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Status post PEA code.
+CLINICAL HISTORY:  This is a 74-year-old woman status post cardiac arrest with no initial CPR administered and then intubated by EMS with a past medical history of hypertension.  This is a follow-up EEG to the one on the 17th for anoxic brain injury status post VFib.
+MEDICATIONS:  Depakote and Versed.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  Patient was recorded while unresponsive.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely suppressed background with intermixed anteromaximal spike and wave which occur in bursts of 3 at a frequency of 1 Hz continuously throughout the recording.  There is no normal posterior dominant rhythm, no normal frontocentral beta or sleep architecture.  During each one of these bursts there is a time-locked EMG artifact consistent with a jerk in her jaw.
+ABNORMAL DISCHARGES:  As described above.  Anterior predominant generalized spike and wave occurring in bursts of 3 spikes at times at a frequency of 1 Hz intermixed with complete suppression of the EEG.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to anterior predominant spike and wave with intermittent suppression.
+HEART RATE:  72, and appears to have an AV block.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cortical dysfunction and irritability, and the intermittent generalized spike and wave with the associated jerks are consistent with myoclonus.  This seen in the setting of hypoxic injury forebodes a poor prognosis.  No seizures were seen.
+
+

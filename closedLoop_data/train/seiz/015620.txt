@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 71-year-old woman with change in mental status, meningoencephalitis, convulsions, diabetes, hypertension, and cholesterol.
+MEDICATIONS: Acyclovir, Ativan, Haldol, Dilantin, insulin.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as somnolent. 
+DESCRIPTION OF THE RECORD: The patient is asleep throughout the majority of the record.  In the sleep state, the background EEG is low voltage, diffusely slow.  With stimulation, the patient has spontaneous eye opening, arouses briefly for a minute or so with an increase in both alpha and theta frequency activity.  Unfortunately, additional attempts at arousal are not recorded. 
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG primarily in drowsiness and sleep due to:
+	1.	Low voltage, generalized slowing.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  In that the question is a toxic or metabolic encephalopathy versus a meningoencephalitis, a follow-up study with additional testing to assess the patient’s background in wakefulness would be of use.  
+
+

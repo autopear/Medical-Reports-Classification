@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 41-year-old male with epilepsy with a rare history of auras characterized by a funny feeling, but no major seizures in many, many years; ongoing gingival hyperplasia.  
+MEDICATIONS: Dilantin 430 mg per day.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10 Hz, 30 uV posterior dominant rhythm.  Drowsiness is characterized by slow rolling eye movements, with an increase in beta. On rare occasions, in drowsiness, there is a little bit of slowing in the left anteriotemporal region, but these are simply isolated bursts.  Photic stimulation elicits scant driving. Hyperventilation produces a small increase in the amplitude of the background.  
+HR:  90 BPM.
+	IMPRESSION: Very minimally abnormal EEG due to:
+	1.	Rare bursts of slowing from the left temporal region.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The rare bursts of slowing are of unclear significance.  These findings may be compared to previous studies.  
+
+

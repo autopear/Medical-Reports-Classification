@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a __-year-old male admitted with the diagnosis of status epilepticus on December 1, but awake and alert by December 2. Patient found shaking for 20 minutes, received Ativan, Dilantin, Versed, Vecuronium, and others. 
+MEDICATIONS: see above
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake and somewhat agitated.
+DESCRIPTION OF THE RECORD: As the tracing opens, the background EEG is continuous, low voltage, with beta activity and a suggestion of an underlying alpha rhythm in this very low voltage record with a fair amount of muscle and movement artifact.  The patient is responsive with eye opening and eye closure, but overall a very low voltage beta frequency pattern with the suggestion of a 9 Hz posterior dominant rhythm. Towards the close of the record, the patient is increasingly awake and alert, again, with primarily a low voltage beta pattern.  
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Excess background beta and a low voltage pattern. 
+CLINICAL CORRELATION: The background beta may be due to this patient’s medications.  In that this individual was in recent status epilepticus, a repeat EEG in search of epileptiform activity may be of use.   
+
+

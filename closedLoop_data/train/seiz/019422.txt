@@ -1,0 +1,16 @@
+CLINICAL HISTORY: This is a 72-year-old woman with an underlying psychiatric illness with recurrent loss of consciousness and a history of breast cancer and stroke.  
+MEDICATIONS: Dilantin, Ativan, Heparin, and others.  
+INTRODUCTION: Digital video EEG is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. The patient pushes the button for many spells.  In addition, she also tends to hold the button in her hand.
+DESCRIPTION OF EVENTS: In the first 24-hours, the patient has an event on an almost hourly basis while awake.  The events are similar.  She is sitting in the bed, she pushes the button, and then leans back with her eyes closed.  Sometimes she has one hand up and the other hand out.  Sometimes she answers questions and at other times she does not.  Occasionally, when she appears to be unresponsive, the monitor shows that she is repeatedly pushing the button.  Although there is some artifact for these events, when there is no artifact, all events are characterized by a normal awake EEG.  
+RANDOM WAKEFULNESS AND SLEEP:  In wakefulness, the background EEG is well organized with a 10 Hz posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Vertex waves, K complexes, spindles, and POSTS are identified in stage II sleep. 
+Long-Term Monitoring 04/10/04 - 04/11/04
+INTRODUCTION: The patient has multiple spells during this section of the recording. 
+DESCRIPTION OF THE RECORD:  This section of the record is identical to the previous day.  When the patient is awake, she has multiple events, which are again identified.  She is sitting in the bed, pushes the button, and the EEG demonstrates a normal awake pattern.  At times, she seems somewhat nervous and seems to hold the button in her hand, pushing it repeatedly.  There is a pause on Saturday night.  Her last push button is at 16:31 and she doesn’t have another one until 23:33.  During some of these events, she is not able to talk very briefly and answers questions by nodding her head back and forth.  Occasionally, the nurses engage her and that seems to end the spell. 
+RANDOM WAKEFULNESS AND SLEEP: In wakefulness, the background EEG demonstrates a symmetric, reactive posterior dominant rhythm.  Sleep is characterized by vertex waves, K complexes and spindles. 
+HR:  84 BPM.
+	IMPRESSION: 48-hour EEG monitoring for this patient was remarkable for: 
+	1.	Many behavioral spells without EEG change. 
+	
+CLINICAL CORRELATION: The behaviors that this patient experiences do not appear to be seizures, and neither the EEG nor the clinical criteria are typical for seizures.  In addition, the interictal EEG was normal.  
+
+

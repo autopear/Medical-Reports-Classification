@@ -1,0 +1,12 @@
+CLINICAL  HISTORY: This is a 61-year-old, right-handed woman with stroke and post-stroke seizures. Patient admitted 48-hours  ago following two tonic-clonic seizures lasting five minutes- previously seizure-free. CVA in 1980.
+MEDICATIONS: Dilantin, Ativan, Zetia.
+INTRODUCTION:  Digital  video EEG is performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes an
+8 Hz posterior dominant rhythm, which is better developed on the left compared to the right.  There is an intrahemispheric asymmetry with more arrhythmic delta activity from the right hemisphere, particularly the frontocentral and frontotemporal regions.  There is also generous beta activity in the right frontal region.  There is occasional FIRDA noted bilaterally.  Other features of drowsiness include bursts of generalized delta.
+HR:  78 BPM.
+IMPRESSION: Abnormal EEG due to:
+1.    Marked  slowing  from  the  right  hemisphere  with  disruption  of  faster  frequency activity throughout much of the hemisphere, although with generous frontal beta.
+2.   Mild background slowing from the left.
+CLINICAL CORRELATION: No epileptiform features were identified in this record. The prominent arrhythmic delta activity is a non-specific finding for an individual of this age.
+
+

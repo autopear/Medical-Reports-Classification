@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 77-year-old male with a history of seizures and previous stroke admitted with status epilepticus and impaired responsiveness.  
+MEDICATIONS: Ativan, Lasix, Etomadate, SUX, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ED using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated, initially somewhat agitated, and poorly responsive.  There is significant ED artifact identified.  
+DESCRIPTION OF THE RECORD: The initial portions of the record are remarkable for a fair amount of muscle and other ICU artifact.  The overall pattern is low voltage and when the movement and muscle artifact is eliminated, there is very little remaining of the EEG.  In the interpretable portions of the record, however, both eye movement artifact and occasional left anterior temporal sharp waves, as well as sharply contoured theta activity is seen.  Throughout this record, the patient is responsive, demonstrating spontaneous and purposeful movements.  By 18:51, the background muscle has dropped out and frequent left anterior temporal sharp waves can be identified, which are of medium amplitude with a generous field of spread including the left frontal and frontotemporal regions.  Stimulation of the patient at that time again produces additional muscle artifact.  
+HR:  66 BPM.
+	IMPRESSION: Technically challenging, but abnormal EEG due to:
+Abnormal background with primarily a low voltage beta pattern.
+Frequent left anterior temporal sharp waves identified in the valuable portions of the recording.
+CLINICAL CORRELATION: This tracing supports a partial or localization-related mechanism for epilepsy.  No seizures were recorded.  Both clinically and by EEG there is no evidence of status epilepticus in this record.  These results were communicated to the clinical team on the 22nd. 
+
+

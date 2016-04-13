@@ -1,0 +1,17 @@
+CLINICAL HISTORY: This is a 52-year-old woman with subarachnoid hemorrhage, ventriculostomy, increased ICP. 
+MEDICATIONS: Pentobarbital, Dilantin, Decadron, Nimodipine.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: As the record begins, the background is very low voltage with background beta activity.  There is some very slow delta artifact picked up in the frontal leads and in the left temporal leads.  Stimulation of the patient does not produce a change in the EEG.  The overall record is very low voltage and as time goes on becomes increasingly featureless with this very low voltage slow delta activity in the frontal regions.  Upon reviewing the EEG with the double-distance electrodes, it raises the possibility of some very slow, underlying delta versus artifact.  Stimulation of the patient does not activate the record, although there is some artifact picked up as the nurse works with the record.  
+HR: 84 BPM.
+IMPRESSION: Abnormal EEG due to:
+	Marked paucity of cerebral activity. 
+CLINICAL CORRELATION: In the first 24-hours, the EEG is more clearly suppressed and in the very last two hours, there is a question of two islands of cerebral activity versus artifact.  In any case, the overall pattern is more of an overall suppressed pattern than a burst suppression pattern.  No epileptiform features or seizures were recorded. 
+Long-Term EEG Monitoring – June 9, 2006
+INTRODUCTION: Continuous video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. By report, this EEG recording was requested for ICP monitoring. This is a two-hour EEG recording.
+DESCRIPTION OF THE RECORD: There is no definite background cerebral activity.  The EEG is reviewed with a sensitivity of 2 Hz.  There may be some very slow delta picked up in the right central region and left temporal region versus other artifact.  A family member at the bedside provides some stimulation at 16:45.  There is some artifact picked up as the family member touches the bed, but no alteration in the record.  
+HR:  80 BPM.
+	IMPRESSION: This is a technically suboptimal EEG, but is abnormal due to: 
+	1.	Paucity of cerebral activity.
+CLINICAL CORRELATION: These findings may be seen in the setting of anesthetic doses of sedative hypnotic drugs as is the case with a barbiturate coma or with severe CNS injury.  There may be very subtle underlying cerebral activity seen in the left temporal and right central regions, and the use of an average reference might be helpful to tease this out from the background ICU and EKG artifacts.  
+
+

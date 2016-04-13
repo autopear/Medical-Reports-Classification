@@ -1,0 +1,11 @@
+REASON FOR STUDY:  Memory loss.
+CLINICAL HISTORY:  This is a 45-year-old woman with recent loss and headache with a previous history of open heart surgery.
+MEDICATIONS:  Aspirin, and other medications.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the additional anterior temporal and  single lead EKG electrode.  The patient was recorded only during wakefulness.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  There is frequent T4 artifact for the first half of the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal amount of frontocentral beta.  Activating procedures included photic stimulation and produced no abnormal discharges.  The patient was recorded only in wakefulness, but sleep was attempted.
+ABNORMAL DISCHARGES:  None.
+IMPRESSION:  Normal awake EEG.
+CLINICAL CORRELATION:  This is a normal awake EEG.  No seizures or epileptiform discharges were seen.  Please note that this EEG was only captured in wakefulness.  If the concern for epilepsy remains a repeat EEG with capturing deeper stages of sleep may help in confirming your diagnosis.
+
+

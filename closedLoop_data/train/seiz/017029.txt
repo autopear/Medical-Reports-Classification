@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 50-year-old female with epilepsy for the past three years who presents with left facial twitching and a burning feeling on the left side of the body. 
+MEDICATIONS: Dilantin, Norvasc, others. 
+INTRODUCTION: Digital video EEG is performed in the or at the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9 Hz, 20 V posterior dominant rhythm.  The patient has a transition in and out of drowsiness on multiple occasions. Features in that transition include bursts of rhythmic, frontally predominant delta activity, as well as an increase in background beta with attenuation of the alpha rhythm.  There are brief portions of the record with features of stage II sleep, which is fragmented and not sustained.  Features include vertex waves and spindles followed by arousal.  
+Hyperventilation is performed with good effort and does not significantly activate the record.  Photic stimulation is associated with a photoelectric effect, but no clear driving. Temporal wicket in the transition in and out of sleep from the left is seen.   
+HR:  84 BPM.
+	IMPRESSION: EEG within normal limits in wakefulness through stage II sleep.
+CLINICAL CORRELATION: No definite focal or epileptiform features were identified in this record.  If further characterization of this patient’s epilepsy is important, a more prolonged study capturing her spells may be of use.
+
+

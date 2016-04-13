@@ -23,6 +23,7 @@ from sklearn import metrics
 from sklearn.cluster import KMeans, MiniBatchKMeans
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import MultinomialNB
+from sklearn import cross_validation
 
 # import other modules
 #
@@ -69,7 +70,7 @@ op.add_option("--verbose",
 
 #------------------------------------------------------------------------------
 #
-# Load Data
+# Load Training Data
 #
 #------------------------------------------------------------------------------
 
@@ -79,58 +80,39 @@ op.add_option("--verbose",
 #  the highest level is given by the directories named after the categories
 #  the lower level contains the files (names of files are irrelevant).
 #
-print(">> loading data into memory...");
-container_path = "/home/tud22978/_projects/CIS5538-Project/test_data";
-dataset = load_files(container_path);
+print(">> loading training data into memory...");
 
-print("   %d documents" % len(dataset.data));
-print("   %d categories" % len(dataset.target_names));
+container_path_train = \
+    "/home/tud22978/_projects/CIS5538-Project/closedLoop_data/train";
+dataset_train = load_files(container_path_train);
 
-labels = dataset.target;
+print("   %d documents" % len(dataset_train.data));
+print("   %d categories" % len(dataset_train.target_names));
 
-# Split data into training and testing sets
-#
-docs_train, docs_test, y_train, y_test = train_test_split(
-    dataset.data, dataset.target, test_size=0.5);
+labels = dataset_train.target;
+
+
+#X_train, X_test, y_train, y_test = cross_validation.train_test_split(
+#    dataset_train.data, dataset_train.target, test_size=0.5, random_state=0)
 
 print()
 #------------------------------------------------------------------------------
 #
-# Feature Extraction
+# Training Feature Extraction
 #
 #------------------------------------------------------------------------------
 
-# Extract the TF-IDF features from the dataset
+# Extract the TF-IDF features from the training dataset
 #
-print(">> Extracting TF-IDF features...");
+print(">> Extracting training TF-IDF features...");
 t0 = time()
-vectorizer = TfidfVectorizer(max_df=0.5, max_features=3,
+vectorizer = TfidfVectorizer(max_df=0.5, max_features=1000,
                              min_df=2, stop_words='english',
                              use_idf=True, encoding='latin-1')
-X = vectorizer.fit_transform(dataset.data)
+X = vectorizer.fit_transform(dataset_train.data)
 
 print("   done in %fs" % (time() - t0));
 print("   n_samples: %d, n_features: %d" % X.shape)
-
-# Reduce the dimensionality of the features with LSA
-#
-#print(">> Reducing Dimensionality with LSA...")
-#t0 = time()
-#svd = TruncatedSVD(1000)
-#normalizer = Normalizer(copy=False)
-#lsa = make_pipeline(svd, normalizer)
-
-#X = lsa.fit_transform(X)
-
-#[n_samples, n_features] = X.shape
-
-#print("   done in %fs" % (time() - t0))
-
-#explained_variance = svd.explained_variance_ratio_.sum()
-#print("   Explained variance of the SVD step: {}%".format(
-#        int(explained_variance * 100)))
-
-#print();
 
 #------------------------------------------------------------------------------
 #
@@ -138,18 +120,61 @@ print("   n_samples: %d, n_features: %d" % X.shape)
 #
 #------------------------------------------------------------------------------
 
-classifier = MultinomialNB().fit(X, dataset.target)
+print(">> training classifier...");
 
-docs_new = ['patient experimenced a seizure', 'there were no seizure events']
-vectorizer = TfidfVectorizer(max_df=1, max_features=10000,
-                        min_df=1, stop_words='english',
-                        use_idf=True, encoding='latin-1')
+classifier = MultinomialNB().fit(X, dataset_train.target)
 
-X_new = vectorizer.fit_transform(docs_new)
+#------------------------------------------------------------------------------
+#
+# Load Testing Data
+#
+#------------------------------------------------------------------------------
 
-print("   n_samples: %d, n_features: %d" % X_new.shape)
+# define data directory
+#
+# The samples are assumed to be stored at two level folder structure
+#  the highest level is given by the directories named after the categories
+#  the lower level contains the files (names of files are irrelevant).
+#
+print(">> loading testing data into memory...");
 
-predicted = classifier.predict(X_new)
+container_path_test = \
+    "/home/tud22978/_projects/CIS5538-Project/closedLoop_data/test";
+dataset_test = load_files(container_path_test);
 
-for doc, category in zip(docs_new, predicted):
-    print('%r => %s' % (doc, dataset.target_names[category]))
+print("   %d documents" % len(dataset_test.data));
+
+print()
+
+#------------------------------------------------------------------------------
+#
+# Testing Feature Extraction
+#
+#------------------------------------------------------------------------------
+
+# Extract the TF-IDF features from the training dataset
+#
+print(">> Extracting testing TF-IDF features...");
+t0 = time()
+vectorizer = TfidfVectorizer(max_df=0.5, max_features=1000,
+                             min_df=2, stop_words='english',
+                             use_idf=True, encoding='latin-1')
+X_t = vectorizer.fit_transform(dataset_test.data)
+
+print("   done in %fs" % (time() - t0));
+print("   n_samples: %d, n_features: %d" % X_t.shape)
+
+#------------------------------------------------------------------------------
+#
+# Evaluation
+#
+#------------------------------------------------------------------------------
+
+predicted = classifier.predict(X_t)
+
+for doc, category in zip(dataset_test.filenames, predicted):
+    print('%r => %s' % (doc, dataset_train.target_names[category]))
+
+score = classifier.score(X_t, dataset_test.target)
+
+print("   score: %d" % score)

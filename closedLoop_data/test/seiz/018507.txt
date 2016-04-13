@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 64-year-old male with hypertension, epilepsy, alcohol abuse with a change in mental status, hospitalized for seizures a year ago.  
+MEDICATIONS: Aspirin, Dilantin, Remeron.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: The overall EEG is low voltage.  There are portions of the record where a low voltage, 9.5 Hz, 50 V posterior dominant rhythm is identified with a small amount of low voltage, frontocentral beta activity.  In apparent wakefulness, there is a modest amount of diffuse background theta. Drowsiness is characterized by slow rolling eye movements.  
+HR:  90 BPM.
+	IMPRESSION: Mildly abnormal EEG for a subject of this age due to:
+	1.	Excess background theta.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The excess background theta is a non-specific finding and may be due to medication effect or another diffuse disorder of cerebral function.  If further characterization of this patient’s epilepsy is an important consideration, a follow-up study or comparison with previous EEGs could be useful.  No prior EEGs were available for comparison at this time.  
+
+

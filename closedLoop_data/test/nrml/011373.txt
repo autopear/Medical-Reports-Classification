@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 40 year old right handed male with chronic epilepsy, multiple suicide attempts, last seizure 1 month ago. 
+
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a low voltage, relatively tense appearing EEG with significant temporalis muscle artifact. Hyperventilation is performed with good effort producing a small increase in amplitude of the background. Deeper stages of sleep are not achieved. Photic stimulation elicits driving response. 
+HR: 60 to 70 bpm 
+IMPRESSION: Normal EEG in wakefulness and brief drowsiness. 
+CLINICAL CORRELATION: No focal nor epileptiform features are observed. If epilepsy is an important consideration, please consider repeat study in the lab capturing deeper stages of sleep. 
+
+
+

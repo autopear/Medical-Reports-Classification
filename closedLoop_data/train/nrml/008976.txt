@@ -1,0 +1,12 @@
+CLINICAL HISTORY:   29 year old male with mental retardation and cerebral palsy, admitted with Dilantin toxicity and change in mental status.
+MEDICATIONS:  Keppra, Lovenox, Protonix, Heparin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  The EEG is poorly organized.  There is a mixture of frontal beta and background theta.  There is little in the way of a well defined alpha rhythm. 
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Excess beta.
+Background slowing.
+Paucity of normal awake wave forms.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The profound Dilantin toxicity may play a role in the background slowing.  It may be appropriate to repeat an EEG when his level is back in range.
+
+

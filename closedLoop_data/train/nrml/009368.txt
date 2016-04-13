@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  44 year old woman status post possible anoxic injury.
+MEDICATIONS:  Unasyn, Lorazepam, Lovenox, Famotidine, Atorvastatin, Keppra
+REASON FOR STUDY:  Follow up possible anoxic injury.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness only.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  The patient continues to have movement and eye movement artifact throughout the recording and does not stop despite attempts by a technician to do so.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is normal amount of frontal central beta.  The patient is recorded during wakefulness.  Activating procedures, which was only photic stimulation, produces no abnormal discharges.
+ABNORMAL DISCHARGES:   None
+SEIZURES:  None
+IMPRESSION:  Normal awake EEG.
+CLINICAL CORRELATION:   This EEG is very much improved than the previous one.  No normal stages of sleep, however, were captured.
+
+

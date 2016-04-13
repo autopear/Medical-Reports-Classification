@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  52 year old right handed woman with history of seizures and she has been seizure free for 19 years and migraines that presents with an episode of vomiting and dizziness as well as feeling unsteady.
+MEDICATIONS:  Meclizine
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures including photic stimulation were performed and hyperventilation as well.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is an increased amount of frontocentral beta.  Activating procedures including photic stimulation and hyperventilation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.
+
+

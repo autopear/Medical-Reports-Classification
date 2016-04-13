@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 50-year-old male with epilepsy, alcohol abuse, stroke, and hypertension who presented to Episcopal with recurrent seizures requiring Ativan and Dilantin. 
+MEDICATIONS: 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake record in a patient who is somewhat uncooperative. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates wakefulness and drowsiness.  There are brief portions of the record when the patient has his eyes opened with a low voltage beta frequency pattern.  Other portions of the record demonstrate a pattern rich in alpha and theta frequency activity, with a posterior dominant rhythm of approximately 8 Hz.  There is some head rocking artifact as the study continues. 
+ 
+HR:  __ BPM.
+	IMPRESSION: Abnormal EEG due to:
+Mild slowing of the background rhythm to 8 Hz.
+Excess background beta. 
+CLINICAL CORRELATION: No epileptiform features were seen in this record.  Comparison with this patient’s previous EEGs would be helpful in terms of the search for epileptiform activity.  The mild background slowing may be due to a postictal state or medication effect.  The excess beta is likely due to the benzodiazepine exposure. 
+
+

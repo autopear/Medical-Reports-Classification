@@ -1,0 +1,13 @@
+REASON FOR EEG:  Altered mental status.
+CLINICAL HISTORY:  This patient is a 64-year-old man with a history of altered mental status after possible baclofen overdose and code for a few minutes after which noted to have myoclonic jerks.  Repeat EEG for altered mental status.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A routine EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded while unresponsive.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  There were some multiple artifacts at the beginning of the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no clearly discernible posterior dominant rhythm and there appears to be some diffuse beta seen intermittently. There was also no clear normal sleep architecture.  In essence, the background appears to be a suppressed background with intermittent generalized slow waves at 2-4 Hz and amplitude of 20-50 microvolts. The EEG does demonstrate some variability. Once the patient was stimulated there was no clear response to the stimulation. There also appears to be intermittent eye movements seen throughout the recording.
+SEIZURES:  None.
+ABNORMAL DISCHARGES:  Generalized slow waves at 2-4 Hz and amplitude of 20-30 microvolts seen intermittently throughout the recording in addition to mainly suppressed EEG with some intermittent overlying beta.
+HEART RATE:  108 with intermittent PVCs.
+IMPRESSION:  Abnormal electroencephalogram due to mainly suppressed background with intermittent delta with some variability.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  The variability seen on the EEG along with the wave forms is not consistent with a brain death.  No seizures or epileptiform discharges were seen.
+
+

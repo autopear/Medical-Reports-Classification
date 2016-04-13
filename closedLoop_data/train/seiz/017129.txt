@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 69-year-old nursing home resident admitted for multiple episodes of generalized tonic-clonic seizures with prolonged lethargy now with aspiration pneumonia and on a ventilator.  History of dementia and seizures.  
+MEDICATIONS: Dilantin, Phenobarbital, Neurontin, and Fentanyl patch.  
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is intubated and cannot follow commands. 
+DESCRIPTION OF THE RECORD: The background EEG is disorganized and diffusely slow, which is intermittently suppressed.  Independent PLEDS from either hemisphere with multifocal spike and sharp waves were seen.  Occasionally, these independent PLEDS can be increased with stimulation.  Rare jerks in the arms or legs were observed on the video without EEG change.  Occasionally, the suppressed pattern and increased PLEDS were followed by stimulation.  
+HR: 102 BPM.
+IMPRESSION:  Abnormal EEG due to:
+	Disorganized background with diffuse slowing, which is intermittently suppressed.
+	Independent PLEDS from either hemisphere with multifocal sharp activity.
+	Pathological responses to stimulation by increased suppression or PLEDS.
+CLINICAL CORRELATION: This tracing supports a severe disturbance of cerebral function. This pattern can be seen in patients with severe encephalopathy due to metabolic, infectious, or medication effect. It can also be seen with a structural lesion involving the cortical and white matter or due to a neurodegenerative process or postictal pattern. A repeat EEG is recommended. 
+
+

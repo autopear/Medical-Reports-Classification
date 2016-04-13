@@ -1,0 +1,11 @@
+LENGTH OF THE EEG:  23 minutes.
+CLINICAL HISTORY:  The patient is a 44-year-old woman with a history of seizures since 2004.  The patient reports that she has staring spells that last approximately 10 to 15 minutes, up to 1/2 hour, some are associated with bladder incontinence.  The episodes have become more frequent as of recently.  The patient had 2 such events in the last month.
+CURRENT MEDICATIONS:  Dilantin.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm consists of a well-formed and modulated moderate amplitude 10 Hz activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During drowsiness symmetric vertex waves are captured.  Hyperventilation is performed with good effort and produces no significant change in the background.  Stepped photic stimulation results in symmetrical occipital driving at multiple flash frequencies.
+FINDINGS:  
+No epileptiform discharges. 
+No stage II sleep.
+IMPRESSION:  This is a normal awake and drowsy 23 minute EEG.  No epileptiform discharges were captured, however, stage II sleep was not recorded.  If clinical indication for seizures persist a repeat study with stage II sleep may be of benefit.
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  53 year old woman with a long history of epilepsy and medication nonadherence, the patient had an increase in seizures yesterday and returned today. Behaviors in the emergency room were strongly suggestive of nonepileptic seizures and she received Ativan and Haldol.
+MEDICATIONS:  Haldol, Valium, Dilantin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is poorly interactive with the clinical team during the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a pattern rich in beta and smaller amounts of theta.  When the patient is cooperative, an alpha rhythm can be identified.  The patient is moving about and much of the record includes muscle motion artifact.  In addition to an 8 Hz alpha rhythm, there is excess 7-8 Hz activity noted in the background.  Intermittent, high amplitude left anterior temporal spike and slow wave complexes are noted and are not associated with a change in the patient's function.  In addition, there is intermittent left anterior temporal focal slowing.          
+When unstimulated, the patient drifts off to sleep.  Occasional bilateral frontal sharp waves, but with a maximum of 7, are noted.  During later section to the record, the patient is stimulated.  With stimulation the patient demonstrates eye opening and eye closure.  The patient is able to nod answers to questions and to move her arms but does not interact appropriately.  As the physician interviews the patient, the patient has a behavioral event characterized by head tremulousness and stuttering.  No epileptiform features are associated with this behavior and in fact the epileptiform activity is not present at that time.  As the physician continues to examine the patient, she demonstrates tremulousness of the chest, she speaks and moves about.  The EEG at that time demonstrates a relatively awake pattern, although the alpha rhythm is somewhat slow at 7 to 8 Hz.  At the end of the record, the technologist chats with the patient giving her instructions.  The EEG at that time demonstrates a somewhat slow but awake pattern. 
+HR:    100 bpm
+IMPRESSION:  Abnormal EEG due to: 
+High amplitude left anterior temporal sharp waves. 
+Small excess background theta. 
+Left temporal focal slowing associated with the sharp waves. 
+Behaviors which were not associated with epileptiform activity.  In addition, the characteristics of the behaviors were more compatible with nonepileptic seizures.   
+CLINICAL CORRELATION:  These findings were discussed with the CRC and the emergency room team at the time of the study.
+
+

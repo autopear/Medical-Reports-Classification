@@ -1,0 +1,14 @@
+CLINICAL HISTORY: 46 year old woman with past medical history of seizures since childhood, possibly secondary to lead poisoning. Last seizure was 2 days ago. Description was staring episodes. 
+MEDICATIONS: Dilantin, Keppra 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 electrode placement with 1 channel EKG. Hyperventilation and photic stimulation performed. 
+DESCRIPTION OF THE RECORD: The overall background is generally slow. TIRDA is seen on the right hemisphere. In the right hemisphere, multiple sharp and spike waves are seen, sometimes at T6 and 02. Sharp waves are seen with a large field of spread through the hemisphere. At other times, there are discrete spike waves, sometimes at T 4, sometimes at T2. At times there are trains or bursts of slowing and sharp waves seen in that right hemisphere. Very rarely, there is a burst of sharp waves and slowing seen in that left hemisphere. Hyperventilation does not activate the record. Photic stimulation does not cause any driving.
+ 
+HR: 96 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized slowing of the background. 
+2. Sharp and spike waves seen in the right hemisphere, sometimes with a large field of spread coming from T6 or 02 and other times seen focally at mid temporal or anterior temporal regions. 
+3. Rare bursts of slow and sharp waves seen in the left hemisphere, specifically in the temporal region. 
+4. TIRDA in the right hemisphere. 
+CLINICAL CORRELATION: There is extensive epileptiform activity, most consistently in the right hemisphere, but with large field of spread, it is difficult to note whether it is coming specifically just from the temporal region or also right occipital originating sharp waves. The right sharp waves are a focus for epilepsy. 
+
+

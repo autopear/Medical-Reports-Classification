@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  25 year old right handed woman with episodic vertigo and otitis, no seizures.
+MEDICATIONS:  Fioricet.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.  This was an awake through stage I sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  Posterior slow waves of youth are noted.  Features of drowsiness include anterior spread of alpha and some rhythmic frontal theta. Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicits minimal driving.  
+HR:    62 bpm
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal nor epileptiform features are identified in this record.  If this patient's paroxysmal vertigo is thought to be epileptiform in nature, a follow-up study capturing one of her spells is suggested.
+
+

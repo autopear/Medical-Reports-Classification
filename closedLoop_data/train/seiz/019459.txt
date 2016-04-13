@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 48-year-old woman with epilepsy, last seizure five days ago.  Onset of seizures at age 4.  Patient experiences numbness on the right side of the head for one minute then loss of consciousness, drops to the ground with generalized shaking lasting five minutes, and postictal confusion.  
+MEDICATIONS: Dilantin and Topamax.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 9 Hz, 40 uV posterior dominant rhythm with a modest amount of low voltage, frontocentral beta activity.  Photic stimulation is performed early on in the record and produces a small degree of bilateral driving.  Following this, the patient becomes drowsy, with an increased in background theta and a small degree of disorganization of the background as well as POSTS. 
+Stage II sleep is characterized by vertex waves and spindles.  Snore artifact is seen with brief arousals from sleep.  
+HR:  64 BPM.
+	IMPRESSION: Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  
+
+

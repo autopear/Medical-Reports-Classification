@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 61-year-old woman with recurrent loss of consciousness with confusion.  Patient diagnosed with new onset seizures on March 17.
+MEDICATIONS: Dilantin.   
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric with a reactive 9 Hz alpha rhythm of 40 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Brief drowsiness is characterized by attenuation of the alpha rhythm.  Vertex waves are seen in stage I sleep.  Hyperventilation is characterized by some head rocking artifact, but no true focal slowing.  
+Photic stimulation is remarkable primarily for a photoelectric artifact.  
+HR:  56 BPM.
+	IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record. If epilepsy is an important consideration, a follow-up study capturing deeper stages of sleep may be valuable.  
+
+

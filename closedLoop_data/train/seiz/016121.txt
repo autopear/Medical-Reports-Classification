@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 58-year-old woman seizure-free for 30 years with a single seizure three years ago.  
+MEDICATIONS: Phenobarbital and Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a symmetric, 10 Hz, 40 to 50 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by an increase in background beta. Deeper stages of sleep are not sustained.  Hyperventilation is performed with good effort and produces both an increase in amplitude, as well as a handful of bursts of asynchronous slowing.  Photic stimulation elicits brief bilateral driving including at slower flash frequencies.  LAMBDA was identified in quiet wakefulness.
+HR:  66 BPM.
+	IMPRESSION: EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The occasional, slightly asynchronous bursts seen in hyperventilation are classically described as within the limits of normal for a subject of this age.  Previous EEGs were not available for comparison. 
+
+

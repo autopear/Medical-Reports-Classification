@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 17-year-old male with developmental delay, born post-date with possible hernia anoxia with subsequent stroke age four, chronic static encephalopathy, behavioral problems, and refractory epilepsy with multiple different seizure types.  
+MEDICATIONS: Depakote.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The EKG is uninterpretable because of the patient’s motions. The patient is poorly cooperative.  No seizures were identified. 
+DESCRIPTION OF THE RECORD: The background EEG is abnormal, poorly organized.  Intermittently, in the background, there is rhythmic 5 to 6 Hz theta activity, which can be seen independently in the right or left centrotemporal regions.  The video is reviewed and although these seem to develop in bursts, there is no behavioral change in association with his behavior.  Spike and slow wave and sharp and slow wave complexes are identified from multiple loci including O1, T2/F8, and occasionally T1 and C3.  
+There is occasional occipitally predominant sharply contoured activity without a definitive sharp wave seen in this record.  Photic stimulation does not activate the record.  
+HR:  __ BPM.
+	IMPRESSION: Abnormal EEG due to:
+Markedly abnormal background. 
+Rhythmic, paroxysmal theta from the right or left centrotemporal region without clear clinical correlate.
+Multifocal sharp waves, but with the most prominent focus being left occipital. 
+CLINICAL CORRELATION: This tracing supports a diffuse disturbance of cerebral function.  Recording this patient’s seizures may be helpful in determining which of these abnormalities contributes the most to his epilepsy.  
+
+

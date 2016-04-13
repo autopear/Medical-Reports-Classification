@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  68 year old right handed male with seizure disorder, poorly described.
+MEDICATIONS:  Levemir, Januvia, Prinivil, Glucotrol, Dilantin, Naprosyn, Glucophage, Protonix, Zocor
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  There was no hyperventilation or photic stimulation.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized on the right with an 8 Hz alpha rhythm.  Likely MU activity is noted, but testing is not performed to confirm this.  Arrhythmic delta activity is noted in the left anterior temporal region with a generous field of spread in the left anterior and temporal region and sharply contoured delta as well as occasional sharp waves noted at T1.  Features of drowsiness included attenuation of the alpha rhythm.  The bursts of focal slowing and sharply contoured slowing are a bit more prominent.   
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due to:
+Left temporal focal slowing with a generous field of spread.
+Left temporal sharp waves.
+Sharply contoured delta in the left temporal region.
+CLINICAL CORRELATION:  This EEG supports a focal mechanism for seizures.
+
+

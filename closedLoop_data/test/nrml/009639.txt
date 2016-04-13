@@ -1,0 +1,16 @@
+CLINICAL HISTORY: This is a 53-year-old woman with epilepsy. Patient ran out of Levetiracetam and presented with multiple recurrent seizures.  History of depression, stroke, psychiatric disorder, hypertension, and diabetes.  Previous evaluation for non-epileptic seizure.  Patient had a funny spell in the morning of the 10th.  
+MEDICATIONS: Ativan, Vecuronium, Labetalol on the 29th; Dilantin and Keppra.. 
+INTRODUCTION: Continuous video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. There are patient push button events at 11:12, 12:43, 19:20, 19:32, 20:05, and 05:13. 
+PUSH BUTTON EVENTS:
+Time 11:12:04: This appears to be a practice push button.  
+Time 12:43: This appears to be a practice push button.  The patient is awake.  There is a little bit of focal slowing in the right posterior quadrant, but no epileptiform features.  
+Time 19:20: The patient is with the nurses.  The nurses check on her.  As they walk away, she has an episode where she shakes from side to side.  There is trembling on the left.  No epileptiform features are identified with this behavior. The behavior stops relatively abruptly, and there are no postictal features. 
+Time: 19:32: The patient is asleep with the nurse at the bedside.  In sleep, there is some arrhythmic delta activity identified from the left mid and posterior temporal regions.  No epileptiform features are seen in associated with what appears to be a practice push button.
+Time 20:05: Practice push button. 
+Time 05:13:46: The patient is awake, and there is some focal slowing identified.  The video for this event is not available, but there are no clinical signs or symptoms associated with this other than arousal, and no epileptiform features are seen. 
+RANDOM WAKEFULNESS AND SLEEP: In wakefulness, there is intermittent slowing in the left mid-to-posterior temporal regions.  In stage II sleep, vertex waves and spindles are identified.  There are occasional sharp waves from the left.  These are seen in drowsiness and sleep and are relatively rare.  
+HR:  90 BPM.
+	IMPRESSION:   
+CLINICAL CORRELATION:   
+
+

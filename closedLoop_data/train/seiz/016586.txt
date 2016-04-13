@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 13-year-old boy with new onset seizures and a right frontal hemorrhage above the Sylvian fissure with persistent balance problems.
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the children’s center using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8 to 9 Hz, 30 to 50 V posterior dominant rhythm.  There is some underlying arrhythmic delta activity in the posterior quadrants bilaterally, somewhat more prominent in the right than the left.  Drowsiness is characterized by hypersynchronous rhythmic slowing.  Overall, the background EEG is better organized as the child becomes drowsy.  Deeper stages of sleep are not sustained.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG for a child of this age due to:
+Modest degree of disorganization.
+Arrhythmic delta activity from the posterior quadrants, right greater than left. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  Correlation with previous EEGs or with neuroimaging may be useful.
+
+

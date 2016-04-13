@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 76-year-old male with left-sided weakness and first-ever seizure with left ACA infarct.   
+MEDICATIONS: Dilantin, Ativan, and others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  The patient is somewhat drowsy, but arousable. 
+DESCRIPTION OF THE RECORD: In maximal wakefulness, the background EEG includes a somewhat slow pattern with a posterior dominant rhythm of 7.5 to 8 Hz.  When not stimulated, the patient drifts off to sleep.  There is some shifting arrhythmic delta activity seen as he drifts off to sleep.  Photic stimulation elicits bilateral driving.  
+HR:  96 BPM.
+	IMPRESSION: Mildly abnormal EEG for an adult of this age due to:
+	Mild slowing of the background.
+	
+CLINICAL CORRELATION: The background is slow for a subject of this age.  Some shifting arrhythmic delta activity in drowsiness for an adult of this age is outside of the range of normal, but is only mildly abnormal.  
+
+

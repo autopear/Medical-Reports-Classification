@@ -1,0 +1,15 @@
+CLIINICAL IDSTORY: This is a 41-year-old male with childhood epilepsy with a history of
+head trauma and recurrent adult onset epilepsy in the context of SIADH. MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of
+electrode placement with one channel of EKG. Hyperventilation and photic stimulation were
+performed. This is an awake and asleep record in a patient who is very sleepy.
+DESCRIPTION OF  THE  RECORD:  In wakefulness, there is  an 8.5  Hz, 40  uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  The patient is quite drowsy,  falling  asleep  at  the  close  of  hyperventilation  and during  photic  stimulation. Features of drowsiness include an increase in background slowing followed by  vertex waves. Snore artifact is noted even as the patient is almost awake.  In the transition to sleep, there is a question of a Fz spike underlying the sleep morphology and, in fact, there seems to be something that is almost 2.5 to 6 Hz, very subtly underlying this in the region of Fz.   Unfortunately, this almost always occurs in association with vertex activity.  Other features of stage II sleep include vertex waves, spindles, and K complexes. Photic stimulation is performed while the patient is falling back into stage II sleep, but does elicit a driving response.
+HR:  96BPM.
+IMPRESSION: This EEG is remarkable for:
+1.   Suspicious, underlying frontal sharp waves.
+2.   Hypersomnolence.
+3.   Snore arousals with some snore artifact identified when the patient would still be considered
+awake.
+CLINICAL CORRELATION: A more prolonged sleep recording may be helpful to determine if there is genuinely an underlying 1.1-ontal sharp wave.  The findings described above are subtle. They may not have been easy to discern in a previous, normal EEG.
+
+

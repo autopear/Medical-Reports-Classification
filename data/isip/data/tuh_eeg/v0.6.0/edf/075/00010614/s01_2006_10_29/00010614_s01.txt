@@ -1,0 +1,13 @@
+CLINICAL IDSTORY: This is a 65-year-old  woman with multiple episodes  of feeling strange and weak.   Multiple paroxysmal  spells with a feeling  of falling.   Chronic pain,  PCA aneurysm surgery years ago.
+MEDICATIONS: Oxcarbazepine.
+INTRODUCTION: Digital  video EEG is performed  in the lab using standard  10-20 system of electrode  placement  with  one  channel  of EKG. Hyperventilation  and  photic  stimulation  were performed.  This is an awake and drowsy record.
+DESCRIPTION  OF  THE   RECORD: The  background  EEG  is  abnormal.     The  posterior dominant rhythm is approximately 7.5 Hz, intermittently disrupted.  There are bursts of rhythmic, frontally  predominant  delta, occasional  posterior  slowing,  and rare right temporal sharp  waves. The arrhythmic  delta activity  is more remarkable in the right posterior quadrant and there are at times what appears to be T6/02 sharp and slow wave activity.  Occasional FIRDA was seen.
+Photic stinmlation does not activate the record.
+HR.: 78 BPM.
+IMPRESSION: Abnormal EEG due to:
+1.  Some background disorganization for age.
+2.   Intermittent rhythmic occipital slowing primarily on the right.
+3.   A handful  of sharp  waves  from  the right  hemisphere,  particularly  in the  occipitotemporal region.
+CLINICAL CORRELATION: In this individual with previous neurosurgery, a previous craniotomy  can accentuate  the underlying  epileptiform  activity.   No seizures  were recorded.   If ongoing  spells  occur,  additional  monitoring  may  be helpful  to determine  whether  or not these spells are epileptiform in nature given the abnormal EEG.
+
+

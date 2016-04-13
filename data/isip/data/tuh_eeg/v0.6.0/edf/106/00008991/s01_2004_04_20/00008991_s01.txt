@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is an 82-year-old, right-handed male with a massive right MCA infarct, atrial fibrillation, and left visual loss. 
+MEDICATIONS: Digoxin, Mannitol, and Ceftriaxone. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is confused or drowsy. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with a mixture of theta and delta with prominent shifting arrhythmic delta activity.  In addition, while both frontal regions show occasional rhythmic, frontal delta, intermittently, the right hemisphere demonstrates disruption of faster frequency activity.  Stimulation of the patient produces an alerting response with an increase in faster frequency activity from both hemispheres.  Right greater than left frontal delta is a bit more remarkable in contrast to the other areas of the brain when the patient is stimulated. 
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing. 
+FIRDA.
+Right greater than left frontal arrhythmic delta. 
+CLINICAL CORRELATION: These EEG findings are relatively modest given the size of this patient’s infarct.  No seizures or epileptiform features were identified. 
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 71 year old right handed woman who fell and hit her head without loss of consciousness, but was confused subsequently. History of epilepsy since age 4, last seizure 2 weeks ago. 
+MEDICATIONS: Dilantin, Phenobarbital, Lasix, Pravastatin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10Hz, 40 microvolt, posterior dominant rhythm. Early in relaxed wakefulness, sharp waves are noted in the right anterior temporal region, as is focal slowing. As the patient starts to transition into stage 1 sleep, right mid to anterior temporal spike and wave complexes are noted. POSTS are identified bilaterally, but are significantly higher amplitude on the right. As the patient transitions in and out of stage 
+2 sleep, there are asymmetries in terms of the faster frequency activity comparing the right to the left. There is arrhythmic delta activity and which can be seen anterior and posterior temporally in the right temporal region. There is a suggestion that there may be a skull deformity given some double phase reversing artifacts. Photic stimulation is performed while the patient is drifting off to sleep, but there is a driving response. Prominent sharp waves are noted at T4 in between the photic stimulation. 
+HR: 102 bpm with occasional PVCs and occasionally irregular. 
+IMPRESSION: Abnormal EEG due to: 
+1. Focal slowing in the right temporal region seen in wakefulness and sleep. 
+2. Right temporal sharp waves with some variability in terms of the field of spread. 
+3. An amplitude asymmetry with higher amplitude activity on the right. 
+CLINICAL CORRELATION: The sharp waves may be correlated with the imaging, including the shape of the patient's skull. With the intermittently irregular heart rate and frequent PVCs, these findings may be correlated with this patients history of a fall which was not considered a seizure. 
+
+

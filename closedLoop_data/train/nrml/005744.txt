@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 84 year old male with right frontal ICH. 
+MEDICATIONS: Phenobarb, Dilantin, Ativan, Keppra, Valum, Vecuronium, 
+Vancomycin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. The patient has a trach and is poorly responsive. 
+DESCRIPTION OF THE RECORD: The background EEG initially demonstrates a very low voltage suppressed pattern. Superimposed upon this, are-sharp waves in the right hemisphere which typically start in the right posterior quadrant and end in the right anterior region. They seem to occur as a couplet and with posterior sharp waves first and then an anterior sharp wave which follows and can occur up to a second later. In some cases, this seems to occur a second and a half later, but the epileptiform activity typically seems to occur with 2-3 discharges at a time. Over the course of the record, there is an improvement in the background with an increase in beta and alpha frequency activity. The epileptiform activity remains relatively in variant. 
+IMPRESSION: Markedly abnormal EEG due to: 
+1. Marked background slowing.
+2. Periodic complexes in the right hemisphere with complex epileptiform activity with unusual localization starting in the posterior region and then ending over a long duration of time to the anterior region. 
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function as well as an epileptogenic process on the right. 
+
+

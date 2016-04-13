@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 57-year-old woman status-post brain tumor followed by chemotherapy: right-sided weakness, and staring spells.  
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  Impedance problems were noted because of the patient’s inability to wash her hair.  This is an awake record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is somewhat slow and disorganized.  The patient has nearly continuous eye blink artifact picked up, which persists even when the tech attempts to hold her eyes shut.  Despite this, there does appear to be some underlying delta in the left frontal region.  Photic stimulation is not successful due to artifact and movement.  Sleep is not achieved.  
+HR:  __ BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing and poor organization for a subject of this age.
+?Underlying left frontal delta. 
+CLINICAL CORRELATION: Because of the artifact seen in this record, adequate evaluation of the frontal abnormalities in terms of sharp activity or even triphasic waves was not successful.  At times, there are waveforms that appear to be triphasic waves, but the eye blink artifact is a problem.  This tracing supports a diffuse disturbance of cerebral function, as well as potentially a process in the left frontal region.  No seizures were recorded.  If further characterization of this patient’s EEG is needed, a repeat study under appropriate conditions and capturing sleep is recommended.  
+
+

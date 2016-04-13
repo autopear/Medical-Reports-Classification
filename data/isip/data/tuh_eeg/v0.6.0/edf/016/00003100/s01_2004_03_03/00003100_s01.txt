@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 29-year-old woman with a history of complex partial seizures, last seizure four months ago with a fever. 
+MEDICATIONS: Tegretol, folic acid, and Synthroid.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and well organized. There is a 10 Hz, 30 uV posterior dominant rhythm, which is well attenuated with eyes opened.  There is a small amount of low voltage, frontocentral beta activity.  Hyperventilation produced a left anterior temporal focal delta activity and a few subtle sharp waves with focal slowing.  After hyperventilation, the patient fell asleep with right anterior and mid-temporal subtle sharp activity as well as focal delta.  Stage II Sleep is characterized by vertex waves and spindles.  Photic stimulation elicits driving.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Right anterior and mid-temporal focal slowing and right temporal sharp and slow complexes.
+CLINICAL CORRELATION: The epileptiform discharges seen in this tracing supports a focal mechanism of epilepsy in this patient.  No seizures were recorded. 
+
+

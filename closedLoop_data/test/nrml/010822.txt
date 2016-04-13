@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 30-year-old woman with a history of seizure disorder since the age of seven.  Her last seizure was one week ago with loss of consciousness.  She usually has convulsive seizures preceded by an aura.  History of hepatitis C and B and heroin drug use.  
+MEDICATIONS: Dilantin and Phenobarbital. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.5 Hz, 45 to 50 uV posterior dominant rhythm.  There is intermittent excess theta frequency with intermittent vertex waves seen as the patient becomes drowsy.  There is some head-rocking artifact, but no epileptiform features are identified in this record. 
+HR:  72 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+	1.	Mildly diffuse background slowing with occasional theta rhythm. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The subtle finding described above may be due to medication effect, postictal state, or underlying medical condition.  A repeat EEG with sleep deprivation would be useful if mandated.  
+
+

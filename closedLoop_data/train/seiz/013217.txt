@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  53 year old right handed male with right-sided skull defect, past history of aneurysm.  The patient has nocturnal tremors.  The wife is worried about seizures.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately organized for an adult of this age with a 9.7 Hz alpha rhythm.  There is a subtle asymmetry with a bit more subtle delta in the right hemisphere, particularly in the frontocentral regions.  The transition to drowsiness seems to accentuate a bit of slowing on the right.  Hyperventilation also accentuates focal slowing in the right hemisphere as it produces bursts of rhythmic frontal delta.  The patient is drifting in to stage I sleep in photic stimulation.  There is a scant driving response.  Heart rate 55 bpm.
+IMPRESSION:  This EEG is remarkable for: 
+A subtle focal underlying delta in the right hemisphere. 
+CLINICAL CORRELATION:  No epileptiform features were identified.
+
+

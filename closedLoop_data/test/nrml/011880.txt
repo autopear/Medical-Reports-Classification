@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 64-year-old woman  with lupus, epilepsy, fibromyalgia.  Seizure free for 10 years, past history of tonic-clonic seizures.
+MEDICATIONS:  Dilantin, Ativan, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using the standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm which was symmetric and reactive.  There is excess beta noted in the background.  Occasional isolated bursts of shifting right or left temporal delta were noted in the transition to sleep.  Other features of sleep included an increase in bet as well as hypersynchronous rhythmic slowing.   
+Hyperventilation did not significantly active the record.  Photic stimulation elicited bilateral driving.
+IMPRESSION:  EEG within normal limits for age.
+CLINICAL CORRELATION:  A subject of this age is permitted a small amount of shifting slowing as described above.  No epileptiform features were noted.  The generous beta may be associated with this patient's medications.
+
+

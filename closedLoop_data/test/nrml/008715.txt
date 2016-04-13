@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Change in mental status.
+CLINICAL HISTORY:  This is a 62-year-old woman with a history of a stroke and a previous shunt now not responding weaning off sedation.  Follow-up EEG.
+TECHNICAL DIFFICULTIES:  None.
+MEDICATIONS:  Acyclovir, vancomycin, cefepime, famotidine, metoprolol, and insulin.
+INTRODUCTION:  A routine EEG was performed using a standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during unresponsiveness.  Activating procedures were not performed.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontocentral beta.  There is no normal sleep architecture.  No activating procedures were performed.  Overall, the EEG consists of background that has intermixed theta frequencies and delta frequencies but mainly from the delta range with a very high amplitude delta at times in a rhythmic fashion seen maximal in the frontal region consistent with frontal intermittent rhythmic delta activity (FIRDA).  At 1 point the tech tried to stimulate the patient and there appears to be no real reactivity to the recording.
+ABNORMAL DISCHARGES:  Generalized slow waves at 2-4 Hz, amplitude of 20-60 microvolts with intermittent FIRDA.  Although at times it appears to be slightly asymmetric with sometimes more right than left slowing, overall there was no clear asymmetry in terms of the focal slowing.
+SEIZURES:  None.
+HEART RATE:  84.
+IMPRESSION:  Abnormal EEG due to generalized slowing and frontal intermittent rhythmic delta activity.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology and may be due at least in part to medication affect.  No seizures or clear epileptiform activity were seen.
+
+

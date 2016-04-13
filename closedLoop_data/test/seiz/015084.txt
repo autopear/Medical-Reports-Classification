@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 62-year-old woman with epilepsy starting in 2002 characterized by an aura of dizziness with loss of consciousness for three to five minutes. 
+MEDICATIONS: Dilantin, Lipitor, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG includes a 9 Hz posterior dominant rhythm, which is symmetric and reactive.  There is snore artifact and EKG artifact identified in this record.  There is also what may very well be an extraneous artifact in the record producing a high amplitude artifact.  Reformatting of this EEG into alternative montages produces significant artifact, but there does seem to be one genuine right temporal sharp and slow wave complex.  Stage II sleep is characterized by vertex waves, K complexes, and spindles.  In the transition to sleep on one occasion there is a burst of left temporal focal slowing and there is a single right anteriotemporal sharp and slow wave complex.   Photic stimulation elicits brief bilateral driving. 
+HR:  60 BPM.
+	IMPRESSION: Technically unsatisfactory EEG due to:
+Unacceptable amounts of background artifact despite the use of an impedance check by the tech. 
+There is a right temporal sharp wave and a burst of left temporal focal slowing. 
+CLINICAL CORRELATION: A repeat tracing under different conditions is appropriate to more clearly characterize this patient’s seizures. No clear explanation for the background artifacts described above can be identified at this point, and in contrast to a previous EEG that showed a left temporal sharp wave, this EEG demonstrates a right temporal sharp wave.  Again, a more extended record under different conditions is appropriate. 
+
+

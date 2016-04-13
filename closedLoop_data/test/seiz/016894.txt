@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 37-year-old male with childhood epilepsy who had a tonic-clonic seizure 9/2/04. 
+MEDICATIONS: Dilantin, Phenobarbital, and antibiotics. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat disorganized with primarily a theta frequency pattern, some head rocking but some slowing in the posterior regions particularly at T5-O1.  In wakefulness and early drowsiness, there are occasional left mid-temporal sharp waves with a handful of these identified in the posterior temporal regions.  As the patient reaches stage II sleep, independent, high amplitude right anterior temporal spike and slow wave complexes are identified.  Photic stimulation is performed in a relatively drowsy patient.  During photic stimulation, the left and posterior temporal sharp waves are seen, but not clearly augmented by the photic.  In the non-stimulus periods, high amplitude, right anterior temporal spike and slow waves complexes are seen. 
+HR:  80 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing and disorganization.
+High amplitude right anterior temporal spike and slow wave activity seen particularly in sleep.
+Left mid and posterior temporal sharp and slow wave complexes seen in wakefulness. 
+CLINICAL CORRELATION: The background slowing and disorganization are more prominent in this record compared to previous.  In addition, the previous study identified epileptiform activity only on the right.  No seizures were recorded.  
+
+

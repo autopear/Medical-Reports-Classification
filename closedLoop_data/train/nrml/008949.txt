@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  52 year old male with multiple infections, septic shock, occipital craniotomy, facial twitching, persistent obtundation.
+MEDICATIONS:  Dilantin, Erythromycin, Cardizem, Heparin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is poorly organized slow with frontally predominant triphasic waves.  In addition, focal sharp waves are noted including C4.  There are also some noted in the right frontotemporal region, a handful of more posteriorly predominant triphasic-like waveforms were also noted. Stimulation of the patient does not activate the record.  There is little in the way of background variability.  
+HR:    96 bpm and irregular.
+IMPRESSION:  Abnormal EEG due to:  
+Markedly slow background.  
+Prominent triphasic waves.  
+Sharp waves noted from both hemispheres, but a little bit more well-defined from the right central or central parietal region.
+CLINICAL CORRELATION:  This EEG demonstrates a markedly irritative pattern.  The triphasic waves are hallmarks of metabolic encephalopathy.  The sharp waves suggest a predisposition for seizures, but no seizures were recorded.
+
+

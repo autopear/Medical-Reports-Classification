@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 45-year-old woman with aneurysm and coil the left MCA.  Patient had two episodes of language disturbance.  
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is an awake record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is diffusely slow.  There is a 7 Hz, 30 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  No focal features or epileptiform discharges were observed in this record.  
+HR:  90 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+	1.	Mild background slowing.
+CLINICAL CORRELATION: This is a non-specific EEG pattern and may be due to medication or postictal phase.  A repeat EEG in the lab when the patient is more stable may be helpful. 
+
+

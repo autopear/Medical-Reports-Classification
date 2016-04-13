@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 5-year-old FT boy with multiple episodes of eyes rolling back and generalized body shaking for 60 minutes.  History of speech delay.
+MEDICATIONS: Dilantin, Phenobarbital, Versed.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated, sedated, but is somewhat responsive to tactile stimulation.  Occasional jerking of the right shoulder is seen.  
+DESCRIPTION OF THE RECORD: The background EEG is one of diffuse vigorous beta throughout.  There is some occipital head rocking identified bilaterally.  There is an occasional frontal sharp wave noted, left greater than right.  On occasion, in reviewing the video and the EEG, the frontal sharp wave may be associated with jerking of the right shoulder.  The jerking of the right shoulder seems to be associated with the sharp wave, but the sharp wave does occur without the jerking.   Stimulation of the patient produces one of two patterns: an electrodecremental response or an increase in frontal fast activity, which includes vigorous alpha and beta frequency activity.  There is a slight asymmetry noted in the frontal fast activity.  Perhaps the activity is slightly slower on the left compared to the right.  With the use of a fast paper speed, again this is a difficult observation to test out, and the frontal fast activity is approximately 10 Hz and slightly different in the two hemispheres.  
+HR:  112 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Replacement of normal background, primarily with a beta and alpha frequency pattern.
+	Frontal sharp waves, left greater than right, sometimes associated with jerking of the shoulders.
+	A pattern with a response to tactile stimulation with either bursts of 10 Hz alpha frequency activity in the frontal regions or an electrodecremental response.  
+CLINICAL CORRELATION: No sustained ictal discharges were noted and no clinical seizures were seen.  This EEG supports reduction of pharmacologic coma in the context of an epileptogenic brain.  No previous EEGs were available for comparison.  Additional EEG recordings may be necessary.   
+
+

@@ -1,0 +1,12 @@
+CLINICAL  HISTORY:   72 year-old man with multiple strokes with coded 09/06 for approximately 25 minutes.
+MEDICATIONS:  Dilantin, Folic Acid, Nifedipine
+INTRODUCTION: Continuous digital video EEG performed at bedside using standard
+10-20 electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  As the record begins, there is a lot of increased muscle artifact bilaterally beneath the artifact on the left. Just at the administration of Dilantin, there are a lot of periodic variable triphasic waves seen in the left frontal regions.  Originally, they are seen at a rate of 1.9.  As the records continues, these periodic variable triphasic waves become smaller and begin to fade.  They also increase and are found at a distance of 0.6.  As the records continues, they become couplets and late in the record are seen as PLEDs plus type of pattern at 3 Hz.  As the record continues, they fade more and more, and they continue to suppress. This is a low
+voltage study.  These discharges continue greater on the left.
+	HR: 	80 bpm
+IMPRESSION:   Abnormal EEG due to:
+1.  Slowly fading triphasic waves seen greater on the left in the frontal regions.
+	CLINICAL CORRELATION: 	Periodic activity is consistent with an anoxic encephalopathy.  There are no epileptiform discharges seen throughout this record.
+
+

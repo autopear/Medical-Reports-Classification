@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  49 year old female, obtundation with intermittent eye deviation but no clinical evidence of seizures.  Status post propofol, Ativan, trazodone.  Past history of psychiatric and neurologic problems.
+MEDICATIONS:  Dilantin, Fentanyl, Ativan, Thiamine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is comatose but has very slow eye movements.  No eye deviation is noted during the EEG.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a very low voltage, suppressed pattern with intermittently discontinuous activity.  The cerebral activity is low voltage delta with smaller amounts of theta and occasional beta.  Tactile stimulation of the patient does not alter the record.  Much of the record is low voltage, slow record with some artifacts noted on the right.   
+HR:    Irregular greater than 120 bpm
+IMPRESSION:  Abnormal EEG due to: 
+Marked background slowing.
+CLINICAL CORRELATION:  In comparison to the previous record, this EEG is more continuous.  Eye movements are not quite as prominent.  There is some occasional twitch artifact noted in the T5 electrode. This EEG supports a severe disturbance of cerebral function.  No epileptiform features were seen.
+
+

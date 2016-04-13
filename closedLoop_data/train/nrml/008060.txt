@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 50-year-old male with multiple strokes, left hemiparesis, and daily nocturnal seizures with tongue biting and confusion.  Past history of cocaine abuse, now in rehab for 2 months.
+MEDICATIONS:  Dilantin, Catapres, others seizure medications and medications for depression.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  This is a low voltage EEG in a patient who is quite sleepy, transitioning in and out of stage 2 sleep.  There is a 10 Hz alpha rhythm.  This low voltage EEG is best reviewed at 3 Hz.  There is rhythmic theta and even some delta noted in the right hemisphere.  Stage 2 sleep is relatively symmetric with vertex waves, K complexes and spindles.  As the patient transitions in and out of sleep, mu activity is noted in wakefulness.  As stage 2 sleep continues, shifting slowing is later noted in stage 2 sleep with a single sharp wave in the left hemisphere in stage 2 sleep.   
+Photic stimulation does active the record.  Heart rate 60 BPM.
+IMPRESSION:  This is a challenging, but abnormal EEG due to SHIFTING slowing at times with more rhythmic slowing from the right hemisphere, but occasionally in stage 2 sleep from the left.
+CLINICAL CORRELATION:  Only a single sharp wave was identified from the left which therefore must be considered an artifact.  These findings may be correlated with imaging.  Focal slowing was noted, but unfortunately there was only a single sharp wave.  If additional information is needed for this individual with frequent seizures, inpatient or outpatient video EEG monitoring may be valuable.  The focal slowing on the right fits with a history of the right MCA infarct.
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 22-year-old male who ingested large quantities of recreational drugs prior to coming to the United States for detox with subsequent severe withdrawal and seizures.  
+MEDICATIONS: Dilantin, Methadone, Ativan, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  Cooperation was limited by the patient’s inability to communicate in English. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with a 10 Hz, 30 uV posterior dominant rhythm and a modest amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by mild background slowing.  Photic stimulation elicits vigorous bilateral driving. 
+HR:  __ BPM.
+	IMPRESSION: Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy. 
+
+

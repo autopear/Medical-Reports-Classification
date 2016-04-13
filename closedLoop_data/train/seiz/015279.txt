@@ -1,0 +1,11 @@
+CLINICAL HISTORY:    56-year-old woman is status post 3 seizures over the past 2 days. Patient has history of  hypertension, hepatitis Band hepatitis C, schizophrenia, and bipolar disorder.
+MEDICATIONS:  Dilantin, Lisinopril, Lovenox, Tylenol, Aspirin, Valium.
+INTRODUCTION:   Digital video EEG is performed at bedside using standard 10-20 system of electrode placement, with 1 channel of EKG. Hypoventilation and photic stimulation are not performed. The patient is awake and drowsy in this record.
+DESCRIPTION OF THE RECORD:  At the beginning of the tracing, the background EEG is mildly disorganized  with excessive slow activity at theta range with diffuse amount of low voltage beta activity throughout the tracing. There is 8-9 Hertz posterior dominant alpha rhythm, which can be attenuated with eyes opened. As the tracing continues on, the patient become drowsiness, with synchronized slow activity and increased rhythm amplitude, but no epileptiform  was achieved. No focal findings, no epileptiform discharges were seen.
+	HR: 	78 bpm
+IMPRESSION:  Mildly abnormal EEG due to:
+	1. 	Background slowing with excessive slow activity of theta range.
+	2. 	Diffuse beta activity.
+CLINICAL CORRELATION:   The background diffuse slowing may be due to the post­ ictal phase of the seizure, or due to medication. The increased amount of diffuse beta activity may be due to medications  such as Valium use. However, no focal activity and no epileptiform discharges were seen in this tracing. To increase the sensitivity of EEG findings on epileptiform discharges,  a repeat EEG may be helpful.
+
+

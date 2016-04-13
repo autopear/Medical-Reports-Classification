@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 39-year-old male who had a witnessed seizure, following backwards.  He was standing on the sidewalk outside of St. Christopher's Hospital.  He was intubated and transferred to Temple.
+MEDICATIONS:  Percocet, Dilantin, midazolam, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the emergency room using standard 10-20 system of electrode placement with one channel of EKG.  The patient was wearing a hard collar and had been extubated.
+DESCRIPTION OF THE RECORD:  This bedside EEG is remarkable for significant frontalis muscle artifact.  The patient transitions from wakefulness and sleep.  The overall EEG includes generous beta.  The patient transitions in and out of stage II sleep with vertex waves and spindles.  With arousal, there is some alpha and beta frequency activity, although the patient does not sustain wakefulness answers questions appropriately. 
+Heart rate 90 BPM.
+IMPRESSION:  This is an abnormal EEG due to:  Excess beta.
+CLINICAL CORRELATION:  There were no epileptiform features noted.  The excess beta may be due to this patient's medications.
+
+

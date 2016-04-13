@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Seizure.
+CLINICAL HISTORY:  A 34-year-old male with history of alcohol withdrawal seizure, was discharged, when he had a general tonic-clonic seizure.
+MEDICATIONS:  Serax, thiamine, Lovenox, nicotine patch, folic acid.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches at 10 Hz which is reactive to eye opening.  The patient is recorded during wakefulness and sleep.  Activating procedures were not performed.
+ABNORMAL DISCHARGES:  Bursts of generalized spike and waves which is anterior predominant and symmetric, and bursts of 3-4 Hz were seen intermittently, at times with preceding polyspikes throughout the recording.  Some of them appeared more asymmetric on the right than the left, but the majority appear symmetric.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to generalized spike and waves.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of epilepsy.  The discharges seen above are most commonly seen with a generalized type of epilepsy.  However, some of them appeared slightly asymmetric and may suggest a possible focal onset with secondary generalization.  Repeated EEG capturing seizures or clinical followup may aid in elucidating the clear classification.  These findings were reported to the consult team as soon as the EEG was read.
+
+

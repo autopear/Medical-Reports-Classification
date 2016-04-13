@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Memory loss.
+INTRODUCTION:  A routine EEG was performed using standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness.  Activating procedures included photic stimulation.
+MEDICATIONS:  Cymbalta, Synthroid, naproxen, aspirin.
+HOSPITAL COURSE:  A 71-year-old female with rapid memory loss for 1 year, jaw twitching, history of glaucoma, hypothyroidism.
+TECHNIQUE DIFFICULTIES:  This is a very limited EEG due to continuous jaw tremor causing bifrontal and temporal continuous electrode artifact, which obscures a large part of the record.
+DESCRIPTION OF RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is some frontocentral beta, however this is again somewhat obscured by the muscle artifact.  Activating procedures including hyperventilation stimulation which caused no abnormal discharges.  The patient is recorded in wakefulness and very limited drowsiness.
+ABNORMAL DISCHARGES:  Focal slow wave seen independently at F7/T3 and much more at F8/T4 at a frequency of 2-4 Hz and amplitude of 20-60 microvolts.  Please note that they were largely obscured by the muscle artifact and were only seen occasionally.
+SEIZURES:  None.
+HEART RATE:  78.
+IMPRESSION:  Abnormal electroencephalogram due to bilateral independent anterior temporal slowing (right more than left).
+CLINICAL CORRELATION:  This limited EEG reveals evidence of focal cerebral dysfunction in the bilateral anterior temporal regions (right more than left), which is nonspecific in regards to etiologies.  No seizures or epileptiform discharged were clearly seen.  Please again note there was continuous artifact during the recording and the patient was only recorded in drowsiness for a limited amount due to the quality of the EEG.  Repeated recording capturing deeper stages of sleep may be helpful in elucidating diagnosis, if clinically desired.
+
+

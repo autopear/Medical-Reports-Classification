@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 63 year old male with subdural hematoma, recent status epilepticus. 
+MEDICATIONS: Dilantin, Keppra, Depakote, Valproic Acid 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient intubated, in a hard collar, and relatively unresponsive. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a low voltage, continuous pattern. There is some faster frequency activity noted with some beta and theta frequency activity seen in the central regions, right more than the left. The temporal regions demonstrate a relatively low voltage, slow featureless pattern. Stimulation of the patient produces an altering response with an increase in rhythmic 
+theta, as well as eye movement. 
+HR: 104 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Lower voltage slow pattern. 
+2. Increasing delta in the left compared to the right. 
+CLINICAL CORRELATION: Positive prognostic features include reactivity to external stimuli. These findings may be correlated with recent imaging and recent exposure to sedative hypnotic medications. 
+
+

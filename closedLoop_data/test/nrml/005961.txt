@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  79 year old woman admitted this past weekend with possible new stroke and seizure, shaking movements of the right arm and leg.
+MEDICATIONS:  Norvasc, Lisinopril, Aspirin, Dilantin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is somewhat somnolent.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates an asymmetry.  There is more alpha and theta frequency activity from the right hemisphere.  Left hemisphere is a bit slower.  The right hemisphere demonstrates arrhythmic delta activity and some sharply contoured slowing on the right.  Features of drowsiness include an increase in background slowing.   
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background slowing and disorganization.
+An interhemispheric asymmetry with a lower voltage pattern on the left.
+Sharply contoured activity on the right.
+CLINICAL CORRELATION:  This EEG demonstrates a bihemispheric process with each hemisphere having different features.  Correlation with imaging is important, but 
+the epileptiform focus may not be ipsilateral to the acute stroke if the acute stroke is on the left.
+
+

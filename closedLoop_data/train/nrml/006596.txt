@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  76 year old right handed male with new-onset seizures and prostate cancer.
+MEDICATIONS:  Dilantin, ASA, Alendronate, Ferrous Sulfate, Tamsulosin, Finasteride, Omeprazole, Ranitidine, Amoxicillin, Doxycycline
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG is acceptably organized for age with a 9.7 hertz alpha rhythm and a small amount of low voltage, frontocentral beta activity.  As the patient drifts off to sleep there is excess beta and theta. Photic stimulation elicits scant bilateral driving. 
+HR:    72 bpm
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  There are no epileptiform features noted.  If epilepsy is an important consideration a follow-up study capturing deeper stages of sleep is suggested.
+__________________________
+
+

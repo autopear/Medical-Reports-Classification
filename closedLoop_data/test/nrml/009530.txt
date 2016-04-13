@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  The patient is a 51-year-old woman with past medical history of metastatic breast cancer, with right parietal lobe resection of the metastasis performed several months ago, now presents with several days of a significant decline in her mental status.  Continuous EEG is performed to rule out subclinical seizures.
+MEDICATIONS:  Dilantin and Keppra.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Video was enabled.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior-to-posterior frequency amplitude gradient.  During arousal, the background consists of a mixture of polymorphic low-to-moderate amplitude theta, delta, and abundant triphasic waveforms.  These triphasic waveforms have an anterior-to-posterior lag.  They are frontally predominant, and more predominant over the right hemisphere.  During brief periods of sleep, no normal sleep architecture is present, and there are occasional periods of brief discontinuity lasting approximately 1 second.  Additionally, polymorphic delta activity at lower voltages is captured over the left hemisphere.  There were no clear electrographic seizures.
+FINDINGS:  
+Moderate diffuse slowing.
+Focal left hemispheric slowing and attenuation.
+Abundant triphasic waveforms.
+No electrographic seizures.
+IMPRESSION:  This is a very abnormal continuous video EEG, lasting approximately 14-1/2 hours.  The EEG is abnormal due to moderate diffuse slowing, focal left hemispheric slowing and attenuation and abundant triphasic waveforms that are more prominent over the right hemisphere.  These findings indicate moderate cerebral dysfunction that is nonspecific in etiology, but could partially be related to toxic metabolic causes.  Focal slowing and attenuation over the left hemisphere could indicate a structural lesion over that region.  Additionally, discrepancies in the degree of slowing and amplitudes could also be related to a breach artifact present over the right hemisphere.  Triphasic waveforms indicate nonspecific encephalopathy.  No clear electrographic seizures are captured.  These findings were conveyed to the primary team.
+
+

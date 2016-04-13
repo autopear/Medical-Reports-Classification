@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  A 72-year-old woman, found confused with incontinence.  Status post prolonged intubation, but now awake and alert.
+MEDICATIONS:  Dilantin, midazolam, Coumadin, Decadron.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and drowsy, but intubated patient.
+DESCRIPTION OF THE RECORD:  In wakefulness, the alpha rhythm achieves 8.5 Hz.  There is a small amount of excess theta.  There is a bit of shifting arrhythmic delta activity, right greater than left.  Features of drowsiness include an increase in slowing, an increase in the arrhythmic delta activity and an increase in the focality with a bit more left-sided slowing.   
+Heart rate 90 BPM.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:
+Background slowing with excess theta and a slightly slow alpha. 
+Shifting slowing, left greater than right in drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  No triphasic waves were noted.  This is a mildly abnormal EEG for an adult in the ICU.  The background slowing may reflect medications, underlying cerebrovascular disease or toxic or metabolic encephalopathy.  Overall, this record is markedly improved compared to previous studies.
+
+

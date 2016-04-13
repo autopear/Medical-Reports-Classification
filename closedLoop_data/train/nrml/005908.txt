@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  75 year old man with intermittent fluctuating speech and cognition and multiple medical problems including diabetes, hypertension, CAD, and CHF.
+MEDICATIONS:  Valproic acid.
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 7 Hz.  There is some frontal central beta seen.  The patient is also recorded in wakefulness and sleep, although normal sleep architecture is not normally present, it is actually disrupted.  No activating procedures were performed.
+ABNORMAL DISCHARGES:  Generalized slow waves at 5-7 Hz and continuously throughout the recording.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

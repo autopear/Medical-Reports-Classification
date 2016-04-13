@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 20-year-old woman found unresponsive at home in a pool of urine.  
+MEDICATIONS: Acyclovir and Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient receives Ativan before the study and Versed during the study. 
+DESCRIPTION OF THE RECORD: The initial portions of the record demonstrate a background rich in beta frequency activity with low voltage delta.  There are spontaneous bursts of frontally predominant delta.  Stimulation of the patient produces bursts of frontally predominant delta. Wakefulness is not achieved. Towards the close of the record, stimulation of the patient produces a clear alerting response with an increase in theta and a posterior dominant rhythm of 7.5 Hz.  
+The patient received additional doses of Versed producing an increase in background beta.
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Pattern of diffuse background beta.
+With arousal a background of diffuse slowing. 
+CLINICAL CORRELATION: The benzodiazepines administered to the patient consistently produced the anticipated pattern of beta activity, but when the medications are allowed to wear off, the drowsy pattern was compatible with medication effect. No focal or epileptiform features were seen. This tracing supports a pharmacologic coma.
+
+

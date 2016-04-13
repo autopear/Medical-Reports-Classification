@@ -1,0 +1,11 @@
+CLINICAL HISTORY : 82 year old female currently unresponsive after 16 mg of Ativan, Dilantin and Propofol with left frontal stereotactic craniotomy for tumor, evaluate for status epilepticus.
+MEDICATIONS: Ativan, Dilantin, Propofol
+INTRODUCTION:   Digital video EEG was performed at bedside using standard  10-20 system of electrode placement with 1 channel EKG. The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal. The background includes a pattern of low voltage or mixed frequency theta and delta. There is frontal, sharply contoured activity with 2 different morphologies in the right and left frontal region. There is a bit more faster frontal activity on the left than the right. As the recording continues , the left frontal periodic complex emerges maximum P1, F3. In addition, as this emerges, over the first 20 seconds that it is seen, rhythmic theta frequency activity begins to develop in this background. There is a mixture of theta alpha and then sharp waves with some
+evolution of the sharp waves. The first sign of an ictal pattern is seen at 13:04:13. By 13:07:11 a more definitive ictal discharge appears again, left frontal maximum. At 13:08: 15, the tech raises the question as to whether or not these are clinical seizures. Ongoing ictal activity which waxes and wanes and includes some alpha frequency activity can be observed in the left frontal central region. There is some spread to the right frontal region, but the majority of the activity is in the left. The use of frontal and parasagittal montage clearly delineates the left frontal epileptiform activity which waxes and wanes and seems to have frequency evolution with alpha and beta frequency activity. There are no clinical correlates documented for the patient's seizures.
+	HR:	104 bpm
+IMPRESSION: Abnormal EEG due to:
+1.  Status epilepticus.
+CLINICAL CORRELATION: This EEG is diagnostic of an ongoing ictal pattern. Clinical team was notified at the time of the recording.
+
+

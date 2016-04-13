@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 51 year old right handed woman with history of hypertension, PE, hepatitis C, CRD, asthma, and breast cancer who presents with change in mental status.
+MEDICATIONS:  Flagyl, Labetalol, Hydralazine, Nifedipine.
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded while slightly lethargic.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffuse slow background with no normal posterior dominant rhythm and no normal frontal central beta.  The patient is recorded in wakefulness, no normal sleep architecture is recorded.  Activating procedures were not performed. 
+ABNORMAL DISCHARGES:
+Generalized slow waves at 5-7 Hz with an amplitude of 20-50 mV seen continuously throughout the recording.
+Focal slowing seen at ZZ/C3 at 2-4 Hz with an amplitude of 20-60 mV seen frequently throughout the recording.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left central focal slowing. 
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left central region, in addition to diffuse cerebral dysfunction, both of which are nonspecific in regards to etiology.  No seizures were seen.
+
+

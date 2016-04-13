@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 67-year-old elderly gentleman with seizures, previous stroke, admitted after falling from a wheelchair with one-minute loss of consciousness, two minutes of confusion, and right-sided injury.
+MEDICATIONS: Lasix, Dilantin, Heparin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record without hyperventilation or photic stimulation. 
+DESCRIPTION OF THE RECORD: The vast majority of this record demonstrates drowsiness with a disorganized record.  The posterior dominant rhythm is discernable bilaterally with 7 to 8 Hz, 20 to 30 V shifting arrhythmic delta activity.  As the patient becomes, drowsy, there is additional shifting arrhythmic delta activity, but no significant lateralization.  The overall record in drowsiness is relatively low voltage.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Shifting arrhythmic delta activity particularly from the frontocentral regions, but without significant lateralization.
+Generalized background slowing.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  Correlation with imaging may be of use regarding the localization of this patient’s problems. While there is no epileptiform activity in this record, if seizures are an important consideration, a repeat tracing would be of use. 
+
+

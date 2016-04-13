@@ -1,0 +1,8 @@
+CLINICAL HISTORY:  This is a 33-year-old gentleman, the victim of an assault with subsequent development of grand mal seizures, memory impairment, migraine headaches since 1997, chronic use of Motrin.  Seizures are characterized by eyes rolling back in head, loss of consciousness lasting 30-40 seconds.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was not performed, but photic stimulation was completed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, her delta rhythm with a generous amount of low voltage frontocentral beta.  Drowsiness is characterized by slow rolling eye movement and an increase in beta.  Deeper stages of sleep were not sustained.  Photic stimulation elicits bilateral driving heart rate at 60 beats per minute.
+IMPRESSION:  Normal EEG in wakefulness and stage I sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy, but if epilepsy is an important consideration, a follow-up study capturing deeper stages of sleep or using special electrodes may be of value.
+
+

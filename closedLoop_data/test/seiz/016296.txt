@@ -1,0 +1,10 @@
+CLINICAL HISTORY:   Sixteen-year-old with gunshot wound to the occiput, postop day 4 status post craniotomy, duraplasty and placement of right frontal EVD.
+	MEDICATIONS:	Dilantin, Propofol.
+	INTRODUCTION: 	Digital video EEG is performed at bedside in ICU using standard 10/20 system of electrode placement with 1 channel of EKG. The patient is sedated with Propofol due to agitation.
+	DESCRIPTION  OF THE RECORD: 	Background EEG demonstrates a pattern rich in faster frequency activity as would be anticipated with Propofol. There is also some arrhythmic delta activity identified bilaterally, particularly in the posterior regions. The record is dynamic, some portions are richer in beta frequency activity and others more in arrhythmic delta. The record is more discontinuous and more suppressed toward the close of the record. Stimulation of the patient and spontaneous arousals are both associated with an increase in 2-4 hertz activity.
+	IMPRESSION: 	Abnormal EEG due to:
+	1. 		Replacement of normal background with initially pharmacologic pattern with prominent fast activity.
+	2. 		Increasing arrhythmic delta activity, sometimes posteriorly predominant, sometimes bilateral.
+	CLINICAL CORRELATION: 	For this sedated individual, positive prognostic features include both the spontaneous arousals and the reactivity to stimuli.
+
+

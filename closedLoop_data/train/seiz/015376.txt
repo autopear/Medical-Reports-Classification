@@ -1,0 +1,14 @@
+	CLINICAL HISTORY: 	70-year-old nursing home female resident, who presents with status post generalized tonic-clonic seizures x2. CT scan of the brain showed left frontal mass with surrounding edema. Patient has history of hypertension and schizophrenia.
+	MEDICATIONS: 	Dilantin, Risperdal, Lisinopril, Hydrochlorothiazide.
+INTRODUCTION:   Digital video EEG is performed at bedside using standard 10-20 system of electrode placement, with 1 channel of EKG. Hyperventilation and photic stimulation were not performed. The patient is awake during the recording.
+DESCRIPTION OF THE RECORD:  The background of the EEG is mildly to moderately disorganized. There is 8-8.5 Hertz posterior dominant alpha rhythm, which is well attenuated with eyes opened. There is increased number of diffuse beta activity seen in all channels. When the tracing continues on, a significant amount of slow activity at
+delta range from H3 which was seen in the left frontal and central area. Stimulation or
+awakening the patient can abolish left focal slow activity.
+	HR: 	72 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Mild to moderate disorganized background.
+	2.	Left frontal and central focal slow activity in delta range.
+	3.	Diffusely increased beta activity.
+CLINICAL CORRELATION: The left focal slow activity in the frontal and central area may suggest a structural lesion, consistent with the CT findings in this patient. The moderately disorganized background, as well as the diffusely increased amount of beta activity, may be due to medication such as benzodiazepine use.
+
+

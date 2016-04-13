@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  25 year old right handed female with uncontrolled seizures, had last seizure on 09/08, usually has about 1 seizure per week, usually aura of lightheadedness, right-sided weakness, generalized tonic-clonic, disoriented for 3-4 hours.  Last seizure was more severe and lightheaded and still numb on the right side.
+MEDICATIONS:  Prenatal vitamins
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness, stage 1, stage 2, stage 3 as well as REM sleep.  Activating procedures included photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to limited wakefulness with a posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  The patient is recorded during limited wakefulness and mainly in sleep.  Please note that the patient quickly goes into stage 1, stage 2 and during the recording even REM sleep is recorded at the end.  Activating procedures included photic stimulation.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION: No seizures or epileptiform discharges.  Please note that the short REM and sleep latency is atypical to be captured during a routine EEG and may suggest an abnormal architecture of sleep or a sleep disorder.
+
+

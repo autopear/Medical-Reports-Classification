@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  52 year old right handed woman with epilepsy since age 11, last seizure was September 11, admitted to Temple with tonic clonic activity and confusion. She is amnestic for the event.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 12 hertz, 40 microvolt posterior dominant rhythm with a generous amount of low voltage, frontocentral beta. Drowsiness is characterized by an increase in beta. Hyperventilation does not significantly activate the record. Photic stimulation elicits a generous photic driving response. 
+HR:    72 beats bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  There are no epileptiform features identified. The generous beta and the generous photic driving response are normal phenomena.
+
+

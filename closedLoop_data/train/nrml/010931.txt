@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 65 year old right handed woman with stroke, diabetes, epilepsy, amputation now with increasing seizures. 
+MEDICATIONS: Dilantin, Heparin, Insulin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is lethargic. The EEG is recorded 24 hours after admission. Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a mixed frequency pattern rich in beta, theta and smaller amounts of alpha frequency activity. In this bedside recording of a somnolent patient, there is some head rocking artifact but a suggestion that the activity may be slower on the right. Stimulation of the patient produces some alpha frequency activity. Vertex waves are observed at end of stage I sleep. 
+HR: 96 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Disorganization. 
+3. Shifting slowing. 
+CLINICAL CORRELATION: No epileptiform features were observed. In that there is some shifting slowing, a repeat study in the Lab is suggested to look for both focal features and epileptiform features. 
+
+
