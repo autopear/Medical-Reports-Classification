@@ -170,6 +170,10 @@ MainWindow::MainWindow(QWidget *parent) :
     connect(m_actionText, SIGNAL(triggered(bool)),
             this, SLOT(exportToText()));
 
+    m_actionFiles = new QAction(tr("To Files"), this);
+    connect(m_actionFiles, SIGNAL(triggered(bool)),
+            this, SLOT(exportToFiles()));
+
     m_actionSVM = new QAction(tr("To SVM"), this);
     connect(m_actionSVM, SIGNAL(triggered(bool)),
             this, SLOT(exportToSVM()));
@@ -180,6 +184,8 @@ MainWindow::MainWindow(QWidget *parent) :
 
     m_menuExport = new QMenu(this);
     m_menuExport->addAction(m_actionText);
+    m_menuExport->addAction(m_actionFiles);
+    m_menuExport->addSeparator();
     m_menuExport->addAction(m_actionSVM);
     m_menuExport->addAction(m_actionLDA);
 
@@ -275,6 +281,7 @@ MainWindow::~MainWindow()
     delete m_menuSave;
 
     delete m_actionText;
+    delete m_actionFiles;
     delete m_actionSVM;
     delete m_actionLDA;
     delete m_menuExport;
@@ -571,6 +578,124 @@ void MainWindow::exportToText()
         }
         file->close();
         delete file;
+    }
+}
+
+static QString getFileName(const QString &path)
+{
+    QStringList tmp = path.split(QRegExp("[\\/]"), QString::SkipEmptyParts);
+    return tmp.last();
+}
+
+void MainWindow::exportToFiles()
+{
+    QString defaultDir = m_lastFiles;
+    if (defaultDir.isEmpty() || !QDir(defaultDir).exists())
+    {
+        QDir current(qApp->applicationDirPath());
+#ifdef Q_OS_MAC
+        current.cdUp();
+        current.cdUp();
+        current.cdUp();
+#endif
+        defaultDir = current.absolutePath();
+    }
+
+    QString saveDir = QFileDialog::getExistingDirectory(this,
+                                                        tr("Save"),
+                                                        defaultDir);
+    if (!saveDir.isEmpty())
+    {
+        m_lastFiles = saveDir;
+        saveSettings();
+
+        QDir dir(saveDir);
+        if (!dir.exists("Negative"))
+            dir.mkdir("Negative");
+        if (!dir.exists("Neutral"))
+            dir.mkdir("Neutral");
+        if (!dir.exists("Positive"))
+            dir.mkdir("Positive");
+
+        if (m_checkUniqueReport->isChecked())
+        {
+            QStringList stemsList;
+            for (int i=0; i<m_listFiles->count(); i++)
+            {
+                QListWidgetItem *item = m_listFiles->item(i);
+                QString report = item->text().replace("\\", "/");
+
+                QStringList stems = m_map.value(report);
+
+                if (m_checkSortWords->isChecked())
+                    stems.sort();
+                if (m_checkUniqueWords->isChecked())
+                    stems.removeDuplicates();
+
+                QString stemsStr = stems.join(" ");
+                if (!stemsList.contains(stemsStr))
+                {
+                    stemsList.append(stemsStr);
+
+                    QString savePath;
+                    switch (item->checkState())
+                    {
+                    case Qt::Unchecked:
+                        savePath = dir.absoluteFilePath(QString("Negative/%1").arg(getFileName(report)));
+                        break;
+                    case Qt::Checked:
+                        savePath = dir.absoluteFilePath(QString("Positive/%1").arg(getFileName(report)));
+                        break;
+                    default:
+                        savePath = dir.absoluteFilePath(QString("Neutral/%1").arg(getFileName(report)));
+                        break;
+                    }
+
+                    QFile *file = new QFile(savePath);
+                    file->open(QFile::WriteOnly);
+                    file->write(stemsStr.toUtf8());
+                    file->close();
+                    delete file;
+                }
+            }
+        }
+        else
+        {
+            for (int i=0; i<m_listFiles->count(); i++)
+            {
+                QListWidgetItem *item = m_listFiles->item(i);
+                QString report = item->text().replace("\\", "/");
+
+                QStringList stems = m_map.value(report);
+
+                if (m_checkSortWords->isChecked())
+                    stems.sort();
+                if (m_checkUniqueWords->isChecked())
+                    stems.removeDuplicates();
+
+                QString stemsStr = stems.join(" ");
+
+                QString savePath;
+                switch (item->checkState())
+                {
+                case Qt::Unchecked:
+                    savePath = dir.absoluteFilePath(QString("Negative/%1").arg(getFileName(report)));
+                    break;
+                case Qt::Checked:
+                    savePath = dir.absoluteFilePath(QString("Positive/%1").arg(getFileName(report)));
+                    break;
+                default:
+                    savePath = dir.absoluteFilePath(QString("Neutral/%1").arg(getFileName(report)));
+                    break;
+                }
+
+                QFile *file = new QFile(savePath);
+                file->open(QFile::WriteOnly);
+                file->write(stemsStr.toUtf8());
+                file->close();
+                delete file;
+            }
+        }
     }
 }
 
@@ -902,6 +1027,8 @@ void MainWindow::loadSettings()
         m_lastOpenWords = settings.value("OpenWords").toString();
     if (settings.contains("Text"))
         m_lastText = settings.value("Text").toString();
+    if (settings.contains("Files"))
+        m_lastFiles = settings.value("Files").toString();
     if (settings.contains("LDA"))
         m_lastLDA = settings.value("LDA").toString();
     if (settings.contains("SortedStems"))
@@ -933,8 +1060,9 @@ void MainWindow::saveSettings()
     settings.setValue("Dir", m_editDir->text().trimmed());
     settings.setValue("SaveReports", m_lastReports);
     settings.setValue("SaveWords", m_lastSaveWords);
-    settings.setValue("OpenWords", m_lastSaveWords);
+    settings.setValue("OpenWords", m_lastOpenWords);
     settings.setValue("Text", m_lastText);
+    settings.setValue("Files", m_lastFiles);
     settings.setValue("LDA", m_lastLDA);
     settings.setValue("SortedStems", m_checkSortWords->isChecked());
     settings.setValue("UniqueStems", m_checkUniqueWords->isChecked());

@@ -283,7 +283,7 @@ void MainWindow::onCurrentItemChanged()
     if (QFile::exists(path))
     {
         m_browser->setAcceptRichText(false);
-        m_browser->setLineWrapMode(QTextBrowser::NoWrap);
+        m_browser->setLineWrapMode(m_check->isChecked() ? QTextBrowser::WidgetWidth : QTextBrowser::NoWrap);
 
         QFile *file = new QFile(path);
         file->open(QFile::ReadOnly | QFile::Text);

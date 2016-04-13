@@ -39,6 +39,7 @@ private slots:
     void saveReports();
     void saveWords();
     void exportToText();
+    void exportToFiles();
     void exportToSVM();
     void exportToLDA();
     void onReporsListed(const QStringList &reports);
@@ -99,6 +100,7 @@ private:
     QPushButton *m_btnExport;
 
     QAction *m_actionText;
+    QAction *m_actionFiles;
     QAction *m_actionSVM;
     QAction *m_actionLDA;
     QMenu *m_menuExport;
@@ -112,6 +114,7 @@ private:
     QString m_lastReports;
     QString m_lastSaveWords;
     QString m_lastText;
+    QString m_lastFiles;
     QString m_lastLDA;
     QString m_lastOpenWords;
     QString m_lastImport;

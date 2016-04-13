@@ -6,3 +6,4 @@ debug
 release
 build-*-debug
 build-*-release
+*.cfg

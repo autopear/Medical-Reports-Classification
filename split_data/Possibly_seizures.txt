@@ -48,7 +48,6 @@ isip/data/tuh_eeg/v0.6.0/edf/007/00001217/s04_2013_01_01/00001217_s04.txt
 isip/data/tuh_eeg/v0.6.0/edf/007/00001318/s03_2013_11_14/00001318_s03.txt
 isip/data/tuh_eeg/v0.6.0/edf/007/00001318/s04_2013_11_14/00001318_s04.txt
 isip/data/tuh_eeg/v0.6.0/edf/007/00001318/s05_2013_11_14/00001318_s05.txt
-isip/data/tuh_eeg/v0.6.0/edf/008/00001374/s08_2012_06_13/00001374_s08.txt
 isip/data/tuh_eeg/v0.6.0/edf/008/00001485/s07_2012_02_17/00001485_s07.txt
 isip/data/tuh_eeg/v0.6.0/edf/008/00001485/s08_2012_01_24/00001485_s08.txt
 isip/data/tuh_eeg/v0.6.0/edf/009/00001618/s01_2012_06_13/00001618_s01.txt
