@@ -85,8 +85,10 @@ QStringList Stemmer::stemSentence(const QString &sentence)
     foreach (QString word, list)
     {
         QString stemmed = stemWord(word);
+        while (stemmed.contains("--"))
+            stemmed = stemmed.replace("--", "-");
         if (stemmed.size() > 1)
-            stemList.append(stemWord(word));
+            stemList.append(stemmed);
     }
     return stemList;
 }
@@ -148,6 +150,8 @@ QStringList Stemmer::stemSentence(const QString &sentence,
     foreach (QString word, list)
     {
         QString stemmed = stemWord(word);
+        while (stemmed.contains("--"))
+            stemmed = stemmed.replace("--", "-");
         if (stemmed.size() < 2 || //Skip single character
                 isNum(stemmed) || //Skip pure number
                 isNumberSuffix(stemmed, filterNumerSuffixes) || //Skip number plus a suffix
@@ -155,7 +159,7 @@ QStringList Stemmer::stemSentence(const QString &sentence,
                 filterWords.contains(stemmed)) //Skip user defined words
             continue;
 
-        stemList.append(stemWord(word));
+        stemList.append(stemmed);
     }
     return stemList;
 }
