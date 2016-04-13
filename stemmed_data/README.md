@@ -1,4 +1,4 @@
-##[category_0](https://github.com/autopear/CIS5538-Project/stemmed_data/category_0)
+##[category_0](category_0)
   - `Filter Words`:  No
   - `Stop Words`:    No
   - `Numbers`:       No
