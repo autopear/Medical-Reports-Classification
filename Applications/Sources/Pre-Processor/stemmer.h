@@ -12,8 +12,6 @@ public:
     static QStringList stemSentence(const QString &sentence,
                                     const QStringList &filterWords,
                                     const QStringList &filterNumerSuffixes);
-
-    static QStringList stopWords();
 };
 
 #endif // STEMMER_H

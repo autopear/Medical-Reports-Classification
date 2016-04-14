@@ -398,6 +398,7 @@ void MainWindow::stem()
     m_groupFile->setEnabled(false);
     m_groupStem->setEnabled(false);
     m_groupIgnoreWord->setEnabled(false);
+    m_groupIgnoreSuffix->setEnabled(false);
     m_btnSave->setEnabled(false);
     m_btnStem->setEnabled(false);
     m_btnExport->setEnabled(false);
@@ -829,6 +830,7 @@ void MainWindow::onFinished()
     m_btnImport->setEnabled(true);
     m_btnStem->setEnabled(true);
     m_groupIgnoreWord->setEnabled(true);
+    m_groupIgnoreSuffix->setEnabled(true);
     m_btnStem->setText(tr("Stem"));
 
     if (!m_map.isEmpty())
