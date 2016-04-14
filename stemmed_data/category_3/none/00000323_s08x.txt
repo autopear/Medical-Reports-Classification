@@ -1,1 +1,1 @@
-abnorm eeg focal remark seizur sharp slow
+abnorm eeg focal no remark seizur sharp slow

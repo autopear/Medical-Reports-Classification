@@ -1,1 +1,1 @@
-behavior eeg electrod event remark seizur spike took
+behavior eeg electrod event no remark seizur spike took

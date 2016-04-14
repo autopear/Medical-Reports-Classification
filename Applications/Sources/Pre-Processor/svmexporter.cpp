@@ -49,11 +49,11 @@ void SVMExporter::run()
         if (m_dialog->m_radioIDF1->isChecked())
             idf = 1;
         else if (m_dialog->m_radioIDF2->isChecked())
-            idf = ExportSVMDialog::getIDF(m_dialog->m_mapDocCount.value(word), m_dialog->m_docCount);
+            idf = ExportSVMDialog::getIDF(m_dialog->m_mapDocCount.value(word) + 1, m_dialog->m_docCount);
         else if (m_dialog->m_radioIDF3->isChecked())
-            idf = ExportSVMDialog::getIDFSmooth(m_dialog->m_mapDocCount.value(word), m_dialog->m_docCount);
+            idf = ExportSVMDialog::getIDFSmooth(m_dialog->m_mapDocCount.value(word) + 1, m_dialog->m_docCount);
         else
-            idf = ExportSVMDialog::getIDFP(m_dialog->m_mapDocCount.value(word), m_dialog->m_docCount);
+            idf = ExportSVMDialog::getIDFP(m_dialog->m_mapDocCount.value(word) + 1, m_dialog->m_docCount);
 
         idfMap.insert(word, idf);
     }
