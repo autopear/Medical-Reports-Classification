@@ -1,0 +1,10 @@
+CLINICAL HISTORY:   57 year-old male with epilepsy 20 years ago secondary to alcohol abuse.  The patient stopped drinking 20 years ago but continues to have 3 seizures a year which are characterized  by nocturnal seizures with tongue biting and incontinence.
+MEDICATIONS:   Dilantin, Carbamazepine,  Lovastatin,
+INTRODUCTION:   Digital video EEG is performed in lab using standard 10-20 system
+of electrode placement with 1 channel of EKG.  Hyperventilation  was performed.  Photic stimulation was performed.  This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness background EEG is appropriately organized for age with an 8.5-Hz posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Hyperventilation  was performed early in the record producing rhythmic theta in the background.  Vertex waves are observed in stage I sleep.  Photic stimulation does not activate the record.
+	HR:	84 bpm
+IMPRESSION:  EEG within normal limits in wakefulness and brief drowsiness.
+CLINICAL CORRELATION: No epileptiform features are observed in this record.  To more completely characterize  underlying epileptiform activity, a more prolonged record, capturing more extensive sleep is suggested.
+
+

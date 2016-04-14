@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 38-year-old, right-handed woman with previous brain tumor resection with skull defect in the right frontotemporal region nine years ago, developed seizures in “3/87,” which was described after the brain tumor resection.  Last seizure 02/14/05 characterized by loss of awareness and generalized shaking occurring three to five times per year. 
+MEDICATIONS: Dilantin and Northline. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: This EEG is remarkable for a fair amount of muscle artifact, which persists even into sleep for this individual.  The background demonstrates some mild, bilateral slowing with excess beta and generous beta from both hemispheres.  There is a 9 Hz posterior dominant rhythm, which can be identified.  There is intermittent focal slowing from the right hemisphere characterized by higher amplitude, slower theta frequency activity, which is more remarkable when the patient is drowsy. Hyperventilation does not significantly activate the record.  Photic stimulation does not elicit a clear driving response.  
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Mild, background slowing and poor organization.
+Intermittent focal slowing with higher amplitude theta from the right hemisphere seen as the patient becomes drowsy. 
+CLINICAL CORRELATION: Given the prominent skull findings and history, the features described above are less remarkable than one might anticipate.  No epileptiform features were seen.
+
+

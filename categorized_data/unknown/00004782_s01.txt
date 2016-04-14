@@ -1,0 +1,12 @@
+IDSTORY: 72 yr old male with right parietal meningioma complicated by an abscess with seizures in June characterized by transient unilateral numbness.
+MEDICATION: Dilantin, Plavix. ACTIVATION: Photic Stimulation.
+INTRODUCTION: Digital Video EEG was performed in the lab using standard 10-20
+system of electrode placement with one channel of EKG.
+DESCRIPTION  OF  THE  RECORD:  In  wakefulness, there  is  a  9  Hz,  30-SOuV posterior  dominant  rhythm.    There  is  some  head-rocking  artifact  due  to  the  skull deformity in the right occipital region and some underlying right occipital delta.  In drowsiness, focal delta is more prominent and there is a suggestion of a P4 sharp wave. Photic stimulation elicits brief driving, which is better visualized on the right than the left.
+HR:  84BPM.
+IMPR ESSION: Abnormal EEG due to:
+1.   Focal delta in the right occipital scalp region
+2.   In the context of a breech, there is a suspicious right parietal sharp wave
+CLINICAL CORR  ELATION:  If necessary, additional EEG recording capturing sleep may be helpful to further characterize the epileptiform activity in the context of a breech rhythm.
+
+

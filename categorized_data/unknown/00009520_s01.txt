@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 53-year-old male with hepatic failure, hepatitis C, crytococcyl meningitis and first ever convulsion with right facial twitching.
+MEDICATIONS: Midazalam drip,  Dilantin, and others.  
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is noted to have facial twitching during the record.   
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is intubated, lying motionless in the ICU.  The camera is to the left of the patient’s face, but the tech’s notes indicate that the patient has facial twitching on the right side of the face.  The background EEG is diffusely slow with a mixture of theta and delta, as well as smaller amounts of beta.  There is continuous twitch artifact picked up on the scalp electrodes, particularly those on the right, but identified bilaterally.  Stimulation of the patient produces an increase in fast activity, but does not alter the muscle artifact. 
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with a mixture of delta, beta, and theta frequency activity.
+CLINICAL CORRELATION: The muscle twitching is not associated with a scalp EEG correlate, but it does compromise the quality of this record.  This EEG supports a diffuse disorder of cerebral function effecting both gray and white matter.  The generous beta may be related to the Midazalam drip.  A follow-up EEG may be of use given the artifact seen above.  
+
+

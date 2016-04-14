@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  43 year old right handed female with a history of rapidly progressive dementia and Parkinsonism who presented with change in mental status and spontaneous jerks.
+MEDICATIONS:  Dilantin, Valium.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness.  Photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  The patient remained awake and would move throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 4 Hz, which is not reactive to eye opening and closing.  There is a lack of normal frontocentral beta.  No normal sleep architecture is seen.  Photic stimulation produced no abnormal discharges. 
+ABNORMAL DISCHARGES:  Generalized slow waves at 2 to 4 Hz with an amplitude of 20 to 40 microvolts, which at times do appear to have a pseudoperiodic pattern but does not remain constant. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves.
+CLINICAL CORRELATION:  This EEG is consistent with diffuse cerebral dysfunction, which is nonspecific with regard to etiology.  No seizures were seen.
+
+

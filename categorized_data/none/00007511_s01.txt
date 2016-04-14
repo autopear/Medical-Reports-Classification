@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Patient with forgetfulness.
+CLINICAL HISTORY:  A 49-year-old woman having forgetfulness for 1-1/2 years with a history of dementia, Alzheimer's, anxiety and depression.
+MEDICATIONS:  Citalopram, Flonase, clonidine.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with a anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness, stage 1 and stage 2 sleep.  Activating procedures including hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  The record reaches a posterior dominant rhythm of 9 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded during wakefulness, stage 1 and stage 2 sleep.  Activating procedure including photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  Focal slow waves seen intermittently at F3/F7 at a frequency of 2-4 Hz, amplitude of 20-60 mV.  In addition there was a single slow wave at C4 which is only seen once during sleep.  It may be part of sleep architecture.
+SEIZURES:  None.
+HEART RATE:  60
+IMPRESSION:  Abnormal EEG due to left frontal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals areas of focal cerebral dysfunction in the left frontal region, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were clearly seen.
+
+

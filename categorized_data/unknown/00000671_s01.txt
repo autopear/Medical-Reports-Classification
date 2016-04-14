@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 35-year-old, right-handed woman with TTP who had a severe crisis on 10/21/05, with confusion and a seizure.  Previous seizures 19 years ago. 
+MEDICATIONS: Dilantin, Benadryl, Ativan, plasmapheresis, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is disorganized.  There is excess background theta with a posterior dominant rhythm ranging from 6 to 9 Hz.  There are isolated bursts of rhythmic frontal delta and occasional bursts of shifting arrhythmic delta.  As the patient becomes drowsy, there is an increase in background slowing and rhythmic frontal slowing.  Frontal eye movement artifacts are identified.  Photic stimulation elicits bilateral driving.  
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing and disorganization.
+FIRDA.
+CLINICAL CORRELATION: Given the clinical history, the background slowing and disorganization may be due to the acute hypercoagulable process last week: TTP crisis and seizure.  Consideration for an ongoing disturbance of cerebral function is important.  Correlation with neurological exam and imaging is recommended.  
+
+

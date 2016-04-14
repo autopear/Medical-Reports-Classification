@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 26-year-old, non-English speaking male with seizures since age 21, one-month seizure free.
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with an 11 Hz, 40 uV posterior dominant rhythm and a modest amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by a prominent increase in background beta.  Photic stimulation elicits brief bilateral driving.  There is some eye movement artifact in the anteriotemporal electrodes, but no clear focal or epileptiform features.
+HR:  72 BPM.
+	IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record. If epilepsy is an important consideration, a repeat tracing using techniques such as sleep deprivation and/or hyperventilation may be valuable. 
+
+

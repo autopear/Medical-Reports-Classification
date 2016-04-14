@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 68-year-old woman with an anoxic/hypoglycemic episode in the field, acute renal failure, prior left MCA stroke with chronic hemiparesis and aphasia, now persistently unresponsive.
+MEDICATIONS: Valproate, Vancomycin, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is unresponsive with occasional eye movement or facial grimacing and unilateral deviation of the right eye (left eye prosthetic).  
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal.  The activity from the left hemisphere is relatively suppressed with occasional left mid-to-posterior temporal sharp waves.  The right hemisphere demonstrates essentially a theta pattern.  There are occasional frontal sharp waves, left greater than right, some of which have a periodic nature to them.  Stimulation of the patient does not significantly active the record.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Intrahemispheric asymmetry, slower on the left than the right.
+Left mid-temporal sharp waves. 
+Right frontal or bilateral periodic complexes. 
+CLINICAL CORRELATION: This EEG supports a severe, diffuse disorder of cerebral function.  Processes involving each hemisphere should be considered.  Correlation with follow-up neuroimaging may be helpful.  No seizures were recorded.  
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  37-year-old right handed woman with epilepsy, encephalopathy, sepsis, TIP.
+MEDICATIONS:   Dilantin, Benadryl, Fentanyl, Esomepraxole, Insulin, Heparin, Zosyn
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG .The patient is described as awake but somewhat confused.
+DESCRIPTION  OF THE RECORD:  Background EEG is slow and disorganized. It includes a dynamic pattern with it times 6 - 7 Hz theta activity in the background and a suggestion of a posterior dominant rhythm. This pattern is interrupted by bursts of rhythmic frontal delta as well as bursts of lower voltage more diffuse delta. The patient waxes and wanes but as she drifts off to sleep, there is an increase in delta. Occasional shifting asymmetries are observed.
+	HR: 	96 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Generalized background slowing.
+	2. 	Poor organization.
+	3. 	Frontal intermittent rhythmic delta activity (FIRDA).
+CLINICAL CORR ELATION:  These features are nonspecific but are most characteristic of a metabolic encephalopathy. They can be seen in the post ictal state. This patient's previous EEG, October 27, 2005, was not available for comparison.
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 44-year-old male with renal failure, substance abuse, hypertension, and recent “GFC BAC.”  Patient had a past tonic-clonic seizure with tongue biting. 
+MEDICATIONS: Tylenol, Percocet, Daptomycin, and Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG includes an alpha rhythm that reaches only 8  Hz, 40 uV with a small amount of low voltage, frontocentral beta activity.  Much of the record includes a bit of drowsiness or quiet wakefulness where the background is somewhat slower.  Rare triphasic waves are seen.  Vertex waves, K complexes, and spindles are seen in sleep.  
+HR:  84 BPM.
+	IMPRESSION: Mildly abnormal EEG for an adult of this age due to:
+Mild slowing of the background rhythm.
+Mild generalized slowing. 
+Rare triphasic waves. 
+CLINICAL CORRELATION: These features together support a metabolic disturbance.  No epileptiform features were seen. 
+
+

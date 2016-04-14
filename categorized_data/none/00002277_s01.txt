@@ -1,0 +1,14 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  This is a 54-year-old man with history of epilepsy secondary to right temporal lobe metastases.  Presented with a seizure and was given 10 mg of Ativan and loaded with Dilantin in the ER.  EEG to rule out subclinical status epilepticus.
+TECHNICAL DIFFICULTIES:  None.
+MEDICATIONS:  Versed, Ativan, Dilantin.
+INTRODUCTION:  Digital video EEG is performed using standard 10-20 system of electrode placement with single lead of EKG.  The patient was recorded while unresponsive.  Activating procedures were not performed.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontocentral beta.  The patient is recorded while he is unresponsive and no normal sleep architecture is seen.  No activating procedures are performed.  The patient is stimulated during the recording and there appears to be some muscle artifact and mild reactivity to the EEG.  Overall, the background consists of delta, low amplitude delta slow waves with intermittent bursts of theta and some focal slowing which are described beyond normal discharges.   
+Abnormal discharges: 
+Focal slow waves seen intermittently over the right hemisphere, maximal at C4/T4 at a frequency of 2-4 Hz, amplitude of 20 microvolts.  
+Generalized slow waves at 2-4 Hz, amplitude 20 microvolts, occurring continuously with intermixed theta slowing seen infrequently.  Again, there is some reactivity to this EEG.   
+Heart rate:  90.
+IMPRESSION:  Abnormal EEG due to generalized slowing, as well as some right central temporal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right centrotemporal region which is consistent with a known tumor.  In addition, there is evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology, but may be due at least in part to medication effect.  No seizures or clear epileptiform discharges were seen.
+
+

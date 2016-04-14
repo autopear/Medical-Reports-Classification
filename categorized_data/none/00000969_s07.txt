@@ -1,0 +1,11 @@
+	CLINICAL HISTORY:  42 year old right handed man presents with intractable seizures in sleep.
+MEDICATIONS:  Carbamazepine
+INTRODUCTION:  Long-term digital video/EEG was performed at bedside using standard 10-20 electrode placement system and EKG anterior temporal electrodes.  Continuous seizure detection software as well as spike detection software was utilized and supplemented by patient activator alarm, nursing observation and testing.  The video/EEG files were reviewed on a daily basis.
+DESCRIPTION OF THE RECORD:  The background record presents with a posterior dominant rhythm at 9-10 Hz with normal frontocentral beta.  All sleep stages are seen.   
+No seizures were captured and patient events were reported.
+ABNORMAL INTERICTAL DISCHARGES:  None. 
+ICTAL DISCHARGES:  None. 
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION: No evidence of seizures were captured during the past 24 hours.
+
+

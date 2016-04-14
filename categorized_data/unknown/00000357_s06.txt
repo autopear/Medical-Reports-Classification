@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  55 year old woman admitted on 22nd with epiglottitis, status post anoxic insult followed by status epilepticus.
+MEDICATIONS:  Dilantin, Depakote, Clindamycin, Ativan, Morphine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a very low voltage pattern in an individual who is intubated with eye opening.  There is muscle artifact noted.  There is scant theta noted in the background which is difficult to distinguish from some of the patient's eye movements.  Stimulation of the patient does not activate the record.  The patient is noted to have a gasp or cough which does produce additional eye flutter.   
+HR:   120 bpm
+IMPRESSION:  This EEG was remarkable for: 
+Suppressed cerebral activity.
+Scant theta
+CLINICAL CORRELATION:  There is some cerebral activity and clearly, the video demonstrates cranial nerve function.  Because of the prominence of the eye findings 
+and the history of frontal sharp or spike activity, a study with sustained eye closure is suggested.
+
+

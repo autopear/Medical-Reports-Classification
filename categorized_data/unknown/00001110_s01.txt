@@ -1,0 +1,10 @@
+	CLINICAL HISTORY: 	59 year-old male with head trauma in 1980s, seizure-free for the last 15 years, history of hypertension, asthma and blood clots.
+MEDICATIONS:   Zolpidem, Coumadin, Lasix, Digoxin, BuSpar, Dilantin.
+INTRODUCTION:   Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. The patient is relatively somnolent during the EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz posterior dominant rhythm identified briefly. Much of the waking background is a little slower and has a small amount of excess theta. Behaviorally, the patient appears to be sleepy. Vertex waves and spindles are observed in stage II sleep. The patient is finally awakened more completely at the close of the record for photic stimulation at which point a more consistent background of a slow background with an alpha of 7.5 Hz is observed. Photic stimulation does not activate the record.
+	HR: 	66 bpm
+IMPRESSION:   Abnormal EEG due to:
+1.  Slowing of the background.
+CLINICAL CORRELATION:  Adequate testing of this patient, including cognitive tests, were not performed to make sure that the patient was adequately awake. To be certain that this is truly a slow record, a repeat tracing with testing to make sure that he is adequately awake, having him count backwards from 10 or do other cognitive tasks is advised.
+
+

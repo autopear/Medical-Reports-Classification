@@ -1,0 +1,18 @@
+INTRODUCTION: 
+Routine EEG with this was performed using the standard 10-20 electrode placement system with anterior temporal electrodes and EKG electrodes. Wakefulness and stage I sleep were recorded. No hyperventilation was performed, but photic stimulation was performed. 
+MEDICATIONS: 
+Keppra. 
+TECHNICAL PROBLEMS: 
+CZ electrode artifact and P3 electrode artifact noted during the recording. 
+HISTORY: 
+An 86-year-old with past medical history of subdural hemorrhage status post evacuation, hypertension, dementia, dyslipidemia presented with two episodes of syncope. 
+DESCRIPTION OF RECORD: 
+The record opens to the posterior dominant rhythm of 9 to 10Hz and 20-60 microvolts amplitude, which is reactive to eye opening. There is a small amount of frontal central beta seen. Stage I is seen. Photic stimulation produces no abnormal discharges. No hyperventilation was performed. 
+ABNORMAL DISCHARGE: 
+There is almost continuous focal slowing at F7/T3 with a frequency of 2 to 4 Hz and amplitude 20 to 50 microvolts. There is also an increased amplitude and frequency consistent with a breach. 
+IMPRESSION: 
+Abnormal EEG due to the left anterior temporal slowing. 
+CLINICAL CORRELATION: 
+This EEG reveals evidence of focal structural dysfunction in the left anterior temporal region, which is consistent with the known subdural and craniotomy. No seizures or epileptiform activity were seen. 
+
+

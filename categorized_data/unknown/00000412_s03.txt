@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 34-year-old, right-handed woman with two clearly defined seizures in the past.  Patient recently reported poorly defined episodes in which she felt slightly spacey.  Now, she reports multiple, nearly daily episodes, where she seems to lose track of time and is behaving oddly.  History of Lamictal intolerance. 
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: The background EEG is well organized with a 10.5 Hz, 40 to 70 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Notable in this record, is nearly continuous left mid-to-anteriotemporal focal slowing with rhythmic theta and sharp waves and/or spikes that can be seen in wakefulness and drowsiness, as well as in hyperventilation and demonstrates phase reversal at T1.  There are rare sharp waves identified in T2.  The epileptiform activity can be clearly distinguished from eye movement.   Features of drowsiness include some hypersynchronous rhythmic bifrontal notched 4 to 5 Hz activity, but without a definitive spike and slow wave complex.  
+Hyperventilation seems to accentuate the focal slowing described above.  Photic stimulation elicits a bilateral driving response.  
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Nearly continuous focal slowing.
+	Prominent left temporal sharp waves. 
+CLINICAL CORRELATION: The left temporal epileptiform activity has been seen on at least one previous EEG.  In the August 2004, 4 to 4.5 Hz spike and slow wave activity was seen, and some subtle but not definitive epileptiform activity in the 06/05 EEG.  Additional evaluation in terms of an increasingly epileptogenic process is appropriate.
+
+

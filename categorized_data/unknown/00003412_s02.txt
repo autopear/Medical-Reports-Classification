@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 51-year-old woman with a left parietal occipital stroke with bilateral carotid stenosis, admitted on Thursday for increasing seizures with persistent although improving receptive aphasia.  
+MEDICATIONS: Dilantin, Topiramate, aspirin, Plavix, and Heparin.
+INTRODUCTION: Digital video EEG is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and asleep record. There is no log for this patient and no push button events were recorded.  
+DESCRIPTION OF THE RECORD: There are portions of the record where the EEG is well organized with a 9.5 Hz, 30 to 50 uV posterior dominant rhythm and at best just a small amount of subtle focal slowing from the left occipital region.  There are portions of the record that are free of focal slowing.  Intermittent rhythmic, sharply contoured 3 to 5 Hz activity is identified from the left hemisphere with brief bursts seen in wakefulness and drowsiness.  There is no testing of this patient in this 24-hour section and there is no clinical correlate.  The patient is accompanied by her husband at 1800 hours.  In this portion of the record, there is some artifact but there is less in the way of the intermittent rhythmic bursts from the left temporal region.  
+Features of sleep include an increase in background beta and attenuation of the alpha rhythm.  There are bursts of sharply contoured delta identified in sleep, maximum at T1.  
+There are a handful of bursts of bilateral arrhythmic temporal slowing with a single T4 sharp wave.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Bursts of rhythmic, sharply contoured mixed theta and delta activity from the left temporal region. 
+Rare isolated bursts of sharply contoured delta from the left seen in sleep.
+A single T4 sharp wave.
+CLINICAL CORRELATION: Additional testing would be important to determine if the bursts described above are associated with a clinical change in this patient’s language capacity, which would suggest an ictal nature for her.  
+
+

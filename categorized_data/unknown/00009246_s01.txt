@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 65-year-old woman with COPD, previous CVA, and epilepsy.  Patient off anti-seizure medication; acute seizure in the setting of severe medical illness.  
+MEDICATIONS: Neurontin, Dilantin, and Ativan. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake and responsive throughout the EEG. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a remarkable intrahemispheric asymmetry.  From the left, there is a posterior dominant rhythm reaching frequencies up to 7 Hz. From the right, there is arrhythmic delta and periodic high amplitude spike and slow wave and sharp and slow wave complexes.  These are seen in wakefulness into sleep.  There is an increase in the epileptiform activity in sleep and additional rhythmic theta and delta.  With stimulation, however, the patient is easily arousable and follows commands.  In addition, with stimulation, the epileptiform activity decreases.  As the recording continues, the epileptiform activity decreases and there is an increase in theta frequency activity from both hemispheres.  There are brief bursts, which are seen building up close to the close of the record, with bursts of periodic sharp waves maximum in the temporal regions, lasting approximately two minutes without clinical correlate. Again, however, stimulation of the patient produces an alerting response and a decrease in the epileptiform activity.  
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Frequent, high amplitude, periodic sharp waves sometimes appearing in bursts with evolution but without clear clinical correlate. 
+CLINICAL CORRELATION: In this easily arousable and interactive patient, this EEG supports a very irritative process, but no clinical seizures were recorded and no definite subclinical seizures were recorded.  Ongoing treatment and evaluation is appropriate. 
+
+

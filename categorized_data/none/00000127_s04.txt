@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 70 year old right handed female with history of seizures, hypertension, cirrhosis, hyperlipidemia, reflux and hypothyroidism presents with multiple seizures.
+MEDICATIONS:  Dilantin, Keppra, Phenobarbital, Ativan, Pancuronium.
+REASON FOR EEG:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one anterior temporal and EKG electrodes.  The patient was obtunded during the recording. No activating procedures were performed.
+TECHNICAL DIFFICULTY:  Increased muscle artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no clear posterior dominant rhythm, no normal frontocentral beta or sleep architecture.  No activating procedures were performed.
+ABNORMAL DISCHARGES:  Generalized slow waves at 2 Hz seen continuously throughout the recording.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Marked generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of severe cerebral dysfunction, which is nonspecific in regards to etiology but may be due at least in part in this patient to medication effect.  No seizures or epileptiform discharges were seen.
+
+

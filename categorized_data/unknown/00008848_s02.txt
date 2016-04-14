@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 92-year-old male, hospitalized since March, status-post cardiac arrest prior to 5/18/06 occurring “x two days.”  History of hypertension, dementia, and COPD. 
+MEDICATIONS: Morphine, Haldol, Ativan, and Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient has a trache and eye movements. 
+DESCRIPTION OF THE RECORD: The background EEG is remarkable for a very low voltage pattern with muscle artifact and eye movement.  Stimulation of the patient produces artifact.  There is a suggestion of a scant amount of low voltage 3 to 4 Hz activity seen occasionally throughout the record.  
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Paucity of cerebral activity. 
+CLINICAL CORRELATION: There is some scant activity, which may be cerebral in origin.  This activity may also represent background artifact.  To clarify this issue, if clinically appropriate, a repeat tracing with a neuromuscular blocking agent may be used.  
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 77-year-old, HIV male with epilepsy, hepatitis, and stroke, now with anorexia and hallucinosis.  
+MEDICATIONS: Dilantin, Diflucan, and Percocet.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake record. 
+DESCRIPTION OF THE RECORD: The background EEG is reasonably well organized for a subject of this age.  There is variability in the posterior dominant rhythm, ranging from 8 to 10 Hz.  There is a small amount of background theta.   Features of drowsiness include an increase in background theta and there are rare, left frontal sharp waves seen in the transition to stage II sleep. Deeper stages of sleep are not sustained. 
+HR:  __ BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+Mild background slowing. 
+Two left frontal sharp waves. 
+CLINICAL CORRELATION: In this patient with a history of seizures and stroke, this would support a localization mechanism for his epilepsy. No hallucinations were reported during the record and no subclinical seizures were identified.    
+
+

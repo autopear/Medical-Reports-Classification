@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 64-year-old male with status epilepticus, stroke, right MCA, and craniotomy scar.  
+MEDICATIONS: Phenobarbital, Ativan, antibiotics, Dilantin, and Solumedrol.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and coughing, but somewhat somnolent record.  
+DESCRIPTION OF THE RECORD: The background EEG is low voltage with continuous beta frequency activity and spontaneous eye movements.  There is a subtle breach with some higher amplitude theta frequency identifiable from the right in what is an overall low voltage pattern. As the sensitivity is increased, diffuse background theta can be identified in this beta pattern.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with primarily low voltage beta and smaller amounts of theta.
+CLINICAL CORRELATION: The previous craniotomy may explain the amplitude asymmetry from the right.  No epileptiform features were identified in this record.  
+
+

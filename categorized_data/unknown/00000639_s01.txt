@@ -1,0 +1,11 @@
+CLINICAL HISTORY: An 83-year-old woman who fell down the stairs  a  week ago, found unconscious after a possible seizure. Has a small right frontal subdural and a few subarachnoid hemorrhage, persistently obtunded.
+MEDICATIONS:   Morphine, Dilantin,  Famotidine, Lopressor
+Digital video EEG is performed at bedside using the standard 10-20 systolic murmur of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  The patient is awake, somewhat agitated and keeps looking from side-to-side. When maximally awake, the background includes primarily a state of frequency pattern with a posterior dominant rhythm reaching 6 Hz at best with intermittent bursts of somewhat irregular, bilateral fundal delta which is slower in frequency in the right frontal region in comparison to the left.
+	HR:	84 bpm
+IMPRESSION: Abnormal EEG due to:
+	1.	Generalized background slowing.
+	2.	Bursts of generalized delta which are slower on the right.
+CLINICAL CORRELATION:   This EEG supports a diffuse disturbance of cerebral function affecting both hemispheres. The slower delta on the right is congruent with the neurosurgical history. No sharp waves were observed.
+
+

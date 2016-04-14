@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 61-year-old, right-handed male with a right frontal glioblastoma. 
+MEDICATIONS: Percocet, Dilantin, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed. Previous EEGs are not available for comparison.  The patient is somnolent and confused.  
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous, low voltage mixed frequency pattern.  It is relatively homogenous.  There is a subtle asymmetry with disruption of faster frequency activity from the right hemisphere compared to the left.  There are also a handful of left frontotemporal sharp waves.  Features of drowsiness include an increase in background beta.  Photic stimulation is associated with a brief dramatic alerting response.   There is also F3 alpha frequency activity artifact picked up.  
+HR:  110 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Severe background slowing.
+Intrahemispheric asymmetry with greater slowing on the right compared to the left and disruption of faster frequency on the right.
+Rare left anteriotemporal sharp waves.
+An unusual area with rhythmic alpha frequency activity seen in photic stimulation and at other times, but without a clear correlate.
+CLINICAL CORRELATION: This EEG supports a severe disturbance of cerebral function affecting both gray and white matter.  No seizures were recorded.  Correlation with imaging may be valuable.  Of note, this EEG was compared to previous records.  This EEG was obtained for an intraventricular hemorrhage, not a brain tumor.  Sharp waves were identified contralateral to the CNS lesion in previous studies.  
+
+

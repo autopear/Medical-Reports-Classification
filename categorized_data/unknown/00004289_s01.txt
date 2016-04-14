@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 60-year-old woman with syncope at church in September, heart attack in April, and possible seizures. 
+MEDICATIONS: Dilantin, Lasix, Quinapril, Digitek, Isosorbide.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a symmetric, reactive 8.5 Hz, 20 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by occasional, right or left temporal theta activity followed by vertex waves.  There are multiple arousals from stage I sleep with vertex waves, K complexes, and then additional arousals.  
+Hyperventilation is performed with good effort producing some bursts of slowing at the end of hyperventilation.  Photic stimulation elicits brief bilateral driving.  
+HR:  78 BPM.
+	IMPRESSION: Normal EEG in wakefulness and sleep for a subject of this age. 
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  If epilepsy is an important consideration, a repeat tracing capturing deeper stages of sleep would be of help.  
+
+

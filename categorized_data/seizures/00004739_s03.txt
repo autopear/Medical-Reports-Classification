@@ -1,0 +1,16 @@
+CLINICAL HISTORY: This is a 67-year-old woman with a subdural hematoma, hepatic failure, heart failure, seizures characterized by generalized shaking with occasional jerking of the left shoulder, progressive unresponsiveness.  
+MEDICATIONS: Hydralazine, Ativan, Dilantin, Topamax, Topiramate, and many others.   
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is progressively unresponsive. 
+DESCRIPTION OF THE RECORD: During much of the recording, the patient is poorly responsive.  The background ranges from low voltage with a mixture of delta and theta to intermittent left temporal sharp waves. There are intermittent bursts of arrhythmic delta from the left.  There are also occasional, frontally predominant triphasic waves.  
+The patient has multiple practice push buttons, which are not associated with a change in the EEG.  
+Through the course of the night, at 1:00 AM through 3:00 AM, the nurses identify focal jerking of the left shoulder.  This occurs at 1:10 AM, 2:19 AM, 3:02 AM, and 3:08 AM.  During the episodes with the myoclonus, particularly involving the left shoulder in this patient with a right hemiparesis, while there are no definite electrical seizures, there are triphasic waves.  
+At 3:03 AM, there is another push button by the nursing staff for similar activity.  At this time, there is more delta identified from the left temporal region.  The delta is sharply contoured and is relatively prolonged.  While it doesn’t clearly evolve, it represents more delta than previously seen with a vague, poorly defined seizure onset and off set. 
+At the close of the record, the EEG continues to show a slow pattern with delta activity and sharp waves, most prominent in the left temporal region, as well as occasional triphasic waves.  
+HR:  90 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:
+Frequent left temporal sharp waves and focal slowing.
+Triphasic waves.
+A single, poorly defined seizure at 3:00 AM.
+CLINICAL CORRELATION: This tracing supports a metabolic process, as well as a partial or localization-related mechanism for epilepsy.  The seizures that are identified by the EEG have weak clinical correlates.  
+
+

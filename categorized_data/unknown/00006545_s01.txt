@@ -1,0 +1,7 @@
+CLINICAL HISTORY: This is a 64-year-old woman, nursing home resident, found to be unresponsive with ongoing epileptiform activity.
+MEDICATIONS: Dilantin, Phenobarbital, benzodiazepines. 
+INTRODUCTION: This 24-hour continuous long-term video EEG monitoring is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This study begins at 1:00 PM.    
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is unresponsive.  There is no motor twitching.  There is no individual at the bedside performing testing.  The background is slow with a mixture of featureless theta and smaller amounts of arrhythmic delta activity.  There are occasional but not sustained or repetitive left anterior temporal spike and slow wave and sharp and slow wave complexes with variable fields of spread including anteriotemporal and posteriotemporal.  There are also a handful of sharp waves noted from the right hemisphere.  As the recording continues, by report, the patient receives additional doses of medications.  No clinical seizures are observed.  By 15:39, the EEG demonstrates a much more homogeneous background with more of a pattern of rhythmic theta with occasional sharp waves, but no sustained PLED-like activity.  As the recording continues, although there are portions with sharp waves primarily from the left, rarely from the right, the overall pattern is again a more consistently homogeneous pattern without trains of sharp waves.  In addition, there is some amplitude asymmetry noted in the background. 
+HR:  68 BPM.
+
+

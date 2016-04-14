@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 47-year-old male with a stroke, seizures, admitted with hypothermia and Dilantin toxicity. 
+MEDICATIONS: Vancomycin, Plavix, Lovinox, and Dilantin.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is agitated and uncooperative. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates generalized background slowing. There is no well-defined posterior dominant rhythm and the overall frequency is rhythmic 3 to 5 Hz activity with superimposed delta.  There is more rhythmic slowing seen from the frontocentral regions with intermittent bursts of slowing, some of which are slower on the right compared to the left but with prominent shifting slowing.  
+HR:  132 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Generalized background slowing. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  This patient’s acute medical illness and Dilantin toxicity may both contribute to the background slowing, as well as his previous stroke.  
+
+

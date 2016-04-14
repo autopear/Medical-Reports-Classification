@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 23-year-old male admitted on 6/12/06 with heroin overdose found by family at unknown time (at least 24 hours prior to EEG).  Evaluate for seizures.
+MEDICATIONS: Ativan, Fentanyl, and Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient was extubated at the time of the EEG, and remained sedated. 
+DESCRIPTION OF THE RECORD: The background EEG is rich in beta frequency activity.  There is a smaller amount of alpha and theta frequency activity identified.  The patient is looking away from the EEG technologist towards the light, and when he awakens with eye opening and eye closure, there are LAMBDA waves.  In addition, at this time, there is a suggestion of an 11 Hz alpha rhythm. 
+HR:  100 BPM.
+	IMPRESSION: This EEG is remarkable for:
+	1.	Excess beta. 
+CLINICAL CORRELATION: The excess beta can be seen following the use of anesthetic or sedative hypnotic medications.  No focal or epileptiform features were identified in this record.  Positive prognostic findings include an alerting response with alpha and LAMBDA activity. 
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 59-year-old male with a history of psychiatric illness and admitted with a right intracerebral hemorrhage. Previously well-controlled seizures, but with multiple seizures on 10/09/06.  History of HTN, prostate disease, multiple other medical problems. 
+MEDICATIONS: Dilantin, Ativan, and many others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The patient is drowsy throughout much of the record.  With brief maximal wakefulness, there is a clear arousal response with an alpha rhythm of 10 Hz, 50 uV.  Much of the record, however, demonstrates a drowsy pattern with more theta frequency activity.  There were two, small discrete left temporal sharp waves.  There is a clear intrahemispheric asymmetry identified frequently but not persistently with disruption of faster frequency activity on the right, particularly in drowsiness, as well as arrhythmic delta activity from the right hemisphere.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Prominent focal slowing identified in sleep and drowsiness, compatible with a structural or functional abnormality on the right.  
+CLINICAL CORRELATION: This EEG supports a structural or functional abnormality on the right, involving both gray and white matter. The two small sharp waves on the left may be associated with his morbid diagnosis of epilepsy. 
+
+

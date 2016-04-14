@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 62-year-old male with liver disease, hypertension, and stroke and epilepsy admitted after found unresponsive with incontinence, possible witnessed shaking spell.  Now confused.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system with 1 channel of EKG.  The patient was confused.  Hyperventilation and photic stimulation were not possible.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  It is diffusely slow with high amplitude, sharp waves and spikes from the left hemisphere particularly in the frontotemporal region.  Stimulation of the patient produces an increase in muscle.  When the technologist stimulates the patient, the patient is inattentive but there is no increase in epileptiform activity. 
+This is a technically challenging EEG for an individual who his very active with tactile stimulation but as he drifts off to sleep, the epileptiform activity is well defined. 
+Heart rate 75 BPM.
+IMPRESSION:  Abnormal EEG due to:
+Markedly slow background. 
+Left anterior temporal spikes and sharp waves.
+CLINICAL CORRELATION:  This EEG suggests a highly epileptiform focus.  This is likely a postictal record but ongoing vigilance is essential.
+
+

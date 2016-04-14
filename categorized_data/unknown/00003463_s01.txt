@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 51-year-old woman with a history of head trauma associated with a fall down the stairs, intracerebral hemorrhage requiring ICU hospitalization at HUP now with restless legs and possible seizures. 
+MEDICATIONS: Dilantin, Vioxx, Ativan, Allegra, Neurontin, others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9 Hz, 25 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  In drowsiness, there is occasional temporal wicket. In addition, in drowsiness, there is a small amount of rare, focal slowing seen independently from either left or right temporal region.  Other features of drowsiness include rhythmic background slowing followed by vertex waves, K complexes, and spindles in stage II sleep.
+Photic stimulation elicits symmetric driving at intermediate and faster flash frequencies.
+HR:  78 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+Somewhat irregular, independent, right or left, temporal theta identified in hyperventilation and in drowsiness.
+CLINICAL CORRELATION: No definite epileptiform features were identified in this record.  The wicket identified above is a normal variant.  The somewhat irregular temporal slowing is a non-specific finding and may be seen in underlying cerebrovascular disease.  Correlation with imaging may be of use. 
+
+

@@ -1,0 +1,16 @@
+ 
+
+
+CLINICAL HISTORY:  63 year-old man with history of diabetes, hypertension, hyperlipidemia, multiple previous strokes presents with a seizure on 10/21/2011, and post ictal confusion.
+MEDICATIONS:  Keppra, Tylenol, Prozac.
+REASON FOR PROCEDURE:  Confusion.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system in addition to anterior temporal and EKG electrodes.  Wakefulness and sleep were recorded.  Photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow EEG which is mainly in sleep, stage I and stage II.  There is a brief amount of wakefulness which is elicited after the technician stimulates the patient with sternal rub and noxious stimulation to the nose.  During that time, the patient actually responds and opens his eyes.  Upon eyes closing the best posterior dominant rhythm achieved is 7 Hz with a 20 to 60 microvolt amplitude.  There is some frontal central beta seen.  Activating procedures with photic stimulation reveal no abnormal discharges; however, stimulation does improve the frequency of the EEG but it never reaches normal background. 
+ABNORMAL DISCHARGES:  Generalized slow waves at 5-7 Hz in wakefulness and 20-60 microvolts amplitude. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures nor epileptiform activities were seen.  Please note that this report is likely different than previous, where focal slowing has been seen.  This may be due to overall diffuse cerebral dysfunction and medication effect.
+
+

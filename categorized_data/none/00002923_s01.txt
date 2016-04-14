@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 5-year-old female with spastic quadriplegia, encephalopathy, cortical blindness, poorly responsive with increasing seizures. 
+MEDICATIONS: Zonisamide and Klonopin. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as either moaning and uncomfortable or asleep.  
+DESCRIPTION OF THE RECORD: The background EEG is abnormal and diffusely slow for a child of this age.  The background ranges from theta to delta.  The background includes spike and slow wave activity in multiple different loci including at the vertex, CZ, C4-C3, and closer to PZ. In addition, some sections of the record, particularly when the child is a bit more active, include epileptiform activity in the mid, anterior, or posterior temporal regions.  Sleep is characterized by an increase in beta in the central regions.  Some sections of the record demonstrate more rhythmic theta activity from the left hemisphere, particularly the posterior quadrant than the right.  
+HR:  90 to 120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Multifocal epileptiform activity including the vertex, parietal, or PZ.
+Generalized background slowing for a child of this age. 
+CLINICAL CORRELATION: No seizures were recorded.  This EEG supports a diffuse disturbance of cerebral function and raises the possibility of more than one loci for seizures. 
+
+

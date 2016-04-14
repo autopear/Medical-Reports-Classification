@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  70 year old right handed male with a history of diabetes, hypertension, renal insufficiency, generalized small-vessel disease in the brain, and seizures presents to the lab, being seizure-free for 3 years, and a previous seizure.
+MEDICATIONS:  Phenytoin, Atorvastatin, Furosemide.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures including photic stimulation and hyperventilation were performed.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm in the region of 9 to 10 Hz and is reactive to eye opening.  The patient is recorded in wakefulness and stage I sleep.  Activating procedures including hyperventilation and photic stimulation produce no abnormal discharges. 
+ABNORMAL DISCHARGES:   None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges are seen.
+
+

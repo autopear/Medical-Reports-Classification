@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 70-year-old male found at the bottom of the stairs lying down with an old watershed infarct, pacemaker, and a right AKA.  
+MEDICATIONS: Ativan, Lidocaine, Atomadate, Hydralazine, and many others, 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is moving the right side, but not the left side, and is intubated during the record.  He is uncomfortable and in a hard collar. 
+DESCRIPTION OF THE RECORD: This is a challenging bedside portable EEG with a significant amount of muscle identified in the background.  Despite this, an intrahemispheric asymmetry can be identified with primarily a beta and muscle frequency pattern with higher amplitude delta identified from the right.  On one occasion, at 14:13:20, the delta coming out from the hemisphere appears to be more sharply contoured and periodic in nature, with an underlying sharp wave at T4/C4.  This portion of the record is relatively brief and occurs with stimulation of the patient.  No clinical signs or symptoms are noted.  
+HR:  90 BPM, with frequent PVCs.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with primarily beta and muscle. 
+Intermittent rhythmic delta from the right hemisphere. 
+A brief portion of the record with periodic sharply contoured delta from the right. 
+CLINICAL CORRELATION: This tracing supports a structural or functional abnormality on the right, and consideration for an irritative process on the right is appropriate.  No seizures were recorded.  
+
+

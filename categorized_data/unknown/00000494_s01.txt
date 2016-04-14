@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 39 year old woman with a history of seizures for the last 15 years. Then she had an episode of stiffening with headaches. She had a seizure 2 days ago. 
+MEDICATIONS: Dilantin, Neurontin, Glucophage, Lyrica, Methadone, Humulin, Lantus, Klonopin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This record contains features of wakefulness and drowsiness. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a well-organized posterior alpha of 10 Hz. Hyperventilation shows some activation of the record. Photic stimulation does not activate the records. During drowsiness there is some slowing, however, the patient cannot get to stage II sleep during this record. There are multiple EKG artifacts observed during the records. 
+HR: 9 bpm 
+IMPRESSION: Normal EEG.
+ 
+CLINICAL CORRELATION: These findings are within normal limits for her age. If epilepsy is a concern an additional study is recommended. 
+
+

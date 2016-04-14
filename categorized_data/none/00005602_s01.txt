@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Twitching.
+CLINICAL HISTORY:  This is a 32-year-old woman with complaints of twitching of the extremities for the past 2 days, sometimes it happens when she is laying down.
+MEDICATIONS:  Labetalol, __________, and vitamins.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep, stage I and stage II.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz, which is reactive to eye opening.  There is normal frontal central beta.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+HEART RATE:  78.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  This is a normal awake and asleep EEG.  No seizures or epileptiform discharges were seen.
+
+

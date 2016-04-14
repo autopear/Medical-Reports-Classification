@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 66-year-old male with new onset seizures.  Past medical history of right MCA infarct, HTN, and hyperlipidemia. 
+MEDICATIONS: Dilantin, Ciprofloxacin, Aggrenox, single statin, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy patient who is sometimes uncooperative when awake, but otherwise lethargic.   
+DESCRIPTION OF THE RECORD: There is a definable alpha rhythm on the left, which is sometimes disrupted on the right.  As the patient becomes drowsy, muscle artifact drops out and intrahemispheric asymmetry becomes more prominent with disruption of the alpha frequency and some rhythmic slowing from the right hemisphere particularly the right posterior quadrant.  Photic stimulation elicits no driving response.  Rare bursts of FIRDA are noted in the background. 
+HR:  96 to 120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Overall disorganized background on the left.
+	Intermittent asymmetry with rhythmic slowing from the right and disruption of the alpha frequency activity. 
+CLINICAL CORRELATION: Only a single sharp wave was noted from the right.  This may be due to the patient’s agitation.  This EEG supports a structural abnormality on the right, as well as a diffuse disturbance of cerebral function.   
+
+

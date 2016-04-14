@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  50 year old with brain injury with craniotomy 11 years ago, tonic-clonic seizures, seizure-free for the last 2 years.
+MEDICATIONS:  Dilantin, Lipitor, Phenytoin
+INTRODUCTION: Digital video EEG was performed in lab using  standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates 11 Hz posterior dominant rhythm with some head rocking artifact, particularly on the right. The amplitude is a little higher on the right compared to the left. There is also beta accentuation, compatible with a breech rhythm. Hyperventilation accentuates focal slowing in the right hemisphere. Features of drowsiness included increase in background slowing with vertex waves and posts. Sleep also accentuates the beta activity on the right. In addition, in sleep vertex waves are identified, which phase reverse at F4/C4. Photic stimulation is performed as the patient emerges from sleep. Scant driving response is observed.
+HR: 84 bpm
+IMPRESSION:  Abnormal  EEG due to:
+	1. 	Focal slowing in the right hemisphere, particularly central and posterior temporal regions.
+	2. 	Asymmetric  activity in the right central region congruent with a breech rhythm rather than a central sharp wave.
+CLINICAL CORRELATION: The breech rhythm is an anticipated finding following craniotomy. If epilepsy is an important consideration, additional, more prolonged testing, would be useful to differentiate asymmetric vertex following head trauma and craniotomy from a right central sharp wave.
+
+

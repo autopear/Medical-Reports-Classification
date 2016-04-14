@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a __-year-old male with Epilepsy since 2004 characterized by confusion.  Last seizure one year ago.  
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is a 9 Hz, 30 uV posterior dominant rhythm. Drowsiness is characterized by hypersynchronous rhythmic 8 Hz activity followed by vertex waves.  Deeper stages of sleep are not sustained, and there is some snore artifact identified.  Photic stimulation is performed while the patient seems to be intermittently drowsy without a clear driving response.  Hyperventilation does not activate the record.    
+HR:  78 BPM.
+	IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  No previous EEGs were available for comparison.  
+
+

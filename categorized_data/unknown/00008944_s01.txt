@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 60-year-old male with epilepsy since age 13.  Surgery for seizures in the 70s with right parietal craniotomy, two seizures a month, numbness and tingling on the left, increased tonic-clonic seizures with loss of consciousness, panic and pain.  History of reflux and prostate surgery.  
+MEDICATIONS: Phenobarbital, Dilantin, Topralex.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record with hyperventilation and photic stimulation. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with a 10 Hz posterior dominant rhythm identified bilaterally.  There is a breach rhythm identified from the right central parietal region with accentuation of amplitude of activity in that area.  There is some underlying, rhythmic theta activity identified from the right parietal temporal region in wakefulness.  In hyperventilation, there are isolated bursts of focal slowing with some isolated underlying delta underlying the rhythmic theta, some intermittently.  Following hyperventilation, as the patient becomes drowsy, again this activity is seen intermittently.  There is one brief 20-second period with intermittent, focal 3 Hz delta activity identified at P4.  Photic stimulation elicits brief driving.  The breach rhythm is again accentuated in the driving exercise because the activity is higher amplitude.  There are sharp waves identified at the close of the record just as the photic stimulation is completed.  It appears that as photic stimulation concludes, the patient is drifting into a deeper stage of sleep and in fact there is more rhythmic 3 Hz activity and there are intermittent sharp waves identified maximum at C4 but occasionally shifting with P4.  Immediately following this, there are brief features of stage II sleep. 
+HR:  __ BPM.check tech sheet
+	IMPRESSION: Abnormal EEG due to:
+Intermittent focal slowing from the right hemisphere characterized by either subtle theta and delta or rhythmic delta.
+Right central or parietal sharp waves identified as the patient reaches stage II sleep. 
+CLINICAL CORRELATION: Breach rhythm is an anticipated finding following craniotomy.  This tracing supports a structural abnormality and a partial mechanism for epilepsy.  
+
+

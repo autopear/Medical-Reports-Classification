@@ -1,0 +1,14 @@
+CLINICAL  HISTORY: This  is a 73-year-old  woman  with  bilateral  ACA  and 1ight
+MCA ischemic changes, as well as craniotomy.
+MEDICATIONS: Depakote, Phenobarbital, and many others.
+INTRODUCTION: Digital video EEG is perf01med at the bedside using standard 10-20 system   of  electrode  placement   with  one  channel of  EKG.   The   patient  is  poorly responsive.
+DESCRIPTION OF THE RECORD: In background EEG demonstrates  frequent spike and  slow   wave  complexes  including  those  from  the  left  hemisphere  and  the  left
+frontotemporal and frontocentral  regions.  There is also greater arrhythmic  delta activity identified from the left hemisphere  in comparison to the right.  There is some occipitally predominant spikes identified with a 02 greater than 01 field.  There is some variability in  the  occipital  spiking  in  that  some  are  maximum  at  02 and  others  more  clearly maximum at 01.   There is some left hemispheric sharp waves picked out, which seem to be maximum in the left anterior temporal region but with a very large field of spread.
+HR:  66BPM.
+IMPRESSION: Abnormal EEG due to:
+1.  Frequent epileptiform discharges, which are primarily right amplitude spike and slow wave complexes from the left hemisphere with variable maximum.
+2.   Occipitally predominant spikes, which vary in terms of right versus left maximum.
+3.   Generalized background slowing with superimposed arrhythmic delta from the left.
+CLINICAL  CORRELATION: No seizures were recorded.    This EEG continues to demonstrate  an imitative pattern  with  the majority of the  epileptiform activity coming from the left hemisphere.
+
+

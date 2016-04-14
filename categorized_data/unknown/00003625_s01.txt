@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 61-year-old, right-handed gentleman with seizures secondary to alcohol abuse. Seizure-free for six years but with a seizure in January, three months after he stopped drinking as well as stopping his Lithium and Zyprexa.
+MEDICATIONS: Dilantin, Trileptal, Lithium, others.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9.5 Hz, 30 to 50 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by slow rolling eye movements.  Vertex waves, K complexes, and spindles are identified in stage II sleep.  
+Hyperventilation produces an increase in amplitude of the background.  Photic stimulation elicits symmetric driving.
+HR:  __ BPM. Check prelim sheet
+	IMPRESSION: Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  If seizures are an important consideration, a repeat tracing may be useful.
+
+

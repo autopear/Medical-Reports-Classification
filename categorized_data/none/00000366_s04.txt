@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  48 year old right handed man with chief complaint of multiple seizures, lip smacking, turning the head the left, eyes rolled up, and became unresponsive with bladder incontinence.  He has a past medical history of hypertension and history of epilepsy.
+MEDICATIONS:  Tegretol.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedure including photic stimulation was only performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The EEG opens to a posterior dominant rhythm that at best reaches 9 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Sleep is characterized by stage I.  Activating procedure including photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen at F8/A2 seen frequently throughout the recording, at times with a wide field.  
+Bursts of generalized slow waves with frontal predominance seen intermittently throughout the recording, also known as frontal intermittent rhythmic delta (FIRDA).  
+SEIZURES:   None.
+IMPRESSION:  Abnormal EEG due to: 
+Right anterior temporal sharp waves. 
+(FIRDA) frontal intermittent rhythmic delta.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of localization-related epilepsy with seizures arising from the anterior temporal region.  In addition, there is evidence of diffuse cerebellar dysfunction which may be due at least in part to medical effect.  No seizures were seen.
+
+

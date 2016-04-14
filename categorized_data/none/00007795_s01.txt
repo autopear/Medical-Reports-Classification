@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 77-year-old male cancer patient with recent surgery for a facial tumor, trached, renal insufficiency, and edematous with a large surgical scar around the neck.  The patient had an episode of facial twitching without impairment of awareness.  
+MEDICATIONS: Morphine and antibiotics. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is relatively somnolent. 
+DESCRIPTION OF THE RECORD: The overall EEG is low voltage, diffusely slow.  The patient is drowsy throughout much of the record with a low voltage pattern of delta and theta.  There is muscle artifact picked up in the background.  In this individual with an edematous head, there is an intermittent suggestion of asymmetry with lower voltage or more attenuated activity on the right, which is in the region that is somewhat more edematous.  Features of sleep include vertex waves and an increase in background beta.  With stimulation, there is an increase in theta frequency activity.  Stimulation produces a lower voltage theta pattern with some faster waveforms, but without a well-defined alpha rhythm. 
+HR:  132 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Replacement of normal background with a low voltage, generalized slow pattern. 
+CLINICAL CORRELATION: An individual of this age is permitted a low voltage pattern.  The voltage asymmetry seen in some portions of the record may be due to the facial or scalp edema.  No epileptiform features were identified and no seizures were recorded.  
+
+

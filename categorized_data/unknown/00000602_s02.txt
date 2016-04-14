@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 34-year-old woman with posttraumatic epilepsy, complaining of neck pain. 
+MEDICATIONS: Dilantin and Xanax.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 9 Hz, 40 uV alpha rhythm with an excess amount of background theta.  Drowsiness includes brief bursts of background slowing.  Hyperventilation is performed early on in the record, producing isolated bursts of high amplitude slowing, one of which is maximum in the right hemisphere.  Photic stimulation could not be completed.  
+HR:  66 BPM.
+	IMPRESSION: EEG at the limits of normal for an adult of this age. 
+CLINICAL CORRELATION: No definite epileptiform features were identified in this record.  Given the asynchronous bursts seen in hyperventilation, a repeat tracing in the lab is recommended.  
+
+

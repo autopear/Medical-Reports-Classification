@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 53-year-old, right-handed woman with previous aneurysm surgery in 1998.  Right temporal craniotomy.  Patient has epilepsy characterized by staring and shaking lasting five to six minutes without incontinence or loss of consciousness.  
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes an 11 Hz, 50 uV posterior dominant rhythm.  There is a subtle breach rhythm characterized by accentuation of beta frequency activity in the right frontocentral region.  Unusual and prominent eye movements are noted in wakefulness and in hyperventilation.  The eye movements are high amplitude and at times appear to be slightly asynchronous or with slightly asymmetric fields of spread.  Hyperventilation is performed with good effort, producing some rhythmic frontal slowing.  There is an increase in beta frequency activity and a small increase in the prominence of the patient’s breach rhythm in drowsiness.  In the early drowsy pattern, there is occasional focal slowing characterized by rhythmic theta in the right mid-to-anterior temporal region.  At times, this occurs as the patient has rhythmic eye movements, but can be differentiated.  It is best evaluated as the patient becomes drowsy and her eye movements decrease.  Photic stimulation produces vigorous bilateral driving with harmonic and supraharmonic driving. 
+HR:  90 BPM.
+	IMPRESSION: Mildly abnormal EEG for an adult of this age due to:
+	1.	Infrequent rhythmic slowing from the right temporal region. 
+CLINICAL CORRELATION: No epileptiform features were seen.  Additional sleep recording may be helpful to characterize epileptiform activity.  Correlation with this patient’s shape of the cranium may be important regarding the asymmetry of the eye movements. 
+
+

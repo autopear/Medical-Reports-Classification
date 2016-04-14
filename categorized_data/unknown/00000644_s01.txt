@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 49-year-old male with a history of alcohol abuse and epilepsy.  Patient observed to have focal facial twitching in the office some weeks ago.  
+MEDICATIONS: Lisinopril and Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is reasonably well organized with a 9 Hz, 30 uV posterior dominant rhythm and a generous amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements and a more diffuse distribution of the beta activity. Deeper stages of sleep are not sustained.  Hyperventilation produces a small degree of background theta.  Vertex waves were seen in stage I sleep. 
+Photic stimulation elicits vigorous bilateral driving. 
+HR:  96 BPM.
+	IMPRESSION: EEG within normal limits.  
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The generous beta may be due to anxiety or medication effect. Normal EEG does not exclude the diagnosis of epilepsy.  If seizures are an important consideration, a repeat tracing in the lab capturing deeper stages of sleep would be useful. 
+
+

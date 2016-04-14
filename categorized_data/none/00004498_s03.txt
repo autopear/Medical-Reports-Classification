@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 31-year-old male with epilepsy since birth.  Last seizure was two weeks ago with generalized tonic-clonic seizures and loss of consciousness.  Auras consist of stomach upset and a rising feeling.  
+MEDICATIONS: Carbatrol and Lamictal.  
+INTRODUCTION: Digital video EEG is performed in the Long-Term EEG Monitoring Unit using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is a 24-hour long-term EEG monitoring.  The patient moves freely within the room during the day and sleeps during the night.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and well organized for age.  There is a 9 Hz, 50 uV posterior dominant alpha rhythm, which is well attenuated with eyes opened.  There is a small amount of low voltage, frontocentral beta activity.  A generous amount of muscle movement artifact is seen during the day.  
+No seizures or epileptiform discharges were observed during wakefulness.  
+In drowsiness, sharp activity was seen in the left temporal area, as well as increased theta activity seen more in the left temporal area than the right temporal area.  The patient rapidly transferred to stage II sleep.  No seizures were recorded during sleep.  
+EVENTS: No push button events were recorded and no seizure activity was observed or reported by the nurse.  
+HR:  60 BPM.
+	IMPRESSION: Abnormal long-term digital video EEG due to:
+	1.	Left temporal sharp activity and slow wave complexes in drowsiness. 
+CLINICAL CORRELATION: The focal findings as well as the epileptiform discharges support a partial mechanism for this patient’s epilepsy.  This is the first time an abnormality was seen in this patient.
+
+

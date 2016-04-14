@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 95-year-old male with hypertension, hyperlipidemia, and multiple myocardial infarcts who presented with a right subdural hematoma, difficulty ambulating, and a possible seizure.
+MEDICATIONS: Dilantin, antibiotics, and steroids. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat disorganized for age.  At times, the posterior dominant rhythm is as slow as 6 Hz, but at other times reaches 10 Hz.  There is excess background theta.  There is some arrhythmic delta activity in the background, a bit more so in the right posterior quadrant than the left.  Features of drowsiness include an increase in background slowing with a handful of vertex waves. On one occasion, in the transition from drowsiness to sleep, there is a one-second attenuation of cerebral activity. 
+HR:  96 BPM.
+	IMPRESSION: Mildly abnormal EEG for an adult of this age due to:
+Excess background slowing. 
+Arrhythmic delta activity in the right posterior region greater than left. 
+One-second attenuation when the patient is stimulated from sleep to arousal.
+CLINICAL CORRELATION: These findings must be evaluated in the context of this patient’s age.  There are no epileptiform features.  The arrhythmic delta activity is a subtle finding.  The background slowing is non-specific and can be due to dementia, previous strokes, or the patient’s subdural. 
+
+

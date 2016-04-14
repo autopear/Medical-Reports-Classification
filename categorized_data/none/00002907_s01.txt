@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 45-year-old woman with hepatitis C, acute pancreatitis with pain, initially sedated and then increasingly agitated.  Patient with an episode of shakiness but responsive.  
+MEDICATIONS: Ativan 13 mg, Benadryl, morphine, and others.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is either drowsy or uncooperative and agitated and is only briefly cooperative.   
+DESCRIPTION OF THE RECORD: The overall EEG is low voltage with continuous beta activity.  When the patient is left unstimulated, she drifts off to sleep with slow rolling eye movements and generous beta.  When stimulated, there is either jaw clenching which produces muscle and obscures the EEG or on rare occasions there is eye opening and a 10 Hz alpha rhythm.  
+HR:  122 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Excessive background beta. 
+CLINICAL CORRELATION: The beta described above is compatible with her benzodiazepine administration.  No seizures or epileptiform features were recorded.  
+
+

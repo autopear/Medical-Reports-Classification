@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  A 52-year-old left-handed woman who presents with recurrent seizures since May 2012 and gait imbalance here for seizure classification and differential.
+MEDICATIONS:  Klonopin and Lamictal.
+INTRODUCTION:  A long term EEG was performed using standard 10-20 system of electrode placement with anterior, temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9-10 Hz, which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded during wakefulness and sleep.  Activating procedures were not performed.
+ABNORMAL DISCHARGES:  None.
+EVENTS OR PUSH BUTTONS:  None.
+HEART RATE:  78.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges were seen.  This is day 1 of epilepsy monitoring unit admission for differential classification.
+
+

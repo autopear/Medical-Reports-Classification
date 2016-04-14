@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 64-year-old woman with a history of an MCA aneurysm, incomplete control of her epilepsy with tonic-clonic seizures and a seizure last night.  
+MEDICATIONS: Tegretol, Neurontin, Ativan, and Prempro. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and asleep record. The patient is noted to have a prominent left-sided craniotomy.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a significant intrahemispheric asymmetry.  From the right hemisphere the activity is relatively well organized with a 7 Hz, 30 V posterior dominant rhythm and a modest amount of background theta.  The left hemisphere, particularly the left temporal region, demonstrates higher amplitude activity with disruption of faster frequency activity and nearly continuous arrhythmic delta.  In addition, despite the breach, there is an F7 sharp and slow wave complex seen in wakefulness and sleep.  
+Features of sleep include generalized background slowing with an increase in arrhythmic delta activity from the left hemisphere.  Deeper stages of sleep were not achieved. 
+Photic stimulation does not elicit driving.
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Mild generalized background slowing.
+Superimposed focal slowing from the left hemisphere maximum in the temporal regions.
+F7 sharp wave in the setting of a breach rhythm.
+CLINICAL CORRELATION: This tracing supports a partial mechanism for epilepsy as well as a structural or functional abnormality on the left involving both gray and white matter.  The sharp waves are in the region of this patient’s previous surgery.  No seizures were recorded.  The background slowing may be due in part to this patient’s postictal state and comparison with prior EEGs could be of use. 
+
+

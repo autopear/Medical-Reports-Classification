@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 38-year-old male with head trauma and prominent right craniotomy, increasing confusion.  Past history of gunshot wound to the brain in 1990, craniotomy, 2012 infection, cranioplasty 2013.  Diabetes, alcohol abuse, hepatitis C.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed, but hyperventilation was not possible.  The prominent cranial defect on the right was noted.
+DESCRIPTION OF THE RECORD:  In relaxed wakefulness, the background EEG is diffusely slow with a mixture of theta and delta activity.  There is a prominent craniotomy defect on the right, which produces a breach rhythm and some artifact with slower delta.  Bursts of shifting slowing were noted and there were some sharp waves noted from either hemisphere, but again out of the breach rhythm at F8, T2, or occasionally T1.  There is a burst of frontally predominant fast activity, right more than left.  As the patient drifts off to sleep, there are bursts of faster activity noted in the frontal regions.   
+Photic stimulation produces artifact with driving response identified at the 21 Hz stimuli bilaterally, left more so than the right.   
+Heart rate 100 BPM.
+IMPRESSION:  This is an abnormal EEG due to:  
+Slow and disorganized background.  
+Absence of typical alpha rhythm in apparent wakefulness.  
+Superimposed focal slowing with more slow arrhythmic delta activity on the right.  
+Occasional bursts of sharply contoured slowing or sharp waves noted infrequently, particularly in the initial sections of the record, right more so than the left.
+CLINICAL CORRELATION:  On the whole, this EEG is more supportive of a diffuse disturbance of cerebral function with focal features ipsilateral to the cranial defect.  No seizures were recorded, and given the presence of the magnitude of the cranial defects described above, the sharply contoured slowing and/or sharp waves are not particularly remarkable.
+
+

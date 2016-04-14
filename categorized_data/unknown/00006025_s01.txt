@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 66-year-old male with history of multiple head and spine traumas, found unresponsive and intoxicated.  History of epilepsy.
+MEDICATIONS:  Pepcid, Zofran, morphine, hydralazine, albuterol, fentanyl, Dilantin, and the others.
+INTRODUCTION:  Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is somewhat cooperative.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8 Hz alpha rhythm with a small amount of low voltage, frontal central beta, and a fair amount of muscle artifact.  There is a modest amount of background theta.  Features of drowsiness include an increase in beta.  Heart rate 104 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Slowing of the alpha rhythm.
+Excess theta.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  The background slowing is a nonspecific finding and could be due to this patient's medications, chronic or acute head traumas, or postictal state.  If additional information is needed, a follow-up study when the patient has recovered from his current injuries.
+
+

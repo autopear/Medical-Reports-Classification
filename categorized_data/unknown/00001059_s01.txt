@@ -1,0 +1,8 @@
+CLINICAL HISTORY:  A 47-year-old woman who developed petit mal epilepsy in 1997 after a car accident in 2010, she has frequent generalized seizures which began without warning.  She also suffers from bipolar disease.  Seizures tend to occur under stress.
+MEDICATIONS:  Lamictal, Ritalin, Percocet, Xanax, Dilantin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.6 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by an increase in beta, as well as anterior spread of the alpha rhythm.  Hyperventilation produces an increase in amplitude of the background.  Photic stimulation did not activate the record.  Heart rate is 90 bpm.
+IMPRESSION:  This is a normal EEG in wakefulness and brief drowsiness.  
+CLINICAL CORRELATION:  If additional information is needed for this individual with refractory epilepsy, a sleep-deprived followup EEG is suggested.
+
+

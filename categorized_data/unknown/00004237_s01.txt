@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 50-year-old woman with epilepsy and CNS neoplasm. 
+MEDICATIONS: Dilantin, Neurontin, Keppra.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.5 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity. Hyperventilation is performed early on in the record, increasing the amplitude of the background.  As the patient continues to hyperventilate, there is a little bit more theta from the left, one clearly defined sharp wave from the left mid-temporal region, and some sharply contoured background in the same region. Following this, as the patient becomes drowsy again, intermittently the focal, mixed theta and delta is identified from the left mid-to-anterior temporal region with subtle sharp waves.   Drowsiness is characterized by rhythmic background slowing, again with the rare sharp waves. Deeper stages of sleep are not sustained.   Photic stimulation elicits bilateral driving. 
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Subtle left temporal slowing. 
+Subtle left temporal sharp waves. 
+CLINICAL CORRELATION: This tracing supports a partial mechanism for epilepsy.  Consideration for a structural or functional abnormality would be appropriate.  If appropriate, an additional study capturing deeper stages of sleep may be helpful to more clearly delineate epileptiform activity. 
+
+

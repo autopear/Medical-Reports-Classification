@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  This is a 60-year-old woman with developmental delay after head trauma in infancy.  The patient was hospitalized for a year and subsequently developed epilepsy.  Last seizure was 3 days ago.  The patient spaces out, grabs her stomach and then becomes stiff for 45 seconds.  No post ictal period.  Past history of breast cancer and lymphedema.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient has no definitive cranial deformity.
+DESCRIPTION OF THE RECORD:  The background EEG includes a glimpse of a 9 Hz alpha rhythm.  Abundant lambda activity is noted, as is generous beta and a small amount of theta.  Although no definitive craniotomy defect was noted, there is a suggestion of a breach rhythm on the left with a discrete left temporal sharp wave.  Features of drowsiness included increase in beta, as well as occasionally subtle focality with some mixed theta delta on the left.   
+Photic stimulation produces a driving response despite artifact. 
+Heart rate:  60-90 beats per minute, occasionally irregular.
+IMPRESSION:  This is a subtly abnormal EEG for an adult of this age due to:
+Excess beta.
+Excess theta.
+Subtle left temporal focal slowing with associated discrete sharp wave.   
+These findings may be correlated with imaging.  There may be an underlying cranial defect given the history of closed head injury.  There are no previous EEGs available for comparison.  If additional information is needed for this individual with refractory epilepsy, a follow-up study may be obtained.
+
+

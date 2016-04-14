@@ -1,0 +1,13 @@
+CLINICAL HISOTRY 44 year old male with tonic clonic seizures since 1980, 3-5 seizures per year, last seizure was 3 weeks ago. 
+MEDICATIONS: Dilantin
+INTRODUCTION: Digital video EEGis performed in lab usig standard 10-20 system of electrode placement with one channel EKG. Hyperventilation and photic stimulation are performed. This is an asleep and awake record.
+DESCRIPTION OF THE RECORD: Wakefulness background EEG is somewhat slow with a 9hz posterior dominant rhythm. In wakefulness, there is a small amount of shifting slowing in the central regions, perhaps a bit more so in the 
+ the left central region than the right. Vertex waves are observed in stage 1 sleep. The stage I sleep record is relatively low voltage, and again there is 
+subtle amplitude asymmetry in the left central region. There is also a slight 
+asymmetry with a bit, more beta activity there in that region in the transition into stage 1 sleep. In addition, there seems to be a subtle underlying left central focus of slowing which persists into stage o sleep. Hyperventilation does not significantly activate the record. Photic stimulation is remarkable for some EKG artifact in the left temporal region as the patient is drifting in and out of stage 2 sleep. 
+HR: 70 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+1. subtle focal slowing in the left central region. 
+CLINICAL CORRELATION: This EEG supports a structural or functional abnormality in the left central temporal region. Additional recording may be valuable to characterize epileptiform activity.   
+
+

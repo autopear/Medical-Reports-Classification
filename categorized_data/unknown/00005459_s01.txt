@@ -1,0 +1,14 @@
+LENGTH OF THE RECORDING:  24 minutes.
+CLINICAL HISTORY:  The patient is a 38-year-old man who presents with a new onset seizure lasting approximately 10 minutes.  There was associated tongue biting and loss of consciousness.  Of note, the patient was noted to have seizure activity approximately 20 to 30 minutes prior to this EEG.
+MEDICATIONS:  Current medications include Dilantin, Norvasc, and hydralazine.
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system with an additional T1 and T2 electrode and a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of polymorphic moderate amplitude 9 to 9.5 Hz alpha activity that attenuates with eyes opening.  The anterior to posterior frequency amplitude gradient is weak.  Additional diffuse polymorphic theta activity is present.  Diffuse excess beta is captured, as well.  During sleep, the background attenuates and symmetrical sleep spindles are captured.  Hyperventilation and photic stimulation were not performed.  A single EKG lead demonstrates a heart rate up to 120 beats a minute.
+FINDINGS:  
+Mild diffuse slowing.
+Excess beta.  
+Stage II sleep.
+No epileptiform discharges.
+Sinus tachycardia.
+IMPRESSION:  This is an abnormal awake and asleep 24-minute EEG due to mild diffuse slowing.  This finding indicates etiologically nonspecific diffuse cerebral dysfunction that in this case could partially be related to an excessively sedated/drowsy patient.  Excess beta could be secondary to medication effect such as benzodiazepines or barbiturates.  The lack of epileptiform discharges in a routine EEG does not preclude a clinical diagnosis of epilepsy.  Sinus tachycardia with a heart rate up to 120 beats a minute is captured in a single EKG lead.
+
+

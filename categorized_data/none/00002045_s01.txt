@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 73-year-old male with possible seizures.
+MEDICATIONS: Amitriptyline, Zantac, aspirin, Plavix, others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake or drowsy record. Photic stimulation was performed. 
+DESCRIPTION OF THE RECORD: In apparent wakefulness, the right hemisphere is appropriately organized for a subject of this age with an 8.5 Hz, 30 V posterior dominant rhythm.   The left hemisphere demonstrates nearly continuous, arrhythmic delta activity with intermittent disruption of the posterior dominant rhythm. Drowsiness is characterized by attenuation of the posterior dominant rhythm on the right, as well as slow rolling eye movements and a mixture of rhythmic theta and delta from the left hemisphere.  
+Photic stimulation is performed. A photoelectric effect is elicited and obscures the possibility to determine whether or not driving was present. 
+HR:  70 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Focal slowing from the left hemisphere with disruption of faster frequency activity and arrhythmic delta. 
+CLINICAL CORRELATION: No epileptiform activity was seen and no seizures were recorded. This tracing supports a structural or functional abnormality on the left effecting both gray and white matter. 
+
+

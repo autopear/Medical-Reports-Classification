@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 73-year-old woman with new onset seizures characterized by an episode of shaking with sleepiness a month ago but without incontinence or confusion. 
+MEDICATIONS: Dilantin, Nifedipine, Coumadin, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized.  Features of drowsiness include a handful of bursts of shifting arrhythmic delta followed by vertex waves and spindles.  Photic stimulation elicits bilateral driving at faster flash frequencies.
+HR:  66 BPM.
+	IMPRESSION: EEG within normal limits. 
+CLINICAL CORRELATION: The alpha rhythm is higher amplitude on the left compared to the right, but is not outside the limits of normal.  A subject of this age is permitted a small amount of arrhythmic delta in the transition to sleep, as is seen in this case.  No epileptiform features were seen. 
+
+

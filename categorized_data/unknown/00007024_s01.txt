@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 42-year-old male “UNC BELT neobrain” status-post left temporal tumor resection and HIV disease. Patient has a history of multiple injuries and was recently in the OR. 
+MEDICATIONS: Dilantin, Keppra, Decadron, Tylenol, and Zantac.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake or asleep.  
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is described as awake or somewhat drowsy.  In maximum wakefulness, the background EEG is reasonably well organized, although there is excess theta on the right and the posterior dominant rhythm is somewhat slow. The major features identified in this record in wakefulness and drowsiness include intermittent bursts of high amplitude sharply contoured delta in the left temporal region, which is the region of this patient’s recent craniotomy.  There are bursts of sharply contoured delta activity.  This is an intermittent rather than continuous finding.  Features of sleep include vertex waves and spindles.   At some points, the vertex waves are asymmetric, maximum on the right.  As the sleep recording continues, there is a bit more prominent lower voltage delta in the left posterior temporal region.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Mild background slowing.
+	Intermittent sharply contoured delta on the left.
+CLINICAL CORRELATION: In this individual with an acute craniotomy, the focal slowing is less prominent than one might expect.  The mild background slowing could be due to medications, postictal state, or post-anesthesia state.  
+
+

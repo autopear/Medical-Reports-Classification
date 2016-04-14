@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 48-year-old male with headache and recurrent convulsions.
+MEDICATIONS: Ativan, Vecuronium, Pentothal, Dilantin, and others.  
+INTRODUCTION: Digital video EEG is performed at the bedside in the ER using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and unresponsive.   
+DESCRIPTION OF THE RECORD: The background EEG is continuous, low voltage, and comprised primarily of rhythmic beta, smaller amounts of alpha, and a very small amount of delta.  There are some slow rolling eye movements. Stimulation of the patient does not activate the record. 
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with diffuse, primarily beta frequency activity and smaller amounts of delta.  
+Absence of reactivity or variability. 
+CLINICAL CORRELATION: These features are non-specific.  A pharmacologic coma can produce this pattern, but other causes for a beta coma should be considered.  No seizures or epileptiform activity were identified. 
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 73 year old woman who presents with a history of hypertension, CKD, breast cancer with metastasis, CHF, stroke in 2009, CAD, and history of myoclonal seizures presents with a history of PEA for 10 minutes, found collapsed at home.
+MEDICATIONS:  Keppra, Heparin, Pantoprazole, ASA
+REASON FOR STUDY:  Status post PEA code.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and EKG electrodes.  No sleep was recorded.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a background that is consistent with diffuse delta with a mixed theta that at times has bursts of suppression lasting up to 1 minute and again having intermixed with a theta background.  No sleep is seen, no normal posterior dominant rhythm or beta rhythm is seen, and no abnormal frontocentral beta is seen.  No activating procedures are performed. 
+ABNORMAL DISCHARGES:  Generalized slow waves with intermixed burst suppression with bursts of suppression lasting up to 1-1/2 minutes.  During the EEG, the patient is stimulated and no change in the EEG is seen.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Burst suppression pattern.
+CLINICAL CORRELATION:  This EEG is consistent with evidence of severe cerebral dysfunction, which is consistent with a known hypoxic injury.  This burst suppression pattern has a poor prognosis.  No seizure or epileptiform discharges were seen.
+
+

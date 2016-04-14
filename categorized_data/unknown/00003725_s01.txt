@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 46-year-old, right-handed, mentally handicapped and blind woman with epilepsy.  Seizures characterized by generalized tonic-clonic activity with eyes rolling back and a 50-minute postictal period. Question of a seizure today.
+MEDICATIONS: Dilantin, Topiramate, and others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record with photic stimulation. 
+DESCRIPTION OF THE RECORD: The overall background EEG is a theta pattern of 6 to 7 Hz. The overall background is sharply contoured and there is some higher amplitude more sharply contoured theta seen in the frontal regions, left greater than right.  Drowsiness is characterized by an increase in background theta.  This is again most intense in the frontal regions, and in some montages it appears to be more prominent in the right frontal region.  Photic stimulation does not clearly activate the record.  
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with primarily a theta pattern in an overall sharply contoured background.
+Excess fast activity, particularly in the right frontal region in sleep.
+CLINICAL CORRELATION: In this sharply contoured background, frontal sharp and slow wave complexes may be overlooked.  This tracing supports a diffuse disturbance of cerebral function.  The focal fast activity raises the possibility of an abnormality emanating from that region.  
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is an 82-year-old woman with tonic-clonic seizures on presentation 7/27/06, four seizures in the past six months, two strokes in 2001 and 2004, and post-stroke epilepsy.
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is a challenging EEG in a patient who curls up in the fetal position and pulls the covers over her head during the study
+DESCRIPTION OF THE RECORD: The background EEG is disorganized with a mixture of rhythmic theta and delta.  Superimposed upon this, there is some rhythmic frontal 3 to 5 Hz activity, some triphasic waves, and some periodic, at times well formed and at times more poorly formed complexes, more remarkable from the right hemisphere with variable maximum, but typically in the frontocentral regions.  As the patient becomes drowsy, the EEG becomes slightly discontinuous.  At that time, there are one or two spike and slow wave complexes identified with a phase reversal at T1.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Markedly slow and disorganized background. 
+	Epileptiform activity identified from either hemisphere.
+	Triphasic waves. 
+CLINICAL CORRELATION: Consideration for a toxic or metabolic process, as well as potentially more than one localization for this patient’s seizures is appropriate.  
+
+

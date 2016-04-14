@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  65 year old left handed woman with a history of right sided CVA coming in with a left sided weakness and evaluated for preoperative right CEA surgery.
+MEDICATIONS:  Not available.
+REASON FOR STUDY:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  Wakefulness was recorded.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm 9-10 Hz with an amplitude of 20 to 50 microvolts which is reactive to eye opening. There was small amount of frontocentral beta activity seen. Sleep was not recorded during this EEG session. Photic stimulation reveals no abnormal discharges.
+TECHNICAL DIFFICULTIES:  None.
+ABNORMAL DISCHARGES:  Continuous slow wave in right hemisphere with a maximum of slowing on F8-T4. In addition, we have focal slowing in F7-T3 intermittently. Seizures are none.
+IMPRESSION:  Abnormal EEG due to: 
+Continuous right hemisphere slowing, maximal in the anterior temporal region. 
+Intermittent left hemisphere slowing.
+CLINICAL CORRELATION:  This EEG showed focal structural cerebral dysfunction in the right hemisphere maximal in the anterior temporal region, which is consistent with a known stroke. In addition, there is a left focal cerebral dysfunction which is not specific in regards to etiology. No seizures or epileptiform activity was recorded.
+
+

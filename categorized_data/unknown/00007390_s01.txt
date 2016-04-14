@@ -1,0 +1,10 @@
+	CLINICAL HISTORY:	58 year old woman who fell down the steps and had a loss of consciousness. Remote history of epilepsy in 1987 with Dilantin therapy for 1-5 years.
+MEDICATIONS:  None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed. The patient had a very oily scalp.
+DESCRIPTION OF THE RECORD:  Despite the technical limitations described above, in wakefulness the background EEG is somewhat slow with an alpha rhythm of 7.8 Hz. There are shifting asymmetries observed in stage 2 sleep. Much of the record includes a drowsy pattern rich in beta and theta. Photic stimulation is remarkable for patient who transitions in and out of stage 2 sleep. Scant driving response is observed.
+	HR:	80 bpm
+IMPRESSION: Abnormal EEG due to:
+1.  Background slowing.
+CLINICAL CORRELATION:   There were no epileptiform features. However, subtle asymmetries could be missed. A follow-up EEG in the lab or even performed as an outpatient could be helpful in search of epileptiform activity.
+
+

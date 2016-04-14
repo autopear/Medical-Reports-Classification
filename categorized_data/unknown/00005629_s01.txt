@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 24-year-old male with a gunshot wound in 1998, quadriplegia, epilepsy with hepatitis.
+MEDICATIONS: Dilantin, Keppra, Vancomycin, Zantac, others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as responsive to stimuli.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with a mixture of delta and theta frequency activity.  There is an asymmetry in muscle with muscle artifact produced only from the right scalp electrodes.  The patient is awake and looking about and there is variability in the record with some portions of the record demonstrating more in the way of theta frequency activity than others.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Diffuse background slowing.
+CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function effecting both gray and white matter.  Asymmetries may be masked in this record as the muscle artifact is only produced on one side, but unfortunately there is enough muscle to perhaps obscure any asymmetry between the two hemispheres. No epileptiform features were seen.  Correlation with imaging may be of use. 
+
+

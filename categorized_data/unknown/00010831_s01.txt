@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 47-year-old woman with hypertension, MI and previous CVA.  Patient admitted with recurrent seizures and right-sided weakness on 10/09/06.
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9.5 Hz, 30 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  There is intermittent, subtle asymmetry with disruption of faster frequency in the left temporal region, and there is a single left frontocentral sharp wave.  
+HR:  50 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Very subtle focal slowing from the  left hemisphere in wakefulness and drowsiness. 
+CLINICAL CORRELATION: Only a single sharp wave was identified in this record.  The sharp wave was in the region of the patient’s ischemic changes.  Additional EEG recording with hyperventilation and photic stimulation in stage II sleep is recommended.  
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 77-year-old (52 per resident??) woman who fell, developed rhabdomyolysis and acute renal failure, now poorly responsive.
+MEDICATIONS: Coumadin, Narcan, Lasix, and Ativan.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is lethargic. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal and demonstrates a dynamic pattern.  There are portions of the record with rhythmic theta frequency activity.  Occasional posteriorly predominant triphasic waves are identified. In addition, some triphasic waves are asymmetric, more remarkable in the right or left hemisphere.  Generally speaking, they are not maximum in the frontal regions but an anterior-to-posterior lag can be identified for some.  Stimulation of the patient or coughing produces more of a rhythmic theta frequency pattern.  Intermittent attenuation or flattening of the record is seen for one to three seconds, and on one occasion this is more remarkable on the right.  Occasional sharp waves are identified in either hemisphere including right central, left occipitoparietal, and rare left central. 
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized slowing.
+Sharp waves identified from either hemisphere with variable loci in the left hemisphere. 
+Unusual appearing triphasic waves, maximum in the posterior regions. 
+CLINICAL CORRELATION: The features described above may be seen in many different clinical scenarios.  In the context of a metabolic encephalopathy, this EEG would support a severe disturbance of cerebral function.  Correlation with imaging and clinical examination is important as there are focal features in this study.  No seizures were recorded.  Although this patient seems unresponsive, she does demonstrate interactivity in the EEG with spontaneous arousals or a continuous pattern with stimulation, which would all be compatible with an acute, severe metabolic disturbance. 
+
+

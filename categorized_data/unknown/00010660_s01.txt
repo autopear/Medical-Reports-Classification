@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 29-year-old woman with a ten-minute convulsion and lupus.
+MEDICATIONS: Zyprexa, antibiotics, Dilantin, Depakote, Ativan, and Versed. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is a primarily drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates a 9.25 Hz, 30 to 50 uV posterior dominant rhythm with a small amount of background disorganization and a small amount of background theta.  Features of drowsiness include a small amount of frontocentral beta activity and disruption of the alpha rhythm. Deeper stages of sleep are not sustained. The patient has some transitions in and out of drowsiness with rhythmic, diffuse theta. 
+Hyperventilation is performed with good effort producing a small amount of background slowing.  Photic stimulation produces brief driving at intermediate flash frequencies.  
+HR:  96 BPM.
+	IMPRESSION: Mildly abnormal EEG for a subject of this age due to:
+	1.	Mild background slowing and disorganization.  
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The mild background disorganization is non-specific and may be associated with the patient’s medications, postictal state, or CNS pathology.  
+
+

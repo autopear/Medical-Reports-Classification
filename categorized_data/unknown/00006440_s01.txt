@@ -1,0 +1,10 @@
+CLINICAL HISTORY: 24 year old male in status post MVA with 2 contact seizures on presentation and past history of febrile convulsions now somnolent, alternating with agitation.  He has a left orbital fracture, swelling in the left eye and scalp swelling.
+MEDICATIONS:  Dilantin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is calm with sleeping but agitated,  uncomfortable in sitting up with stimulation.
+DESCRIPTION OF THE RECORD: The sleep record includes normal vertex waves, spindles and posts.  Stimulation of the patient produces an arousal with alpha and theta frequency activity but the awake record is obscured by significant muscle and
+movement artifact. The overall record is medium-to-low amplitude, continuous and in the context of the use of a hard collar and facial and scalp swelling. There are no focal nor epileptiform features.   In fact, in the brief sections with arousal a relatively normal awake background is observed.
+	HR:	84 bpm
+IMPRESSION:  Normal EEG
+CLINICAL CORRELATION:  No focal nor epileptiform features are observed. Additional recording when his scalp swelling resolves is advised.
+
+

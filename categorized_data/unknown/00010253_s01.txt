@@ -1,0 +1,9 @@
+	CLINICAL HISTORY:   55-year-old right-handed male with epilepsy. The patient recalls last seizure November 2007, with loss of consciousness, tongue biting. Past medical history of asthma, hypertension.
+MEDICATIONS: Dilantin, Naproxen, Clonazepam, Fluoxetine, Clonidine, Amlodipine, Temazepam,  Lisinopril
+INTRODUCTION:   Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation is attempted. Photic stimulation is completed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 hertz 40 microvolt posterior dominant rhythm. There appears to be rhythmic temporal theta from the left temporal region with superimposed wicket, and there is clearly some wicket activity, but there is in relaxed wakefulness some underlying sharply contoured activity which must be considered outside of the range of normal. This is seen in the early part of hyperventilation. Deeper stages of sleep are ·not achieved. Photic stimulation does not elicit a driving response.
+	HR: 	60 bpm
+IMPRESSION:  This EEG is worrisome in that there a handful of discharges which resemble a normal variant, but have a slightly slower periodicity and although they have a typical morphology, occur at frequency of 3.6 hertz and would suggest a left temporal focus.
+CLINICAL CORRELATION: To differentiate between a normal variant and a left temporal focus, patient needs a sleep-deprived EEG.
+
+

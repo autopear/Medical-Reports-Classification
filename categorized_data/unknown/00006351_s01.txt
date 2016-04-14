@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 59-year-old right-handed woman with aneurysm surgery June 2004, repeat coil in 2005, now with headaches but no history of epilepsy. No mention is made of a craniotomy.
+	MEDICATIONS: 	Dilantin.
+	INTRODUCTION: 	Digital video EEG is performed in the lab using standard 10/20 system of electrode placement with 1 channel EKG.
+	DESCRIPTION OF THE RECORD: 	In wakefulness background EEG includes a relatively well-organized pattern with a 9 Hz posterior dominant rhythm. There is likely a new activity identified bilaterally although testing is not performed to confirm this. There is frontal alpha frequency activity identified, slightly higher amplitude on the left compared to the right. Features of drowsiness include slow rolling in eye movements followed by the appearance of vertex waves. Photic stimulation elicits brief bilateral driving. Photic stimulation is completed.
+H R :
+96 bpm
+	IMPRESSION: 	EEG within normal limits
+Clinical Correlation: No focal nor epileptiform features are identified in the record. Normal EEG does not exclude a diagnosis of epilepsy. Comparison with this patient's cranial shape may be valuable given the amplitude asymmetry described above.
+
+

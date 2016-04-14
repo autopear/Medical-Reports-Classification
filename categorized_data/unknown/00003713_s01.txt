@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 57-year-old woman with a history of heavy smoking, fatigue, shortness of breath, and two seizures, the second of which occurred with eye deviation to the right. 
+MEDICATIONS: Dilantin, Ativan, Percocet. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation was not performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The majority of the record demonstrates a drowsy pattern, but there is a 9 Hz posterior dominant rhythm with excess beta activity identified when the patient is maximally awake.  There is some shifting asymmetries in the sharply contoured record with generous beta activity, but there are sections of the record where there seems to be disruption of faster frequency activity from the right hemisphere, particularly the anteriotemporal regions. Features of drowsiness include rhythmic background slowing.  Eye movements are preserved into stage I sleep.  Eye movements are noted to be asymmetric.   
+HR:  102 BPM.
+	IMPRESSION: Technically questionable, but abnormal EEG due to:
+	Excess beta.
+	Mild background slowing and disorganization. 
+	Shifting slowing.
+	A question of disruption of faster frequency activity from the right frontal region. 
+	
+CLINICAL CORRELATION: Because of the technical features described above, it is appropriate to repeat an EEG in the lab with careful placement of the frontotemporal electrodes.  In this individual with new onset seizures, no epileptiform features were seen.
+
+

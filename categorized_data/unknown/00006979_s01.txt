@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 54-year-old male who presents with a left MCA stroke with a right hemiparesis and aphasia. Day14 post-TPA.  Patient had  focal seizures last night.
+MEDICATIONS: Dilantin, Plavix, and Heparin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is an awake through light sleep record.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is asymmetric.  There is a 9 Hz, 30 V posterior dominant rhythm in the right hemisphere, but the alpha rhythm was slower and disrupted in the left hemisphere.  Intermittent focal slowing was seen in the left temporal region, occasionally with sharply contoured delta maximum in the T1 region.  A few, rare sharp waves were observed in the C3 area in light sleep.  In arousal, there is 4 Hz rhythmic theta activity seen in the left central area. 
+HR:  54 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Asymmetric background with slow alpha rhythm, disrupted in the left hemisphere.
+Left temporal focal slowing with sharply contoured delta activity.
+Rare sharp activity in the left central region.
+CLINICAL CORRELATION: The focal features observed in this tracing are consistent with a structural lesion in the brain in this patient with a left MCA stroke.  This may be responsible for the partial mechanism of epilepsy in this patient.  
+
+

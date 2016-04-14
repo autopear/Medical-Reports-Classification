@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 54-year-old male with right intracerebral hemorrhage involving the fourth ventricle and impaired brain stem function.
+MEDICATIONS: Mannitol, Labetalol, Dilantin, Cipro.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is comatose and unresponsive.   The patient is stimulated on multiple different occasions with auditory, noxious, and tactile stimulation.
+DESCRIPTION OF THE RECORD: The background EEG is markedly suppressed.  There is some rhythmic ICU artifact, particularly on the left. There is also some muscle artifact, but there is no definite cerebral activity.  ECS montages are used in a portion of the record.  No definite electrocerebral activity was seen and no reactivity or variability was seen to stimulation.
+HR:  __ BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Absence of cerebral activity.
+CLINICAL CORRELATION: In the appropriate clinical setting, this EEG supports a severe, terminal disturbance of cerebral function.  
+
+

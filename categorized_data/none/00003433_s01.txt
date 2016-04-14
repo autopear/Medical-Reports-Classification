@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  73 year old man with history of hypertension, dementia, and prostate cancer, who presents with complaints that "I am not able to stand due to right leg weakness", as well as change in mental status.
+MEDICATIONS:  Hydralazine, Simvastatin, ASA, Norvasc.
+REASON FOR STUDY:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional EKG and anterior temporal electrodes.  Wakefulness and stage I sleep were recorded.  Activating procedures including photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm of 9-10 Hz with an amplitude of 20-70 mV which is reactive to eye opening.  Sleep is characterized by stage I.  Photic stimulation does not reveal any abnormal discharges.  Normal frontal central beta is seen. 
+ABNORMAL DISCHARGES:  Intermittent F3 delta at 2-4 Hz at times with some T3 delta seen.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+intermittent left frontal and left temporal focal slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of left frontal and mid temporal independent focal cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

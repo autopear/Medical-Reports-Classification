@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  48 year old man with alcohol abuse, presented with seizures, found to have herpes encephalitis, now unresponsive and not following commands.  Follow up EEG.
+MEDICATIONS:  Keppra, Acyclovir, Vancomycin, Zosyn.
+REASON FOR STUDY:  Follow up EEG for seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal single lead EKG electrode.  The patient was recorded in wakefulness and while unresponsive.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 7 Hz seen mainly over the right hemisphere.  There is some frontal central beta seen best over the right hemisphere also.  Activating procedures were not performed.  The patient when stimulated appears to have some muscle response to stimulation.  Some patterns of sleep architecture, stage I, are seen.   
+ABNORMAL DISCHARGES:
+Focal slowing seen over the left hemisphere, maximally in the mid temporal and anterior temporal regions at a frequency of 2-4 Hz with an amplitude of 20-40 mV.  In addition, in this region there is almost complete loss of the faster frequency, especially over the temporal and some over the left central region and the frequencies are all low voltage and attenuated.  
+Generalized slow waves at 5-7 Hz seen continuously throughout the recording.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left mid anterior temporal slowing.  
+Attenuation of faster frequencies in the left hemisphere
+Generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral structural dysfunction in the left anterior temporal and mid temporal region which, in addition with the loss of the faster frequencies is consistent with a known herpes encephalitis and damage to white and gray matter in that region.  In addition, there is evidence of diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.  The reactivity can still be seen with some stimulation in the recording.
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  68 year old right handed woman with a history of seizures.
+MEDICATIONS:  Keppra, Imdur, Microzide Tylenol, Antivert, Bystolic
+REASON FOR EEG:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  Wakefulness and sleep were recorded.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a low voltage posterior dominant rhythm of 9 hertz which is reactive to eye opening. Normal frontocentral beta is seen. Sleep stage I is seen. Activating procedures with photic stimulation and hyperventilation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal wake and asleep EEG.
+CLINICAL CORRELATION:  No seizures nor epileptiform discharges were seen.
+
+

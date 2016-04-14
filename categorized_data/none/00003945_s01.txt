@@ -1,0 +1,14 @@
+REASON FOR STUDY:  Seizures.
+		
+CLINICAL HISTORY:  This is an 81-year-old woman with seizures, the last one in 2012.
+MEDICATIONS:  Lisinopril, ranitidine.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with addition of anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded in wakefulness and drowsiness.  Activating procedures include photic stimulation and produced no abnormal discharges.
+ABNORMAL DISCHARGES:  
+Focal slow wave seen intermittently at F7/T3 and at F8/T4 at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts. 
+At times these are slightly sharply contoured.   
+Heart rate:  72.
+IMPRESSION:  Abnormal EEG due to bilateral frontotemporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of independent bilateral frontotemporal focal cerebral dysfunction, which is nonspecific with regard to etiology.  No seizures or epileptiform discharges were clearly seen.
+
+

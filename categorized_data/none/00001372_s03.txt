@@ -1,0 +1,15 @@
+HISTORY: She is a 67-year-old right-handed woman with status post lung transplant with a history of subdural hematoma and stroke. The patient had an episode of confusion and an episode of right arm twitching. 
+MEDICATIONS: Keppra, many others. 
+INTRODUCTION: Continuous video EEG monitoring was performed in the ICU using standard 10-20 system of electrode placement with one channel EKG. Continuous seizure and spike detection software was employed. The patient was quite somnolent through the EEG, but no seizures were recorded. 
+DESCRIPTION OF RECORD: The background EEG waxes and wanes. Some sections are remarkably slow. Other sections, even though it is an hour after the initial EEG, demonstrate an arousal with an increase in faster frequency activity, particularly on the right. As the patient dozed off to sleep, beta frequency activity is noted. 
+There is a handful of automatic seizure detections. These are reviewed and all are characterized by a muscle artifact. As the recording continues, by the afternoon, the patient is considerably more awake, at least as far as the EEG with an increase in faster frequency, particularly on the right. By 4:17 in the afternoon, again, there is an awake pattern when the patient is examined by the nurse with an increase in faster frequency activity, particularly on the right. By the morning of June 30, 2011, although the patient remains very drowsy and behaviorally seems to be improved and is talking, there is an8 Hz alpha rhythm identified on the right, not so clearly identified on the left. Focal slowing can be seen out of the left hemisphere as actually bursts of frontally predominant rhythmic delta. 
+HR: Frequently irregular, particular1y on June 30, 2011, 90 bpm
+IMPRESSION: Abnormal EEG due to: 
+1. A pattern of generalized background slowing, improving substantially over the course of the record. 
+2. Focal slowing on the left.
+ 
+CLINICAL CORRELATION: 
+No epileptiform features were noted. The pattern of gradual improvement of the background slowing is compatible with a postictal pattern. 
+ 
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 71-year-old woman with epilepsy since 1970, seizure five years ago with COPD awaiting LVAD.  
+MEDICATIONS: Dilantin, multiple asthma medications.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat disorganized.  There is a posterior dominant rhythm of 7 to 8 Hz, 30 to 50 uV in a background of primarily theta.  There is intermittent focal slowing identified from the right hemisphere including the right posterior quadrant. Drowsiness is characterized by an increase in the background slowing as well as intermittent focal slowing. Photic stimulation elicits brief bilateral driving.
+HR:  116 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing and disorganization. 
+Superimposed focal slowing from the right posterior quadrant. 
+CLINICAL CORRELATION: No epileptiform features were seen.  This tracing supports a diffuse disturbance of cerebral function and raises the possibility of a structural or functional abnormality on the right.  
+
+

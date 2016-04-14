@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 52-year-old, right-handed male with hypertension, diabetes, depression, and arthritis who had an episode where he felt dizzy then had a tonic-clonic seizure with shaking and loss of consciousness lasting three minutes followed by postictal confusion.  CT scan demonstrated generalized atrophy. 
+MEDICATIONS: Dilantin, Xanax, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, 40 uV alpha rhythm with a generous amount of low voltage, frontocentral beta activity and a small amount excess theta.  Hyperventilation is performed early on in the record, increasing the theta in the background.  Features of drowsiness include slow rolling eye movements, attenuation of the alpha rhythm, and snore artifact.  
+Photic stimulation is remarkable for some photoelectric artifact, but also a driving response at slower and faster flash frequencies. 
+HR:  84 BPM.
+	IMPRESSION: Mildly abnormal EEG in wakefulness and sleep for an adult of this age due to:
+	Mild excess theta.
+	Mild excess beta.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  These features are non-specific and could be due to medications, postictal state, or other diffuse disturbance of cerebral function.
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 41-year-old male with head trauma in 1993, status-epilepticus at Chester Hospital, transferred to Temple for treatment.  Seizures began 1.5 years ago.  Patient on Tegretol in January, but stopped medication.  Left encephalomalacia and right VP shunt. 
+MEDICATIONS: Ativan, Valium, Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as experiencing eye opening; patient trached with nystagmus even with his eyes closed.  
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a prominent, intrahemispheric asymmetry.  The left hemisphere is lower voltage, relatively suppressed and featureless.  The right hemisphere demonstrates a mixture of frequencies including generous beta, smaller amounts of alpha frequency, and occasional delta.  There are some bursts of sharply contoured delta from the right frontocentral region.  Eye movement artifacts are slightly asymmetric.  In the sharply contoured activity picked up in the right central parietal region, there is a subtle right central parietal sharp wave. At times, this is maximum at P4 with spread to P4-T6.  
+Stimulation of the patient produces an increase in alpha frequency activity in the background and around this time, there is also a right mid-temporal sharp wave.  Following this, there is an electropositive form of a sharply contoured discharge with rhythmic 4 to 5 Hz activity.  This is picked up in the left frontal and temporal regions, isoelectric at F7/T1, and F7/T1 are almost positive in comparison to FP1 and T3.  The rhythmic activity is also picked up in the frontal regions and occurs as brief rhythmic bursts lasting approximately five seconds.  
+HR:  56 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Intrahemispheric asymmetry with marked suppression of activity from the left.
+Sharp waves identified from the right hemisphere including right central parietal region, posterior temporal, and occasionally anterior temporal. 
+Likely epileptiform activity occurring in brief bursts from the left hemisphere with almost an electropositivity seen or a double phase reversal. 
+CLINICAL CORRELATION: Although the epileptiform activity described on the left has an unusual field of spread, this may be modified by the previous craniotomies.
+
+

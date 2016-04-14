@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  44 year old man with a right MCA infarct, episode of new onset left sided weakness.
+MEDICATIONS:  Lisinopril, Baclofen, Oxycodone, Lipitor, Isordil, ASA.
+REASON FOR STUDY:  Change in exam.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that is best seen over the left hemisphere with a frequency of 9 Hz and an amplitude of 20-60 mV.  There is normal amount of frontal central beta seen over the left hemisphere.  No activating procedures were performed.  The patient is recorded during wakefulness, as well as stage I and stage II sleep.  The architectural stage I and stage II sleep is best seen most over the left hemisphere. 
+ABNORMAL DISCHARGES:  Focal slow waves seen continuously at F8/T4 at a frequency of 2-4 Hz with an amplitude of 20-40 mV and associated loss of faster frequency over this hemisphere, mainly over the temporal region. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Continuous focal slowing over the left hemisphere, maximal over the temporal region, in addition to lots of faster frequencies over that region.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction involving both the gray and white matter, which is consistent with the known stroke.  No seizures or epileptiform discharges were seen.
+
+

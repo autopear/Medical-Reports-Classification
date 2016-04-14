@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and stage I and stage II sleep.  Activating procedures included hyperventilation and photic stimulation.
+MEDICATIONS:  Depakote, Effexor, trazodone.
+HISTORY:  This is a 24-year-old man with episodes of where his body tenses up, most recently a month ago since 2008.  He also has a history of anxiety, depression and ADHD.
+TECHNICAL DIFFICULTIES:  Some O2 intermittent electrode and A2 intermittent electrode artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures including hyperventilation and photic stimulation produce no abnormal discharges. The patient is recorded in wakefulness, stage I and stage II sleep.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+HEART RATE:  60.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  This is a normal awake and asleep EEG.  No seizures or epileptiform discharges were seen.
+
+

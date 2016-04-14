@@ -1,0 +1,12 @@
+MEDICATIONS: Keppra, Baclofen others 
+HISTORY: Neurosarcoid, now with change in mental status, evaluate for focal seizures. 
+INTRODUCTION: 
+Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one-channel EKG There are significant technical issues with this EEG. The system believes that the EEG is still being recorded. There is a great deal of electrode artifact seen in the reviewed EEG, but not in the initial study This was resolved 7/18 and study was reviewed again. 
+DESCRIPTION OF RECORD: 
+There is a profoundly abnormal background. There is a slow background w1th continuous typhasic waves with an anterior to posterior lag superimposed upon a featureless background. There are also intermittent sharp waves from either hemisphere and occasional periodic discharges 
+Stimulation of the patient seems to produce an increase in the activity. 
+Heart rate greater than 100 BPM. 
+IMPRESSION/CLINICAL CORRELATION: 
+The triphasic waves supports a diffuse process, metabolic process but the periodic sharp waves suggest an irritable cortex and a potential for seizures. No seizures were recorded. 
+
+

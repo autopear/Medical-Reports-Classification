@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 77-year-old woman with intracerebral hemorrhage, now appears brain dead.  
+MEDICATIONS: Dopamine and Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is comatose, intubated, with a body temperature of 97.5F.
+DESCRIPTION OF THE RECORD: The background EEG includes EKG artifact as well as some 60 Hz artifact, which can be reviewed with a 60 Hz filter.  Stimulation of the patient does not impact the pattern.  There is some muscle artifact seen in the background, but no definite cerebral activity.  Stimulation of the patient does not alter the record.  
+HR:  78 to 96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Absence of definite cerebral activity.
+CLINICAL CORRELATION: In appropriate clinical context, this EEG is supportive of electrocerebral silence.  
+
+

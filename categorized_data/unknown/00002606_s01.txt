@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 67-year-old, right-handed woman with lung cancer, status-post radiation with a seizure while hospitalized.  
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is sharply contoured with a 9 Hz, 50 to 60 uV posterior dominant rhythm and a generous amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by an increase in frontal beta and theta. Deeper stages of sleep are not achieved.  Photic stimulation elicits a driving response.  Of note, the extraocular movements are at times slightly out of phase.
+HR:  96 BPM.
+	IMPRESSION: Technically challenging EEG due to:
+	1.	Electrode problems but within normal limits. 
+CLINICAL CORRELATION: No definite focal or epileptiform features were identified in this record. If appropriate, additional testing may be helpful to characterize an underlying epileptiform abnormality.  
+
+

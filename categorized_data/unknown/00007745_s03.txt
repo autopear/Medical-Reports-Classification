@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 77-year-old male with seizures, stroke, and pacemaker.   
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is somnolent.
+DESCRIPTION OF THE RECORD: The patient is resting without oxygen.  He does not appear to be uncomfortable and seems to be drowsy.  The background EEG includes a posterior dominant rhythm of approximately 8.5 Hz on the right, disrupted on the left.  The technical quality of this EEG is good, but there is intermittent asymmetry with disruption of faster frequency activity from the left and more arrhythmic delta activity.  There are occasional discrete sharp waves from the left hemisphere including the anterior temporal or centrotemporal regions.  There is also a single, well-defined right temporal sharp wave.  Features of drowsiness include an increase in background beta, particularly in the later portions of the record with a vertex wave or two.  The initial portions of the record demonstrate more background slowing without the more typical sleep waveforms.
+Photic stimulation is performed while the patient is drifting off to sleep and elicits a small driving response at intermediate flash frequencies. 
+HR:  Irregular, paced at 100 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Intermittent focal slowing more remarkable from the left temporal region.
+Rare left temporal sharp waves.
+A single right temporal sharp wave. 
+CLINICAL CORRELATION: In comparison to the study from the 25th, this EEG demonstrates a bit more focal slowing.  This EEG also demonstrates sharp waves, which may be part of the sampling process or may reflect some sort of interval history between the 25th and the 27th.  Of note, the overall background and the epileptiform activity is less in this record than that recorded on the 22nd.  
+
+

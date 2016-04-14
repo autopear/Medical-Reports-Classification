@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 56-year-old male with new onset seizures for which the patient is amnestic.  History of hypertension, TB, and gout.
+MEDICATIONS: Dilaudid, Dilantin, and Percocet.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is a 7 to 8 Hz posterior dominant rhythm in a background with excess theta.  The overall background is somewhat disorganized.  The patient seems to be excessively drowsy, drifting off into stage I sleep.  Occasional bursts of frontally predominant delta are identified in wakefulness/early drowsiness.  Photic stimulation elicits scant bilateral driving. 
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing and poor organization.
+CLINICAL CORRELATION: These features are non-specific.  With the FIRDA, consideration for a toxic or metabolic process as well as postictal state is appropriate.  No 
+epileptiform features were seen, therefore, a follow-up study may be helpful. 
+
+

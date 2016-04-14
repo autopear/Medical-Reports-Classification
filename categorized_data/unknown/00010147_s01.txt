@@ -1,0 +1,11 @@
+IDSTORY: 56 yr old male with epilepsy since 1970 with last tonic clonic seizure one week ago.
+MEDICATION: Dilantin, astlm1a medicine and depression medicine.
+ACTIVATION: Photic Stimulation and Hyperventilation.
+INTRODUCTION: Digital Video EEG was performed in the lab using standard 10-20 system of electrode placement  with one channel of EKG.
+DESCRIPTION OF THE  RECORD: In wakefulness,  the background  EEG  is well organized with a 9.5 Hz, 40uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.   Hyperventilation is performed early on in the record, producing an increase in amplitude.   Following  I-IV, as the patient becomes drowsy,  there is some  subtle  focal  slo-.ving from the right hemi sphere particularly the central temporal region.  In the transition to sleep with vertex  waves  and POSTS,  there are some subtle focal  features  from  the right  temporal  region which  are  better  defined   than  others.     Some  seem  to  initially  come  out  of  a  wicket  like background.  Others are remarkable for a somewhat sharply contoured discharge in the right frontocentral  region.   There  are also one or two shifting  asynm1etries with vertex  activity.   As stage  II  sleep  precludes,  the  EEG  demonstrates   a  symmetric   pattem  with  vertex  waves,  K­ complexes,  spindles and frequent arousals  from stage II sleep.   Photic  stimulation  is performed when the patient is awakened from sleep and produces minimal bilateral driving.
+HR:    55 BPM
+IMPRESSION: This EEG is abnormal due to:
+1.   Very subtle focal features  from the right hemisphere, particularly  in the centrotemporal region  with subtle focal slowing  and a handful of sharply contoured  discharges from the right centrotemporal  region
+CLINICAL CORRELATION:  These  features described  above were subtle  and were seen in association  with some shifting  asynm1etries in tenns  of the vertex activity.  The sharp waves are quite  subtle but the focal features  are a bit more prominent.    If further  characterization  of this patient's epilepsy is important, additional recording may be valuable.
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  Unknown female found unresponsive  in the field after seizures.
+MEDICATIONS:  Ativan, dilantin.
+INTRODUCTION:  Digital video EEG is performed at bedside using standard 10-20 system of electrode placement.  The patient is initially somnolent and seems to be waking up spontaneously during the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG begins with a slow pattern with diffuse delta and beta.  Spontaneous arousals are associated with an increase in alpha frequency activity.  There is some subtle shifting asymmetries observed in the background and at times there seems to be a bit more faster frequency activity on the right compared to the left.  Towards the close of the record the patient is becoming
+agitated.
+...,.
+	HR: 	: 84 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 		Initially a slow background, but with improvement overall compatible with an encephalopathy.
+	2. 	Shifting slowing with a question attenuation of faster frequency activity on the left.
+CLINICAL CORRELATION:   No epileptiform features were observed in this record. The dynamic pattern with improvement over time is compatible with a postictal state or a resolving toxic or metabolic encephalopathy.
+
+

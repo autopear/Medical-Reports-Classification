@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 67-year-old male who presents with focal motor seizures starting from the fingers on the left hand, moving up to the left shoulder, and then the entire body without loss of consciousness.  Hypertension and diabetes OOC.
+MEDICATIONS: Dilantin, Ativan, and antihypertensives.
+INTRODUCTION: One-hour digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is an awake through stage I sleep record.   
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is a 10 Hz, 25 V posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  The background EEG seems to be mildly asymmetric with an amplitude higher in the left hemisphere than the right.  This may be due to a technical artifact or impedance of electrode placement.  In drowsiness, occasional bursts of irregular left theta and delta activity were identified.  Occasionally, shifting temporal theta and delta activity were also identified.  
+HR:  78 BPM.
+IMPRESSION: Mildly abnormal EEG for a subject of this age due to:
+Occasional left temporal theta and delta activity. 
+CLINICAL CORRELATION: No epileptiform discharges were recorded in this tracing. The left temporal theta and delta slow activity is a non-specific finding and can be seen in many conditions including stroke or aging.  The mild asymmetric background may be due to electrode placement.  This tracing does not exclude the possibility of epilepsy or a seizure disorder.  If clinically indicated, a repeat EEG may be helpful. 
+
+

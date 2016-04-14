@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 63-year-old, right-handed gentleman with epilepsy since childhood on Dilantin and Phenobarbital with a breakthrough seizure.
+MEDICATIONS: None listed in the chart.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat poorly organized.  There is an 8 Hz posterior dominant rhythm, which is present bilaterally but disrupted on the right compared to the left.  There is an intrahemispheric asymmetry with disruption of faster frequency activity on the right compared to the left.  In addition, in some portions of the record, there is focal delta activity from the right central temporal region and rare right mid-to-anterior temporal sharp waves.  
+Drowsiness is characterized by attenuation of the alpha rhythm, and occasionally in drowsiness there is an accentuation of the focal slowing.
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Superimposed focal slowing from the right hemisphere particularly in the central temporal region.
+Right centrotemporal sharp waves. 
+CLINICAL CORRELATION: Supports a partial mechanism for epilepsy as well as a focal or structural abnormality on the right.  The background slowing may be due to post-ictal state or diffuse disorder of cerebral function.
+
+

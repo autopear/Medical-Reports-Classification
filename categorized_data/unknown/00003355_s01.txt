@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 57-year-old male with a right occipital and bilateral cerebellar infarct admitted with breakthrough seizures after patient ran out of medication and Todd’s paralysis.  
+MEDICATIONS: Dilantin, Depakote, Clonidine, multiple antihypertensives.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The overall background is somewhat low voltage.  When the patient is maximally awake, there is a scant alpha rhythm identified on the left.  There is an asymmetry with some disruption of faster frequency activity on the right, as well as lower voltage slowing.  As the patient becomes drowsy, vertex waves and spindles are identified.  In addition, there is a high amplitude spike and slow wave and sharp and slow wave discharge identified in the right hemisphere maximum in the frontotemporal regions, but with spread to the frontocentral and centrotemporal areas.  Photic stimulation is performed while the patient is asleep and does not activate the record. 
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Focal slowing from the right hemisphere with disruption of faster frequency activity.
+	Right anteriotemporal spike and slow wave complexes.
+CLINICAL CORRELATION: This EEG supports a structural and/or functional abnormality on the right, affecting both gray and white matter. The patient is initially awake, but when he falls asleep, is quite hypersomnolent.   Clinical correlation may be helpful in this regard. 
+
+

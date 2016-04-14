@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 26-year-old male with epilepsy since age four characterized by an aura of a bad smell followed by tonic-clonic activity.  Last seizure three weeks ago.  History of status epilepticus, cardiac arrest, and cardiac problems. 
+MEDICATIONS: Dilantin and three other medications. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is awake.  There is a 10.5 Hz, 75 uV posterior dominant rhythm identified.  Underlying posterior slow waves of youth are seen.  A likely MU rhythm is seen, but testing is not performed to confirm this.  The patient is sitting up with eyes opened, but seems to be breathing at some points as if she is asleep and her eyes are opened.  Features of drowsiness include anterior spread of the alpha rhythm and an increase in beta and theta.   
+Photic stimulation elicits driving at intermediate and faster flash frequencies.  
+HR:  60 BPM.
+	IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  If epilepsy is an important consideration, a repeat tracing capturing deeper stages of sleep would be helpful. 
+
+

@@ -1,0 +1,11 @@
+CLINICAL  HISTORY: This is a 57-year-old woman with new onset clonic movement in her 1ight upper extremity. Past history of CVA in October 2006, bilateral bifrontal meningioma operated on October 2006, diabetes mellitus, and hypertension.
+MEDICATIONS: Prednisone, Lisinopril, insulin, and Metoprolol.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is trached and sedated.
+DESCRIPTION  OF  THE   RECORD:   The  background  EEG  is  abnormal  and  is primarily a theta pattern with an underlying breach rhythm and higher amplitude arrhythmic delta activity from the left frontocentral region.  Because of the shape of the skull, there is some double phase reversing artifacts, as well as some sharply contoured activity at C3.   There  are a handful of spontaneous arousals with an increase in some faster theta activity and a decrease in the patient's background arrhythmic delta.  Tactile stimulation produces a trivial alerting response.
+HR:  90BPM.
+IMPRESSION: Abnormal EEG due to:
+1.  Background slowing.
+2.  Focal slowing in the left .frontocentral region.
+CLINICAL  CORRELATION: No seizures were seen and no prominent epileptiform features identified in this record.   This EEG supports a diffuse disturbance of cerebral function, as well as a structural or functional abnormality on the left, which may be correlated with imaging.
+
+

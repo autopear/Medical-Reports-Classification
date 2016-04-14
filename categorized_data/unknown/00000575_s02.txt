@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is an 84-year-old male with encephalopathy, seizures, and multiple metabolic abnormalities.  Patient had a seizure last night requiring intubation, now drowsy, moving the left side somewhat better than the right.
+MEDICATIONS: Solumedrol, Dilantin Lipitor, and others.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is initially lethargic and becomes increasingly alert during the course of the EEG.  
+DESCRIPTION OF THE RECORD: As the tracing begins, this is a low voltage record with a posterior dominant rhythm of approximately 8 Hz and a background rich in beta activity and small amounts of theta.  There is intermittent muscle particularly on the right. 
+HR:  104 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Modest generalized background slowing.  
+CLINICAL CORRELATION: There is a discrepancy in the patient’s degree of confusion and the amount of background slowing.  His overall clinical state may make him appear somewhat more impaired, but he is clearly awake with a posterior dominant rhythm.  The background slowing is non-specific and may be related to preexisting CNS disease, postictal state, medications, or metabolic disturbance. 
+
+

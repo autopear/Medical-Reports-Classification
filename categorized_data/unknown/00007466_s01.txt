@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 57-year-old, right-handed male with a tonic-clonic seizure on 8/4/06 characterized by right facial twitching.  History of epilepsy and hypertension. 
+MEDICATIONS: Ativan and Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is primarily a drowsy record with head rocking artifact.  
+DESCRIPTION OF THE RECORD: In the portions of the record when the patient is awake, there is a glimpse of a 10 Hz posterior dominant rhythm averaging 50 uV with generous background beta.   Features of drowsiness include rhythmic background slowing followed by slow rolling eye movements.  Head rocking and multiple spontaneous arousals are identified.  Snore artifact is appreciated in light sleep. (Note: The patient is drowsy, is briefly speaking, and then snoring.)   
+HR:  96 BPM.
+	IMPRESSION: EEG within normal limits primarily in sleep.
+CLINICAL CORRELATION: The generous beta described above may be seen following the use of benzodiazepines.  The snore artifact in this rotund individual, particularly occurring almost out of wakefulness, may suggest an underlying sleep disturbance.  
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 46-year-old gentleman who presents with left wrist pain and syncope, loss of consciousness with urine incontinence. History includes diabetes, hypertension, chronic renal insufficiency, and gout. 
+MEDICATIONS: Dilantin, insulin, and _______ medicine.  Check tech sheet
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: The background EEG is fairly organized with low voltage.  There is a 9 Hz, 15 V posterior dominant rhythm with a small amount of frontocentral beta activity.  Frequent vertex waves, spindles, and K complexes were identified.  The patient was awakened by his snoring, but he rapidly went back to stage II sleep.  Moderate muscle activity is seen with snoring.  Photic stimulation elicited mild driving. 
+HR:  78 BPM.
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: Normal EEG recording does not exclude the possibility of seizures or epilepsy. If clinically indicated, a repeat EEG recording may increase the chances of reviewing the epileptiform discharges.  The patient was found to have excessive snoring, which interrupted his sleeping.  Consider evaluating  obstructive sleep apnea by polysomnogram.
+
+

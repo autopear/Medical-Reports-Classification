@@ -1,0 +1,22 @@
+INTRODUCTION: 
+Digital video EEG was performed in the lab using standard 10-20 electrode placement system with one anterior electrodes and EKG electrodes. Hyperventilation and photic stimulation were performed. Wakefulness and sleep was recorded. 
+MEDICATIONS: 
+Heparin and Lisinopril. 
+TECHNICAL PROBLEMS: 
+None. 
+HISTORY: 
+A 73-year-old gentleman that presented to the clinic on November 7, 2011, with syncopal episode. The patient has no recollection of the event. 
+PAST MEDICAL HISTORY: 
+Significant for hypertension. 
+DESCRIPTION OF THE RECORD: 
+The patient had occasional posterior dominant rhythm at 9Hz, which was is reactive to eye opening. There was very small amount of frontocentral beta waveform activity recorded. Sleep was characterized by a stage l only. Photic stimulation and hyperventilation revealed no abdominal discharges. 
+ABNORMAL DISCHARGES: 
+Generalized slow waves at 4 to 5Hz with amplitude of 20 to 60 microvolts 
+SEIZURES: 
+None 
+IMPRESSION: 
+Abnormal EEG due to mild diffuse slow waves. 
+CLINICAL CORRELATION: 
+This EEG reveals evidence of mild diffuse cerebral dysfunction, which is non-specific with regards to etiology. This could be due to bilateral bihemispheric white matter damage, metabolic/toxic encephalopathy or medication effect. No seizures or epileptiform discharges were seen. 
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 36-year-old woman found on the floor, incontinent.  History of hypertension, asthma, and diabetes mellitus.  Evaluate for meningitis. 
+MEDICATIONS: Dilantin, Ceftriaxone, Dexamethasone, Lovenox, Glipizide, and Lorazepam. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. The patient is described as drowsy. 
+DESCRIPTION OF THE RECORD: There are portions of the record when the patient is awake and the background is well organized.  There are also sections where she does have some eye artifact, but she also has brief bursts of frontally predominant intermittent rhythmic delta.  In the transition to drowsiness, there is an increase in background slowing and additional bursts of rhythmic frontal slowing.  The high amplitude delta may be 0.5 to 2 Hz.  With stimulation, the patient maintains an alert pattern with a relatively sustained posterior dominant rhythm. 
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Intermittent bursts of rhythmic slow frontal delta. 
+CLINICAL CORRELATION: These features are non-specific and can be seen in a toxic or metabolic encephalopathy, increased intracranial pressure, deep gray matter lesions or even as a postictal entity.  No epileptiform features were seen. 
+
+

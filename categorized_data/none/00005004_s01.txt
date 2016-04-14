@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  38 year old right handed man with a history of syncope since 2006 and episode of falls with loss of consciousness and injury.  Episodes last about 3-5 seconds.
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  There is normal amount of frontocentral beta.  The patient is recorded in wakefulness and stage 1 sleep.  Activating procedures including photic stimulation and hyperventilation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION: No seizures or epileptiform discharges were seen.
+
+

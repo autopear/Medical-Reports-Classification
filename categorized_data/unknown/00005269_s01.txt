@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 65-year-old male with acute change in mental status with a history of hypertension, gout, and renal failure.
+MEDICATIONS: Dilantin, Catapres, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is poorly organized with excess background theta and a posterior dominant rhythm of 7 to 8 Hz.  There is occasional shifting arrhythmic delta.  Features of drowsiness include an increase in the background delta with both frontally predominant delta and arrhythmic delta. Photic stimulation does not activate the record. 
+HR:  126 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Shifting arrhythmic delta. 
+CLINICAL CORRELATION: These features are non-specific but consideration of a diffuse disturbance of cerebral function affecting both gray and white matter is appropriate. 
+
+

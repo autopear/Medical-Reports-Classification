@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 75-year-old woman with epilepsy, multiple malignancies, nursing home resident with confusion, agitation, bipolar disease, and B12 deficiency.
+MEDICATIONS: Depakote, Dilantin, Phenobarbital, and others.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is agitated throughout much of this record.  
+DESCRIPTION OF THE RECORD: The patient is agitated and moving throughout much of the EEG despite receiving Ativan just prior to the EEG.  Despite the muscle artifact, a 5 to 6 Hz posterior dominant rhythm of 50 to 60 uV is identified, as well as generous beta activity and occasional bursts of shifting arrhythmic delta activity. As the patient becomes drowsy, she remains relatively active and there is an increase in delta in the background.  
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Shifting arrhythmic delta activity.
+Occasional bursts of generalized, slow delta, prominent in the transition to sleep. 
+CLINICAL CORRELATION: No epileptiform features were seen in this record.  Unfortunately, because of the patient’s tendency towards agitation and even remaining active as she drifts off to sleep, epileptiform activity may be underestimated.  
+
+

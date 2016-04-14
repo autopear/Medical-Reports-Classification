@@ -1,0 +1,12 @@
+			CLINICAL HISTORY:	The   patient is a 20-year-old  female who  is status post two  episodes of tonic-clonic  seizures. 	There is a past medical history  of epilepsy, 	gunshot wound  to the head at the  age  of  2 years.
+				MEDICATIONS: 	Ativan,	Lamictal,	Dilantin, 	Heparin
+		INTRODUCTION: 	Digital  video EEG  performed in the laboratory using the standard 10/20 system of electrode  placement and 1 channel of EKG.   No  hyperventilation  or photic stimulation were performed. 	The EEG  is performed in  the  awake state.
+				DESCRIPTION   OF  THE  RECORD:	In wakefulness,	the  background look asymmetrical with beta  activity on  the left side  and slower on the right  side in the range of theta and delta  range.	There is also  breach rhythm in the right frontal  central area. Occasional sharp-like activity  was seen  on the right C4.	Hyperventilation and photic stimulation  were not performed in this study.   The patient  did not progress to deeper stages of sleep.
+	HR:	96  bpm
+	IMPRESSION:	This is  an abnormal EEG  due to:
+	1.	Asymmetric background,  slower  on the right side.
+	2.	Breach  rhythm  in the right  frontal central area.
+	3.	Absence of  alpha  rhythm but  diffuse beta activity on the  left side.
+		CLINICAL   CORRELATION:	These findings  are  suggestive  of localization-related mechanism  for epilepsy in the patient.  The absence of alpha waves with increased  beta was secondary to medication  such as  Ativan use. 	Breach rhythm is  due to skull defect related  to a gunshot wound and  surgical procedure.
+
+

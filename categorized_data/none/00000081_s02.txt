@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  62 year old right handed female with focal seizures found to have a left parasagittal meningioma status post resection, left parietal frontal craniectomy.
+MEDICATIONS:  Keppra, Decadron, HCTZ, K-Dur, Norvasc, Benazepril, Atenolol, Zocor, Percocet, Morphine, Ativan
+REASON FOR EEG:  History of seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Wakefulness and stage I sleep was recorded. No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm at 9 Hz which is reactive to eye opening and normal frontocentral beta seen. Sleep stage I is seen. No activating procedures performed.
+ABNORMAL DISCHARGES:  Focal slow waves seen continuously at C3 along with a pulsation artifact.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left central slow waves and pulsating artifact.
+CLINICAL CORRELATION:  This EEG is consistent with evidence of focal cerebral dysfunction in the left central region which is consistent with craniotomy and tumor resection surgery. No seizures or epileptiform discharges were seen.
+
+

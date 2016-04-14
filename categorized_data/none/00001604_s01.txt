@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 79-year-old gentleman with Parkinson’s disease and intracerebral hemorrhage.  History of vocal cord cancer in the past. 
+MEDICATIONS: Ecotrin and Digoxin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record with photic stimulation.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an interhemispheric asymmetry.  From the right hemisphere, the background is relatively well organized with a posterior dominant rhythm ranging from 7 to 9 Hz and a small amount of background theta.  The left hemisphere demonstrates prominent disruption of the posterior dominant rhythm with arrhythmic delta activity from the left hemisphere, particularly the temporal and parietal regions.  There are a handful of sharply contoured complexes identified from the left hemisphere with a generous field of spread including the left central and frontocentral regions.  As the patient becomes drowsy, there is an increase in background beta frequency activity, but with a beta asymmetry with richer beta frequency activity from the right central region on the left.  Occasional vertex waves are noted in sleep. 
+Photic stimulation did not significantly activate the record. 
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Focal slowing from the left hemisphere characterized by rhythmic and arrhythmic delta activity from the left, as well as disruption of faster frequency activity.
+Occasional sharp waves from the left hemisphere, particularly from the central regions.
+CLINICAL CORRELATION: This tracing supports a structural abnormality on the left effecting both gray and white matter.  No seizures were recorded.  The results were reviewed with the attending physician at the time of the study.  
+
+

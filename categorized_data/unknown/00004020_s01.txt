@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 61-year-old, left-handed woman with posttraumatic epilepsy since age 36. 
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was deferred due to the patient’s EKG, but photic stimulation was completed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz alpha rhythm, which is symmetric and reactive to eye opening.  There is an intrahemispheric asymmetry with intermittent rhythmic delta on the left, as well as disruption of faster frequency activity.  Rare left temporal sharp waves are noted in wakefulness, maximum at T1.  As the patient becomes drowsy, there is an increase in background beta, and the focal slowing becomes more prominent and the left temporal sharp waves increase in frequency.  At maximum, there are as many as five in a 10-second period.  
+Photic stimulation elicits supraharmonic driving, right greater than left.  
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Left temporal sharp waves identified in wakefulness and increasing in drowsiness. 
+	Left temporal rhythmic slowing.
+CLINICAL CORRELATION: The amplitude asymmetry raises the possibility of a breach rhythm, although no craniotomy was reported. The patient had occasional PVCs.  Copies of the EKG lead are attached.  
+
+

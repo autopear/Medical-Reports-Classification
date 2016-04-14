@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Syncope and a change in mental status.
+CLINICAL HISTORY:  This is a 77-year-old man with a history of syncope collapse walking to the bathroom, PEA code for 8 minutes.
+MEDICATIONS:  Pantoprazole, Unasyn, metoprolol.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded while unresponsive.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontocentral beta.  There is no normal sleep architecture.  No activating procedures were performed.
+ABNORMAL DISCHARGES:  Generalized slow waves at 2-4 Hz, amplitude of 20-30 microvolts seen continuously throughout the recording. At one point during the recording the patient was stimulated, and the patient started to blink and he follows commands.  There is also slight reactivity to the EEG in variability.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to diffuse generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction which is nonspecific in regards to etiology.  No seizures or clear epileptiform discharges were seen.
+
+

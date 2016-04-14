@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 4-month-old male with fever, vomiting, and seizure for one day.  
+MEDICATIONS: Dilantin, Vancomycin, Tylenol, and Ceftriaxone. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake and asleep. 
+DESCRIPTION OF THE RECORD: The EEG captures abundant stage II sleep with vertex waves and spindles, which are sometimes asynchronous.  Features of drowsiness include high amplitude occipital rhythmic delta.  The awake record is remarkable for a fair amount of movement.  There is some theta frequency activity in the posterior regions in wakefulness.  
+HR:  120 BPM.
+	IMPRESSION: Normal EEG for a child of this age. 
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The appropriate developmental milestones were identified. 
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 4-year-old female with Waardenburg syndrome, abnormalities of facial development with fever, two episodes of crying, stiffening, and jerking movements lasting five minutes.   
+MEDICATIONS: Bactrim and iron. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The child is crying throughout much of the study.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG at times seems to be somewhat slow and disorganized for a child of this age.  As the child becomes drowsy, however, there is rhythmic, hypersynchronous, high amplitude theta frequency activity.  Vertex waves, K complexes, spindles, and POSTS are identified in stage II sleep. In the transition from wakefulness to sleep, there are high amplitude right anterior temporal spike and slow wave complexes that are associated with disruption of faster frequency activity from the right temporal region.  As the patient reaches deeper stages of sleep, there are rare, left posterior temporal sharp waves.  
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG for a child of this age due to:
+Abnormal background organization in maximal wakefulness. 
+Right temporal high amplitude spike and slow wave activity. 
+Single left posterior temporal sharp wave. 
+CLINICAL CORRELATION: Consideration for a partial or focal epileptiform process with involvement of the cortex given the disruption of faster frequency activity is appropriate for this child.  No seizures were recorded.  
+
+

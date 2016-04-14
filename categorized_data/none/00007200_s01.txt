@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  36 year old right handed female with history of seizures as a child, now presents with recurrent episodes of staring with anxiety, memory problems and headaches as well as ADHD.
+MEDICATIONS:  Zyprexa, Ativan, Naproxen.
+REASON FOR STUDY:  History of seizures, now with staring spells.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9 Hz which is reactive to eye opening.  The patient has normal frontocentral beta.  Activating procedures produced no abnormal discharges.  The patient remains awake and drowsy.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION: No seizures or epileptiform discharges were seen.
+
+

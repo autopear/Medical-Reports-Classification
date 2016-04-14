@@ -1,0 +1,17 @@
+CLINICAL HISTORY: 52 year old left handed male with history of fungal cerebritis, status epilepticus. 
+MEDICATIONS: Keppra, Versed, Pantoprazole, Mycamine, Cefepime, Vanco, Dopamine, Norepinephrine. 
+INTRODUCTION: Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is comatose. By report at some point, clinical twitching was observed but that was not documented in the data provided. 
+DESCRIPTION OF THE RECORD: The background EEG continues to demonstrate a 
+burst suppression or discontinuous pattern. There are bursts of activity and these bursts of activity include a right parietotemporal spike with some frequency evolution but with no sustained bursts. Periods of suppression are typically 3 to 4 seconds in duration. The activity is relatively suppressed on the left compared to the right. 
+There are sections of the record where as many as 10 of the sharp waves occur in a brief train and there are other sections where the overall background is a bit more suppressed on the order of 4 seconds. 
+The video is reviewed during the sections where the sharp waves occur in brief trains but no clinical features are observed. The overall pattern remains very low voltage but there is some rhythmic slower delta observed on the left.
+ 
+Tactile stimulation of the patient does not significantly activate the record. 
+HR: 84 bpm. 
+IMPRESSION: Abnormal EEG due to: 
+1. A markedly abnormal background with what is essentially a burst suppression pattern more so on the right than the left. 
+2. Prominent epileptiform activity on the right hemisphere particularly in the central parietal and posterior temporal region. 
+3. A slow and suppressed pattern on the left although there is cerebral activity on the left. 
+CLINICAL CORRELATION: No seizures were recorded although there are brief trains of sharp waves from the right. This EEG supports a severe disturbance of cerebral function with a very suppressed background and a highly epileptogenic focus in the right hemisphere. Correlation with imaging is suggested. Of note, this patient's pharmacologic sedation was discontinued on 11/2/2010, and the background in the subsequent days continued to demonstrate a markedly suppressed pattern. 
+
+

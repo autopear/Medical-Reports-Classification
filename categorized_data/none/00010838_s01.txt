@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 23 year old right handed male with history of left temporal meningioma, as well as pneumothorax and left upper bleb surgery that presents with history of new onset tonic clonic seizures and complex partial seizures described as a rising epigastric sensation, followed by nausea lasting 1-2 minutes.
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with additional anterior temporal and EKG electrodes.  Sleep was recorded in stage I and activating procedures with photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm at 9 Hz with an amplitude of 20-60 mV which is reactive to eye opening.  There is a normal amount of frontal central beta.  Sleep is characterized by stage I sleep.  Activating procedures, including photic stimulation, does not produce any abnormal discharges.
+TECHNICAL DIFFICULTIES:  None.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen at T3 frequently.
+Focal slow waves seen at T3 at 2-4 Hz and 20-60 mV amplitude seen occasionally.
+SEIZURES:  None.
+IMPRESSION:  Abnormal awake and sleep EEG due to:  
+Focal sharp waves. 
+Slow waves arising from the left temporal lobe.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization related epilepsy with seizures likely arising from the left temporal region.  In addition, there is evidence of focal cerebral dysfunction which is consistent with the known history of a left temporal meningioma.  No seizures were seen.
+
+

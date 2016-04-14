@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 92-year-old female admitted with possible seizure activity.
+MEDICATIONS:  Haldol.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was uncooperative and there was a great deal of muscle artifact.
+DESCRIPTION OF THE RECORD:  As the tracing opens, the patient seems to be awake with a great deal of muscle artifact.  There is a sharp wave and an underlying period complex observed in the right hemisphere with some variability in its maximum in the right posterior temple or occipital region and at other times it is more mid to anterior temporal.  It has a relatively slow periodicity seen sometimes every 1.5 seconds, sometimes appearing as pairs.  When the patient is a bit more cooperative or interacting with a companion at the bedside, there is a glimpse of an alpha rhythm of approximately 7 Hz noted on the left.  A triangular shaped occipital parietal sharp waves are a bit more prominent as she looks about.   
+Heart rate:  102 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Background slowing and disorganization.
+An asymmetry with more arrhythmic delta noted from the right hemisphere.
+Sharp waves and periodic complexes noted from the right hemisphere with variable maximum typically most prominent in the right posterior quadrant.
+CLINICAL CORRELATION:  This EEG supports an epileptogenic process in the right hemisphere.  A structural or focal pathology in the right hemisphere should be considered.  No seizures were recorded.
+
+

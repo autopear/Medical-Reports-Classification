@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  30 year old right handed male with history of head trauma, subarachnoid status post craniectomy and cranioplasty with a history of seizures.
+MEDICATIONS:  Keppra.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  There is normal amount of frontocentral beta.  The patient is recorded in wakefulness and stage 1 sleep.  Activating procedures produced no abnormal discharges.
+ABNORMAL DISCHARGES:  Focal slow waves seen at C4/T4 at a frequency of 2-4 Hz with an amplitude of 20-60 microvolts seen continuously with an associated breach in that region.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to  
+Right central temporal focal slowing and breach.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right central temporal region, which is consistent with the known craniotomy and surgery.  No seizures or epileptiform discharges were seen.
+
+

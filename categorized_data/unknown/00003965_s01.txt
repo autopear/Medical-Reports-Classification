@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 50-year-old woman with change in mental status, sickle cell, left PCA stroke and left shunt, epilepsy, narcotic ingestion, and thrombosis. 
+MEDICATIONS: Dilantin, Ativan, Heparin, and narcotics. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is diffusely slow with a theta frequency pattern.  There are intermittent bursts of paroxysmal, mild 5 to 6 Hz activity from the left temporal region.  Associated with this are occasional left temporal sharp waves.  Features of sleep include vertex waves and an increase in the background beta activity.  In sleep, the epileptiform activity from the left is less prominent.  As the patient reaches deeper stages of sleep, it is less prominent, but it clearly persists into stage I sleep and demonstrates some slowing and some sharply contoured delta.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing. 
+Superimposed focal slowing most remarkable from the left mid-temporal region. 
+Left mid to anterior temporal sharp waves. 
+CLINICAL CORRELATION: Despite the abnormalities in both hemispheres, those that appear most remarkable in the EEG are from the left with both focal slowing and sharp waves supporting a partial mechanism for epilepsy.  
+
+

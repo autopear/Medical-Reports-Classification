@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 71-year-old male with Parkinson's disease, cognitive dysfunction, and epilepsy, but seizure free for the last 10 years.
+MEDICATIONS:  Dilantin, pyridoxine, ibuprofen.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed, hyperventilation was deferred.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is low voltage with a 10.7 Hz alpha rhythm and a small amount of low voltage, frontal central beta.  The patient transitions in and out of a drowsy state with an increase in beta.   
+Photic stimulation is remarkable for chewing movements and is a relatively unsuccessful attempt. 
+Heart rate:  Irregular 80 BPM.
+IMPRESSION:  This is a normal EEG in a confused adult in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  The patient had involuntary movements during the EEG which were not epileptiform in nature.  The irregular heart rate may be evaluated separately.
+
+

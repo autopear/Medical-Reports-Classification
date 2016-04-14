@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a __-year-old woman with tonic-clonic seizures with postictal confusion.
+MEDICATIONS: Dilantin, Keppra, and Ativan.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  The patient is very sleepy throughout the EEG. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates a 9.5 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by rhythmic background theta.  The patient has some eye movement artifact in stage I sleep, some of which is picked up in the temporal regions, but there is no definite epileptiform activity seen.  As the patient reaches deeper stages of sleep with vertex waves, no epileptiform activity is identified.  Photic stimulation is performed while the patient is drifting into stage I and II sleep, and does not activate the record.  
+HR:  78 BPM.
+	IMPRESSION: EEG within normal limits.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Eye movements into sleep are of unclear clinical significance.  If further information is needed to characterize this patient’s seizures, additional EEG recording may be valuable.  
+
+

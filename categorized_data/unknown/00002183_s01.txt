@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 57-year-old, right-handed gentleman with new onset complex  partial  seizures  with  olfactory  auras  followed  by  dizziness  and  postictal confusion.    Prior right frontal craniotomy.
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital  video EEG is performed in the lab  using standard 10-20 system  of  electrode  placement   with  one  channel  of  EKG. Hyperventilation   was performed.  Problems throughout this EEG included impedance and electrode artifact in the electrodes in the right frontal region. The patient has a frontal, cranial depression. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is a 9Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  There is an artifact  identified  in  the  right  frontal  region.   Unfortunately,  there  is  also  a suggestion of underlying, right frontal focal slowing. A breech rhythm is identified in the right frontal region.
+Vertex waves are seen in stage I sleep.
+Hyperventilation produces an increase in background slowing, as well as accentuating the artifacts in the right frontal region.
+HR:  60 BPM.
+IMPRESSION: Probably abnormal EEG due to right frontal focal slowing.
+CLINICAL  CORRELATION: Because  of  the artifact  described  above,  the  record should be repeated with stage TI sleep and better electrode impedance.
+
+

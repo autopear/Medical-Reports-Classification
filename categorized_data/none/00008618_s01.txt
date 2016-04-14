@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  39 year old right handed male with history of right ankle pain and narcotic abuse, now with episodes of loss of consciousness with diffuse body shaking.
+MEDICATIONS:  Keppra
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  Digital video long term EEG monitoring was performed at bedside for 4.5 hours using the standard 10-20 electrode placement system with additional anterior temporal EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were performed.  Continuous spike detection software, as well as seizure detection software, as well as patient alarm events, and nurses notes were used to review the EEG.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm with normal frontal central beta.  The patient is recorded in wakefulness and sleep.  Activating procedures produce no abnormal discharges.   
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None. 
+Events:  The patient had about 9 events which consisted of him pressing the alarm, suddenly his arms would become flexed, and he would become stiff and grimacing his face, lasting for about 20-30 seconds, during the episode and after which he would be unresponsive for another 2-3 minutes.  The behavior was very similar to the ones that he described before and every episode remained the same.  During these episodes the EEG would have a diffuse muscle artifact, but underlying it there would be a normal posterior dominant rhythm and no epileptiform discharges prior to the flexing, posturing, or after when he would remain unresponsive.  It looked like a normal EEG.  Sometimes with the flexure posturing he would hip thrust during the event.
+IMPRESSION:  Normal awake and sleep EEG with events with no EEG correlate.
+CLINICAL CORRELATION:  The events that were captured and described as above had no EEG correlate and are consistent with psychogenic nonepileptic seizures.  No epileptiform discharges were seen.
+
+

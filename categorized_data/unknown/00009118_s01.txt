@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  49 year old, right handed woman with new onset seizures and abnormal
+MRI and CT. Thyroid mass,  thyroidectomy. Admitted after multiple recurrent seizures.
+MEDICATIONS:  Tizanidine, Metoprolol, Endocet,  Synthroid, Hydroxyzine, Cepharexin,  Dilantin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is awake and drowsy.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is somewhat disorganized, but there is a 9 hertz, 30 microvolt posterior dominant rhythm. There is shifting arrhythmic delta activity, but in addition, there is occipitally predominant delta, more prominent from the right than the left. In addition, there is disruption of faster frequency activity on the right. Features of drowsiness include slow rolling eye movements. There is an increase in beta
+activity in drowsiness and the focal asymmetries are sometimes more prominent in drowsiness although the shifting arrhythmic delta persists.
+HR:  60 bpm
+IMPRESSION: Abnormal EEG due to:
+	1.	Modest generalized background slowing and disorganization.
+	2.	Superimposed occipital rhythmic slowing right more than left.
+	3.	Shifting arrhythmic delta.
+	4.	Interhemispheric asymmetry with disruption of faster frequency activity and more significant delta on right compared to left.
+CLINICAL CORRELATION:   These features support a bihemispheric disturbance.
+
+

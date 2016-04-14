@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  This is a 63-year-old man with a history of an intracerebral hemorrhage who presents with a change in mental status.
+MEDICATIONS:  Compazine.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  Some frontal muscle artifact on the right.
+DESCRIPTION OF RECORD:  The record reveals a posterior dominant rhythm that reaches 8-8.5 Hz intermittently which appears to be reactive to eye opening.  There is some frontocentral beta seen best over the left hemisphere.       
+Photic stimulation produced no abnormal discharges.   
+The patient appears to be in stage I sleep at one point in the recording. 
+Heart rate 84.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen continuously at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts. 
+Focal slow waves seen intermittently over F7/T3.  These are seen at a frequency of 2-4 Hz and an amplitude of 20-40 microvolts, again seen intermittently.
+Mild excessive theta in wakefulness at a frequency of 5-7 Hz and an amplitude of 20-60 microvolts seen throughout the recording in limited wakefulness.
+IMPRESSION:  Abnormal EEG due to continuous right frontal slowing in addition to intermittent left anterior temporal slowing and mild generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral structural dysfunction in the right frontal region including almost the entire right hemisphere, which is consistent with a known intracerebral hemorrhage.  In addition, there is some left anterior temporal focal slowing as well as some mild generalized slowing, both of which are nonspecific in regards etiology.  No seizures or epileptiform discharges were clearly seen.
+
+

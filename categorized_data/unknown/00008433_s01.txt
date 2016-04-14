@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 48-year-old alcohol abuser with head trauma, seizures, subarachnoid hemorrhage, and subdural hematoma. Epilepsy with head trauma or seizure-related fall. 
+MEDICATIONS: Dilantin, tetanus, Mannitol.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is in a cervical collar and is quite agitated.  
+DESCRIPTION OF THE RECORD: When the patient is awake, the background EEG demonstrates a medium amplitude pattern.  There is a suggestion of a 9 Hz posterior dominant rhythm with excess background theta.  The patient rapidly drifts off to sleep with the appearance of rhythmic theta and then spindles and vertex activity.  There are frequent arousals from sleep.  As the record continues, as the patient awakens briefly and is agitated, the background is less slow than was seen in the beginning of the record.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG for an adult of this age due to:
+	When maximally awake, at least mild background slowing is seen.
+	In this challenging record with significant movement and muscle artifact, there is a suggestion of more rhythmic, somewhat higher amplitude slowing from the left frontocentral region.
+CLINICAL CORRELATION: The waxing between wakefulness and sleep with arousals and agitation is both by EEG and clinical appearance compatible with a delirium.  In this challenging EEG, there is a suggestion of focal slowing in the left frontocentral region, which may be correlated with imaging.  For this individual with a history of epilepsy, no epileptiform features were identified. 
+
+
