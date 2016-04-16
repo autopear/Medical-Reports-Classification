@@ -1,7 +1,0 @@
-CLINICAL HISTORY: This is a 32-year-old, right-handed woman with a right basal ganglia lacune and a one-year history of intermittent episodes of left-sided numbness and tingling with alteration in speech and/or bilateral tingling. History of non-insulin dependent diabetes and asthma.
-MEDICATIONS: Dilantin.
-INTRODUCTION: Continuous digital video EEG monitoring is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient did not report any clinical events, and none were detected by the nurses or the computer.
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with symmetric, reactive 10 Hz alpha rhythm and a small amount of low voltage frontocentral beta activity.  Generous sleep was recorded, but it is primarily stage II sleep with vigorous K complexes, spindles, and vertex waves.  High amplitude POSTS were identified.  Deeper stages of sleep were not identified.  
-HR: 90 BPM.
-
-

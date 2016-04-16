@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 55-year-old male with lung cancer, emphysema, and epilepsy versus pseudoseizures. Hypertension, diabetes, DVT, anemia, and IVC filter admitted with drug overdose.
-MEDICATIONS: Lovenox, Insulin, Phenobarbital, Morphine, Reglan, Xanax, Aspirin, Ibuprofen, Dilantin and Lorazepam.
-INTRODUCTION: Digital video BEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is a somewhat sedated study.
-DESCRIPTION OF THE RECORD: In wakefulness, the  background  EEG is well organized with generous beta activity.  The patient drifts off to stage II sleep with vertex waves  and  spindles.    Stimulation  of  the  patient  produces  a  brief  arousal.      Photic stimulation elicits minimal driving despite the patient's sedation.
-HR:  84BPM.
-IMPRESSION: BEG within normal limits.
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.   Comparison to this individual's  previous EEGs may be critical to determine if there is a need for additional testing.
-
-

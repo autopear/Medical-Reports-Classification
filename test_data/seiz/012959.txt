@@ -1,9 +1,0 @@
-CLINICAL HISTORY: 33 year old right handed male with recurrent seizures characterized by falling, injury to his face, waking up with vomiting, history of suicide attempt. Two episodes of loss of consciousness in recent days.
-MEDICATIONS:  Aspirin, Wellbutrin, Zoloft, Doxepin, Bupropion, Adderall, Ventolin, Zolpidem, Dilantin.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
-DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 10 Hz, 40 microvolts posterior dominant rhythm and a small amount of low voltage, frontocentral beta.  Hyperventilation does not active the record drowsiness as characterized by the appearance of frontal theta.  Brief posts are noted in drowsiness. Photic stimulation elicits scant driving.  
-HR:    90 bpm
-IMPRESSION:  Normal EEG.
-CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizure are an important consideration, a follow-up study may be considered.
-
-

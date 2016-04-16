@@ -1,9 +1,0 @@
-	CLINICAL HISTORY: 	Twenty-five-year-old male with epilepsy since infancy, MRI abnormalities with a parietal gliosis and question hippocampal atrophy.
-	MEDICATIONS: 	Dilantin, valproate, phenobarbital, others.
-	INTRODUCTION: 	Digital video EEG is performed in lab using standard 10/20 system of electrode placement with 1 channel of EKG. The recording is performed because the patient had become extremely sedated after phenobarbital was added to his valproate. He continues to feel sleepy during this EEG.
-	DESCRIPTION  OF THE RECORD: 	Background EEG demonstrates a pattern of diffuse slowing with rhythmic theta interrupted by delta. Arousals are characterized by an increase in delta. There is occasional rhythmic, somewhat shifting slowing. There are a handful of bursts of sharply contoured activity in the left mid­ temporal region.
-	HR: 	60 BPM.
-	IMPRESSION: 	Abnormal EEG due to prominent background slowing.
-CLINICAL CORRELATION:  This EEG supports a significant underlying encephalopathy which may be toxic or metabolic. No seizures were recorded.
-
-

@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 52-year-old male with epilepsy and alcohol abuse. 
-MEDICATIONS: 
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
-DESCRIPTION OF THE RECORD: The patient is drowsy or asleep throughout much of the record.  In maximal wakefulness, there is a low voltage, symmetric, reactive 10 Hz alpha rhythm with a generous amount of low voltage, frontocentral beta activity.  Prominent features of drowsiness include slow rolling eye movements and generous background beta with vertex waves, spindles, K complexes, and POSTS seen in stage II sleep.  Photic stimulation is performed while the patient is asleep and does not activate the record.  
-HR:  __ BPM.
-	IMPRESSION: WNL
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The low voltage pattern described above can be seen in this clinical context.  The generous beta may be due to medications.  Please note that the patient’s only medication was Dilantin, however, previous exposure to benzodiazepines could produce the beta. 
-
-

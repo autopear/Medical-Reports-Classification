@@ -1,9 +1,0 @@
-CLINICAL HISTORY:  38 year old left handed woman admitted on March 1, after a convulsion.  Thought to have had an aneurysm, but angiogram excluded this, has pituitary microadenoma, lupus, possible multiple sclerosis.
-MEDICATIONS:  Dilantin
-INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
-DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz alpha rhythm.  Drowsiness is characterized by attenuation in the alpha rhythm with slow rolling eye movements, beta, vertex waves, POSTs and K complexes.   
-HR:    66 bpm
-IMPRESSION:  Normal EEG in wakefulness and sleep.
-CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.
-
-

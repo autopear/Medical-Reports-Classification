@@ -1,9 +1,0 @@
-CLINICAL HISTORY:  66 year old right handed woman with 5 year history of epilepsy, seizures with abrupt loss of upright tone, multiple injuries.
-MEDICATIONS:  Dilantin, Metformin, Insulin, Protonix, Glipizide
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  There was no hypoventilation or photic stimulation.
-DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  Drowsiness is characterized by an increase in beta.   
-HR:    60 bpm
-IMPRESSION:  Normal EEG in wakefulness and drowsiness.
-CLINICAL CORRELATION:  No epileptiform features were identified.  A repeat tracing should to be obtained, capturing deeper stages of sleep and with hyperventilation and photic stimulation.
-
-

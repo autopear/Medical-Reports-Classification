@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 14-month-old infant with a prolonged febrile convulsion requiring Ativan, Dilantin, Phenobarbital, and brief intubation; questionably abnormal CT. 
-MEDICATIONS: PHT
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is almost exclusively a sleep record. 
-DESCRIPTION OF THE RECORD: The vast majority of the record includes stage II sleep with vertex waves and spindles.  There is some transition to stage III sleep with higher amplitude delta.  A single, brief attempt to arouse the child does not significantly alert him from sleep. 
-HR:  144 BPM.
-	IMPRESSION: EEG within normal limits exclusively in sleep. 
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  If this child is hypersomnolent, a repeat tracing with more of an attempt to alert him might be of use. It is possible that the medications that this child received may be contributing to his excessive drowsiness. 
-
-

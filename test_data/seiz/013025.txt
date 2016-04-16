@@ -1,8 +1,0 @@
-CLINICAL HISTORY:  A 46-year-old right-handed woman with childhood epilepsy, poorly described with seizures with loss of consciousness and  postictal confusion.  Mental illness requiring a home health aide and cervical cancer.
-MEDICATIONS:  Dilantin.
-INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.
-DESCRIPTION OF THE RECORD:  In wakefulness there is a fair amount of muscle artifact, but a 10 Hz symmetric reactive alpha rhythm was noted.  Lambda waves were noted in wakefulness.  In sleep vertex waves, spindles and POSTS were noted.  Photic stimulation elicited bilateral driving.
-IMPRESSION:  Normal EEG in wakefulness and sleep.
-CLINICAL CORRELATION:  No epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration a follow up study capturing deeper stages of sleep or with special activation procedures is suggested.
-
-

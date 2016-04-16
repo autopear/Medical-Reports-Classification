@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 23-year-old male with episodes of shaking of all extremities without incontinence.  Patient is amnestic for events.  HTN and DM.  No epilepsy risk factors recognized.
-MEDICATIONS: Dilantin, Heparin, Reglan, and Lisinopril. 
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10.5 Hz, 40 uV posterior dominant rhythm, which is symmetric and reactive to eye opening. Drowsiness is characterized by an increase in background theta and occasional vertex waves. Vertex waves, K complexes, and spindles were seen in brief stage II sleep. Hyperventilation produces a small increase in the amplitude of the background.  Photic stimulation elicits brief bilateral driving.  
-HR:  72 to 104 BPM.
-	IMPRESSION: Normal EEG in wakefulness and through stage II sleep. 
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  If these events are frequent, EEG monitoring may be useful.  
-
-

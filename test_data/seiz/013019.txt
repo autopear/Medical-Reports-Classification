@@ -1,9 +1,0 @@
-CLINICAL HISTORY: 63 year old gentleman with a new subdural hematoma, past history of penile implant and a possible seizure characterized by eyes rolling back in his head and staring for 20 seconds. The patient seems to have a cast on his right leg. 
-MEDICATIONS: Dilantin, Morphine. 
-INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. Photic stimulation is completed. 
-DESCRIPTION OF THE RECORD: The background EEG is low voltage with primarily a beta frequency pattern, but there is a scant 9 hertz alpha and a small amount of theta. There were sections of the record that are appropriately organized with a 9.25 hertz alpha rhythm. Photic stimulation does produce a driving response. 
-HR: 96 bpm 
-IMPRESSION: This EEG is within normal limits of an adult of this age. 
-CLINICAL CORRELATION: No epileptiform features are identified in this individual with a subdural hematoma. Consideration for a followup study in the lab as he recovers from his subdural hematoma is appropriate. 
-
-

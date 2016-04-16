@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 31-year-old, right-handed male with epilepsy since his teens, seizure-free for the past five years, hoping to discontinue medicines.  
-MEDICATIONS: Dilantin. 
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with an 11 Hz, 20 to 30 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements and attenuation of the alpha rhythm followed by vertex waves.  There are brief arousals in and out of stage I sleep.  Stage II sleep is characterized by vertex waves, K complexes, and spindles.  Hyperventilation is performed with good effort producing an increase in the amplitude of the background.  Photic stimulation produces alerting but no significant driving. 
-HR:  78 BPM.
-	IMPRESSION: Normal EEG in wakefulness through stage II sleep. 
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  No previous EEGs were available for comparison. 
-
-

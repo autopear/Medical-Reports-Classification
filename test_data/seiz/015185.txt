@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 27-year-old woman two-years status-post pelvic injuries after throwing herself in front of a train in relationship to a suicide attempt.  Patient now with recurrent seizures.
-MEDICATIONS: None listed, but multiple antidepressants, psychiatric medications, and Dilantin/Tegretol.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: In wakefulness, there is an 11 Hz, 60 uV posterior dominant rhythm with a generous amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by an increase in rhythmic theta.  Photic stimulation elicits both vigorous driving and eye blink artifact.  Hyperventilation is performed with good effort, producing an increase in the amplitude of the background.   
-HR:  84 to 104 BPM.
-	IMPRESSION: Normal EEG.
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The generous beta activity may be due to medications or drowsiness.  
-
-

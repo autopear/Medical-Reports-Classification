@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 46-year-old male with a longstanding history of epilepsy and atrophy in his hands with intermittent shaking in the right foot, sometimes associated with pain.  The nurses note that it had been under the patient’s voluntary control, or at least it attenuated when the patient was alerted.  The patient was experiencing the shaking of the right leg up until the time that the EEG machine was turned on.
-MEDICATIONS: Dilantin, Lisinopril, insulin.
-INTRODUCTION: Digital video EEG is performed at the bedside in the ER using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. The patient is examined throughout the record. 
-DESCRIPTION OF THE RECORD: When the patient is awake, there is a 10 Hz, 30 uV posterior dominant rhythm.  There is some head-rocking artifact in the occipital scalp electrodes.   As he drifts off to sleep, there is attenuation of the alpha with vertex waves.  The patient spontaneously arouses.  K complexes are seen in sleep.  
-HR:  90 BPM.
-	IMPRESSION:  EEG within normal limits in wakefulness and sleep.
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Unfortunately, this patient’s involuntary motor activity was not recorded.  
-
-

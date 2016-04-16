@@ -1,9 +1,0 @@
-CLINICAL HISTORY: 43 year old male with a history of psychiatric disease and substance abuse, found unresponsive, toxic screen positive for cocaine. 
-MEDICATIONS: Dilantin, Cocaine, Norvasc, Effexor, Prozac 
-INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. The patient is intubated, paralyzed and in a neck collar. 
-DESCRIPTION OF THE RECORD: The patient appears to be awake with a 9 hertz alpha rhythm and some 13 hertz beta frequency activity. The alpha rhythm responds to eye opening and eye closure. Drowsiness is characterized by an increase in beta with slow rolling eye movements. As the recording continues, eye movement artifact is noted as is the appearance of muscle. The patient does not particularly activate the EEG, but the patient is already awake. The patient has tactile stimulation with water squirted to the eyes which again ameliorates the alpha rhythm. 
-HR: 78 bpm 
-IMPRESSION: Normal awake electroencephalogram. 
-CLINICAL CORRELATION: There is a modest amount of background beta, but this is a clearly reactive and awake record. 
-
-

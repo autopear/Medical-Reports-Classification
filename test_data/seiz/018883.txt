@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 4-year-old female with a seizure with associated fall down the stairs. 
-MEDICATIONS: Dilantin. 
-INTRODUCTION: Digital video EEG is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. The child is asleep throughout much of the record. 
-DESCRIPTION OF THE RECORD: The majority of this record demonstrates stage II sleep, which on the whole is symmetric with symmetric vertex waves, K complexes, and spindles.  There are rare, shifting asymmetries.  The transition to slow wave sleep was characterized by bursts of rhythmic high amplitude slow delta.  
-HR:  120 BPM.
-	IMPRESSION: Normal EEG in sleep.
-CLINICAL CORRELATION: No epileptiform features were identified in this record.  If there are questions regarding the maturational state of this child’s EEG, additional recording with wakefulness may be of use. 
-
-

@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 48-year-old, right-handed gentleman with a lingering disorder versus borderline personality, admitted with status epilepticus versus pseudo status. 
-MEDICATIONS: Ativan, Haldol, Phenobarbital, Dilantin, others. 
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is somnolent throughout the record. 
-DESCRIPTION OF THE RECORD: Throughout the record, the patient is asleep or drowsy. The background includes a diffuse fast activity.  Stimulation of the patient produces a brief alerting response with increase of motor activity but no alerting pattern.
-HR:  96 BPM.
-IMPRESSION: This EEG is remarkable for diffuse beta activity in a drowsy state. 
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  This patient’s benzodiazepines may produce the pattern described above. 
-
-

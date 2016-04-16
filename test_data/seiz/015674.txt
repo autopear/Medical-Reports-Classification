@@ -1,9 +1,0 @@
-	CLINICAL HISTORY: 	46-year-old right-handed male with multiple medical problems, diabetes and seizure associated with traumatic brain injury and intoxication.
-	MEDICATIONS: 	Dilantin.
-		INTRODUCTION: 	Digital video EEG was performed in the lab using standard 10/20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. 	This is an awake and asleep record.
-			DESCRIPTION  OF THE RECORD: 	In wakefulness, there is a 9 Hz 30 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. 	Drowsiness is characterized by an increase in background beta. Hyperventilation produces an increase in sign. 	Photic stimulation elicits scant bilateral driving.
-	HR: 	110 BPM.
-	IMPRESSION: 	Normal EEG.
-		CLINICAL CORRELATION: 	No focal nor epileptiform features are identified in this record. 	Additional evaluation for the cause of this individual's sinus tachycardia may be appropriate.
-
-

@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 51-year-old female with multiple medical problems including CHF and status-post mitral valve replacement in August 2004.  Patient presents with crescendo epilepsy.  The episodes are described as staring without convulsions and exacerbated by stress.  
-MEDICATIONS: Dilantin, Keppra, Coumadin many others.
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
-DESCRIPTION OF THE RECORD: The background EEG is characterized by excessive beta and the patient is asleep throughout much of the record.  In brief arousal, a posterior alpha is identified of 12 Hz, 20 uV.  The patient has persistent eye movements into sleep, as well as other movement artifact. Photic stimulation elicits a symmetric driving response.   
-HR:  66 BPM.
-	IMPRESSION: Normal EEG in wakefulness through stage II sleep. 
-CLINICAL CORRELATION: No epileptiform discharges were seen. Normal EEG does not rule out seizure activity.  This is the patient’s second EEG, which was normal.  Given the unusual description of her seizures and frequency, a long-term monitoring study would be valuable.  
-
-

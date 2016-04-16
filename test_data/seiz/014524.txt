@@ -1,9 +1,0 @@
-CLINICAL HISTORY: 47 year old woman with MVA in May 2009 with severe headaches and a seizure on June 16, 2009 with loss of consciousness and confusion. 
-MEDICATIONS: Dilantin 
-INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation was performed. This is an awake and asleep record. 
-DESCRIPTION OF THE RECORD: In wakefulness, there is a well defined 9 Hertz, 50 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by slow rolling eye movements with vertex waves and spindles in sleep. The patient seems to be quite drowsy transitioning between wakefulness and sleep. Photic stimulation elicits scant bilateral driving. 
-HR: 48 bpm 
-IMPRESSION: Normal EEG in wakefulness and sleep. 
-CLINICAL CORRELATION: No focal or epileptiform features were observed. Normal EEG does not exclude a diagnosis of epilepsy. In this individual with post traumatic syndrome, additional evaluation may be appropriate. Clinical evaluation may be valuable regarding the bradycardia. 
-
-

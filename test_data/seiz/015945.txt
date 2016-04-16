@@ -1,9 +1,0 @@
-			CLINICAL  HISTORY:	    A  51-year-old right-handed  male with an episode where he was found on the  floor,  speaking incoherently and slowly. 	The patient  is  amnestic for the event,	but his physician started  him on phenytoin.  CT  scan demonstrated multiple  strokes. 	Renal failure,  awaiting transplant.
-	MEDICATIONS: 	Dilantin,  Catapres,  others.
-	INTRODUCTION: Digital  video EEG  is performed in our lab using standard 10-20 system of electrode  placement with 1    channel of EKG.  Photic stimulation is performed.	This is  an awake and a sleep record.
-	DESCRIPTION   OF  THE  RECORD:	In wakefulness there  is  a 10.5 Hz  50 microvolt posterior-dominant  rhythm with a small amount of  low­ voltage frontocentral  beta. 	Features of drowsiness include slow rolling eye  movements followed by vertex  waves. Photic stimulation elicits trivial driving.
-	HR:	66  BPM.
-	IMPRESSION: 	EEG  within  normal limits.
-	CLINICAL   CORRELATION:  No focal nor epileptiform features  are identified in this  record. Normal  EEG does not exclude a diagnosis of epilepsy.	In this  individual with renal failure, there are no specific  metabolic changes.
-
-

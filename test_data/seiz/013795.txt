@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 58-year-old woman with a history of right parasellar meningioma seizures, hypertension, and depression.  Her last seizure was in April 2001.
-MEDICATIONS: Dilantin and antihypertensive medication.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake through stage II sleep record.
-DESCRIPTION OF THE RECORD: The background EEG is symmetric and fairly organized.  There is a 10 Hz, 30 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  During the recording, the patient went into stage II sleep with Vertex waves and spindles.  In stage II sleep there were multiple arousals and light snoring.  Hyperventilation did not activate the record.  Photic stimulation elicited nice driving.  No localization or epileptiform activity was identified. 
-HR:  60 BPM, irregular.
-IMPRESSION: Normal EEG.
-CLINICAL CORRELATION: These results are identical to an EEG April 2001, which was a normal report.  A normal EEG does not exclude a diagnosis of epilepsy.  If clinically  indicated, a repeat study may be of use. 
-
-

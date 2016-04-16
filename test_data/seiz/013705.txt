@@ -1,9 +1,0 @@
-CLINICAL HISTORY:   37 year-old male with a history epilepsy since age 13, seizure free for 11 months.
-MEDICATIONS:  Dilantin.
-INTRODUCTION:   Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation  and photic stimulation were performed during the record.
-DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hertz background alpha rhythm with a small amount of low voltage frontocentral beta. Features of drowsiness include increase in theta and beta activity. Hyperventilation produces a small increase in theta. Photic stimulation produces driving response.
-	HR: 	66 bpm
-IMPRESSION:  Normal EEG in wakefulness through stage 1 sleep.
-CLINICAL CORRELATION:
-
-

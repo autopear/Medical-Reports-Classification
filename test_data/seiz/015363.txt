@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 45-year-old woman with a history of migraines and meningitis.  The patient has a disorder of neck twitching.
-MEDICATIONS: Dilantin.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation and hyperventilation were performed. This is an awake through stage I sleep record.
-DESCRIPTION OF THE RECORD: There is a prominent dominant rhythm of 11 Hz. Drowsiness is characterized by slow rolling eye movements.  In drowsiness, rhythmic central theta activity is seen.  Deeper stages of sleep are not sustained.  Hyperventilation increases the amplitude in the background.  Photic stimulation elicits mild driving. 
-HR:  84 BPM.
-IMPRESSION: Normal EEG 
-CLINICAL CORRELATION: No focal or epileptiform activity is identified in this recording. Neck twitching was not observed during this recording. If seizure activity is clinically indicated, a repeat EEG is recommended.  
-
-

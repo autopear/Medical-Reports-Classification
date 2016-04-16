@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 33-year-old male with an AVM, seizure-free. 
-MEDICATIONS: Dilantin.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. Previous EEGs are not available for comparison.
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized.  There is a 9 Hz, 50 to 60 uV posterior dominant rhythm.  Hyperventilation is performed with good effort, producing rhythmic slowing from both hemispheres.  There are a handful of slightly asymmetric bursts of slowing noted in hyperventilation. As the patient becomes drowsy, hypnagogic hypersynchrony is seen.  Drowsiness is characterized by anterior spread of the alpha rhythm.  Photic stimulation elicits bilateral driving. 
-HR:  54 BPM.
-	IMPRESSION: Normal EEG in wakefulness and drowsiness.
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy. 
-
-

@@ -1,9 +1,0 @@
-CLINICAL HISTORY: 54 year old male with alcohol withdrawal, change in mental status, dizziness, acute renal failure, hyperosmolar state and past history of gunshot wound to the face in 1985. 
-MEDICATIONS: Ativan, Dilantin, Flagyl, Thiamine, Ciprorloxacin, Lorazepam, ASA, Zocor, Ferrous Sulfate, Phenytoin, Metoprolol 
-INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is sedated and poorly responsive. Hyperventilation and photic stimulation are performed. 
-DESCRIPTION OF THE RECORD: The background EEG demonstrates a very low voltage beta pattern with smaller amounts of theta. Stimulation of the patient produces an arousal. The patient drifts into stage I sleep with vertex waves. Toward the close of the record, arousal produces a brief awakening with a well-defined alpha rhythm. Intermittently, stimulation of the patient produces an alerting response with a well-defined alpha rhythm. 
-HR: 72 bpm 
-IMPRESSION: This EEG is within normal limits. 
-CLINICAL CORRELATION: No epileptiform features are observed. If epilepsy is an important consideration, a follow up study when he is out of the intensive care unit is advised. 
-
-

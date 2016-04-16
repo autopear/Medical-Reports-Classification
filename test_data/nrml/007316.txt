@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 47-year-old woman who presents for long-term monitoring.  History of possible seizures that started after spine surgery in 2003 with questionable development of CVA at that time with subsequent right-sided weakness and slurred speech.  Patient complains of increasing seizure frequency, which occurs mainly at night.  
-MEDICATIONS: Dilantin, Neurontin, and Seroque- see extensive meds list. 
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake through stage II sleep record. 
-DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with a 9 Hz, 20 to 25 uV posterior dominant rhythm.  Stage II sleep is characterized by spindles and K complexes.  Photic stimulation activates the record at higher flash frequencies. 
-HR:  66 BPM.
-	IMPRESSION: Normal EEG in wakefulness through stage II sleep.
-CLINICAL CORRELATION: No epileptiform features were identified in this record. If seizures are an important consideration, long-term monitoring is recommended to correlate the behavioral events with possible underlying epileptiform activity.  
-
-

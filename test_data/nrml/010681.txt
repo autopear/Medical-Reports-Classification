@@ -1,9 +1,0 @@
-CLINICAL HISTORY:  A 63-year-old male with a seizure August 19th, characterized by shaking of left arm, eyes rolling up, incontinence, and then generalized shaking.  Left parietal infarct.  Acute left hemispheric stroke.
-MEDICATIONS:  Keppra and Dilantin.
-INTRODUCTION:  Digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was relatively somnolent.  Tactile stimulation was performed.
-DESCRIPTION OF RECORD:  The background EEG is diffusely slow with bihemispheric mixed theta and delta.  The patient is restless with head rocking artifact.  Stimulation of the patient does not particularly activate the record.  
-Heart rate 78 BPM.
-IMPRESSION:  This is an abnormal EEG due to:  Marked background slowing.
-CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG is most supportive of a bihemispheric disturbance of cerebral function.  If additional information is needed, a follow up test may be performed.
-
-

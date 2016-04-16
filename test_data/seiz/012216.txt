@@ -1,9 +1,0 @@
-CLINICAL HISTORY: 46 year old left handed woman with heart failure patient and a seizure 1.5 months ago, now with headaches and irritability. 
-MEDICATIONS: Dilantin, Lovenox, Nitroglycerin, Tramadol, Lisinopril 
-INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is uncomfortable during the EEG and complains of headache. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is relatively low voltage with a 9.5 Hz, 20 microvolt posterior dominant rhythm. Features of drowsiness including increase in beta. Vertex waves are identified in stage one sleep. Sleep is not sustained. 
-HR: 60 bpm with occasional PVC's. 
-IMPRESSION: Normal EEG. 
-CLINICAL CORRELATION: No focal nor epileptiform features were observed in this EEG. A normal EEG does not exclude a diagnosis of epilepsy and if seizures are an important consideration, a repeat tracing may be of use. Of note, one of the medications on this patient's medication list can be associated with a lowered seizure threshold. 
-
-

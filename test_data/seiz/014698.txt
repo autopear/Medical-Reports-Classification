@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 15-year-old female with convulsions starting in 2005, last seizure in April 2006 with epilepsy, pseudotumor cerebri, and associated headaches. 
-MEDICATIONS: Dilantin, Tegretol, Diamox, Digoxin.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. No previous EEGs are available for comparison. 
-DESCRIPTION OF THE RECORD: In wakefulness, there is a 10.5 Hz, 75 uV posterior dominant rhythm with posterior slow waves of youth.  Hyperventilation is performed early on in the record, producing an increase in the amplitude of the background.  Drowsiness is characterized by attenuation of the alpha rhythm and increase in slowing. Photic stimulation elicits brief bilateral driving with some supraharmonic driving.  At the close of the record, there is additional sleep with some central slowing.  
-HR:  90 BPM.
-	IMPRESSION: EEG within normal limits. 
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  
-
-

@@ -1,9 +1,0 @@
-CLINICAL HISTORY:  40 year old male with epilepsy since childhood, last seizure 2 days ago which was tonic clonic. Past history of alcohol and drug abuse.
-MEDICATIONS:   Dilantin, Keppra, Simvastatin, HCTZ
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed. This is an awake through stage II sleep record in a very sleepy patient.
-DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG includes a 10 Hz posterior dominant rhythm with a small amount of low voltage frontocentral beta activity.  The patient drops in and out of stage II sleep with high amplitude vertex waves and spindles and K complexes.  Some of the vertex activity is spiky.  Hyperventilation is performed with good effort and does not really activate the record although the patient drifts off to sleep.  Photic stimulation elicits scant driving, but the patient is falling into stage II sleep during photic stimulation.
-	HR: 	66 bpm
-IMPRESSION:   Normal EEG
-CLINICAL CORR ELATION:  No focal nor epileptiform features were observed in today's EEG. To further characterize his epileptiform activity, a repeat tracing capturing deeper stages of sleep or utilizing other techniques may be valuable.
-
-

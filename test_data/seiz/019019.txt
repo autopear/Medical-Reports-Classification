@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 70-year-old male with new onset seizure described as generalized tonic-clonic with postictal confusion, tongue biting, and urinary incontinence.  History of Xanax use three times a day since 1990.  He stopped the medication one week prior to the EEG.  
-MEDICATIONS: Aspirin, Heparin, Dilantin, Percocet, and Ativan PRN.  
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is a sleep deprived study in a patient who is awake and asleep during the record. 
-DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is reasonably well organized with a 7.5 Hz, 30 uV posterior dominant rhythm. Drowsiness is characterized by increased theta activity.  During sleep, small sharp waves in the left temporal region are identified. 
-HR:  60 BPM.
-	IMPRESSION: EEG within normal limits. 
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  If seizures are an important consideration, a repeat tracing in the lab capturing deeper stages of sleep would be useful. 
-
-

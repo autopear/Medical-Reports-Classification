@@ -1,9 +1,0 @@
-CLINICAL HISTORY: 22 year old woman with epilepsy, last seizure 1 week ago. 
-MEDICATIONS: Dilantin, Phenobarbital, Depakote 
-INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record. 
-DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, 40 microvolt alpha rhythm with a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by slow-rolling eye movements with an increase in theta. Vertex waves and POSTS are observed in brief stage-1 sleep. Hyperventilation produces an increase in amplitude in the background. Photic stimulation elicits vigorous driving with supraharmonic driving. 
-HR: 84 bpm 
-IMPRESSION: Normal EEG. 
-CLINICAL CORRELATION: No focal nor epileptiform features are observed. Additional EEG recording may be helpful to characterize this individual's epilepsy. 
-
-

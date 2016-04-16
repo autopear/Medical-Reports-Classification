@@ -1,9 +1,0 @@
-	CLINICAL HISTORY: 	A 35-year-old man status post head injury resulted by police to face and followed by seizures x 2, with loss of consciousness, with multiple facial fracture.
-	MEDICATIONS: 	Ativan, Dilantin, Morphine and Depakote.
-INTRODUCTION: Digital video EEG is performed at bedside in ICU using standard 10/20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were not performed. Patient is awake throughout the record.
-	DESCRIPTION OF THE RECORD: 	In the wakefulness, the background EEG is symmetric. There are a few alpha activity in the posterior region at 9 Hertz. It is well attenuated with eyes open. There is a superimposed diffusely throughout the tracing of low voltage beta activity. No sleeping stage was achieved in this tracing. No focal findings were recognized.
-HR: 72 bpm
-	IMPRESSION: 	Normal EEG in wakefulness with excessive beta activity.
-	CLINICAL CORRELATION: 	Excessive beta activity is due to medications such as benzodiazepine of Ativan use. No focal findings. No epileptiform discharges were seen in this tracing. Normal EEG does not exclude the diagnosis of epilepsy. If epilepsy is a clinical concern, a repeat EEG may be helpful.
-
-

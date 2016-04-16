@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 34-year-old woman with epilepsy - last seizure three months ago – tonic-clonic with postictal confusion.  History of recurrent or back-to-back seizures.  Last EEG 05/06.  
-MEDICATIONS: Dilantin, Topiramate. 
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. This is the patient’s third EEG.  
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10.5 Hz, 50 to 70 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Brief drowsiness is characterized by anterior spread of the alpha rhythm and an increase in background beta.  Hyperventilation does not activate the record.   Photic stimulation elicits scant driving. 
-HR:  66 BPM.
-	IMPRESSION: EEG within normal limits. 
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Two previous EEGs were done in 2005 and 2006. The first was normal and the second showed subtle focal slowing from the right hemisphere.  In that none of the three EEGs have identified epileptiform activity, additional recording is appropriate.    
-
-

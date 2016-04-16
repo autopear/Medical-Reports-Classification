@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 55-year-old woman with adult onset epilepsy in 2003.
-MEDICATIONS: Dilantin.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9.5 Hz, 30 to 50 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements and attenuation of the alpha rhythm. Deeper stages of sleep are not sustained.  Photic stimulation elicits brief bilateral driving. 
-HR:  __ BPM.check tech sheet
-	IMPRESSION: EEG within normal limits in wakefulness and brief sleep.
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  These results are similar to a previous study. 
-
-

@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 92-year-old woman with diabetes, Paget’s disease, basilar artery stenosis, lacunar infarcts with a tonic-clonic seizure and two hours of postictal confusion on presentation. 
-MEDICATIONS: Dilantin, Plavix, and others. 
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes some artifacts of a bedside EEG, but a well organized alpha rhythm of 9.5 Hz, 50 uV. Drowsiness is characterized by an increase in background slowing with a small amount of arrhythmic delta activity.    
-HR:  70 BPM.
-	IMPRESSION: EEG within normal limits particularly in view of this patient’s age.   
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  These findings may be correlated with imaging.  
-
-

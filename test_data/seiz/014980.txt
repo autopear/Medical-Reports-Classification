@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 63-year-old woman with refractory epilepsy with a right frontal lesion, CHF, COPD, admitted with status-epilepticus, now poorly responsive. 
-MEDICATIONS: Dilantin, Depakote, Celexa, and many others. 
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as somnolent.  
-DESCRIPTION OF THE RECORD: The background EEG is continuous, low voltage, rich in beta with smaller amounts of delta. There is some shifting arrhythmic delta seen in the background.  The patient awakens spontaneously.  At this time, she follows commands from the tech and sits up, but her background is one primarily of theta with a suggestion of a low voltage, 7 Hz posterior dominant rhythm.  When not stimulated, she drifts back to sleep with vertex waves and spindles.  There are occasional shifting asymmetries noted in the record.  
-HR:  __ BPM.
-	IMPRESSION: Abnormal: Generalized slowing
-CLINICAL CORRELATION: No epileptiform abnormalities seen today.  Consistent with diffuse disorder of cerebral function.
-
-

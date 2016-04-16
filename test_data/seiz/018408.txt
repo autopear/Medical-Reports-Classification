@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 41-year-old male with hypertension and a question of seizure versus syncope associated with cocaine ingestion. 
-MEDICATIONS: Dilantin, Motrin, Clonidine. 
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with a 9.5 Hz, 50 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Hyperventilation is performed with good effort producing an increase in amplitude of the background, as well as a small amount of slowing.  Following hyperventilation, the patient becomes drowsy with an increase in background beta.  LAMBDA followed this.  Vertex waves are seen in stage I sleep.  Photic stimulation does not activate the record.  
-HR:  90 BPM.
-	IMPRESSION: Normal EEG in wakefulness through stage I sleep.
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  If seizures are an important consideration, a repeat tracing capturing deeper stages of sleep or using special electrodes could be valuable. 
-
-

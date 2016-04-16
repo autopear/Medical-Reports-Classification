@@ -1,9 +1,0 @@
-CLINICAL HISTORY:  A 75-year-old gentleman with abrupt onset of word finding difficulty a year ago, problematic confusion.  The patient had an episode of loss of consciousness while getting out of the shower 1 week ago.
-MEDICATIONS:  Dilantin.
-INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Photic stimulation was completed.  This is an awake and asleep record.
-DESCRIPTION OF THE RECORD:  In wakefulness, there is a 12 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  The patient transitions in and out wakefulness to stage 2 sleep.  There is an increase in beta following by vertex waves, POSTS and spindles.  This seems to be a very sleepy patient with the appearance of stage 2 sleep and then eye movement as if he is either very sleepy or having difficulty sustaining sleep.  Photic stimulation elicited a driving response, although the patient was transitioning in and out of stage 2 sleep with a suggestion of even early slow wave sleep. 
-Heart rate 54 BPM.
-IMPRESSION:  This EEG is within normal limits in wakefulness through stage 2 sleep.
-CLINICAL CORRELATION:  This individual appears to be quite sleepy which would be the case if this was a sleep-deprived EEG or this was a difficult area for the patient to really get comfortable and stay asleep with.  The bradycardia may be evaluated as indicated.
-
-

@@ -1,9 +1,0 @@
-CLINICAL HISTORY: 53 year old right handed woman with surgery in 2006 followed by epilepsy March 2006. Recurrent seizures, last seizure 3 days ago with postictal confusion. The patient was a limited historian. 
-MEDICATIONS: Dilantin, Risperdal, Metoprolol 
-INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with channel of EKG. Hyperventilation and photic stimulation are performed. 
-DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.8 hertz alpha rhythm with a small amount of low voltage frontocentral beta activity. There is scant background theta. Hyperventilation produces background slowing. Photic stimulation elicits normal driving response. Drowsiness is characterized by slowing of the background. 
-HR: 90 bpm 
-IMPRESSION: EEG within normal limits. 
-CLINICAL CORRELATION: There were no epileptiform features identified. The background is within normal limits. If epilepsy is an important consideration, a more prolonged study capturing one of her events is suggested. 
-
-

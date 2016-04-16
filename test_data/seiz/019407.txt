@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 56-year-old woman with generalized seizures, anxiety, and depression.  
-MEDICATIONS: Dilantin, Lipitor, aspirin, and Zantac. 
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 9.5 Hz, 30 to 50 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slowing of the alpha rhythm with an increase in background theta.  Hyperventilation produces a small amount of background theta, particularly in the temporal region.  Photic stimulation elicits brief bilateral driving.   
-HR:  66 BPM.
-	IMPRESSION: EEG within normal limits for age in wakefulness and drowsiness.
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  If additional information is needed to characterize this patient’s epilepsy, either a sleep deprived study or a study with other activating techniques may be useful.  
-
-

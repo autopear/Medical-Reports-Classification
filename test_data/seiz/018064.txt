@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 21-year-old, right-handed woman with epilepsy following MVA at age two.  Patient was hit in the head with a pistol, seizures, as well as non-epileptic seizures but fewer in pregnancy. Currently 21 weeks pregnant.
-MEDICATIONS: Dilantin.
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: The background EEG is reasonably well organized with a 10 Hz, 40 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by an increase in background beta.  Hypersynchronous rhythmic slowing is seen in later stage I sleep. Deeper stages of sleep are not achieved.  Hyperventilation produces a small amount of slowing.  Photic stimulation does not significantly alter the record.  
-HR:  90 BPM.
-	IMPRESSION: Normal EEG in wakefulness through stage I sleep.
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Although a previous EEG identified subtle focal slowing on the left, neither EEG identified epileptiform features.  
-
-

@@ -1,9 +1,0 @@
-CLINICAL HISTORY:   47-year-old, right handed with epilepsy since age 24, at least 1 seizure per month with shaking, loose of consciousness  and confusion.
-MEDICATIONS:  Dilantin.
-INTRODUCTION:   Digital video EEG is performed in Lab using standard 10-20 system of electrode placement with 1 channel as EKG. Hyperventilation and photic stimulation are completed. This is an awake and drowsy record.
-DESCRIPTION  OF THE RECORD:  In wakefulness, the background EEG is well organized with symmetric, reactive, 10 Hertz, 20 microvolts posterior dominant rhythm. Central MU rhythm is observed, but testing is not performed to confirm this. Features of drowsiness include attenuation of the alpha and/or anterior spread of the alpha rhythm. The drowsy record is relatively low voltage. Vertex waves and posterior observed in brief stage 1 sleep. Photic stimulation elicits driving as well as lambda activity.
-HR:     78 bpm
-IMPRESSION:  Normal EEG in wakefulness and drowsiness.
-CLINICAL CORRELATION: No focal nor epileptiform features are observed. Normal EEG does not exclude a diagnosis of epilepsy. To further charcuterie this individuals seizures, a sleep deprived or more prolonged study may be useful.
-
-

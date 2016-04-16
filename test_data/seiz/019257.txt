@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 53-year-old male with a history of alcohol abuse, withdrawal seizures. 
-MEDICATIONS: Dilantin, Ativan, Folate.
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: The vast majority of the record demonstrates a drowsy pattern with mild, rhythmic slowing and a symmetric pattern.  When the patient is maximally awake, however, his posterior dominant rhythm reaches 8.5 Hz, 35 uV.  Other drowsy patterns for this patient include attenuation of the alpha rhythm, a more diffuse distribution of background beta or rhythmic theta. 
-HR:  88 BPM.
-	IMPRESSION: EEG within normal limits primarily in drowsiness. 
-CLINICAL CORRELATION: No epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  Comparison with previous EEGs, if available, may be valuable.  
-
-

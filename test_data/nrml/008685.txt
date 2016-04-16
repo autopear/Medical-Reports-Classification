@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 19-year-old gentleman who presents with increased seizures and learning disability.  Seizure onset was at age 7 characterized by shaking of his hands and hitting of his legs.  Patient knows when a seizure will occur and is aware during the seizure.  
-MEDICATIONS: Depakote.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.  
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and fairly well organized.  There is a 9 Hz, 20 V posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. There is significant muscle movement artifact.  Hyperventilation increases theta activity.  Post-hyperventilation, the patient becomes drowsy and LAMBDA activity is seen.  Photic stimulation elicits driving. 
-HR: 66 BPM.
-IMPRESSION:  Normal EEG.
-CLINICAL CORRELATION: No focal features or epileptiform discharges were seen in this tracing.  Normal EEG does not exclude the possibility of epilepsy.  Continuous long-term video EEG monitoring may be able to reveal further information of the seizure activity in this patient. 
-
-

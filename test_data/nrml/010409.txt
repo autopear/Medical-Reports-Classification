@@ -1,8 +1,0 @@
-CLINICAL HISTORY:  This is a 37-year-old man with history of seizures since 1998.  His last seizure was 7/2013.  This seizure is described as loss of consciousness and generalized tonic-clonic movements.
-MEDICATIONS:  Dilantin, Ambien, and Xanax.
-INTRODUCTION:  A digital video EEG was performed in the lab using a standard international 10-20 system of electrode placement in addition to T1 and T2 electrodes and one channel of EKG monitoring.  Hyperventilation and photic stimulation were completed.
-DESCRIPTION OF THE RECORD:  In the most alert state, for a brief period of time, posterior dominant rhythm was recognized as 9 Hz seen in the occipital region, which attenuates with eye opening.  This is a limited study due to diffuse high amplitude beta activity, which is distributed symmetrically throughout this recording.  Hyperventilation results in no significant change in background activity.  Photic stimulation was performed at multiple flash frequencies with no driving response.  Heart rate was 60 beats per minute.
-IMPRESSION:  This is a limited study due to diffuse high amplitude beta activity throughout this recording, but there is no focal slowing or epileptiform activity or electrographic seizures were noted.
-CLINICAL CORRELATION:  Generalized beta-activity could be due to medication effect including benzodiazepine or barbiturate, in this case Xanax.  It could be due to anxiety or hyperthyroidism.  Clinical correlation is recommended.  Absence of epileptiform activity or electrographic seizure does not exclude the diagnosis of epilepsy or intermittent seizures.  If seizures are a clinical concern, a repeat EEG capturing deeper stages of a sleep or a 24-hour ambulatory EEG may be helpful.
-
-

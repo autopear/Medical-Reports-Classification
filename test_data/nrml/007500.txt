@@ -1,9 +1,0 @@
-CLINICAL HISTORY:  47 year old right handed woman with epilepsy, onset at age 28.  The patient has a headache prior to the seizures.  Subsequently, she has seizure during sleep with tongue biting.  Last seizure was 2 weeks ago.
-MEDICATIONS:  Topamax, Dilantin, Motrin, Provera, Advair, Dulcolax, Ferrous Sulfate
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
-DESCRIPTION OF THE RECORD:  In wakefulness there is a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by a hypersynchronous rhythmic slowing.  Hyperventilation does not activate record.  Photic stimulation elicits scant driving.  
-HR:    78 bpm
-IMPRESSION:  Normal EEG in wakefulness and drowsiness.
-CLINICAL CORRELATION:  No epileptiform features were observed.  Normal EEG does not exclude a diagnosis of epilepsy and if seizures are an important consideration a follow up study capturing deeper stages of sleep is suggested.  
-
-

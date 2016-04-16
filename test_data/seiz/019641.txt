@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 42-year-old woman with a history of seizures – last seizure one month ago.  
-MEDICATIONS: Dilantin and Depakote.  
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake and asleep record.
-DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz, 50 to 60 uV alpha rhythm. Prominent LAMBDA waves are seen in wakefulness.  Features of drowsiness include attenuation of the alpha rhythm and an increase in beta activity.  In stage II sleep, there are abundant vertex waves, spindles, and POSTS.  Frequent snore arousals are also seen in stage II sleep. Hyperventilation produces rhythmic slowing.  Photic stimulation elicits a small amount of driving. 
-HR:  __ BPM.
-	IMPRESSION: Normal EEG in wakefulness through stage II sleep. 
-CLINICAL CORRELATION: No epileptiform features were seen. Evaluation of this patient’s snore arousals may be important. 
-
-

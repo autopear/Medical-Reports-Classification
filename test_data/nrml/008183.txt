@@ -1,7 +1,0 @@
-CLINICAL HISTORY: This is a 42-year-old male with refractory post-traumatic, post-stroke epilepsy.  Patient had a spell in the hospital on Saturday night with bilateral tremulousness of the hands and facial twitching without impairment of awareness. 
-MEDICATIONS: Dilantin and Keppra. 
-INTRODUCTION: Ninety minute, continuous video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. This is primarily an awake and briefly drowsy record.   
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is again challenged by a fair amount of muscle and movement artifact.  Intermittently, in the awake background, there is a bit of right temporal slowing with disruption of faster frequency activity on the right compared to the left.  
-HR:  70 BPM.
-
-

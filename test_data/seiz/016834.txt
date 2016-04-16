@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 40-year-old woman with a history of epilepsy beginning in young adulthood, seizure-free for many years; family history of epilepsy.  
-MEDICATIONS: Benadryl, Dilantin 300 mg a day.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized, medium amplitude, but with symmetric, reactive 11 Hz posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements with attenuation of the alpha rhythm.  Additional background theta is identified as the patient becomes sleepier.  Deeper stages of sleep are not sustained.  Hyperventilation produces an increase in the amplitude of the background.  Photic stimulation elicits vigorous driving response with harmonic and supraharmonic driving. Prominent lateral rectus artifact is identified (eye movement).
-HR:  80 BPM.
-	IMPRESSION: Normal EEG in wakefulness and brief drowsiness.
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  The photic driving response is quite vigorous, but no definite epileptiform features were seen.
-
-

@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 51-year-old woman with a history of absence epilepsy with increased frequency in the last two months.  
-MEDICATIONS: Tegretol and Dilantin. 
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake through stage I sleep record. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric with excessive beta activity.  There is a 10 Hz, 20 V posterior dominant alpha rhythm and a small amount of beta activity.  Hyperventilation and photic stimulation did not activate the record. 
-HR:  50 BPM.
-	IMPRESSION: Normal EEG. 
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  If clinically indicated, long-term EEG monitoring may be helpful in revealing further information.
-
-

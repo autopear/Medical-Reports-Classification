@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 69-year-old male with a long history of epilepsy, seizure-free for the past several years.  Follow-up EEG after change in medications. 
-MEDICATIONS: Dilantin.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
-DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with an 11 Hz, 30 uV posterior dominant rhythm. There is prominent wicket seen from both temporal regions.  Drowsiness is characterized by attenuation of the alpha rhythm and an increase in beta activity, as well as vertex waves.  Stage II sleep was not achieved.  Photic stimulation elicits a photoelectric artifact and only minimal driving.   
-HR:  72 BPM.
-	IMPRESSION: Normal EEG in wakefulness through stage I sleep. 
-CLINICAL CORRELATION: No epileptiform discharges were seen.  No previous EEGs were available for comparison.  Depending on the findings of the previous EEGs, a repeat tracing as an outpatient under sleep deprived conditions could be considered. 
-
-

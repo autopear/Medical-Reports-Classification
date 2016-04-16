@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 44-year-old, right-handed woman with a history of grand mal seizures since age 15.  Seizure-free on medication. Recently experienced leg and back pain and falls with head trauma.  
-MEDICATIONS: Baclofen, Coreg, Trazodone, Dilantin, and Phenobarbital.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with a 12 Hz, 50 uV posterior dominant rhythm.  There is a small  amount of frontocentral beta.  POSTS are  observed in drowsiness, right more than left.  Hyperventilation does not activate the record.  Photic stimulation elicits a bilateral driving response. 
-HR:  84 BPM.
-	IMPRESSION: Normal EEG.
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  No previous EEGs were available for this patient. 
-
-

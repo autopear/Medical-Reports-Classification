@@ -1,8 +1,0 @@
-CLINICAL HISTORY: This is a 31-year-old woman with a right MCA/CVA requiring TPA, but with abrupt right ICH requiring Pentobarbital coma.  
-MEDICATIONS: Dilantin, Phenobarbital, Propofol, Zofran, and others. 
-INTRODUCTION: Digital video EEG is performed in the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is poorly responsive.  This is a baseline study.
-DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous pattern, but with an intrahemispheric asymmetry.  There is higher amplitude delta and a bit more delta and theta on the right compared to the left.  The right demonstrates slower delta.  There is also a bit more beta on the left compared to the right.   This baseline study is one hour, 20 minutes long during which medications are initiated.  Although there is no indication as to exactly when benzodiazepines are initiated, over time the right side is increasingly suppressed and there is modest, if any, accentuation of beta activity on the left. Stimulation of the patient does not significantly activate the record.  
-HR:  108 BPM.
-	IMPRESSION/CLINICAL CORRELATION: This 90-minute EEG supports a diffuse disturbance of cerebral function, as well as a process more significantly involving the right than the left.  Although there is no notation as to the use of medications, there was not a prominent benzodiazepine impact in this 90-minute baseline study. 
-
-

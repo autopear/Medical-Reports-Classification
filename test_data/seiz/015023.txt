@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 37-year-old woman with paranoid schizophrenia and HIV admitted with acute change in mental status.
-MEDICATIONS: Dilantin, Risperdal, Prozac, Pamelor, Ceftriaxone. 
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10 Hz, 30 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements.  In the transition to stage I sleep, a single burst of slowing is identified from the right hemisphere on only one occasion and then sleep is not sustained.  Hyperventilation produces a small increase in the amplitude of the background.  Photic stimulation elicits bilateral driving.  
-HR:  120 BPM.
-	IMPRESSION: EEG within normal limits in wakefulness and sleep.
-CLINICAL CORRELATION: The single transient described from the right hemisphere was identified only once and was also picked up in the eye leads suggesting that it may have been artifactual in nature.  No epileptiform abnormalities were identified.  
-
-

@@ -1,9 +1,0 @@
-CLINICAL HISTORY: 48 year old right handed male with epilepsy and diabetes, difficult to remember to take his medicines, past history of gunshot wound and colectomy. His surgery was canceled every time he has a break through seizure.  
-MEDICATIONS: Dilantin, Metformin, Lisinopril, Lovastatin  
-INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation were completed. This is an awake and drowsy record.  
-DESCRIPTION OF THE RECORD: In wakefulness there is an 11 Hz alpha rhythm. Drowsiness is characterized by an increase in theta with occasional POSTS. Hyperventilation produces scant theta and the background photic stimulation elicits a subtle, driving response.  
-HR: 78 bpm  
-IMPRESSION: Normal EEG.  
-CLINICAL CORRELATION: There were no epileptiform features identified. If additional information is needed, a follow up, sleep deprived study may be of value.  
-
-

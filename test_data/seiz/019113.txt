@@ -1,9 +1,0 @@
-CLINICAL HISTORY: 17-month-old female with a first episode of prolonged seizure due to fever, lasting for 30 minutes.  Family history of seizure in mother and one sibling. 
-MEDICATIONS: Dilantin. 
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is appropriately organized for a child of this age with a posterior dominant rhythm of 5 to 6.5 Hz.  Features of drowsiness include hypersynchronous rhythmic slowing followed by abundant vertex waves, K complexes, and spindles in stage II sleep.  Photic stimulation is performed while the child is asleep and elicits minimal driving. 
-HR:  114 BPM.
-	IMPRESSION: Normal EEG in wakefulness through stage II sleep.
-CLINICAL CORRELATION: No epileptiform features were identified in this record.  This child has met the appropriate developmental milestones for age.  
-
-

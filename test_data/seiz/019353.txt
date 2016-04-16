@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 43-year-old woman with a history of stroke four years ago due to basal artery stenosis with multiple vascular risk factors.  She had four recurrent syncopal events versus seizures in the past month, which was described as eyes rolling back with bowel and bladder incontinence.  
-MEDICATIONS: Dilantin, Neurontin, Percocet, and others.     
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is an awake record.    
-DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz, 45 to 50 uV posterior dominant rhythm with generous amounts of frontocentral beta activity.  Hyperventilation does not significantly activate the record.  There is minimal driving response noted with photic.  Sleep is not achieved during this record.     
-HR:  90 BPM.
-	IMPRESSION: Normal EEG.
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record. Normal EEG does not exclude the diagnosis of epilepsy.  The slightly increased amount of beta activity is consistent with the patient’s underlying medication such as amitriptyline. A repeat tracing should be performed in six months, preferably a sleep deprived study.
-
-

@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 33 -year-old woman with epilepsy onset at the age of 20. Last seizure about two weeks ago with an aura, nausea, headache, and loss of consciousness with generalized tonic-clonic activity lasting about two to three minutes with postictal phase. 
-MEDICATIONS: Dilantin. 
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake record. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric, continuous, and well organized for age. There is a 10 Hz, 40 (phi)V posterior dominant alpha rhythm, which is waxing and waning in appearance. It is well attenuated with eyes opened, and there is a small amount of low voltage, frontocentral beta activity. Hyperventilation is performed with good effort and does not provoke an abnormal response. Deeper stages of sleep are not achieved in this tracing. Photic stimulation elicits driving. 
-HR: 78 BPM. 
-IMPRESSION: Normal EEG in wakefulness. 
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record. Normal EEG does not exclude the diagnosis of epilepsy. If epilepsy is a clinical concern, a repeat EEG capturing deeper stages of sleep or sleep deprivation prior to the EEG may be helpful. 
-
-

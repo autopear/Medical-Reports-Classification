@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 53-year-old male with history of alcohol abuse and new onset seizures who presents with auditory hallucinations and paranoid ideation. 
-MEDICATIONS: Morphine, Dilantin, Ativan, Clonidine, Risperdal, Haldol, and others. 
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
-DESCRIPTION OF THE RECORD: In maximum wakefulness, there is a 10 Hz posterior dominant rhythm with generous amounts of beta identified in the frontocentral regions.  The patient is excessively drowsy, and stage I sleep is achieved and characterized by rolling eye movements and vertex waves. On two occasions, two isolated BETs were seen in either hemisphere. Photic stimulation elicits a scant symmetric driving response.   
-HR:  89 BPM.
-	IMPRESSION: Awake and asleep EEG within the limits of normal.
-CLINICAL CORRELATION: No epileptiform discharges were seen.  BETs are considered a normal variant.  Normal EEG does not exclude the diagnosis of epilepsy.  If epilepsy is in important consideration, a repeat tracing as an outpatient is recommended.
-
-

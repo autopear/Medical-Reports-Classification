@@ -1,9 +1,0 @@
-CLINICAL  HISTORY: This  is  a  24-year-old, right-handed  male  with  two  seizures during sleep, the most recent May 2006.  History  of MVA.
-MEDICATIONS: Dilantin.
-INTRODUCTION: Digital  video  EEG  is performed  in  the  lab using  standard  10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
-DESCRIPTION OF THE RECORD: In wakefulness, the background  EEG is well orgm1ized with   a  10  Hz,  50  uV  posterior   dominant   rhytlm1.       Stage   II  sleep  is characterized by vertex  waves, K  complexes,  spindles,  and POSTS.   Hyperventilation produces  a small  amount  of background  slowing.  Photic  stimulation  elicits  LAMBDA and a driving response.
-HR:  60BPM.
-IMPRESSION: EEG within n01mallimits in wakefulness through stage II sleep.
-CLINICAL CORRELATION: No focal or epileptiform  features were identified in this record.  Nom1al EEG does not exclude the diagnosis of epilepsy.
-
-

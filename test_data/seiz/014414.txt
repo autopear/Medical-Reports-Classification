@@ -1,8 +1,0 @@
-CLINICAL HISTORY:  Seizures.
-MEDICATIONS: Dilantin,  Lipitor.
-INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
-DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.8 Hz alpha rhythm with a small amount of low voltage frontal central beta activity. Hyperventilation produces a small amount of slowing. Photic stimulation does not activate the record.
-IMPRESSION: Normal electroencephalogram.
-CLINICAL CORRELATION:  This is the third normal EEG for this individual with epilepsy. If appropriate, additional recording strategies may be helpful to characterize epileptiform activity.
-
-

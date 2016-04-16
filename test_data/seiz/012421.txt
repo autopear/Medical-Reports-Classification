@@ -1,9 +1,0 @@
-CLINICAL HISTORY:  A 29-year-old with refractory epilepsy, history of head injury, history of alcohol ingestion, and status epilepticus early today.
-MEDICATIONS:  Dilantin, Versed.
-INTRODUCTION:  Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement.  The patient is initially markedly unresponsive.
-DESCRIPTION OF THE RECORD:  The initial sections of the record demonstrate a low voltage, featureless and slow record.  As the patient starts to arouse, there is an increase in faster theta frequency activity as well as eye blink artifact.  The patient is moving from side to side.  As he does so, there is a more symmetric theta frequency pattern.   
-Shifting asymmetries are noted.  In sleep, POSTS are noted.
-IMPRESSION:  Abnormal EEG due to marked background slowing.
-CLINICAL CORRELATION:  This EEG is most supportive of a diffuse disturbance of cerebral function.  No epileptiform features were noted today.  This is a somewhat limited study in that the patient appears to be unattended and is moving about.
-
-

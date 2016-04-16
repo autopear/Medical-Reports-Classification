@@ -1,9 +1,0 @@
-CLINICAL HISTORY: 23 year old male with epilepsy admitted on the 16th after 6 tonic clonic seizures. 
-MEDICATIONS: Dilantin, Ativan. 
-INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is very sleepy. 
-DESCRIPTION OF THE RECORD: Much of the EEG includes stage 2 sleep with vertex waves and spindles as well as stage 1 sleep. Photic stimulation is performed while the patient is drowsy and is associated with scant driving. 
-HR: 78 bpm 
-IMPRESSION: Normal EEG in sleep only. 
-CLINICAL CORRELATION: There are no epileptiform features observed. Normal EEG does not exclude a diagnosis of epilepsy and additional studies may be indicated. 
-
-

@@ -1,9 +1,0 @@
-CLINICAL HISTORY: 72 year old woman with a seizure in a department store associated with postictal confusion. 
-MEDICATIONS: Dilantin, Ativan, Lovenox 
-INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is very sleepy, drifting in and out of stage II sleep. She also has a tremor in her head and chin when sitting up. Hyperventilation and photic simulation are performed. 
-DESCRIPTION OF THE RECORD: In limited wakefulness, there is a symmetric reactive 9 Hz alpha rhythm. The patient rapidly drifts into stage I sleep with posts and abundant stage II sleep with vertex waves, spindles and posts. Photic stimulation is performed while the patient is asleep but does elicit a driving-response. 
-HR: 72 bpm, occasional PVC's. 
-IMPRESSION: 
-CLINICAL CORRELATION: No focal nor epileptiform features are observed in this EEG. The patient's medications or sleep deprivation could both account for her excessive sleepiness. 
-
-

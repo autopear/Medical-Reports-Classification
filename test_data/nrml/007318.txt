@@ -1,9 +1,0 @@
-CLINICAL HISTORY:  54 year old right handed woman previously evaluated with multiple events on EEG monitor without epileptiform pattern, recurrent episodes of lightheadedness.
-MEDICATIONS:  Keppra, Dilantin, ASA, Macrodantin, Norvasc, Metoprolol Tartrate, Singulair, Flexeril, Proventil, Prilosec, Morphine, Nasonex, Lasix
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
-DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm with a small amount of low-voltage, frontocentral beta activity.  The alpha rhythm reaches 40 microvolts.  Features of drowsiness include anterior spread of the alpha rhythm with brief stage I and minimal stage II sleep.  Photic stimulation elicits bilateral driving.   
-HR:    78 bpm
-IMPRESSION:  Normal EEG in wakefulness and sleep.
-CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  This EEG is similar to a previous study.
-
-

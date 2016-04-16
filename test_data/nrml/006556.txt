@@ -1,9 +1,0 @@
-CLINICAL HISTORY:  A 59-year-old admitted on the 09-08 with staring spells.  The patient wss amnestic for the spell and was confused for 45 minutes.  He had 4 staring spells, each lasting 5 minutes.  Past history of head trauma and sickle trait.
-MEDICATIONS:  Dilantin and Keppra.
-INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation are performed.  Hyperventilation was deferred.  This is a technically acceptable EEG, although impedances in the T1-T2 electrodes were not optimal.
-DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10-Hz alpha rhythm.  Drowsiness is characterized by slow rolling eye movements with POSTS noted in stage 1 sleep.  Photic stimulation was performed while the patient was asleep but did elicit a bilateral driving response.   
-Heart rate 60 bpm.
-IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
-CLINICAL CORRELATION:  No focal or epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a repeat tracing capturing deeper stages of sleep may be of value.
-
-

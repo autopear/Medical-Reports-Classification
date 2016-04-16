@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 38-year-old male with asthma and seizures in his 20s.  
-MEDICATIONS: Dilantin, Lithium, Zyprexa, and Zoloft.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake record. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and well organized for age.  There is a 9 Hz, 50 uV posterior dominant alpha rhythm, which attenuates with eyes opened.   There is a small amount of low voltage, frontocentral beta activity.  Hyperventilation increased the slow activity of theta and beta activity in the frontocentral area. Photic stimulation elicits driving.  Sleep was not achieved in this tracing. 
-HR:  72 BPM.
-	IMPRESSION: Normal EEG in wakefulness.
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  
-
-

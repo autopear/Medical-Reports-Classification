@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 24-year-old, right-handed male with multiple seizures due to non-compliance with medicines.  History of a gun shot wound with a scar in the right parietal region.
-MEDICATIONS: Ativan, Valium, Percocet, and Dilantin. 
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as lethargic. 
-DESCRIPTION OF THE RECORD: The patient is lethargic throughout the record.  The background EEG includes diffuse beta activity.  Given the craniotomy described above, there is little in the way of a breech rhythm. There is a small amount of theta in the background, which is slightly higher amplitude in the right posterior quadrant.  Stimulation of the patient produces brief arousal with eye opening but not much in the way of change in the EEG.  
-HR:  72 BPM, slightly irregular.
-	IMPRESSION: Abnormal EEG due to:
-Replacement of normal background with diffuse beta. 
-
-

@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 49-year-old woman with right-sided headaches, right-sided weakness, photophobia, diabetes, hypertension, seizures, stroke, asthma, and depression.
-MEDICATIONS: Dilantin, Zoloft, aspirin, many others.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation is not possible, but photic stimulation is performed. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is relatively low voltage with a 10 Hz, 15 V posterior dominant rhythm.  Drowsiness is characterized by an increase in background theta activity, as well as a small increase in beta. Snore artifact is noted early on in drowsiness with a few arousals from sleep because of the snore. The patient has K complexes and then arousals from sleep. Photic stimulation elicits symmetric driving at intermediate flash frequencies.
-HR: 80 BPM.
-	IMPRESSION: Normal EEG in wakefulness through stage II sleep.
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The patient seems to be awakening because of her snoring and evaluation for an underlying sleep disturbance would be appropriate.
-
-

@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 38-year-old male with epilepsy -  last seizure in March 2006 with loss of consciousness and postictal confusion. 
-MEDICATIONS: Dilantin. 
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record with photic stimulation. 
-DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz posterior dominant rhythm. Drowsiness is characterized by slow rolling eye movements.  Vertex waves are seen in stage I sleep.  POSTS are also noted in sleep.  Vertex waves and K complexes are seen in stage II sleep.  Photic stimulation elicits brief bilateral driving. 
-HR:  90 BPM.
-	IMPRESSION: EEG within normal limits. 
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  If further characterization of this patient’s epilepsy is important, additional recording with special electrodes or capturing sleep may be valuable.  
-
-

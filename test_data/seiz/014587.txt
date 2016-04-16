@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 43-year-old mother of six with recurrent syncopal or seizure spells associated with stress.  Baseline hypotension and bradycardia.  Patient has episodes with the sensation of not feeling well followed by ten seconds of shaking.  
-MEDICATIONS: Morphine, Dilantin, Ativan.
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record in a patient who is uncomfortable. 
-DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized.  There is a 9 Hz, 50 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  The patient rapidly drifts into a drowsy state with slow rolling eye movements, slowing of the alpha rhythm, and an increase in background beta. Deeper stages of sleep are not sustained. 
-HR:  58 BPM.
-	IMPRESSION: EEG within normal limits in wakefulness and drowsiness.
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy. 
-
-
