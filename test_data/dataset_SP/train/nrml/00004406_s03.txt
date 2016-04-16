@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  21 year old woman admitted on July 4 after she was ejection from the car in a motor vehicle accident, brief PEA code in the field, a skull fracture, severe traumatic brain injury, markedly elevated ICP requiring phenobarbital, scalp swelling on the right, bilateral hemorrhages, right more than left, and scalp contusion.  The date of the car accident was July 3.
+MEDICATIONS:  Keppra, Midazolam, Fentanyl, Pentobarbital, Phenylephrine.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and comatose.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates 8 to 10 Hz alpha frequency activity in the frontal and central regions.  The activity in the posterior regions is much more attenuated.  There is slow delta.  There is a subtle asymmetry between the 2 hemispheres.  Posteriorly, the right seems to be more attenuated than the left.  Stimulation of the patient does not activate the record. 
+HR:    78 bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+Replacement of normal background with frontal alpha frequency activity.
+Markedly suppressed activity occipitally.
+A somewhat more attenuated pattern on the right.
+CLINICAL CORRELATION:  This study, performed on the same day as the head trauma and in the context of the use of multiple sedative/hypnotic medications, should be interpreted with caution.  The prominent attenuation of activity in the posterior 
+regions is of concern regarding the traumatic brain injury.  No seizures or epileptiform features were seen.
+
+

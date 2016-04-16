@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 40 year old right handed man, with a history of seizures with Xanax withdrawal, anxiety, and hypertension, presents for episodes of strange things in mouth with quick recall of events.  He is here for classification of epileptic versus non-epileptic seizures.
+MEDICATIONS:  Dilantin
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video long term EEG was performed for 24 hours using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  No activating procedures were performed.  Continues spike wave detection and seizure detection software was used to review the event, along with the patient's alarms, nurses notes, and clinical notes were used to review the EEG.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is an excessive amount of frontal central beta.  Activating procedures were not performed.  The patient is recorded in wakefulness, stage 1, stage 2, and deep stages of sleep.   
+ABNORMAL DISCHARGES:  None. 
+EVENT:  During the recording the patient had 5 events where he would suddenly start shaking his head from side to side.  Sometimes towards the left and sometimes toward the right irregularly while becoming unresponsive and remaining so for minutes at time, sometimes for more than 5-10 minutes, and intermittently starting and stopping the behavior.  These  episodes, the first one which occurred at 3:28 p.m., the second one occurred at 9:23 p.m., the third one occurred around 2:40 a.m., and another one at 7:51 a.m., and the last one at 8:48 am had no EEG correlate other than a muscle artifact and afterwards there was normal posterior dominant rhythm seen, all consistent with nonepileptic events.
+SEIZURES:  None
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  The episodes captured above with head shaking had no EEG correlate.  As such, they are consistent with psychogenic nonepileptic events. Please note that this patient had previous records which showed left temporal sharp waves.  This was not seen during this admission.
+
+

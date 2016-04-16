@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  51 year old male with cardiac arrest on April 5, 2012, one day prior to this EEG.  Now unresponsive with involuntary eye movements.
+MEDICATIONS:  Hydralazine, Nitroprusside, Isordil, ASA, Lipitor, Protonix, Albuterol, Fenddepam, Heparin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and unresponsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a diffuse slow pattern with rhythmic 5-6 Hz theta frequency activity.  There are some frontally predominantly triphasic waves.  There are rare sharp waves noted in the right hemisphere, central temporal or posterior temporal.   Stimulation of the patient subtly impacts the EEG.  There is little in the way of variability or reactivity overall. 
+HR:    120 bpm
+IMPRESSION:  Abnormal EEG due to:
+Replacement of normal background primarily with a rhythmic theta pattern.
+Rare triphasic waves.
+Rare right temporal or posterior temporal sharp waves.
+Rare generalized periodic complexes.
+CLINICAL CORRELATION:  On the whole, this EEG is most supportive of a diffuse disorder or cerebral function as may be seen following a cardiac arrest.  No seizures were recorded.  Although there were a handful of sharp waves, the overall pattern is 
+one of diffuse slowing with poor reactivity or variability.  If this patient's mental status fails to improve, a follow up study may be of use.
+
+

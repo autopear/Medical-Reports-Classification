@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  24 year old right handed man with first seizure in life with tongue biting, no bowel or bladder incontinence or postictal confusion.
+MEDICATIONS:  Lorazepam.
+REASON FOR STUDY:  First time seizure. 
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with anterior temporal and single lead EKG electrodes. The patient was recording wakefulness. Hyperventilation and photic stimulation were performed.   
+TECHNICAL DIFFICULTIES:    Continuous eye movement artifact during the recording.
+DESCRIPTION OF THE RECORD:  The record opens to PDR that at best reaches 8 Hz with increased amount of diffuse frontal/central Beta. No sleep architecture is seen. Activating procedures including photic stimulation and hyperventilation produces normal discharges.
+ABNORMAL DISCHARGES:  Excessive theta wakefulness.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:  
+Excessive theta in wakefulness.
+CLINICAL CORRELATION:  This EEG is consistent with mild diffuse cerebral dysfunction, which is nonspecific with regards to etiology. In this case it may be due, at least in part, to medication effect. No seizure or epileptiform discharges were seen.
+
+

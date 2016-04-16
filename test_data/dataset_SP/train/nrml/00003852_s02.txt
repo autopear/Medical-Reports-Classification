@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  62 year old woman found down, cardiac arrest for 20 minutes.
+MEDICATIONS:  Valproic acid.
+REASON FOR STUDY:  Coma
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded while comatose.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  Some EKG multi-electrode artifact and some EMG electrode artifact seen.
+DESCRIPTION OF THE RECORD:  The record reviewed at 2 microvolts with an EMG electrode in addition and electrocerebral findings montage reveals no normal posterior dominant rhythm or frontocentral beta.  There is no normal sleep architecture.  No normal electrocerebral activity is seen.  There is only EKG artifact noted.
+ABNORMAL DISCHARGES:  Absence of normal electrocerebral activity.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:  
+Absence of normal electrocerebral activity.
+CLINICAL CORRELATION:  This EEG reveals evidence of electrocerebral silence which in the right scenario is consistent with an EEG with presentation of breath death.  
+However, there are multiple artifacts due to the EKG and ICU which make it difficult to make a definite conclusion about this electrocerebral silence.
+
+

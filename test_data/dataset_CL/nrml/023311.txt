@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  A 69-year-old male with TBSA burns to bilateral lower extremities, status post escharotomy.  He has a past history of epilepsy or seizure disorder.
+MEDICATIONS:  Phenobarbital, phenytoin, Percocet, heparin, and others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1-channel of EKG.  Despite the challenges of the ICU, impedances were okay.  The technologist did need to readjust some of the electrodes.  The patient was described as awake.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a dynamic pattern.  At times there is a 10 Hz alpha rhythm.  At other times, there are bursts of more rhythmic slowing identified bilaterally.  The bursts of rhythmic delta are a bit more prominent on the right than the left.  They are also a bit more prominent in the right posterior quadrant.   
+Heart rate:  130 BPM.
+IMPRESSION:  This is an abnormal EEG due to disruption of normal background with bursts of rhythmic delta right greater than left.
+CLINICAL CORRELATION:  No seizures, sharp waves, or spikes were noted.  The bursts of rhythmic slowing are a bit more prominent on the right than the left.  These findings may be correlated with this patient's history and imaging.  To more completely characterize this patient's epilepsy, a repeat study when the patient is out of the ICU is suggested.
+
+

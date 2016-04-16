@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 63-year-old female who presents after a fall from her countertop on 03/16 complaining of left shoulder and chest pain.  She denies loss of consciousness or head strike.
+MEDICATIONS:  Ciprofloxacin.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 7.5-8 Hz in frequency seen in the occipital region, which attenuates with eye opening.  There was 6-7 Hz diffuse theta activity seen during wakefulness, which is distributed symmetrically.  There is diffuse low amplitude beta activity, which is distributed symmetrically.  There are occasional bursts of bitemporal slowing at F7/T3 and F8/T4 more prominent on the right side or independent right temporal slowing at F7/T3, in wakefulness.  There is no epileptiform activity noted.  Heart rate was 100 beats per minute and regular.
+IMPRESSION:  This is an abnormal EEG recording due to:
+Diffuse slowing of the background with theta activity seen in wakefulness.
+Slowing of the posterior dominant rhythm.
+Bitemporal slowing, right more than left seen during wakefulness.
+No epileptiform abnormalities were identified in this record.
+CLINICAL CORRELATION:  The above findings are suggestive of either bilateral structural abnormalities or bilateral cerebral dysfunction.  Other causes include toxic metabolic or infectious encephalopathy.  Alternatively, it could be due to the effect of sedating medications or degenerative brain disease.  No epileptiform abnormalities were identified in this record.  No seizures were captured.  This does not rule out the diagnosis of epilepsy or intermittent seizures.  The generalized beta activity could be due to medication effect including benzodiazepines, barbiturates, or could be due to anxiety or hyperthyroidism.  Clinical correlation is recommended.
+
+

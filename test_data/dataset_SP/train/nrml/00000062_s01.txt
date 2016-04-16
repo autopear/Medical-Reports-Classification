@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is an 83-year-old male with Alzheimer’s disease, shortness of breath and new onset seizures. 
+MEDICATIONS: Ativan, Valproate, others.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated but responsive. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is diffusely slow and is partly obscured by muscle and movement artifact.  The overall background is 6 Hz, rhythmic theta frequency activity.  There is an interhemispheric asymmetry and the activity from the right hemisphere appears to be more suppressed with significant portions of the record with dramatic attenuation of the theta frequency activity identified from the right compared to the left.  When the patient becomes drowsy, there is an increase in background slowing and the generalized attenuation is seen in the background.  Throughout the record in drowsiness or quiet wakefulness, there is epileptiform activity identified in different localizations including F7/T1, the left frontal region at F3, as well as C4.   
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Superimposed focal slowing with disruption of faster frequency activity on the right.
+Multifocal epileptiform activity identified from both hemispheres including the left anterior temporal, left frontal, and right central regions.  
+CLINICAL CORRELATION: No seizures were recorded.  This tracing supports a diffuse disorder of cerebral function, which effects both hemispheres.  Consideration for a structural or functional abnormality on the right is important.  A partial mechanism for epilepsy should be considered as well as a process, which augmented epileptogenicity. 
+
+

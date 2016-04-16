@@ -1,0 +1,27 @@
+		CLINICAL HISTORY: 	A 51 year old with necrotizing fasciitis, multiple surgeries and colostomy. 	Patient found on July 11,
+2007, at 9:30p.m., unresponsive and coded for 10 minutes.
+Patient developed myoclonus characterized by facial twitching on the morning of July 12, with a temperature of 103.
+	MEDICATIONS: 	Neurontin, propofol (recently stopped) Provigil, Lovenox, Depakote.
+INTRODUCTION:  Subtraction digital video EEG is performed at the bedside in ICU using standard 1020 system of electrode placement with 1 channel of EKG.  The patient is intubated and comatose.
+		DESCRIPTION OF THE RECORD: 	Background EEG is markedly suppressed but every 13 seconds there is a brief burst of high amplitude mixed theta with smaller amounts of delta activity. This can be measured throughout the record and the bursts are quite characteristic. 	Stimulation of the patient occurs just during one of the bursts of activity and does not clearly activate the record.
+HR: 108 bpm.
+	IMPRESSION: 	Abnormal EEG due to:
+	1. 		Discontinuous pattern with brief bursts of cerebral activity lasting typically 2 to 3 seconds, occurring every 13 seconds.
+		CLINICAL CORRELATION: 	Although there is a fair amount of background artifact, there are no clearly evolving seizures. There is no definitive epileptiform activity seen within the bursts. 	Reviewing the video, there does not seem to be a movement described along with this.
+LTM - 07/13/07 - CONTINUOUS FROM 07/12/07
+	INTRODUCTION: 	Continuous video EEG monitoring was performed at bedside in the ICU in standard 10-20 system of electrode
+placement with 1 channel of EKG. There are no push buttons concerning seizures. There is no additional clinical information or other information provided.
+	DESCRIPTION OF THE RECORD: 	As the tracing begins, the background demonstrates a discontinuous pattern with bursts of cerebral activity occurring every 13 seconds. By 20:13:42,  the bursts of cerebral activity are lower amplitude. In addition, on occasion the bursts are asynchronous. Over time the bursts are a little bit more prominent in the central regions and the frontotemporal regions.
+By 03:43 The burst suppression pattern seems to have abated. At
+3:00 a.m., there seems to be an occipital artifact. The overall suppressed pattern seems to have improved with some mixed frequency activity at 7:46. The background is one of diffuse
+low-voltage fast. No clinical notes indicate that medications had been changed at that time. By the close of the record, the occipital scalp electrodes are not functional. The background
+EEG includes artifact and some low-voltage fast activity. Family at the bedside provide tactile stimulation. No change is observed with the EEG.
+HR: 100 bpm.
+	IMPRESSION: 	Abnormal continuous video electroencephalogram monitoring due to:
+1. Initially a burst suppression pattern with bursts of activity every 13 seconds, gradually decreasing in amplitude and abating.
+2. Transient pattern with a mixed frequency pattern.
+3. A final pattern of low voltage beta plus muscle artifact.
+	CLINICAL CORRELATION: 	Additional clinical information  would be quite valuable to know if medications had been changed which would impact the pattern described above. No seizures were seen. No epileptiform activity was observed.
+	
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 10-year-old male with hydrocephalus, SUNT PLMT of left, new onset seizures described as tonic-clonic with eye deviation to the right lasting one to two minutes, followed by a right facial droop and right hemiparesis.  
+MEDICATIONS: Vancomycin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: The background EEG is somewhat disorganized. In addition, there is some intrahemispheric asymmetry.  The right hemisphere is better organized than the left and includes both alpha and beta frequency activity with a 10 Hz, posterior dominant rhythm.  The posterior dominant rhythm on the left appears to be disorganized.  Additional features from the left include high amplitude arrhythmic delta activity, particularly from the left frontocentral region and a breach rhythm.  In the setting of a breach, there is sharply contoured delta in the left frontal region including F3 and F7.  Features of sleep include vertex waves, K complexes, and spindles in stage II sleep. 
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG for a child of this age due to:
+Background disorganization.
+Focal slowing from the left frontal region.
+Sharply contoured slowing at F3 and F7.
+CLINICAL CORRELATION: No seizures were recorded.  This EEG supports a structural or functional abnormality on the left involving both gray and white matter, as well as a previous craniotomy.  While neither hemisphere has adequate organization for a child of this age, the left demonstrates significantly more delta.   The sharply contoured delta in the setting of a breach rhythm suggests a partial mechanism for this patient’s epilepsy. 
+
+

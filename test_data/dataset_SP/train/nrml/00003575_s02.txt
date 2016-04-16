@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  54 year old right handed woman with history of generalized seizures, now with lightheadedness, headaches, and seizure spells.
+MEDICATIONS:  Trileptal.
+REASON FOR EEG:  Primary Generalized Epilepsy
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with anterior temporal electrodes and EKG electrodes.  The EEG was recorded during wakefulness and sleep.  Photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm at 9 Hz with 20-60 mV amplitude.  There is normal frontal central beta seen.  Sleep is characterized by stage I and stage II.  Activating procedures, including hyperventilation and photic stimulation revealed no abnormal discharges.
+ABNORMAL DISCHARGES:  Frequent bursts of generalized spike and waves at 3.5  to 4.0Hz with an amplitude of 20-75 mV seen with an anterior predominance in bursts of less than 2 seconds.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized spike and wave.
+CLINICAL CORRELATION:  This EEG is consistent with an interictal expression of idiopathic generalized epilepsy.  No seizures were seen. There were some polyspike seen.
+
+

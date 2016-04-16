@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a six-day-old infant with seizures.
+MEDICATIONS: Phenobarb
+INTRODUCTION: Digital video EEG is performed at the bedside in the Neonatal Care Unit using standard 10-20 system of electrode placement with one channel of EKG. The infant has been treated with Phenobarbital and no longer has clinical seizures. This is an asleep record.
+DESCRIPTION OF THE RECORD: The child is sleeping throughout the study.  No motor activity is identified on the video.  The background EEG continues to show a pattern with high amplitude 2 to 5 Hz activity, which is maximum in the left hemisphere and at times seems to be maximum in the occipital scalp regions.  At other times, it is more rhythmic with more of a diffuse pattern.  This activity is seen in bursts lasting 3 to 5 seconds in duration.  On some occasions, it is more arrhythmic 5 Hz and others it is slower frequency activity. The bursts are of 3 to 5 seconds in duration as described above. The background in the interval is suppressed, somewhat more so from the left compared to the right.  The central regions are somewhat less suppressed than the temporal regions.   There is no attempt to awaken the child from sleep.  There are some portions of the record where there is somewhat more activity in the inner bursts section suggesting that there is variability of the sleep state.
+HR:  180 BPM.
+	IMPRESSION: Abnormal EEG for an infant of this age due to:
+High amplitude 3 to 5 Hz sharply contoured activity, which is identified bilaterally but seems to be maximum from the left hemisphere.
+Intermittently discontinuous pattern with some focality, more suppressed on the left.
+CLINICAL CORRELATION: No seizures were identified in this record. Ongoing epileptiform activity, L>R.  Discontinuity was seen, although this was an exclusively sleep record.  The features described above are similar to the previous study, although the background suppression from the right hemisphere may be somewhat improved.
+
+

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  51 year old right handed male with past medical history of aneurysm clip, seizures.  Last seizure was in June 2011, now with headaches.
+MEDICATIONS:  Topamax, Dilantin, Benzonatate, Omeprazole, Motrin.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures, including photic stimulation and hyperventilation were performed.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm of 9 Hz which is reactive to eye opening.  There is normal frontal central beta.  There is a large amount of sleep during the recording with stage I and II. 
+Hyperventilation and photic stimulation reveal no abnormal discharges.   
+ABNORMAL DISCHARGES:  Focal slow waves seen at F4 continuously with associated breech. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Focal right slowing and breech.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction in the right frontal region which is consistent with a known surgery in that region.  No seizure or epileptiform discharges were seen.
+
+

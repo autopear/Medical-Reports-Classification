@@ -1,0 +1,15 @@
+LENGTH OF RECORDING:  26 minutes.
+.
+CLINICAL HISTORY:  The patient is a 59-year-old gentleman with a history of schizophrenia who presents with altered mental status and at least 2 episodes of tonic posturing with decreased responsiveness in the setting of ingesting Vicks VapoRub.
+MEDICATIONS:  Lovenox, Ativan 1 mg at 6:00 a.m. and several mgs on 01/13/2013.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional T1 and T2 electrode with a single EKG lead.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior-to-posterior frequency amplitude gradient.  There is right-to-left interhemispheric asymmetry with slower wave forms observed over the left hemisphere.  The background consists of a mixture of diffuse beta, theta, and delta activity.  Additional polymorphic often sharply contoured delta is observed over the left hemisphere, primarily over the left temporal region.  Several electrographic seizures are captured in this recording.  Seizures have abrupt onset without clear localization or lateralization.  Electrographically diffuse EMG artifact is observed.  Once the EMG artifact resolves generalized sharply contoured approximately 3 Hz rhythmic delta activity is observed diffusely, but it is higher in amplitude over the left hemisphere.  This activity increases in amplitude and decreases in frequency to approximately 2 Hz and often evolves into another episode of generalized EMG artifact that obscures the recording.  Once that EMG artifact resolves, rhythmic sharply contoured 3-4 Hz delta activity is often observed over the left temple region.   
+Clinically it appears that the patient moans and slobbers at the onset of seizure and has decreased responsiveness during the seizure.
+FINDINGS:  
+Focal status epilepticus.  
+Excess beta.
+Left hemispheric slowing most pronounced over the left temporal region.
+Mild to moderate diffuse slowing.
+IMPRESSION:  This is a very abnormal 26-minute electroencephalogram due to diffuse slowing, focal left hemispheric slowing that is most pronounced over the left temporal region and multiple focal left temporal electrographic seizures without returning back to baseline.  Diffuse background slowing indicates etiologically nonspecific diffuse cerebral dysfunction.  Focal left hemispheric slowing that is most pronounced over the temporal region indicates focal cerebral dysfunction, and in this case, could partially be to related post-ictal phenomenon.  Multiple electrographic and clinical seizures captured during the recording are consistent with focal status epilepticus.  These findings were conveyed to the Neurology consult team at the time of the recording.
+
+

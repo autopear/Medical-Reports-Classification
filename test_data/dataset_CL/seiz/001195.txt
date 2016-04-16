@@ -1,0 +1,12 @@
+MEDICATIONS:  Ativan, Versed, Depakote, norepinephrine, and dopamine.
+CLINICAL HISTORY:  A 62-year-old woman with multiple strokes, AICD, status post cardiac arrest on the 10th with prolonged arrest in the field on 09/09/2013, now intubated comatose with facial twitching.  The patient will undergo therapeutic hypothermia.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The routine EEG begins at 9:13 in the morning.
+DESCRIPTION OF RECORD:  The background EEG is markedly abnormal and demonstrates an intermittently suppressed pattern.  The patient has intermittent facial twitching and jerking.  This produces muscle artifact.  The jerking demonstrates frequency evolution with clinical seizures lasting approximately 30-60 seconds.  These are followed by an attenuated background or suppressed background with low voltage delta. Both muscle artifact and epileptiform activity localize to the left scalp electrodes
+Tactile stimulation does not activate the record. 
+Heart rate irregular at 120 BPM.
+IMPRESSION:  This is an abnormal EEG due to:  
+A markedly abnormal pattern with suppressed pattern and sharp waves and spikes, which may emanate from the left (significant muscle artifact).
+Recurrent electrographic seizures.
+CLINICAL CORRELATION:  Based on this initial study, long-term video EEG monitoring was initiated.
+
+

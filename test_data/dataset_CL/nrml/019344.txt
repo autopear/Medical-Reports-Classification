@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 56-year-old woman who presents with change in mental status.  She had left arm and leg twitching.
+PAST MEDICAL HISTORY:  Significant for coronary artery disease, hypertension, diabetes, COPD.
+MEDICATIONS:  Keppra, morphine, Seroquel and valproic acid.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10/20 system of electrode placement with 1 channel EKG.  Hyperventilation or photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  No clear posterior dominant rhythm was seen.  In the lethargic state there was diffuse slowing of the background consisting of 5-6 Hz theta activity intermixed with 2-3 Hz delta activity.  These activities are intermixed with occasional beta activity with frontocentral distribution.  There was occasional eye movement artifact noted.  There is a spontaneous variability seen with increase in background frequency intermittently.  There is also some reactivity seen in the form of increased background frequency on stimulating the patient.  There is no epileptiform abnormality or electrographic seizures during this recording.  Heart rate is 100 beats per minute and regular.
+IMPRESSION:  This is an abnormal EEG recording capturing the patient in a lethargic state due to the presence of: 1. Diffuse slowing of the background.  2. Absence of posterior dominant rhythm. There is no epileptiform activity or electrographic seizures noted.
+CLINICAL CORRELATION:  The above findings could be due to severe metabolic, toxic, anoxic, or infectious encephalopathy or a postictal state.  Alternatively, it could also be due to the effects of sedating medications.  Clinical correlation is recommended.  No epileptiform abnormalities are identified in this record.  No seizures were captured.  This does not rule out the diagnosis of intermittent seizures.  If clinically indicated, a bedside EEG monitoring may be helpful.  Please note, the patient is tachycardic.
+
+

@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  This is a 23-year-old woman with a history of seizures for 3 months.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and sleep, stage I.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is a normal amount of frontocentral beta.  The patient is recorded in wakefulness and stage I sleep.  Activating procedures included hyperventilation and photic simulation, which revealed no abnormal discharges. 
+Abnormal discharges:  None. 
+Heart rate:  78.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  This is a normal awake and asleep EEG.  No seizures or epileptiform discharges were seen.
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 13-year-old female with severe MR, hydrocephalus, and VP shunt.
+MEDICATIONS: Phenobarbital and Tegretol. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  The child is awake and supported in an upright device. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with primarily a mixture of rhythmic delta and theta.  The normal developmental milestones for a 13-year-old are not identified.  There are occasional C4 sharp waves observed.  Despite the VP shunt, there is no notation regarding a craniotomy scar.  The cerebral activity from the left parietal-occipital region is relatively attenuated compared to that on the right.  A shunt placed to the left of midline in the central regions was noted at set-up, but there is no clear breach rhythm in that same region.  
+Photic stimulation does not activate the record.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG in wakefulness and drowsiness due to:
+Generalized background slowing.
+Absence of the normal developmental milestones for a child of this age.
+Relative attenuation from the left posterior quadrant.
+Right central sharp waves. 
+CLINICAL CORRELATION: This tracing supports a relatively severe, chronic disorder of cerebral function in an awake individual.  A focal mechanism for epilepsy may be considered.  No seizures were recorded.  
+
+

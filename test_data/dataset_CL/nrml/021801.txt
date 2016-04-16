@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  60 year old man with a history of seizures, CAD, CABG, dementia, diabetes, previous strokes, and hypertension.
+MEDICATIONS:  Ativan, Plavix, Lovenox, Protonix.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded while agitated and poorly responsive.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  Continuous movement electrode artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or normal frontocentral beta; however, the beta seems slightly better over the left hemisphere than the right.  Activating procedures were not performed.  No normal sleep architecture was seen. 
+ABNORMAL DISCHARGES:  
+Generalized slowing at 2 to 4 Hz with an amplitude of 20 to 60 microvolts seen continuously.
+Some decreased amplitude and faster frequencies over the right hemisphere. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slowing and slightly decreased amplitude over the right hemisphere.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regard to etiology.  The slight asymmetry and faster frequencies in amplitude over the right hemisphere may be due to cortical damage and/or due to cortical atrophy seen in that region.  Clinical correlation is required.  No seizures or epileptiform discharges were seen.
+
+

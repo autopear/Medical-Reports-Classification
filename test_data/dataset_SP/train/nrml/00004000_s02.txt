@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 19-year-old, deaf mute and blind female with mental retardation “vegetative state”.  Patient admitted for non-responsiveness and respiratory distress secondary to aspiration pneumonia.  Past history significant for shaking baby syndrome, epilepsy, spinal fusion, and microcephaly.  
+MEDICATIONS: Lamictal, Clorazepate, Keppra, Librium, and MiraLax. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is in a vegetative state. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely low voltage with excess beta activity with occasional left theta in the frontocentral area.  Occasionally, there is increased beta frequency in the left temporal region associated with left temporal sharp waves. 
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Diffuse low voltage background.
+Left temporal theta with left temporal sharp waves. 
+CLINICAL CORRELATION: No seizures were recorded.  This EEG is supportive of severe disturbance of cerebral function.  Compared to a previous study, this EEG showed a lower voltage pattern. 
+
+

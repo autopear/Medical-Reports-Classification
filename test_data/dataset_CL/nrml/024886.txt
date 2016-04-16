@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is an 88-year-old woman with a history of an intracerebral hemorrhage and intraventricular catheter.  This is a follow-up EEG; prior study done on 12/14/04. 
+MEDICATIONS: Dilaudid, insulin, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is lethargic.  Tactile stimulation of the patient was performed. 
+DESCRIPTION OF THE RECORD: The background EEG is disorganized with overall background slowing, with a theta and delta frequency background.  There are intermittent triphasic waves with typical anterior-to-posterior leg.  Occasional sharp waves over the right posterior quadrant with phase reversal at T6 are seen, which have the appearance of broadly formed PLEDS.  The record shows variability in response to the patient’s stimulation with an increase in theta frequency. 
+HR:  102 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Triphasic waves and occasional sharp waves at T6.
+CLINICAL CORRELATION: No seizures were recorded.  This tracings supports a diffuse disturbance of cerebral function, as well as a structural abnormality in the right temporal region. The triphasic waves suggest an overlying metabolic component.  Variability in response to stimulation is a positive prognostic feature. 
+
+

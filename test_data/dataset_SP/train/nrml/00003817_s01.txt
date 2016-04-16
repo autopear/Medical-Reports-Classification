@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 45-day-old preemie born at 27 to 39 weeks gestational age by C-section with hydrocephalus, grade IV intraventricular hemorrhage requiring “tapping to remove fluids.” Evaluate for seizures.  
+MEDICATIONS: Diamoxin, caffeine.  
+INTRODUCTION: Digital video EEG is performed at the bedside in the isolet using standard 10-20 system of electrode placement with one channel of EKG, along with neonatal montage. 
+DESCRIPTION OF THE RECORD: The child is described as jittery during the EEG.  No video is available, but the child is inside an isolet and it is difficult to have a good view of the baby’s activities.  The child can be seen to be moving spontaneously.  The  background EEG at some points demonstrates delta brushes, which are an appropriate developmental milestone for this child’s age.  At some points, the EEG is discontinuous, somewhat more discontinuous than anticipated for gestational age.  There are occasional sharp waves seen in the record including right centrotemporal and also occasionally on the left.  In the portions of the record where the child is described as jittery, the EEG demonstrate a continuous pattern with theta and delta frequency activity, as well as occasional delta brushes.  
+HR:  150 BPM.
+	IMPRESSION: Abnormal EEG for a child of this age due to:
+Excessive discontinuity, sometimes somewhat more prominent from the right hemisphere.
+Excessive sharp waves for age, right centrotemporal greater than left.  
+CLINICAL CORRELATION: No seizures were recorded. The jittery movements were not associated with epileptiform activity and, in fact, seem to be present in the richer portions of the EEG.  
+
+

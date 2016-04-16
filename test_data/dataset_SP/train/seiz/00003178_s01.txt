@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Brain tumor and seizures.
+CLINICAL HISTORY:  A 69-year-old man with a history of brain tumor in the right frontal region status post radiation, epilepsy, hypertension and diabetes with increased seizures after surgery, now with increased seizures about twice per month, described as tonic-clonic with no loss of consciousness for 4 to 5 minutes afterwards or a bad in the mouth.
+MEDICATIONS:  Dilantin, Keppra, metoprolol, metformin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included hyperventilation.
+TECHNICAL DIFFICULTIES:  Movement throughout the recording.
+DESCRIPTION OF THE RECORD:  The record reveals a slow background with a posterior dominant rhythm that reaches 9-10 Hz.  The patient is recorded mainly in wakefulness.  Activating procedures included hyperventilation that was performed.
+ABNORMAL DISCHARGES:  Focal slow waves seen continuously over the right hemisphere, maximal in the central parietal and temporal regions at a frequency of 2-4 Hz with an amplitude of 20-60 microvolts.  There is also increased beta over that region consistent with a breached rhythm.
+SEIZURES:  During the recording there were about 4 seizures which appeared to begin over the right hemisphere at T4/C4 and increasing amplitude and frequency from delta to theta, and seconds later appeared to spread to the left hemisphere in the T5 electrode which appeared to continue to evolve and then suddenly stop.  During the event the patient is tested and at the time is slow to respond, but not clearly unresponsive.  The seizures last about 1 minute and 45 seconds, otherwise there is no other EEG correlate.
+IMPRESSION:  Abnormal EEG due to right central temporal and parietal continuous focal slowing and breach in addition to multiple seizures likely arising from that region
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of localization related epilepsy with seizures arising around the right central parietal region.  Multiple of what appeared to be possible electrographic versus complex partial seizures.  In addition, there is evidence of focal cerebral dysfunction in the right central parietal and temporal region which is consistent with the known tumor and radiation.  These findings were informed to the patient.  He was sent to the emergency room for admission and further treatment of his seizures.
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 55 year-old male with progressive gait dysfunction in a gentleman with a history of ______________, epilepsy, and previous brain surgery. 
+MEDICATIONS: 
+INTRODUCTION: Digital video EEG is performed in the LTM Unit using standard 10-20 system of electrode placement with one channel of EKG. This test was requested to observe the patient’s sleep/wake cycles.  No seizures were identified in this section of the record.  This record captured wakefulness and sleep.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is diffusely slow.  There are rare, right temporal sharp waves.  There are some problems with electrode integrity and a breach rhythm is sometimes picked up at T6.  Features of drowsiness include accentuation of the beta activity, particularly at C6.  As the recording continues, the integrity of the system is difficult with, in all likelihood, the patient picking off the electrodes. The electrodes are repaired and the EEG again demonstrates an amplitude asymmetry, somewhat higher amplitude on the right compared to the left.  The patient is awake during the good quality recording.  
+HR:  __ BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+Mild background slowing in wakefulness. 
+Suspicious right temporal sharp waves. 
+CLINICAL CORRELATION: Given the problems with the integrity of the electrodes, no additional inferences can be made. The patient does achieve sleep, but unfortunately during the sleep section of the record, the overall caliber of the EEG is not optimal.  No subclinical seizures were identified.  Due to this patient’s personal, technical limitations, to further characterize his sleep EEG, a more prolonged, observed study in the lab would be optimal.  
+
+

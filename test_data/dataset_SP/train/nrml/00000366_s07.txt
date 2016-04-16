@@ -1,0 +1,21 @@
+CLINICAL HISTORY:  48 year old right handed male with epilepsy, presented with multiple seizures.
+MEDICATIONS:  Tegretol, Dilantin, Phenobarbital, Ativan.
+INTRODUCTION:  Continuous digital video EEG monitoring was preformed at bedside using standard 10-20 system of electrodes placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  In this section of the record, the patient experienced a seizure.  This seizure was at 5:17 p.m.  The patient seemed to have been sleeping.  He arouses just at the start of the seizure and then he moves around afterward, but during the seizure he is sleeping, face down.   
+This seizure was 1.5 minutes in duration.  It began with rhythmic theta frequency activity, most prominent in the T1-T2 electrode.  Early in the seizure there is prominent involvement in the bilateral frontal region, but the phase reversal is T2, with T2 and T4 being nearly isoelectric.  There is clear frequency evolution and bilateral activity.  Afterward there seems to be some muscle artifact. 
+Several minutes later, the nurse comes in and does testing for the patient.   
+There are sections in the record where the patient is asleep and the background is relatively low-voltage and featureless.   
+There are intermittent bursts of frontal delta noted in the background but without clear clinical correlate.   
+There is a handful of sharp waves noted in the left anterior temporal region. 
+Later sections of the record are remarkable for some electrode artifact. 
+March 7 through March 8:  During this section of the record, the patient notes no clinical seizures.  In addition, he is placed on a 1-to-1 because of the intermittent confusion and the seizure while lying face down asleep.  No seizures are recognized by the clinical team.   
+The awake record is somewhat on a low-voltage side with a fair amount of movement artifact.  There are occasional bursts of spikes and sharps which seem to begin out of the right frontal region and some of it starts in the right frontal region with a triplet and then frontal delta.   
+Compared to the first 24 hours of EEG recording, the frontal delta is no longer present in wakefulness and is decreasing overall.  The overnight sleep recording continues to demonstrate the frontal delta, but unfortunately there is more EKG artifact in the background during sleep at times.  The patient is noted to be sleeping during the day.  The interictal EEG does demonstrate some awake sharp waves in the right temporal region, and the drowsy EEG is more of a pattern of right or left, but unfortunately some times the electrode integrity is lost.   
+HR:    72 bpm.
+IMPRESSION:  This EEG monitoring was remarkable for:
+One clinical seizure which seems to come from the right temporal region.
+Interictal epileptiform activity; right. left temporal sharp waves seen in wakefulness or sleep, a bit more prominent in the first 24 hours of recording.  
+Bursts of frontal delta.  On occasion, these bursts seem to be preceded by right anterior temporal sharp waves.
+CLINICAL CORRELATION:  These findings are diagnostic of a focal mechanism for seizures.  The overall background was improving in the second 24 hours.
+
+

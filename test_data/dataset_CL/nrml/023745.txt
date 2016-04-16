@@ -1,0 +1,15 @@
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  A routine EEG was performed using standard 10-20 electrode placement system with the addition of anterior temporal and single-lead EKG electrode.  The patient was recorded while lethargic.  Activating procedures were not performed.
+MEDICATIONS:  Baclofen, aspirin, metformin, Lantus, Lipitor, Spiriva.
+HISTORY:  A 58-year-old woman with complaints of change in mental status and has past medical history of MS, mental retardation, diabetes, hypertension, sarcoidosis, vascular dementia, left-sided weakness.
+TECHNICAL DIFFICULTIES:  Some movement artifact.
+DESCRIPTION OF THE RECORD:  The record opens to diffusely slow background, posterior dominant rhythm that best reaches 6-7 Hz which appears to be somewhat reactive to eye opening.  There is no normal frontocentral beta. Activating procedures were not performed.  No normal sleep architecture was seen.
+ABNORMAL DISCHARGES:  
+Focal slow wave seen frequently at F7/T3 and less frequently at T4 with a frequency of 2-4 Hz and amplitude of 20-60 microvolts. 
+Generalized slow waves at 5-7 Hz seen continuously throughout the recording.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to left anterior temporal as well as midtemporal (left more than right) focal slowing in addition to mild generalized slowing.
+HEART RATE:  120.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left anterior temporal as well as the right mid-temporal region in addition to mild generalized dysfunction, all of which are nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

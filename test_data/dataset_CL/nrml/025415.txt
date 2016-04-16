@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a three-year-old child with hydrocephalus, lethargy, fever, and abnormal eye movements.
+MEDICATIONS: Tylenol.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The child is asleep. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the child is resting comfortably and appears to be asleep. There is rhythmic, frontally predominant delta activity of approximately 3 Hz sometimes 3 to 5 Hz.  The activity is sometimes asymmetric, high amplitude with a more generous field of spread from the left frontal region than the right.  There are one or two occasions where it is maximum on the right.  There is lower voltage 5 to 6 Hz activity seen intermittently from the occipital regions, more prominent on the right than the left.  The child intermittently arouses from sleep and when he does so, there is an asymmetry with higher amplitude activity from the left, in part compatible with a breach.  There is some sharply contoured delta seen at T3 in the setting of a breach rhythm. 
+HR:  90 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:
+Intermittent asymmetry with high amplitude, more prominent slowing from the left compared to the right.
+Left temporal sharply contoured delta activity.
+FIRDA.
+CLINICAL CORRELATION: This tracing supports a structural or functional abnormality on the left. FIRDA is classically described with hydrocephalus or increased intracranial pressure, but it can be seen in toxic or metabolic states.  No seizures were seen and there was no definite epileptiform activity.
+
+

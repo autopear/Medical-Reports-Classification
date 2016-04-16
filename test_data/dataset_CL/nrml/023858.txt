@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Possible seizure.
+CLINICAL HISTORY:  A 68-year-old man with a history of stents and spinal surgery had an episode 2 weeks ago of forgetting where he drove for a 6-miles and then hitting a tree.  Unclear if it was syncopal, seizure, or a cardiac event.
+MEDICATIONS:  Ultram, Celebrex, Lipitor, aspirin, Toprol.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and sleep.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9 Hz, which is reactive to eye opening.  There is normal frontal central beta.  The patient is recorded during wakefulness and stage I sleep.  Activating procedures including photic stimulation produced no abnormal discharges. 
+Abnormal discharges:  Focal slow waves seen at T4 at an amplitude of 20 to 60 microvolts, rarely. 
+Heart rate was 60.
+IMPRESSION:  Abnormal EEG due to right midtemporal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right midtemporal region, which is nonspecific with regard to etiology.  No seizures or epileptiform discharges were seen.
+
+

@@ -1,0 +1,11 @@
+HISTORY: This is a 62-year-old woman admitted for change in mental status.  History of bilateral lung transplant two months ago.  Patient presents with new onset seizures versus tremor.  
+MEDICATIONS: Prednisone, antibiotics, and Lovenox.
+INTRODUCTION: Portable digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is diffusely slow with excessive theta activity.  There is a 6 to 7 Hz, 30 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Occasionally, sharply contoured waves or are seen in the right hemisphere.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing with theta activity.
+Rare sharply contoured waves or sharp wave complexes in the right hemisphere.
+CLINICAL CORRELATION: This EEG demonstrates a non-specific pattern, which can be seen in patients with either a toxic or metabolic encephalopathy, infection, or medication effect.  The right hemisphere focal features are subtle but suggest underlying pathological process.  No seizures were recorded during this record.  In comparison to this patient’s previous EEG of March 18, 2004, which revealed diffuse slowing of delta frequency, this tracing showed a somewhat improved background.  
+
+

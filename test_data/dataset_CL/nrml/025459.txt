@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 61-year-old woman with aortic dissection with hypotension and GI bleed.
+MEDICATIONS: Fentanyl, Versed, Ativan, many others
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake record. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a patient with eye movement compatible with wakefulness and occasional spontaneous movements.  The background EEG is abnormal, absent in alpha rhythm with lower voltage, somewhat attenuated pattern and occasional theta and/or delta frequency activity.  There are occasional periodic complexes identified in either frontal region, as well as occasional left frontocentral sharp waves. 
+Stimulation of the patient produces an increase in muscle in the background.  Stimulation of the patient also seems to decrease the periodic activity in the sharp waves.
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Left frontocentral sharp waves.
+Rare shifting periodic complexes in either frontal region.  
+CLINICAL CORRELATION: No seizures were recorded.  This tracing supports a diffuse disorder of cerebral function effecting both gray and white matter.  Consideration for a structural, CNS process would be appropriate. 
+
+

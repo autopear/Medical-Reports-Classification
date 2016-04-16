@@ -1,0 +1,9 @@
+CLINICAL HISTORY: This is a 38-year-old woman with transient dizziness while driving lasting less than one minute.  No seizures were reported.  
+MEDICATIONS: Non-antiepileptic medications. What were her meds?
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake through stage I sleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and fairly well organized with a 10 to 11 Hz, 25 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.    In drowsiness, increased beta activity as well as a mixed frequency of brain waves and vertex waves were seen. Deeper stages of sleep were not achieved.  Photic stimulation elicits driving.  Hyperventilation did not change the background pattern.
+HR:  66 BPM.
+	IMPRESSION: Normal EEG in wakefulness through light sleep.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  If epilepsy is a clinical concern, a repeat tracing capturing deeper stages of sleep or sleep deprivation prior to the EEG may be helpful.
+
+

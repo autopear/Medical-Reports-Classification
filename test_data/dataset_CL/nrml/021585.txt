@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  42 year old right handed male with new onset seizures, chest pain, numbness and tingling in the fingers, generalized tonic-clonic seizure, tongue biting, and loss of consciousness.  He has a past medical history of anxiety, COPD, thyroid disorder, and degenerative disk disease.
+MEDICATIONS:  Klonopin, Synthroid, Keppra, Advair.
+REASON FOR STUDY:  New onset seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and stage I and stage II sleep.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9 to 10 Hz, which is reactive to eye opening.  There is an excessive amount of frontocentral beta seen throughout the recording.  The patient appears to go into stage I and stage II sleep.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Please note that the excessive amount of beta can be seen with the use of barbiturates or benzodiazepines.
+
+

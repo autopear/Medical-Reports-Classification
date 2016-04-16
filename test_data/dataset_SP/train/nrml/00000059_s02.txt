@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is an 81-year-old woman with temporal intracerebral hemorrhage, persistently encephalopathic.
+MEDICATIONS: Valproate, Labetalol, insulin, others.
+INTRODUCTION: Digital video EEG is performed in the lab/bedside(?) using standard 10-20 system of electrode placement with one channel of EKG. The patient is lethargic with waxing and waning mental status and frequent moaning. 
+DESCRIPTION OF THE RECORD: When the patient is maximally awake, the background EEG is diffusely slow with a mixture of rhythmic theta and delta activity.  She has frequent eye blink artifact.  There is a breach rhythm identified from the right, particularly in the temporal regions with high amplitude, sharply contoured delta activity.  In the context of a breach, there is relative attenuation of faster frequency activity from the right anterior temporal region.  Features of drowsiness include slowing of the background with slower delta and theta frequency activity.  In the transition to drowsiness, there is occasional FIRDA.
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Superimposed focal slowing with disruption of faster frequency from the right.
+FIRDA.
+CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function effecting both gray and white matter, as well as a structural process in the right temporal region.  FIRDA is non-specific but may be seen in metabolic conditions.  No seizures were recorded. 
+
+

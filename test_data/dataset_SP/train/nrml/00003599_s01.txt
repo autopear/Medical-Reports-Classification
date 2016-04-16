@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 66-year-old woman with a history of right parietal lobe hemorrhage, amaurosis fugax, psychiatric illness, and refractory epilepsy. The patient reports to the tech today that she was seizure-free, but reported frequent seizures at her last office visit. 
+MEDICATIONS: Depakote, Topamax, Catapres, Cardura, and aspirin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record in a patient who is relatively sleepy. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is moderately slow with diffuse background theta. There is occasional, subtle focal slowing from the right posterior temporal region.  There is a single left temporal sharp wave.  Stage II sleep is characterized by high amplitude vertex waves, K complexes, spindles, and POSTS.  The spindle activity is richer in the left in comparison to the right. There is a subtle sharp wave identified in the right parietal posterior temporal region.  This can be seen in the transition to and from stage II sleep.  
+Photic stimulation elicits brief bilateral driving.  There is a significant amount of artifact with photic on the left and there is a suggestion that the photic response is asymmetric, left greater than right; unfortunately, the artifact may accentuate this asymmetry.  
+Hyperventilation does not significantly activate the record. 
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Mild background slowing.
+Subtle focal slowing from the right posterior temporal region. 
+Asymmetric photic driving.
+CLINICAL CORRELATION: The focal features identified in this record are less prominent than those seen in 1994.  Of note, the focal sharp waves are not identified in 1996.  No seizures were recorded.  
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 6-year-old girl with epilepsy who presents with increasing seizures (ten seizures at home and two in the ER).  Patient loaded with Valproic acid. 
+MEDICATIONS: Valproic acid and Topamax. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is continuous, symmetric, and fairly well organized for age.  There is a 9 Hz, 70 uV posterior dominant rhythm, which attenuates with eyes opened.  There is a small amount of low voltage, frontocentral beta activity.  Occasionally, C3 and P3 spike or sharp wave activity is seen.  Hyperventilation produced rhythmic slow theta and delta activity, as well as increasing the P3 sharp waves and focal slowing.  Post-hyperventilation, the patient fell asleep, which is evidenced by a mixed frequency pattern, as well as hypnagogic hypersynchrony. Deeper stages of sleep were not achieved.  
+Photic stimulation elicits driving. 
+HR:  108 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Left central spike and sharp wave activity with focal slowing increased by hyperventilation. 
+CLINICAL CORRELATION: This abnormal EEG supports a partial mechanism for epilepsy in this patient.   No seizures were recorded during this tracing.  
+
+

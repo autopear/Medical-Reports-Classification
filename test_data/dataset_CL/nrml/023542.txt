@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  66 year old right handed woman with a history of breast cancer, status post radiation and lumpectomy, hypertension, mets to the brain, craniectomy with seizure activity with postictal confusion for minutes.
+MEDICATIONS:  Keppra
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures included photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 8.5 Hz to 9 Hz which is reactive to eye opening.  There is normal amount of frontal central beta.  Activating procedures including photic stimulation produced no abnormal discharges.  The patient was recorded in wakefulness, stage I, and stage II sleep.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen in the right hemisphere continuously at F4 and at times T4 and F8 at 2-4 Hz and an amplitude of 20-60 microvolts.  There was a high amplitude at slower and faster frequencies in this region in relation to some sharply contoured beta discharges which are consistent with a breach.  
+Intermittent left anterior temporal F7/T3 focal slow waves at 2-4 Hz and an amplitude of 20-60 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Right frontal and at times temporal continuous focal slow waves and independent occasional left anterior temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction in the right frontal and temporal regions which is consistent with the known surgery lesion.  In addition, there is evidence of focal cerebral dysfunction in the left anterior temporal region, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges are clearly seen.
+
+

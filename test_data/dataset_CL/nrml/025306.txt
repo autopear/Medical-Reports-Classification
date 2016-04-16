@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is an 81-year-old woman with abrupt change in mental status, left-sided weakness, right temporal or cranial surgery, HTN, CHF, asthma.
+MEDICATIONS: Insulin, Dilantin, Valproate, and antibiotics.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake with a recent craniotomy. 
+DESCRIPTION OF THE RECORD: The patient is awake and moving throughout much of the record.  The primary frequencies in the background are rhythmic, 4 to 6 Hz theta frequency activity.  There is an asymmetry with a relative attenuation of activity from the right temporal region.  In addition, there are some bursts of sharply contoured delta activity in the right anterior temporal region.  Towards the close of the record, the background improves and there is 7 to 8 Hz activity in the occipital scalp region. 
+HR:  78 BPM, irregular.
+	IMPRESSION: Abnormal EEG for a subject of this age due to:
+Generalized background slowing.
+Superimposed attenuation from the right temporal region. 
+Occasional sharply contoured right temporal delta in the setting of a craniotomy.
+CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function, as well as a process involving the right temporal cortical region.  No seizures were recorded. 
+
+

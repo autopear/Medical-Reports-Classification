@@ -1,0 +1,17 @@
+CLINICAL HISTORY: 55 year old man with intermittent left upper and left lower extremity shaking since yesterday.  While getting hooked up today he had an episode of left arm shaking and head turning to the left.  He also has a history of alcohol use and possible withdrawal.  CT had hypodensity in the right large frontal parietal region.
+MEDICATIONS:  Ativan, Keppra,Thiamine
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal single lead EKG electrode.  The patient was recorded while lethargic.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow disorganized background with no posterior dominant rhythm or frontal central beta.  The patient has no normal sleep architecture.  No activating procedures were performed.   
+ABNORMAL DISCHARGES: 
+Focal sharp waves seen with a white field, but maximal at T4 with a frequency of 1-3 Hz at an amplitude of 20-60 mV almost continuously throughout the recording with no clear evolution and some intermittent periods of pause for 2 seconds.  These are consistent with periodic lateralized epileptiform discharges (PLED'S).  
+Focal slow waves at P4 in the right hemisphere maximal at P4 with a frequency of 2-4 Hz at an amplitude of 20-60 mV.
+Generalized slowing at 2-4 Hz at an amplitude of 20-40 mV.  Note:  The low amplitude seen diffusely and intermixed with this generalized slowing there is some bursts of 14-15 Hz discharges with a spindle appearance seen diffusely.   
+SEIZURES:  None seen.
+IMPRESSION:  Abnormal EEG due to:  
+Right hemispheric maximal parietal PLED'S and slow waves. 
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of right hemispheric maximal parietal focal structural dysfunction and irritability, which is consistent with a known lesion seen on the CT.  In addition, there is evidence of diffuse cerebral dysfunction which is nonspecific in regards to etiology.  However, the spindle like discharges suggest it may be, at least in part, due to medication effect.  No seizures were seen during this routine recording.  If there is further concern for intermittent seizures, I would recommend continuous monitoring to evaluate for this occurrence.
+
+

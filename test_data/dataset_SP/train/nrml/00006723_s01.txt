@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  29 year old left handed male admitted with new-onset seizures, found on the floor after a tonic-clonic seizure with vomiting, tongue biting, shoulder dislocation.
+MEDICATIONS:  Ativan, Morphine.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  The patient complains of feeling uncomfortable, hot, sweaty and unwell.
+DESCRIPTION OF THE RECORD:  Although the patient is drowsy throughout much of the record, in maximal wakefulness, there is an 8.5 Hz alpha rhythm.  There are bursts of FIRDA.  There are also some bursts of asynchronous delta and there is a slight focality to some of that delta in the right posterior region. Photic stimulation serves to alert the patient and produces minimal driving. 
+HR:    104 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background disorganization.
+Slowing of the posterior dominant rhythm.
+Frontal intermittent rhythmic delta activity.
+Arrhythmic delta activity more prominent in the right posterior quadrant.
+CLINICAL CORRELATION:  This patient's medications or postictal state may contribute to the background slowing.  The focal features may be evaluated with additional imaging techniques.  No seizures or epileptiform features were identified in this EEG.
+
+

@@ -1,0 +1,9 @@
+CLINICAL HISTORY:  This is a 90-year-old gentleman who presents with history of episode of unresponsiveness on 07/01/2013 with eyes closed and being unresponsive, lasting for 30 minutes.  He was found down desaturated on the floor with new onset atrial fibrillation.
+PAST MEDICAL HISTORY:  Significant for prostate cancer with bone metastasis and epilepsy with complex partial seizures.
+MEDICATIONS:  Warfarin, Keppra 500 twice a day.
+INTRODUCTION:  A digital video EEG was performed using the standard 10/20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded mainly in drowsiness and wakefulness.  Activating procedures were not performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 7-8 Hz in frequency seen in the occipital region.  There was diffuse slowing of the background consisting of 5-6 Hz frequency activity, 20-40 microvolts in amplitude.  Drowsiness was characterized by further slowing of the background and absence of muscle and eye blink artifact.  No epileptiform activity or seizures were seen in this study.  Heart rate was 110-120 beats per minute and irregularly irregular.
+IMPRESSION:  This is an abnormal EEG recording due to diffuse slowing of the posterior dominant rhythm and background activity during wakefulness and drowsiness.
+CLINICAL CORRELATION:  Diffuse slowing is suggestive of metabolic, toxic, anoxic, or infectious encephalopathy.  Alternatively, it could be due to effect of medications or bilateral cerebral dysfunction or postictal state.  Clinical correlation is recommended.  No epileptiform abnormalities are identified in this record.  No seizures are captured.  This does not rule out the diagnosis of intermittent seizures.  If clinically indicated, a bedside EEG monitoring may be helpful.  Please note, the patient is tachycardic with irregularly irregular rhythm.
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 61 year old woman with complex neurologic history, admitted with back pain, history of diabetes, peripheral neuropathy, past stroke chronic left hemiparesis. Acute RACA and cerebellum CVA 
+MEDICATIONS: Morphine, Oxycodone, Narcan, Insulin, Morphine, Amlodipine, Metoprolol, Lovenox 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is initially quite somnolent but by the end of the record has transitioned from a face mask to nasal cannula oxygen and is uncomfortable, intermittently shifting her arms and is quite tachypneic. Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: As the tracing beings, the background EEG is quite slow with a mixture of delta and theta. There is a bit more theta in the temporal regions. There is a suspicious underlying sharp wave in the occipital region maximal at O1. Stimulation of the patient does not seem to produce a clinical alerting response, but the EEG is remarkable for increasing faster frequency activity. At the end of the record, the patient is more interactive and is a bit more tachycardic. 
+HR: 104 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Significant background slowing. 
+2. Shifting slowing, at times a little slower on the left compared to the right. 
+3. Question of an underlying O1 small, discrete spike. 
+CLINICAL CORRELATION: The findings described above are nonspecific. The diffuse disturbance of cerebral function can be due to medications, underlying cerebrovascular disease or postictal state. The occipital sharp wave may be correlated with imaging. No seizures were recorded. 
+
+

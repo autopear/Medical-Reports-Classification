@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 75-year-old male with an intracerebral hemorrhage with a left hemiparesis. Right temporal hemorrhage. 
+MEDICATIONS: Ceftriaxone. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake or drowsy.  His neck is hyperextended with an NG tube and he appears extremely uncomfortable.
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow and poorly organized. The primary frequencies from both hemispheres include rhythmic theta and slower rhythmic or arrhythmic delta.  There are intermittent asymmetries where there is relative attenuation of the theta frequency from the left hemisphere.  On rare occasions, vertex activity is seen.  There are portions of the record where the patient is moving about spontaneously with relatively labored breathing.  At that time, there is also an increase in the beta activity.  There is occasional frontally predominant delta.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing and poor organization.
+Intermittent focal features including intermittent disruption of faster frequency activity from the right.  
+CLINICAL CORRELATION: In view of the focal features described in the history, it is surprising that there are not more focal features in the EEG.  No seizures or epileptiform activity were seen.
+
+

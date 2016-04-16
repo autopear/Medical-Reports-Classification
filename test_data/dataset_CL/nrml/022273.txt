@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  31 year old right handed female with a past medical history of seizures and Sotos syndrome who presents with headaches, worsening in frequency and starring spills.
+MEDICATIONS:  Topamax, Keppra, Premarin.
+REASON FOR STUDY:  Sotos Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 to 10 Hz, which is reactive to eye opening.  There is a normal amount of frontocentral beta.  Please note that there is an increased amount of eye blink artifact throughout the recording in the frontal electrodes.  The patient also exhibits an intermittent RNPD and some wicket spikes.  She reaches stage II sleep.  Hyperventilation and photic stimulation produce no abnormal discharges. 
+ABNORMAL DISCHARGES:   None. 
+SEIZURES:   None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.
+
+

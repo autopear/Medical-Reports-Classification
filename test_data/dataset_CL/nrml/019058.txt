@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 56 year old left handed woman with history of seizures, now admitted after multiple recurrent seizures.
+MEDICATIONS:  Propofol.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video long term monitoring, 6 hours EEG was performed at bedside using standard 10-20 electrode placement system with anterior temporal and single lead EKG electrodes.  Wakefulness and sleep were recorded.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  After 10:00 at night until 6:00 in the morning from November 6 to November 7, 2011 there was marked muscle and multielectrode artifact to almost impossible reading the EEG.
+DESCRIPTION OF THE RECORD:  The record at the beginning opens to a diffusely slow low amplitude recording with no clear posterior dominant rhythm.  By 2 hours into the recording faster frequencies can be seen and improvement of the EEG to baseline was seen.  At best the posterior dominant rhythm reaches 8 Hz, which is reactive to eye opening.  There is a small amount of frontal central beta seen.  Some sleep architecture is seen.   
+ABNORMAL DISCHARGES:
+Occasional bursts of polyspike and generalized spike and waves seen at 4.5 to 5 Hz with anterior predominance  symmetrically over both hemispheres.  None of the bursts last more than 1 second.
+Generalized slow waves at 5-7 Hz and 20-60 mV amplitude. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized spikes and waves. 
+Polyspikes and excessive theta in wakefulness.
+CLINICAL CORRELATION:  The EEG findings are consistent with those of idiopathic generalized epilepsy.  In addition, there is evidence of mild diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  In this patient it is likely due, at least in part, to medication effect.  No seizures were seen.
+
+

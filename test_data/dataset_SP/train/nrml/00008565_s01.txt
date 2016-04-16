@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  60 year old gentleman who presented with slurred speech.  He was found to have left facial twitching, foaming at the mouth, slurred speech, blank staring, as well as left lower extremity twitching.  He was subsequently loaded with Ativan and Dilantin.
+MEDICATIONS:  Ativan.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  During brief maximal wakefulness, there is unstable posterior dominant rhythm of 9-10 Hz with weak anterior to posterior frequency amplitude gradient.  There is excess beta, and movement artifact.  Additionally, low voltages, diffuse theta and delta and excess beta are captured.  Additional focal theta and delta is observed over the right frontal central region and faster frequencies are observed over the right frontal central region.  Hyperventilation and photic stimulation are not performed.  No epileptiform discharges are captured.
+FINDINGS:  
+Focal slowing over the right frontal central region.  
+Breach over the right frontal central region.  
+Excess beta.  
+Mild diffuse slowing during brief maximal wakefulness.
+IMPRESSION/CLINICAL CORRELATION:  This is an abnormal awake and asleep EEG due to mild diffuse slowing during brief wakefulness and focal right frontal central slowing.  Mild diffuse slowing indicates etiologically non-specific cerebral dysfunction.  Focal slowing and breach over the right frontal central region are indicators of underlying structural abnormality.  Breach can be seen over a skull defect. Excess beta likely related to the medication such as benzodiazepines or barbiturates.  No seizures are captured.
+
+

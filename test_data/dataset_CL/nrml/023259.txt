@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 58-year-old woman who presents with history of 
+altered mental status and delirium and history of PRES.  She has a history of kidney transplant on Prograf.
+MEDICATIONS:  Clonazepam, cyclosporine, CellCept, Coreg, insulin, prednisone,  citalopram and others.
+INTRODUCTION:  A digital video EEG was performed in the lab using the standard International 10-20 system of electrode placement in addition to one channel of EKG monitoring.  Hyperventilation was not performed.  Photic stimulation was performed.  This tracing captures wakefulness through drowsiness.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm is 8 to 8.5 Hz in frequency seen in the occipital region which attenuates with eye opening.  There is a 6-7 Hz diffuse theta activity seen during wakefulness which is distributed symmetrically.  There is presence of low-amplitude diffuse beta activity which is distributed symmetrically.  Drowsiness is characterized by disappearance of the posterior dominant rhythm and slowing of the background and absence of muscle and eye blink artifact.  Photic stimulation was performed at multiple flash frequencies and did not result in a driving response.  Heart rate was 70 beats per minutes and regular.
+IMPRESSION:  This is an abnormal EEG recording due to diffuse slowing of the background with theta activity seen in wakefulness and slowing of the posterior dominant rhythm.
+CLINICAL CORRELATION:  The above finding could be due to metabolic, toxic, hypoxic, or infectious encephalopathy.  Alternatively, it could be due to the effect of sedating medications or bilateral cerebral dysfunction or degenerative brain disease.  The generalized beta activity could be due to medication effect including benzodiazepine or barbiturate.   
+Clinical correlation is recommended.  No epileptiform abnormalities are identified in this record.  No seizures were captured.  This does not rule out the diagnosis of epilepsy or intermittent seizures.  If clinically indicated, a repeat sleep-deprived EEG or continuous bedside EEG monitoring may be helpful.
+
+

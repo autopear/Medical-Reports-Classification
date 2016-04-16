@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 63-year-old male with dementia, bifrontal encephalomalacia, hydrocephalus, history of status epilepticus in 2002, now frequently falling from his wheelchair.  
+MEDICATIONS: Carbamazepine, aspirin, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is lethargic throughout the record.  
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow.  The overall pattern is a mixed frequency of 4 to 7 Hz theta with rhythmic delta.  There are some shifting asymmetries.  At times, there is a bit more arrhythmic delta on the left compared to the right.  There are rare, well-defined, high amplitude left anterior temporal sharp and slow wave complexes in this record.  At times, there is a bit more rhythmic theta identified from the right hemisphere. 
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Left temporal sharp waves.
+Subtle asymmetries with a bit more faster frequency activity on the right.
+CLINICAL CORRELATION: Compared to a previous study, there is less epileptiform activity seen in this study.  The overall background remains slow.  No seizures were recorded. 
+
+

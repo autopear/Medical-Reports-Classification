@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 3.5-year-old female who fell down eight carpeted stairs without loss of consciousness, but suffered a seizure in the EEG and a right occipital laceration.  Antecedent history of cerebral palsy, described as born at six-months gestation with a VP shunt and a history of epilepsy.  
+MEDICATIONS: Depakote, Trileptal, Phenytoin, 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The child is somewhat cooperative.  
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a markedly slow background  with poor organization.  In addition, there are high amplitude spike and slow wave complexes identified in this record, which are bihemispheric, but are maximum in the right posterior quadrant.   Review of these requires a transition to a sensitivity of 70 uV and the overall amplitude measures out at 300 uV.  Secondary bisynchrony is seen with discharges from the right hemisphere, again mainly in the right posterior quadrant followed by the left anteriotemporal region.  Poly spike and slow wave complexes are noted from the left centroparietal region as the child becomes drowsy.  The quiet waking recording is a mixture of rhythmic delta and smaller amounts of theta.  
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Absence of normal background rhythms anticipated for a child of this age.
+Multifocal spike and slow wave activity including markedly high amplitude spike and slow wave activity. 
+CLINICAL CORRELATION: No seizures were recorded.  This EEG supports a severe disturbance of cerebral function affecting both gray and white matter. No previous EEGs were available for comparison.   
+
+

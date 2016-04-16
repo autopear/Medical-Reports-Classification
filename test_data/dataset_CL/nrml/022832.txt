@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  66 year old man who presents with history of diabetes, hypertension, end stage renal disease, spinal stenosis, cirrhosis, encephalopathy, and COPD.  He was found unresponsive per daughter with symptomatic bradycardia, hyperphosphatemia, hyperkalemia, and acute renal failure.  EEG done for change in mental status.
+MEDICATIONS:  Zosyn.
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal electrode and a single lead EKG electrode.  The patient was recorded while lethargic and intubated.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 6 Hz and at times appears to be reactive to eye opening.  There is no normal frontal central beta seen and no normal sleep architecture can be observed.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:  Diffuse slow waves at a frequency of 2-4 Hz seen continuously throughout the recording with an amplitude of 20-40 mV. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific in regards to etiology, but may be seen in toxic 
+metabolic encephalopathy, as well as bilateral white matter disease and/or due to medication effect.  No seizures or epileptiform discharges were seen.
+
+

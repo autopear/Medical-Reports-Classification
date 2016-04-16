@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  21 year old man status post overdose, apnea, cyanotic, intubated on January 31, 2012, persistently obtunded.
+MEDICATIONS:  Zosyn, Vancomycin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated, but somewhat responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is slow and disorganized with a mixture of theta and delta.  Superimposed upon this, there is an asymmetry with disruption of faster frequency activity in the right hemisphere relevant to the left.  There is a broadly contoured, slow, periodic complex noted in the right hemisphere, including T4 and C4.  This is an intermittent finding. Stimulation of the patient produces an increase in faster frequency activity.  Later sections of the record are a bit more symmetric or with shifting asymmetries.   
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due to:
+Slow and disorganized pattern.
+Shifting slowing.
+Focal features on the right including disruption of faster frequency activity and some broadly contoured sharp waves.
+CLINICAL CORRELATION:  No seizures were recorded.  The focal features and the potentially epileptiform features were all subtle findings.  This EEG was discussed with the clinical team.
+
+

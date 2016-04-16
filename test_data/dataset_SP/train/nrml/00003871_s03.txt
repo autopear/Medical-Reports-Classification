@@ -1,0 +1,22 @@
+CLINICAL HISTORY: This is a 32-year-old woman with a history of deafness, pulmonary embolism, and epilepsy since childhood admitted for increased seizure activity.
+MEDICATIONS: Tegretol, Coumadin, and Zonegran.  
+INTRODUCTION: Digital video EEG is performed in the Long-Term EEG Monitoring unit using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric.  There is a 9 Hz, 30 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  During the day, no focal features or epileptiform discharges were seen.  In light sleep, a few sharp waves were seen in the left temporal region. Occasional paroxysmal focal slowing was seen in the right temporal area.  The patient slept very well, from 4:00 PM until the next day. Sleep is characterized by vertex waves, spindles, K complexes, and high amplitude delta activity.  In the first part of sleeping, prior to midnight, a high amplitude burst of hypersynchronous slowing was occasionally observed.  After midnight, only one pattern was observed.  No clinical activity was observed on the video camera. 
+EVENTS: No seizure activity was recorded and no push button events occurred.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Occasional left sharp wave activity and paroxysmal slow activity in drowsiness. 
+Long-Term Monitoring, 10/22/03 – 10/23/03
+CLINICAL HISTORY: This is a 32-year-old woman with a history of deafness, pulmonary embolism, and epilepsy since childhood admitted for increased seizure activity.
+MEDICATIONS: Tegretol, Coumadin, and Zonegran.  
+INTRODUCTION: Digital video EEG is performed in the Long-Term EEG Monitoring unit using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric.  There is a 9 Hz, 30 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  During the day, no seizures, focal features or epileptiform discharges were seen.  In random sleepiness, very few sharp waves were seen in the left temporal area.  Occasional right temporal focal slowing was identified.  The patient slept during the day and evening. Sleep is characterized by vertex waves, spindles, K complexes, and high amplitude delta activity.  The pattern of hypersynchronous, high amplitude slowing in sleep dramatically decreased in this portion of the record, but still can be seen.  
+EVENTS: No seizure activity was recorded and no push button events occurred.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Occasional left temporal sharp waves. 
+	Occasional right temporal focal slowing. 
+	
+CLINICAL CORRELATION: This two-day EEG monitoring demonstrates left sharp waves and right temporal focal slowing in drowsiness.  This may be suggestive of a partial mechanism for epilepsy in this patient.  No clinical seizure activity was recorded on the video camera.  The pathology for the pattern of hypersynchronous, high amplitude bursts of slowing in drowsiness or sleeping is not clear, but may be due to sleep deprivation.  However, this pattern dramatically reduced after the patient had two days of very good sleeping. 
+
+

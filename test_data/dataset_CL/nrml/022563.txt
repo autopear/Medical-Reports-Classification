@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 70 year old woman status post cardiac arrest on 07/2212010, evaluate for coma. 
+MEDICATIONS: Pantoprazole, Vancomycin, Zosyn, Nitroglycerin, Amiodarone, Insulin, dopamine, Heparin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated and poorly responsive. 
+DESCRIPTION OF THE RECORD: The background demonstrates a slow pattern with primarily theta and smaller amounts of delta. There is periodic sharp activity picked up in the record. This can include activity which is bifrontal. Other discharges demonstrate variability in the record and may be a bit more remarkable in the temporal regions or lower voltage and a bit more posterior. Intermittent attenuation is also observed. The best majority of the discharges are GPED generalized periodic epileptiform discharges, but some are maximum in the left frontal region or right mid to posterior temporal region. In addition some wave forms have triphasic morphology. Stimulation of the patient clearly activates the periodic complexes. There was variability in the record and prior to the stimulation of the patient the periodic complexes had abated briefly. 
+HR: 90 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized, periodic epileptiform activity. 
+2. Focal epileptiform activity. 
+3. Intermittent attenuation continuity. 
+CLINICAL CORRELATION: These findings support an irritative pattern post cardiac arrest. No seizures were recorded. Additional clinical evaluation may be appropriate. 
+
+

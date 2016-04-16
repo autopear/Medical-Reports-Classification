@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  78 year old right handed man with history of hyperlipidemia, prostate cancer, status post radical prostatectomy, hypertension, right ICA stenosis, subdural subarachnoid, status post syncope event in 07/2012, admitted with AICD infection, episodes of eyes rolled back, fell back and noted to having shaking for 1 minute, unresponsive for 3 minutes.
+MEDICATIONS:  Zosyn, Protonix, Zocor, Lovenox, Lisinopril, Keppra, K-Dur
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded while in wakefulness and sleep.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 8.5 Hz which appears to be reactive to eye opening.  There is some small frontocentral beta.  Activating procedures including photic stimulation produced no abnormal discharges.  Overall, the EEG produces a low amplitude recording with some muscle artifact, but some normal sleep architecture in stage 1 and stage 2 is seen.  
+ABNORMAL DISCHARGES:  Focal slowing seen almost continuously at F3, F4 with a loss of faster frequencies and attenuation in that region. 
+HR:   60 bpm, with some PVC’s and skipped ventricular beat.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Focal slowing and attenuation of faster frequencies in the frontal regions.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in bilateral frontal region, which is consistent with the known subdural and atrophy.  No seizures or epileptiform discharges were seen.
+
+

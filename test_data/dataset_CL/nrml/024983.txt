@@ -1,0 +1,12 @@
+	CLINICAL HISTORY: 	67 year old woman with a lung transplant, a 6-month hospitalization, previously awake and alert with MRSA, ARF, now with acute unresponsiveness.
+MEDICATIONS:  Bactrim, Darbepoetin, Nexium, Insulin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION  OF THE RECORD:  Background EEG is markedly  abnormal. There is a triphasic complex in the frontal regions with triphasic morphology with anterior to posterior lag. The activity does not evolve. The patient is awake and is somewhat agitated throughout the record. Stimulation of the patient does not significantly alter the record. Of note, noxious stimulation of the patient occurs when the patient is moving, with some oral automatisms. It does seem attenuate the triphasic-like activity. In
+addition to the triphasic activity., there is a bilateral, central parietal occasional sharp wave.
+Heart rate: N/A.
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Continuous period triphasic waves with anterior to posterior temporal lag.
+	2. 	Sharp. waves primarily picked up in the central parietal regions, right more than left.
+CLINICAL CORRELATION:  No seizures were recorded. This EEG is most supportive of a metabolic encephalopathy  but it could be a late ictal pattern as well.
+
+

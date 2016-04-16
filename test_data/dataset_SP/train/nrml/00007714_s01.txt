@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  59 year old gentleman with previous MCA infarct now with an episode on the 17th with abrupt deterioration, evaluate for ictal aphasia in the context of a significant baseline language disturbance.
+MEDICATIONS: Protonix, ASA, Heparin, Seroquel,  Sertraline, Tylenol
+INTRODUCTION: Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. There are multiple push-button events but no clinical seizures are identified.
+DESCRIPTION OF THE RECORD:  The overall background includes a well-organized pattern with a 9 Hertz alpha rhythm. There is a subtle asymmetry with higher amplitude activity in the right temporal region in comparison to the left. The overall background is relatively low voltage but there are sections of the record with rhythmic slowing in the left  temporal region.  In this 24-hour record there are extraordinarily rare left anterior temporal sharp waves or sharply contoured delta as well as a single right anterior temporal sharp wave.
+	HR:	78 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1.	Subtle changes in the left temporal region relative to the right including decrease in amplitude and a subtle decrease in faster frequency activity.
+	2.	Rare more sharply contoured rhythmic slowing in the left temporal region.
+	3. 	Extraordinarily rare left anterior sharp waves with a single right anterior temporal sharp wave.
+CLINICAL CORRELATION:   No seizures were recorded.  Given the patient's neurologic history, the findings described above are extremely subtle.
+		
+
+

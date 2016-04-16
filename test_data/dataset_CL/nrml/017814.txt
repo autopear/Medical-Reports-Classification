@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 19 year old right handed male with a past medical history of seizures since age 16, now presents with 2 to 4 a month with loss of consciousness and tonic-clonic shaking.
+MEDICATIONS:  Tegretol
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures were performed including photic stimulation and hyperventilation.
+TECHNICAL DIFFICULTIES:  Some CZ electrode artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9 to 10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded in wakefulness and drowsiness.  Activating procedures were performed.  Photic stimulation produced no abnormal discharges; however, some abnormal discharges are seen during hyperventilation; see below. 
+ABNORMAL DISCHARGES:  During the recording, there are various bursts of generalized slowing at 2 to 4 Hz; however, intermixed with this slowing there are discrete bursts of well-formed generalized spikes and waves at a frequency of 4.5 to 5 Hz with a very high amplitude of about 80 to 100 microvolts.  These bursts last a maximum of 3 to 4 seconds and the patient appears to be able to count during them.  There does not appear to be any clear asymmetry, either. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Bursts of generalized spike and wave.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of idiopathic generalized epilepsy.  No seizures were seen.
+
+

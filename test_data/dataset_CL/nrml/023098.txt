@@ -1,0 +1,14 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  A 66-year-old man with a history of a recent seizure in the store with fall, bleeding in the right ear, and seizure with twitching with continuous change in mental status.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded while awake and drowsy. Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  Some movement artifact while awake.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no abnormal posterior dominant rhythm.  There is some mild frontal central beta seen intermittently.  There is some reactivity to the EEG and minor viability between delta and theta frequencies.   
+Seizures:  None. 
+Abnormal discharges:  Generalized slow waves at 2-4 Hz at an amplitude of 20-40 mV. 
+Heart rate:  120 with frequency premature ventricular complexes.
+IMPRESSION:  Abnormal EEG due to mild to moderate diffuse cerebral dysfunction.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were clearly seen.
+__________________________
+
+

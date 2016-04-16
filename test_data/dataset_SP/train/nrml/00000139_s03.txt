@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  50 year old right handed female with a history of atrial fibrillation, congenital heart disease, obstructive sleep apnea, hypertension, diabetes, and epilepsy since age 12, described as tonic-clonic seizures during sleep occurring frequently.
+MEDICATIONS:  Phenobarbital, Dilantin, Toprol, Pantoprazole, Bumetanide, Lanoxin, Diovan, Metolazone.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video baseline routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 9 Hz which is reactive to eye opening.  The patient is recorded in wakefulness and sleep, stage I and stage II.  Activating procedures include hyperventilation with which she had a poor effort and did not reveal any abnormalities, and photic stimulation which caused no abnormalities.  Please note that the patient was mainly in sleep during the recording and there appeared to be an excessive beta seen diffusely throughout the recording. 
+ABNORMAL DISCHARGES:  Focal slow waves seen intermittently at F7/T3 and symptoms at T3 at a frequency of 2 to 4 Hz and amplitude of 20 to 60 microvolts.  Please note, there was right frontal and left frontal single focal slowing seen in the recording once at F4 and F3 independently.
+SEIZURES:   None
+IMPRESSION:  Abnormal EEG due to: 
+Left anterior temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of left anterior temporal focal cerebral dysfunction, which is nonspecific in regard to etiology.  No seizures or epileptiform discharges are clearly seen.
+
+

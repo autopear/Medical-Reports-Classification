@@ -1,0 +1,9 @@
+	CLINICAL HISTORY: 	Seventy-eight-year-old woman evaluated for encephalopathy, lethargy, headache, right earache, mastoiditis and possible meningitis.
+	MEDICATIONS: 	Lovenox, Keppra, Vancomycin, Decadron, others.
+	INTRODUCTION: 	Digital video EEG is performed in lab using standard 10/20 system of electrode placement with 1 channel of EKG.
+	DESCRIPTION  OF THE RECORD: 	Background EEG is abnormal. There are portions that are well-organized with 8 hertz in the background. Others demonstrate bursts of rhythmic frontal delta and triphasic waves. Photic stimulation does not activate the record.
+	HR: 	72 BPM.
+	IMPRESSION: 	Abnormal EEG due to a paroxysmal pattern with mild to moderate background slowing interspersed with primarily predominant delta and triphasic waves.
+	CLINICAL CORRELATION: 	No epileptiform features were seen. No seizures were recorded. These findings are nonspecific and can be seen in the context of meningitis or toxic or metabolic encephalopathy.
+
+

@@ -1,0 +1,16 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  An 82-year-old woman with seizures for the past 4 years.  The last seizure was a year ago with staring and twitching.
+MEDICATIONS:  Keppra, temazepam, Norvasc.
+INTRODUCTION:  A routine EEG was performed using a standard 10-20 electrode placement system with the addition of anterior  temporal and single lead EKG electrode.  The patient was recorded during wakefulness.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  There was continuous T3 electrode artifact as well as continuous F4 electrode artifact seen throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9-10 Hz, which is reactive to eye opening.   
+There is normal frontocentral beta.  The patient is recorded in wakefulness.  Activating procedures included photic stimulation that produced no abnormal discharges.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen rarely at T4 during wakefulness.
+Focal slow waves seen frequently at T4, at times appearance slightly monomorphic and independently at T3, both of them at a frequency of 2-4 Hz and an   amplitude of 20-60 microvolts.  Please note that at T3 there is electrode artifact which does affect the complete evaluation of the region.
+HEART RATE:  66.
+IMPRESSION:  Abnormal EEG due to right mid temporal focal sharp waves and slowing as well as independent left mid temporal focal slowing.
+CLINICAL CORRELATION:  This EEG is consistent with a  diagnosis of localization of related epilepsy with seizures likely arising from the right mid temporal region.  In addition, there is evidence of bilateral independent mid temporal focal slowing (right more than left), which is nonspecific with regards to etiology.  No seizures were seen.  Please note that these findings are similar to the ones on the EEG performed on 11/04/2009, where focal slowing was seen on the right, but no sharp waves were seen.
+__________________________
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 39-year-old woman with a first ever tonic,clonic seizure at home on an unknown date, awoke in an ambulance.  Restless leg syndrome, chronic back pain.
+MEDICATIONS:  Keppra, OxyContin, Elavil.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is appropriately organized for an adult of this age.  There is a 9 Hz mu rhythm.  Using frequency analysis, the alpha rhythm is notched and includes an 8.5 Hz and a 9-9.5 Hz peak.  This is not something that is otherwise easy to identify visually.   
+Drowsiness is characterized by slow rolling eye movements with an increase in background slowing and a few bursts of paroxysmal theta.  Hyperventilation produces an increase in slowing bilaterally.  Photic stimulation elicited bilateral  driving. 
+Heart rate 102 BPM.
+IMPRESSION:  This EEG is within normal limits.
+CLINICAL CORRELATION:  The bifed alpha population is something picked up using computer tool and is not something that is otherwise seen visually.  No seizures or epileptiform features were seen.  To further characterize this patient's epileptiform activity, a repeat tracing with more extensive sleep may be of value.
+
+

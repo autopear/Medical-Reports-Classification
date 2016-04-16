@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a __-year-old woman…
+MEDICATIONS: Dilantin, Topamax, Percocet. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. No seizures were recorded.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is a posterior dominant rhythm of approximately 8.5 Hz, 30 to 50 uV.   There is excess background theta and there is some intermittent, rhythmic delta activity, which may be identified with a phase reversal in the right or left temporal region.  As the patient becomes drowsy, there are occasional left temporal sharp and slow wave complexes. Deeper stages of sleep are not sustained. Hyperventilation is performed with good effort and produces a small increase in the amplitude of the background.  Photic stimulation elicits brief bilateral driving. 
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Excess background slowing.
+Rhythmic, right or left temporal theta/delta.
+Left temporal sharp waves.
+CLINICAL CORRELATION: This tracing is similar to previous studies for this patient.  No seizures were recorded.  
+
+

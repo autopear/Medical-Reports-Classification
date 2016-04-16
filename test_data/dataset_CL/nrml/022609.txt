@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  A 51-year-old male with a history of seizures ever since he was a child, last one 1 year ago.  Before the seizure he gets nervous, has loss of consciousness with generalized tonic/clonic shaking, urinary incontinence, and tongue biting.  Afterwards he is confused.
+PAST MEDICAL HISTORY:  Arthritis, asthma, cataracts, prostate problems, and hypertension.
+TECHNICAL DIFFICULTIES:  None.
+HEART RATE:  66.
+MEDICATIONS:  Valproic acid, loperamide, methocarbamol, and risperidone.
+INTRODUCTION:  A routine EEG was performed using standard 10-20 system electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  The patient is recorded in wakefulness and drowsiness.  Activating procedures included photic stimulation which produced no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+IMPRESSION:  Normal awake and drowsy EEG.
+CLINICAL CORRELATION:  This is a normal awake and drowsy EEG.  No seizures or epileptiform discharges were seen.
+
+

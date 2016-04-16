@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 54 year old male, status post head trauma with right craniotomy. 
+MEDICATIONS: Phenytoin, Codeine, Gentamicin, Hydriazine, Oxacillin, Acetaminophen 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Craniotomy defect is noted on the right. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a slow background. There are sections when the patient is awake with a 10 Hz alpha rhythm identified on the left compared to the right. The right hemisphere demonstrates a more significant slowing of more of a mixture of delta and some theta. There is some sharply contoured slowing in the right hemisphere, in particular the central and temporal regions. With stimulation the patient's breech rhythm is most prominent in the right frontal regions and there are some sections of the record with some double phase in reverse artifact, but some sharply contoured triangular waves in the right posterior quadrant. 
+HR: 120bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Modest slowing from the left hemisphere. 
+2. Focal slowing on the right. 
+3. Disruption of faster frequency activity on the right. 
+4. Some sharply contoured triangular shaped waves in the right posterior region. 
+5. Some sharply contoured waves in the right central temporal region. 
+CLINICAL CORRELATION: This EEG supports a structural abnormality on the right congruent with the patient's clinical history. No seizures were recorded. If epilepsy is an important consideration, a repeat tracing as this patient recovers from his neurological injury is to be considered.
+ 
+
+

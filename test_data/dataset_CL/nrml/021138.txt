@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  A 55-year-old woman with lifelong epilepsy, previous nuchal cord, severe psychiatric symptoms now with episodes of almost a visual hallucination and a recent worsening seizure when she was taken off of extended release medications.
+MEDICATIONS:  Tegretol XR.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness the background EEG is disorganized.  There is a glimpse of a 10 Hz alpha rhythm with excess theta.  There are bursts of sharps and contoured shifting noted.  These are maximum in the temporal regions.  Hyperventilation seems to accentuate left temporal focal slowing.  As the patient drifts off to sleep, there is a bit more right temporal focal slowing.  Photic stimulation elicits bilateral driving. 
+Heart rate 96 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+A disorganized background.
+Sharply contoured slowing noted from either hemisphere.
+Sharply contoured slowing with phase reversal noted in both the left and the right anterior temporal region.
+CLINICAL CORRELATION:  Although previous EEGs were not available, this is a patient with a long history of an abnormal EEG.  This EEG supports a bihemispheric process.  No seizures were recorded.
+
+

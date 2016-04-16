@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  44 year old left handed female with refractory seizures, GERD, hyperlipidemia, DVT, PE, asthma, diabetes, and hypertension who complains of chest pain.  She did not take Zonisamide this morning.
+MEDICATIONS:  Zonisamide, Lisinopril, Percocet, Narcan, Zocor, Lovenox, ASA.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 10 Hz, which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures produce no abnormal discharges.  The patient is recorded in stage I and stage II sleep. 
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen frequently at F7/T1.
+Focal slow waves seen almost continuously at F7/T1 throughout the recording.  
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left anterior temporal sharp waves. 
+Continuous slowing.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization-related epilepsy, with seizures likely arising from the left anterior temporal region.  In addition, there is evidence of focal cerebral dysfunction in the left anterior temporal region, which has a high correlation with a structural lesion in that region.  No seizures were seen.
+
+

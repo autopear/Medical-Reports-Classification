@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 57-year-old woman with a CVA in 2003 with left hemiplegia and hypertension.  Evaluate for intracerebral hemorrhage.  
+MEDICATIONS: Aspirin, Lipitor, Zantac, folate, multivitamin, Senna.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is obese, lying flat with something on her neck, but does not appear to have a tracheostomy.  
+DESCRIPTION OF THE RECORD: The activity from the right hemisphere is reasonably well organized, somewhat slow, at best with an alpha/theta frequency background and with an alpha rhythm of typically 8 Hz.  In contrast, the left hemisphere demonstrates arrhythmic delta, disruption of faster frequency activity, and periodic waves or sharp waves in the left hemisphere with an unusual field of spread more typically maximum in the centrotemporal region, at times almost with a double phase reversal, but also with a clear periodic morphology.  With the use of an average reference, there is clear arrhythmic delta emanating from the left frontotemporal region in an otherwise relatively slow background as the patient drifts off to sleep.  In addition, there are some periodic sharp waves in the left hemisphere with a generous field of spread into the posterior temporal region.  There are also some left frontotemporal sharp waves, which demonstrate an anterior maximum using the same average reference technique. 
+HR:  60 BPM.
+	IMPRESSION: Unusual and abnormal EEG due to:
+	Intrahemispheric asymmetry, which is remarkable in that it is on the left for an individual described as having a left hemiplegia.
+	Sharply contoured activity also from the left, again suggesting an irritative and potentially epileptogenic process in the same region.  
+	
+CLINICAL CORRELATION: No seizures were recorded.  It may be valuable to review these findings with the imaging for imaging congruence.  
+
+

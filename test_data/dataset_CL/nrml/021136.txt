@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  57 year old right-handed male with glioblastoma multiforme and increasing drowsiness.
+MEDICATIONS:  Dexamethasone, Insulin, Lovenox, Protonix, Metoprolol, Oxycodone, Keppra, Trileptal, Hydralazine
+INTRODUCTION:   Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.
+The patient is somnolent.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a severely slow pattern with an intrahemispheric asymmetry, more beta activity on the left and left parietal (P3) sharp waves. Stimulation of the patient produces a brief arousal. This record is slower than the previous study.  In addition, there is a single right parietal sharp wave
+	HR:	96 bpm
+IMPRESSION: Abnormal EEG due to:
+	1.	Generalized background slowing.
+	2.	lntrahemispheric asymmetry with breech rhythm on the left.
+	3. 	Left parietal sharp waves.
+CLINICAL CORRELATION:   Compared to the previous study, this EEG is somewhat slower and there is more beta activity compatible with medications.  No seizures were
+recorded.
+·-·
+
+

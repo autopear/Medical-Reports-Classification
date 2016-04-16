@@ -1,0 +1,17 @@
+CLINICAL HISTORY:  56 year old woman with history of progressive epileptic encephalopathy presented with 2 episodes of generalized tonic/clonic seizures and right arm shaking as well as facial twitching.
+MEDICATIONS:  Dilantin.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with anterior temporal electrodes and EKG electrode.  The patient was recorded while awake and asleep.  No activating procedures were performed.
+DESCRIPTION OF RECORD:  The EEG opens to a diffusely slow record with a marked asymmetry and slowing over the right hemisphere.  No clear posterior dominant rhythm is seen and no normal frontal or central beta seen.  There are some stages changes noted during the EEG, but no normal sleep architecture is seen.  No activating procedures are performed.
+TECHNICAL DIFFICULTIES:  None.
+ABNORMAL DISCHARGES:  
+Frequent F8/T4 sharp waves as well as C4 sharp waves.
+Focal slow waves in the right hemisphere, maximal at T4, T6.  These slow waves at times appeared to become monomorphic and rhythmic; however, they do not clearly evolve in frequency and appear to be related to arousal of the patient.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:  
+Focal sharp waves in the right anterior temporal as well as mid and central temporal region.  
+There are additional focal slow waves in the right hemisphere. 
+Diffuse slow waves seen in the recording.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of localization-related epilepsy arising from the right central temporal region.  There is additional evidence of right hemisphere, maximal on the right posterior temporal region cerebral dysfunction, which is consistent with the known hemiatrophy in that region.  No clear seizures were seen.
+
+

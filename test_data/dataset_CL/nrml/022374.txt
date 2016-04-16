@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Episodes of confusion.
+CLINICAL HISTORY:  This is a 63-year-old woman with acute confusion, has not had similar symptoms in the past.  She has a past medical history of diabetes and a stroke.
+MEDICATIONS:  Metformin, Plavix, Zyrtec, hydrochlorothiazide.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included hyperventilation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There was normal frontal central beta.  The patient was recorded during wakefulness and sleep stage I and stage II.  Activating procedures included hyperventilation which produced no clear abnormal discharges.   
+Heart rate 84.
+ABNORMAL DISCHARGES:  Focal slow waves seen intermittently at T3 at a frequency of 2-4 Hz and an amplitude of 20-50 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to left midtemporal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left midtemporal region, which is not specific with regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  This is a 78-year-old woman with chief complaint of dizziness and headaches.  Per patient, for the past 6 months, everyday she has had the symptoms.  Last couple of days symptoms last couple of seconds and she feels pressure in the head.  The patient also feels faint at times for the past month without falls.
+MEDICATIONS:  Metoprolol, meclizine, lovastatin, valsartan, hydrochlorothiazide, amlodipine, Risperdal, gabapentin, sertraline.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional single lead EKG electrode.  This patient was recorded during wakefulness and drowsiness, and photic stimulation was also performed.
+DESCRIPTION OF THE RECORD:  In most awake state, posterior dominant rhythm is 9 Hz and is located in the posterior region.  There is diffuse low amplitude beta activity distributed symmetrically.  Drowsiness is characterized by disappearance of posterior dominant rhythm and lack of blink artifact and muscle artifact.  Photic stimulation induces driving response.  There are 5-6 Hz frequency independent bifrontal temporal slowing during wakefulness and drowsiness.  There are no seizures or epileptiform discharges seen on this record. 
+Heart rate is 66 BPM.
+IMPRESSION:  This is an abnormal EEG due to,
+Bilateral independent frontotemporal slowing during wakefulness and drowsiness.
+There are no seizures or epileptiform discharges seen.
+CLINICAL CORRELATION:  Bifrontal temporal slowing is suggestive of bilateral cerebral dysfunction in these areas. Clinical correlation is recommended.  Diffuse beta activity can be seen due to medications like benzodiazepine or barbiturates. There are no epileptiform activity in this recording. If seizure is a clinical concern, repeat EEG capturing deeper stages of sleep or a long-term monitoring EEG is recommended.
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  50 year old right handed man with episodes of confusion and memory problems with a history of anxiety and depression.
+MEDICATIONS:  Paroxetine, Wellbutrin, Benztropine, Omeprazole, Meclizine, Hydrochlorothiazide.
+REASON FOR EEG:  Confusion.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed. Wakefulness and drowsiness, stage I sleep are recorded.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm of 9 Hz with an amplitude of 20-70 microvolts which is reactive to eye opening. Wakefulness and sleep stage I are seen. Photic stimulation and hyperventilation produce no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  No seizure or epileptiform discharges were seen.
+
+

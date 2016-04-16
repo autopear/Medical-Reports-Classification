@@ -1,0 +1,13 @@
+CLINICAL HISTORY:   59 year old male with a multiple episode of loss of consciousness, bradycardia, and hypertension.  One episode was associated with bowel incontinence.  Past medical history is significant for neck mass.  The patient apparently needed a pacemaker, but he was refusing.  The patient had a questionable episode prior to EEG with confusion, garbled speech.  The patient was clammy and sweaty at the time.
+MEDICATIONS:  Atropine, Lovenox, Isopril
+REASON FOR STUDY:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrodes.  The patient was recorded during wakefulness and stage I and II sleep.  Activating procedures, including photic stimulation and hyperventilation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined, but low voltage, posterior dominant rhythm at 9-10 Hz, which was reactive to eye opening.  The patient has a low voltage background with a transition into sleep, in and out of sleep stage II.  The patient was difficult to wake up during the EEG monitoring.  The patient showed a normal pattern toward the end of the EEG. Activating procedures, including hyperventilation and photic stimulation, produced no abnormal discharges. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG with low voltage.
+CLINICAL CORRELATION:  There was no seizure or epileptiform discharges seen.   
+Note:  The low voltage EEG is a normal finding.
+
+

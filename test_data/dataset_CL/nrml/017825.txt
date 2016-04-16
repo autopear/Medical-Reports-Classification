@@ -1,0 +1,18 @@
+CLINICAL HISTORY:   73 year old woman with a history of left-sided weakness, low speech and confusion with episodes of twitching of the left hand and twisting of the leads on follow up EEG.
+MEDICATIONS:  Dilantin, Tylenol
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with the addition of anterior temporal single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures were not performed. 
+TECHNICAL DIFFICULTIES:  Some movement artifact.
+DESCRIPTION OF RECORD:  The record opens to a posterior dominant rhythm that reaches 9-10Hz and reactive to eye opening. However, the posterior dominant rhythm can be best seen over the left hemisphere and is very attenuated over the right hemisphere.  There is frontocentral beta seen mainly over the left hemisphere also, not that clearly seen over the right, although there is some.  The patient was recorded in wakefulness and drowsiness.  Activating procedures were not performed.        
+ABNORMAL DISCHARGES:  
+Focal slow waves seen continuously at F8/T4 at a frequency of 2-4 Hz with an amplitude of 20-70 microvolts.     In addition to this there is attenuation of the faster frequencies over the temporal region at T4.  
+Focal sharp waves seen rarely at T4. 
+Focal slowing seen at F7/T3 at 2-4 Hz with an amplitude of 20-60 microvolts seen occasionally.    
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Right temporal slowing. 
+Attenuation and infrequent sharp waves. 
+Infrequent left anterior temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cortical structural cerebral dysfunction ______________arising from the right mid=temporal region.  In addition there is evidence of focal cerebral dysfunction in the left anterior temporal region which is non-specific with regards to etiology.  No seizures were seen.
+
+

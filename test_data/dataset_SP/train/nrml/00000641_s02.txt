@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 84 year old right handed man with past medical history of Alzheimer's, hypertension, diabetes, hyperlipidemia, coronary artery disease, and tremors who presents with increase of tremors.
+MEDICATIONS:  Metoprolol, Glipizide, Simvastatin, ASA
+REASON FOR EEG:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with anterior temporal electrodes and EKG electrodes.  The record was only in wakefulness.  No activating procedures were performed.
+DESCRIPTION OF THE RECORDING:  The recording opens to a wakeful EEG with posterior dominant rhythm that are best reaches 9 Hz and is symmetric reactive to eye opening.  There is some frontal central beta seen.  No sleep is recorded.  No activation procedures were performed.
+TECHNICAL DIFFICULTIES:  There is marked muscle artifact throughout the recording due to jaw tremor, which would not improve.
+ABNORMAL DISCHARGES:  None.  Please note that there is marked amount of muscle artifact due to jaw tremor during the recording.
+IMPRESSION:  Normal awake EEG.
+CLINICAL CORRELATION:  This limited awake EEG reveals no abnormal discharges.  If the clinical suspicion of seizures, a repeat EEG capturing deeper stages of sleep may aid in obtaining epileptiform abnormalities.  No seizures or epileptiform discharges were seen.
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  82 year old woman with a large left-sided lesion, no new events reported since May 12.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is awake.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates an intra-hemispheric asymmetry. It is a bit slow and disorganized on the right, but there is a 9 Hz alpha rhythm.  The hemisphere demonstrates disruption of faster frequency activity particularly in the temporal regions with occasional sharp waves in the left temporal region which may be anterior temporal or mid to posterotemporal.  Features of drowsiness include an increase in slowing as well as an accentuation of arrhythmic delta activity in the left temporal region. 
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing in the left temporal region.
+Occasional left temporal sharp waves.
+Mild slowing from the right.
+CLINICAL CORRELATION:  No seizures were seen.  Overall, this EEG is significantly better than the previous study.
+
+

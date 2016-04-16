@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 33-year-old male with epilepsy after a left frontal brain tumor resection.  
+MEDICATIONS: Trileptal.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. There is no mention as to whether or not the patient has seizures, but a left frontal craniotomy is observed. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an intrahemispheric asymmetry.  The left hemisphere demonstrates higher amplitude, irregular slowing with disruption of faster frequency activity and sharp waves in the left temporal region with some variability – some mid-temporal, anterior temporal, and a few frontal temporal.   The right hemisphere demonstrates a significantly lower background with beta and a small amount of excess theta.  As the patient becomes drowsy, there is an increase in beta activity in the frontal regions, left greater than right.  Occasional vertex waves and spindles are identified, again with a higher amplitude on the left than the right.  The sharp waves persist into stage II sleep.  Photic stimulation is performed while the patient is drifting off to sleep.  There is a small degree of driving.  Other features of stage II sleep include a beta asymmetry with beta spindles, higher in amplitude and more intense on the left.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Left frontotemporal focal slowing. 
+High amplitude left frontotemporal sharps and spikes.
+Beta asymmetries. 
+CLINICAL CORRELATION: No seizures were recorded.  This EEG supports a structural abnormality on the left involving both gray and white matter, as well as a previous craniotomy with a breach rhythm.  This is an active epileptiform focus, but no seizures were recorded.  
+
+

@@ -1,0 +1,15 @@
+		.....
+CLINICAL HISTORY:  74 year old male with renal failure, IVDA, admitted with status epilepticus.
+MEDICATIONS:   Pantoprazole,  Depacon, Darbepoetin, Heparin, Insulin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated, but awake.
+DESCRIPTION OF THE R ECORD:  Background EEG is markedly abnormal with a slow, featureless delta pattern with a small amount of theta. There is some degree of variability with some sections of the record demonstrating more theta than others. A periodic complex is identified in the left hemisphere  sometimes in the left anterior temporal, but other times posterior temporal region. There are also some independent right hemispheric  sharp waves as well as triphasic waves. Stimulation of the patient does not significantly activate the record
+	HR: 	120 bpm
+IMPRESSION:   . Abnormal EEG due to:
+	1. 	Markedly abnormal background with delta.
+	2. 	Frequent periodic sharp waves on the left.
+	3. 	Rare sharp waves from the right hemisphere.
+	4. 	Triphasic waves.
+CLINICAL CORRELATION:   This EEG supports a severe underlying  encephalopathy. In addition, the periodic sharp waves support a potential for seizures. No seizures were recorded
+in this record. Although stimulation did not produce a change in the background, the patient was described as awake.
+
+

@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 53-year-old male with longstanding refractory epilepsy, now with crescendo seizures, seizure-related fall, and complaint of left-sided numbness.  
+MEDICATIONS: Dilantin, Depakote, Zonisamide. 
+INTRODUCTION: Continuous video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. The patient experienced one seizure. 
+SEIZURE TIME 17:00: The patient is awake and undergoing neurologic testing.  The physician is at the bedside.  Unfortunately, the patient unplugs himself during the seizure.  
+DESCRIPTION OF THE EVENT: The patient is speaking.  They are conducting a mental status examination.  At 17:02:09, the patient shifts.  Because there is a clinical team present, it is clear that there is a change in behavior that is not part of a normal pattern of behavior.  As he shifts at 17:02:09, there isn’t a clear ictal change.  There is frequent eye blinking and a bit of attenuation.  By 17:02:19, there is clear ictal behavior with head turning to the left, automatisms of the left, and despite a great deal of movement artifact, there is some underlying theta from the right hemisphere identified from both the temporal regions, which can be seen with the 35 Hz filter and the notched filter.  The left, unfortunately, has a fair amount of muscle, but the activity seems to be more intense on the right compared to the left, again with a caveat with the problems with muscle on the left.  The T1/T2 electrodes are also involved.  By 10:02:45, the activity has started to generalize and the patient is demonstrating more of a flexed than a typical tonic position and then tonic-clonic activity.  The patient is lying on his back.  The EEG looks more like tonic activity, but behaviorally is more subtle motor with his hand in a flexed position.  The seizure ends at 17:02:33.  Significant postictal slowing is identified.  The patient is agitated at 17:04 and the EEG becomes unplugged.  There is a delay and then the patient is re-plugged in later on.  
+EVENT TIME 20:17:11: The patient is in the room walking about.  There is a little bit of left temporal theta.  Unfortunately, there is also some muscle on the right.  No epileptiform activity is seen with this event.  
+EVENT TIME 20:19:  The patient is off camera.  This appears to be an accidental push button.  
+RANDON WAKEFULNESS AND SLEEP: The overall waking background is unremarkable.  There is a subtle asymmetry with a bit more higher amplitude activity from the left temporal region than the right, but the parasagittal regions are symmetric.  In comparison to the baseline, there is less in the way of epileptiform activity identified in the overnight recording.   
+HR:  __ BPM.
+	IMPRESSION: **NOT DICTATED**
+CLINICAL CORRELATION: **NOT DICTATED**
+Awaiting final days
+
+

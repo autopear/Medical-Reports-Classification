@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 53-year-old male with recurrent seizures with right parietal hemorrhage, alcohol abuse, and a history of head trauma 24 hours previous.
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The patient is drowsy or in stage II sleep throughout much of the record.  In drowsiness and in stage II sleep, the major abnormality is focal slowing from the right hemisphere maximum in the posterior temporal and centrotemporal regions.  There is a subtle, underlying sharp wave at T6 in association with this activity.  Normal features of drowsiness include slow rolling eye movements with vertex waves and spindles identified.  The spindles are present bilaterally.  Brief arousals are associated with a posterior dominant rhythm, which on occasion is glimpsed at 10 Hz, 30 V on the left, but disrupted on the right. 
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Focal slowing from the right hemisphere maximum in the posterior temporal or central parietal regions. 
+Underlying sharp waves seen intermittently with this rhythmic slowing, maximum at T6.
+Pathologic drowsiness.
+CLINICAL CORRELATION: This tracing supports a partial or focal mechanism for epilepsy, as well as an underlying structural or functional abnormality effecting both gray and white matter as well as a diffuse disorder of cerebral function.  No seizures were recorded. 
+
+

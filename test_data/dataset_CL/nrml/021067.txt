@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  29-year-old lady with history of complex partial epilepsy described as staring and sometimes walking aimlessly without her knowledge.  This is usually preceded by an aura of kind of feeling funny.
+MEDICATIONS:  Zonisamide, valproic acid.
+INTRODUCTION:  Digital video EEG was performed using the standard 10-20 system of electrode placement with one channel of EKG.  The EEG was recorded during awake and stage I sleep. Activating procedures were not performed.
+TECHNICAL PROBLEMS:  None.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a posterior dominant rhythm of 10 Hz frequency and 30-50 microvolts in amplitude which is symmetric and reactive to eye opening.  There is frequent focal slowing seen at F7-T3 with 2-4 Hz frequency and 20-40 microvolts amplitude.  There area frequent F7-T3 sharp waves seen with some having large spread to F3.  Seen in both wakefulness and sleep.  There are independent F8-T4 sharp waves seen mostly in sleep.  There is also independent focal slowing seen at F8-T4.  Stage I sleep was achieved which was characterized by vertex waves.   
+Hyperventilation and photic stimulation were not performed.
+ABNORMAL DISCHARGES:  
+Frequent F7-T3 sharp waves seen in awake and asleep recording.
+Rare F8-T4 sharp waves seen mostly in sleep.
+Frequent focal slowing at F7-T3.
+Independent occasional right focal slowing at F8-T4.
+SEIZURES:  None.
+IMPRESSION:  This is an abnormal EEG because of frequent left anterior temporal sharp waves, and rare right anterior temporal sharp waves.  Also seen is frequent focal slowing in the left anterior temporal region and rarely in the right anterior temporal region.
+CLINICAL CORRELATION:  This EEG is consistent with localization related epilepsy with seizures arising from left anterior temporal region greater than the right anterior temporal region.  This indicates focal cerebral dysfunction and irritability in bilateral anterior temporal regions independently with high epileptogenic potential.
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY: This is a 79-year-old male found unresponsive with a collapsed lung.
+MEDICATIONS: Vecuronium, Ativan, Versed, Lipitor, and Coumadin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an 11-minute study due to this patient’s acute medical issues. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the background EEG demonstrates a continuous, mixed frequency pattern with generous beta and smaller amounts of delta.  There is some sharply contoured transience picked up at T1-T3 and T2 to F8.  Stimulation of the patient produces a small increase in the beta activity.  The central regions are richer in activity than the temporal regions, and the right temporal region may be a bit more suppressed than the left.  There is variability in this record, some portions of the record are richer in beta than others, and towards the close of the record there is a bit more muscle artifact.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal 11-minute EEG due to:
+	1.	Generalized background slowing. 
+CLINICAL CORRELATION: No seizures were recorded and no epileptiform features were identified.  The focal features described above should be evaluated cautiously given the limitations described above.  
+
+

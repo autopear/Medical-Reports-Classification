@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  Adult female found after a seizure in a grocery store with 2 tonic-clonic seizures in the emergency room, persistent postictal confusion.
+MEDICATIONS:  Dilantin, Ativan, Keppra, others.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the EEG monitoring unit using standard 10-20 system of electrode placement with one channel of EKG.  Seizure and spike detection software was utilized.  No clinical seizures were noted.  Behaviorally, although the patient was confused, she was increasingly awake and interactive over the course of the EEG.
+DESCRIPTION OF THE RECORD:  The initial hours of the EEG monitor demonstrate a very slow background on the right with a bilaterally slow pattern and nearly continuous arrhythmic delta activity in the left hemisphere.  As the recording continues, the patient is increasingly awake and when she is awake, the epileptiform activity attenuates.   
+In wakefulness, there is intermittent arrhythmic delta activity with discrete spikes or sharps or fast activity in the left hemisphere with a relatively generous field of spread, typically maximum at F1 but clearly involving T3, T5 and even C3-F3.  The activity is generally low voltage and discrete. 
+Over the course of the recording, the sleep pattern more consistently demonstrates the arrhythmic delta activity and the fast activity.  It is somewhat periodic but does not evolve into seizures. 
+By the morning of the 30th, the patient is more consistently awake, following commands.  Although she remains confused.  The sleep pattern continues to demonstrate the same phenomenon. 
+Heart rate 72 bpm.
+IMPRESSION:  Abnormal continuous video EEG monitoring due to: 
+A dynamic pattern with arrhythmic delta activity, periodic delta activity and sharp waves from the left hemisphere, improving over time. 
+Ongoing, epileptiform activity, prominent in sleep with fast activity or discrete spikes and periodic delta noted from the left temporal region.  
+A pattern of bilateral background slowing, right and left which has improved significantly with the reappearance of an alpha rhythm by the end of the recording.
+CLINICAL CORRELATION:  Although this remains a prominently epileptiform EEG in sleep, no seizures were recorded and the overall pattern was improving.  Of note, the patient was following commands and was out of bed although confused by the end of the EEG session on the 30th.
+
+

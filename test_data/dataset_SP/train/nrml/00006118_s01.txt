@@ -1,0 +1,14 @@
+	CLINICAL HISTORY: 	Seventy-year-old with GI bleed, metabolic acidosis, shock, acute renal failure and heart failure.
+		MEDICATIONS: 	Ciprofloxacin, multiple antibiotics and Ativan. INTRODUCTION: 		Digital video EEG is performed at bedside in ICU using
+standard 10/20 system of electrode placement with 1 channel of EKG.
+The patient is somnolent but arousable.
+	DESCRIPTION OF THE RECORD:	Much of the EEG demonstrates a slow or sleep pattern. The morphology is compatible with sleep including
+vertex waves. Brief arousals are associated with a lower voltage mixed
+frequency pattern with theta and delta. Stimulation of the patient produces an increase in faster frequency activity. When left unstimulated, occasional, very slow generalized arrhythmic delta activity is identified.
+HR: 120 BPM.
+	IMPRESSION: 	Abnormal EEG due to:
+1. Mixed frequency slow background.
+	2. 	Occasional prominent, very slow arrhythmic delta.
+	CLINICAL CORRELATION: 	These features are nonspecific and can be seen in a toxic or metabolic encephalopathy. The presence of reactivity, as well as some normal sleep waveforms are positive prognostic features. No seizures nor epileptiform features were identified.
+
+

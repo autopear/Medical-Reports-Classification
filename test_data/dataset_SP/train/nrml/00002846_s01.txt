@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is an 86-year-old woman status-post multiple strokes in the past and recent surgical laminectomy for cervical stenosis, now with change in mental status. 
+MEDICATIONS: Morphine, Percocet. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient has a hard collar on and an NG tube but is otherwise awake or lethargic. 
+DESCRIPTION OF THE RECORD: The background EEG is poorly organized and slow.  Some portions of the EEG are obscured by muscle artifact.  There is a posterior dominant rhythm identified intermittently of approximately 7 Hz, 20 V present bilaterally.  There are occasional bursts of frontally predominant rhythmic 1 to 2 Hz delta activity, as well as rare bursts of arrhythmic delta from the right.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing and poor organization. 
+Superimposed focal slowing from the right.
+FIRDA.
+CLINICAL CORRELATION: In this clinical context, the features described above are non-specific and may be due to toxic or metabolic encephalopathy, previous cerebrovascular disease, and/or age-related changes. No epileptiform features were seen and no seizures were recorded.
+
+

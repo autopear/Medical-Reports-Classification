@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  53 year old right handed male with a history of COPD and high cholesterol.  He was found to have hemangioma in 2010 status post resection of 80% of it and status post gamma knife radiation with right-sided weakness after hemangioma.  He is now having episodes of right-sided cramping.
+MEDICATIONS:  Keppra, Allegra, Singulair, Advair, Simvastatin.
+REASON FOR STUDY:  
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrodes.  Photic stimulation was performed.  The patient was recorded in wakefulness and sleep.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of low amplitude at 9 to 10 Hz which appears to be reactive to eye opening.  There is a normal amount of frontocentral beta, which appears to be symmetrically increased over the left central region.  The patient is recorded in wakefulness and stage I sleep.  Photic stimulation does not produce any abnormal discharges.   
+ABNORMAL DISCHARGES:  Focal slow waves seen at C3 at 2 to 4 Hz, continuously at an amplitude of 20 to 40 microvolts.  There is an associated breach in this region with increase in the beta frequency noted.   
+SEIZURES  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left central focal slowing and breach.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction in the left central region, which is consistent with the known tumor and resection.  No seizures or epileptiform discharges were clearly seen.
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  65 year old left handed woman with history of Meniere's, hypertension, diabetes, CAD who presents with an episode of seizure, which is different from her usual Meniere's.
+MEDICATIONS:  Metformin, Glyburide, Lisinopril, Lipitor, Plavix.
+REASON FOR STUDY:  Vertigo.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrodes.  The patient was recorded in wakefulness and drowsiness.  Activating procedures, including hyperventilation and photic stimulation, were performed.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is a normal amount of frontal central beta.  The patient is recorded in wakefulness and drowsiness.  Activating procedures, including hyperventilation and photic stimulation produce no abnormal discharges. 
+ABNORMAL DISCHARGES:  Focal slowing at T4 seen intermittently at a frequency of 2-4 Hz and an amplitude of 20-60 mV. 
+HR:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Intermittent right mid temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right mid temporal region, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

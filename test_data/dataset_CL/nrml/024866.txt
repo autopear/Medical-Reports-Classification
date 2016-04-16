@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 57-day-old male baby born at 27 weeks gestation. (35 weeks gestation now) History of seizures, meningitis, hydrocephalus, and sepsis.  
+MEDICATIONS: Phenobarbital, Carafate, and Reglan.
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU Pediatric Unit using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: The EEG showed a continuous, active sleep pattern. Delta brushes can be seen and are more predominant on the right. There are infrequent frontal transients. Occasionally, temporal sharp waves were identified at T3 and T5 in the left hemisphere. When asleep, a more suppressed/discontinuous pattern of EEG was seen in the left hemisphere. 
+HR:  144 BPM.
+IMPRESSION: Abnormal EEG for an infant of this age due to:
+Asymmetric recording with delta brushes more dominant in the right hemisphere.
+Suppression of the EEG was found in the left hemisphere during sleep.  
+Left posterior temporal sharp activity.
+CLINICAL CORRELATION: This abnormal EEG showed some attenuation from the left hemisphere suggestive of an underlying structural pathology in this infant.   Epileptic activity is also from the left hemisphere.  Correlation with neuroimaging studies may be useful.  No seizures were recorded in this tracing.  Some normal developmental milestones were seen in this recording such as delta brushes and active sleep.   
+
+

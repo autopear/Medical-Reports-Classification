@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 62-year-old woman post-operative date #2 or 22(?) following aneurysm surgery, secondary seizures with systemic illness. 
+MEDICATIONS: Heparin, Labetalol, others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is lethargic but awake. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow and includes a mixed frequency pattern.  There are portions with relatively symmetric rhythmic theta.  There are also bursts with arrhythmic delta activity in portions of the record in which the arrhythmic delta activity is up to two seconds, is 0.5 Hz or 0.25 Hz, and demonstrates shifting slowing; on some occasions it is slower in the right posterior quadrant than the left.  There is variability in the record and some portions of the record demonstrate more significant 6.5 Hz activity and less in the way of arrhythmic delta activity on the right than others.  Stimulation of the patient elicits an alerting response and an increase in 8 Hz activity in the background, as well as a suggestion of an alpha rhythm.  With the alerting response, there is a bit more slowing in the frontocentral regions, left greater than right.
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Intermittent prominent, arrhythmic delta activity.
+Generalized background slowing.
+Shifting asymmetries including the right occipital region, as well as the frontal regions, left greater than right.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  These features are non-specific, but given the dynamic changes seen in this record, consideration for a toxic and/or metabolic encephalopathy or another physiologic disturbance would be appropriate.  No seizures were recorded. 
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  This is a 65-year-old gentleman with history of COPD, hypertension, diabetes, tooth cancer, status post treatment, who presents with left focal seizures described as a left arm shaking lasting for a few minutes, resolved by administration of Ativan 2 mg IV.
+MEDICATIONS:  Keppra and others.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominant rhythm was 7-7.5 Hz in frequency, well-formed on the left side, which attenuates with eye opening.  There is 5-7 Hz diffuse theta activity noted during wakefulness.  There is attenuation and loss of faster frequencies in the right hemisphere, most pronounced in posterior quadrant with intermittent slowing in the left cerebral hemisphere.  The lethargic state is characterized by further slowing of the background and disappearance of the posterior dominant rhythm.  Heart rate was 90 beats per minute and regular.
+IMPRESSION:  
+This is an abnormal EEG recording due to:
+Diffuse slowing of the background with theta activity seen in wakefulness.
+Slowing of the posterior dominant rhythm.
+Attenuation and loss of faster frequencies and also slowing in the left posterior quadrant.
+CLINICAL CORRELATION:  The above findings are suggestive of either metabolic, toxic, or infectious encephalopathy.  Alternatively, it could be due to the effect of sedating medication or bilateral cerebral dysfunction or degenerative brain disease.  Attenuation and loss of faster frequencies in the left cerebral hemisphere is likely due to the patient's history of stroke.  No epileptiform abnormalities are identified in this record.  No seizures is captured.  This does not rule out the diagnosis of epilepsy or intermittent seizures.  If clinically indicated, a continuous bedside EEG monitoring may be helpful.
+
+

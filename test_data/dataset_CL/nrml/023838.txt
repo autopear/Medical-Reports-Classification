@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 34-year-old woman with new seizures, seizure free for 4 years now, recent seizure January 3rd and 16th, described as loss of consciousness, body shaking, no incontinence, and slurred speech after with confusion for 4 hours.
+MEDICATIONS:  Tegretol.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded mainly in drowsiness or sleep.  Activating procedures included hyperventilation and photic stimulation. 
+Heart rate 100.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that is only seen at limited times and appears to reach 9 Hz and be reactive to eye opening.  There is some diffuse beta seen throughout the recording.  Overall, the recording is mainly in drowsiness and sleep.  Patient is only awake for short periods of time when she is being asked to hyperventilate or perform an action and overall, there is overwhelming theta of 5-7 Hz and an amplitude of 20-40 microvolts.  Hyperventilation and photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  
+Excessive theta in wakefulness at 5-7 Hz at an amplitude of 20-40 microvolts.
+T3 focal slowing at 2-4 Hz and an amplitude of 20-60 microvolts seen occasionally.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to left midtemporal focal slowing in addition to mild excessive theta in wakefulness.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left midtemporal region in addition to mild diffuse cerebral dysfunction, both of which are nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.  Please note that the excessive beta may be due at least in part to medication effect.
+
+

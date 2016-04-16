@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 63-year-old male who was riding a bicycle while intoxicated on cocaine and alcohol, suffering a right frontoparietal hematoma and subarachnoid hemorrhage, now less arousable today. 
+MEDICATIONS: Percocet, Risperdal, and Haldol. 
+INTRODUCTION: Digital video EEG is performed at the bedside for this uncooperative and uncomfortable individual.  Electrode placement was modified because of this patient’s halo. This is an asleep record. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow.  The primary frequencies include delta and small amounts of theta.  There are occasional frontally predominant triphasic waves, as well as arrhythmic delta activity and sharp waves, which can be identified from the left frontotemporal and left posterior temporal regions.  Stimulation of the patient produces a brief alerting or arousal and towards the close of the record, there are occasional sharp waves noted from the right central region.  
+HR:  114 BPM.
+	IMPRESSION: Technically challenging but abnormal EEG due to:
+Generalized background slowing.
+Frontally predominant, relatively symmetric triphasic waves.
+Occasional sharp waves seen from the left temporal region as well as the right central. 
+CLINICAL CORRELATION: No seizures were recorded.  This tracing supports a diffuse disorder of cerebral function.  Consideration for a toxic or metabolic process would be appropriate given the triphasic waves.  
+
+

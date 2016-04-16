@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 40-year-old woman with right frontal skull defect, multiple aneurysms, with numbness of the left thumb and fingers.  Recurrent episodes of paroxysmal numbness.  
+MEDICATIONS: 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with symmetric, reactive 10.5 Hz, 40 V posterior dominant rhythm.  Drowsiness is characterized by a breach rhythm with accentuation of the beta frequency activity from the right frontal region. In addition, there is some subtle right frontocentral theta identified in drowsiness.  
+Photic stimulation elicits driving at all flash frequencies.  During photic stimulation, the subtle focal slowing from the right frontal region as well as the breach are also apparent.
+HR:  __ BPM. Check prelim sheet
+	IMPRESSION: Abnormal EEG due to:
+Subtle focal slowing with rhythms of 3 to 5 Hz activity in the right frontal region.
+CLINICAL CORRELATION: The breach rhythm is an anticipated finding following craniotomy. The focal slowing is in the region of this patient’s epileptiform activity. No seizures or sharp waves were recorded. Comparison with previous studies might be of use. 
+
+

@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  21 year old male with tonic clonic seizures, history of lupus nephritis, hepatitis B, asthma.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are completed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9 Hz posterior dominant rhythm.  There is intermittent 6-7 Hz activity in the occipital regions, a bit more prominent from the left compared to the right. Hyperventilation is performed early on in the record and also seems to elicit an asymmetric hyperventilation response of a bit more rhythmic slower mixed theta delta on the left compared to the right.   
+The patient reports seeing something during the EEG.  This is associated with an electrographic discharge in the left occipital region at T5, O1, and P3.  Movement, repetitive 6 Hz activity is noted in the left posterior quadrant.  It starts at brief bursts of activity lasting a few seconds and then a more sustained burst with frequency evolution is noted at 9:10:26.  That more sustained bursts demonstrates frequency evolution, slowing, and beginning to disappear by 9:11:26.  The patient is able to recall a code word given during the ictal discharge at 9:10:48.  The heart rate also increases during this event and the patient also is blinking. Photic stimulation is initiated at 9:12:29.  A brief driving response is noted bilaterally. 
+HR:    70 bpm
+IMPRESSION:  Abnormal EEG due to:
+Electrographic seizure from the left occipital region.
+Disruption of alpha rhythm on the left.
+Focal hyperventilation responsive focal features on the left.
+CLINICAL CORRELATION:  These findings are diagnostic of a focal mechanism for epilepsy.  It may be correlated with imaging.  Additional recording is important given the presence of an occipital lobe seizure.  In comparison to previous EEG March 24, 2011 for this patient this is the first time left occipital epileptiform to be observed.
+
+
+DD:06/20/2011  DT:06/20/2011
+
+

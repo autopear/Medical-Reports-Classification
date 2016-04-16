@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  35 year old right handed male with history of seizures, hydrocephalus, and multiple shunt revisions, presented with severe head pain.
+MEDICATIONS:  Keppra, Lipitor.
+REASON FOR STUDY:  History of hydrocephalus and head pain.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  In addition, there is normal frontocentral beta.  The patient is recorded in wakefulness and drowsiness.  Photic stimulation produces no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Please note that the bilateral anterior temporal delta seen in previous recording is not seen during this recording.
+
+

@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  This is a 21-year-old, right-handed man with history of epilepsy, who presents for followup.
+MEDICATIONS:  Lamictal and Remeron.
+INTRODUCTION:  Digital video EEG was performed in the lab using a standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In the most alert state, the alpha rhythm is 10 Hz in frequency seen in the occipital region, which attenuates with eye opening.  There is presence of low-amplitude diffuse beta activity, which is distributed symmetrically.  Hyperventilation was performed and results in diffuse slowing of the background activity and occasional left temporal sharp waves with no evolution.  Left occipital spike was accentuated during hyperventilation.  Post drowsiness and post hyperventilation period of this recording accentuate underlying focal slowing in left posterior quadrant.  Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.  There are intermittent bursts of left temporal and occipital slowing with a frequency of 5-6 Hz lasting for 1-3 seconds during wakefulness and hyperventilation.  There are occasional sharp waves seen arising from the same distribution during wakefulness including accentuated by hyperventilation.  There is bioccipital slowing most pronounced on the left side.  Heart rate was 70 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Left occipital temporal slowing and sharp waves in the spikes noted during wakefulness accentuated in hyperventilation with no evolution.
+Bioccipital slowing.
+CLINICAL CORRELATION:  The above findings are suggestive of the diagnosis of localization-related epilepsy with seizures likely arising from the left posterior temporal or occipital region.  There is evidence of focal cerebral dysfunction in the same region, which is nonspecific with regard to etiology.  Excessive beta may be due to medication effect.  No seizures were seen.  Clinical correlation is recommended.
+
+

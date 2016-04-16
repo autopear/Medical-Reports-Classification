@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  56 year old man with multiple myocardial infarctions and on hemodialysis with dependent respiratory failure, cardiogenic shock, agitation, and fevers.
+MEDICATIONS:  Haldol, Ativan, Hydralazine, Isordil, Albuterol, Heparin, Plavix, ASA, Lipitor.
+REASON FOR STUDY:  Altered mental status.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement with anterior temporal and single lead EKG electrodes.  The patient was recorded while lethargic and agitated.  Activating procedures were not performed.
+TECHNICAL DIFFICULTY:  Some movement artifact seen intermittently throughout the recording.
+DESCRIPTION OF THE RECORD:  The record reveals no normal posterior dominant rhythm or normal frontal central beta.  There is lack of normal sleep architecture.  No activating procedures were performed.  The background consists of generalized slowing at 2-4 Hz at an amplitude of 20-40 microvolts.  Intermittently when the patient is aroused, there is a diffuse theta of about 5-7 Hz seen throughout the recording.  This is indicative of reactivity to stimulation.
+ABNORMAL DISCHARGES:  
+As stated above, generalized slow waves of 2-4 Hz at an amplitude of 20-60 microvolts.  
+Intermittently throughout the recording there is some frontal intermittent rhythmic delta (FRDA).
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves.
+FIRDA
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is not specific as to etiology.  In this patient, it may be due at least in part to medication effect.  No seizures or epileptiform discharges were seen.
+
+

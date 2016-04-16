@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 59-year-old woman with epilepsy following viral encephalitis 21 years ago.  Typical seizures are characterized by blurry vision and then loss of peripheral vision.  History of frontal migraine headaches and right temporal lobe abnormality.  
+MEDICATIONS: Nexium, Tylenol (Topiramate not reported).  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 10 Hz posterior dominant rhythm with amplitudes of 50 to 70 uV.  There is intermittent slowing of the alpha rhythm in apparent wakefulness.  There are also bursts of irregular, frontally predominant sharply contoured mixed theta and delta activity, some of which seem to have an underlying spike complex from the left mid-temporal region.  The bursts of sharply contoured higher amplitude frontal theta and delta are typically brief, lasting under 3 seconds in duration. Hyperventilation is performed early on in the record and seems to accentuate some irregular, shifting temporal slowing, somewhat more so from the left compared to the right.  In addition, frontally predominant notched delta is also identified, sharply contoured bilaterally.  Following hyperventilation, as the patient becomes drowsy, there are again bursts of sharply contoured frontally mixed theta and delta.  As the patient becomes drowsy, the background EEG demonstrates improved symmetry and synchronicity, although there are again bursts of frontal, sharply contoured activity.  POSTS are seen in stage I sleep.  Photic stimulation elicits a bilateral driving response.
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Bursts of sharply contoured, high amplitude mixed theta and delta activity lasting one to three seconds seen in wakefulness, accentuated by hyperventilation and drowsiness. 
+	Intermittent bursts of sharply contoured theta activity from the left temporal region with occasional left temporal sharp waves.
+	A handful of suspicious right temporal sharp waves. 
+CLINICAL CORRELATION: Overall, these findings are not substantially different than a previous study in 2003.  No seizures were recorded.  There were portions of this record with a well-organized, overall background.  
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:   This  is  a  47-year-old male with posttraumatic epilepsy, antiepileptic drug overuse alternating with non-compliance.  Currently in the ICU; bun hole at Fp2.  Hepatitis C and IVDA.  Reason for this EEG study is unknown.
+MEDICATIONS: Keppra, Dilantin, Phenobarbital.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated but responsive.
+DESCRIPTIONOFTHERECORD: The background EEG demonstrates a continuous pattern.  There is some low voltage alpha and theta frequency activity in the background. A craniotomy defect is noted.  There is some skull artifact picked up in the frontal region. As the patient drifts off to sleep, the activity from  the  right  frontal region is somewhat slower than the left. Facial twitching is observed without epileptiform correlate.
+HR:  96BPM.
+IMPRESSION: Abnormal EEG due to:
+1.     Excess beta.
+2.   Cranial defect in the right frontal region, sometimes associated with focal delta.
+3.   Absence of a clearly identifiable, normal awake pattern.
+CLINICAL CORRELATION: In comparison to this patient's most recent EEG earlier this month, this EEG has improved.  It continues to support a significant disturbance of cerebral function with a structural abnormality on the right.  No seizures or epileptiform activity were seen today.
+
+

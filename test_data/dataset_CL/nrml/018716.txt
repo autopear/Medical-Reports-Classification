@@ -1,0 +1,11 @@
+HISTORY: 23 yr male with Lennox Gastaut and seizure disorder smce early childhood. Seizures increased to one per week, falling out of bed with incontinence. 
+MEDICATION: Carbatrol, Zonegram 
+ACTIVATION: Hyperventilation and Photic Stimulation. 
+INTRODUCTION: Digital Video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is abnormal. There is a theta frequency posterior dominant rhythm, which is reactive. In addition, there is intermittent rhythmic 3-4 Hz activity seen in the posterior scalp regions, left greater than right. Hyperventilation is performed early on in the record clearly accentuating the 3 Hz occipitally predominant activity, left greater than right. There is a suggestion of an underlying sharp and slow wave complex. Towards the close of hyperventilation, there is some frontally predominant delta. In addition, towards the close of HV, there is some notched frontal delta. Stage II sleep is characterized by vertex waves, K-complexes and spindles. There is an intermittent background in the sleep pattern in stage II sleep with background theta. In the transition to and from stage II sleep, there are rare right temporal sharp waves. Photic stimulation is performed while the patient is drowsy and does not significantly activate the record. 
+HR: 90BPM 
+IMPRESSION: Abnormal EEG due to: 
+1. Replacement of normal background with rhythmic background slowing 
+2. OIRDA 
+3. Occasional right temporal sharp waves 
+CLINICAL CORRELATION: These features are similar to this individual's previous records. Of note, the patient seems to be drowsier than previous studies. In addition, there are some unusual waveforms that seem to interrupt sleep. No seizures were recorded. The EKG morphology for this EEG is unusual and a conventional EKG should be performed. 

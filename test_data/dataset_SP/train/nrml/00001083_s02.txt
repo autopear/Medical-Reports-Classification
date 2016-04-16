@@ -1,0 +1,12 @@
+	CLINICAL HISTORY:	42 year old male who fell while intoxicated,  had a right subdural hematoma,  right craniotomy, now with frequent seizures.
+MEDICATIONS: Dilatin, Labetalol, Hydralazine, Codeine, Zofran
+INTRODUCTION:  Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is quiet, at the bedside and poorly responsive.
+DESCRIPTION OF THE RECORD:  Background EEG demonstrates a continuous, slow pattern bilaterally. There are clear focal features with accentuation of the beta activity in the right frontal and left frontotemporal regions, compatible with cranial defects.  The frontal beta is accompanied by a rhythmic delta activity particularly in the posterior dens. There is some superimposed arrhythmic delta on the right as well. Single channel
+artifact is observed at T3. The spontaneous arousals are noted behaviorally, but do not significantly change the EEG. There is clear variability in the record with some sections demonstrating more data than others.
+	HR:	96 bpm
+IMPRESSION: Abnormal EEG due to:
+	1. 	Replacement of normal background with a pattern with prominent frontal beta activity, craniotomy defect.
+	2.	More significant, generalized slowing in the posterior regions.
+CLINICAL CORRELATION:  No seizures were recorded. There is a breach rhythm and sharp wave activity, but in contrast to yesterday's study no definitive sharp waves were observed.
+
+

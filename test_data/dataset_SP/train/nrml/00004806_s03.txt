@@ -1,0 +1,13 @@
+	CLINICAL HISTORY: 	44 year-old gentleman with left frontal craniotomy, history of a brain tumor in 2004, found 6/6/08 with decreased responsiveness, aphasic. CT scan demonstrated increasing edema around the left frontal tumor. Past history of hypertension, substance abuse, obstructive sleep apnea, right hemiparesis and suicide attempt.
+MEDICATIONS:   Insulin, Nexium, Lovenox, Tegretol, Lamictal, Terazosin, ASA, Vistaril
+INTRODUCTION:   Digital video EEG is performed in lab using standard 10-20 system of electrode placement  with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a 9 Hz posterior dominant rhythm which is present and reactive bilaterally. There is a clear, intrahemispheric asymmetry with disruption of faster frequency activity in the left hemisphere, arrhythmic delta activity particularly at the left frontal region with some sharply contoured delta or some phase reversing delta at F3 or C3. There are brief portions in the later portions of the record where the delta is more exquisitely F3 maximum with a clear cut phase reversal and the right hemisphere demonstrates  little in the way of background slowing. Drowsiness is
+characterized by an increase in background  slowing. The patient drops for less than 30 seconds into stage II sleep, followed immediately by arousal. Additional sleep epochs are observed,
+again with arousal, some of which include snore artifact.
+	HR: 	72 bpm
+IMPRESSION:  Abnormal EEG due to:
+1.  Focal slowing from the left hemisphere with prominent disruption of faster frequency activity.
+2.   Focal delta primarily seen in F3 rather than C3.
+CLINICAL CORRELATION:  This EEG supports a structural abnormality on the left involving gray and white matter. The field of spread is left frontal and left frontocentral  with a phase reversal in that area. No seizures or sharp waves were observed today. The right hemisphere is relatively unaffected.
+
+

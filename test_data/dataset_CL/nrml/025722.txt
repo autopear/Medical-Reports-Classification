@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 78-year-old gentleman admitted with status epilepticus, alcohol and cocaine abuse.  
+MEDICATIONS: Dilantin, Phenobarbital, antibiotics. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is comatose and not responsive to external stimuli.  The tech has problems with 60 Hz artifact in this study, but is able to resolve this in some portions of the record.  
+DESCRIPTION OF THE RECORD: The background EEG is abnormal.  The pattern demonstrates some variability, but significant portions of the record demonstrate a discontinuous pattern with low voltage, mixed frequency activity occurring in bursts of one to three seconds followed by attenuation, which may last 1 to 3.5 seconds.  There are some shifting asymmetries, but no prominent lateralizing features.  Other portions of the record show lower voltage, more continuous pattern.  Stimulation of the patient does not significantly activate the record.  In this relatively low voltage, there are some shifting asymmetries and there is some eye artifact, which is slightly asymmetric, higher amplitude on the right than the left.  
+HR:  104 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Intermittently discontinuous pattern. 
+Absence of reactivity to stimuli.
+Generalized background slowing. 
+	
+CLINICAL CORRELATION: This tracing supports a severe disturbance effecting both hemispheres.  In contrast to previous studies, there is no epileptiform activity, no seizures were recorded, and there were no significant lateralizing features.  The discontinuous pattern described above is non-specific and may be due to mediations, prolonged postictal state, or severe, bihemispheric cerebral dysfunction. 
+
+

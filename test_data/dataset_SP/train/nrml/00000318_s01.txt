@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 61-year-old female with… 
+MEDICATIONS: 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake record in a patient who is uncooperative. 
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is awake but poorly cooperative.  She is occasionally somewhat drowsy.  The background is intermittently disrupted by movement or muscle artifact. 
+In wakefulness, there is an alpha rhythm of approximately 7 to 8 Hz, 30 to 75 V in amplitude.  There are bursts of shifting, frontally predominant rhythmic delta activity as well as arrhythmic delta activity identified from both hemispheres.  At times, this is irregular.  As the patient becomes drowsy, there is somewhat arrhythmic, almost periodic delta activity in the posterior quadrant without lateralization.  Use of a transverse or circle montage does not assist in localizing this activity.  
+HR:  130 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+A combination of rhythmic frontal delta activity and arrhythmic delta activity.
+Periodic slowing from the posterior regions. 
+CLINICAL CORRELATION: The features described above are non-specific.  Multiple factors may contribute to the pattern described above and these may include a toxic or metabolic process as well as a process effecting both hemispheres.  No seizures were seen.  Given the nature of the periodic slowing from the posterior regions and the amount of movement artifact, if seizures are an important consideration, a repeat tracing when the patient is cooperative would be appropriate. 
+
+

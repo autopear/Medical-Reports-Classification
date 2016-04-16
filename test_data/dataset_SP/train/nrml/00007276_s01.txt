@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 62-year-old male with hepatic encephalopathy with change in mental status, status-post liver transplant
+MEDICATIONS: Protonix, Prednisone, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record in a patient who is lethargic. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with a mixture of primarily 3 Hz delta activity with some faster and slower frequencies.  There are triphasic waves identified in the record, some of which have an unusual field of spread.  Some of them are maximum at F7, but some are picked up more in the central and parietal regions.  There are occasional shifting asymmetries in the background.  
+Stimulation of the patient produces a decrease in the triphasic waves and an increase in theta. 
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Generalized background slowing.
+	Triphasic waves. 
+	An unusual field for some of the triphasic activity, some of it appearing a bit more in the parietal regions, particularly on the left.  
+	
+CLINICAL CORRELATION: No seizures were recorded.  The triphasic waves are classic features of a metabolic encephalopathy, but with the focality described above, correlation with imaging is recommended.   
+
+

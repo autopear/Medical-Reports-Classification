@@ -1,0 +1,14 @@
+CLINICAL  IDSTORY: This is a 14-month-old male with altered mental status, unresponsive spells, lethargy, and hypothermia. History of seizures until the age of 3 months described as head twitching and eyes rolling back. Born at 35 weeks with a birth weight of 7 lbs.
+MEDICATIONS: Amphetamine.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and asleep record.
+DESCRIPTION OF THE  RECORD: The vast majority of this record is a sleep record with vertex activity and spindle activity. There is also some sharply contoured theta frequency activity maximum  at  Cz,  which  may  be  part  of this  child's  sleep  morphology. When  the  child  is awakened, this produces a brief alerting.  As the child does so, this sharply contoured theta frequency activity with fast activity is seen again.  Neither the tech nor the mother are able to really awaken the child.   As the child is eventually awakened and the central activity arid the sleep morphology disappears, a drowsy pattern ensues with primarily a theta frequency pattern in an infant who remains sleepy.
+HR:  120 BPM.
+IMPRESSION: This EEG is remarkable for:
+1.   The observance of what seems to be the patient's  typical hypersomnolence with difficulty
+really awakening this child and sustaining an awake state.   This may in part be due to the
+child's  underlying neurological medical picture or simply due to a very sleepy child who needed a bit more time to wake up.
+2.   There is some unusual activity seen in the central regions in stage I and stage II sleep.  This is
+at the vertex, but additional recording with special electrodes may be valuable to determine if there is an underlying left central spike.
+CLINICAL CORRELATION: No seizures were recorded.   In the limited awake record, the appropriate developmental milestones have been identified.
+
+

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  75 year old male with a right hemiparesis, left MCA stroke or bleed with edema, admitted on June 3, 2011.
+MEDICATIONS:  Lisinopril, Norvasc, Tramadol, Isosorbide, ASA
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  The patient is restless and moving about.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a remarkable and fluctuating asymmetry.  Some sections of the record demonstrate attenuation of faster frequency activity on the right with the exception of bursts of beta more prominent on the right.  Other sections of the record demonstrate much more significant underlying arrhythmic delta activity underneath the alpha-frequency activity in the left hemisphere.  A 9 Hz alpha rhythm can be identified from either hemisphere, sometimes symmetrically, sometimes asymmetrically.  There is also some sharply contoured slowing and a handful of T1, T3 sharp waves on the left.  Drowsiness is characterized by an increase in beta, particularly on the right.   
+HR:    72 bpm
+IMPRESSION:  This is an interesting and abnormal EEG due to:
+Fluctuating asymmetries with at times more underlying arrhythmic delta on the left or right.
+Asymmetries on the right, some of which would suggest a cortical process on the right such as disruption of faster frequency activity with disruption of the alpha frequency, but an increase in beta would contradict this.  
+Very sharply contoured waves at T1 and T3.
+CLINICAL CORRELATION:  No seizures were identified.  This EEG supports a dynamic bihemispheric disturbance.
+
+

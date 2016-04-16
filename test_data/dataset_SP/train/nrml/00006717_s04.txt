@@ -1,0 +1,15 @@
+CLINICAL HISTORY: 63 year old with history of intercerebral hemorrhage on the left with intermittent left sided twitching, multiple medical problems, ventriculostomy.
+MEDICATIONS:  Dilantin, Hydralazine, Labetalol
+INTRODUCTION:  Continuous digital video was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated. This was a 2 hours and 20 minutes study
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a slow pattern. There is arrhythmic delta, more so on the left in comparison to the right.  Frontally predominant triphasic waves are observed bilaterally, a bit better developed on the right. Occasional sharp
+waves are observed in the left hemisphere,  particularly left posterior temporal and parietal.  As the recording continues and the patient receives the phenobarbital, the record is somewhat discontinuous.  The prominent arrhythmic delta is noted. Occasional vertex like waves are observed, as are some sharp waves in the central regions, more so on the left than the right. No seizures are recorded.  There is no note that the patient is experiencing involuntarily
+movements on the left.  At the close of the record there is intermittent, discontinuity at 13:16, followed by a more continuous pattern at the end.
+HR: 60 bpm
+Abnormal EEG due to:
+	1.	Markedly slow background.
+	2.	Triphasic waves.
+Some sharp waves in the left which range from some poorly ones in the left central region to others that are left posterior temporal.
+	4.	Discontinuous pattern with phenobarbital
+CLINICAL CORRELATION: No seizures were recorded.  The use of the phenobarbital may have contributed to the intermittently discontinuous record.
+
+

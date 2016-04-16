@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  31 year old female with history of seizures.
+MEDICATIONS:  Keppra.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal, single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm 9-10 Hz which is reactive to eye opening.  There is normal amount of frontocentral beta.  The patient reaches stage 1 and stage 2 sleep.  Activating procedures with photic stimulation produced no abnormal discharges.  However, during hyperventilation there is a marked abnormal response which I will describe below.
+ABNORMAL DISCHARGES:  During hyperventilation, the patient develops a nicely well-formed polymorphic delta seen at F8/T2 at 2-4 Hz with an amplitude of 20-70 microvolts and at times with some intermixed sharply contoured activity not clearly productive formed, but suspicious.  This was only seen throughout hyperventilation again.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Focal slowing in the right anterior temporal region accentuated by hyperventilation.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right anterior temporal region, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were clearly seen.
+
+

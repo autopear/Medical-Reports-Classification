@@ -1,0 +1,15 @@
+REASON FOR STUDY:  Change in mental status.
+CLINICAL HISTORY:  A 58-year-old man with bifrontal burr hole and evacuation of subdural hematoma with change in mental status.  His wife noticed lip smacking and staring but never returned to baseline.
+MEDICATIONS:  Dilantin, Keppra, and Vimpat.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with 1 anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness.  Activating procedures were not performed.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at times reaches 9 Hz which appears to be reactive to eye opening.  There is some frontal central beta seen better over the left central region, however, there is attenuation of faster frequencies over the left temporal region.  At times, even during wakefulness, there is excessive theta seen throughout.  The patient is only recorded during wakefulness.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  Movement artifact throughout the recording.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen continuously over C3 at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts.  At times these are sharply contoured but are seen through a breach.  
+Focal slow waves at C4 at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts.  
+Excessive theta in wakefulness at 5-7 Hz and an amplitude of 20-60 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to left central continuous focal slowing which are at times sharply contoured in addition to right central focal slowing and excessive theta in wakefulness.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction in the left central region in addition to independent focal cerebral dysfunction over the right central region, which is consistent with the patient: with a known history of bilateral subdural hemorrhages.  In addition, the faster frequency over the left temporal region is consistent with a known subdural over that region.  There is also evidence of mild diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or definite epileptiform discharges were seen.
+
+

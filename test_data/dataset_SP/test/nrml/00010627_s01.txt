@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 88 year old woman with dementia, past history of an aneurysm clip, anxiety disorder, admitted with encephalopathy and dehydration. 
+MEDICATIONS: Zosyn, Venco, Heparin 
+INTRODUCTION: Digital video EGG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient appears to be uncomfortable. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal. Some sections of the record demonstrate a vigorous, continuous pattern, alpha and theta frequency activity, and a posterior dominant rhythm ranging from 6 to 9 Hz. There is intermittent, attenuation in the background, sometimes more prominent in the right than the left. There is an amplitude asymmetry with higher amplitude activity on the left than the right, prominent frontal breech rhythm with accentuation of fast activity. In addition, sharp waves are noted in the right frontal region and left posterior temporal region. The patient is asymptomatic during the episodes of background attenuation and suppression. Features of drowsiness include an increase in background slowing. Photic stimulation does not activate the record. 
+HR: 84 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Intermittent attenuation of the background. 
+2. Amplitude asymmetry with a lower voltage record on the right 
+3. Sharp waves in the right frontal region. 
+CLINICAL CORRELATION: Intermittently discontinuous record. This clinical context suggests a chronic encephalopathy. No seizures were recorded. 
+
+

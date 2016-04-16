@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 64-year-old woman with multiple aneurysm repairs with multiple craniotomies, now poorly responsive. 
+MEDICATIONS: Not listed- please check tech info
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is difficult to arouse.  The time since her last seizure is unknown.  
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an intrahemispheric asymmetry.  There are portions of the record when she is awake with a 5 Hz posterior dominant rhythm identified from the right and a reasonably well organized posterior dominant rhythm on the right.  The right, however, does demonstrate a moderate degree of background disorganization.  The left hemisphere demonstrates a significant breach with higher amplitude delta activity, bursts of paroxysmal delta from the left hemisphere, maximum in the centrotemporal region with associated bursts of paroxysmal fast.  This activity is seen intermittently, never truly evolves, and there are no seizures recorded.  In addition, there are occasional sharp waves identified at F8, F8-C4, and P4 out of the right hemisphere.  Stimulation of the patient produces an alerting response with an increase in theta and a posterior dominant rhythm of 5 Hz seen from the right, but the patient never really awakens.  She sits with her left hand in a flexed posture and spontaneous movements on the right are not identified.  
+HR:  68 to 80 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Periodic delta with associated periodic paroxysmal fast activity identified from the left hemisphere with a generous field of spread including the centrotemporal and frontocentral regions. 
+Generalized background slowing and disorganization.
+Intrahemispheric asymmetry.
+Occasional sharp waves on the right. 
+CLINICAL CORRELATION: This tracing supports a partial localization mechanism for this patient’s epilepsy.  It does not completely explain her impaired mental status, and additional clinical correlation to determine whether or not this patient needs additional recordings or other interventions would be appropriate.
+
+

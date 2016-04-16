@@ -1,0 +1,16 @@
+CLINICAL HISTORY: 22 year old female, status post craniectomy for central neurocytoma removal and radiation, as well as VP shunts, who presents with recurrent seizures.
+MEDICATIONS:  Dilantin, Keppra, Depakote.
+REASON FOR STUDY:  Recurrent intractable seizures.
+INTRODUCTION:  Digital video long term monitoring EEG was performed for 24-hours using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed.  This record was reviewed using continuous spike detection, as well as seizure detection monitor and the patient was noted with no events and nurses notes.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9 Hz and has a slightly higher amplitude over the right hemisphere.  There is normal frontal central beta with a slight increase also in the right hemisphere.  No activating procedures were performed.  Sleep architecture can be seen. 
+ABNORMAL DISCHARGES:
+* Focal sharp waves seen infrequently at T4, C4.
+* Focal slow waves seen continuously at T4/C4 at a frequency of 2-4 Hz with an amplitude of 20-60 mV with an associated breech in that region.   
+EPISODES:  The patient had throughout the recording about 8 or 9 episodes in which she would press the alarm and slightly start turning her head side to side without clear loss of consciousness, lasting for more than 20-30 minutes.  During this event the patient may have been given saline solution or was asked to please stop it and she could control stopping the shaking motion.  During this episode the EEG remained unchanged from the prior baseline and no seizure activity was noted.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+* Right central temporal slowing. 
+* Sharp waves.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization related epilepsy with seizures likely arising from the right central temporal region.  No epileptic seizures were seen.  During the recording also multiple events of head shaking were captured with no EEG correlate.  As such these episodes are nonepileptic and are suggestive of the diagnosis of psychogenic nonepileptic events.  Lastly, the EEG did reveal evidence of focal cerebral structural dysfunction, which is consistent with the known surgery and craniotomy on the right central region.  Again, no seizures were seen.
+
