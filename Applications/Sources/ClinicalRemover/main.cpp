@@ -163,5 +163,5 @@ int main(int argc, char *argv[])
 
     printf("Done.\n");
 
-    return a.exec();
+    return 0;
 }
