@@ -1,8 +1,7 @@
 #include <QCoreApplication>
+#include <QDateTime>
 #include <QFile>
 #include <QFileInfo>
-#include <QDateTime>
-#include <QDebug>
 
 int main(int argc, char *argv[])
 {
