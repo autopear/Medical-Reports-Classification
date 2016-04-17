@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Seizures.
-TECHNICAL DIFFICULTIES:  None.
-MEDICATIONS:  Keppra.
-INTRODUCTION:  A routine EEG was performed using a standard 10-20 electrode placement system with anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
-DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded during wakefulness and sleep.  Activating procedure including photic stimulation produced no abnormal discharges and hyperventilation causes some generalized theta slowing which I will describe in the next section.  The record is mainly abnormal posterior frequency but there are intermittent bursts of generalized theta which at times has a very sharp contour appearance but do not appear to be clearly epileptiform.
-SEIZURES:  None.
-HEART RATE:  96.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or clear epileptiform discharges were seen.  If diagnosis of epilepsy remains a concern, a prolonged recording or inpatient admission to capture 1 of these events would be helpful to clarify the nature of these events and the bursts of generalized theta.

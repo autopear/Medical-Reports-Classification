@@ -1,9 +1,0 @@
-MEDICATIONS: Digoxin, Vancomycin, others. 
-INTRODUCTION: Digital video EEG is performed at the bedside on the 8th floor using standard 10-20 system of electrode placement with one channel of EKG. This is a 24-hour recording.  No clinical events are reported during this study.
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG continues to be poorly organized but some portions of the awake background are better organized than the previous studies with a posterior dominant rhythm of 7 to 8 Hz and less in the way of arrhythmic delta and background theta.  In this 24-hour record, there is little in the way of sharp activity in the occipital regions compared to previous studies.  There is no periodic delta in the occipital regions whatsoever.  The patient falls off to sleep relatively early at 2100 hours.  In the initial portions of the evening recording, he has difficulty sustaining sleep. In later portions of the record, probable REM sleep is identified at 00:05:47.  He awakens at 2:45.  It takes him approximately 10 minutes to return to sleep.  The remainder of his sleep is relatively undisturbed.
-HR:  Maximum at 112 BPM.
-	
-	IMPRESSION: Abnormal EEG for a subject of this age due to:
-Generalized background slowing with poor organization.
-Rare occipital sharply contoured slowing.
-CLINICAL CORRELATION: The background slowing and the sharply contoured activity are improved compared to previous studies.    No seizures were recorded.    REM seen   relatively  early in  the  night, as  well as  the  difficulty  consolidating  sleep would suggest either a noisy environment in which the patient sleeps or difficulty initiating and sustaining sleep. 

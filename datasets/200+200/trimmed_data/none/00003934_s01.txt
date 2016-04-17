@@ -1,8 +1,0 @@
-MEDICATIONS:  Protonix, hydralazine, acetaminophen, allopurinol, aspirin, and Lovenox.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded while poorly responsive.  Activating procedures were not performed.
-TECHNICAL DIFFICULTIES:  Some muscle artifact and multiple electrode artifact throughout the recording.  Impedance artifact throughout the recording.
-DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9 Hz over the left hemisphere and none seen over the right hemisphere.  There is frontocentral beta only seen over the left hemisphere.  The patient is recorded while she appears to be awake but confused.  Some sleep architecture can be seen, stage I.  No activating procedures were performed.   
-Abnormal discharges:  Focal slow waves seen continuously over the right hemisphere, maximal at F8/T4, with an amplitude of frequency of 2 to 4 Hz, an amplitude of 20 to 60 microvolts, and associated loss of faster frequencies. 
-Seizures:  None.
-IMPRESSION:  Abnormal EEG due to right hemispheric slowing, maximal in the anterior temporal region with associated loss of faster frequencies.
-CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction in the right hemisphere, maximal in the anterior temporal region, which is consistent with a known stroke.  No seizures or epileptiform discharges were clearly seen.

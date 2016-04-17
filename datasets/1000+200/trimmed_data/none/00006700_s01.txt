@@ -1,9 +1,0 @@
-MEDICATIONS: Morphine, Lasix, Zantac, others.
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: As the tracing opens, the patient is resting comfortably.  With stimulation, he demonstrates an alerting response with eye opening.  The overall EEG is low voltage, diffusely slow with rhythmic 2 to 4 Hz activity.  Stimulation of the patient produces more rhythmic, 4 to 5 Hz activity.  There is some underlying arrhythmic delta activity. There is head rocking artifact in the right occipital region, but no definite asymmetries. On one or two occasions, there seems to be attenuation of the background lasting up to 1.5 seconds.  Rare triphasic waves were seen in this record.  There is variability in the record, with later portions of the record demonstrating additional faster frequency activity. 
-HR:  __ BPM.
-	IMPRESSION: Abnormal EEG due to:
-		Replacement of a normal pattern with low voltage, diffuse background slowing. 
-		Intermittent background attenuation.
-		Rare triphasic waves. 
-CLINICAL CORRELATION: The features described above are non-specific and support a diffuse disorder of cerebral function effecting both gray and white matter.  They are most characteristic of a toxic and/or metabolic encephalopathy. No seizures were recorded. 

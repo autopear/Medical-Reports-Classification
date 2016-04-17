@@ -1,9 +1,0 @@
-MEDICATIONS: Percocet, Epogen, and antibiotics. 
-INTRODUCTION: Continuous video EEG monitoring is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. There were no push button events.  There are no clinical notes regarding a change in this patient’s treatment since the  previous EEG.
-DESCRIPTION OF THE RECORD: As the recording begins, the EEG demonstrates continuous triphasic waves with the occasional posteriorly predominant PLEDS.  There is some variability in this EEG.  Some portions of the record demonstrate more theta than others.  As the recording continues, the background is somewhat richer in theta frequency activity and the triphasic waves are more localized to the frontal region.  As the patient is stimulated, particularly at 12:16 with his family at the bedside, this clearly produces an increased richness in the overall background.  The triphasic waves actually increase in their periodicity.  
-HR:  75 BPM, irregular.
-	IMPRESSION: Abnormal EEG due to:
-Triphasic waves.
-Occasional periodic complexes seen, particularly in the frontotemporal regions. 
-Generalized background slowing.
-CLINICAL CORRELATION: This tracing is most supportive of a metabolic pattern with triphasic waves and a background that is clearly reactive to stimuli.  No seizures were recorded.  This pattern may be eliminated by addressing the metabolic issues.  

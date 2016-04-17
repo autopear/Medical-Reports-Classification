@@ -1,9 +1,0 @@
-MEDICATIONS:  Phenobarbital.
-REASON FOR STUDY:  History of gunshot wound to the head and shunt. 
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with anterior temporal and EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures, including hyperventilation and photic stimulation, were performed.
-DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  The patient is recorded in wakefulness and drowsiness.  There is a normal amount of frontal central beta.  Activating procedures produce no abnormal discharges. 
-ABNORMAL DISCHARGES:  Focal slow waves at CZ/C4 seen intermittently at a frequency of 2-4 Hz with an amplitude of 20-60 mV.
-SEIZURES:   None
-IMPRESSION:  Abnormal EEG due to:  
-Focal slowing at CZ/C4.
-CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right central region which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.

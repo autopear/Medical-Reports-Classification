@@ -1,8 +1,0 @@
-MEDICATIONS:  Keppra, Dilantin, Topamax.
-INTRODUCTION:  Continuous digital video EEG monitoring with seizure and spike detection is initiated using standard 10-20 system of electrode placement.  The patient is quite drowsy.  Electrode problems are noted even in the first hours of the EEG monitor.
-DESCRIPTION OF THE RECORD:  The overall background is slow.  Even in maximal wakefulness, there is excess theta.  As the first hour of recording continues, left frontal electrode artifacts are observed. 
-HR:    90 bpm
-IMPRESSION:  Abnormal EEG due to:
-Disorganized
-Slow 
-CLINICAL CORRELATION:    No epileptiform activity was noted.  No seizures were seen, merits repeat good quality study.

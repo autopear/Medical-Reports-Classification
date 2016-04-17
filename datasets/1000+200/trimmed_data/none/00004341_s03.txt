@@ -1,8 +1,0 @@
-MEDICATIONS:  Lacosamide, Levetiracetam, Divalproex, Zonisamide, Colchicine
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
-DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is low to medium amplitude with an alpha rhythm of approximately 8 Hz and smaller amounts of theta frequency activity. Hyperventilation is performed early on in the record producing increase in amplitude of the record. There are occasional bursts of shifting slowing. Vertex waves and K-complexes are seen in stage II sleep. EKG artifact is also picked up in stag II sleep as well are a handful of PVCs. Despite these artifacts, there are also rare, F7 T1 sharp waves noted in sleep. Photic stimulation is performed while the patient is asleep and does not significantly activate the record 
-HR:    60 bpm
-IMPRESSION:  Abnormal EEG due to: 
-Background slowing and disorganization. 
-Rare sharp waves noted only in sleep.
-CLINICAL CORRELATION:  These findings are similar to previous studies. No seizures were recorded.

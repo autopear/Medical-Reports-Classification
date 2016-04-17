@@ -1,8 +1,0 @@
-	MEDICATIONS: 	Depakote, Risperdal, others.
-	INTRODUCTION: 	Continuous video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. Patient and clinical team identified no seizures during this section of the record. Recording concludes at noon.
-	DESCRIPTION OF THE RECORD: 	Much of the waking record shows a symmetric reactive pattern posterior dominant rhythm. There is intermittent focal slowing primarily from the left temporal region and occasional sharp waves. These are most prominent when the patient is drowsy. Isolated left intratemporal sharp waves are seen. Rare right temporal sharp waves are observed.
-HR: 50 b.p.m.
-	IMPR ESSION:	Abnormal EEG due to:
-1. Intermittent focal slowing from the left temporal region.
-2. Occasional left temporal sharps.
-CLINICAL CORRELATION: In comparison to this patient's initial EEG, there is no longer sustained rhythmic slowing and there the epileptiform activity from both hemispheres has been substantially diminished. 

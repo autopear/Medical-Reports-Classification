@@ -1,9 +1,0 @@
-MEDICATIONS: Ativan, Dilantin, and Phenobarbital. 
-INTRODUCTION: Digital video EEG is performed at the bedside in the unit using standard 10-20 system of electrode placement with one channel of EKG. This is a technically challenging bedside portable.  
-DESCRIPTION OF THE RECORD: The background EEG is poorly organized for an adult of this age and there are significant portions of the record that are compromised by background, but there is adequate readable data.  The overall pattern is diffusely slow, disorganized, sharply contoured, with sharply contoured activity in the left mid and posterior temporal regions.  There are occasional sharp waves with various maximums including C4 and in the left posterior temporal region.  
-HR:  98 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Generalized background slowing.
-Shifting slowing with occasional rhythmic slowing from the left posterior temporal, left or right central regions. 
-Sharp waves identified from either hemisphere.  
-CLINICAL CORRELATION: No seizures were seen.  This tracing supports a diffuse disorder of cerebral function affecting both hemispheres including both gray and white matter. 

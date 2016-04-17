@@ -1,8 +1,0 @@
-MEDICATIONS: Aspirin, Glipizide, Nitro-Dur, Prozac, Norvasc, Dilantin, and insulin. 
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient had tangled hair and the technologist couldn’t get adequate impedances because the patient was crying when they worked on her scalp.  The patient was rubbing her head throughout the EEG.  Photic stimulation was performed. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is low voltage and somewhat slow.  There is approximately a 7 Hz posterior dominant rhythm.  There is an intrahemispheric asymmetry with intermittent arrhythmic delta and theta from the left frontotemporal region.  At times the arrhythmic delta is about 1 Hz, and it is associated with a drop out in faster frequency activity.  Rare left temporal sharp waves are identified. Features of drowsiness include an increase in background slowing and occasional vertex waves and spindles.  Photic stimulation does not activate the record.  
-HR:  80 BPM.
-	IMPRESSION: Abnormal EEG due to:
-	Mild background slowing.
-	Sharply contoured slowing from the left temporal region with occasional sharp waves. 
-CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function with a superimposed structural or functional abnormality on the left.  The sharp waves raise the possibility of seizures.  

@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Seizures.
-MEDICATIONS:  Trileptal, Klonopin, Risperdal, and trazodone.
-INTRODUCTION:  A routine EEG was using standard 10-20 electrode placement system with anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 10-11 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded during wakefulness and drowsiness.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.  However, a nice photic driving response was seen during photic stimulation.
-ABNORMAL DISCHARGES:  None.
-SEIZURES:  None.
-HEART RATE:  72.
-IMPRESSION:  Normal awake and drowsy EEG.
-CLINICAL CORRELATION:  This is a normal awake and drowsy EEG.  No seizures or epileptiform discharges were seen.

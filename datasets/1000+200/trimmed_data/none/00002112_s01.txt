@@ -1,8 +1,0 @@
-MEDICATIONS:  Insulin, Aspirin, Nexium, Nystatin, Bactrim,  Plavix, Ganciclovir, Zofran, Synthroid, Flagyl, Spiriva, Prednisone, Remeron, Cellcept, Kolnopin, Coumadin, Cepacol, Cefepime, Vance, Metronidazole, Mycophenolate, Basiliximab
-INTRODUCTION:  Digital EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and poorly responsive.
-DESCRIPTION OF THE RECORD:  The background EEG demonstrates an abnormal background with a mixture of theta and delta. In this sharply contoured background there are trace phasic waves. Sharp waves are also observed in the background  with variable foci including occipital, right central temporal, and T6. The most prominent focuses in the right hemisphere, central, temporal, or occipital. Stimulation of the patient elicits increase in theta. Spontaneous changes in the background  are observed with some sections of the background demonstrating more alpha and theta and other more delta.
-	HR: 	N/A due to the patient's multiple tremor. IMPRESSION:  Abnormal EEG due to:
-	1.	Slow and disorganized background  with a sharply contoured pattern.
-	2. 	Multifocal sharp waves primarily in the right hemisphere.
-	3. 	Triphasic waves.
-CLINICAL CORRELATION: No seizures were recorded. This EEG supports an irritative cortex. This may be multifactorial in nature, but a potential for seizures exists. Triphasics are markers of metabolic disturbances.

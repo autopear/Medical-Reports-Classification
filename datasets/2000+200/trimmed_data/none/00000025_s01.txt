@@ -1,9 +1,0 @@
-MEDICATIONS:  Motrin, Amlodipine, Lisinopril, Albuterol.
-REASON FOR STUDY:  Pre-operative for aortic bypass.
-INTRODUCTION:  Digital video EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures were not performed.
-TECHNICAL DIFFICULTIES:  There is some electrode artifact seen in the frontal regions which the electrodes are F8 and F7.
-DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm, 9-10 Hz, which is reactive to eye opening.  There is normal amount of frontal central beta.  Activating procedures were not performed.   The patient was recorded in wakefulness and stage I sleep.   
-ABNORMAL DISCHARGES:   None. 
-SEIZURES:   None.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

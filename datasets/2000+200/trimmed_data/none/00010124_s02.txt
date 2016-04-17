@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Seizures.
-MEDICATIONS:  Topamax, Neurontin, Klonopin.
-INTRODUCTION:  A routine EEG is performed using standard 10-20 system of electrode placement system with additional anterior,  temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that mainly seems to be 16 Hz, appears to be a fast variant.  It is symmetrical over both occipital regions and reactive to eye opening.  There is an excessive amount of diffuse beta seen throughout the recording.  The patient seems to go into drowsiness in Stage I sleep.  Activating procedures produced no abnormal discharges.
-ABNORMAL DISCHARGES:  None.
-HEART RATE:  78.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges were seen.  Please note that excessive beta may be seen in patients who are taking benzos or barbiturates.  No seizures or epileptiform discharges were seen.

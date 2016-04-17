@@ -1,9 +1,0 @@
-MEDICATIONS:  Depakote, Tegretol, phenobarbital.
-INTRODUCTION:  Continuous video EEG was performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.  Medications were withdrawn from this patient.  No seizures were recorded.
-DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes an alpha rhythm of 7.5 Hz, but also some 11 Hz activity.  The overall awake background is a bit organized in comparison to previous.  There is a fair amount of muscle and movement artifact noted in wakefulness.  As the recording continues, electrode integrity is lost.  Likely slow wave sleep with high amplitude delta was noted in the overnight detection of the record.   
-In wakefulness, there is background disorganization, shifting slowing. 
-Heart rate 66 bpm.
-IMPRESSION:  This is a technically challenging 24-hour section of video EEG monitoring to the lost of electrode integrity, but it is abnormal due to: 
-Background slowing with slowing of the alpha rhythm.
-Disorganization.
-CLINICAL CORRELATION:  No seizures were recorded.  In comparison to previous sections of the EEG, the slowing and disorganization has improved, which may be a reflection of medication adjustment.

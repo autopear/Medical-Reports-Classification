@@ -1,9 +1,0 @@
-MEDICATIONS:  Topamax, Depakote, Clonazepam.
-REASON FOR STUDY:  Seizures.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
-DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 8.5 Hz, which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded in wakefulness and stage 1 sleep.  Activating procedures produced no abnormal discharges.
-ABNORMAL DISCHARGES:  In wakefulness, at times there is excessive theta at 5-7 Hz with an amplitude of 20-60 microvolts.
-SEIZURES:  None.
-IMPRESSION:  Abnormal EEG due to: 
-Mild excessive theta in wakefulness.
-CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

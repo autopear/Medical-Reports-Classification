@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Seizures.
-MEDICATIONS:  Dilantin, Zyprexa, Benadryl.
-INTRODUCTION:  A routine EEG was performed using standard 10-20 system of electrode placement with the addition of anterior temporal and  single EKG electrode.  Patient was recorded during wakefulness and drowsiness.   Activating procedures included hyperventilation and photic stimulation.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.  The patient was recorded in wakefulness and drowsiness.
-ABNORMAL DISCHARGES:  Focal slow waves seen frequently at T3 at a frequency of 2-3 Hz and amplitude of 20-60 microvolts.
-HEART RATE:  78.
-IMPRESSION:  Abnormal electroencephalogram due to intermittent left mid temporal slowing.
-CLINICAL CORRELATION:  This EEG reveals cerebral dysfunction in the left mid temporal region, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

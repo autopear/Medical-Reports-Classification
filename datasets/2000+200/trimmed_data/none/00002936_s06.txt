@@ -1,8 +1,0 @@
-MEDICATIONS: Topamax, Phenobarbital, Depacon, Ativan, others.
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. 
-DESCRIPTION OF THE RECORD: The background EEG is continuous and medium amplitude with generous diffuse beta and theta.  The patient is awake.  There is occasional slow, arrhythmic delta from the right.  On rare occasions, there is a hint of a posterior dominant rhythm.  Some portions of the record are richer in alpha frequency than others.  
-HR:  132 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Excess beta and excess theta.  
-Occasional focal slowing from the right hemisphere.
-CLINICAL CORRELATION: Compared to previous EEGs, this study is markedly improved.  No seizures were recorded and no epileptiform activity was seen.  The record continues to demonstrate generalized background slowing.  The beta and theta may be in part medication effect.  

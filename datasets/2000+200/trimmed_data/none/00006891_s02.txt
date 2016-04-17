@@ -1,9 +1,0 @@
-MEDICATIONS:  Dilantin, Keppra.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
-DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is poorly organized.  There is an alpha rhythm of approximately 7 Hz, but it is intermittently disrupted.  There are bursts of sharply contoured slowing noted from either hemisphere.  Unfortunately, there is also a great deal of muscle and movement artifact.  In hyperventilation, despite the artifacts described above, there is some sharply contoured delta, a handful of left temporal sharp waves and even some somewhat periodic sharp waves occurring in hyperventilation.  Vertex waves, spindles and K complexes are observed in stage 2 sleep.  As the patient transitions in and out of stage 2 sleep, there is a sharp wave picked up in the left posterotemporal and parietal region.  Other sections of the sleep recording demonstrate a more symmetric background. Photic stimulation is performed while the patient is drifting off to sleep.  No significant driving is noted.
-IMPRESSION:  Abnormal EEG due to:
-A slow and disorganized background.
-Intermittent focal slowing noted from the left temporal region, clearly accentuated by hyperventilation at F7-T3.
-Left midtemporal focal slowing, sharply contoured delta and periodic sharp waves noted in hyperventilation.
-Left posterotemporal sharp waves noted in sleep. (T5/P3)
-CLINICAL CORRELATION:  This EEG supports a focal mechanism for epilepsy.  The localization of the epileptiform activity varied depending upon whether or not the patient was undergoing hyperventilation versus sleep.  Left temporal focal epileptiform activity was seen on the prior EEG.  No seizures were seen. No non-epileptic spells were record’s

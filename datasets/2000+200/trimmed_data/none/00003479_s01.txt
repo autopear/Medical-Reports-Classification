@@ -1,9 +1,0 @@
-CLINICAL Hypothermia protocol post PEA code. 
-INTRODUCTION: A routine EEG was performed using standard 10-20 system of electrode placement with additional anterior temporal and single lead EKG electrode. The patient was recorded during unresponsiveness while comatose. Activating procedures were not performed. 
-MEDICATIONS: Protonix, Lasix, Vertolin, Heparin. 
-TECHNICAL DIFFICULTIES: Throughout the recording, there appears to be a diffuse bilateral temporal muscle artifact for what appears to be myogenic artifact seen continuously throughout the record. 
-DESCRIPTION OF THE RECORD: Appears to have low voltage diffusely, the best electrode that can be seen is a central channel, and there appears to be no clear electrical activity that can be seen, however. this may be obscured by the diffuse muscle artifact that is seen throughout the recording No clear evolving seizures are seen. No normal sleep architecture or background is seen. 
-SEIZURES: None. 
-ABNORMAL DISCHARGES: Lack of normal electrocerebral activity, however, again this may be obscured by diffuse muscle artifact. 
-CLINICAL CORRELATION: This is a limited EEG ..h no clear electrographic seizures. Little comment can be made about the extent of cerebral activity that can be seen as there is diffuse artifact A continuous recording win be made, further comment can be made about actual cerebral activity. Again, 
-no seizures or epileptiform discharges were clearly seen. 

@@ -1,7 +1,0 @@
-MEDICATIONS: check tech sheet
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as trached and poorly responsive.  
-DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with primarily a theta frequency pattern.  With stimulation, there is eye opening and eye closure and an alpha frequency activity in the background, but the patient doesn’t truly achieve an alert state.  There are features to suggest a sleep-wake cycle with most of the record showing diffuse background theta, but on occasion the appearance of some vertex waves.  There are rare sharp waves identified in the frontal regions, primarily on the right.  
-HR:  126 BPM.
-	IMPRESSION: Abnormal EEG due to:
-	1.	Generalized background slowing.
-CLINICAL CORRELATION: This tracing represents an improvement compared to the two previous studies.  There is a bit more variability and reactivity and less in the way of epileptiform activity.  No seizures were recorded.  The EEG continues to support a diffuse disturbance of cerebral function affecting both gray and white matter.  The overall pattern is a non-specific pattern. 

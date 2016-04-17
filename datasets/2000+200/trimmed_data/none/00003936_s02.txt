@@ -1,8 +1,0 @@
-MEDICATIONS: Coumadin, Phenobarbital.  Others.  Keppra
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is restless. 
-DESCRIPTION OF THE RECORD: The background EEG demonstrates some markedly disorganized patterns with a mixture of 4 to 7 Hz activity, as well as shifting arrhythmic delta activity.  There is an underlying active spike and wave focus noted in the right centroparietal region.  There is variability in the record with some portions demonstrating more rhythmic theta and others more arrhythmic delta.  By the close of the record, the epileptiform activity was less prominent than in the beginning.  
-HR:  126 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Generalized background slowing and disorganization.
-A prominent right centroparietal spike and wave focus. 
-CLINICAL CORRELATION: No seizures were recorded.  This EEG supports a diffuse disturbance of cerebral function, as well as a localization-related mechanism for epilepsy.  

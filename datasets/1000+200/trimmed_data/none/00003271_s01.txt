@@ -1,8 +1,0 @@
-TECHNICAL DIFFICULTIES:  T4 electrode artifact.
-MEDICATIONS:  Amlodipine, loratadine, Dilantin, and vancomycin.
-INTRODUCTION:  A routine EEG was performed using standard 10-20 electrode placement system with the addition of anterior temporal and single-lead EKG electrode.  The patient was recorded while unresponsive.  Activating procedures were not performed.
-DESCRIPTION OF THE RECORD:  The record opens to a diffusely low slow background with normal posterior dominant rhythm or frontocentral beta.  There is no normal sleep architecture and no normal frontocentral beta seen.  No activating procedures were performed.  No sleep architecture was seen. 
-Heart rate:  114.
-ABNORMAL DISCHARGES:  Generalized slow waves at 2-4 Hz seen continuously throughout the recording with amplitude of 20-30 microvolts.
-SEIZURES:  None.
-IMPRESSION:  Abnormal EEG due to marked diffuse or generalized slowing.  This EEG reveals evidence of marked diffuse cerebral dysfunction, which is nonspecific with regards to etiology but may be at least due in part due to medication affect.  No seizures or epileptiform discharges were seen.

@@ -1,8 +1,0 @@
-REASON FOR STUDY:  Classification and differential.
-MEDICATIONS:  Topamax, Keppra was held overnight, Depakote.
-INTRODUCTION:  A long-term EEG was performed for 21 hours using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.  Continuous spike wave detection as well as seizure detection software in addition to nurses notes and the patient's pushbutton events were used to review the EEG.
-DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures were not performed.  The patient was recorded in wakefulness and sleep.
-ABNORMAL DISCHARGES:  Occasional F8/T2 more than F7/T3 sharp waves in sleep and less frequently while awake.
-SEIZURES OR PUSHBUTTON EVENTS:  None.
-IMPRESSION:  Abnormal EEG due bilateral anterior temporal sharp waves
-CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of localization related epilepsy with seizures arising from the anterior temporal lobes. No seizures or pushbutton events were seen in the first 24 hours or day #1 of the recording.

@@ -1,9 +1,0 @@
-MEDICATION: Morphine, Phenobarbital, Phenytoin and Versed.
-INTRODUCTION: Digital Video EEG was performed at the bedside in the ICU using standard
-10-20 system of electrode placement with one channel of EKG.  The patient has received Versed in close approximation to the EEG. No seizures are identified around the time of the EEG.
-DESCRIPTION OF  THE  RECORD: The  background  EEG demonstrates  a low  voltage but continuous  pattern.   The pattern  is variable.   There  are portions of the record with low voltage delta.  Intermittently, there is variability in the amount of theta. Breech rhythm can be identified on  the  right.    There  are  a  handful  of  subtle,  low  voltage  sharp  waves  seen  from  the  right. Stimulation  of the patient, including auditory stimulation,  seems to produce an increase in theta. Tactile stimulation most clearly produces an increase in theta.
-HR.: 60BPM.
-IMPRESSION: Abnormal EEG due to:
-1.   Replacement  of normal background with a slow pattern
-2.  Shifting asymmetries  with a bit more slow delta from the right compared  to left and rare low amplitude right frontocentral sharp waves
-CLINICAL CORRELATION:  This  EEG supports  a diffuse  disturbance  of cerebral  function affecting  both  gray  and  white matter.    In this individual  with  a craniotomy,  the  EEG  is low voltage than one might anticipate but the subdural hematoma may modify this. No seizures were recorded.  The variability and reactivity to stimuli are positive prognostic features.

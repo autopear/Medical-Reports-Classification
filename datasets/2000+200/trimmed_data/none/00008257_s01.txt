@@ -1,9 +1,0 @@
-MEDICATIONS: Percocet, Morphine, Benadryl, Valproate, others. 
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is trached and comatose.
-DESCRIPTION OF THE RECORD: The background EEG is remarkably slow and relatively featureless with low voltage, delta and theta.  There are frontally predominant triphasic waves, as well as rare, periodic complexes from the left hemisphere.  Behaviorally, with tactile stimulation, there is eye opening and grimacing to noxious stimulation.  Unfortunately, the EEG is relatively obscured by muscle or movement with stimulation.  On one occasion with stimulation, there is a small increase in faster frequency theta activity.  
-HR:  90 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Generalized background slowing.
-Frontally predominant triphasic waves.
-Rare, periodic sharp waves from the left hemisphere with the same morphology as the triphasic waves.
-CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function effecting both gray and white matter.  There are features to support a toxic or metabolic encephalopathy including triphasic waves.  No seizures were recorded.  Correlation with imaging and exam may be helpful regarding the rare PLEDS from the left. 

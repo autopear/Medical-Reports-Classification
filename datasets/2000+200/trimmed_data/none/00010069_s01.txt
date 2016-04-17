@@ -1,9 +1,0 @@
-MEDICATIONS:  Klonopin, Topamax, Metformin, Sitagliptin Phosphate, Risperdal, Ambien, Lopressor, Voltaren, Diovan, Flexeril, Imodium, ASA, Zantac, Claritin, Tenormin, PrandiSn, Advair, Celexa, Xanax, Singulair, Percocet, Hygroton, Pravachol, Lantus, Pioglitazone, Glucovance, Albuterol
-REASON FOR STUDY:  Seizures
-INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal lead and single lead EKG electrode.  The patient was recorded while awake and drowsy.  Hyperventilation and photic stimulation were performed.
-TECHNICAL DIFFICULTIES:  She has some increased bilateral temporal muscle artifact throughout the recording.
-DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 10-11 Hz which is reactive to eye opening.  The PDR is reactive to eye opening.  There is a normal amount of frontal central beta. Activating procedures produce no abnormal discharges.  The patient is recorded mainly in wakefulness and some minimal drowsiness. 
-ABNORMAL DISCHARGES:  None.
-SEIZURES:  None.
-IMPRESSION:  Normal awake and drowsy EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Note:  A normal EEG does not exclude the diagnosis of epilepsy.

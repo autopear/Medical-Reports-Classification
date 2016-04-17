@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Seizures.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation.
-MEDICATION:  Keppra.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is frontocentral beta during absolute wakefulness and sleep.  Overall, the background has excessive theta and the patient appears to become drowsy easily.  This excessive theta is very sharply contoured and at times has intermixed burst of high amplitude sharply contoured frontal discharges that do not clearly have an epileptic appearance, but are suspicious.  The patient easily goes into this rhythm and only remains having a normal background for short periods of time.  The patient does not reach normal sleep.  Activating procedures included hyperventilation and photic stimulation produced no clear abnormal discharges.   
-Abnormal Discharges:  Excessive theta in wakefulness at 5-7 Hz and amplitude of 20-60 microvolts. 
-Heart Rate:  72.
-IMPRESSION:  Abnormal EEG due to excessive theta in wakefulness.
-CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.  Please note that at times there is intermittent burst of sharply contoured theta and prolonged EEG capturing the deeper stages of sleep maybe helpful in clarifying the nature the discharges and the diagnosis of epilepsy.

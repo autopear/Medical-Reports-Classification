@@ -1,7 +1,0 @@
-MEDICATIONS: Librium, Risperdal, and many others. 
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated, but responsive to stimuli.
-DESCRIPTION OF THE RECORD: The background EEG demonstrates an abnormal but dynamic pattern.  Epochs of the EEG are rich in beta and theta frequency activity.  There is also brief attenuation with slower arrhythmic delta activity.  There is evidence of sleep morphologies with vertex waves.  Stimulation of the patient clearly elicits an alerting response.  
-HR:  55 BPM.
-	IMPRESSION: Abnormal EEG for an adult of this age due to:
-	Replacement of normal background with a mixed frequency, slow pattern with prominent bursts of arrhythmic slow delta. 
-CLINICAL CORRELATION: These features are non-specific.  The best fit for this pattern is an underlying severe or significant toxic or metabolic encephalopathy.  Reassuring features in this record include reactivity to external stimuli, variability, and the presence of normal morphologies of sleep such as vertex waves.  No seizures, no spikes, and no sharp waves were seen.  

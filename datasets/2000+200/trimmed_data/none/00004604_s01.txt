@@ -1,9 +1,0 @@
-MEDICATIONS: Dilantin, codeine, Digoxin, and others. 
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is noted to moan occasionally.  
-DESCRIPTION OF THE RECORD: The background EEG demonstrates a pattern of intermittent rhythmic frontal theta followed by intermittent attenuations.  In the overall background, there is more significant arrhythmic delta activity in the posterior quadrants in comparison to the frontal regions.  There is no mention of a ventriculostomy, but there is a clear breach identified in the left central region.   The patient does appear to drift off into drowsiness where the background demonstrates increased rhythmicity and the attenuations are slightly less prominent.  
-HR:  120 BPM.
-	IMPRESSION: Abnormal EEG due to:
-	An unusual pattern with frontal theta, a little bit more on the left than the right, and occipital slowing.
-	Intermittently discontinuous record. 
-	?Breach with focal high amplitude focal features from the left central region.
-CLINICAL CORRELATION: No seizures were recorded.  This EEG supports a severe disturbance of cerebral function affecting both gray and white matter.  The focality with the difference between the frontal and occipital regions is congruent with this patient’s bilateral cerebellar subdural hematomas.  

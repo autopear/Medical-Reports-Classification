@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Syncopal episode.
-MEDICATIONS:  Aspirin, Norvasc and heparin.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness. Activating procedures were not performed.
-TECHNICAL DIFFICULTIES:  Some A1 electro artifact seen continuously throughout the recording.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which was reactive to eye opening.  The patient has normal frontocentral beta.  Activating procedures were not performed.  The patient was recorded only in wakefulness and drowsiness.
-ABNORMAL DISCHARGES:  Focal slow waves seen occasional at F7/T3 at 2-4 Hz with an amplitude of 20-50 microvolts.
-SEIZURES:  None.
-IMPRESSION:  Abnormal EEG due to mild left anterior temporal slowing.
-CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral  dysfunction in the left anterior temporal region, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.

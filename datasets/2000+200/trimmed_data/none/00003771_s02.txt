@@ -1,9 +1,0 @@
-MEDICATIONS: Dilantin, Prednisone, and others. 
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is snoring or coughing during this record.  There is no report of the shoulder shaking.  She is noted to have a craniotomy in the right frontal region.  
-DESCRIPTION OF THE RECORD: The background EEG is slow bilaterally with arrhythmic delta seen from both hemispheres.  There is clearly a breach rhythm of higher amplitude activity from the right compared to the left and some periodic, sharply contoured activity from the right frontal region.  This occasional periodic activity shows some variability and may be maximum in the frontal region, frontotemporal regions, or occasionally centrotemporal.  There is variability in the record.  When the patient is resting quietly and/or snoring, there is an increase in background slowing.  When she is able to cough, there is an increase in background theta.  No episodes of shoulder shaking are identified. 
-HR:  90 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Generalized background slowing.
-Intrahemispheric asymmetry with higher amplitude, more significant slowing on the right. 
-Occasional periodic complexes from the right hemisphere demonstrating variable maxima including frontal, temporal, and centrotemporal regions. 
-CLINICAL CORRELATION: No seizures were recorded.  None of the behaviors in question were identified. 

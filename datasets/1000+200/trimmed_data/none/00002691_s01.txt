@@ -1,9 +1,0 @@
-MEDICATIONS:  None.
-REASON FOR STUDY:  Rule out seizures.
-INTRODUCTION:  Digital video EEG was performed in lab using the standard 10-20 electrode placement system with additional anterior temporal and EKG electrodes.  Wakefulness and sleep were recorded.  Activating procedures with hyperventilation and photic stimulation were performed.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well defined 9 Hz posterior dominant rhythm at 20-60 mV amplitude which is reactive to eye opening.  Normal frontal central beta is seen. Sleep is characterized by stage I. Stimulation and hyperventilation produces no abnormal discharges. 
-ABNORMAL DISCHARGES:  None. 
-SEIZURES:  None.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Note:  A normal EEG does not exclude the diagnosis of epilepsy.  Repeated recording or a more prolonged recording may notice epileptiform discharges.

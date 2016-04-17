@@ -1,9 +1,0 @@
-MEDICATIONS: Dilantin and others. 
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and comatose. 
-DESCRIPTION OF THE RECORD: The background EEG is low voltage, slightly discontinuous.  There are intermittent bursts of paroxysmal beta frequency activity.  There are occasional sharp waves identified in the right temporal region, as well as rare, left sharply contoured delta.  Stimulation of the patient was accomplished using photic stimulation and surprisingly did produce a bit of driving, although the EEG was subtly discontinuous with a subtle burst suppression-like pattern at that time.   There is spontaneous variability in the record. 
-HR:  116 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Replacement of normal background with a low voltage, slightly discontinuous pattern. 
-Occasional right or left temporal sharp waves.
-Breach rhythm primarily from the left.  
-CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function affecting both gray and white matter.  Although rare sharp waves were seen, no seizures were recorded.  Given the subtly discontinuous nature of the record, review of the medications for a sedative hypnotic agent would be appropriate. 

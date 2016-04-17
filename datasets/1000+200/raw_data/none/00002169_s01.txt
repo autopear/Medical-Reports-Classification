@@ -1,9 +1,0 @@
-CLINICAL HISTORY:  55 year old right handed woman with spells in seizures in November 2002, black out spells in 2005.  Now no seizures, but headaches and other vague symptoms that the patient had difficulty describing.
-MEDICATIONS:  Tapazole, Flexeril, Neurontin, Topamax, Tramadol, Nexium, Ibuprofen, Domperidone, Asmanex, Proventil, ASA, Singulair, Claritin, Ambien, Aldactone, 
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record.
-DESCRIPTION OF THE RECORD:  In wakefulness the background EEG is well organized with 9 Hz alpha rhythm.  Features of drowsiness include prominent slowing of the alpha rhythm, as well as anterior spread of the alpha rhythm. Hyperventilation does not significantly activate the record. Photic stimulation elicits driving at 1 Hz and faster flash frequencies with harmonic and supraharmonic driving. 
-HR:    60 bpm.
-IMPRESSION:  Normal EEG
-CLINICAL CORRELATION:  No EEGs have ever demonstrated epileptiform activity for this patient.  The amplitude asymmetry identified in one of the 2005 EEGs may have been related to the patient's migraine history.  This is the fourth EEG for this patient and the third normal EEG.
-
-

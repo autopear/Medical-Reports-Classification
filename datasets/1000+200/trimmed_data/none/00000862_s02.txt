@@ -1,8 +1,0 @@
-MEDICATIONS: Topamax, Risperdal, and Trileptal.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: The background EEG demonstrates generalized background slowing with a posterior dominant rhythm of approximately 5 Hz and an overall background with theta.  There is subtle intrahemispheric asymmetry with more focal slowing from the right than the left.   The background demonstrates subtle, rare right temporal sharp waves.
-Photic stimulation did not activate the record. The overall record does demonstrate some shifting arrhythmic delta activity from the left, but the majority of it is from the right.  
-HR:  72 BPM.
-	IMPRESSION: Abnormal EEG due to:
-1.  subtle, rare right temporal sharp waves.
-CLINICAL CORRELATION: This tracing is similar to this patient’s previous nine EEGs.  No seizures were recorded.  

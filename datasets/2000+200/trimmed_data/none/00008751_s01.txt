@@ -1,9 +1,0 @@
-MEDICATIONS:  Metoprolol, Valacyclovir, Levothyroxine
-REASON FOR STUDY:  Seizures.
-INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  The patient is recorded in wakefulness and stage I sleep.  Activating procedures, including hyperventilation and photic stimulation, produce no abnormal discharges. 
-ABNORMAL DISCHARGES:  None. 
-SEIZURES:  None.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

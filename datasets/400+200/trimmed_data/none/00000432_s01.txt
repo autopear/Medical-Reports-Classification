@@ -1,8 +1,0 @@
-REASON FOR STUDY:  Change in mental status and responsiveness. Possible brain dead.
-MEDICATIONS:  Coreg, lisinopril, Zocor, vancomycin.
-INTRODUCTION:  Routine EEG was performed using the brain dead protocol with the standard 10-20 electrode placement system, with additional anterior temporal electrodes.  The patient was recorded while comatose and unresponsive.  No activating procedures were performed.
-CLINICAL DIFFICULTIES:  There is cardiac and ventilator artifacts seen throughout the recording.
-DESCRIPTION OF THE RECORD:  The record opens to a diffusely abnormal background with no normal posterior dominant rhythm or frontal central beta.  There is no normal sleep architecture or frontal-central beta to the EEG.  At one point, the tech does ocular stimulation.  There appears to be no activity.  Overall, there is no clear electrocerebral activity; however, there is a vast amount of EKG and ventilator artifact throughout the recording.  Specifically, at Pz there is continuous, what appears to be an electrode pop or maybe a drip artifact.   
-Seizures:  None.
-IMPRESSION:  Abnormal electroencephalogram due to lack of normal cerebral activity.
-CLINICAL CORRELATION:  This EEG does not reveal any clear electrocerebral activity.  However, due to the vast amount of artifact, no clear statement about electrocerebral silence can be made.  No seizures or epileptiform discharges were seen.

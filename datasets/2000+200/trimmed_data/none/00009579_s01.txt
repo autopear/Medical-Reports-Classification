@@ -1,9 +1,0 @@
-MEDICATIONS:  Effexor, Topamax, Naprosyn, gabapentin.
-INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  The patient had no craniotomy defect.  There was some muscle artifact noted in the EEG.
-DESCRIPTION OF THE RECORD:  The background EEG in wakefulness is slow and disorganized.  There is some shifting slowing, but there is primarily an interhemispheric asymmetry with disruption of faster frequency activity on the left in comparison to the right.  Occasional sharp waves are noted.  The sharp waves are independent and may be in the left mid to anterotemporal region or on the right.  The wave forms on the right are typically a bit more simple in morphology than those on the left.  Independent, discrete sharp waves were also noted.  Features of drowsiness include an increase in bilateral slowing.  DOSDS were observed in sleep.  Vertex waves were also noted in sleep.  Photic stimulation did not activate the record, but did serve to alert the patient, at which point a slow alpha rhythm of 8 Hz was noted on the right.   
-Heart rate 50 beats per minute.
-IMPRESSION:  Abnormal electroencephalogram due to:
-Interhemispheric asymmetry with disruption of faster frequency activity on the left compared to the right. 
-Shifting slowing. 
-Independent sharp waves noted from the left or right temporal regions.
-CLINICAL CORRELATION:  The focal features on the left are congruent with a right hemiparesis.  Epileptiform activity was noted from either hemisphere, suggesting that this patient's complex neurologic history may contribute to the epilepsy.  No seizures were recorded and there are no previous EEGs.

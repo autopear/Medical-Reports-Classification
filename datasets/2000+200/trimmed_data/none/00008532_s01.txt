@@ -1,9 +1,0 @@
-MEDICATIONS:  Keppra, Nabumetone, MiraLAX, Alendronate, Dilantin, Os-Cal.
-REASON FOR STUDY:  Seizures.
-INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were performed.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.  The patient is recorded in wakefulness and sleep, stage 1.  Activating procedures produced no abnormal discharges.
-ABNORMAL DISCHARGES:  None.
-SEIZURES:  None.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:   No seizures or epileptiform discharges were seen.

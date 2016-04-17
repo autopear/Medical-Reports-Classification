@@ -1,8 +1,0 @@
-MEDICATIONS: Phenobarbital, Trazodone, morphine, and others. 
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is responsive and at one point appearing to try to interact with the team.
-DESCRIPTION OF THE RECORD: The background EEG is remarkable for the relative paucity of cerebral activity on the right.  The left hemisphere demonstrates a continuous pattern with rhythmic theta.  There are some bursts with higher amplitude more chaotic-appearing arrhythmic delta activity, as well as some underlying left frontotemporal sharp waves and occasional bursts of high amplitude left frontal delta.  
-HR:  120 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Relative paucity of cerebral activity on the right.
-A continuous pattern on the left, but at times with bursts of rhythmic frontal delta and/or sharp waves. 
-CLINICAL CORRELATION: This EEG supports a severe disturbance of cerebral function particularly on the right.  The left hemisphere does demonstrate epileptogenic potential.  Compared to a previous long-term monitoring, no seizures were recorded today. 

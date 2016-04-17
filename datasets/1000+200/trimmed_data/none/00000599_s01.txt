@@ -1,9 +1,0 @@
-MEDICATIONS:   Acyclovir, Fentanyl, Keppra.
-INTRODUCTION:   Digital video EEG is performed at bedside using standard 10-20 system of electrode placement  with 1 channel of EKG.
-DESCRIPTION OF THE RECORD:  Background EEG is markedly abnormal and intermittently discontinuous. The overall pattern is 1 of theta with delta and intermittent  attenuations  lasting 1 to 3 seconds. There are shifting asymmetries and at times the left hemisphere is more discontinuous than the right. Sharp waves are observed in this record including left posterior temporal, high amplitude left anterior temporal with some wave forms that are with some generalized bifrontal periodic complexes as well. Stimulation of the patient does not appear to activate the record but the overall EEG is markedly abnormal and there is variability in terms of the degree of discontinuity  in the background.
-	HR: 	96 bpm
-IMPRESSION:  Markedly abnormal EEG due to:
-	1. 	Intermittently discontinuous  pattern.
-	2.	Asymmetry with more arrhythmic delta on the left.
-3.    Epileptiform activity identified from the left hemisphere and/or both hemispheres including left mid to anterior temporal sharp waves, posterior temporal sharp waves and generalized bifrontal period complexes.
-CLINICAL CORRELATION:  No seizures were recorded. These EEG supports a severe disturbance of cerebral function. Medication or this patient's CNS process may play a role. Epileptiform activity was seen more on the left on this study.

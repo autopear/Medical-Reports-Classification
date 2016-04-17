@@ -1,8 +1,0 @@
-MEDICATIONS: Antibiotics, Lipitor, Valproate, others.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: As the tracing opens, the patient is awake.  There is an intrahemispheric asymmetry.  There is higher amplitude activity from the left hemisphere with more rhythmic, 7 Hz theta frequency activity.  The activity from the right hemisphere is lower voltage with less in the way of faster frequency alpha and theta frequency activity.  Drowsiness is characterized by shifting slowing, as well as a decrease in the overall amplitude. 
-HR:  104 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Generalized background slowing.
-Intrahemispheric asymmetry with more disruption of faster frequency activity from the right compared to the left and a lower voltage pattern on the right as well.
-CLINICAL CORRELATION: No epileptiform features were identified in this record.  This tracing supports a disorder of cerebral function effecting both hemispheres including gray and white matter, potentially the right hemisphere more significantly than the left.  No seizures were recorded. 

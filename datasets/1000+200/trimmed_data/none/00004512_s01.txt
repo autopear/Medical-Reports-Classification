@@ -1,9 +1,0 @@
-	MEDICATIONS: 	Depakote, Risperdal, many others. Depakote level is 77.
-	DESCRIPTION OF THE RECORD: 	In wakefulness, background EEG is poorly organized. There is a mixture of theta and delta with prominent, at times almost continuous, arrhythmic delta activity seen in the Tl-T2 electrodes. In addition, there are also some sharp waves identified in the right frontotemporal region which are independent. With this prominent, irregular slowing and sharp waves, patient is awake. As she becomes drowsy, there is no real change in the arrhythmic left
-temporal delta and occasional sharp waves seen independently from either temporal region. Photic stimulation does not activate the record.
-HR: 60 b.p.m.
-	IMPRESSION: 	Abnormal EEG due to:
-1. Nearly continuous arrhythmic delta activity and sharp waves maximum in the left anterior temporal region.
-	2. 	Independent, lower amplitude right anterior temporal sharp waves.
-3. There are left central temporal posterior temporal sharp waves.
-	CLINICAL CORRELATION: 	This EEG supports an irritative brain and localization related mechanism for epilepsy. Correlation with imaging is advised. No seizures were recorded.

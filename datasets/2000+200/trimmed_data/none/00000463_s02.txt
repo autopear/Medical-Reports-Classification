@@ -1,9 +1,0 @@
-MEDICATION: Dilantin, Midazolam, Vecuronium, Ativan, and Morphine.
-INTRODUCTION: Digital Video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel ofEKG.   The patient is initially agitated however, later on in the EEG she is much quieter.
-DESCRIPTION OF THE RECORD: The background EEG is slow and disorganized. The initial portions of the record demonstrate a fair amount of muscle and motion artifact with primarily a theta frequency pattern with shifting arrhythmic delta.  As the patient becomes calmer, an intrahemispheric asymmetry is noted is disruption of faster frequency activity on the left than the right.   There are rare sharp waves identified of 90-110 milliseconds maximum in the left frontocentral and on one or two occasions, frontotemporal regions.
-HR:   126BPM
-IMPRESSION: Abnormal EEG due to:
-1.  Generalized background slowing
-2.  Superimposed focal slowing with faster frequency activity from the left
-3.  Rare sharp waves from the left hemisphere
-CLINICAL  CORRELATION:   No seizures were recorded.   In this individual with recent status epilepticus, there was relatively little in the way of epileptiform activity.

@@ -1,9 +1,0 @@
-MEDICATIONS:  Hydralazine, Keppra, Zofran, Ativan, others.
-INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was quite somnolent.
-DESCRIPTION OF THE RECORD:  The background EEG  is diffusely slow with a mixture of lower voltage theta and delta.  This is a variable record and some sections of the record demonstrate a bit more faster frequency than others.  The faster frequency is a little bit more prominent in the left hemisphere than the right.  There are occasional simple sharp waves noted in the right  hemisphere, particularly in the temporal region with a relatively broad field of spread.  In some sections of the record they appear about every 1 to 2 seconds.  They do not evolve.  Stimulation of the patient is associated with an alerting response, eye opening, and increase in faster frequency activity and the disappearance of the sporadic right anterior temporal sharp waves.  Stages of sleep included increase in beta, some spindles which are somewhat asymmetric and rare vertex waves.   
-Heart rate was irregular at 104 BPM.
-IMPRESSION:  This is an abnormal EEG due to:
-Significant generalized background slowing. 
-Asymmetry with a bit more faster frequency activity on the left than the right. 
-Right anterior temporal sharp waves with a generous field of spread seen sporadically throughout the EEG.
-CLINICAL CORRELATION:  No seizures were recorded.  This EEG supports a diffuse disturbance of cerebral function.  In addition, it is supportive of a structural or functional abnormality on the right.  The sharp waves were noted on the right, although it may be correlated with imaging.  If there are any questions, additional EEG recording may be of value.

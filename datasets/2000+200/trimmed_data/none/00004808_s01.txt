@@ -1,9 +1,0 @@
-MEDICATIONS:  Valium, Dilantin.
-REASON FOR STUDY:  Seizures.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures, including photic stimulation and hyperventilation, were performed.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal amount of frontal central beta.  Activating procedures produce no abnormal discharges.  The patient reaches stage I and stage II sleep.   
-ABNORMAL DISCHARGES:  None. 
-SEIZURES:  None.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

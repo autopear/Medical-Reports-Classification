@@ -1,8 +1,0 @@
-MEDICATIONS:  Dilantin, Keppra, Depakote.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and possible photic stimulation was completed.
-DESCRIPTION OF THE RECORD:  The background EEG was markedly abnormal.  The left hemisphere demonstrates a well organized pattern with 10 Hz alpha rhythm.  The right hemisphere demonstrates a breach rhythm, disruption of the alpha rhythm, sharply contoured mixed state delta, and some sharp waves at T4.  Features of drowsiness include an accentuation of the focal slowing, breach rhythm, and sharply contoured slowing in the right temple region.  In addition, as the patient's transitions in and out of drowsiness, some of this transitions a bit more posteriorly. Photic stimulation demonstrates a driving response on the left. 
-HR:    96 bpm
-IMPRESSION:  Abnormal EEG due to:
-* Right temporal focal slowing.
-* Right temporal sharp waves.
-CLINICAL CORRELATION:  No seizures were recorded.  This patient's epileptiform activity may be accentuated by the craniotomy defect.  Long-term monitoring will follow for this individual.

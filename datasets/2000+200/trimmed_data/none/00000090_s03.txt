@@ -1,7 +1,0 @@
-MEDICATIONS: Heparin, Dilantin, CBZ, others.
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated, but moving about and somnolent.
-DESCRIPTION OF THE RECORD: The background EEG is low voltage, relatively featureless with a mixture of theta and delta activity.  The overall pattern is continuous.  There is some frontal eye movement and some frontal, more rhythmic theta and delta.  When the patient is moving about, there is more motor activity, but there isn’t a significant change in the EEG. 
-HR:  110 BPM.
-	IMPRESSION: Abnormal EEG due to:
-	1.	Low voltage diffusely slow pattern.
-CLINICAL CORRELATION: In this individual with refractory epilepsy, there is surprisingly no epileptiform activity in this record.  No seizures were recorded.  In comparison to previous EEGs from other hospitalizations, this record demonstrates a similar background but less background slowing. 

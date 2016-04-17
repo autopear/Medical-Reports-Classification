@@ -1,8 +1,0 @@
-MEDICATIONS:  Mirapex
-REASON FOR STUDY:  Possible seizures.
-INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  Activating procedures including hyperventilation and photic stimulation were performed.  The patient was recorded in wakefulness and sleep.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures produced no abnormal discharges.  The patient is recorded in wakefulness and stage 1 sleep.
-ABNORMAL DISCHARGES:  None.
-SEIZURES:  None.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

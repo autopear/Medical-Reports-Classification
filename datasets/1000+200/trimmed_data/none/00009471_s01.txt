@@ -1,7 +1,0 @@
-MEDICATIONS: Keppra, norepinephrine, dopamine, others. 
-INTRODUCTION: Digital video EEG was performed at the bedside in the ICU using standard 10.20 system of electrode placement with one channel of EKG. The electrode placement was slightly for the patient’s intracerebral monitor. 
-DESCRIPTION OF THE RECORD: The background EEG is low voltage, featureless, scant low voltage slow delta. Occasional eye movement artifact was noted. There is a lair amount of muscle noted in the background. in active stimulation and auditory stimulation did not activate the record. 
-The EEG was re-reviewed with different modalities including average reference . Utilizing this, the artifacts In the background are a bit more prominent, bot there is some slow delta which cannot be considered artifactual in the record and therefore is likely cerebral in nature. 
-IMPRESSION: Markedly abnormal EEG due to paucity of cerebral activity with scant, low! voltage, slow delta. 
-CLINICAL CORRELATION: This EEG supports a severe, bi hemispheric disturbance of cerebral function. EEG monitoring will follow to more completely assess this patient's cerebral activity. No seizures or epileptiform features were identified. This EEG, recorded 2 days following a severe closed head injury, carries a very worrisome prognosis.  
-	

@@ -1,9 +1,0 @@
-MEDICATIONS: Insulin, Clozaril, Heparin, Nexium, Doxazocin,  Enalapril, Moxifloxacin
-INTRODUCTION:  Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and somnolent, but with stimulation becomes agitation.
-DESCRIPTION OF THE R ECORD:
-The background EEG is low voltage and includes
-continuous beta frequency activity.  There is a smaller amount of delta activity seen in the background.  Stimulation of the patient produces motor activity which obscures the EEG.
-	HR: 	108 bpm
-IMPRESSION:   Abnormal EEG due to:
-1.  Replacement  of normal background with primarily beta frequency pattern.
-CLINICAL CORRELATION: This pattern is compatible with utilization of a benzodiazepine infusion.  No focal nor epileptiform features were observed.  No seizures were seen.

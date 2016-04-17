@@ -1,8 +1,0 @@
-MEDICATIONS: Tegretol and Depakote.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
-DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 to 10 Hz, 30 to 60 uV posterior dominant rhythm, better identified on the right than the left.  Central MU rhythm activity is seen, but testing is not performed to confirm this.   
-The most notable abnormality in this record is continuous focal slowing from the left mid-to-anterior temporal region with a high amplitude left anterior temporal spike and slow wave complex, some of which is mid-to-anterior temporal, others that are more discrete, or more significant spread in the left hemisphere.  Hyperventilation is performed with good effort, producing an increase in the overall background. Brief drowsiness is characterized by slowing of the overall background.  Photic stimulation is marred by artifact in the electrodes on the right, and there is no clear driving response. 
-HR:  66 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Continuous focal slowing and high amplitude left anterior temporal spike and slow wave complexes. 
-CLINICAL CORRELATION: Consideration for a highly epileptogenic focus or an acutely postictal recording is appropriate.  No seizures were recorded.  An attempt will be made to contact the referring physician and arrange for neurologic care. 

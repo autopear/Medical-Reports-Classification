@@ -1,9 +1,0 @@
-MEDICATIONS: Carbamazepine, Phenobarbital.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record with hyperventilation and photic stimulation.
-DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG includes a posterior dominant rhythm of 7.5 to 8 Hz, 50 to 60 V with a modest amount of background theta activity.  In wakefulness, there are rare left anterior temporal sharp waves. Hyperventilation is performed early on in the record and subtle, lower amplitude left anterior temporal sharp waves are identified in hyperventilation, maximum at F7/T1.  Features of drowsiness include rhythmic background slowing without additional epileptiform activity. Photic stimulation is performed at the close of the record following drowsiness and there is some subtle focal slowing from the left temporal region, but no driving.
-HR:  70 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Left anterior temporal sharp waves ranging from small discrete sharp waves to higher amplitude spike and slow wave complexes.
-Generalized background slowing.
-Subtle focal slowing seen on rare occasions in this record.
-CLINICAL CORRELATION: This tracing supports a partial mechanism for epilepsy as well as a diffuse disorder of cerebral function.  No seizures were recorded.  Correlation with imaging and previous studies may be useful. 

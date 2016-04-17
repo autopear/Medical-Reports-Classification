@@ -1,9 +1,0 @@
-MEDICATIONS:  Propofol, Keppra, Ativan, midazolam, Haldol, Zofran, others.
-INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  This is a routine EEG.  Impedances were acceptable aside from the T1-T2 electrodes.
-DESCRIPTION OF THE RECORD:  As the tracing begins the patient is intubated, sedated with a continuous EEG pattern with generous beta, beta spindles and slower, low voltage delta.  Slow rolling eye movements were noted.  Stimulation of the patient produces an increase in beta or faster frequencies.  Spontaneous arousals were also associated with an increase in faster frequency activity.  Stimulation of the patient produced intermittent arousals with eye opening and again a bit more faster frequency activity.  At the close of the record, occasional bursts of frontal delta were noted. 
-Heart rate 120 BPM.
-IMPRESSION:  Abnormal EEG due to: 
-Replacement of normal background with a continuous pattern with beta activity 
-FIRDA. 
-Generalized background slowing.
-CLINICAL CORRELATION:  This patient's medications may play a role in the pattern described above.  No seizures or epileptiform features were identified.

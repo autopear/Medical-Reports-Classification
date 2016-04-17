@@ -1,8 +1,0 @@
-MEDICATIONS:  Neurontin, Prilosec, Procardia, Avalide
-INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single-lead EKG electrode.  The patient has recorded while awake. Activating procedures included hypoventilation and photic stimulation.
-TECHNICAL DIFFICULTIES:  Some movement artifact in the recording.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 to 10 Hz which was reactive to eye opening.  There was a normal amount of frontocentral beta.  Activating procedures produced a nice slowing response with hyperventilation and no abnormal discharges with photic stimulation.  The patient was only recorded in wakefulness.
-ABNORMAL DISCHARGES:  None.
-SEIZURES:  None.
-IMPRESSION:  Normal awake EEG.  
-CLINICAL CORRELATION:   No seizures or epileptiform discharges were seen.  Please note that he had an EEG on August 30, which was also normal, but this one reached stage 2 sleep.

@@ -1,8 +1,0 @@
-MEDICATIONS: Diovan, Metoprolol, aspirin, Lipitor, Carbamazepine, Plavix, Percocet, and many others.  
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: The background EEG demonstrates a remarkable intrahemispheric asymmetry.  The activity from the right hemisphere is low voltage, reasonably well organized with diffuse 5 to 7 Hz theta activity.  From the left hemisphere, the activity is significantly higher amplitude with sharply contoured theta particularly in the left mid-temporal region and the underlying theta is intermittently disrupted by sharply contoured delta.  In this sharply contoured background, there are occasional left mid-to-anterior temporal sharp waves.   
-HR:  72 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Nearly continuous, sharply contoured slowing with a mixture of rhythmic theta and arrhythmic delta.
-Underlying rare, left mid-temporal sharp waves.
-CLINICAL CORRELATION: This tracing supports a structural or functional abnormality on the left.  The amplitude is higher on the left and this may be due to disturbance of underlying white matter or perhaps thickness of the skull.  No seizures were recorded.  

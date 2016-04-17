@@ -1,9 +1,0 @@
-CLINICAL HISTORY: 22 year old right handed woman with epilepsy, 2 tonic clonic seizures in recent months, sleep deprivation.
-MEDICATIONS:  Topamax.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
-DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 9.5 Hz alpha rhythm.  Mu activity is noted, but testing is not performed to confirm to this.  As the patient becomes drowsy, hypersynchronous, sharply contoured prominent theta is noted. Hyperventilation produces paroxysmal theta, but also some brief bursts of frontal 5-6 Hz isolated spike and wave complexes.  Brief stage II sleep includes vertex waves, K-complexes, spindles, and POSTS. Photic stimulation elicits vigorous driving. 
-HR:    60 bpm
-IMPRESSION:  This is the fourth EEG for this patient.  The 2009 EEG was normal, but the 2008 EEG demonstrated in prior study, 3 to 6 Hz spike and wave activity.
-CLINICAL CORRELATION:  No seizures were recorded.  Although photic stimulation did not elicit spike and wave activity, hyperventilation did.  These findings are relatively typical in this epilepsy syndrome.
-
-

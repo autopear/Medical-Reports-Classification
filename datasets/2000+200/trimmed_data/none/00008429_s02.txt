@@ -1,9 +1,0 @@
-MEDICATIONS: Lidocaile, Dilantin, Ativan, Versed drip.
-INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The recording begins at 5:35 p.m.  The patient was no longer having clinical seizures at that time.
-TECHNICAL:  The technical quality was satisfactory.
-DESCRIPTION OF THE RECORD:  As the record begins the patient is resting comfortably.  There is generous beta identified bilaterally.  The left hemisphere is a continuous pattern with beta and smaller amounts of theta.  The right hemisphere demonstrates a breach rhythm with arrhythmic delta activity in the right temporal region and subtle, lower voltage periodic delta in the right mid temporal region.  There is also some right frontocentral delta noted.  When unstimulated, the patient drifts off to sleep with an increase in background slowing and  slight attenuation of the subtle periodic delta in the right hemisphere.          
-Heart rate 102 BPM.
-IMPRESSION:  This is an abnormal EEG due to: 
-A slow pattern on the left. 
-Focal slowing from the right hemisphere with intermittent arrhythmic and periodic delta on the right.
-CLINICAL CORRELATION:  For this patient with repetitive seizures today, no definitive sharp waves and no seizures were identified.

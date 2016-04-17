@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Seizures.
-MEDICATIONS:  Seroquel, Percocet, Protonix, aspirin, hydrocortisone, trazodone, and Zoloft.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation.
-TECHNICAL DIFFICULTIES:  
-DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  The patient is recorded during wakefulness and drowsiness.  There is normal frontocentral beta.  Activating procedures including hyperventilation and photic stimulation produce no abnormal discharges. 
-Abnormal discharges:  Focal sharp waves seen at T4/T2 and one suspiciously sharp transient at F8/T4 during wakefulness.  In addition, there is some right anterior frontal slowing at F4, seen intermittently at 2 to 4 Hz with an amplitude of 20 to 60 microvolts, at times sharply contoured. 
-Seizures:  None.
-IMPRESSION:  Abnormal EEG due to right temporal sharp waves and frontal slowing.
-CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of focalization related epilepsy with seizures likely arising from the right temporal region.  In addition, there is evidence of focal cerebral dysfunction in the right frontal region which may be related to the known shunt.  No seizures were seen.

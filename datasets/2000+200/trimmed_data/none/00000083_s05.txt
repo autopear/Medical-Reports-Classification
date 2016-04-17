@@ -1,5 +1,0 @@
-MEDICATIONS:  Dilantin, Topamax.
-INTRODUCTION:  Continuous digital video EEG monitoring was performed using continuous seizure and spike detection.  No clinical or electrographic seizures were identified.
-DESCRIPTION OF THE RECORD:  Random wakefulness and sleep, the patient is awake throughout much of the recording.  There is a well organized 10 Hz alpha rhythm. Stage II sleep is characterized by vertex waves, K-complexes, spindles, and POSTS. 
-Hr:    72 bpm
-IMPRESSION:  Normal awake and sleep EEG without epileptiform activity.

@@ -1,9 +1,0 @@
-MEDICATION: Dilantin, Tegretol, and Depakote.
-INTRODUCTION: Digital  Video EEG was perfom1ed in the lab using standard  10-20 system of electrode placement with one channel of EKG.  There was no hyperventilation or photic stimulation  performed in this awake and drowsy individual.
-DESCRIPTION OF THE  RECORD: The background EEG is continuous, low voltage with a mixture of low voltage theta and a smaller amount beta.  There are occasional high amplitude spike and slow wave complexes picked up in the frontal  regions  on the left with a generous field of spread in the left hemisphere.   As the patient becomes drowsy, the  left  frontal  spike  and slow  wave  complexes  increase, then  they  disappear  as  the patient reaches stage I sleep with vertex waves.  There are some asymmetries,  in tem1s of the beta spindles produced, and some of the spike and slow wave activity remains into to stage II sleep,  very high  an1plitude left hemisphere maximum  with a handful  of sharp waves picked up in the right anterior temporal region.  In sleep, there are occasional right anterior temporal sharp waves.
-HR:   72 BPM
-IMPRESSION: Abnormal EEG due to:
-1. High amplih1de left frontal spike and slow wave complexes
-2.  Moderate background slowing
-3.   Occasional  right temporal sharp waves
-CLINICAL CORRELATION: This tracing supports a localization  related mechanism for  epilepsy  with  the  left  frontal  focus  being  most  prominent  as  well  as  a  diffuse disturbance of cerebral function.  No seizures were recorded.

@@ -1,9 +1,0 @@
-CLINICAL HISTORY: 28-year-old woman with recurrent, refractory seizures.  Seizures versus non-epileptic seizures.  
-MEDICATIONS: Tegretol, Topamax, Ativan 2 mg, and Heparin.
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is drowsy and initially asleep. 
-DESCRIPTION OF THE RECORD: The initial portions of the record demonstrate abundant stage II sleep with vertex waves, K complexes, and spindles.  Stimulation of the patient elicits a normal alerting response with a 9.25 Hz, 40 uV posterior dominant rhythm.  Towards the close of the record, the patient is able to sustain wakefulness, but in the middle portions she drifts off to sleep.  
-HR:  84 BPM.
-	IMPRESSION: Normal primarily asleep EEG.
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  This patient appears to be excessively drowsy.  Medications may produce this pattern as might sleep deprivation.  No seizures were seen.   
-
-

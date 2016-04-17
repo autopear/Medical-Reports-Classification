@@ -1,9 +1,0 @@
-MEDICATIONS:  Klonopin.
-REASON FOR STUDY:  Seizures.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation.
-DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is mild increased amount of frontocentral beta.  Hyperventilation and photic stimulation produced no abnormal discharges.  The patient is recorded in wakefulness and drowsiness.
-ABNORMAL DISCHARGES:  Mild excessive theta in wakefulness.
-SEIZURES:  None.
-IMPRESSION:  Abnormal EEG due to: 
-Mild excessive theta in wakefulness.
-CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

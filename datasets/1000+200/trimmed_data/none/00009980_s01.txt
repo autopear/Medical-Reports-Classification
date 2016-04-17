@@ -1,9 +1,0 @@
-MEDICATIONS: None. 
-REASON FOR STUDY: Seizures. 
-INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with additional anterior temporal and single lead EKG electrode. The EEG was recorded during wakefulness. Activating procedures including photic stimulation and hyperventilation were performed. 
-TECHNICAL DIFFICULTIES: Frequent T30 electrode artifacts. 
-DESCRIPTION OF RECORDING: The recording opens to a posterior dominant rhythm that best reaches 9Hz with an amplitude of 20-60 microvolts which is reactive to eye opening. There is increased amount of frontal central beta. That sound was seen diffusely throughout the record. Only wakefulness and drowsiness was captured on the recording. Activating procedures including hyperventilation and photic stimulation did not present any abnormal discharges. 
-ABNORMAL DISCHARGES: None. 
-SEIZURES: None. 
-IMPRESSION: Normal awake EEG. 
-CLINICAL CORRELATION: This EEG wastefulness revealed no abnormalities. No seizures or epileptiform discharges were seen.

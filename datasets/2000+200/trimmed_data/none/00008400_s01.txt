@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Episode of syncope versus seizures.
-MEDICATIONS:  Nifedical, aspirin, simvastatin, losartan, hydrochlorothiazide.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included photic stimulation.
-TECHNICAL DIFFICULTIES:  One single T4 electrode artifact occurred for 5 seconds throughout the recording.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded during wakefulness and sleep, stage I and stage II.  Activating procedures  including photic stimulation produced no abnormal discharges.
-ABNORMAL DISCHARGES:  None.
-HEART RATE:  60.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges were seen.

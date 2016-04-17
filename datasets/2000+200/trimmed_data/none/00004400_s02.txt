@@ -1,9 +1,0 @@
-MEDICATIONS:  Dilantin, Phenobarbital.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation is completed.
-DESCRIPTION OF THE RECORD:  The background EEG is abnormal, diffusely slow, poorly organized with continuous arrhythmic delta activity in the left hemisphere, particularly frontocentral, frontotemporal regions.  A breech rhythm is observed.  There are portions in the record with a 9 Hz posterior dominate rhythm.  Features of drowsiness included increase in rhythmic 3 to 5 Hz activity.   As the patient becomes drowsy, in the context of a breech rhythm, sharp waves are observed at F3 and T1.
-	HR: 	84 bpm
-IMPRESSION: Abnormal EEG due to:
-	1. 	Generalized background slowing and disorganization.
-	2. 	Superimposed nearly continuous arrhythmic delta activity in the left hemisphere, congruent with the prior craniotomy.
-	3. 	Occasional sharp waves, left frontal and temporal
-CLINICAL CORRELATION: This EEG is more supportive of a diffuse disturbance of cerebral function as well as a structural process on the left.  No seizures were recorded. The epileptiform activity was relatively modest.

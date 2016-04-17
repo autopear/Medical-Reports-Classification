@@ -1,9 +1,0 @@
-MEDICATIONS: Simvastatin, BuSpar, Zyprexa
-INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.
-DESCRIPTION OF THE RECORD:  The background EEG demonstrates a background which at times is well organized. At other times, there are bursts of paroxysmal irregular slowing. The patient has difficulty holding  still, but there are bursts of notched sharply contoured activity, particularly in the frontal regions. In addition, there are some left anterior temporal sharp waves noted on rare occasions in the background. Some sections of the record demonstrate a very well organized pattern with high amplitude 13 Hz alpha rhythm. Other sections demonstrate more rhythmic theta with this notched bifrontal activity which does not localize. That same activity  is not well localized. There is also a suggestion of some triphasic-like activity. Photic stimulation serves to alert the patient, but there is no driving response.
-	HR:	78 bpm
-IMPRESSION: Abnormal EEG due to:
-	1. 	Intermittent bursts of paroxysmal slowing.
-	2.	Focal sharp waves from the left hemisphere.
-	3.	Poorly localized bifrontal epileptiform activity with a sharp wave rather than a sharp and slow wave complex.
-	CLINICALCORRELATION: No seizures were recorded. There were both focal and generalized features in this record. A  follow-up study after this patient's medications have been changed may be important.

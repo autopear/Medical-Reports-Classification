@@ -1,9 +1,0 @@
-MEDICATIONS:  Ultram, Naproxen, Prilosec, Dextrostat.
-REASON FOR STUDY:  Questionable seizure.
-INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with the addition of anterior temporal single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures including hyperventilation and photic stimulation were performed.   
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9 Hz which is reactive to eye opening.  There is no abnormal frontocentral beta.  Activating procedure including hyperventilation and photic stimulation produced no were abnormal discharges.  The patient was seem to be in wakefulness and drowsiness.  	   
-ABNORMAL DISCHARGES:  None. 
-SEIZURES:  None.
-IMPRESSION:  Normal awake and drowsy EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

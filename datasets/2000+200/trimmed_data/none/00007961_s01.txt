@@ -1,9 +1,0 @@
-MEDICATIONS: please check chart
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with standard neonatal montage and primaries.  The infant is resting comfortably 
-DESCRIPTION OF THE RECORD: The infant is sleeping throughout the record.  There are normal developmental milestones identified in this record including delta brushes.  The record is continuous and there is activity at CZ, which is compatible with vertex activity.  There are occasional shifting asymmetries.  Notable in this record are right temporal sharp waves, greater than anticipated for this child’s age with essentially none seen on the left.  There are also sharply contoured triangular waves, frontal transiennts, which may be seen independently or bilaterally.  In a brief section of the record, there is a high amplitude, almost a sharp and slow wave discharge, approximately one per second, with attenuation following.  This is seen on only one occasion.  There are portions of the record with a suggestion of trace’ alternans.
-HR:  120 BPM.
-	IMPRESSION: EEG outside of the limits of normal for an infant of this gestational age due to:
-Right temporal sharp waves greater than anticipated for an infant of this age.
-Frontal sharps, again greater than anticipated for this age.
-A single burst of slow spike and wave lasting three seconds. 
-CLINICAL CORRELATION: No seizures were recorded.  Correlation with imaging and clinical history may be of use. 

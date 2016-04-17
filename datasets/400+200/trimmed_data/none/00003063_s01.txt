@@ -1,9 +1,0 @@
-MEDICATIONS:  Dilantin, Famotidine
-INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed. The patient is poorly responsive.
-DESCRIPTION OF THE RECORD:  The background EEG is markedly slow. It is a mixture of delta and theta frequency activity. The activity is somewhat more suppressed on the right compared to the left and the right is lower voltage. The left hemisphere demonstrates well defined T1 spike and slow or sharp and slow wave complexes noted as the recording continues. As the recording continues, the patient is awake with eye opening and occasional movements. 
-The sharp waves and spikes tend to occur as pairs with a brief train of sharp waves and spikes noted at 11:1329. This is followed by an arousal, but no definitive seizures. As the patient drifts back toward sleep, there is a mixture of theta and delta and less eye movement. Occasional automatisms in chewing are noted, but no seizures are recorded. 
-HR:    72 bpm.
-IMPRESSION:  Abnormal EEG due to: 
-Generalized background slowing. 
-Prominent left anterior temporal sharp and slow wave and spike and slow wave complexes.
-CLINICAL CORRELATION:  The background slowing is improving compatible with a postictal state. The focal sharp waves support a focal mechanism for epilepsy.

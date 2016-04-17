@@ -1,7 +1,0 @@
-MEDICATIONS:  Unknown.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 system of electrode placement with anterior temporal and single lead EKG electrode.  The patient was recorded while awake and drowsy.  Activating procedures were not performed.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  There is an excessive amount of beta seen diffusely throughout the recording.  Activating procedures are not performed.  The patient is recorded in wakefulness and some drowsiness.
-ABNORMAL DISCHARGES:  None.
-SEIZURES:  None.
-IMPRESSION:  Normal awake and drowsy EEG.  No seizures or epileptiform discharges were clearly seen.

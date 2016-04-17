@@ -1,8 +1,0 @@
-MEDICATIONS:  Vancomycin, gentamicin, caffeine.
-INTRODUCTION:  Digital video EEG was performed in the ICU using the neonatal montage.  This was a 1-hour EEG, capturing wakefulness and sleep.
-DESCRIPTION OF THE RECORD:  The appropriate developmental milestones for an infant of this age were identified, and the EEG captured wakefulness and sleep.  When the infant is awake, the infant is moving about with significant muscle and movement artifact, but there is a continuous pattern with mixed frequencies noted, particularly theta.  Suck artifact was noted.  In sleep, delta brushes were noted.  Trace alternans was identified. 
-Although there are some artifacts, there are rare, simple, right temporal sharp waves. 
-Appropriate eye movement and other muscle artifacts and suck artifact were identified. 
-Heart rate 150 bpm.
-IMPRESSION:  This EEG was within normal limits for an infant of this age.
-CLINICAL CORRELATION:  Delta brushes and trace alternans are appropriate developmental findings at this age.  The infrequent right temporal sharp waves are not considered pathological.  This individual was noted to be a bit jittery during the EEG, but no seizures were identified.

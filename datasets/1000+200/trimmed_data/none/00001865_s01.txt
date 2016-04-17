@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Falls and loss of consciousness.
-MEDICATIONS:  Meclizine, lovastatin, amlodipine, metoprolol, and Prevacid.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 8 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded during wakefulness and drowsiness.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.
-ABNORMAL DISCHARGES:  Mild slowing of the posterior dominant rhythm.
-HEART RATE:  72.
-IMPRESSION:  Abnormal EEG due to mild slowing of the posterior dominant rhythm.
-CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.

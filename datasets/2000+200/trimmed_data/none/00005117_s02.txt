@@ -1,9 +1,0 @@
-MEDICATIONS: Dilantin and others.
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient was obtunded during the recording.  
-DESCRIPTION OF THE RECORD: The background EEG is disorganized and diffusely slow.  There is a posterior dominant 7 Hz, 15 V activity and a small amount of low voltage, frontocentral beta activity.  Occasional theta and delta slow activity was observed in the left hemisphere, which becomes more predominant in drowsiness.  Occasional shifting arrhythmic delta activity, intermittently slow, was seen in the temporal regions.  
-HR:  100 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Disorganized background with diffuse slowing.
-Occasional left hemispheric focal slowing.
-Intermittent shifting arrhythmic delta activity in the temporal regions. 
-CLINICAL CORRELATION: This tracing is suggestive of a cerebral dysfunction.  The focal findings in the left hemisphere and the temporal areas are congruent with  patient’s brain injury and the left temporal craniotomy.  In comparison to this patient’s previous EEG of November 5, this tracing is not significantly different.  No seizures were recorded. If epilepsy is a clinical concern, a repeat EEG may be helpful. 

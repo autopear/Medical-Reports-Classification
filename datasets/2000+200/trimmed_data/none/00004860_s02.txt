@@ -1,9 +1,0 @@
-MEDICATIONS:  Neurontin, Topamax.
-REASON FOR STUDY:  Seizures.
-INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation.
-DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 7 Hz, which is reactive to eye opening.  There is a limited amount of frontocentral beta.  Overall there is a diffuse theta slowing during wakefulness in this patient.  The patient is recorded in wakefulness and stage I sleep.  Hyperventilation produces a nice frontal slowing response.  Activating procedures produce no abnormal discharges. 
-ABNORMAL DISCHARGES:  Mild generalized slowing in wakefulness at 5 to 7 Hz with an amplitude of 20 to 40 microvolts seen continuously during wakefulness.   
-SEIZURES:  None.
-IMPRESSION:  Abnormal EEG due to: 
-Mild generalized slowing.
-CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction, which is nonspecific in regard to etiology.  No seizures or epileptiform discharges were seen.  Please note that these findings are different from the previous EEG which has revealed right frontotemporal slowing as well as right temporal sharp waves, the last one being on July 14, 2010.

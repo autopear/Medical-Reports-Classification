@@ -1,8 +1,0 @@
-MEDICATIONS: Percocet, TPA, and Meclizine.
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is extremely uncomfortable.  There is no mention as to when she received the TPA and if she has a hemiparesis. 
-DESCRIPTION OF THE RECORD: This EEG demonstrates an intrahemispheric asymmetry.  The activity is essentially normal from the left hemisphere with an 8.5 to 9 Hz posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  There is arrhythmic delta activity most prominent in the right posteriotemporal region with an underlying right posteriotemporal sharp wave with involvement of C4 and  P4 as well.  The parasagittal regions demonstrates slowing in the right parasagittal region, but there is also some identified in the left region.
-HR:  80 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Continuous arrhythmic delta from the right hemisphere.
-In this sharply contoured background, there is a prominent and at times periodic sharp wave. 
-CLINICAL CORRELATION: No seizures were record.  This EEG supports a structural and/or functional abnormality in the right hemisphere, which is irritative in nature.  Additional recording may be valuable. 

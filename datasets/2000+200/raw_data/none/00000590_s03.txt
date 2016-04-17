@@ -1,9 +1,0 @@
-CLINICAL HISTORY:  This is a 23-year-old man with a history of seizures, onset of seizures at age of 15.  He has had 5 episodes since 2005, but loss of consciousness lasting 1-2 minutes and postictal confusion.  The patient denies aura, bowel or bladder incontinence, or tongue biting.  Last seizure was in June 2009.  This is a followup EEG.
-MEDICATIONS:  Depakote and Keppra.
-INTRODUCTION:  The is a digital video EEG performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulations were performed.  This is a study that was captured during short periods of wakefulness as stage I and stage II of sleep, and short periods of REM.
-DESCRIPTION OF RECORD:  In most awake state, posterior dominant rhythm is 9 Hz in frequency, and is reactive, and is located in posterior region.  Low amplitude frontocentral beta activity is distributed symmetrically.  Stage 1 sleep is characterized by vertex waves and POSTS.  Stage 2 sleep is characterized by sleep spindles and K complexes.  There is short periods of REM sleep that is characterized by rapid eye movements.  Photic stimulation induces driving response and hyperventilation induces mild symmetric slowing.  There are no seizures or epileptiform discharges seen in this study. 
-Heart rate is 66 bpm.
-IMPRESSION:  This is a normal EEG and no seizures or epileptiform discharges are seen.
-CLINICAL CORRELATION:  Normal EEG does not exclude the diagnosis of epilepsy.  If clinical concern is for seizures, a prolonged EEG with sleep deprivation is recommended.
-
-

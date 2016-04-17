@@ -1,9 +1,0 @@
-MEDICATIONS: Coumadin, Tiagabine, Heparin, Labetalol, and others. 
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is poorly organized.   There is a 9 Hz, 30 uV posterior dominant rhythm, but with excess background theta and occasional bursts of shifting, sharply contoured theta or delta.   Hyperventilation is performed early on in the record producing an increase in background slowing.  Vertex waves and spindles are seen in stage II sleep.  In wakefulness and in stage II sleep, there are a handful of left anterior temporal sharp waves.  In addition to the sharply contoured bursts of delta, there are rare left anterior temporal sharp waves.  
-Photic stimulation elicits brief bilateral driving.  
-HR:  72 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Poor organization with excess theta and shifting arrhythmic delta activity. 
-Rare left temporal sharp waves. 
-CLINICAL CORRELATION: Consideration for an underlying, bihemispheric process involving both gray and white matter would be appropriate.  No seizures were recorded.  Correlation with imaging may be useful. 

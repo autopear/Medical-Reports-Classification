@@ -1,8 +1,0 @@
-MEDICATIONS:  Fentanyl, Propofol, Versed, Vecuronium, Hydralazine, Mannitol, Labetalol, Protonix
-DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  The right hemisphere is essentially suppressed with lower voltage delta.  The left hemisphere demonstrates intermittent, sharply contoured theta, and some faster frequency activity.  There is an aspect of periodicity to the bursts of cerebral function on the left.   Stimulation of the patient does not activate the record. 
-HR:    72 bpm
-IMPRESSION:  Markedly abnormal EEG due to:
-Markedly abnormal background.
-Essentially suppressed pattern from the right.
-Markedly slow and attenuated pattern on the left with intermittent, somewhat periodic activity.
-CLINICAL CORRELATION:  This EEG supports a severe bihemispheric disturbance of cerebral dysfunction affecting the right hemisphere more than the left.  No seizures were noted.

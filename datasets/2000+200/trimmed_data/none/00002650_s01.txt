@@ -1,8 +1,0 @@
-MEDICATIONS: Keppra, asa,  Labetalol, Hydralazine, Lorazepam, Pantoprazole, Insulin
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is awake and/or stuporous.
-DESCRIPTION OF THE RECORD:  The background EEG demonstrates a dynamic pattern.  There are portions with wakefulness where there is approximately 8 Hz alpha rhythm. Other portions demonstrate more significant background slowing. There are bursts of FIRDA. There are also bursts of shifting arrhythmic delta activity, some focal delta on the left, which is sharply contoured.  Focal delta on the right is associated with dropout at faster frequency activity.
-	HR:	84 bpm
-IMPRESSION/CLINICAL CORRELATION: Abnormal EEG due to:
-	1. 	Background slowing.
-	2.	Frontal intermittent rhythmic delta activity.
-	3.		Focal features identified from either hemisphere.   That on the left is associated with sharply contoured slowing, but on the right it is associated with disruption of faster frequency activity. No seizures were recorded.  Correlation with imaging is suggested.

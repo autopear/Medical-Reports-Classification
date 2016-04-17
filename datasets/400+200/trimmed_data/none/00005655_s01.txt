@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Seizures.
-MEDICATIONS:  Ativan, amoxicillin, Prevacid.
-INTRODUCTION:  A routine EEG was performed using standard 10-20 placement system with additional anterior temporal and single lead EKG electrodes.  Patient was recorded during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
-CLINICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 10 Hz which is reactive to eye opening.  There is a slight excessive amount of frontocentral beta.  The patient is recorded in wakefulness and sleep stage 1 and stage 2.  Activating procedures produced no abnormal discharges.
-ABNORMAL DISCHARGES:  None.
-HEART RATE:  84.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges were seen.

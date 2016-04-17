@@ -1,8 +1,0 @@
-MEDICATIONS:  Fioricet, Reglan, Doxycycline.
-REASON FOR STUDY:  Headaches, rule out seizures.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement system with one single EKG electrode.  Activation procedures was hyperventilation and photic stimulation.
-DESCRIPTION OF THE RECORD:  Posterior dominant rhythm was observed at 9-10 Hz, was symmetric and reactive to eye opening.  The frontal beta rhythm was also observed at 18 Hz.  The features of drowsiness include an increase in beta activity and was observed.  The sleep, stage I and II, were recorded with POSTS and K-complexes.  Hyperventilation and photic stimulation did not illicit any abnormal activities.   
-ABNORMAL DISCHARGES:  None.
-SEIZURES:  None
-IMPRESSION:  Normal EEG in wakefulness and sleep.
-CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude the diagnosis epilepsy.

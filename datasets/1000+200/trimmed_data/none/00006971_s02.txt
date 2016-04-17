@@ -1,9 +1,0 @@
-MEDICATIONS:  Keppra, Zantac, Diclofenac.
-REASON FOR STUDY:  Rule out seizures.
-INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 standard electrode placement and EEG electrodes.  Wakefulness and sleep study was recorded.  Hyperventilation and photic stimulation were performed.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record open to a well-defined posterior dominant rhythm, an alpha rhythm of 11 Hz.  There was also noticeable central mu rhythm present.  Photic stimulation and hyperventilation increased the amplitude of the record. Sleep: Attenuation of alpha and an increase in theta, vertex waver, POSTS.
-ABNORMAL DISCHARGES:  None.
-SEIZURE ACTIVITY:  None.
-IMPRESSION:  Normal awake EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen. A normal EEG does not exclude epilepsy diagnosis.

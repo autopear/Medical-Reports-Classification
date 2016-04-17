@@ -1,8 +1,0 @@
-MEDICATIONS: Synthroid and Naproxen. No AEDs.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: As the tracing opens, there is an alpha rhythm of 9.5 Hz, 25 to 35 uV, with a mixture of occasional theta. Hyperventilation is performed early on in the record, producing left temporal sharp waves and left temporal focal slowing.  Features of drowsiness include vertex waves, spindles, K complexes, and POSTS. Dysthormia features were noted in the record.  During drowsiness, less sharp waves were noted in the left hemisphere. Photic stimulation elicits bilateral, supraharmonic driving and the reappearance of left focal slowing.  
-HR:  78 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Left temporal sharp waves and focal slowing. 
-Frontal theta activity seen in wakefulness.  
-CLINICAL CORRELATION: In this individual with a history of childhood epilepsy, this EEG raises the possibility of a localization-related mechanism for the recurrence of left temporal epilepsy. No seizures were recorded during this study.

@@ -1,4 +1,0 @@
-MEDICATIONS: Dilantin, Depakote. 
-INTRODUCTION: No seizures were identified by the patient.  No push buttons were identified compatible with seizures, although there were multiple practice push buttons.  There stellate detections, which were all artifact.  
-RANDOM WAKEFULNESS AND SLEEP: In wakefulness, there is a symmetric, reactive 10 Hz alpha rhythm.  In drowsiness, there is a small amount of focal slowing from the left seen intermittently in the background.  There is little in the way of epileptiform activity in this section of the record.  
-HR:  60 BPM.

@@ -1,7 +1,0 @@
-MEDICATIONS: None listed.
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This EEG was performed more than 15 hours after the anoxic injury although the exact date is not available.  
-DESCRIPTION OF THE RECORD: The background EEG is low voltage, diffusely slow with a mixture of low voltage and beta frequency activity.  There are some portions of the record demonstrating reactivity to external stimuli.  As the recording continues, the reactivity is better defined with the appearance of theta activity and some triangular shaped 5 Hz activity in the occipital region.  There are brief portions of the record that have hallmarks resembling stage II sleep with vertex wave and spindles.  
-HR:  120 BPM.
-	IMPRESSION: Abnormal EEG due to:
-	1.	Replacement of normal background with primarily a mixture of delta and beta.
-CLINICAL CORRELATION: In the setting of an anoxic encephalopathy, this EEG would carry a good prognostic pattern and this finding would be valuable if this EEG has been recorded 24 hours after the insult.  The record is continuous.  There is reactivity and variability and there are some morphologies that resemble a normal sleep structure.  No seizures were recorded.  

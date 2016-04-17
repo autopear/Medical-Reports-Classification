@@ -1,8 +1,0 @@
-MEDICATIONS:  Keppra, Depakote, Zonegran.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
-DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm.  Well defined mu activity is noted but testing is not performed to confirm this.  Left temporal focal slowing is characterized by intermittent disruption of  left temporal theta, some irregular mixed theta delta.  In addition, there are left mid temporal sharp waves and/or spikes.  These are identified in relaxed wakefulness, increase in hyperventilation.  Drowsiness accentuates the focal slowing and the sharp waves.  Photic stimulation elicits scant driving.
-HR:   64 bpm
-IMPRESSION:  Abnormal EEG due to: 
-Left temporal focal slowing.
-Left anterior temporal sharp waves and spikes.
-CLINICAL CORRELATION:  These findings are similar to previous EEGs.  No seizures were recorded.

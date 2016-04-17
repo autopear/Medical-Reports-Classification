@@ -1,9 +1,0 @@
-MEDICATIONS: Labetalol, Zofran 
-INTRODUCTION: Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. A long-term monitoring device with seizure and spike detection was employed. The patient is somewhat drowsy. During this EEG recording, no clinical events are documented by the team. 
-DESCRIPTION OF THE RECORD: The background EEG demonstrates an awake and drowsy pattern. There are occasionally bursts of frontally predominant slowing. There are sections in this EEG monitoring where the patient is more awake with more of a theta pattern. There is a slight asymmetry at times. At times it is somewhat slower on the left compared to the right, but there is also some shifting slowing. Of note, by the end of the EEG the overall background slowing has improved somewhat  
-HR: 84 bpm. 
-IMPRESSION: Abnormal EEG due to: 
-1. Generalized background slowing. 
-2. A superimposed asymmetry with a somewhat slower record on the left. 
-3. Shifting slowing. 
-CLINICAL CORRELATION: The background slowing is similar to previous studies and has been seen in recent years. The left focal slowing may be correlated with imaging and the right-sided weakness. There were no epileptiform features. There were no seizures recorded. 

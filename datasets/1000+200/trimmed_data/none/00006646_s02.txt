@@ -1,7 +1,0 @@
-MEDICATIONS: Ativan, Succinylcholine,Rocuronium, Etomidate, Valproic Acid and others 
-INTRODUCTION : Digital video EEG was performed in bedside using standard 10-20 system of electrode placement with 1 channel EKG. Although the patient's intubated and has been paralyzed she has a great deal of muscle activity. 
-DESCRIPTION OF THE RECORD: The background EEG demonstrates a slow pattern with underlying delta and movement artifact. The patient is quite restless throughout. As she becomes more agitated, there is an increase in delta. The EEG intermittently attenuates. 
-HR: 70 to 104 bpm 
-IMPRESSION: Abnormal EEG due to: 
-1. Lower voltage delta pattern with beta and muscle artifact.  
-CLINICAL CORRELATION: There are no epileptiform features identified in this record. In this individual who appears to be awakening from sedation, ongoing assessment is important to make sure that there are no seizures noted. 

@@ -1,8 +1,0 @@
-MEDICATIONS:  Nexium and hyperlipidemia medication.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient is recorded during wakefulness and sleep.  Activating procedures included photic stimulation.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9 Hz, which is reactive to eye opening.  There is normal frontal central beta.  The patient is recorded during wakefulness and sleep, stage I.  Activating procedures included only photic stimulation, not hyperventilation, which revealed no abnormal discharges.
-ABNORMAL DISCHARGES:  None. 
-Heart rate 66.
-IMPRESSION:  Normal awake and asleep EEG.
-CLINICAL CORRELATION:  This is a normal awake and asleep EEG.  No seizures or epileptiform discharges were seen.

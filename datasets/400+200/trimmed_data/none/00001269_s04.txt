@@ -1,9 +1,0 @@
-`
-MEDICATIONS:  Dilantin, Depakote, Keppra, Zithromax, Pradaxa, Coumadin
-INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated, extremely ill, but responsive.
-DESCRIPTION OF THE RECORD:  The EEG demonstrates a left frontal spike or a sharp wave, which is periodic, merging to nearly continuous.  It does not evolve, as would be expected with a seizure.  The remaining background is markedly slow and suppressed. Despite the patient's arousability, with occasional spontaneous movement and reactivity to external stimuli, the background does not improve.  It is a markedly slow and suppressed pattern with a frontal PLED with a periodicity of approximately 1 to 2 per second. 
-HR:    100 bpm
-IMPRESSION:  Markedly abnormal EEG due to:
-Markedly suppressed background.
-Left frontal PLED with a generous field of spread.
-CLINICAL CORRELATION:  No seizures were recorded.  This EEG continues to demonstrate a marked disturbance of cerebral function.

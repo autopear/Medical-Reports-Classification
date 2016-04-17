@@ -1,9 +1,0 @@
-MEDICATIONS:  Tegretol
-REASON FOR STUDY:  Seizures.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures, including photic stimulation and hyperventilation, were performed.
-DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9 Hz and is reactive to eye opening.  There is a normal amount of frontal central beta.  The patient is recorded during wakefulness and stage I sleep. Activating procedures during photic stimulation does not produce any abnormal discharges, but hyperventilation accentuates focal slowing as described below. 
-ABNORMAL DISCHARGES:  Focal slow waves seen independently at T3 and T4 independently and this is at a frequency of 2-4 Hz with an amplitude of 20-70 mV.  The slowing is accentuated by hyperventilation. 
-SEIZURES:  None.
-IMPRESSION:  Abnormal EEG due to: 
-Independent bilateral mid temporal slowing.
-CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the bilateral mid temporal regions, which is nonspecific in regard to etiology.  No seizures or epileptiform discharges are clearly seen.

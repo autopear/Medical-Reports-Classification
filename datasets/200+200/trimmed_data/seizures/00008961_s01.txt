@@ -1,9 +1,0 @@
-MEDICATIONS: Thiamin, Dilantin, Dopamine, antibiotics, and others.
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation and hyperventilation were not performed.  The patient is intubated and comatose.
-DESCRIPTION OF THE RECORD: The background EEG is low voltage and diffusely slow.  Multiple seizure activity was recorded:
-SEIZURE ACTIVITY FROM 09:19:02 to 09:21:05:  The seizure characteristics included an initial burst of delta activity in the right temporal area followed by an 8 Hz alpha rhythm for several seconds.  There was then an increase in the beta activity before the muscle twitching activity was recorded. When the muscle activity subsided, diffuse spike and slow wave activity was seen, but somehow asynchronous left hemispheric delta activity were also identified.  
-The characteristics of the clinical seizures included subtle muscle twinging for about 35 seconds.  Similar seizure activity was frequently repeated every two to five minutes.  When the patient was not seizing, the EEG demonstrated extremely low voltage and diffuse slowing activity.  
-HR:  96 BPM.
-IMPRESSION: Abnormal EEG due to:
-Multiple seizure activity (eight) during this 21-minute EEG recording suggesting status-epilepticus.
-CLINICAL CORRELATION: This abnormal EEG demonstrates a severe, diffuse disturbance of cerebral function involving both gray and subcortical white matter.  This EEG pattern was communicated to the primary care team. 

@@ -1,6 +1,0 @@
-MEDICINES:  Aricept, Trileptal.
-INTRODUCTION:  Digital video EEG was performed in the Lab using standard 10-20 system of electrode placement with 1-channel EKG.  Hyperventilation and photic stimulation were completed.  This was a technically acceptable record with appropriate impedance.
-DESCRIPTION OF RECORD:  In wakefulness there was 10 Hz alpha rhythm.  There is rare, rhythmic slowing in the right temporal region in wakefulness and drowsiness.  Other features of drowsiness include an increase in beta followed by attenuation of alpha rhythm and POSTs. 
-The patient was falling asleep during photic stimulation.  Hyperventilation did not significantly activate the record.  Heart rate was 60 bpm.
-IMPRESSION:  This is a very mildly abnormal EEG due to subtle focal slowing in the right temporal region.
-CLINICAL CORRELATION:  This finding has been previously described by this patient.  No seizures and no episodes of emotionality were recorded.

@@ -1,8 +1,0 @@
-MEDICATIONS:  Ativan, succinylcholine, Keppra.
-INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel EKG.  The patient had been sedated and somewhat agitated when stimulated.  The video was not functional.
-DESCRIPTION OF THE RECORD:  The background EEG is low voltage, slow and featureless with superimposed muscle artifact.  When the muscle artifact drops out, there is an asymmetry noted with a bit slower voltage, slow delta in the right posterior quadrant.  The patient seems to be more awake at the end of the record and the video was working in the second half of the record. 
-Heart rate 72-90 beats per minute.
-IMPRESSION:  This is an abnormal EEG due to:
-A markedly low voltage and slow record.
-Despite the findings described above, slowing in the right quadrant.
-CLINICAL CORRELATION:  This is a similar to previous studies.  No seizures were recorded.  In this acutely postictal record, the background slowing may be due to the use of sedative hypnotic medications.

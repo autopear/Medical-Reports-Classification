@@ -1,8 +1,0 @@
-MEDICATIONS: Depakote, Dilantin, others.
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as poorly responsive. There is no additional information indicating that he has had seizures in the last 24 hours.
-DESCRIPTION OF THE RECORD: As the tracing opens, the patient is wearing a face mask and appears lethargic. He is described as poorly responsive to stimuli.  The background EEG is low voltage, but continuous and includes small quantities of low voltage theta and beta frequency activity, as well as continuous low voltage delta activity.  The most remarkable feature is a continuous, right occipital, periodic sharp wave, which is identified throughout the record.  While there is no clear evolution, the periodicity of this sharp wave is close to the patient’s heart rate of 96 BPM.  Stimulation of the patient produces a brief alerting response with a small amount of faster frequency activity.  There is also some spontaneous alerting. 
-HR:  96 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Low voltage, diffusely slow background.
-Continuous right occipital periodic discrete sharp waves. 
-CLINICAL CORRELATION: The background in this EEG is considerably richer than on a previous study done on January 17, 2003, however, the epileptiform activity has increased.  Clinical evaluation of this patient would be helpful.

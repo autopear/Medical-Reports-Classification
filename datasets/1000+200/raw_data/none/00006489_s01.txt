@@ -1,9 +1,0 @@
-CLINICAL HISTORY: Acute encephalopathy, respiratory distress, left MCA infarct, evaluate for delirium versus seizures. 
-MEDICATIONS: Ativan, Fentanyl, and propofol. 
-INTRODUCTION: Digital video EEG is performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is critically ill, hence has just been intubated, and is agitated. 
-DESCRIPTION OF THE RECORD: The background EEG is rich in beta frequency activity. Despite muscle and motion artifact, there are some shifting asymmetries with at times a disruption of faster frequency activity, which may include left frontal central region or right posterior quadrant. The use of benzodiazepines produces more beta, which is relatively symmetric, but again, a little bit less on the left frontal central region. 
-Heart rate: 120 BPM. 
-IMPRESSION: Abnormal EEG due to: Replacement of normal background with a pharmacologic pattern. 
-CLINICAL CORRELATION: There is some subtle focal slowing identified in this record, however, the degree of patient agitation and movement may limit the value of this record. In any case, no seizures were recorded and no sharps or spikes were noted 
-
-

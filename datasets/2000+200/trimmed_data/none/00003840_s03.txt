@@ -1,9 +1,0 @@
-MEDICATIONS:  Dilantin, Ativan, Aricept, Zoloft, Remeron.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation is performed.
-DESCRIPTION OF THE RECORD:  In wakefulness, the alpha rhythm is slow, approximately 8 Hz.  The overall background is somewhat disorganized in maximal wakefulness. Features of drowsiness include arrhythmic delta activity.  Focal slowing is noted occasionally in the left mid to central temporal region.  There are a handful of sharply contoured discharges in the right frontal region. Hyperventilation produces an increase in slowing. Photic stimulation does elicit a driving response and rare temporal sharp waves are noted around the time of photic stimulation. 
-HR:    60 bpm
-IMPRESSION:  Abnormal EEG due:
-Disorganized background with shifting slowing.
-Left central temporal focal slowing.
-Rare sharp waves seen right anterior temporal or left mid temporal.
-CLINICAL CORRELATION:  Epileptiform activity is not as prominent in this EEG as in others.  No seizures were recorded.  The overall background slowing has been previously described.

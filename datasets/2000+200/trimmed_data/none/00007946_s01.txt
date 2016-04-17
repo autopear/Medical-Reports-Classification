@@ -1,6 +1,0 @@
-MEDICATIONS: None.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10.5 Hz, 40 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by slow rolling eye movements and an increase in beta.  Hyperventilation is performed with good effort, producing an increase in the amplitude of the background.  Photic stimulation elicits vigorous bilateral driving.  LAMBDA waves are identified. 
-HR:  104 BPM, max.
-	IMPRESSION: Normal EEG in wakefulness and drowsiness. 
-CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy. If seizures are an important consideration, either a prolonged tracing capturing the patient’s symptoms or a study capturing deeper stages of sleep may be valuable. 

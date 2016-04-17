@@ -1,8 +1,0 @@
-MEDICATIONS: Morphine, Dilantin, Nimodipine, Mannitol, Tylenol, Zofran 
-INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated. 
-DESCRIPTION OF THE RECORD: Background EEG is markedly abnormal. There is an interhemispheric asymmetry. The activity from the left is markedly suppressed. The right hemisphere is characterized by low voltage delta and theta waves. There is a low voltage sharp wave in the right hemisphere and in the central temporal regions. This rhythm may occur with brief bursts of theta. Theta is less than 1 second in duration. The sharp waves on the right have variable distribution in shape and morphology. 
-HR: 60 bpm 
-IMPRESSION: Markedly abnormal EEG due to 
-1. Left-sided suppression compared to the right 
-2. Episodic sharp waves on the right of various morphology. 
-CLINICAL CORRELATION: This EEG is compatible with severe disturbance of cerebral function. There were no seizures recorded; however, there is evidence of epileptiform activity.

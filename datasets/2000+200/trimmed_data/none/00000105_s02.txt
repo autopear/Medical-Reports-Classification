@@ -1,8 +1,0 @@
-MEDICATIONS:   Heparin, Insulin, Simvastatin, Nexium, Synthroid, Keppra, Hydralazine, Phenobarbital
-INTRODUCTION:   Digital video EEG was performed in lab using standard 10-20 system of electrodes  with 1 channel of EKG. Hyperventilation  and photic stimulation were not performed.
-DESCRIPTION OF THE RECORD:  The patient is awake and drowsy. The background EEG includes 6 to 7 Hz theta frequency activity. There is a breach rhythm on the left. Occasional focal slowing is identified, more so on the left than the right. Features of drowsiness include slow rolling eye movements, increase in beta and an accentuation
-of the breach rhythm in frontal central regions. Heart rate is 66 beats per minute.
-IMPRESSION:  Abnormal EEG due to:0
-	1. 	Focal slowing, left greater than right.
-	2. 	Generalized  background slowing.
-CLINICAL CORRELATION:   Generalized background slowing is suggestive of a diffuse disturbance of the cerebral function and focal slowing on the left is congruent with his previous craniotomy. No epileptiform features were observed. No seizures were recorded.

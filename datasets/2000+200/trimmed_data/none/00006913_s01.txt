@@ -1,9 +1,0 @@
-MEDICATIONS:  Trileptal.
-REASON FOR STUDY:  Seizure.
-INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with one additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures including hyperventilation and photic stimulation produce no abnormal discharges.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined, high amplitude posterior dominant rhythm that reaches 9-10 Hz.  She was just reactive to eye opening.  There is a normal amount of frontal central beta.  Activating procedures produced no abnormal discharges.   The patient was recorded in wakefulness and drowsiness.  There might be some mild focal slowing during hyperventilation but not clearly abnormal.
-ABNORMAL DISCHARGES:  None.  
-SEIZURES:  None.
-IMPRESSION:  Normal awake and drowsy EEG.
-CLINICAL CORRELATION:  This is an awake and drowsy EEG and reveals no abnormal discharges.  Please note that minimal sleep was recorded and capturing deeper stage of sleep may aid in elucidating a diagnosis.

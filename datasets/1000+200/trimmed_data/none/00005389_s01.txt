@@ -1,8 +1,0 @@
-MEDICATIONS: Decadron, Trileptal. 
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is drowsy.  
-DESCRIPTION OF THE RECORD: The background EEG demonstrates an intrahemispheric asymmetry.  The left hemisphere is moderately slow, but with a rhythmic 6 to 7 Hz posterior dominant rhythm.  The right hemisphere demonstrates a breach rhythm with higher amplitude activity in that region, arrhythmic delta activity with a generous field of spread including right centrotemporal and mid-to-anterior posterior temporal.  In the setting of a breach rhythm, there are rare right frontotemporal and right centrotemporal sharp waves. Rare sharp waves were seen at P4.  Features of drowsiness include an increase in background delta.  
-HR:  108 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Focal slowing from the right hemisphere, particularly the central and temporal regions. 
-Occasional sharp waves in the setting of a breach rhythm.  
-CLINICAL CORRELATION: This tracing supports a structural or functional abnormality on the right affecting both gray and white matter with a localization-related mechanism for seizures.  No seizures were recorded.  

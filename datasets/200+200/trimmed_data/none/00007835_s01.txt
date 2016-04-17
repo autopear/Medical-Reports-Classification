@@ -1,9 +1,0 @@
-MEDICATIONS:  Meclizine.
-REASON FOR STUDY:  Rule out seizures.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrodes.  The patient was recorded during wakefulness and stage I and stage II sleep.  Activating procedures, including photic stimulation and hyperventilation, were performed.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm at 9-10 Hz which is reactive to eye opening and symmetric.  There is a normal amount of frontal central beta seen diffusely throughout the recording.  The patient appears to go into stage I and stage II sleep and that has been recorded by showing the POSTS and K-complexes throughout the recording.  Activating procedures, including hyperventilation and photic stimulation, showed no abnormal discharges. 
-ABNORMAL DISCHARGES:  None. 
-SEIZURES:  None.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Note:  A normal EEG does not exclude the possibility of seizures.

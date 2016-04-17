@@ -1,8 +1,0 @@
-CLINICAL HISTORY:  60 year old male with epilepsy
-	MEDICATIONS: 	Keppra
-INTRODUCTION: Continuous digital video EEG  was performed using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic simulation are preformed.  The patient has no seizures during this section of the record.
-DESCRIPTION OF THE RECORD:  In wakefulness,  background EEG includes hertz reactive posterior dominant rhythm. Much of the relaxed waking background is mild drowsiness with slowing of the alpha rhythm. In drowsiness, there is occasional arrhythmic delta activity in the right or left temporal region. It  may be sharply contoured in either area.  Unfortunately, the EKG load is lost. There is some T1 sharply contoured activity which may very well represent EKG artifact. There are additional wave forms which are likely biological in nature. Stage II  sleep includes vertex waves and spindles.
-	HR:	N/A.
-IMPRESSION/CLINICAL CORRELATION:  EEG monitoring during this section of the record did not identify any epileptiform seizures.  There was little in the way of interictal epileptiform activity. There was some shifting temporal slowing which is a nonspecific finding in an adult of this age.  Mild background slowing is noted.
-
-

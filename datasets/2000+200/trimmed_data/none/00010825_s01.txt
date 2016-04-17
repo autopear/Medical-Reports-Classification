@@ -1,9 +1,0 @@
-MEDICATIONS:  Meloxicam, Depakote, Sertraline, Trazodone, Cyclobenzaprine, Spiriva.
-REASON FOR STUDY:  History of seizures.
-INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Hyperventilation and photic stimulation were performed.
-TECHNICAL DIFFICULTIES:  The patient had continuous eye movement artifact throughout the recording.
-DESCRIPTION OF THE RECORD:  The record opens to a low amplitude, but well-defined posterior dominant rhythm that reaches 10-11 Hz and appears to be somewhat reactive to eye opening.  There is a diffuse amount of frontocentral beta which is excessive.  The patient does not go into sleep, but appears to be drowsy.  Activating procedures produced no abnormal discharges.
-ABNORMAL DISCHARGES:  None.
-SEIZURES:  None.
-IMPRESSION:  Normal awake and drowsy EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Please note that the excessive beta sometimes can be seen due to medication effect.

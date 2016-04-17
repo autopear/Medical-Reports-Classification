@@ -1,8 +1,0 @@
-MEDICATIONS:  Lamictal.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  Normal frontocentral beta is seen.  The patient is recorded in wakefulness, stage 1 and stage 2 sleep.  Activating procedures including photic stimulation and hyperventilation produced no abnormal discharges.
-ABNORMAL DISCHARGES:  None.
-SEIZURES:  None.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:   No seizures or epileptiform discharges were seen.

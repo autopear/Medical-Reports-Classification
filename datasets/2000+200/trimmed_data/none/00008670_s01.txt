@@ -1,7 +1,0 @@
-MEDICATIONS: Tegretol.
-INTRODUCTION: Long-term EEG monitoring is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. There is no report of clinical seizures; in fact, there is no tech sheet. No seizures were seen in this section of the record. 
-RANDOM WAKEFULNESS AND SLEEP: The background includes a posterior dominant rhythm of approximately 8 Hz on the left.  The right demonstrates a significant degree of focal slowing, often with trains of temporal theta maximum at T2-T4.  In wakefulness through stage II sleep, there are right temporal sharp and slow wave complexes, most of which are medium amplitude and may occur in trains.  On multiple occasions, including 6:37 AM and in the overnight recording at 1200 hours, these occur in brief trains but without evidence of a clinical correlate. 
-HR:  __ BPM.
-	IMPRESSION: Abnormal EEG due to:
-Ongoing right temporal focal slowing and sharp and slow wave activity, although these are less prominent than they were in the baseline record.  
-CLINICAL CORRELATION: **Not dictated** 

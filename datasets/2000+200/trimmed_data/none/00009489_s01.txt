@@ -1,9 +1,0 @@
-MEDICATIONS: Valproate.
-INTRODUCTION: Digital video EEG is performed in the Pediatric ICU using standard 10-20 system of electrode placement with one channel of EKG. The child has a facemask on. 
-DESCRIPTION OF THE RECORD: As the tracing opens, the child is lethargic.  The background EEG is relatively high amplitude, slow, arrhythmic delta activity of 0.5 to 3 Hz.  There are sharp waves identified from the frontal regions, independently from the right or left.  In addition, there are occasional bursts of generalized paroxysmal fast activity, as well as focal sharp waves, which may be identified in the left mid or posterior temporal regions, as well as independently on the right.  There are some portions of the record which demonstrate some rhythmic delta activity, a bit more prominent from the left hemisphere than the right. Stimulation of the patient produces an increase in alpha and theta frequency activity in a pattern that is otherwise slower delta and mixed theta pattern.  On occasion, there are couplets of sharp waves, which may be hemispheric on the left.  There are also some generalized high amplitude sharp and slow wave complexes.
-HR:  118 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Replacement of normal background with arrhythmic delta and smaller amounts of theta. 
-Multifocal spike and slow wave activity including that from the central and centrotemporal regions. 
-Generalized paroxysmal fast activity. 
-CLINICAL CORRELATION: No seizures were recorded.  There was a prominent amount of epileptiform activity in this record, but some portions of the record demonstrate more than others, and there isn’t a true periodicity to the epileptiform activity.  Individuals with Rett’s syndrome are classically described as having a central focus.  This individual has both a central and temporal focus. 

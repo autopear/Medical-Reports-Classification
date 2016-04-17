@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Seizures.
-MEDICATIONS:  None.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the additional of anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep stage 1. Activating procedures including hyperventilation and photic stimulation were performed.
-TECHNICAL DIFFICULTIES:  Some intermittent T4 electrode artifact.
-DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded during wakefulness and stage 1 sleep.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.  Please note that   photic stimulation produced nice photic driving.
-ABNORMAL DISCHARGES:  None.
-HEART RATE:  72.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges were seen.

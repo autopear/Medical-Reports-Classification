@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Episodes of vertigo.
-MEDICATIONS:  None.
-TECHNICAL DIFFICULTIES:  None.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep stage 1 and stage II.  Activating procedures included hyperventilation and photic stimulation.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded during wakefulness, stage I and stage II sleep.  Activating procedures included hyperventilation and photic stimulation produced no abnormal discharges.
-ABNORMAL DISCHARGES:  None.
-HEART RATE:  60.
-IMPRESSION:  Normal awake and sleep electroencephalogram.
-CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges were seen.

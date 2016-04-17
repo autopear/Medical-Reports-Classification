@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Studies.
-MEDICATIONS:  Albuterol, Effexor.
-INTRODUCTION:  A routine EEG was performed using a standard 10-20 system electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness and stage I sleep.  Activating procedures included photic stimulation.
-DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 10 Hz which is reactive to eye opening.  This is slightly lower in amplitude over the left hemisphere.  There is normal frontocentral beta and photic stimulation produced no abnormal discharges.
-ABNORMAL DISCHARGES:  None. 
-The patient was recorded in wakefulness and stage I sleep.   
-Heart rate is 72.
-IMPRESSION:  Normal awake and asleep electroencephalogram.
-CLINICAL CORRELATION:  This is a normal awake and asleep electroencephalogram.  No seizures or epileptiform discharges were seen. Please note that a normal EEG does not exclude the diagnosis of epilepsy.

@@ -1,8 +1,0 @@
-MEDICATIONS: Phenobarbital, Dopamine, Dilantin, and others. 
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record in a patient who is intubated.
-DESCRIPTION OF THE RECORD: In the portions of the record when the patient is awake, the background EEG is somewhat disorganized, rich in beta, theta, and alpha frequency activity.  A well-defined posterior dominant rhythm is difficult to discern in this context, but there is approximately a 7.5 to 8.5 Hz activity identified in the central and occipital regions.  Stimulation of the patient produces this alerting response.  When the patient is not stimulated, the background slows with more lower voltage theta, as well as beta frequency activity.  There are rare sharp waves identified in this record.  There is a pair of left anterior temporal sharp waves noted early in the record.  A small, discrete right anterior temporal sharp wave appeared to correlate with eye movement artifact.  In later portions of the record, as the patient drifts off to sleep, the right anterior temporal sharp waves are higher amplitude, but again seem to correlate with eye movement. 
-HR:  90 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Modest background slowing for a subject of this age.
-Infrequent, independent right or left temporal sharp waves.
-CLINICAL CORRELATION: No seizures were recorded.  This EEG supports a localization-related mechanism for this patient’s seizures and correlation with imaging may be valuable.  

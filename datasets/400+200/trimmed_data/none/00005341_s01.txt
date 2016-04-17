@@ -1,8 +1,0 @@
-MEDICATIONS: ? check tech sheet
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and unresponsive. 
-DESCRIPTION OF THE RECORD: The background EEG demonstrates a very low voltage and quite slow pattern with diffuse low voltage delta and some scant amounts of low voltage beta.  Stimulation of the patient produces a very small amount of theta as well as occasional bursts of delta.  There is little in the way of variability in the record.  
-HR:  96 BPM, irregular.
-	IMPRESSION: Abnormal EEG due to:
-Replacement of normal background with low voltage delta and scant amounts of beta. 
-Minimal reactivity and variability. 
-CLINICAL CORRELATION: This tracing supports a severe disturbance of cerebral function.  Correlation with imaging and other clinical correlates may be useful.  No epileptiform features were seen and no seizures were recorded.  

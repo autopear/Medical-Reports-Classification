@@ -1,9 +1,0 @@
-MEDICATIONS:  Paxil, Abilify, Gabapentin, Sonata, Adderall, Klonopin
-REASON FOR STUDY::  Seizures
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  The EEG was recorded during wakefulness and sleep.
-TECHNICAL DISCHARGES:  : None
-DESCRIPTION OF THE RECORD:. The record opens to a posterior dominant rhythm of 8.5 to 9 hertz which reacts to eyes opening, with normal frontocentral beta and normal sleep stage 1 and II architecture. Hyperventilation and photic stimulation does not reveal abnormal discharges. During the recording, she usually is drowsy and the remainder of the recording is in drowsiness. 
-ABNORMAL DISCHARGES:   None. 
-SEIZURES:  None.
-IMPRESSION:  Normal awake and asleep EEG.
-CLINICAL CORRELATION:   No seizure or epileptiform discharges were seen.

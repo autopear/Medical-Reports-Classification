@@ -1,9 +1,0 @@
-MEDICATIONS:  Labetalol, lisinopril, Keppra.
-INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was awake. .
-DESCRIPTION OF THE RECORD:  The background EEG demonstrates  interhemispheric asymmetry.  There are portions of the record when the patient is maximally awake where the EEG from the right is nearly normal, but generally speaking it is a bit slow with an alpha rhythm of 7-8 Hz and some background theta.  With stimulation activity on the right is nearly within normal limits.  The left hemisphere demonstrates continuous, rhythmic slowing.  In addition, there are other sections of the record with more arrhythmic slowing.  There is disruption of faster frequency activity on the left compared to the right.  As the patient becomes drowsy the arrhythmic slowing on the left transitions more to a bit of arrhythmic delta on the left.  There is some bursts of sharply contoured slowing in the recording, particularly in the left centrotemporal region.  Sleep is characterized by an increase in beta.  There are a few sections with a little bit of beta in the left frontal regions.          
-Heart rate 84 BPM.
-IMPRESSION:  Abnormal EEG due to:
-Continuous focal slowing from the left hemisphere.
-Occasional sharply contoured slowing in the left central region. 
-Mild intermittent slowing from the right.
-CLINICAL CORRELATION:  The focal slowing from the left is congruent with a structural lesion such as an intracerebral hemorrhage.  No seizures were recorded.  No definitive sharp waves were identified.

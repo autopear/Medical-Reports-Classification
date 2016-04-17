@@ -1,9 +1,0 @@
-MEDICATIONS:  Byetta, Metformin, Lisinopril, Lamictal
-REASON FOR STUDY:  Seizure.
-INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep, stage I.  Activating procedures included hyperventilation and photic stimulation.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is a normal amount of frontal central beta.  During the record there is some bursts of diffuse theta frequency discharges lasting for a second, mainly during drowsiness.   Activating procedures produce no abnormal discharges. The patient is recorded during wakefulness and stage I sleep. 
-ABNORMAL DISCHARGES:  None. 
-SEIZURES:  None.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were clearly seen.

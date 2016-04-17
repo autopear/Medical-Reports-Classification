@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Seizures.
-MEDICATIONS:  Depakote and Dilantin.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included photic stimulation.
-DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 10 Hz which is reactive to eye opening.  The patient is recorded mainly in wakefulness, but drowsiness is recorded.   
-Photic stimulation reveals no abnormal discharges. 
-Abnormal discharges:  None. 
-Seizures:  None.
-IMPRESSION:  Awake and drowsy EEG.
-CLINICAL CORRELATION:  This is a normal awake and drowsy EEG.  No seizures or epileptiform discharges were seen.

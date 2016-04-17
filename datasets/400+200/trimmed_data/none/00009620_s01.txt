@@ -1,8 +1,0 @@
-MEDICATIONS: Dilantin, Morphine, and antibiotics, and antihypertensives.  
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The is patient is intubated and ventilator dependent. 
-DESCRIPTION OF THE RECORD: The background EEG is asymmetric, low voltage, and disorganized with diffusely slow theta and delta activity.  There is a 6 Hz, 15 V activity seen in the right posterior region. Theta with occipital slow delta activity is also observed in the right hemisphere.  Stimulation of the patient causes mildly increased frequency and increases the amplitude in the right hemisphere.  
-HR:  Uninterpretable
-	IMPRESSION: Abnormal EEG due to:
-Low voltage, disorganized background with diffuse slowing. 
-Asymmetric, low voltage background, less reactive on the left. 
-CLINICAL CORRELATION: This abnormal pattern is suggestive of a severe cerebral dysfunction involving both gray and white matter. The asymmetric background with less reactivity in the left hemisphere is suggestive of an underlying pathological process in this patient.  Clinical correlation is recommended. No seizures or epileptiform features were identified in this record. If epilepsy is a clinical concern, a repeat EEG may be helpful.

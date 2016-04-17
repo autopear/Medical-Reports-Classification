@@ -1,9 +1,0 @@
-MEDICATIONS:  Keppra, Dilantin.
-INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is cooperative and in fact somnolent.
-DESCRIPTION OF THE RECORD:  The background EEG demonstrates an asymmetry.  There is primarily a theta and beta pattern from the right.  The left hemisphere demonstrates significant disruption of faster frequency activity.  There are relatively frequent sharp waves noted from the left hemisphere, including F7, T1, or FP1.  On occasions these appear as bursts. Stimulation of the patient produces an increase in faster frequency activity on the right.  At 3:15 p.m. there is a burst of spike activity, but no clinical features are noted.  Testing is not performed during that burst. 
-HR:    108 bpm
-IMPRESSION:  Abnormal EEG due to:
-Marked slowing from the left hemisphere.  
-A seizure at 03:15:31.  When reviewed at slow paper speed this discharge of 24 seconds duration meets the electrographic criteria for a single seizure.
-CLINICAL CORRELATION:  This EEG demonstrates a clearly epileptiform pattern.  The findings described above can be seen in the context of any irritative process, 
-including status epilepticus, focal lesion, or herpes encephalitis.  Consequently, clinical correlation is essential.

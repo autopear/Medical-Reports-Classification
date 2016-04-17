@@ -1,8 +1,0 @@
-MEDICATIONS: 
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  There is no clinical information provided regarding whether or not seizures were recorded.  The seizure detector did not identify any seizures.  
-DESCRIPTION OF THE RECORD: The background EEG is diffusely slow.  There are significant technical problems seen intermittently in the record.  The technically reasonable sections of the record demonstrate diffuse background slowing with arrhythmic delta activity, which on some occasions is somewhat more marked in the posterior regions bilaterally, sometimes right greater than left.  Despite the technical problems described above, no epileptiform abnormalities were identified although there are portions of the record that are marked by significant artifact.  
-HR:  70 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Generalized background slowing.
-Superimposed focal slowing from the posterior quadrants. 
-CLINICAL CORRELATION: Additional clinical information is needed to render this a technically adequate record, but no seizures were recorded.  

@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Aphasia.
-TECHNICAL DIFFICULTIES:  There were multiple artifacts EMG seen prevalent throughout most of the recording once the patient becomes drowsy.
-MEDICATIONS:  Lorazepam, aspirin, fluoxetine, and atenolol.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included photic stimulation.
-DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 8 Hz which is seen only over the right hemisphere.  There is a lack of normal frontal central beta and a posterior dominant rhythm over the left hemisphere.  There is also no normal sleep architecture  but there is a stage change seen during the recording.  Photic stimulation produced no abnormal discharges.
-ABNORMAL DISCHARGES:  Focal slow waves and attenuation seen over the left hemisphere maximal in the mid-temporal region seen continuously at a frequency of 2-4 Hz and an amplitude of less than 20 microvolts.
-HEART RATE:  84.
-IMPRESSIONS:  Abnormal EEG due to continuous left hemispheric maximal mid-temporal focal slowing.
-CLINICAL CORRELATION:  This EEG reveals evidence of focal structural cerebral dysfunction in the left hemisphere maximal in the mid-temporal region, which is consistent with a known stroke.  No seizures or epileptiform discharges were seen.

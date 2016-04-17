@@ -1,8 +1,0 @@
-MEDICATIONS: Dilantin 
-INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. 
-DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 9 Hz alpha rhythm. The patient quickly transitions to a pattern with slower frequency activity. There is an intermittent pattern of an awake pattern followed by more rhythmic. There were no seizures recorded.
-HR: 72 bpm 
-IMPRESSION: This EEG is remarkable for: 
-1. Intermittent background slowing. 
-2. Disorganization 
-CLINICAL CORRELATION: No spikes or sharps seen today. Background is unchanged. 

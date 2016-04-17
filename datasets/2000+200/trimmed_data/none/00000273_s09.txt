@@ -1,9 +1,0 @@
-MEDICATIONS: Nephro Caps, Renagel, Norvasc, Plavix.Simvastatin, Diovan, Labetalol, Depacon. Pantoprazole, Insulin,Sertraline, Senipar. Hydralazine
-I NTRODUCTI ON: Digitalvideo EEG was 'performed at bedside using standard 10-20 system of electrode placement with 1channelEKG. The patient is awake but somnolent.
-DESCRIPTION OF THE RECORD: Background EEG demonstrates a somewhat slow pattern but an awake pattern from the right hemisphere. Theleft hemisphere demonstrates significant disruption of faster frequency activity,part cularly frcim theleft frontalcentral regions. Poorly formed,periodic sharp waves,are seen in the left hemisphere with stable maximum,including     left frontalandleft frontoparietal. Patient also has some bursts of fast activity which can accompany the sharp waves on theleft. She is observed to have someinvoluntary movements  of her head during the EEG which are not associated with a change in the epi eptiform activity:
-HR:   120 bpm
-IMPRESSION: Abnormal EEG due to:
-	Poorly formed.periodic sharp wavesin theleft hemisphere with variable maximum.
-	Focalslowing with disruption of faster frequency actlvily, particularly tefl frontalregions.
-CLINICAL CORRELATION: This EEG supports a structural or localization-related mechanism    for epilepsy.No seizures were observed.Of note, althoughthe activity is quite slow on theleft.it
-is not quite as remarl<able on the right.

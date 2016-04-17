@@ -1,8 +1,0 @@
-MEDICATIONS: Nimodopine, Keppra, and Zofran. 
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is somnolent. 
-DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with a mixture of theta, delta, and alpha frequency activity.  There is clear reactivity and variability in the record with some portions of the record showing an increase in background theta.  In this individual with a significant surgical history, there is less in the way of focal findings than one might anticipate, but at times, there is a bit more delta activity on the right compared to the left. In some portions of the record, with stimulation, the faster frequency activity is higher amplitude on the right compared to the left.  As the patient becomes drowsy, there is a bit more prominent arrhythmic delta activity picked up in the right hemisphere. 
-HR:  78 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Generalized background slowing.
-Some focal features in the right with an increase in delta activity and occasional beta asymmetries. 
-CLINICAL CORRELATION: Given this patient’s history, the focal features described above are less prominent than one would expect.  There were no epileptiform features noted and no seizures were recorded. 

@@ -1,9 +1,0 @@
-MEDICATIONS: Decadron, Dilantin, insulin, Digoxin.
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
-DESCRIPTION OF THE RECORD: The background EEG demonstrates an intrahemispheric asymmetry.  In wakefulness, there is disruption of the posterior dominant rhythm on the left.  On the right it is approximately 8.5 Hz, 25 V.  The posterior dominant rhythm is disrupted on the left. In wakefulness, there are occasional periodic complexes identified from the left hemisphere reaching amplitudes of 75 V and maximum in the left mid-to-anterior temporal region.  In some portions of the waking background, particularly when the patient is stimulated, the periodic, irregular sharp waves decrease, but in other portions, when he is left comfortably but still relatively awake, the activity is more prominently identified as alpha at least five to six times.  As the patient becomes drowsy, there is drop-out of the posterior dominant rhythm on the left before the right.  The periodic activity then becomes higher amplitude, better defined, as well as sometimes more irregular with variability in terms of the field spread to the posterior temporal regions or anterior temporal regions, as well as shifting maximum, sometimes at T3 or T5.  
-Deeper stages of sleep are not sustained.  
-HR:  108 BPM, irregular.
-	IMPRESSION: Abnormal EEG due to:
-Periodic sharp waves or spike and slow wave complexes identified from the left temporal region with variable field of spread.
-Focal slowing from the left characterized by disruption of faster frequency activity and an increase in delta. 
-CLINICAL CORRELATION: This tracing supports a structural abnormality on the left as well as a partial mechanism for epilepsy.  No seizures were recorded.  

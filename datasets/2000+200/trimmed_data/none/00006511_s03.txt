@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Seizures.
-MEDICATIONS:  Lamictal and Depakote.
-INTRODUCTION:  A routine EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included photic stimulation.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a very well defined posterior dominant rhythm reaches 9 Hz which is reactive to eye opening.  There is normal amount of frontocentral beta.  Activating procedures include photic stimulation, which after 5 Hz stimulation, appeared to be followed by a generalized burst that I will describe below but does not appear to be clearly related to it.  No clear no abnormal discharges elicited from the photic stimulation.  The patient was recorded in wakefulness and sleep which is limited.
-ABNORMAL DISCHARGES:  At times there is intermittent burst of generalized delta which appears to be most consistent with drowsy pattern; however, at times they have intermittent, very sharply contoured discharges which appears to be somewhat frontal concerning for underlying spike and wave discharge.
-SEIZURES:  None.
-IMPRESSION: Abnormal awake EEG with paroxysmal bursts of generalized delta concerning for possible spike and wave discharges.
-CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of Epilepsy.  However, there were some bursts of generalized delta with some transient sharply contoured discharges which may be suggestive of fragmented spike and wave, which sometimes can be seen in generalized epilepsy.  No clear seizures were seen.  In order to further classify and understands these discharges, a repeat EEG capturing deeper stages of sleep with sleep deprivation would be helpful in clarifying this possible diagnoses.

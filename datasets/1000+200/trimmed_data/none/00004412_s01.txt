@@ -1,9 +1,0 @@
-MEDICATIONS:  Keppra, Dilaudid, Dexamethasone, Flomax, Oxycodone
-REASON FOR STUDY:  Rule out seizures.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  No activating procedures were performed. The patient was awake during the recording. Some features of sleep of stage 1 were seen.
-DESCRIPTION OF THE RECORD:  The record opens to a mild-to-moderately diffuse slow background with a frequency of at best 5-7 Hz, but mainly at 2-4 Hz.  The patient appears to be mainly in sleep with some features of stage 1 and stage 2.  However, when he is woken up, the best frequency posterior dominant rhythm is 8 with an amplitude of 20-60 microvolts.  No activating procedures were performed.
-ABNORMAL DISCHARGES:  Generalized slow waves at mainly 2-4 Hz with an amplitude of 20-60 microvolts.  At best with activation, the frequency increases to about 5-6 Hz.
-SEIZURES:  None.
-IMPRESSION:  Abnormal EEG due to: 
-1. Generalized slowing.
-CLINICAL CORRELATION:  This EEG reveals evidence of generalized cerebral dysfunction, which is nonspecific with regards to etiology and may be partly due to the multifocal lesions this patient has or medication effect.  No seizures or epileptiform discharges were seen.

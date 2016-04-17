@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Seizures.
-MEDICATIONS:  Naproxen.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation.
-DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 10-11 Hz, which is reactive to eye opening.  There is some excessive frontocentral beta.  Activating procedures including  hyperventilation and photic stimulation produced no abnormal discharges.  However, the patient had nice photic driving.  Overall, the background has some excessive beta.  At times during drowsiness there was some high amplitude theta discharges that appeared to be sharply contoured and sometimes appeared somewhat suspicious, but not clearly epileptiform.
-ABNORMAL DISCHARGES:  None.
-HEART RATE:  66.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges were clearly seen.  Please note that the patient did not achieve sleep and due to the high amplitude discharges described above if epilepsy remains a 
-clinical concern a prolonged EEG with capturing deeper stages of sleep would aid in the diagnosis.

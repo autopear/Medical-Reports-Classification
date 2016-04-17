@@ -1,9 +1,0 @@
-MEDICATIONS:  Zonisamide, lamotrigine.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and stage 1 sleep.  Activating procedures included hyperventilation and photic stimulation.
-TECHNICAL DIFFICULTIES:  Temporalis muscle artifact seen over the left hemisphere and right hemisphere at times.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches at 9-10 Hz which is reactive to eye opening.  There is some frontocentral beta.  Activating procedures that including hyperventilation did produce some abnormal discharges which I will describe below.  Photic stimulation did not produce any abnormal discharges.   
-The patient was recorded in wakefulness and stage 1 sleep.
-ABNORMAL DISCHARGES:  Frontal predominant generalized spike and wave and polyspike seen in bursts at 4-5 Hz in bursts that may last up to 10 seconds.  The bursts at times appeared to begin more on the left and at time more on the right, but usually are fairly symmetric and frontally predominant.  No clinical correlate was seen with any of these bursts.
-SEIZURES:  None.
-IMPRESSION:  Abnormal EEG due to frontally predominant bursts of spike and wave that at times appeared to be slightly asymmetric.
-CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of epilepsy.  The frontally predominant discharges suggest a diagnosis of an idiopathic generalized epilepsy.  However, the slight asymmetry seen sometimes may suggest a secondary generalized focus and clinical correlation is recommended.  No seizures were clearly seen.

@@ -1,9 +1,0 @@
-MEDICATIONS: Depakote, Hydralazine.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed. The patient is awake and/or somnolent. 
-DESCRIPTION OF THE RECORD: There is an 8 Hz, 40 to 50 uV posterior dominant rhythm.  From both hemispheres, there is excess background theta.  There is intermittent arrhythmic delta activity with disruption of faster frequency activity from the right hemisphere, most prominent in the right temporal and centroparietal regions.  Features of drowsiness include an increase in background slowing.  There is somewhat periodic delta seen in the right posterior quadrant as the patient becomes drowsy.  No definite sharp waves are identified. 
-Photic stimulation elicits scant bilateral driving. 
-HR:  70 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Focal slowing from the right with disruption of faster frequency activity.
-At times somewhat periodic sharply contoured slowing identified from the right hemisphere, particularly in the centroparietal region. 
-CLINICAL CORRELATION: This EEG supports a structural abnormality on the right affecting both gray and white matter, as well as an underlying epileptiform process.  No seizures were recorded.  

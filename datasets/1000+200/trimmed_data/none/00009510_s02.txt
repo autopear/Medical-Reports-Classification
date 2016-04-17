@@ -1,9 +1,0 @@
-MEDICATIONS:  Protonix, Plavix, Heparin, Hydralazine, Insulin, Zocor, Diovan, Dilantin.
-REASON FOR STUDY:  Seizure.
-INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and stage I and stage II sleep.  Activating procedures included photic stimulation and hyperventilation.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that, at best, reaches 8.5 Hz which is reactive to eye opening.  There is a diffuse amount of beta throughout the recording.  The patient is recorded during wakefulness and stage I and stage II sleep.  Activating procedures produced no abnormal discharges.   
-ABNORMAL DISCHARGES:  None. 
-SEIZURES:  None.
-IMPRESSION:  Normal awake and asleep EEG.
-CLINICAL CORRELATION:   No seizures or epileptiform discharges are seen.  Please note that the excessive beta seen throughout the recording may be due, at least in part, to medication affect, sometimes seen with barbiturates or benzodiazepines.

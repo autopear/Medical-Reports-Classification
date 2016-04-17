@@ -1,8 +1,0 @@
-MEDICATIONS: Dilantin, Tegretol, and Lamictal.
-INTRODUCTION: Digital video EEG is performed at the bedside in the long-term monitoring unit using standard 10-20 system of electrode placement with one channel of EKG. 
-DESCRIPTION OF THE RECORD: The background EEG demonstrates generalized slowing and low voltage.  Frequently, left greater than right temporal area slow activity was identified during sleep. As seen in the video and EEG recording, the patient is frequently snoring and not sleeping soundly.  Throughout the record, no visual seizure activity was seen and no epileptiform discharges were identified.  
-HR:  66 BPM.
-IMPRESSION: Abnormal EEG due to:
-Background with low voltage and generalized slowing.
-Frequently, left greater than right temporal sharp wave activity in sleep.
-CLINICAL CORRELATION: This long-term monitoring record supports a partial mechanism for epilepsy, but no seizures activity were recorded. In comparison to the patient’s previous EEG, the epileptiform discharges were reduced in this record. 

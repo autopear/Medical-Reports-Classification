@@ -1,8 +1,0 @@
-REASON FOR STUDY:  Seizures.
-MEDICATIONS:  Lorazepam, Serax, Tylenol.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.
-DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that appears to reach 9-10 Hz which is reactive to eye opening.  However, he has a low amplitude.  There is a diffuse amount of beta activity seen throughout the recording.  The patient was recorded in wakefulness and drowsiness.  Activating procedures were not performed.
-ABNORMAL DISCHARGES:  None.
-SEIZURES:  None.
-IMPRESSION:  Normal awake and drowsy EEG.
-CLINICAL CORRELATION:  This is a normal awake and drowsy EEG.  No seizures or epileptiform discharges were seen.  Please note that the excessive beta may be due to medication affects.

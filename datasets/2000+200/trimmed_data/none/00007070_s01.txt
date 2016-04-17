@@ -1,8 +1,0 @@
-MEDICATIONS:  None.
-REASON FOR STUDY:  Episode of passing out.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and stage 1 sleep.  Activating procedures included hyperventilation and photic stimulation.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  There is normal amount of frontocentral beta.  The patient goes into stage 1 sleep for a short amount of time.  Photic stimulation and hyperventilation produced no abnormal discharges.  At times, there are small, short bursts of theta of drowsiness seen diffusely which have a slightly sharp contour to it, but not clearly abnormal.
-ABNORMAL DISCHARGES:  None.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Please note that a normal EEG does not exclude the diagnosis of epilepsy.  A repeated recording with deeper stages of sleep may be helpful in confirming the diagnosis.

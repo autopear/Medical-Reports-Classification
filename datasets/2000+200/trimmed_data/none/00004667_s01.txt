@@ -1,8 +1,0 @@
-MEDICATIONS:  Keppra, Norvasc, Lisinopril, Protonix, Hydralazine, Metoprolol
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  This was an awake and asleep record.
-DESCRIPTION OF THE RECORD:  In wakefulness, there is an interhemispheric asymmetry.  The activity on the left is a bit slow with alpha rhythm of 7.5-8 Hz and a modest amount of theta.  The right hemisphere demonstrates nearly continuous arrhythmic delta with intermittent and at times prominent disruption of faster frequency activity.  The patient has had a previous right frontal ventriculostomy, but arrhythmic delta activity is seen in the right mid to posterior temporal region, congruent with the location of the patient's hemorrhage.  In the sharply contoured background with higher amplitude delta, there are a handful of sharp waves noted and the hemisphere included T4, P4, T6 and T2.  As the patient becomes drowsy, the asymmetry becomes a bit more prominent and the sharp waves are a bit more posterotemporal.  Photic stimulation elicits driving.  
-HR:    78 bpm
-IMPRESSION:  Abnormal EEG due to:
-Focal slowing. 
-Sharp waves in the sharply contoured background, particularly right posterotemporal.
-CLINICAL CORRELATION:  The essentially continuous focal slowing is characteristic of a structural abnormality on the right.  The sharp waves are in the region of the patient's hemorrhage.  No seizures were recorded.

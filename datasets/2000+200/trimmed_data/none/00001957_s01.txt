@@ -1,8 +1,0 @@
-MEDICATIONS: Dilantin.
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is responsive.  The patient has a craniotomy on the left.  
-DESCRIPTION OF THE RECORD: The background EEG is a mixed frequency pattern, diffusely slow primarily with theta and smaller amounts of delta.  There are shifting asymmetries seen in the record and, if anything, there are some portions of the record where the activity from the left temporal region is more attenuated than others.  Occasional vertex waves are seen.  Stimulation of the patient produces a small amount of theta.  There is variability identified in this record with some portions richer in theta than others.  In addition, occasional vertex waves are seen when the patient is allowed to drift off to sleep.  
-HR:  72 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Generalized background slowing.
-Shifting slowing with relative attenuation from the left temporal region.
-CLINICAL CORRELATION: In this individual with a craniotomy on the left, the attenuation from the left raises the possibility either of a disturbance of cortical function or a fluid collection such as subdural hematoma.  No seizures were recorded, and no definite epileptiform features were seen.

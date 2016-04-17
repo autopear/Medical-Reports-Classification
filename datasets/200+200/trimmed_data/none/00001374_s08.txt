@@ -1,8 +1,0 @@
-REASON FOR STUDY:  Seizures.
-MEDICATIONS:  Lamictal, Neurontin, Zonegran, Ativan.
-INTRODUCTION:  A long-term EEG was performed for 24 hours from 05/15/2012 to 05/16/2012 using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed.  Continuous spike detection software as well as seizure detection software was used to review the EEG in addition to patient alarms and nurse's events.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm which reaches 9-10 Hz which is reactive to eye opening.  The patient is recorded in wakefulness and stage 1, stage 2 and stage 3 sleep.  Activating procedures were not performed.
-ABNORMAL DISCHARGES:  None.
-SEIZURES:  This is day 2 of recording.  There were no seizures or patient events noted. 
-Clinical correlation and impression will be dictated at the end of the whole report.

@@ -1,9 +1,0 @@
-MEDICATIONS:  Lamictal, Dilantin, others.
-INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were  performed.
-DESCRIPTION OF THE RECORD:  In maximum wakefulness there is a 10.5 Hz,  70 microvolt posterior dominant rhythm with occasional posterior slow waves.  In addition, there is some shifting, slowing typically seen in the posterior head regions which can be right or left.  On the left it is a bit more likely to be associated with disruption of faster frequency activity.  Drowsiness is characterized by occasional vertex waves with some shifting asymmetries with the vertex waves.  The patient seemed to transition quickly in and out of sleep.  There are handful of sharp waves noted in the right hemisphere including central parietal regions.  As the patient becomes drowsy POSTS were noted.  Hyperventilation seems to accentuate the posteriorly predominant slowing.  Photic stimulation does not activate the record.   
-Heart rate is 60 BPM.
-IMPRESSION:  This is an abnormal EEG due to:
-Shifting slowing typically in the posterior regions, but sometimes left central parietal. 
-Occasional left focal slowing with disruption of faster frequency activity.  
-A handful of sharp waves which are a bit more prominent on the right.
-CLINICAL CORRELATION:  This is the second EEG which has a suggestion of epileptiform activity on the right, although the previous stroke was on the left.  In addition, there is shifting slowing raising the possibility of CNS disturbance more significant then the previous left posterior MCA infarct.  No seizures were recorded.  Compared to a previous study this EEG is markedly improved.

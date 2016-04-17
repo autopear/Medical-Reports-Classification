@@ -1,9 +1,0 @@
-MEDICATIONS: Phenobarbital, Decadron, and others. 
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is observed to have a prominent craniotomy defect on the left frontotemporal region. This is an awake and asleep record with photic stimulation.  
-DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.5 Hz alpha rhythm on the right.  The right hemisphere demonstrates a mild degree of disorganization with mild excess theta, and in drowsiness some frontally predominant delta.  The activity from the left hemisphere is remarkable for a breach rhythm with higher amplitude arrhythmic delta activity and intermittent disruption of faster frequency activity. Drowsiness is characterized by an increase in slowing.  Photic stimulation does not activate the record. At the close of photic stimulation, there is sharply contoured, left temporal activity in  the context of a breach rhythm.  
-HR:  70 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Arrhythmic delta activity from the left hemisphere most prominent in the frontocentral and frontotemporal regions. 
-Mild slowing from the left.
-Some suspicious sharp waves from the left frontal region. 
-CLINICAL CORRELATION: This EEG supports a process involving gray and white matter in the left frontotemporal region.  There is also some slowing from the right.  This may be due to many different factors including the patient’s CNS neoplasm, toxic or metabolic factors, or medications.  There are a handful of sharply contoured discharges in the context of a prominent craniotomy.  The EKG was somewhat irregular. No seizures were recorded.  

@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Seizures.
-MEDICATIONS:  Depakote.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.  performed.
-DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9-10 Hz which  reacted to eye opening.  There was some frontocentral beta.  The posterior dominant  reacted to eye opening.   
-The patient was recorded in wakefulness and sleep stage I.  Activating procedures produced no abnormal discharges.
-ABNORMAL DISCHARGES:  A burst of generalized spike and wave was seen at a frequency of 4-4.5 Hz which lasted 2 seconds, and appeared to have a slightly symmetric onset over the left hemisphere.
-SEIZURES:  None.
-IMPRESSION:  Abnormal EEG due to generalized spike and wave.
-CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of epilepsy.  Generalized spike and waves is usually seen in idiopathic generalized epilepsies.  However, the slight asymmetry of the single discharge could signify frontal focus with quick secondary generalization.  No seizures were captured.

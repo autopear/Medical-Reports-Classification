@@ -1,9 +1,0 @@
-MEDICATIONS:  Dilantin, Lovenox.
-REASON FOR STUDY:  Seizure.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures, including hyperventilation and photic stimulation, were performed.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm of 9 Hz which is reactive to eye opening.  There is normal amount of frontal central beta.  The patient appears to go into stage I and stage II sleep. Activating procedures, including photic stimulation and hyperventilation, produce no abnormal discharges.  During hyperventilation he develops a nice well formed delta response.  In addition, at the end of the recording there appeared to be a single benign epileptiform transient of sleep seen only once throughout the recording on the right temporal region at T4.  Also during the recording while he develops drowsiness there appears to be a nice delta burst during one part of the EEG. 
-ABNORMAL DISCHARGES:  None.
-SEIZURES:  None
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

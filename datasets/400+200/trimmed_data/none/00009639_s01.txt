@@ -1,8 +1,0 @@
-REASON FOR STUDY:  Change in mental status.
-MEDICATIONS:  Midazolam, dexamethasone, heparin, gabapentin, insulin, Zofran, metoprolol, Protonix, hydralazine, Duricef, Benadryl, fentanyl, and lidocaine.
-INTRODUCTION:  A routine EEG was performed using a standard 10-20 electrode placement system with the addition of anterior temporal and single-lead EKG electrode.  The patient was recorded while poorly responsive.  No activating procedures were performed.
-DESCRIPTION OF THE RECORD:  The record reveals a diffusely slow background with normal posterior dominant rhythm of frontocentral beta.  The EEG reveals no abnormal sleep architecture.  No activating procedures were performed.  Overall, the background consists of intermittent bursts of delta mixed with theta and alpha activity seen diffusely and continuously throughout the recording.  The patient was stimulated and did not cause change in frequency.
-ABNORMAL DISCHARGES:  Generalized slowing at 2-4 Hz amplitude of 20-60 microvolts as described above with intermittent alpha theta frequencies and some intermixed burst suppression for less than 1 second.
-SEIZURES:  None.
-IMPRESSION:  Abnormal EEG due to generalized slowing.
-CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.  Please note that the slowing may be due at least in part to medication affect.

@@ -1,9 +1,0 @@
-MEDICATIONS:  Topamax, Aggrenox, Valium 
-REASON FOR STUDY:  Seizures.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and drowsiness.  Activating procedures including photic stimulation and hyperventilation were performed.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm with a frequency of 9-10 Hz and an amplitude of 20-60 microvolts which is reactive to eye opening.  There is a normal amount of frontocentral beta.  Patient remains awake and drowsy during the recording.  Activating procedures including photic stimulation and hyperventilation produced no abnormal discharges.
-ABNORMAL DISCHARGES:  None
-SEIZURES:  None.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

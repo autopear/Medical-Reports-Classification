@@ -1,9 +1,0 @@
-MEDICATIONS:  Glyburide, Lisinopril, Trazodone, Celexa, Xanax, Atenolol.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
-TECHNICAL DIFFICULTIES:   None
-DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG has a 9 to 10 Hz alpha rhythm with an amplitude of 30 microvolts, frontocentral theta.  Hyperventilation produces an increase in amplitude.  This is an awake study with minimal drowsiness.  Photic stimulation does not produce a driving response. 
-HR:    84 bpm
-ABNORMAL DISCHARGES:   None
-SEIZURES:   None
-IMPRESSION:  Normal EEG.
-CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.  If seizures are an important consideration, a repeat study may be considered.

@@ -1,9 +1,0 @@
-MEDICATIONS:  Dilantin, Motrin.
-REASON FOR STUDY:  Seizures.
-INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded while awake and asleep.  Activating procedures including hyperventilation and photic stimulation were performed.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 10 Hz which is reactive to eye opening.  There is a normal amount of frontal and central beta.  Photic stimulation and hyperventilation produce no abnormal discharges.
-ABNORMAL DISCHARGES:  None.
-SEIZURES:  None.
-IMPRESSION:  Normal awake and asleep EEG. 
-CLINICAL CORRELATION:   No seizures or epileptiform discharges were clearly seen.

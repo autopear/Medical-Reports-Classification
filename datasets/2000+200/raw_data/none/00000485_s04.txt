@@ -1,8 +1,0 @@
-INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is relatively somnolent.  He is a 67-year-old man who suffered an intracerebral hemorrhage 10/06/06 with subsequent later hemorrhage.  
-DESCRIPTION OF THE RECORD: The overall background is a low voltage pattern with bursts of frontal rhythmic higher amplitude fast activity.  There is beta asymmetry with more beta in the right frontal region in comparison to the left.  There is some reactivity and variability seen in the record.  Asymmetries in this record include the more prominent fast activity on the right.  The left is somewhat slower, but not remarkably so.  Stimulation of the patient including noxious auditory stimuli does seem to produce an increase in faster frequency activity.  Tactile stimuli seems to produce some left-sided delta.  There is variability in the record, with the initial portions of the record demonstrating more bursts of frontally predominant higher amplitude alpha and beta frequency activity.  
-HR:  80 BPM.
-	IMPRESSION/CLINICAL CORRELATION: EEG monitoring during this 24-hour section was remarkable for a pattern of significant background slowing with a low voltage pattern and asymmetry.  
-	
-	No seizures were recorded.  The focal features are congruent with his imaging.
-
-

@@ -1,9 +1,0 @@
-MEDICATIONS:  Coumadin, Benadryl, Lovenox, Klonopin, Desyrel, Folvite, Catapres, Dilantin.
-REASON FOR EEG:  Seizures.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with the additional anterior temporal EKG electrodes.  The patient was recorded during wakefulness and stage I sleep.  Activating procedures included photic stimulation and hyperventilation were performed.   
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a low amplitude well-defined posterior dominant rhythm at 9 Hz which is reactive to eye opening.  Normal frontocentral beta is seen.  Sleep is characterized by stage I.  Activating procedures including photic stimulation and hyperventilation produced no normal discharges.     
-ABNORMAL DISCHARGES:  None. 
-SEIZURES:  None.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

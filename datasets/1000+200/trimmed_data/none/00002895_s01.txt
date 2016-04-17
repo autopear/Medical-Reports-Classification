@@ -1,8 +1,0 @@
-MEDICATIONS : Trileptal.
-INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were perfom1ed. This is an awake and drowsy record. A right craniotomy defect is noted.
-DESCRIPTION   OF  THE  RECORD:  In  wakefulness, there  is a  9  Hz posterior  dominant rhythm. A prominent breach is noted with dramatic increase in amplitude from the 1ight central region. There is a small amount of background excess theta, as well as some subtle underlying delta in the right central region. Asymmetric sleep spindles are noted, maximum in the right. Wicket activity is also noted when the patient is awakened.
-Photic stimulation does not activate the record. Hyperventilation produces an increase in the amplitude of the background.
-HR:  60 BPM.
-IMPRESSION: Abnormal EEG due to:
-1.  Focal slowing from the right central region.
-CLINICAL CORRELATION : Given the dramatic breach rhythm and the sharply contoured background described above, epileptifom1activity may be under-recognized. The waking record demonstrates MU, which is in that same region. The sleep record transitions immediately to stage II sleep, again with sharply contoured activity in that region. No seizures were seen. These findings are similar to previous studies with mild background slowing, as well as the focal features described above.

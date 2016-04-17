@@ -1,9 +1,0 @@
-MEDICATIONS:  Xanax, Zyprexa, Wellbutrin
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and asleep record.
-DESCRIPTION OF THE RECORD:  The background EEG is slow and somewhat disorganized.  Although there is a 10 Hz alpha rhythm, there is clearly excess theta in the background and there is some rhythmic 3.5 Hz activity which in some cases seems to be slower on the right and other cases higher amplitude on the left.  Features of drowsiness include attenuation of the alpha rhythm and an increase in background slowing.  Photic stimulation does elicits a bilateral driving response.  Hyperventilation produces an increase in the slowing.  
-HR:    60 bpm
-IMPRESSION:  Abnormal EEG due to:
-Excess theta.
-Generalized slowing.
-Some shifting slowing a little bit more prominent on the right.
-CLINICAL CORRELATION:  No epileptiform features were identified.  This EEG supports a diffuse disturbance of cerebral function which could be due to patient's medications or underlying neurologic pathology.  No seizures were recorded.

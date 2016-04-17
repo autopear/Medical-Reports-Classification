@@ -1,9 +1,0 @@
-CLINICAL HISTORY: This is a 28-year-old woman with recurrent, refractory seizures.  Seizures versus non-epileptic seizures.  Patient Tegretol toxic. 
-MEDICATIONS: Tegretol, Topamax, Ativan 2 mg, and Heparin.
-INTRODUCTION: During this 24-hour portion of the record, with the data provided, there are no clinical seizures reported by the patient.  There are no seizures identified by the computer.  
-RANDOM WAKEFULNESS AND SLEEP: In wakefulness, the background EEG is well organized with a 10 Hz posterior dominant rhythm.  The patient is actually quite drowsy throughout much of the record, particularly in the initial day, but vertex waves, K complexes, spindles, and POSTS are seen in stage II sleep. Evidence of slow wave sleep include higher amplitude delta activity.  
-HR:  84 BPM.
-	IMPRESSION: Normal 24-hour video EEG monitoring. 
-CLINICAL CORRELATION: Better clinical history may be of use to determine whether or not this patient had any events, but there are no epileptiform features, although the patient does appear to be quite sleepy.
-
-

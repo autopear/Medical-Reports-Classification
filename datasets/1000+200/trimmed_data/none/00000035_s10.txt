@@ -1,9 +1,0 @@
-MEDICATIONS:  Dilantin only.
-INTRODUCTION:  During this 24-hour section of the EEG the patient identified no seizures, none were identified by the clinical team nor the computer.
-DESCRIPTION OF THE RECORD:  In sleep, vertex waves, K-complexes, spindles, and POSTS are noted. 
-The awake record is remarkable for a fair amount of movement artifact.  Patient also seems to be picking up cell phone artifact during the EEG. 
-There is eye artifact in this section of the record, but there are no definitive sharp waves.
-IMPRESSION:  This 24-hour long term video EEG monitoring session was remarkable for:
-Some bursts in the transition to sleep which suggests that there may be some shifting temporal slowing, but which are consistently also compromised by eye artifact.
-Rare left anterior temporal sharp waves noted primarily on only one recording day.
-CLINICAL CORRELATION:  The absence of electrographic seizures and the paucity of epileptiform activity are some of the challenges in EEG monitoring.  Of note, this patient's Dilantin level rose as her carbamazepine level was discontinued, which may have also been a contributing factor.  This EEG monitoring session may be compared to previous studies.

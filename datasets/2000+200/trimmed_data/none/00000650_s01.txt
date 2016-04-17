@@ -1,9 +1,0 @@
-MEDICATIONS:  None.
-REASON FOR STUDY:  Seizures.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures included photic stimulation.
-DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is a normal amount of frontal central beta.  Activating procedures, which included photic stimulation, revealed no abnormal discharges.  The patient is recorded in drowsiness only. 
-ABNORMAL DISCHARGES:  Focal slow waves seen frequently at F8/T4 with an amplitude of 20-60 mV at a frequency of 2-4 Hz.  At times it become monomorphic, but not clearly rhythmic.   
-SEIZURES:  None.
-IMPRESSION:  Abnormal EEG due to: 
-Right anterior temporal slowing.
-CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right anterior temporal region, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.  A repeat EEG with capturing sleep may be helpful in elucidating the diagnosis.

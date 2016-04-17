@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Seizures.
-MEDICATIONS:  Dilantin.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included photic stimulation.
-DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9-10 Hz, which is reactive to eye opening.  There is significant asymmetry and the amplitude seemed much higher on the right than the left.  There is also an asymmetry in the frontal central beta, seen much better over the right hemisphere compared to the left.  However, the frontal central beta is normal.  Activating procedures produce no abnormal discharges.  The patient is recorded in wakefulness and sleep, stage 1, stage II.
-ABNORMAL DISCHARGES:  Focal slow waves seen intermittently over the right hemisphere at T4 and at T6, at an amplitude of 20-60 microvolts and associated breach over that rhythm.
-SEIZURES:  None. 
-Heart rate 72.
-IMPRESSION:  Abnormal EEG due to right mid temporal focal slowing as well as posterior temporal focal slowing in the setting of a breach.
-CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction over the right hemisphere, maximal in the mid temporal region and the posterior temporal region, which is consistent with a known hemorrhage.  No seizures or epileptiform discharges were seen.

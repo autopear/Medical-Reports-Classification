@@ -1,9 +1,0 @@
-MEDICATIONS:  Ativan, Ciprofloxacin, Benadryl, Tylenol
-INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is somnolent.
-DESCRIPTION OF THE RECORD:  As the tracing opens, the patient has just had a seizure which was focal with eye and head deviation.  Although the EEG is technically challenging due to the amount of muscle artifact, in the very beginning of the EEG there is clearly sharply contoured focal slowing noted at C4 and T4.  Later sections of the record include a fair amount of muscle and movement artifact.  In later sections of the record, the occipital parietal regions both demonstrate some focal delta but no additional sharp waves. 
-HR:    96 bpm
-IMPRESSION:  Abnormal EEG due to:
-Marked background slowing.
-Focal slowing with associated sharp waves seen in the first few seconds of the EEG in the right hemisphere.
-Paucity of the normal wave forms for an adult.
-CLINICAL CORRELATION:  No seizures were recorded.  The focal slowing and sharp waves noted in the very initial pages of the EEG may be part of the postictal phenomenon.  Ongoing EEG recording was requested.

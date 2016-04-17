@@ -1,9 +1,0 @@
-MEDICATIONS:  Keppra, Magnesium Oxide, Sirolimus, Calcium Carbonate, Enalapril, Isosorbide, Omeprazole, Simvastatin, folic Acid, ASA, Tacrolimus Ascorbic Acid
-REASON FOR STUDY:  Seizures.
-INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  Wakefulness and sleep were recorded. 
-TECHNICAL DIFFICULTIES:   None.
-DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm at 9 hertz with amplitude of 20 to 60 microvolts which is reactive of eye opening. Normal frontocentral beta is seen. Sleep is characterized by stage I. Photic stimulation and hyperventilation revealed no abnormal discharges. 
-ABNORMAL DISCHARGES:  None. 
-SEIZURES:   None.
-IMPRESSION:  Normal awake and asleep EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

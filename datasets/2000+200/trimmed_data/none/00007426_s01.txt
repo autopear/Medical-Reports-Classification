@@ -1,9 +1,0 @@
-MEDICATIONS:  Keppra, Lamictal, Clonidine, Risperdal, Vistaril.
-REASON FOR EEG:  Seizures.
-INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system electrode placement system with anterior temporal electrodes and EKG electrodes.  Wakefulness and sleep were recorded.  Activating procedures, including photic stimulation and hyperventilation were performed.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm of 9 Hz with 20-70 mV amplitude, which is reactive to eye opening.  There is an increased amount of beta seen, not just in the frontal central area, but more posteriorly. Sleep is characterized by stage I.  Photic stimulation and hyperventilation do not produce any abnormal discharges. 
-ABNORMAL DISCHARGES:  None. 
-SEIZURES:  None.
-IMPRESSION:  Normal EEG.
-CLINICAL CORRELATION: The increased amount of beta may be seen secondary to psychiatric medications, for example benzodiazepine.  No seizures or epileptiform discharges were seen.

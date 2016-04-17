@@ -1,8 +1,0 @@
-MEDICATIONS:  Tegretol, Seroquel.  Others:  Dilantin.
-INTRODUCTION:  Digital video EEG is performed using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed.  This study was completed in the lab.
-DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is diffusely slow.  There is little in the way of an alpha rhythm, and the overall frequencies in the background include mixed theta frequency and some underlying delta.  There are a handful of triphasic-like waves noted in the left frontal central region.   
-Photic stimulation does not activate the record.
-IMPRESSION:  Technically somewhat challenging EEG in this somewhat uncooperative patient but abnormal due to:
-Background slowing and disorganization.  
-Subtle underlying left frontal central sharp wave.
-CLINICAL CORRELATION:  No seizures were recorded.  Given the technical challenge, as described above, if further information is needed to characterize this individual's epilepsy, a repeat study when the patient is a bit more cooperative is suggested.

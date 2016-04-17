@@ -1,8 +1,0 @@
-MEDICATIONS: Thiamine, Folic Acid, Nexium, renagel, Aranesp, Heparin, Lorazepam, Lisinopril, Clonidine, Hydralazine 
-INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 electrode placement with 1 channel EKG. Photic stimulation performed. 
-DESCRIPTION OF THE RECORD: As the record begins, a slow background is seen predominantly of theta rhythm at 5 Hz at times is overtaken by some arrhythmic delta rhythm This is diffuse in nature. As the record continues, left posterior temporal sharp activity is seen occasionally. Photic stimulation does not cause driving. 
-HR: 108 bpm 
-IMPRESSION: Abnormal EEG due to: 
-1. Generalized slowing of background, mostly theta, with some entering arrhythmic delta activity. 
-2. A left posterior temporal sharp wave. 
-CLINICAL CORRELATION: Diffuse slowing of the background is not specific but more consistent with a toxic metabolic encephalopathy. The posterior temporal sharp waves is consistent with a focus for seizure activity and could also be secondary to epilepsy consistent with some form of structural abnormality. Imaging study might be helpful. No seizures were recorded during this record. 

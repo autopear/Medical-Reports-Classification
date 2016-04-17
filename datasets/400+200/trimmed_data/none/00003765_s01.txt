@@ -1,9 +1,0 @@
-REASON FOR STUDY:  Seizure.
-MEDICATIONS:  Propranolol, propylthiouracil.
-INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is an excessive amount of beta seen diffusely throughout the recording.  The patient is recorded in wakefulness, stage 1 and stage 2 sleep.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges. 
-Heart rate 72.
-ABNORMAL DISCHARGES:  None.
-IMPRESSION:  Normal awake and sleep EEG.
-CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges were seen.  Please note that the excessive beta may sometimes be seen due to the effect of benzodiazepines or barbiturates.

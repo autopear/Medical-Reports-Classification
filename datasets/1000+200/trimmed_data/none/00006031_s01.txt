@@ -1,9 +1,0 @@
-MEDICATIONS:  Protonix, ASA, Lovenox, Klonopin.
-REASON FOR STUDY:  Paresthesias.
-INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and sleep.  Activating procedures including photic stimulation and hyperventilation were performed.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 to 10 Hz, which is reactive to eye opening.  The patient has a mild excessive amount of beta seen diffusely.  Activating procedures including photic stimulation and hyperventilation produce no abnormal discharges.  The patient reached stage I and stage II sleep. 
-ABNORMAL DISCHARGES:  None. 
-SEIZURES:  None.
-IMPRESSION:  Normal awake and asleep EEG.
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Please note that diffuse beta may be seen as an effect of the use of benzodiazepines or barbiturates at times.

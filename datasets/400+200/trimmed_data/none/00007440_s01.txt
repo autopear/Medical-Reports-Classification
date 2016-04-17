@@ -1,8 +1,0 @@
-MEDICATIONS: Ceftriaxone, Haldol, Heparin, Ativan, Dilantin, many others. 
-INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is noted to have a craniotomy defect in the right. 
-DESCRIPTION OF THE RECORD: As the tracing opens, the patient is awake.  The background EEG is poorly organized and there is a prominent craniotomy defect with a breech rhythm from the right hemisphere.  A somewhat irregular posterior dominant rhythm ranging from 6.5 to 7.5 Hz is identified and 50 to 70 V in amplitude. In addition, there is arrhythmic delta activity from the right posterior quadrant.  
-HR:  104 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Generalized background slowing with poor organization.
-Focal slowing from the right posterior quadrant and right hemisphere. 
-CLINICAL CORRELATION: No definite epileptiform activity was identified and no seizures were recorded.  This tracing supports a diffuse disorder of cerebral function, as well as a structural abnormality in the right hemisphere.  No previous EEGs were available for comparison.

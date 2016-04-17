@@ -1,9 +1,0 @@
-MEDICATIONS:  Lorazepam, Protonix, Lisinopril, Percocet, Plavix, Lovenox
-REASON FOR STUDY:  Seizures.
-INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded while awake.  No activating procedures were performed.
-DESCRIPTION OF THE RECORD:  The record opens to a mildly slow background at 8 Hz, which is reactive to eye opening.  There is a normal amount of frontocentral beta.  No activating procedures were performed.  The patient was recorded only in wakefulness. 
-ABNORMAL DISCHARGES:  Mild excessive theta in wakefulness at 5 to 7 Hz which is reactive to eye opening. 
-SEIZURES:  None.
-IMPRESSION:  Abnormal EEG due to: 
-Mild diffuse cerebral dysfunction and slowing of the posterior dominant rhythm.
-CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction, which is nonspecific with regard to etiology.  No seizures or epileptiform discharges were seen.

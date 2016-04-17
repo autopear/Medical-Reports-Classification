@@ -1,8 +1,0 @@
-MEDICATIONS: Phenobarbital. 
-INTRODUCTION: One-hour digital video EEG was performed in the Neonatal Nursery using the neonatal montage. The infant is quite awake throughout the EEG, but sleep was captured. 
-DESCRIPTION OF THE RECORD: Because of the infantÆs movements, it is a very challenging EEG, but in this infant who has now reached 29 weeks of gestational age, the record is more discontinuous than one would expect in wakefulness. Delta brushes are identified which are hallmarks which appear in this gestational age. 
-HR: 15 bpm 
-IMPRESSION: This is an abnormal EEG for an infant of this age due to: 
-1. Discontinuity greater than anticipated. 
-CLINICAL CORRELATION: Delta brushes and other age appropriate wave forms are identified. The discontinuity of unclear clinical significance but may represent a sick infant with evidence of dysmaturity rather than specifically a CNS process. No seizures were recorded. 
- 

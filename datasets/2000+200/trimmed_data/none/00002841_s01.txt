@@ -1,9 +1,0 @@
-MEDICATIONS: Aspirin, Plavix, Prevacid, Tylenol, Solumedrol, Lidocaine, Acyclovir, others.
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and asleep record.  No hyperventilation or photic stimulation were performed. 
-DESCRIPTION OF THE RECORD: As the tracing opens, the patient is comatose and intubated in the ICU.  The background EEG is low voltage with slow delta activity.  There are intermittent PLEDS, which can be identified in the bifrontal regions or in the right temporal region.  In some portions of the record, they may occur with a periodicity of one per second for eight seconds.  Other portions of the record show sporadic or rare PLEDS.  Stimulation of the patient seems to increase the periodic activity.  The PLEDS vary from a low voltage subtle to a more higher amplitude discharge. 
-HR:  80 BPM.
-	IMPRESSION: Abnormal EEG due to:
-Low voltage, relatively featureless background.
-PLEDS from the bifrontal and right temporal regions.
-Pathologic response to stimulation.
-CLINICAL CORRELATION: The pattern described above is characteristic of anoxic brain injury. No seizures were recorded.  The response to tactile stimulation was pathological.

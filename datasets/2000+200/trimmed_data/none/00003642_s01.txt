@@ -1,7 +1,0 @@
-MEDICATIONS:  Keppra, Versed, Fentanyl, Reglan, Protonix.
-INTRODUCTION:  Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated and comatose.  He had a ventriculostomy and a craniectomy on the right.
-DESCRIPTION OF THE RECORD:  The EEG is markedly abnormal.  On the right, underlying the craniectomy, the overall brain activity is suppressed with some muscle artifact.  The left hemisphere demonstrates some 10 Hz alpha frequency activity and slow underlying delta.  Stimulation of the patient produces muscle.  Tactile stimulation of the patient such as nasal tickle again produces muscle artifact, primarily from the left scalp electrodes.  There is a small amount of variability in the left hemisphere in terms of the amount of 10 Hz alpha frequency activity.  Heart rate 60 BPM.
-IMPRESSION:  
-Abnormal EEG due to #1, markedly suppressed pattern from the right. 
-A slow pattern on the left with a mixture of delta and alpha frequency activity.
-CLINICAL CORRELATION:  No epileptiform features were identified.  No seizures were recorded.  This EEG supports a bihemispheric disturbance of cerebral function but one that more significantly involved the right hemisphere congruent with the neuroimaging.

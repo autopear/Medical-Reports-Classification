@@ -1,8 +1,0 @@
-MEDICATIONS: Aspirin, Diltiazem, antibiotics.
-INTRODUCTION: Digital video EEG is perforn1ed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed. The patient seems to be contractured.   The techmologist doesn't seem to be able to get her to lie flat on the bed, and there is a great deal of muscle artifact.
-DESCRIPTION OF THE RECORD: The EEG is significantly obscured by muscle and movement artifact, however, a discernable background can be identified, which is markedly slow with a mixture of rhytlm1ic theta and arrhythmic delta activity.  There is suspicious, underlying triphasic waves noted in the background.   There is also a great deal of eye movement artifact.  Shifting asymmetries are noted.  Photic stimulation does not activate the record.
-HR:  120BPM.
-IMPRESSION: Abnorrnal EEG due to:
-1.  Marked background slowing.
-2.   Likely underlying triphasic waves.
-CLINICAL  CORRELATION: The quantity of muscle artifact seen in this study would obscure identification of epileptiform activity.  No seizures were recorded.

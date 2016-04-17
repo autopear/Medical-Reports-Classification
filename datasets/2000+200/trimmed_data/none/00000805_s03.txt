@@ -1,9 +1,0 @@
-TYPE OF STUDY:  Routine EEG.
-STUDY NUMBER:  12-1765.
-MEDICATIONS:  
-INTRODUCTION:  Digital EEG was performed at the bedside using a standard International 10-20 system of electrode placement in addition to one channel of EKG monitoring.  Hyperventilation and photic stimulation were not performed.  These tracing captures wakefulness only.
-DESCRIPTION OF THE RECORD:  In the most alert state, the posterior dominance rhythm is 7.5-8 hertz in frequency, 50 microvolts in amplitude seen in the occipital region, which attenuates with eye opening.  There is also diffuse theta activity 7-8 hertz in frequency during wakefulness.  There is almost continuous slowing characterized by 6-7 hertz diffuse theta activity intermittently 2-3 hertz delta activity in the left frontotemporal region.  There is attenuation in left frontotemporal region seen during this recording.  Heart rate 70-75 beats per minute and regular.
-IMPRESSION:  This is an abnormal EEG recording due to,
-Slowing of the posterior dominant rhythm and diffuse slowing of the background activity in theta range.
-Attenuation and almost continuous slowing (in theta and delta range) in the left frontotemporal region.
-CLINICAL CORRELATION:  The slowing of the posterior dominant rhythm and diffuse slowing of the background activity are suggestive of either toxic metabolic or infectious encephalopathy.  Alternatively it could be due to the effect of sedating medications or bilateral cerebral dysfunction or degenerative brain disease.  Attenuation and slowing in the left frontotemporal region are consistent with patient's history of stroke.  No epileptiform abnormalities are identified in this record.  No seizures are captured.  This does not rule out the diagnosis of epilepsy or intermittent seizures is clinically indicated.  Clinical correlation is recommended.

@@ -1,8 +1,0 @@
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was completed.
-DESCRIPTION OF THE RECORD:  There is an 8.5 Hz alpha rhythm noted.  There is a small amount of theta and a small amount of disorganization noted in both hemispheres.  Focal slowing is noted with delta, more prominently seen in the right central parietal region.  Although there is wicket, an occasional C4 or P4 sharp wave is noted in the background.  These findings are a bit more prominent if the patient becomes drowsy.  Deeper stages of sleep were noted achieved.  Hyperventilation seems to accentuate the focal slowing. 
-HR:    66 bpm
-IMPRESSION:  Abnormal EEG due to:
-1. Background slowing and disorganization.
-2. Right posterior quadrant focal slowing.
-3. Right central temporal sharp waves.
-CLINICAL CORRELATION:  This EEG supports focal mechanism for epilepsy.  No seizures were recorded.

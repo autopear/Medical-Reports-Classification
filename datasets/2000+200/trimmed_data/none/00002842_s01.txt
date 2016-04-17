@@ -1,8 +1,0 @@
-MEDICATIONS:  Propofol, fentanyl, Versed drip.
-INTRODUCTION:  This 25-minute digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated, restrained, in a collar, and unresponsive.
-DESCRIPTION OF THE RECORD:  The background EEG demonstrates a continuous pattern with diffuse beta and smaller amounts of delta and theta.  There are occasional bursts of triangular shaped delta noted in the frontal regions.  Eye movement artifact is noted.  There is also some head rocking artifact and some shifting slowing in the frontal regions, right more so than the left.  Stimulation of the patient produces a bit more higher amplitude delta, again right more so than the left. 
-Heart rate 93 bpm.
-IMPRESSION:  This is an abnormal EEG due to:
-Replacement of normal background with a continuous pattern of diffuse beta.
-Shifting slowing, right more so than the left.
-CLINICAL CORRELATION:  This EEG demonstrates a continuous background.  No seizures or spikes were noted.  The focal features described above may be correlated with imaging.  The diffuse beta is an anticipated finding with the use of sedative hypnotic medications.

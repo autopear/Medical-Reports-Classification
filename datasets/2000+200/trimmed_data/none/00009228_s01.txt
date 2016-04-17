@@ -1,9 +1,0 @@
-MEDICATIONS:  Prenatal vitamins.
-REASON FOR EEG:  Seizures.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with anterior temporal electrodes and EKG electrodes.  Wakefulness and sleep was recorded.   Activating procedures including photic stimulation were performed.
-TECHNICAL DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens to a well-formed posterior dominant rhythm at 9 Hz with a 20-80 microvolt amplitude.  There is normal frontocentral beta.  Sleep is characterized by stage 1 and stage 2.  Activating procedures with photic stimulation reveal no abnormal discharges.
-ABNORMAL DISCHARGE:  None.
-SEIZURE:  None
-IMPRESSION:   Normal awake and sleep EEG
-CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Please note that normal EEG does not exclude the diagnosis of epilepsy.

@@ -1,8 +1,0 @@
-MEDICATION:  Lidocaine, Dopamine, others.
-INTRODUCTION: Digital  Video EEG was performed  at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated and comatose.
-DESCRIPTION    OF   THE   RECORD:   The   background   demonstrates   essentially invariant pattern with frontally  predominant  PLED.   Although, there is just a little bit of variability in this periodicity,  at the beginning of the EEG as the recording continues,  this periodicity  becomes much  less variable and particularly  invariant  frontally predominant complex seen at 1.6 seconds  with a scant amount of cerebral  activity in the background. Stimulation of the patient does not produce a change in the record.
-HR:  120BPM.
-IMPRESSION: Abnormal  EEG due to:
-1.  Essentially, invariant frontally predominant bilateral periodic complex
-2.   Markedly suppressed background
-CLINICAL  CORRELATION:  This tracing recorded 72 hours after cardiac arrest unfortunately, carries a poor prognosis.  No seizures were seen.  The absence of reactivity and variability are also poor prognostic features.

@@ -1,9 +1,0 @@
-MEDICATIONS:  Keppra.
-REASON FOR EEG:  Seizures.
-INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  Wakefulness and sleep stage I and stage II were recorded.
-TECHNICAL  DIFFICULTIES:  None.
-DESCRIPTION OF THE RECORD:  The record opens with well defined posterior dominant rhythm at 9 hertz which is reactive to eye opening. There is beta seen diffusely in large amounts throughout the whole EEG. Sleep is characterized by stage I and stage II. Activating procedures included photic stimulation and hyperventilation produced no abnormal discharges.
-ABNORMAL DISCHARGES:  None.
-SEIZURES:  None.
-IMPRESSION:  Normal awake and asleep EEG.
-CLINICAL CORRELATION: No seizures or epileptiform discharges were seen.

@@ -1,7 +1,0 @@
-MEDICATIONS: Multiple cardiac medications, two doses of Fentanyl this morning and previous Ativan.  
-INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is examined extensively throughout the record. 
-DESCRIPTION OF THE RECORD: The background EEG is a burst suppression pattern.  Overall, it is a relatively low voltage pattern.  The burst suppression pattern may include up to 10 seconds of suppression with faster frequency activity lasting one to four seconds in duration.  Stimulation of the patient does not significantly alter this pattern. There is no obvious clinical twitching identified during the record.  
-HR:  116 BPM.
-	IMPRESSION: Abnormal EEG due to:
-	1.	Replacement of normal background with a burst suppression pattern. 
-CLINICAL CORRELATION: In the absence of anesthetic doses of sedative hypnotic medications, this record would support a poor prognosis following cardiac arrest although the duration of time is approximately 15 hours. No seizures were recorded.  These results were communicated to the clinical team. 

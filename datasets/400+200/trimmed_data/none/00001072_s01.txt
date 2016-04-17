@@ -1,8 +1,0 @@
-LOCATION:  Inpatient medical ICU.
-MEDICATIONS:  Versed and Keppra.
-INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was intubated and unresponsive.
-DESCRIPTION OF RECORD:  The background EEG includes a continuous pattern, rich in beta frequency activity.  The overall background is sharply contoured, and there is some shifting delta in the background. 
-Heart rate 93 BPM.
-IMPRESSION:  This is an abnormal EEG due to:  
-1. Replacement of normal background with a mixed frequency pattern with generous beta and some underlying delta.
-CLINICAL CORRELATION:  No seizures or epileptiform features were identified.  These findings were communicated to the clinical team on the night of the recording.
