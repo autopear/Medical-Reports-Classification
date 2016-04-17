@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Labetalol, Vancomycin, Ciprofloxacin, Dodine 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Patient is intubated. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates wakefulness. At times, there is a 10-Hz posterior dominant rhythm, better represented on the right than the left. There is intermittent Epochs of sleep are noted with bursts of vertex activity. There are also other sections of the record with rhythmic frontal delta. This Is a dynamic pattern with some sections of the record demonstrating much more awake patient and then a dramatic transition Into sleep. There are some sections in wakefulness in which the focal slowing from the left hemisphere maximum in the temporal regions is more prominent. 
+HR: 66 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Intermittent focal slowing from the left hemisphere, Including disruption of the alpha rhythm. 
+2. An unusual pattern with rapid transition from wakefulness to sleep. 
+CLINICAL CORRELATION: No epileptiform features were observed. This patient's pattern Is somewhat unusual in terms of a transition from wakefulness to sleep that is not necessarily pathologically so. 

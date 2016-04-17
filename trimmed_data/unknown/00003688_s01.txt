@@ -1,0 +1,9 @@
+MEDICATIONS:   Dilantin.
+INTRODUCTION:   Digital video EEG was performed in lab using standard 10-20 system  of electrode placement with 1 channel  EKG. Hyperventilation and photic stimulation performed.
+DESCRIPTION OF THE R ECORD:  During  wakefulness there is well-organized posterior alpha rhythm  of 10.5 Hz. There is bilateral  minimal excess  theta seen, more in the frontal regions.  There  is an asynchronous burst of bilateral slowing  in the theta-delta range bilaterally. During  photic stimulation, driving is seen.
+	HR: 	60  bpm
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Asynchronous bursts  of slowing  seen bilaterally.
+	2. 	Minimal excess  theta.
+CLINICAL CORRELATION:  There is no epileptiform activity  seen on this record. The slowing in the record is non-specific and could be due to an encephalopathy or
+medications.

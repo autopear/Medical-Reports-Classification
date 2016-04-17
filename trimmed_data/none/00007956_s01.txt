@@ -1,0 +1,13 @@
+MEDICATIONS:  Percocet, Toradol, Diazepam, Norvasc, Cipro, Lovenox, Motrin, Lisinopril.
+REASON FOR STUDY:  Confusion.
+INTRODUCTION:  Digital video EEG was performed using the standard 10-20 electrode anterior and temporal using an EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activation procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that reaches 7 Hz which is reactive to eye opening.  There is some frontocentral beta seen intermittently throughout the recording.  Activation procedures were not performed.  The patient was recorded in wakefulness and drowsiness.
+ABNORMAL DISCHARGES:  
+Focal slow wave seen continuously at F7/T3 with an amplitude of 20-50 microvolts and a frequency of 2-4 Hz.  
+Generalized slow waves at 5-7 Hz seen continuously throughout the recording.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Continuous focal slowing in the left anterior temporal region. 
+Mild generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction in the left anterior temporal region which has a high correlation with a lesion in the white matter in that location.  In addition, there is evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

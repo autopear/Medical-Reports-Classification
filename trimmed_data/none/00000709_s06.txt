@@ -1,0 +1,10 @@
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This an awake and sleep record. 
+DESCRIPTION OF THE RECORD: Background EEG is markedly abnormal with posteriorly predominant 3-4 Hz activity and occasional bursts of rhythmic, frontally predominant activity. In addition to the bursts of FRIDA and OIRDA there is a question of slow spike in wave activity mixed in with the discharges. Photic stimulation elicits: No driving. Hyperventilation elicits: Hyperventilation seems to accentuate the delta. Vertex waves are observed early in the transition to sleep. The patient drops abruptly from wakefulness into sleep with spontaneous arousals from sleep. In some sections of the record there is a questionable left greater than right occipital focus. 
+IMPRESSION: Abnormal EEG due to: 
+HR: 66 bpm 
+IMPRESSION: 
+1. ORIDA. 
+2. FIRDA. 
+3. Slow disorganized background. 
+4. Occipitally predominant spike wave activity which is somewhat more prominent on the left. 
+CLINICAL CORRELATION: No seizures were observed today. These findings have been previously observed. 

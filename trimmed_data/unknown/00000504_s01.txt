@@ -1,0 +1,8 @@
+MEDICATIONS: Pantoprazole, Rifaxamin, Metoclopramide, Heparinm Insulin, Vanco, Morphine, Midodrine, lmipenem, Heparin, Dopamine, Dilantin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. Patient seems to have a tracheostomy, is unresponsive, and a temp of 1 02.6. 
+DESCRIPTION OF THE RECORD: The background EEG is very low voltage and suppressed with slow delta and intermittent attenuations. In the initial section of the record, there are brief, 0.75 to 1.5 second bursts of 10Hz alpha frequency activity. A 20-second hypoxia occurred three times but by the close of the record it occurs six times. Stimulation of the patient does not activate the record. 
+HR: 120 bpm 
+IMPRESSION: Markedly abnormal EEG due to: 
+1. Slow suppressed pattern. 
+2. Intermittent, poorly formed bursts of alpha frequency activity. 
+CLINICAL CORRELATION: This pattern may be considered a burst suppression pattern. It is less suppressed at the end of the bedside recording which may be part of a post ictal phenomenon or response to medications. Depending upon the use of sedative hypnotic medications, the burst suppression pattern and absence of reactivity may carry a poor prognosis. 

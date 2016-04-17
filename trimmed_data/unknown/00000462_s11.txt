@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is very confused and restless. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with rhythmic theta disrupted by rhythmic frontal delta. Overall, this is a relatively symmetric record although there are shifting asymmetries and a suggestion of some poorly formed sharp waves in the right temporal region. Stimulation of the patient produces an arousal with dysarthria and an increase in theta. 
+HR: 72 bpm 
+IMPRESSION: Markedly abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Prominent FIRDA. 
+3. Occasional shifting slowing. 
+4. Some sharply contoured slowing from the right. 
+CLINICAL CORRELATION: This EEG is most supportive of a diffuse disturbance of cerebral function affecting gray and white matter. Although these findings can be seen as part of a postictal state, a followup study may be helpful to assess response to treatment. 

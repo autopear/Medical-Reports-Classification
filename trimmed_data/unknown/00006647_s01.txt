@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and Dilaudid.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was completed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9 Hz, 30 V posterior dominant rhythm. Drowsiness is characterized by attenuation of the alpha with a lower voltage pattern, slow rolling eye movements, and more diffuse distribution of the beta activity followed by brief vertex waves and then arousals. There were one or two somewhat asynchronous bursts. As the patient reaches stage I sleep with vertex waves, there seems to be on occasion a sharp wave mixed in with the vertex activity.  This is seen on three occasions.  Unfortunately, there is also EKG artifact, but at least on three occasions, there seems to be an underlying sharp wave, which can be picked up in the right or left anterior temporal electrodes (T1 or T2).  Towards the close of this sleep recording, as the patient begins to emerge from sleep, temporal wicket activity is identified.  This differs from the sharply contoured slowing seen in association with the vertex activity.  
+Photic stimulation does not activate the record. 
+HR:  94 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Unusual sharp and slow wave complexes seen in association with vertex waves (dyshormia) with rare, independent right or left temporal sharp waves.
+CLINICAL CORRELATION: To further characterize and localize this patient’s epileptiform activity, a repeat study capturing deeper stages of sleep may be of use.  Alternatively, comparison with previous EEGs could also be helpful.

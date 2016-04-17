@@ -1,0 +1,10 @@
+MEDICATIONS:  Keppra, Trileptal.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is a routine, greater than 20 minute, record.  Impedances were acceptable, aside from the T1-T2 electrode.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 9 Hz alpha rhythm which is symmetric and reactive to eye opening.  In early wakefulness, there is at times subtle, rhythmic left temporal rhythmic delta and at other times, more prominent higher amplitude rhythmic 4-5 Hz activity. 
+Hyperventilation was performed early on in the record clearly accentuating focal slowing from the left temporal region with rhythmic temporal slowing, higher amplitude activity and temporal sharp waves.  The left temporal slowing becomes nearly continuous.  Following hyperventilation the patient transitions to stage 2 sleep with vertex waves, K complexes, spindles, and posts.  Occasional left temporal sharp waves and focal slowing was identified.  The patient was relatively drowsy during photic stimulation and focal slowing and sharp waves were identified but there was a bilateral driving response. 
+Heart rate 78 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Left temporal focal slowing.
+Left temporal sharp waves in T1, maximum in wakefulness and sleep.
+Marked accentuation of focal slowing and sharps in hyperventilation.
+CLINICAL CORRELATION:  No seizures were recorded.  Overall, this EEG represents an improvement for this subject.  The focal slowing and epileptiform features have been previously identified. 

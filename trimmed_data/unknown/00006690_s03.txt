@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Phenytoin,  Hydoroxyzine, Fexofenadin,  Singular, Nexium, Fluticasone
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation is not performed, but photic simulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG is slow and disorganized.  It is a sharply contoured background with prominent wicket activity and a posterior dominant rhythm typically of 7 Hz duration.  Features of drowsiness include paroxysmal slowing and shifting, arrhythmic slowing in the sharply contoured record. Deeper stages of sleep are not achieved.   Photic stimulation elicits driving at intermediate flash frequencies.
+	HR:	90 bpm
+IMPRESSION: Abnormal EEG due to:
+1.  Background slowing.
+2.  Disorganization.
+CLINICAL CORRELATION:  Epileptiform features may be under-recognized in this study due to the sharply contoured background.  However, arrhythmic sharply contoured arrhythmic delta on the left is the most salient feature in terms of the search for an epileptiform focus.  The background slowing supports diffuse disturbance of cerebral function.
+	
+		

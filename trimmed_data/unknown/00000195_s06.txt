@@ -1,0 +1,12 @@
+MEDICATIONS: Dilantin, Dexamethasone, Lovenox, Insulin, Zofran . 
+INTRODUCTION: Digital video EEG was performed at bedside using : standard 10-20 
+of electrode placement with .1 channel EKG. The technologist notes that the is in exquisite pain and is crying. 
+DESCRIPTIQN OF THE RECORD: The background EEG is slow but also includes an interhemispheric asymmetry. There is more rhythmic theta from the right, with higher amp Imide activity and evidence of a breech rhythm. There are negative sharp waves at T2 and also some that are positive at T2.
+ 
+HR: 84 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 2. Superimposed interhemispheric asymmetry with higher amplitude activity on the 
+right.
+3. Right temporal sharp waves.
+CLINICAL CORRELATION: This EEG supports a relative severe disturbance of 
+Cerebral dysfunction more significant on the left compared to the right.

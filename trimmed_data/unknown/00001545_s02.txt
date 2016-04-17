@@ -1,0 +1,11 @@
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside on the floor using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed. 
+DESCRIPTION OF THE RECORD: At the initiation of the tracing, the background EEG is significantly disorganized. The normal posterior dominant alpha rhythm cannot be recognized but low voltage activity at delta range can be seen throughout the tracing after adjusting the sensitivity. Stimulation of the patient did not cause secondary change in background. 
+Heart rate 84 bpm. 
+IMPRESSION: Abnormal EEG due to: 
+1. Disorganized background. 
+2. Absence of alpha rhythm. 
+3. Extensive slow activity in delta ridge. 
+4. Stimulation of the patient did not provoke background change. 
+CLINICAL CORRELATION: This EEG tracing demonstrates a significant cerebral dysfunction involving both the cortical gray matter and subcortical white matter. It can be seen in encephalopathy caused by metabolic, toxic, infectious, or due to medication. 
+However, no focal findings nor epileptiform discharges were seen in this tracing. If seizure is of clinical concern, a repeat EEG may be helpful. 

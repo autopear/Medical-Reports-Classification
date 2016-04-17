@@ -1,0 +1,8 @@
+MEDICATIONS:  Lamotrigine, Xanax, Doxepin, Hydroxyzine, Urodyn, Evista,  Norvir.
+REASON FOR STUDY:  Loss of balance.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep, stage I and stage II, and deeper stages of sleep including REM.  Activating procedures included hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 to 10 Hz which is reactive to eye opening.  There is a normal amount of frontal central beta.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.  The patient is noted to go into stage I, stage II, and deeper stages of sleep including quickly going into a few, may 10 to 20 seconds, of REM. Please note that during the EEG as she was falling asleep she would have jerky movements of her head consistent with sleep myoclonus. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  Please note that the frequent myoclonus and the short REM latency suggest disturbance in the normal architecture of sleep and a sleep consult will be of benefit.

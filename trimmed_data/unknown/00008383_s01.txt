@@ -1,0 +1,8 @@
+MEDICATIONS: Percocet, Dilantin, Phenobarbital, Ativan, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is reasonably well organized and symmetric in amplitude.  There is a posterior dominant rhythm ranging from 7.5 to 9 Hz.   There is a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements. 
+Photic stimulation elicits brief bilateral driving. 
+HR:  82 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+	1.	Mild slowing of the posterior dominant rhythm.
+CLINICAL CORRELATION: This patient’s medications or postictal state may produce the mild slowing described above.  No focal or epileptiform features were seen.  No previous EEGs were available for comparison.  

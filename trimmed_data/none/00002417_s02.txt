@@ -1,0 +1,11 @@
+REASON FOR STUDY:  Hypoxic respiratory failure and change in mental status.
+MEDICATIONS:  Dilaudid, pantoprazole, Coumadin, Keppra, baclofen, gabapentin, gentamicin, cefepime, vancomycin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrodes.  The patient is recorded during wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 8 Hz.  There is some frontal central beta at times.  Activating procedures were not performed.  The patient is recorded in wakefulness but has some architecture seen in sleep, stage I.  Overall, the background has moderate slowing in the delta/beta frequencies and has intermittent bursts of generalized slowing, which I will describe in the abnormal discharges.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen intermittently at T4 at a frequency of 2-4 Hz and an amplitude of 20-40 microvolts.  
+Mild to moderate generalized slowing at 4 Hz and at a frequency of 4 Hz and an amplitude of 20-60 microvolts seen continuously throughout the recording.  Please note that at times he has bursts that may last up to 10-12 seconds of frontal intermittent rhythmic delta activity (FIRDA).
+HEART RATE:  90.
+IMPRESSION:  Abnormal EEG due to mid temporal focal slowing as well as mild to moderate generalized slow waves with FIRDA.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right mid temporal region in addition to mild to moderate diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or clear epileptiform discharges are seen.

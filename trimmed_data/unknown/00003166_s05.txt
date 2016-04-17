@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Ativan, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 10 Hz, 50 uV posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. Hyperventilation is performed early on in the record and doesn’t seem to activate the record.  The patient seems to be a bit drowsy.  Following hyperventilation, however, there is some rhythmic theta picked up in the temporal regions, particularly in the T1-T2 electrodes more so on the left than the right.  In addition, despite some EKG artifact, there are some underlying sharp waves seen primarily at T1, but occasionally at T2 as well.   As the patient drops into stage I sleep, again the sharp waves and rhythmic temporal delta are seen in bursts.  Photic stimulation elicits scant driving. 
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Intermittent rhythmic temporal delta, left greater than right, primarily seen in drowsiness. 
+	Independent, T1 or T2 spike and slow wave complexes seen primarily in drowsiness, greater on the left than the right. 
+CLINICAL CORRELATION: These findings support a localization-related mechanism for epilepsy.  Correlation with imaging may be valuable.  

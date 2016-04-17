@@ -1,0 +1,10 @@
+MEDICATIONS:  Lamictal.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  This is a very drowsy individual.
+DESCRIPTION OF THE RECORD:  The individual sleeps throughout much of the EEG, but there is a section with a 9 Hz alpha rhythm.  In brief wakefulness there is an intermittent asymmetry characterized by attenuation of faster frequency in the left anterior temporal region. As the patient transitions into sleep, there are subtle, left anterior temporal sharp waves, particularly at F7, sometimes at FP1.  There are rare sharp waves which also occur from the right.  Features of stage II sleep include spindles.  The patient transitions rapidly in and out of stage II sleep into a drowsy state.   
+Photic stimulation was performed while the patient is falling off to sleep, but does elicit a driving response.   
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG in an excessively drowsy individual due to:
+Left frontal temporal sharp waves.
+Focal slowing in the left temporal region. 
+Rare sharp waves on the right.
+CLINICAL CORRELATION:  This EEG is more supportive of a focal mechanism for epilepsy.  No seizures were recorded.

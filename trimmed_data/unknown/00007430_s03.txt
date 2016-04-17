@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Keppra, Ativan, Protonix
+INTRODUCTION:  Digital video EEG is performed at bedside using standard  10-20 system of electrode placement  with 1 channel EKG.  The patient received Ativan and physical examination during the EEG.
+DESCRIPTION OF THE RECORD:  Background  EEG demonstrates a markedly abnormal pattern, relatively featureless  with high amplitude periodic sharp waves. The sharp waves are maximum  in the right hemisphere typically central temporal and posterior temporal. At time, they are followed by brief generalized background suppressions. In the initial section of the record, at time they are relatively uniform and a generous field in the right posterior region and at other points, they are a bit more variable with more of a maximum in the center temporal region. Following the administration of Ativan, there is less in the way of muscle  artifact. Stimulation of the patient after the Ativan produces  some theta in the background. There are a handful of
+vertex waves observed. Following the administration of Ativan, the overall background is more suppressed  and the activity more clearly localized to the right hemisphere. By the close of the record, the periodic activity is well localized to the right hemisphere, maximum central temporal and posterior temporal region. The activity does not wax or wane particularly and no clinical seizures are observed.
+HR:   N/A
+IMPRESSION: Abnormal EEG due to:
+	1. 	Markedly abnormal background.
+	2. 	Periodic complexes  with a generous  field of spread that is seen primarily in the right hemisphere.
+CLINICAL CORRELATION:  This EEG supports a severe disturbance of cerebral function. Additional EEG recording to assess this patient with what is likely a late ictal pattern is advised

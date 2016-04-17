@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin and folic acid.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation  were performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In maximum wakefulness, the background EEG is well organized  with  a  10 Hz  posterior  dominant  rhytlm1 and  a  small  amount  of  low  voltage, frontocentral beta activity.  Early on in the record, there are several spike wave complexes seen maximum   at   01   but  also  P3.     These  discharges  are  accentuated   by  hyperventilation. Occasionally, the discharges are preceded by rhythmic theta in the left parieto-occipital region. Photic stimulation also accentuates the discharges.   In the course of the recording, the patient achieves stage I and stage II sleep evidenced by POSTS, vertex waves, and a few spindles.· Photic stimulation elicits a symmetric driving response.
+HR:  78BPM.
+IM    PRESSION: Abnormal EEG due to:
+1.   Focal spike waves at the left parieto-occipital region, which is preceded by rhythmic slowing.
+CLINICAL CORRELATION: This tracing suppm1s a focal or localization-related mechanism for this patient 's epilepsy.  The preceding theta and focal slowing  at the left parieto-occipital region indicates a structural abnom1ality. Correlation with neuroimaging data is appropriate.

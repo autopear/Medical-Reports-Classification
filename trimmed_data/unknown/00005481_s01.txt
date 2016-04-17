@@ -1,0 +1,18 @@
+MEDICATIONS: Ativan, Narcan, Etomidate, Dilantin. 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. The patient is intubated. 
+DESCRIPTION OF THE RECORD: Background EEG demonstrates an abnormal 
+pattern which is slow. There is a pattern of theta with delta. In addition, there is 
+superimposed, sharply contoured slowing in the right frontal region. The EEG is 
+intermittently somewhat discontinuous. Bifrontal, triphasic appearing sharp waves are 
+also observed. Stimulation of the patient produces an increase in theta and a decrease 
+in discontinuity. 
+HR: 144 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Replacement of normal background with a markedly slow pattern. 
+2. Intermittent discontinuous pattern. 
+3. Bifrontal, and right frontal sharp waves with superimposed sharp wave contoured 
+slowing on the right. 
+CLINICAL CORRELATION: This EEG supports a severe disturbance of cerebral 
+function. The frontal findings are congruent with the description of the CT abnormality. A 
+right frontal focus for seizures could be considered. 

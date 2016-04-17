@@ -1,0 +1,10 @@
+MEDICATIONS:  Lovenox, Benadryl, Morphine, Synthroid, Dilantin, Ceftriaxone, Prednisone, Albuterol, Ipratropium, Pulmicort, Rocephin.
+REASON FOR STUDY:  Episode of unresponsiveness.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  No activating procedures were performed.  The patient was recorded while slightly lethargic.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background, however, with intermittent architectures of stage II and stage III sleep with limited wakefulness.  Upon stimulation, she wakes up for seconds, and there appears to be a normal posterior dominant rhythm with normal frontocentral beta; however, she quickly goes back to the stages of sleep.  No activating procedures were performed.   
+ABNORMAL DISCHARGES:  Excessive or mild to moderate generalized slow waves. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction which is nonspecific in regard to etiology.  It may be due, at least in part, to medication affect.  This is supported by the fact that the patient improved with stimulation and is likely sedated.  No seizures or epileptiform discharges are seen.

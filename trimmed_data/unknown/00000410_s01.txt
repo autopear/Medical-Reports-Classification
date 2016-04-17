@@ -1,0 +1,20 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 
+system of electrode placement with one channel of EKG. Hyperventilation and photic 
+stimulation were performed. This is an awake and drowsy record. 
+DESCRIPTION OF RECORD: In wakefulness, the background EEG is 
+reasonably well organized with a 9.5 Hz, 40 uV posterior dominant rhythm. There is a 
+scant an1ount of background theta. Hyperventilation is performed with good effort, 
+producing a bit more theta, slightly more so on the left, with rare bursts of sharply 
+contoured slowing from the left seen at the close of hyperventilation. As the patient 
+becomes drowsy, there are occasional bursts of higher amplitude rhythmic, sharply 
+contoured theta from the left temporal region appearing in brief bursts. Photic 
+stimulation elicits scant driving. 
+HR: 60BPM. 
+IMPRESSION: Abnormal EEG due to: 
+1. Left temporal, sharply contoured theta and underlying focal slowing. 
+CLINICAL CORRELATION: Tins EEG raises concerns regarding a localization related 
+mechanism for epilepsy. Comparison with previous EEGs from childhood and/or 
+recording may be helpful. 
+Director, EEG Lab 
+I have reviewed the study and concur with this report. 

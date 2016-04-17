@@ -1,0 +1,16 @@
+MEDICATIONS: Propofol, Dilantin 
+INTRODUCTION: Continuous digital video EEG was performed at bedside using 
+standard 10-20 system of electrode placement with 1 channel of EKG. The patient is 
+intubated and comatose. Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous 
+mixed frequency slow pattern. Occasional sharp waves are observed most of which are 
+at C3 but with some variability in terms of spread to the left frontocentral or 
+centrotemporal region. Shifting asymmetries are noted and in this section of the record 
+the activity is actually slower on the right at times than the left. Intermittent discontinuity 
+is observed and there are brief bursts of sharp waves at C3. 
+HR: 70bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Background slowly. 
+2. Left central sharp waves. 
+CLINICAL CORRELATION: These findings were noted in the previous first 24 hours of 
+the record. No seizures were recorded. Correlation with clinical history is suggested. 

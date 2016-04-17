@@ -1,0 +1,8 @@
+MEDICATIONS:  Keppra, Dilantin, Versed, Ativan.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is somnolent.  Stimulation of the patient was performed.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow with a mixture of rhythmic delta and 5-7 Hz theta frequency activity.  Shifting slowing is noted on occasion with a bit more slowing on the right.  Stimulation of the patient produces some faster theta frequency activity, but arousal is not sustained.  As the patient drifts off to sleep, spindles are noted in the central regions.  They are bit asymmetric, a bit more prominent on the left.   
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized slowing.
+Shifting asymmetries with more prominent beta on the left and a bit more arrhythmic delta activity on the right.
+CLINICAL CORRELATION:  These findings are nonspecific and support a bihemispheric disturbance of cerebral function.  No electrographic seizures were identified and there was no significant epileptiform activity.

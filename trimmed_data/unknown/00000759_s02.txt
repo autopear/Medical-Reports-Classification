@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin. Warfarin, Herceptin,  Prilosec
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is a very drowsy adult.
+DESCRIPTION OF THE RECORD:  In wakefulness,  the background EEG demonstrate a very sleepy individual with very limited maximal wakefulness. Stage 2 sleep with vertex waves, K-complexes, spindles, and POSTS are noted. Photic stimulation does
+not activate the record. A single left mid temporal sharp wave was identified as well as a single left parietal.
+	HR:	72 bpm
+IMPRESSION: This EEG is notable for:
+	1.		Hypersomnolence with intermittent bursts of paroxysmal out of wakefulness or drowsiness, which may be part of either slow wave sleep or a diffuse disturbance of cerebral function.
+	2.	Rare sharp waves with a single T1 and P3 sharp wave.
+CLINICAL CORRELATION:  Additional recording may be helpful to more completely evaluate epileptiform activity.
+		

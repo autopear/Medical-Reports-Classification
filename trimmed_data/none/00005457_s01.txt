@@ -1,0 +1,10 @@
+MEDICATIONS: Steroids, low ADD ______________. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is poorly organized and diffusely slow. It is intermixed with theta and delta activity.  A breach rhythm was identified in the left hemisphere.  Frequent, focal sharply contoured delta activity was found at T2 and T4.  Photic stimulation elicited driving as well as occasional, left occipital sharp waves. No  seizure activity was identified on the video recording.
+HR: 90 BPM.
+IMPRESSION: Abnormal EEG due to:
+Diffuse slowing.
+Poorly organized background.
+Breach rhythm in the left hemisphere. 
+Focal sharp delta activity in the right anterior temporal region.  
+CLINICAL CORRELATION: This EEG recording demonstrates cerebral dysfunction of both hemispheres.  The breach rhythm reflects a skull defect.  No seizures were identified in the record, but potential or epileptiform activity was seen in both hemispheres. 

@@ -1,0 +1,6 @@
+MEDICATIONS:  Ativan, Dilantin, Neurontin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This was an awake and a sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background includes a well-defined alpha rhythm of 10 Hz, symmetric and reactive to eye opening.  The patient was initially very tremulous in wakefulness, but transitions in and out of Stage II sleep with ease.  During the EEG, the patient has episodes of tremulousness  with bilateral tremulousness of the upper extremities producing rhythmic 5 Hz artifact in the EEG.  Hyperventilation does not activate the record.  Photic stimulation elicits bilateral driving.  Intermittently throughout the EEG, the patient has twitching of the upper extremities for which he states that he is not aware of.  These are associated with 5 Hz artifact and are not followed by postictal slowing or any other manifestations of an epileptiform discharge.        
+HR:    90 bpm
+IMPRESSION:  Normal EEG
+CLINICAL CORRELATION:  This patient's episodes of arm twitching with some twitching of the chest and thorax were associated with artifact in the EEG, but not with epileptiform features.

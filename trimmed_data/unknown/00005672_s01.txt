@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Lopressor, Coumadin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 electrode placement with 1 channel EKG. Photic stimulation was performed. This is awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG improved relatively well organized posterior dominant alpha rhythm at 9.6 hertz per second with 40 to 50 microvolts in amplitude. Irregular bursts of theta are present, more on the right than the left side initially and then shifting to more left on the right side at the end of the record. During this EEG record, the patient had a lot of muscle artifact as well as eye fluttering. 
+Drowsiness is characterized by slow eye rolling movement. Photo stimulation elicits scant bilateral driving. 
+HR: 66 bpm, irregular.
+ 
+IMPRESSION: Abnormal EEG due to: 
+1. Intermittent irregular delta activity. 
+CLINICAL CORRELATION: No epileptic or focal seizures were observed. Absence of epilepsy from feature does not exclude diagnosis of epilepsy. The described irregular delta activity is nonspecific. Correlating imaging may be appropriate. 

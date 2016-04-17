@@ -1,0 +1,8 @@
+MEDICATION: Dilantin, Ativan, Dopamine, and Solu Medrol.
+INTRODUCTION: Digital Video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient has a subtle twitching of the eye and upper extremities.
+DESCRIPTION  OF THE RECORD: The background EEG is markedly abnonnal with an intermittently discontinuous pattern.   There periods of suppression, which are 3-5 seconds in duration.   Other portions of the record are more continuous and include rhythmic theta frequency activity and high amplitude, bilateral frontal spike and slow wave and poly spike activity.   This activity appears to be relatively synchronous and maximum in the frontal regions, perhaps a bit more on the right than the left. Stimulation of the patient may produce a decrease in the suppression.
+HR:  124BPM.
+IMPRESSION: Abnormal EEG due to:
+1.  Presence of frontally predominant spike and slow wave and sharp activity
+2.  Discontinuous pattern
+CLINICAL  CORRELATION:  There does appear to be a correlation with the high amplitude frontally predominant spiking in this patient's motor activity.   Thus, these discharges would be considered epileptiform in nature.   Prolonged seizures were not seen.  In this context of severe head trauma and cerebral edema, this is a worrisome EEG pattern.

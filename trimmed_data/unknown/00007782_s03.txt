@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Phenobarbital, Labetalol, Ceftriaxone, Ativan, and Versed. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is stimulated at the end of the record.  
+DESCRIPTION OF THE RECORD: The background EEG is continuous with a mixed frequency pattern of delta and theta.  On occasion, the slowing is a bit more remarkable in the left temporal region than the right.  There are bursts of shifting, arrhythmic delta activity identified in either temporal region.  With the use of a referential montage, again the disruption of faster frequency from the left temporal train is somewhat more prominent.  Stimulation of the patient produces some eye movement and some evidence of arousal with an increase in theta frequency activity.  There is also evidence of some sleep/wake cycles with the appearance of vertex activity in this record.  
+HR:  56 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Subtle focal slowing from the left temporal region. 
+CLINICAL CORRELATION: These features are similar to the previous study done on 12/17/03.  The background slowing is less remarkable than one might expect given the magnitude of the stroke described.  No epileptiform features have been identified in any of this patient’s EEGs.  The presence of reactivity and variability are considered positive prognostic features.  

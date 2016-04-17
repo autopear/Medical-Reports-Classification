@@ -1,0 +1,10 @@
+MEDICATIONS:  Tegretol, Ativan
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement.  The patient is postictal, experiences a seizure during the EEG and is uncooperative.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is postictal and the EEG is diffusely slow with a lower voltage delta pattern and bursts of theta.   
+Out of the slow and suppressed pattern, there is an increase in amplitude with rhythmic 2-3 Hz activity from the right temporal region maximum at T2 at 4:42:05.  The clinical features of the seizure include motion arrest.  Then the patient has eye flutter which is more prominent on the right.  He has eye blinking and oral automatisms.  He is initially responsive during the beginning of the seizure.  He has oral automatisms, eye flutter followed by postictal obtundation.   
+This seizure is 1 minute and 20 seconds in duration.  It begins with rhythmic repetitive delta at T2 and then repetitive sharp waves at T2-T4.  These are approximately 19 seconds in duration before we have a higher amplitude 4-5 Hz discharge really in the right hemisphere with slowing and volume conduction to the left.  When the seizure is over, the background EEG is markedly slow and the patient is quite somnolent.  He rolls over on his stomach and it becomes very difficult to maintain good quality electrodes.  He is markedly obtunded postictally. 
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to:
+An electrographic seizure which was clinically a complex partial seizure out of the right temporal region.
+Generalized background slowing.
+CLINICAL CORRELATION:  The seizure occurred early in the EEG.  Aside from the seizure itself, there were few epileptiform discharges.

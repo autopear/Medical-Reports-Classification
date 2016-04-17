@@ -1,0 +1,9 @@
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel EKG. Hyperventilation and photic stimulation were completed. 
+DESCRIPTION OF RECORD: In wakefulness, the awake background includes a low-voltage beta pattern. Features of drowsiness include rhythmic central theta followed by vertex waves. There are a handful of vertex waves which demonstrate shifting asymmetries. 
+Hyperventilation produces a small increase in amplitude of the background. Photic stimulation is performed as the patient is drifting off to sleep and does not significantly activate the record. Minor shifting asymmetries are noted in the background, particularly at the close of the record and a bit more remarkable in the right central region. 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Excess beta.
+2. Excess theta. 
+3. Shifting slowing. 
+CLINICAL CORRELATION: There are no focal nor epileptiform abnormalities. The background beta and theta may be correlated with imaging and clinical history. The shifting slowing: Correlation with imaging is suggested.

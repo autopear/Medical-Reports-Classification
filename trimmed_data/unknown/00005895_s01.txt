@@ -1,0 +1,7 @@
+MEDICATIONS:  Serax, Thiamine, Keppra, Dilantin, Lovenox, Protonix
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed.  This was an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  As the patient becomes drowsy, a breach rhythm is identified with an accentuation of beta in the left frontal region.  In addition, as the patient transitions in and out of drowsiness, left frontal focal slowing characterized by isolated delta or theta is observed.  Other features of sleep include POSTs. Vertex waves and spindles are observed in stage sleep. Photic stimulation elicits bilateral driving.
+HR:  90 bpm
+IMPRESSION:  Abnormal EEG due to: 
+Left frontocentral focal slowing.
+CLINICAL CORRELATION:  No epileptiform features are identified.  These findings may be correlated with imaging.

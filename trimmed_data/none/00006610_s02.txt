@@ -1,0 +1,11 @@
+MEDICATIONS: Dilantin, antibiotics, and Propofol.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and on a continuous Propofol IV drip.
+DESCRIPTION OF THE RECORD: The background EEG is disorganized and low voltage. The normal alpha posterior dominant rhythm is not seen.  Small amounts of low voltage, frontocentral beta activity were identified.  Focal slowing was recognized in the left temporal area and a breach rhythm was seen in the right central and temporal regions.  Left temporal focal slowing with occasional sharply contoured slowing was seen.  In comparison to the beginning and ending of this recording, more delta activity was seen in the beginning and more theta seen at the end of the EEG recording.  
+EVENTS:  No seizures was recorded nor reported reported by the nurses. 
+HR:  78 BPM.
+	
+	IMPRESSION: Abnormal EEG due to:
+Disorganized and diffusely slow background with low voltage.
+Left temporal focal slowing and occasional sharply contoured activity.
+Right centrotemporal breach rhythm.
+CLINICAL CORRELATION: This EEG tracing demonstrates a severe cerebral dysfunction.  The left temporal focal slowing may be suggestive of an underlying pathology. The right breach rhythm is consistent with a craniotomy.  The low voltage tracing with more delta at the beginning and more theta at the end is consistent with coma, including a pharmacological coma with Propofol. No seizures were recorded. 

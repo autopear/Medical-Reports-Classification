@@ -1,0 +1,8 @@
+MEDICATIONS:  Keppra, Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat slow and disorganized with excess theta and an alpha rhythm of 8.7 Hz.  Features of sleep include vertex waves and posts.  Photic stimulation elicits scant driving. 
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background slowing and disorganization.
+Excess theta.
+CLINICAL CORRELATION:  The background slowing is a nonspecific finding and can be part of a postictal state.  No epileptiform features were noted.  If epilepsy is an important consideration, a repeat tracing when the patient has recovered from his current illness may be helpful in characterizing epileptiform activity.

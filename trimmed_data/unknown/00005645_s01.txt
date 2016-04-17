@@ -1,0 +1,18 @@
+MEDICATIONS: Namenda, Xanax, Ambien, Prozac, Dilantin, Percocet, Metformon, 
+Phenyltoinexten, Simuastatin, Trico, Warfarin, Digoxin, Metoprolol, Diovan, Furosemide, 
+Atenolol, ISOSORBIDE, Spironolactone, Prilosec, Percocet  
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. Photic simulation is performed.  
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, 40 microvolt 
+posterior dominant rhythm identified which is symmetric and reactive to eye opening. 
+There is a small amount of low voltage, frontocentral rhythmic theta. Photic stimulation 
+elicits bilateral driving. In the transition from drowsiness to wakefulness, there is some 
+shifting asymmetry and, at times, some of the rhythmic frontal theta may be a bit more 
+prominent in the left frontal region or the right.  
+HR: 60 bpm  
+IMPRESSION: This EEG is remarkable for: 
+1. Excess frontal slowing when maximally awake.  
+CLINICAL CORRELATION: No epileptiform features were observed. The focal 
+features described above may be correlated with imaging. The patient's bilateral 
+craniotomy may mitigate the amplitude of the features described above.  
+ 

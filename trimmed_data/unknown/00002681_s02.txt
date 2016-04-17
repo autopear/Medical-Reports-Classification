@@ -1,0 +1,11 @@
+MEDICATIONS: Dilantin, Thiamin, aspirin, others.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated, comatose without evidence of reactivity to external stimuli.
+DESCRIPTION OF THE RECORD: The background EEG is abnormal and is medium to low voltage.  There is 2 to 3 Hz delta activity with brief bursts of mixed theta and alpha frequency activity lasting .5 to 1.5 seconds.  Throughout the record, there is occasional discontinuity.   Stimulation of the patient produces artifact, but no clear change in the background EEG.  Despite the eye blink artifact and the facial twitching, there is no epileptiform activity.  On one or two occasions, the delta appears slightly periodic.  
+Stimulation of the patient does not activate the record. 
+HR:  96 BPM.
+IMPRESSION: Abnormal EEG due to 
+Replacement of normal background with slow, delta activity and small amounts of theta.
+Decreased amplitude, especially R temporal region.
+Subtle discontinuity.
+Absence of reactivity.
+CLINICAL CORRELATION:   This pattern supports a severe disorder of cerebral function affecting gray and white matter.  The absence of reactivity and presence of discontinuity are negative prognostic features.  No epileptiform activity was recorded.

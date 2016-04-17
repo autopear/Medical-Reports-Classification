@@ -1,0 +1,18 @@
+MEDICATIONS: Dilantin, Keppra, Phenobarbital, Clotrimazole, Pantoprazole, Insulin, Heparin, Vanco, Levothyroxine,
+INTRODUCTION: Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is known to have opsoclonus eye movements.   She has minimal spontaneous movements as this EEG begins.
+March 26, 2009 to March 27, 2009
+DESCRIPTION OF THE RECORD:  Background EEG demonstrates a very slow pattern with theta and delta but primarily delta.  There is a poorly formed periodic sharp
+	complex in the left hemisphere  starting at 3 but transitioning very slowly throughout the left hemisphere.  Tactile stimulation of the patient provides really no change.  When the technologist leaves the patient remains unresponsive, head and eyes deviated to the right which is off camera.  There are some bifrontal periodic complexes observed in addition to the epileptiform activity on the left and independent right frontocentral sharp waves are also noted. 	The quality of the recording remains reasonable throughout.
+No spontaneous movements are seen in reviewing the video, no additional movements are observation at the bedside although the technologist notes that she is able to see some form of facial twitching, not identifiable on the video.  Some eye movement can be observed.  These findings are more prominent at 12:50 on the second day of recording. At that time, the EEG is actually at its most quiescent with a lower voltage slow pattern and really this is one of the few times with improvement of the left central parietal sharp waves or the right central sharp waves.
+March 27, 2009 to March 28, 2009
+This section of the record runs continuously.  There is no clinical information provided regarding patient's medications or clinical examination.  The March 29 through March
+30 data is of poor technical quality due to loss of electrode integrity and should not be
+billed to the patient.
+March 28, 2009 to March 30, 2009
+DESCRIPTION OF RECORD:  Background EEG demonstrates  an increasingly slow and featureless pattern.  The major area with sharp waves is the left frontocentral region, but there are some bilateral periodic complexes observed. The patient remains relatively comatose.
+HR:   72 bpm
+IMPRESSION:  This long-term EEG monitoring is remarkable for:
+	1. 	Nearly continuous periodic sharp waves from really most prominently from the left but with other foci including right central and bilateral periodic activity.
+	2. 	Slowing of the epileptiform activity over time.
+	3. 	A markedly severely slow background.
+CLINICAL CORR ELATION:  These findings support a severe underlying cerebral disturbance.  The bilateral epileptiform activity described above is congruent with the imaging.

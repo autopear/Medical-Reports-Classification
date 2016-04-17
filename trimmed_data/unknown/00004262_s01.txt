@@ -1,0 +1,9 @@
+MEDICATIONS: Keppra, Meclizine, Phenytoin, Tekturna, Metoprolol, Gentamicin, Lovenox, Protonix 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is a 3-hour EEG. 
+DESCRIPTION OF THE RECORD: As the tracing begins the patient is poorly responsive. She has a prominent intrahemispheric asymmetry with a glimpse of a 7.5 Hz posterior dominant rhythm on the right, but persistent arrhythmic delta activity on the left with periodic sharp activity, which is very high amplitude with a phase reversal in the left mid temporal region, but which was complex and may be seen in T3 and T5 with a generous field of spread and even at times almost a double phase reversal. It starts with a sharp wave and then ends with a more anterior and delayed left frontal temporal delta focus. Dilantin is infused at 2:12 p.m. By 2:15 the epileptiform activity starts to abate. It does start to recur at 2:26. In addition, there is almost a bifrontal temporal sharp wave noted. There are bursts of frontal temporal delta with some sharp waves, but none is the same repetitive activity. The patient is globally drowsier by the end of the EEG. 
+HR: 70-96 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Initially a continuous left anterior temporal repetitive sharp activity. 
+2. Left temporal slowing. 
+3. Left frontal or frontal temporal sharp waves. 
+CLINICAL CORRELATION: This EEG supports an irritative focus in the left, congruent with this patient's imaging. The background bihemispheric slowing suggests a bihemispheric process. 

@@ -1,0 +1,11 @@
+REASON FOR STUDY:  Rule out seizures.
+MEDICATIONS:  Protonix, Zofran, Reglan, Keppra and morphine.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded while minimally responsive.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  Throughout the recording, there was a continuous 60 Hz artifact that could not be fixed despite working on the ground and turning off electrical activity in the room.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 8 Hz and is only seen over the left hemisphere.  There is no frontocentral beta clearly seen.  Overall, only the left hemisphere faster frequency, which at best reached a theta 5-7 Hz and over the right hemisphere, there is continuous delta slowing and almost complete suppression of faster frequencies.  No normal sleep architecture is seen.  No activating procedures were performed.  There does appear to be some reactivity to the EEG.
+ABNORMAL DISCHARGES:  
+Right hemispheric continuous slowing maximal in the midtemporal region in addition to almost complete attenuation of any faster frequencies.  
+Generalized slowing at 5-7 Hz and amplitude of 20-60 microvolts seen mainly over the left hemisphere.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to right hemispheric maximal midtemporal focal continuous slowing as well as almost complete attenuation of faster frequencies in addition to generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction in the right hemisphere, maximal in the midtemporal region, which is consistent with the known injury.  The lack of faster frequencies suggest marked dysfunction of the gray matter over that hemisphere.  In addition, there is evidence of diffuse of cerebral dysfunction, which is nonspecific with regards to etiology and may be due at least in part to medication effect.  No seizures or epileptiform discharges were seen.

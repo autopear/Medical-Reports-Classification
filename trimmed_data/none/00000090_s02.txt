@@ -1,0 +1,8 @@
+MEDICATIONS: CBZ, others
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and poorly responsive. 
+DESCRIPTION OF THE RECORD: The background EEG is low to medium voltage with delta activity.  There are prominent eye movement artifacts picked up in the frontal region.  These are sometimes higher amplitude in the EEG electrodes than the eye electrodes, however, when the patient’s eyes are held still, reactivity disappears.  There are intermittent bursts of fast activity particularly from the frontocentral regions, in some cases left greater than right.  Stimulation of the patient does not consistently produce a change in the background EEG.  As described above, holding the patient’s eyes open alters the periodic frontally predominant movements which helps confirm the nature of his eye artifact.  During the examination, the patient’s physician notes repetitive eye movement, even when the eyes are closed. 
+HR:  116 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with low voltage, relatively featureless delta and smaller amounts of theta.
+Intermittent bursts of fast activity from the frontotemporal regions, sometimes from the left.
+CLINICAL CORRELATION: No seizures were identified in this record.  This EEG supports a diffuse disorder of cerebral function effecting both gray and white matter.  Intermittent paroxysmal fast activity can been seen in secondarily generalized epilepsy and neuronal migration abnormalities.  Comparison with previous EEGs may be of use. 

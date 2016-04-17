@@ -1,0 +1,6 @@
+MEDICATIONS:  Dilantin, Ativan, Haldol.
+INTRODUCTION:  The digital video EEG was performed at bedside the using standard 10-20 system of electrode placement with one channel of EKG.  The patient was initially extremely uncooperative and had to be sedated for electrode placement.  This was primarily a sleep record.
+DESCRIPTION OF THE RECORD:  The background EEG includes diffuse beta.  The patient transitions in and out of stage II sleep with vertex waves and some spindles.  Stimulation of the patient produces a burst delta.   
+Heart rate 72 bpm.
+IMPRESSION:  This EEG is within normal limits for a sedated sleep record.
+CLINICAL CORRELATION:  The generous beta described above is compatible with medication effect.  No epileptiform features were noted in this record.  There were no previous EEGs available for comparison.

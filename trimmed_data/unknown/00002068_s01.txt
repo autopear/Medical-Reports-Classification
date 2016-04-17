@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Protonix, and others.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Electrode placement was challenging because of this patient’s hygiene.  Hyperventilation and photic stimulation were performed.  This is a mainly drowsy record. 
+DESCRIPTION OF THE RECORD: The patient is drowsy or asleep throughout much of the record.  In drowsiness, there is rhythmic background theta followed by vertex waves in sleep.  He has multiple brief arousals.  Maximal wakefulness is not sustained, but in the brief occasion that wakefulness is achieved, his alpha rhythm is 8 Hz. 
+HR:  84 BPM.
+	IMPRESSION: Mildly abnormal EEG for a subject of this age due to:
+	1.	Mild slowing of the posterior dominant rhythm.
+CLINICAL CORRELATION: The excess drowsiness described above may be due to medications or this patient’s underlying medical illnesses.  The slowing of the alpha rhythm to 8 Hz in an adult of this age is of unclear clinical significance and can be due to a postictal state, hepatic failure, or medication effect.  

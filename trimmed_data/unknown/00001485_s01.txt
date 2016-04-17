@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Phenobarbital, Keppra, Benadryl, Ativan 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG is slow and disorganized. It is primarily a theta delta pattern with a glimpse of a 9 hertz alpha rhythm on the right. There seems to be a breech rhythm with higher amplitude activity on the left compared to the right. Sharp waves are identified most of which have a T1 phase reversal, but there are a handful of sharp waves which start at T2, lower voltage and then higher amplitude, left anterior temporal T2-F7. The sharp waves seem to be accentuated by hyperventilation. The focal slowing on the left is also accentuated by hyperventilation. Although there is no mention of a previous craniotomy, there is higher amplitude activity on the left and as the patient becomes drowsy, there is a bit more focal left frontal temporal delta. Photic stimulation produces scant driving more apparent on the right than the left. 
+HR: 78 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Focal slowing on the left compared to the right. 
+3. Sharp waves seem primarily from the left, but some of which start on the right and end on the left. 
+CLINICAL CORRELATION: This EEG supports a focal process on the left involving gray and white matter. In addition, the overall background is slow suggesting a bihemispheric process. Correlation with imaging is appropriate, but overall, this EEG supports a focal mechanism for seizures. 

@@ -1,0 +1,7 @@
+MEDICATIONS:  Keppra and Dilantin.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9 Hz alpha rhythm.  Drowsiness is characterized by an increase in beta and theta.  There is a slight asymmetry as the patient gets drowsy with a slight dropout of faster frequency activity in the left hemisphere before the right and a single T1 discreet sharp wave. 
+Photic stimulation elicited scant driving.   
+Heart rate:  60 BPM.
+IMPRESSION:  This is a mildly abnormal EEG due to a subtle focal finding with disruption of faster frequency activity on the left and a little bit of left sided slowing as the patient becomes drowsy.
+CLINICAL CORRELATION:  Only a single left temporal sharp wave was identified, which cannot therefore be considered pathological.  In comparison to a previous EEG which demonstrated left sided PLEDs and left focal slowing, this is a dramatically improved EEG but does support a focal mechanism for this patient's seizures.  The focal slowing is ipsilateral to this patient's left MCA infarct.

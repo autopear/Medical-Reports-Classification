@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Namenda, Ecotrin, Tylenol, HCTZ, Lisinopril, Norvasc, Prilosec, Simvastatin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. 
+DESCRIPTION OF THE RECORD: The background EEG during wakefulness demonstrated a mildly disorganized record with a frequency of 7-11 Hz, in addition to that there is some prominent eye flutter observed during the record. Hyperventilation showed an increase in theta rhythm and some slowing with disruption of the alpha rhythm. Photic stimulation showed bursts of shifting slowing. 
+HR: 76 bpm 
+IMPRESSION: Abnormal EEG due to: 
+I. Generalized slowing arid disruption of the alpha rhythm. 
+2. Shifting slowing. 
+CLINICAL CORRELATION: This EEG supports bihemispheric disturbance of cerebral function that may be associated with the patient's diagnosis of dementia. Clinical correlation is suggested. 

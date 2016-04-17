@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Gabapentin and Keppra.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  Some P4 electrode artifact that was fixed.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures included hyperventilation and photic stimulation, produced no abnormal discharges.  The patient is recorded in wakefulness, stage 1 sleep.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen frequently at F7/T3 and independently at T3 at a frequency of 2-4 Hz and amplitude of 20-60 microvolts.  At times, they became monomorphic and rhythmic for about 3 seconds consistent with temporal intermittent rhythmic delta activity (TIRDA).  
+Focal slow waves seen rarely at F8/T4 independently at T4 at a frequency of 2-4 and an amplitude of 20-50 microvolts.
+SEIZURES:  None. 
+Heart rate 84.
+IMPRESSION:  Abnormal EEG due to left anterior temporal and midtemporal focal slowing with temporal intermittent rhythmic delta activity (TIRDA) in addition to right anterior temporal and midtemporal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left anterior and midtemporal region, which in addition to the TIRDA may have a high correlation with seizures arising from that region.  There is also evidence of focal cerebral in the right midtemporal region, which is nonspecific with regards to etiology.  No seizures were seen.

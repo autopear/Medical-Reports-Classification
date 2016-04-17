@@ -1,0 +1,12 @@
+	MEDICATIONS: 	Dilantin, Ativan, antibiotics, Keppra and others.
+			INTRODUCTION: 	Portable digital video EEG is performed in the ICU at the bedside using standard 10-20 system of electrode placement with one channel of EKG.	 Hyperventilation and photic stimulation was not performed.	The patient is intubated and with minimal responsiveness.
+			DESCRIPTION OF THE RECORD: 	The background EEG is symmetric continuous, but superimposed of excessive muscle artifact.	 When the muscle artifact transiently subsided, excessive slow activity in theta and delta range can be seen.	 The normal
+posterior dominant artifact rhythm cannot be recognized.
+	Stimulation of the patient transiently increased the slower activity as well as in amplitude. 	However, no focal findings or epileptiform was identified.
+	HR: 	66 bpm.
+	IMPRESSION: 	Abnormal EEG due to:
+1. Disorganized background.
+2. Excessive slow activity.
+				CLINICAL CORRELATION: 	This EEG indicating a cerebral dysfunction in the gray matter and the white matter. 	The findings is nonspecific but it can be seen in patients with encephalopathy secondary due to infections, metabolic, or medication as well as postictal phase.	 Clinical correlation is recommended. 	Because excessive muscle artifact in background may be obscured in the evaluation of the possible epileptiform
+	discharges.	 If epilepsy is a clinical concern, a repeat EEG may
+	be helpful. 	Again, this tracing does not suggest a status of subclinical epilepsy exits.

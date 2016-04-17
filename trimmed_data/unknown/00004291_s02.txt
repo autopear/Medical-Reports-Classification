@@ -1,0 +1,7 @@
+MEDICATIONS:  
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  There were minor technical difficulties with this record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 11 Hz alpha rhythm.  Frequent eye blink was noted.  Features of drowsiness include hypersynchronous rhythmic alpha.   
+Hyperventilation produces a small amount of slowing.  Photic stimulation elicits a bilateral driving response at intermediate flash frequencies. 
+Heart rate 96 BPM.
+IMPRESSION:  Normal awake and drowsy record.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy.

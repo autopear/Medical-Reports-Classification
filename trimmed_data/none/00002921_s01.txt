@@ -1,0 +1,10 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  Some T4 muscle artifact seen intermittently.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches at best 9 Hz, has a low amplitude, but is reactive to eye opening.  There is mild excessive beta seen throughout the recording.  The patient is recorded during wakefulness and drowsiness.  Activating procedures, including photic stimulation, produce no abnormal discharges.
+ABNORMAL DISCHARGES:  Mild excessive theta in wakefulness at 5-7 Hz at an amplitude of 20-60 microvolts.
+SEIZURES:  None. 
+Heart rate 78.
+IMPRESSION:  Abnormal EEG due to mild excessive theta in wakefulness.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.

@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin, Topamax, Keppra.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is wearing a face mask on 100% oxygen and appears uncomfortable and had difficulty cooperating with the test.
+DESCRIPTION OF THE RECORD:  The background EEG is disorganized and lacks the normal development milestones for an awake adult.  The overall background is a mixture of beta and theta without a well-defined alpha rhythm.  The patient is more agitated in the earlier sections of the record.  Despite the artifact, there does appear to be an asymmetry with a bit more delta in the right hemisphere compared to the left.  This is most prominent in the right occipital region.  The right focal delta is a bit more prominent when the patient is agitated.   
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background slowing and disorganization.
+Absence of the normal developmental milestones anticipated in an awake EEG.
+Focal slowing in the right hemisphere, maximum in the right posterior region.
+CLINICAL CORRELATION:  No epileptiform features were observed.  The overall pattern supports a bihemispheric disturbance of cerebral function but with additional focal features on the right.  Postictal state, toxic or metabolic factors may all contribute to the pattern described above.  Correlation with imaging may also be of value.

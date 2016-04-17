@@ -1,0 +1,6 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.   Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm with a small amount of low voltage, frontal central beta.  Frequent eye blink artifact is observed. Hyperventilation produces a small amount of slowing. Photic stimulation elicits scant driving. Sleep was not achieved. 
+HR:    72 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  Epileptiform activity was identified in this patient in 2004, but not in the 2 EEGs that follow.  A normal EEG does not exclude a diagnosis of epilepsy.

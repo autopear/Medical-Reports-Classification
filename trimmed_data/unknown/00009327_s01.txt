@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Lisinopril, Simvastatin. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 electrode placement with 1 channel EKG. Hyperventilation not performed. Photic stimulation performed. 
+DESCRIPTION OF THE RECORD: As the record begins, an increase in muscle artifact and beta activity is seen. The overall background is of a lower voltage and showing mostly increased beta activity. At times, some left frontal central slow waves are seen. No driving is seen during photic stimulation. During evaluation of this EEG the patient appears to be a bit confused on the video. 
+HR: 60 bpm with irregularity. 
+IMPRESSION: Mildly abnormal EEG due to: 
+1. Some left frontotemporal slowing. 
+2. Frontocentral slowing. 
+CLINICAL CORRELATION: There is no epileptiform discharge seen in this record even though the patient does at time look confused on the video. The left frontocentral frontotemporal slow waves could be consistent with a structural abnormality. 

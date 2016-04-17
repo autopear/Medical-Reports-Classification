@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Keppra, and Ativan 1 mg every one to two hours.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is comatose and intubated.  
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous, mixed frequency pattern rich in delta and beta frequency activity, as well as some theta.  In this individual who is wearing a hard collar, there is some occipital delta.  Stimulation of the patient produces a small amount of beta.  There is a small amount of variability in the record.  In some portions of the record, there is some shifting slowing with a bit more arrhythmic delta on the left compared to the right and a bit more beta on the right, although this isn’t a persistent finding. 
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Replacement of normal background with a mixed frequency pattern.
+	A question of an intrahemispheric asymmetry with more fast activity on the right and more slowing on the left, raising the possibility of a structural or functional process on the left.  
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  These EEG findings are reassuring in this deeply comatose patient

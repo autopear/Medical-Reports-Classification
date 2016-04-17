@@ -1,0 +1,15 @@
+MEDICATIONS:  Carbatrol, Lamictal.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using the standard 10-20 electrode placement systems with anterior temporal electrodes and EKG electrodes.  EEG was recording wakefulness and sleep. Activated procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The EEG opens to a well-defined posterior dominant rhythm that at best reaches 9 Hz and is symmetrically reactive to eye opening. There is a normal amount of frontal central beta. Sleep is characterized by stage 1.  Hyperventilation and photic stimulation poses no abnormal discharges.
+ABNORMAL DISCHARGES:  
+Focal slow waves at T2/T4 at times with a monomorphic pattern consistent with TIRDA (temporal intermittent rhythmic delta activity).
+Focal sharp waves left anterior temporal at F7/T1 infrequently seen.
+Focal slow waves at F7/T3 at 2-4 Hz and 20-60 mV amplitude.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:  
+Right anterior temporal slowing and TIRDA 
+Left anterior temporal sharp waves. 
+Left anterior temporal slow waves
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of localization-related epilepsy with seizures possibly arising from either temporal lobes. In addition, there is evidence of independent bilateral temporal focal cerebral dysfunction which is nonspecific with regards to etiology. No seizures were seen.

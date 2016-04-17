@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Keppra, antibiotics (Vancomycin, Ceftriaxone, Ampicillin, Cefapine, Clindamycin, and Acetomycin), and insulin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is responsive to tactile and noxious stimuli. 
+DESCRIPTION OF THE RECORD: The background EEG is overall markedly slow with a breach rhythm identified over the right frontal region.  The majority of the background is theta with smaller amounts of delta. There are periodic sharp waves seen from the right hemisphere, as well as left frontotemporal sharps at F7 and T3.  There are occasional triphasic waves identified over the left hemisphere.  Stimulation of the patient increases the theta background from both hemispheres.  There is some variability in the record.  There are also occasional sharp waves seen at T6 and Oz.  
+HR:  114 BPM. 
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Intrahemispheric asymmetry with abnormal features from both hemispheres, periodic sharp waves on the right, but also left frontotemporal region. 
+Occasional triphasic waves. 
+CLINICAL CORRELATION: The epileptiform features seen in both hemispheres, which support a partial mechanism for epilepsy in this patient.  Triphasic waves and verall background slowing are indicative of an underlying metabolic, toxic, or infectious, or drug effect. 

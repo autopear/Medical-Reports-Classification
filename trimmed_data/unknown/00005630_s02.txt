@@ -1,0 +1,12 @@
+MEDICATIONS: Dilantin, Oxycodone, Lopressor, Darbepoetin, Cyclobenzaprine 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel EKG. Photic stimulation is performed. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is poorly organized diffusely. 
+There is a dynamic pattern with some sections with rhythmic theta. Other sections include arrhythmic delta activity. Independent right or left temporal high-amplitude spike and some wave complexes are noted in relaxed wakefulness. FIRDA is observed in the transition to sleep. Brief vertex waves are noted in sleep. Photic stimulation does not significantly activate the record.
+ 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Prominent shifting arrhythmic delta activity, particularly on the posterior temporal regions. 
+3. Independent, high-amplitude right or left anterotemporal sharp waves. 
+CLINICAL CORRELATION: The sharp waves identified from the right and left temporal regions were not previously identified. There are far fewer triphasic waves identified in this record compared to previous. 

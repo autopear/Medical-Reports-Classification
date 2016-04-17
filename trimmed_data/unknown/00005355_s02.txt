@@ -1,0 +1,10 @@
+MEDICATIONS: Ativan, Keppra, Dilantin, Gentamycin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and poorly responsive.                                            -
+DESCRIPTION OF THE RECORD: The background EEG is very slow, featureless with lower voltage delta on the right. From the left, there is some sharply contoured activity in the left and sharply contoured quasi periodic delta on the left.  Stimulation of the patient produces muscle artifact, again more so on the left than the right. In this poorly responsive patient, there is occasional eye movement artifact.
+H R:
+150bpm
+IMPRESSION": Markedly abnormal EEG due to:
+1.   A markedly low voltage slow pattern on the right.
+	2. 	Some sharply contoured activity on the left_
+	3. 	A markedly slow delta pattern on the left..
+CLINICAL CORRELATION: This EEG suggests a significant bihemispheric process. No sustained seizures were noted, although there is some sharply contoured focal slowing.

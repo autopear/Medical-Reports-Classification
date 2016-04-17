@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and Tegretol.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG includes a posterior dominant rhythm of approximately 6 to 7 Hz.  The major abnormality is a right hemispheric spike and slow wave complex with some variability. At times, this is maximum in the central regions and at other times it is hemispheric and on rare occasions, it seems to be maximum in the occipital regions.  The epileptiform activity may occur in pairs or triplets and may be associated with focal slowing.  It increases in drowsiness.  Other features of drowsiness include an increase in background slowing. Deeper stages of sleep are not sustained. Photic stimulation does not activate the record.  Hyperventilation produces an increase in rhythmic slowing bilaterally. 
+HR:  88 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Right hemispheric spike and slow wave activity. 
+Right centrotemporal slowing. 
+Mild background slowing. 
+CLINICAL CORRELATION: This tracing supports a partial mechanism for epilepsy.  No seizures were recorded.  

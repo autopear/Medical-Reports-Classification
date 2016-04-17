@@ -1,0 +1,14 @@
+MEDICATIONS: Depakote, Serax, Thiamine 
+INTRODUCTION: Digital video EEG was performed In lab using standard 10-20 system or electrode placement with 1 channel or EKG. There is no hyperventilation and 
+photic simulation performed for this record. 
+rhythm. Features of drowsiness include anterior spread or the alpha rhythm. This is 
+followed by an increase in beta. The patient looks to be falling asleep or has a posture 
+of someone who is sleeping actually when the EEG pattern demonstrates an awake 
+pattern. This can be seen in normals or in someone who is actually somewhat sleepy. 
+Deeper stages of sleep are not achieved. 
+DESCRIPTION OF THE RECORD: The EEG demonstrates a 9 Hz posterior dominant rhythm. Features of drowsiness include anterior spread of the alpha rhythm.  This is followed by an increase in beta.  The patient looks to be falling asleep or has a posture of someone who is sleeping  actually when the EEG pattern demonstrates an awake pattern.  This can be seen in normals or in someone who is actually somewhat sleepy.  Deeper stages of sleep are not achieved.
+HR: 72bpm 
+IMPRESSION: Normal EEG. 
+CLINICAL CORRELATION: There are no focal nor epileptiform features observed. If 
+further information is needed, a repeat tracing capturing deeper stages or sleep is 
+suggested. 

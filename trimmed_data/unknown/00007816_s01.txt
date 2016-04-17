@@ -1,0 +1,9 @@
+MEDICATIONS: Decadron, Dilantin, Lasix, Cozaar, Ezetimibe, Zocor 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. There was no photic stimulation. Hyperventilation was performed. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is somewhat slow. The patient transitions in and out of some wakefulness to sleep. There are features of stage I sleep with vertex waves and POSTS. There is intermittent focal slowing in the left central temporal region some of which is somewhat sharply contoured. 
+HR: 90 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Background slowing which varies and at times is more marked than at others. 
+2. Some shifting slowing a bit more prominent in the left mid and centrotemporal 
+regions. 
+CLINICAL CORRELATION: These findings support a diffuse disturbance of cerebral function and may be correlated with a structural functional abnormality. There were no significant epileptiform discharges observed. If epilepsy is an important consideration, a followup study may be considered. 

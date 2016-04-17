@@ -1,0 +1,7 @@
+MEDICATIONS: Beta blocks, Serax, Dilantin, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In brief wakefulness, there is a 9 Hz alpha rhythm of 30 uV with a generous amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements.  Occasional facial twitching and jerking is identified with an EEG correlate.  The patient is noted to be markedly drowsy.  Spindle activity is identified in stage II sleep.  
+Photic stimulation is performed while the patient is drowsy, but does elicit scant driving. 
+HR:  66 BPM.
+	IMPRESSION: EEG within normal limits.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Evaluation of this patient in regards to the cause for his hypersomnolence is appropriate. 

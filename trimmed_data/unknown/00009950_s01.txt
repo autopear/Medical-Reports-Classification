@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. He had a prominent left craniotomy scar.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the EEG demonstrates a 9 Hz, 40 to 60 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  There is a small amount of excess theta in the background in wakefulness.  In addition, there are occasional bursts of sharply contoured delta activity seen in the right mid-to-anterior temporal regions.  A breach rhythm is also seen.  Hyperventilation is performed early on in the record and produces an increase in background theta, as well as some shifting slowing, again somewhat more prominent from the right.  Following this, as the patient becomes drowsy, there is an amplitude asymmetry with higher amplitude activity from the right compared to the left.  EKG artifact is picked up in the temporal regions, primarily on the right.  
+Photic stimulation elicits bilateral driving. 
+HR:  __ BPM. Check tech sheet
+	IMPRESSION: Abnormal EEG due to:
+Small degree of excess theta for a subject of this age. 
+Shifting slowing, primarily from the right frontotemporal region.
+CLINICAL CORRELATION: This tracing supports a structural abnormality in the right and localizes to the temporal regions rather than the frontal.  In the sharply contoured background, no definite epileptiform features were seen.  If appropriate, a study capturing deeper stages of sleep may be helpful to further define the epileptiform activity.  

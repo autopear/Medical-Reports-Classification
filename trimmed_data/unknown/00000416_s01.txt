@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and others.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as awake and/or drowsy.  
+DESCRIPTION OF THE RECORD: As the record opens when the patient is described as awake, the background EEG demonstrates a low voltage pattern with generous beta.  Stimulation of the patient produces an increase in alpha and theta frequency activity.  There are shifting asymmetries noted in the record with arrhythmic delta seen from the posterior quadrants of either hemisphere.  When not stimulated, the patient drifts off to sleep.   Occipitoparietal slowing, characterized by delta seen from either hemisphere, is slightly more higher amplitude from the right compared to the left.  
+HR:  88 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Generalized background slowing.
+	Occipitoparietally predominant slowing, which is higher amplitude on the right compared to the left.  
+CLINICAL CORRELATION: Despite the focal history described above, the features described above are bilateral.  

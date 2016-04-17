@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Keppra.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 10.5 Hz, 40 uV posterior dominant rhythm with a generous amount of low voltage, frontocentral beta activity.  There is some single electrode artifact picked up in the right frontotemporal electrodes, but there is an abnormality identified in this EEG identifiable after the electrodes are attended to. This includes rhythmic focal slowing from the right temporal regions, which is at times sustained and sharply contoured at the end of HV and early drowsiness.  In addition, using bipolar and average reference electrodes, there are two pairs of subtle frontotemporal sharp waves.  One has generous representation at Fp2, F4, and T4, as well as F8 and T4.  The other is clearly F8 and T4.  Other features of drowsiness include vertex waves and an increase in background beta.  Photic stimulation is remarkable for eliciting an alerting response and some driving bilaterally.  The patient is drifting in and out of stage II sleep in photic stimulation.  
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Right temporal focal slowing clearly accentuated by hyperventilation. 
+	Subtle underlying pairs of right frontotemporal/frontocentral sharp waves. 
+CLINICAL CORRELATION: This EEG supports a structural or functional mechanism for this patient’s epilepsy and may be correlated with imaging.  

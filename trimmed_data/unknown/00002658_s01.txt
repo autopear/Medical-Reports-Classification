@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Phenobarbital, and Atenolol.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is sedated and asleep.  Hyperventilation and photic stimulation were not performed. Instead, pencil and verbal stimulation were performed.  
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is in light sleep. The background EEG is symmetric and continuous with superimposed excessive slow theta and delta activity.  There is a 7 Hz, 30 V posterior dominant alpha rhythm. Pencil or verbal stimuli transiently increased the posterior alpha rhythm, as well as muscle movement artifact.  
+HR:  108 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Mildly disorganized background with excessive theta and delta activity. 
+CLINICAL CORRELATION: This EEG pattern is suggestive of a dysfunction of gray matter or suppressed cortex neurons due to either a postictal phase or pharmacologic sedation.  No focal or epileptiform features were identified in this record.  A repeat EEG when the patient is more alert or when tapered off sedatives with routine activation parameters such as sleeping and hyperventilation may provide additional information. 

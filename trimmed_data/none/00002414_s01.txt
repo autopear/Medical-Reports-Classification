@@ -1,0 +1,10 @@
+MR: 08423204 
+MEDICATIONS: Dilantin, Ativan, Metoprolol 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is wearing a nonrebreather face mask, has eyes open but is not very interactive. 
+DESCRIPTION OF THE RECORD: The initial sections of the record demonstrate a very low voltage pattern with generous muscle and beta. As the recording continues, the patient is a little bit more awake and there is a bit more low voltage theta. Shifting arrhythmic delta activity is identified from either region and there is some sharply contoured slowing at F7T3 and in the right central region CZ-C4. Stimulation of the patient produces an increase in muscle and an increase in beta. 
+HR: 84 bpm and irregular 
+IMPRESSION: Abnormal EEG due to: 
+1. Replacement of normal background with a relatively low voltage pattern rich in beta and theta. 
+2. Shifting arrhythmic delta activity. 
+3. Rare sharp waves noted from either hemisphere. 
+CLINICAL CORRELATION: These are relatively simple in morphology and may be correlated with imaging. No seizures were recorded. 

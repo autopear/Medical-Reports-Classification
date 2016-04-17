@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Ativan, Haldol 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is agitated, intubated and wearing a hard collar. 
+DESCRIPTION OF THE RECORD: Although there is a significant amount of muscle artifact, there is a rhythmic 6 Hz background noted. In this technically challenging EEG, the activity is a little lower in the right central and left temporal regions. Shivering artifact is noted as is agitation. 
+HR: 108 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Excess beta. 
+CLINICAL CORRELATION: No focal nor epileptiform features are noted. As the recording continues, the patient is increasingly agitated but there are no epileptiform features. 

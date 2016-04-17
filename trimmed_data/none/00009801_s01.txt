@@ -1,0 +1,9 @@
+MEDICATIONS: Keppra, Ativan, Vecuronium, Vancomycin, Lorazepam, Labetolol, Morphine, Midazolam 
+INTROOUCION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient has a tracheostomy. He is somewhat responsive. 
+DESCRIPTION OF THE RECORD: The background EKG demonstrates a continuous, mixed frequency pattern with some intermittent lower voltage theta, more of a background of slow delta and some shifting asymmetries. There is a suggestion of a breech rhythm with a somewhat higher amplitude activity in that region although beta activity in the frontal central regions demonstrate shifting asymmetries. More sharply contoured activity is observed at T6 and at L2. Brief features of sleep include vertex waves again with the suggestion of a right occipital sharp waves. Occasional PUSTS are noted in sleep. 
+HR: 108 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Marked background slowing with primarily a delta frequency pattern. 
+2. Shifting slowing. 
+3. Rare, relatively simple right occipital sharp wave. 
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function. The sharp waves may be accentuated by the patientÆs previous cranial defects. No seizures were recorded. The presence of sleep morphology is a positive prognostic factor following severe brain injury. 

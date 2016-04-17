@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and Valproic acid.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is slow but well organized with a 7 Hz, 30 to 50 uV posterior dominant rhythm. Hyperventilation is performed early on in the record, producing bilateral temporal slowing, left more than right.  There are spike and sharp waves seen more in the left frontotemporal region than the right (10:1).  Photic stimulation elicits a driving response to high frequency. 
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Left temporal slowing.
+Left temporal spikes.
+Rare right temporal spike and sharp waves. 
+CLINICAL CORRELATION: This tracing is suggestive of a partial mechanism for epilepsy in this patient. 

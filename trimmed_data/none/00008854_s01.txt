@@ -1,0 +1,9 @@
+MEDICATIONS:  Carbatrol, Topamax.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and stage 1 sleep.  Activating procedures including photic stimulation and hyperventilation were performed.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm which reaches 9-10 Hz which is reactive to eye opening.  The patient is recorded in wakefulness and stage 1 sleep.  Activating procedures revealed no abnormal discharges.
+ABNORMAL DISCHARGES:  Focal slow waves seen at D5, D3 intermittently at 2-4 Hz and amplitude at 20-60 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left parietal focal slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal serial dysfunction in the left parietal region, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

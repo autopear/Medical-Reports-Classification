@@ -1,0 +1,9 @@
+MEDICATIONS: Alprazolam, Pantoprazole, Atenolol, Dilantin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake record. 
+DESCRIPTION OF THE RECORD: The background EEG is well organized with a 9.5 Hz alpha rhythm and a small amount of low voltage, frontocentral beta activity. Photic stimulation elicits driving. After photic stimulation is over, the patient had some jerking of her shoulders but not in association with the flashing lights. After the photic stimulation continues, the recording continues and the patient had intermittent jerking of her shoulders. The shoulders jerk forwards and backwards. 
+The shoulder jerking is not associated with epileptiform activity in the EEG. It is sometimes associated with upwards thrusting of her upper chest. She stares straight ahead during the events. 
+As the record continues, a physician examines the patient. The interaction with the physician and the patient is associated with increasing motor activity including eye blinking, mouth opening and closing, a little bit of alternating movements to right or left, and then some rotatory movements of the torso. When the movements stop, the EEG shows a normal awake pattern. The patient is staring off to space after the event ends. 
+The event begins at 9:58 and lasts 7 minutes. Afterwards, there is intermittent jerking. Cognitive testing is not performed to make certain that the patient is responsive at the end of the EEG. 
+HR: 60 bpm
+IMPRESSION: Normal EEG. 
+CLINICAL CORRELATION: This patient had a 7-minute behavioral episode without EEG change. This recording suggests a behavioral event rather than an electrical seizure. 

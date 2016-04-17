@@ -1,0 +1,9 @@
+ 
+MEDICATIONS: Dilantin, Diovan, Aspirin, Plavix.  
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a mixed frequency background with generous beta and smaller amounts of theta. There is little discernible alpha rhythm. There is intermittent theta noted which is better represented on the left compared to the right. Later sections of the record with tactile stimulation does produce a more alert pattern with scant 10-Hz alpha. There does appear to be some excess theta in the background, a bit more on the left than the right, particularly in what may be early drowsiness.  
+HR: 110 bpm  
+IMPRESSION: This is a technically challenging bedside EEG due to: 
+1. A great deal of movement artifact.  
+CLINICAL CORRELATION: No epileptiform features were identified. If additional information is needed, a follow-up EEG in the lab is suggested. 
+ 

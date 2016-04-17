@@ -1,0 +1,14 @@
+MEDICATIONS:  Keppra. Protonix.
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  Wakefulness and sleep were recorded.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a mildly slow EEG which has an asymmetric posterior dominant rhythm that at best reaches 9 Hz in the left hemisphere, which is reactive to eye opening during the limited wakefulness as recorded.  
+There is some frontocentral beta, seen best in the left hemisphere.  Sleep is characterized as stage I.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:  
+Continuous right hemispheric focal slow waves, seen best at T4/C4 continuously with a frequency of 2 to 4 Hz and an amplitude of 20 to 75 microvolts.  
+Generalized slow waves at 5 to 7 Hz.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Continuous right hemispheric delta maximum in the central and temporal regions.
+Excessive theta in wakefulness.
+CLINICAL CORRELATION:  This EEG is consistent with evidence of focal structural dysfunction in the right hemisphere, maximum in the central and temporal regions, which is consistent with the known hemorrhage.  In addition, there is evidence of mild diffuse cerebral dysfunction, which is nonspecific in regard to etiology.  No seizures or epileptiform discharges were seen.

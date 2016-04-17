@@ -1,0 +1,9 @@
+MEDICATIONS: Antibiotics, Dilantin, and Ativan.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is poorly organized with excessive theta and delta activity.  Scant amount of posterior alpha rhythm at 20 uV can be seen.  As the recording continues, intermittent attenuation and shifting asymmetries were observed.  Photic stimulation did not activate the record.  At the close of the record, the patient seems to be more awake than at the beginning.  
+HR:  54 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Poorly organized background with excessive diffuse slowing.
+Intermittent attenuation with shifting asymmetries.
+	
+CLINICAL CORRELATION: The pattern described above is non-specific and may be seen in patients with encephalopathy, medication effect, or postictal phase.  The fact that the patient becomes more alert at the end of the recording is consistent with medication effect. No epileptiform features were identified in this record. If clinically indicated, when the patient is more alert and cooperative, a repeat EEG may be helpful. 

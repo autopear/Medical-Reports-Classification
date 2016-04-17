@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Morphine, Famotidine 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. 
+DESCRIPTION OF THE RECORD: The background EEG is primarily composed of theta frequency activity of 5-7 Hertz. There are bursts of arrhythmic delta activity as well as shifting arrhythmic delta activity but the delta is a bit more prominent in the right hemisphere. In addition, when generalized delta occurs it tends to demonstrate asymmetries. Stimulation of the patient produces an increase in faster frequency activity. 
+HR: 84 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Poor organization. 
+3. Prominent shifting and slowing particularly in the right hemisphere. 
+CLINICAL CORRELATION: The findings described above are nonspecific and can be seen in diffuse disturbance of cerebral function of many different type. However, this EEG supports a bihemispheric process involving gray and white matter more significant on the right and may be correlated with imaging. 

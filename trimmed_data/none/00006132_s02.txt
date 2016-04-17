@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Topamax, antibiotics, many others.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow and poorly organized with a low voltage delta and theta frequency activity. This pattern is seen when the patient is awake or stuporous.  The patient is observed by a nurse and tech and there is IV or other drip.  There was an unusual, somewhat periodic complex identified in the background with an unusual field of spread and phase reversal.  In specific montages including a referential ear montage, the activity is clearly maximum on the right but with spread to the left and in some montages which accentuate P4, it is possible to identify a P4 phase reversal.  The activity is usually unilateral but sometimes bilateral and sometimes seems to be asynchronous on the other side.  Stimulation of the patient produces an increase in faster frequency activity, as well as brief arousals. 
+The unusual, periodic activity in this record can be clearly differentiated from EKG artifact and there is no identifiable other source of artifact for this individual. 
+HR:  104 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Periodic activity poorly localized but probably maximum in the right parietal region, although sometimes generalized. 
+CLINICAL CORRELATION: This tracing differs from previous studies and suggests a process in the parietal regions, which may be epileptiform in nature.  No seizures were recorded. 

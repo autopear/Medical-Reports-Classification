@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 to 9.5 Hz, 50 to 60 uV posterior dominant rhythm.  There is bilateral irregular frontal slowing with occasional delta noticed in this record.  Throughout the record, there are occasional right anterior spike and sharp waves noted at F4 as well as occasional spike and sharp waves over T3 and T5. Drowsiness is characterized by occasional vertex waves and attenuation of the alpha rhythm. 
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Bilateral irregular slowing.
+Intermittent right frontal and left anterior temporal spike and sharp waves. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The findings above suggest a structural abnormality in the frontal areas and anterior temporal areas, which could explain a partial mechanism for epilepsy in this patient. 

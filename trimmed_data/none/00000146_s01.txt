@@ -1,0 +1,20 @@
+MEDICATIONS: Dilantin, ASA, Norvase 
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 
+system of electrode placement with 1 channel EKG. Patient had the previous 
+craniotomy from remote brain surgery, and the tech also notes that he has right scalp 
+edema. 
+DESCRIPTION OF THE RECORD: Background EEG includes a mixture of theta, beta, 
+and smaller amounts of delta. There is an interhemispheric asymmetry on the right. In 
+addition, there is a breech rhythm on the right, but there are occasional high amplitude 
+spike and slow wave or sharp and slow wave complexes from the right with associated 
+disruption of faster frequency activity. The patient wakes up spontaneously, and when 
+he does so there is an increase in faster frequency in the background. The majority of 
+the spike and slow wave or sharp and slow wave complexes are maximum in the right 
+anterior temporal region but demonstrated generous field of spread. 
+HR: 110 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Replacement of normal background with a theta frequency pattern, although this is 
+a dynamic reactive pattern. 
+2. Superimposed focal slowing and sharp waves on the right. 
+CLINICAL CORRELATION: This EEG supports a localization-related mechanism for 
+epilepsy congruent with previous brain surgery on the right. No seizures were recorded. 

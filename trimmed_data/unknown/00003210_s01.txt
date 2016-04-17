@@ -1,0 +1,16 @@
+MEDICATIONS: Dilantin, Digoxin, Insulin, Heparin, Lasix, Lisinopril· 
+INTRODUCTION: Digital video EEG was performed at bedside using 10-20 system of 
+electrode placement with 1 channel EKG. The patient is somnolent but sometimes 
+awake and moving about. 
+DESCRIPTION OF THE RECORD: Despite a fair amount of muscle movement artifact, 
+beneath this the background is 5-7 Hz. beta pattern with a small amount of delta. At 
+times, the muscle artifact is asymmetric, more so on the right than the left. Coughing is 
+associated with an alerting response and when the patient is left alone he becomes a 
+little drowsy with an increase in delta and slow rolling eye movements. 
+HR: 84 bpm 
+ 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+CLINICAL CORRELATION: No epileptiform features are observed. In this individual 
+with a large cystic brain lesion, despite the limitations described above. there are no 
+significant focal features. 

@@ -1,0 +1,10 @@
+MEDICATIONS:  Depakote, Milrinone, imipenem, norepinephrine, insulin, epinephrine, hydrocortisone.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient had marked facial twitching and was not responsive during the EEG.  He received 10 mg of vecuronium to alleviate muscle artifact.
+DESCRIPTION OF THE RECORD:  The initial sections of the record are somewhat obscured by intermittent twitch artifact.  When the twitch artifact  stops, the overall background is diffusely slow.  After the use of the vecuronium, the EEG demonstrates a mixed frequency pattern, diffusely slow with some variability.  Some sections of the record have more theta and others have more featureless slow delta.  There are also some bursts of frontal delta.   
+Heart rate 120 BPM.
+IMPRESSION:  This is an abnormal EEG due to:  
+A generalized, slow pattern with mixed frequency.  
+Occasional bursts of rhythmic frontal delta.  
+Occasional sections of the record with a slower more arrhythmic pattern.  
+Shifting asymmetries.
+CLINICAL CORRELATION:  No epileptiform features were identified.  No seizures were recorded.  This EEG is most supportive of a bihemispheric disturbance of cerebral function.  This patient's critical illness and/or anoxic insulin may contribute to the pattern described above.  It is not clear that this EEG demonstrated reactivity.

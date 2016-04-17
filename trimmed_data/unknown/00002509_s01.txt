@@ -1,0 +1,6 @@
+	MEDICATIONS: 	Dilantin, others.
+	INTRODUCTION: 	Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EEG. Hyperventilation and photic stimulation were performed.
+	DESCRIPTION OF THE RECORD: 	In wakefulness there is a 9 Hz posterior-dominant rhythm. The background includes excess background theta. There are occasional bursts of rhythmic theta and even some delta identified from either hemisphere, left or right. Hyperventilation does not significantly actively the record. Photic stimulation does not activate the record.
+Sleep is characterized by attenuation of the alpha rhythm and posts.
+	IMPRESSION: 	Abnormal EEG due to excess theta and intermittent brief bursts of slowing from either hemisphere.
+CLINICAL CORRELATION: No epileptiform features were seen. This EEG supports a bihemispheric process. Contributors may include this patient's renal failure, recent bacteremia as well as the head trauma which may have been bilateral.

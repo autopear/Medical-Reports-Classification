@@ -1,0 +1,7 @@
+MEDICATIONS: Metformin, Dilantin, Aspirin, Plavix. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation was not possible, but photic stimulation was performed. The is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 7 Hz posterior dominant rhythm. The overall background is reasonably well organized and relatively high amplitude. There is a generous amount of low voltage, frontal central beta activity. As the recording continues, the alpha rhythm increases in frequency, reaching 10Hz. Photic stimulation does not activate the record. 
+HR: 90 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Modest background slowing seen in the initial portion of the record, later resolving. 
+CLINICAL CORRELATION: No epileptiform features were seen. The findings of transient slowing in the initial record are compatible with a postictal process. If epilepsy is an important consideration, additional EEG recording is advised. 

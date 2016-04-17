@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, Metformin, Simvastatin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic simulation was completed. This is an awake and briefly drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a symmetric reactive 9 Hz 40 microvolt posterior dominant rhythm with a small amount of low voltage, frontal central beta activity. Photic stimulation does not activate the record. 
+HR: 75 bpm 
+IMPRESSION: Normal EEG. 
+CLINICAL CORRELATION: No focal nor epileptiform features were observed. Normal EEG does not exclude a diagnosis of epilepsy. 

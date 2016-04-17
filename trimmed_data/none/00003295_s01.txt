@@ -1,0 +1,8 @@
+MEDICATIONS:  Lisinopril, aspirin, clonidine, Lasix.
+INTRODUCTION:  A routine EEG was performed using a standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness, stage I and stage II sleep.  Activating procedures including photic stimulation.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded during wakefulness, stage I and stage II sleep.  Activating procedures including photic stimulation produced no abnormal discharges.  Please note that there were at times excessive beta in wakefulness.
+HEART RATE:  66.
+ABNORMAL DISCHARGES:  Focal slow waves seen frequently at F7, T3 at a frequency of 2-4 Hz and amplitude of 20-60 microvolts.  At times, this appears to be sharply contoured but not clearly epileptic.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to left anterior temporal focal slowing which is frequent and at times sharply contoured.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left anterior temporal region, which is nonspecific with regards to etiology.  No seizures or clear epileptiform discharges were seen.  The excessive beta may be due at least in part to medication effect.

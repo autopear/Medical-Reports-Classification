@@ -1,0 +1,16 @@
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+electrode placement system with additional EKG and anterior temporal electrodes. 
+Wakefulness and stage I and stage II sleep were recorded. Activating procedures 
+including photic stimulation and hyperventilation were performed. 
+MEDICATIONS: Naproxen, Lovenox, Aspirin. 
+REASON FOR EEG: Rule out seizures. 
+DESCRIPTION OF RECORD: The record opens to a well-defined posterior dominant 
+rhythm of 9-10 Hz with an amplitude of 20-60 microvolts, which is reactive to eye 
+opening. Normal frontocentral beta is seen. Sleep stage I and stage II are seen. 
+Activating procedures with photic stimulation and hyperventilation produced no 
+abnormal discharges. 
+ABNORMAL DISCHARGES: None. 
+SEIZURES: None. 
+IMPRESSION: Normal awake and asleep EEG. 
+CLINICAL CORRELATION: No seizures or epileptiform discharges were seen. 
+Please that a normal EEG does not exclude the diagnosis of epilepsy. 

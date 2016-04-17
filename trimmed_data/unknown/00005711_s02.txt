@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Labetalol, Ativan, and Decadron.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient has occasional tremor and is somewhat responsive. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an intrahemispheric asymmetry.  The left hemisphere is somewhat disorganized with primarily a theta frequency pattern and the suggestion of a posterior dominant rhythm of approximately 6 Hz.  The right hemisphere demonstrates disruption of faster frequency activity with more rhythmic theta and delta.  There are occasional sharp waves, which are high in amplitude and are identified from the right hemisphere, maximum in the right temporal region.  The patient is recorded with the right tremor.  No epileptiform features are noted in association with the right arm tremor.  
+An EEG monitor is used and the frequency of a motor activity is not similar to the frequency in the background of the EEG despite the occasional right temporal sharp waves.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Prominent intrahemispheric asymmetry.
+Generalized background slowing with superimposed focal slowing from the right. 
+Occasional right frontal or frontotemporal sharp waves, which are high in amplitude. 
+CLINICAL CORRELATION: The patient’s tremor occurs independently of the sharp waves and does not appear to have a relationship to the sharp waves.  Focal sharp waves are supportive of a partial mechanism for this patient’s seizures.  High amplitude activity from the right may be due to this patient’s previous craniotomy.  

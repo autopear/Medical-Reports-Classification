@@ -1,0 +1,7 @@
+MEDICATIONS: Percocet, Dilantin, and many others.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  The patient is somewhat uncooperative and unable to communicate with the tech in English.  
+DESCRIPTION OF THE RECORD: In wakefulness, the patient is uncomfortable and there is a fair amount of muscle in the background.  Despite this, the primary frequency in the background is diffuse, 5.7 Hz theta activity with occasional bursts of frontally predominant delta.  On occasion, there are some shifting asymmetries but no definite lateralization.  Brief drowsiness is characterized by attenuation of the alpha rhythm and an increase in beta.  Photic stimulation does not elicit a driving response.  
+HR:  100 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Generalized background slowing.
+CLINICAL CORRELATION: There are no epileptiform features identified in this record and given the artifacts described above, no significant lateralizing features.  If epilepsy is an important consideration, a repeat tracing may be helpful.

@@ -1,0 +1,7 @@
+MEDICATIONS: Keppra, Percocet,  Morphine, Dilantin, Amlodipine, Lovenox
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. The patient is awake and cooperative.
+DESCRIPTION OF THE RECORD:  In  wakefulness there is an 8Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by an increase in theta.  Vertex waves are observed in stage I  sleep.  In  maximal wakefulness there is a scant amount of background theta.  Photic stimulation does not activate the record.
+	HR:	78 bpm.
+IMPRESSION: EEG very mildly abnormal due to:
+1.  Minimal background slowing.
+CLINICAL CORRELATION:   The background slowing described above may be seen following the use of pain medications as described above.  No epileptiform features were observed.

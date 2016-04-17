@@ -1,0 +1,14 @@
+MEDICATIONS:  ASA, Atorvastatin, Cefepime, Vancomycin, Insulin, Heparin
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded while lethargic.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a frequency of 2 to 4 Hz and an amplitude of 20 to 60 microvolts.  When the patient is stimulated, the background improves and at best posterior dominant rhythm can be seen of 8 Hz in between muscle artifacts; however, this quickly subsides and again there is generalized slowing.  No normal sleep architecture was seen.  No activating procedures were performed.   
+ABNORMAL DISCHARGES:  
+Generalized slow waves as described above.
+Frequent right mid-temporal T4 focal slow waves. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Frequent right mid-temporal slow waves. 
+Generalized slow waves with good reactivity.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right anterior temporal region, which is nonspecific with regard to etiology, although not clearly consistent with a clinical presentation of a left MCA stroke.  In addition, there 
+is diffuse cerebral dysfunction which is nonspecific with regard to etiology.  It may be due, at least in part, to medication effect.  No seizures were seen.

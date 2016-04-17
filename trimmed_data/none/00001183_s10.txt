@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and Cardizem. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed. The patient is reported to be in a vegetative state. 
+DESCRIPTION OF THE RECORD: In maximal wakefulness, the background EEG is poorly organized and diffusely slow with theta activity.  There is a  posterior dominant rhythm of 6 Hz, 25 V activity with a small amount of frontocentral beta activity. Occasionally, increased rhythmic delta, more in the left than right hemisphere, is seen.  Rare, shifting arrhythmic delta activity was also identified. No epileptiform discharges were seen in this record.  
+HR:  108 BPM.
+IMPRESSION: Abnormal EEG due to:
+Diffusely slow and poorly organized background. 
+Increased rhythmic delta activity, left greater than right hemisphere.
+Rare, shifting arrhythmic delta activity.
+CLINICAL CORRELATION: This EEG tracing demonstrates a disturbance of cerebral dysfunction, however, it has improved when compared to the patient’s previous EEG.  No seizures nor epileptiform activity was recorded during this tracing. 

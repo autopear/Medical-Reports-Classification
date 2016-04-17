@@ -1,0 +1,8 @@
+MEDICATIONS: Tegretol, Zyprexa, Seroquel, Dilantin, and many others.  
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  The patient is very uncomfortable because of the occipital scalp injury.  In addition, she is wearing a hard collar so electrode placement is modified.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is diffusely slow with primarily a 6 to 7 Hz, 30 to 50 uV theta pattern.  There is lower amplitude in the occipital region, but this may be due to the electrode modification. As the patient becomes drowsy, there is an increase in beta activity as well as an increase in delta. 
+Photic stimulation does not activate the record.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Generalized background slowing. 
+CLINICAL CORRELATION: These features are non-specific and may be due to this patient’s CNS active medications.  In view of the need to modify electrode placement because of the patient’s hard collar, a follow-up study when the collar is removed and the scalp is healed is recommended. 

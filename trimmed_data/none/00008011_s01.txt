@@ -1,0 +1,8 @@
+MEDICATIONS: Labetalol, Phenytoin, Versed drip, Vecuronium, Fentanyl. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as pharmacologically sedated. 
+DESCRIPTION OF THE RECORD: The background EEG is continuous.  There is a mixed frequency pattern.  Some portions of the record are rich in beta frequency activity.  Others are primarily low voltage and richer in theta frequency activity.  There is a subtle asymmetry noted, particularly with bipolar montages.  There is a decrease in amplitude of the activity from the right hemisphere seen in both the right temporal regions and central regions.  When the patient is not stimulated and allowed to rest, the features include an increase in background beta.  There are some features of normal sleep including POSTS.  Stimulation of the patient elicits an increase in faster frequency activity, which is more prominent from the left hemisphere than the right.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Intermittent asymmetries characterized by a decrease in faster frequency activity and a decrease in amplitude on the right. 
+CLINICAL CORRELATION: No seizures were recorded and there were no epileptiform features.  The asymmetry suggests a structural or functional abnormality that impacts the right hemisphere more than the left.    

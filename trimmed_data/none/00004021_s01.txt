@@ -1,0 +1,11 @@
+MEDICATIONS:  Keppra, Megestrol Acetate, Carbidopa-Levodopa, Ketoconazole.
+REASON FOR EEG:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with anterior temporal electrodes and EKG electrodes.  Wakefulness and sleep was recorded.  Photic stimulation are performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 7.5 Hz at 20-50 mV amplitude.  There is some frontal central beta seen.  Sleep is characterized by stage I.  Photic stimulation revealed no abnormal discharges. 
+ABNORMAL DISCHARGES:  Generalized slow waves and frontal intermittent rhythmic delta (FIRDA). 
+SEIZURES  None.
+IMPRESSION:  Abnormal EEG due to:  
+Diffuse slow waves. 
+FIRDA.   
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

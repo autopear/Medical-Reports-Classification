@@ -1,0 +1,12 @@
+MEDICATIONS: Depakote, Dilantin, Ativan, and Phenobarbital.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-
+20 system of electrode placement with one channel of EKG. The patient  has focal twitching, which is quite prominent. Upon reviewing the video, he seems to jerk more on the left; however, when reviewing the EEG data, there is more muscle artifact on the right.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an interesting pattern. There is muscle jerk artifact on the right and the left.  In this very low voltage EEG, with little in the way of cerebral activity, the muscle artifact is quite interesting. At times on the right, it is 3.5
+·to 4.2 Hz, but on the left it is typically more 2Hz.  The overall cerebral activity underlying this is very low voltage, but there is some theta frequency activity seen in the background somewhat more prominent on the left compared to the right.  As the recording continues, the muscle jerk activity is more symmetric and seen with a periodicity of approximately 1.4  seconds and is more prominent in the temporal electrodes.  It is also associated with some eye movement artifact.  By the end of the record, the muscle artifact isn't as prominent and there is irregular EKG artifact picked up in the temporal regions.
+HR.:  84 BPM.
+IMPRESSION: Abnormal EEG due to:
+	1. 	Unusual and interesting .muscle artifact with different periodicities from each hemisphere, but without definite evidence of epileptiform activity.
+2.   Profoundly  low voltage,  suppressed  background.  In  the portions  of  the  record  when  the
+patient  is not experiencing jerk  artifact,  the  overall background is  very  low  voltage and
+suppressed.
+CLINICAL CORRELATION: This EEG supports a severe disturbance of cerebral function. No  epileptiform  features  were seen  in association  with the muscle jerking  described above. However, if it is important to be certain that there is no cerebral activity corresponding to these, a more prolonged study with neuromuscular blockade would be necessary  given the profoundly suppressed EEG.  Overall, this EEG supports a severe disturbance of cerebral function affecting both gray and white matter.  Compared to previous studies, the asymmetries previously seen are not as prominent, and the EEG is now more globally suppressed

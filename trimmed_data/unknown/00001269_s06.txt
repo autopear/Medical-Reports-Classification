@@ -1,0 +1,7 @@
+MEDICATIONS:  Keppra, Lamictal, Ciprofloxacin,. Lipitor, Dilantin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and somnolent.  Stimulation of the patient was performed.
+DESCRIPTION OF THE RECORD:  The overall EEG is diffusely slow with a lower voltage, rhythmic 7 Hz theta pattern and smaller amounts of delta.  Stimulation of the patient produces beta spindles on some occasions and on other occasions produces an arousal with both muscle of faster frequency activity.  There are shifting asymmetries observed.  On some occasions the left appears to be slower than the right but there is also a asymmetry in the degree of muscle artifact.  Stimulation of the patient produces eye opening and movement artifact. 
+HR:    78 bpm.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized background slowing.
+CLINICAL CORRELATION:  The background slowing is a nonspecific finding and may be due to medications, toxic or metabolic factors or even post ictal state.  Asymmetries in this record may have been masked by the amount of muscle artifact.

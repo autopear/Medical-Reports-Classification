@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with an 11 Hz, 50 to 55 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by attenuation of the alpha rhythm. Rhythmic central theta is seen in drowsiness. Stage I sleep is achieved and characterized by lateral eye movements and vertex waves.  Deeper stages of sleep are not achieved.  Hyperventilation is performed with fair effort and does not alter the record.  Photic stimulation elicits only a discrete driving response.  There are three BETs noted in drowsiness: two in the left hemisphere and one in the right hemisphere.  Both are in the centrotemporal location. 
+HR:  72 BPM.
+	IMPRESSION: Normal EEG in wakefulness and in stage I sleep. 
+CLINICAL CORRELATION: The small sharp spike waves (BETs) are consistent with a normal variant.  No epileptiform discharges were seen.  A repeat sleep deprived tracing in order to capture deeper stages of sleep is appropriate.  

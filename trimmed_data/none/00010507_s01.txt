@@ -1,0 +1,9 @@
+MEDICATIONS: check tech sheet
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is poorly responsive throughout.  With the patient’s baseline cognitive status, it is difficult to determine if the patient is asleep.  
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal and is almost featureless for a child of this age.  Some portions of the record are lower voltage and others are higher voltage.  The normal wave forms anticipated for a child of this age are not present.  The background includes primarily theta and delta.  There is one portion of the record where there seems to be a central vertex sharp wave.  In addition, in the early portions of the record, there are multifocal spikes identified including CZ/C4, T6, and O2 with small, discrete spikes in the left centrotemporal region.  While there is little in the way of behavioral change for this child, there does seem to be a change in the EEG over time.  Some portions of the record are more suppressed than others with intermittent discontinuity and very slow voltage delta.  These portions of the record may have a small amount of beta activity and perhaps less epileptiform activity. 
+HR:  104 BPM.
+	IMPRESSION: Abnormal EEG for a child of this age due to:
+Replacement of normal background with generalized background slowing.
+Multifocal spikes including the left temporal region, right posterior temporal or occipital and right central.
+Intermittently discontinuous pattern.
+CLINICAL CORRELATION: This tracing supports a severe, underlying encephalopathy and raises the possibility of a partial or focal mechanism for seizures.  No seizures were recorded.  

@@ -1,0 +1,10 @@
+MEDICATIONS: Zantac, Heparin, insulin, aspirin, Dilantin, Topiramate. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient receives Valproate and Phenytoin during the study.  He is noted to have ocular bobbing and facial twitching.  
+DESCRIPTION OF THE RECORD: The background EEG is low voltage, featureless, and in fact nearly suppressed.  The major features in the background include intermittent muscle artifact, which correlates with the patient’s facial jerking.  In addition, in some portions of the record, there is an occipitally predominant transient, but this seems to correlate with head movement.  The vast majority of the patient’s motor activity is associated with muscle artifact but without any epileptiform activity and the occipital transience described above did not seem to be associated, in most cases, with the patient’s movements.  
+Stimulation of the patient including suctioning, does not produce a change in the EEG.  In those portions of the record with suctioning, however, the myoclonus seems to attenuate briefly.  The patient appears to have ocular blinking or bobbing throughout.  At these times, again, the low voltage occipital transient can be identified. 
+HR:  106 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with a relatively featureless pattern.
+Sharply contoured occipital transient seen intermittently throughout the record. 
+Myoclonic jerks without EEG correlate.
+CLINICAL CORRELATION: This tracing supports a severe disorder of cerebral function and is relatively characteristic of the pattern seen following anoxic injury.  The patient’s myoclonic jerks were not associated with a change in the EEG and the occipital transience did not evolve and did not seem to be associated with a clinical, irrelevant event. If additional information is required, a neuromuscular blocking agent could be administered to eliminate the muscle artifact described above. 

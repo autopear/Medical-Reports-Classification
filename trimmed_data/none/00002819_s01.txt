@@ -1,0 +1,9 @@
+MEDICATIONS: Vancomycin, Ceftriaxone, Percocet, others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is awake.  The EEG is diffusely slow.  There is a posterior dominant rhythm of approximately 6 Hz with primarily a diffuse theta frequency background.  Superimposed on this is some rhythmic, intermittent frontally predominant medium amplitude delta activity.  In addition, there is a subtle asymmetry with intermittent delta activity from the right hemisphere which can be seen in the right central and frontotemporal regions as well as occasionally in the posterior quadrant.  There seems to be a small reduction in amplitude in the right occipital region.  Features of sleep include a decrease in amplitude of the overall background, as well as a decrease in faster frequency activity.  Towards the close of the record, when the patient is a bit more alert, there is an increase in 7 to 8 Hz activity in the background.  
+HR:  50 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Relatively rhythmic, generalized background slowing.
+Superimposed focal slowing with delta activity from the right hemisphere, particularly the frontocentral regions. 
+Occasional FIRDA.
+CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function effecting both hemispheres.  Consideration for a focal, structural, or functional abnormality on the right would be appropriate. No seizures or epileptiform features were seen.

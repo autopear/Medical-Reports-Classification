@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin, Thyroid, Ativan and Folate Acid.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  In wakefulness,  the background EEG is somehow organized with 7.5 Hz posterior dominant rhythm. The overall background is somehow slow with mild occasional focal slowing in the right posterior quadrant. Hyperventilation and photic stimulation were not performed.
+	HR: 	84 to 100 and irregular
+IMPRESSION:  Mildly abnormal EEG due to:
+	1..	Mild background slowing.
+	2. 	Focal slowing in the right posterior quadrant.
+CLINICAL CORRELATION:  Given the history of the patient and the features described above are very subtle findings. No sharp waves were found In this record and the focal slowing on the right goes with the patient's history of occipital bleed. If another information is needed, additional recordings can be placed.

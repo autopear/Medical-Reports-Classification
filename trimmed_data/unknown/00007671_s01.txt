@@ -1,0 +1,7 @@
+MEDICATION: Dilantin.
+ACTIVATION: Hyperventilation and Photic Stimulation.
+INTRODUCTION: Digital Video EEG was perfom1ed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and drowsy record.
+DESCRIPTION  OF  THE   RECORD: In  wakefulness,  there  is  a  10.5  Hz,  30uV poste1ior dominant  rhythm  with  a  small  a111ount  of  low  voltage, frontocentral  beta activity.  Drowsiness is characterized by slow rolling eye movements and attenuation of the alpba.   Vertex  waves, K-complexes, and spindles are seen  in stage II sleep  with multiple spontaneous arousals  from sleep.  Hyperventilation does not activate the record. Photic stimulation elicits bilateral driving and occasional LAMBDA waves.
+HR:   74BPM
+IMPRESSION: Normal EEG in wakefulness through stage II sleep.
+CLII.\TJCAL CORRELATION: No focal nor epileptifom1 features are identified in this record.  If epilepsy is an important consideration, a repeat tracing may be valuable.

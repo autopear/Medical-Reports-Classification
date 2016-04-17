@@ -1,0 +1,14 @@
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel EKG. The patient is conversant, but 
+somewhat confused. 
+DESCRIPTION OF THE RECORD: The background EEG includes a somewhat slow 
+pattern, but there is a definable 8 Hz alpha rhythm with excess theta. In this bedside 
+record there are minor, shifting asymmetries, particularly in frontal central beta. Sleep is 
+not sustained. 
+HR: 60 bpm and irregular 
+IMPRESSION: Abnormal EEG due to: 
+1 . Excess theta. 
+2. Mild shifting asymmetries with a little less beta activity in the left frontal region. 
+CLINICAL In the context of DKA these findings could represent a 
+metabolic pattern or they could be correlated with a structural abnormality. If there is 
+any concern about additional seizures, a follow up EEG recording is suggested. 

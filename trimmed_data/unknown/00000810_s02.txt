@@ -1,0 +1,10 @@
+MEDICATIONS: None. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient reports feeling anxious at the start of the study. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: As the background EEG opens, the patient has generous background beta. There is an 11 Hz alpha rhythm with rhythmic activity in the right temporal region. For some reason, there is a pause in the EEG at the beginning of the record. The patient is staring forward. When the EEG resumes at 1:27:01, there is artifact, but the minute that the artifact stops, the EEG demonstrates a clear, high amplitude, right anterior temporal seizure with 4 to 5 Hz activity in the right temporal region with an admix spike. 
+The activity is extremely high amplitude with a phase reversal atF8 and T2. The activity ends abruptly at 1:38:56. The overall duration of the seizure appears to be approximately 3 minutes but the seizure onset is unclear. By the end of the seizure, the activity is involving the right frontal region and also the midline and to a lesser extent the left frontal region. 
+Immediately afterward, the patient is able to answer questions but is amnestic for the event. Following the seizure, occasional arrhythmic delta activity is seen in the right temporal region with a complex. The patient drifts into stage II sleep with vertex waves, K complexes, spindles and posts. The patient is in stage II sleep during photic stimulation. 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Complex partial seizure from the right temporal region. 
+2. Right temporal sharp waves. 
+3. Rhythmic slowing from the right temporal region noted prior to the seizure. 

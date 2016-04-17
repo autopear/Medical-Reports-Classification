@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with an alpha rhythm of 9 Hz, 30 uV.  There is a generous amount of artifact in the background.   Hyperventilation does not produce a significant change.  In drowsiness, there is background slowing.  Photic stimulation does not elicit a significant driving response.
+HR:  84BPM.
+	IMPRESSION: Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  If further characterization of this patient’s seizures is necessary, a repeat EEG capturing deeper stages of sleep would be beneficial.  

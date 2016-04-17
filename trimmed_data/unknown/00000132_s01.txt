@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Versed, Decadron, and Morphine. 
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ER using standard 10-20 system of electrode placement with one channel of EKG. The patient is unresponsive and intubated during the record.
+DESCRIPTION OF THE RECORD: The background EEG revealed generalized low voltage of about 10 V intermixed with slow delta activity.  There is a large amount of beta activity at 17 to 20 Hz, which was slightly attenuated in the left hemisphere. Stimulation of the patient did not cause reactivity or variability.  
+HR:  116 BPM.
+IMPRESSION: Abnormal EEG due to:
+Low voltage pattern with with large amount of beta activity and slow delta activity.
+Attenuation of beta in the left hemisphere
+No reactivity to stimulation or variability. 
+CLINICAL CORRELATION: This tracing demonstrates a severe suppression of cerebral function.  Increased beta activity may be due to medication such as benzodiazepines.  The asymmetric finding of the attenuation in the left hemisphere may be suggestive of damage involving the gray matter.  The absence of reactivity or variability to stimulation may be due to pharmacological coma or severity of cerebral dysfunction.  No epileptiform discharges were recognized in this tracing. If epilepsy is a concern, a repeat EEG may be of use. 

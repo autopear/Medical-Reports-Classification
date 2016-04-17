@@ -1,0 +1,8 @@
+MEDICATIONS: Depakote, Klonopin, Albuterol. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a markedly abnormal pattern with frequent sharp waves and spikes in the right hemisphere. There they are prominent, high amplitude and have some variability. Mostly maximum in the right temporal region but may be mid or anterotemporal or centrotemporal. Due to the patient's disability, he is recorded sitting up in his specialized wheelchair. In addition to the posterior temporal sharp waves, the sharp waves identified have a generous field of spread and there are also some in the bifrontal regions. The sharp waves are accompanied by triangle-shaped wave forms in the posterior region, and a background of theta with a bit more arrhythmic delta activity on the right compared to the left. When the patient is bit calmer, there is a bit more beta in the record. As the recording continues, the majority of the epileptiform activity is in the posterior region, right more than left. 
+HR: 120 bpm. 
+IMPRESSION: Markedly abnormal EEG due to: 
+1. Marked background slowing. 
+2. Abundant epileptiform activity most of which is in the right posterior quadrant but some of it is bilateral posterior or bifrontal. 
+CLINICAL CORRELATION: This EEG supports a highly epileptogenic process more prominent in the right hemisphere. In addition, the background slowing supports a diffuse disturbance of cerebral function. No seizures were recorded. 

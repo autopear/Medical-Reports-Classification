@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Dilantin, pravastatin, vitamin B12, aspirin, folic acid, Atripla, ferrous sulfate, docusate, Ofloxacin otic solution, guaifenesin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrodes.  The patient was recorded during wakefulness and sleep.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  Some muscle artifact.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded during wakefulness and sleep, stage 1.  Activating procedures included photic stimulation which produced no abnormal discharges.
+ABNORMAL DISCHARGES:  
+Very frequent sharp waves seen at F7/T3 during wakefulness and sleep.  
+Focal slow waves seen continuously at F3 at a frequency of 2-4 Hz and amplitude of 20-60 microvolts,  in addition increase faster frequencies over that region consistent with a breach rhythm.
+SEIZURES:  
+A seizure was seen at 10:52 a.m.  lasting for 23.6 seconds which electrographically appeared to evolve in the left hemisphere mainly at F7/T3 starting with a delta frequency discharge that appears to be increase in amplitude and frequency, and slow down to sharp waves with a sudden ending.  Clinically, the patient was lying in the chair and reveal any changes.  When questioned at the end of the seizure she appeared to follow commands.
+HEART RATE:  84.
+IMPRESSION:  Abnormal EEG due to a single left temporal electrographic seizure, in addition to frequent left temporal sharp waves and continuous left frontal slowing.
+CLINICAL CORRELATION:  This EEG is diagnostic of localization related epilepsy with a single seizure arising from the left anterior temporal region.  In addition, there is evidence of focal structural cerebral dysfunction in the left frontal region, which is consistent with the known stroke and craniotomy.

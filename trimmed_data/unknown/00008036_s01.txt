@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric, continuous, but with excessive theta and delta activity especially in the bilateral central region.  There is a 7 to 8 Hz, 30 V posterior dominant alpha rhythm, which is attenuated with eyes opened. There is a small amount of low voltage, frontocentral beta activity.  Sleep is evidenced by a mixed frequency of brain activity, vertex waves, spindles, and K complexes.  Photic stimulation elicits driving.  
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Background slowing.
+	Slow alpha activity.
+CLINICAL CORRELATION: The above pattern is suggestive of a cerebral dysfunction mainly involving gray matter.  However, the findings are non-specific. No focal or epileptiform features were identified in this record.  If epilepsy is a clinical concern, a repeat EEG may be helpful.

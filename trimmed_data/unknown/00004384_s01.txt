@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is a drowsy record in a patient who is confused.  
+DESCRIPTION OF THE RECORD: Throughout the recording, the patient’s posterior dominant rhythm is not well defined.  There is prominent rhythmic slowing in the theta range with superimposed slowing in the left hemisphere.  There is intermittent occurrence of T3 and T1 sharp waves with a tendency to build up as the recording progresses.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Intermittent left anterior sharp waves at T3 and T1.  
+Superimposed, paroxysmal rhythmic theta in the left hemisphere. 
+CLINICAL CORRELATION: This tracing supports a partial localization-related mechanism for this patient’s seizures.  A repeat tracing or prolonged 24-hour EEG monitoring is recommended. 

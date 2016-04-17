@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin, Lovenox, nortriptyline, Risperdal, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  There was no hyperventilation or photic stimulation for this bedside record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz alpha rhythm on the left.  The left hemisphere is relatively well organized.  The right hemisphere demonstrates underlying mixed irregular theta delta which is sharply contoured.  In addition, there is arrhythmic mixed delta theta on the right and disruption of the alpha rhythm on the right.  Features of drowsiness include an increase in background slowing.   
+Deeper stages of sleep are not achieved.  The heart rate is 72 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+1. Essentially continuous right-sided focal slowing, maximum in the mid temporal region.
+2. Disruption of the alpha rhythm on the right. 
+3. In this individual with preexisting epilepsy and bihemispheric pathology, the left hemisphere is relatively unremarkable.  No sharp waves were seen.
+CLINICAL CORRELATION:  This EEG supports a structural abnormality on the right.  A follow up EEG when the patient is able to come into the lab is suggested to characterize epileptiform activity.

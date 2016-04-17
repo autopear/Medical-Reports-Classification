@@ -1,0 +1,16 @@
+INTRODUCTION: 
+The EEG was performed using the standard 10/20 electrode placement system with an EKG electrode and anterior temporal electrodes. The EEG was recorded during wakefulness and photic stimulation, as well as hyperventilation, activation procedures were performed. 
+TECHNICAL PROBLEMS: 
+None. 
+MEDICATIONS: 
+Depakote ER 
+DESCRIPTION OF RECORD: 
+The EEG opens to a well-formed 9 to 10Hz posterior dominant rhythm, which is symmetrically reactive to eye opening and eye closing, There is a normal amount of frontal central beta rhythm seen. The recording is only seen during wakefulness and he has normal response to hyperventilation and photic stimulation. 
+ABNORMAL DISCHARGES: 
+None. 
+SEIZURES: 
+None. 
+IMPRESSION:
+Normal EEG in wakefulness.
+CLINICAL CORRELATION:
+This awake EEG is normal. Please note that a normal EEG does not exclude the diagnosis of epilepsy.

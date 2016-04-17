@@ -1,0 +1,10 @@
+REASON FOR STUDY:  Rule out seizures.
+MEDICATIONS:  Hydralazine, amlodipine, isosorbide, aspirin, Lipitor, and heparin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 to 10 Hz, which is reactive to eye opening.  The patient is recorded in wakefulness and drowsiness.  There is a normal amount of frontocentral beta.  Photic stimulation was performed which produced no abnormal discharges. 
+Please note that the during the entire recording the patient did have some intermittent muscle artifact that could only be seen over the entire right hemisphere and not on the left side of the brain.  There is no video correlate to this asymmetric muscle artifact. 
+Abnormal discharges:  None. 
+Seizures:  None.
+IMPRESSION:  Normal awake and drowsy EEG.
+CLINICAL CORRELATION:  This is a normal awake and drowsy EEG.  No seizures or epileptiform discharges were seen.  Please note that the EEG did show some asymmetric muscle artifact which may represent weakness of the left facial muscles.  Please correlate clinically these findings.

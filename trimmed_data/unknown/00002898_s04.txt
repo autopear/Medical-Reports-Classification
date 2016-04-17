@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Heparin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is 10 Hz alpha rhythm, which is symmetric and reactive to eye opening.  In drowsiness, there is occasional left frontal delta.  Other features of drowsiness include slowing of the background and occasional spindles.  
+The major abnormality in this record is during hyperventilation, with left greater than right notched delta occurring in brief bursts.  There are no sustained spike and wave discharges.  Photic stimulation elicits no significant driving response.
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Asymmetric hyperventilation response with high amplitude, notched left frontal delta. 
+	Occasional left frontal delta in drowsiness. 
+CLINICAL CORRELATION: In this individual with a right frontal brain injury, the focal delta was on the left.  Clinical correlation is recommended. 

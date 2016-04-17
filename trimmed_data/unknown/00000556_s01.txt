@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.   Hyperventilation was not performed due to the sinus problems, but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In maximum wakefulness, the background EEG is somewhat disorganized, but there is a 9 Hz alpha rhythm.  There is slight shifting asymmetries noted in the alpha rhythm and it is a little faster on the left than the right.  There is also a lit bit of slowing noted at some points when the alpha rhythm is identified and that slowing is on the right.  Arrhythmic delta is noted in the left hemisphere, particularly central temporal region.  There is a suggestion of a breech rhythm with both a beta accentuation noted at some points and some underlying sharp waves.  Unfortunately, artifacts are also noted in the same region.   
+Brief drowsiness includes vertex waves with transitions in and out of sleep.  Snore artifact is observed.  Photic stimulation elicits a driving response better identified on the right than the left.  The patient continues to transition in and out stage II sleep with vertex waves and spindles, again, some of which are asymmetric. 
+HR:    66  bpm
+IMPRESSION:  Abnormal EEG due to:
+Shifting asymmetries and background disorganization.
+Focal slowing in the left.
+CLINICAL CORRELATION:  This EEG supports a process involving both hemispheres, the left perhaps more significantly than the right.  The sharply contoured slowing and sharp waves are on the left.

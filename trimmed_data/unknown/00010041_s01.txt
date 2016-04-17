@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Trazodone, Benzodiazepine, Lamictal, Cefotoxin, Gentamicin, and Ranitidine. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is in a hard collar and the right posteriotemporal electrodes could not be positioned appropriately.  The patient is awake, intubated, and responsive.  
+DESCRIPTION OF THE RECORD: Limited wakefulness is identified and includes a 10 Hz, 30 uV alpha rhythm with excess background beta.  The patient rapidly drifts off to sleep with the appearance of rhythmic theta while the child is still both talking and moving, and then abrupt appearance of vertex waves and spindles.  Stage II sleep is as described as above.  
+HR:  66 BPM.
+	IMPRESSION: EEG for this child is remarkable for:
+	1.	Excess beta.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  There is some theta in this record when the patient has behaviors of wakefulness, but she seems to be tired and drops immediately into stage II sleep.  The beta and theta could be due to medications to treat status epilepticus.  

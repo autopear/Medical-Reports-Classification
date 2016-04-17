@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10.5 Hz alpha rhythm, 30-40 microvolts, drowsiness is characterized by rhythmic theta followed by vertex waves, K complexes, spindles, and POSTS. Photic stimulation elicits a driving response at 5 Hz and faster flash frequencies. Hyperventilation elicits an increase in theta. 
+HR: 66 bpm 
+IMPRESSION: Normal EEG. 
+CLINICAL CORRELATION: No focal nor epileptiform features are identified in this 
+record, A normal EEG does not exclude a diagnosis of epilepsy. 

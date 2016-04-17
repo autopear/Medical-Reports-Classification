@@ -1,0 +1,11 @@
+MEDICATIONS: Ativan, Dilantin, Keppra, Enalapril, Lovenox, Tylenol
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is quite somnolent: Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: As the tracing beings, the overall pattern is relatively low voltage with a low voltage theta delta pattern. Stimulation of the patient produces a brief alerting but also a fair amount of muscle artifact. The patient drifts in and out of stage II sleep. There are a handful of bursts of sharp waves rare and slowing from the left mid temporal region and a single well defined left anterior temporal sharp wave. 
+HR: 68 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Low voltage slow background. 
+2. Generalized background slowing. 
+3. Rare left temporal sharp wave. 
+CLINICAL CORRELATION: The left temporal sharp waves have been previously described and were much more prominent in the previous EEGs dating back to 2004. This is a lower voltage and slower pattern than many of the studies and that may be part of the postictal state, 
+medications used to treat status epilepticus or other clinical factors.
+ 

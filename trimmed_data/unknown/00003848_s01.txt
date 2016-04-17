@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Tegretol. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat slow and disorganized. There is excess 6Hz background activity with an 8Hz alpha rhythm. Superimposed upon this there is a focus of slowing with slow delta identified in the right occipital or posterior quadrant. In addition, there are subtle underlying right central, C4 sharp waves observed. Hyperventilation increases the background slowing. Following hyperventilation the patient becomes drowsy and both the focal slowing from the right hemisphere as well as the generalized slowing are accentuated. Photic stimulation elicits scant driving. 
+HR: 90 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Excess theta. 
+2. Slow alpha rhythm. 
+3. Focal slowing from the right posterior quadrant. 
+4. Right central sharp waves. 
+CLINICAL CORRELATION: Supportive of focal mechanism for epilepsy. 

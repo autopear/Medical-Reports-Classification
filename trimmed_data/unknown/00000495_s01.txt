@@ -1,0 +1,7 @@
+	MEDICATIONS: 	Dilantin.
+	INTRODUCTION: 	Video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Initially, there was a great deal of movement or other artifacts in the background.
+	DESCRIPTION OF THE RECORD: 	This is a drowsy individual with multiple spontaneous arousals to and from stage II sleep. The minimal waking background that is recorded appears to be normal. There are a handful of bursts of shifting asymmetry, left more so than right. Stage II sleep is characterized by vertex K complexes, spindles and posts. Hyperventilation produces an increase in background slowing. Photic stimulation is performed while the patient is falling off to sleep.
+	HR: 	80 BPM.
+		IMPRESSION: 	Mildly abnormal EEG due to shifting and slowing. CLINICAL CORRELATION: 	Additional recordings may be helpful
+particularly with an awake recording to make sure that the background
+is unremarkable.  In addition, additional more prolonged recording may be helpful to resolve the issue of underlying focality in this record.

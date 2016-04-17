@@ -1,0 +1,10 @@
+MEDICATIONS:  Keppra, Pantoprazole, Heparin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated, poorly responsive.  The patient's Versed drip was stopped 1 hour prior to the EEG.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow with primarily a delta frequency pattern.  There are shifting asymmetries with some sections with greater delta on the right, but later a little bit more on the left.  There are 3 right frontal sharp waves noted in the record.  There is small degree of variability observed.  Auditory and tactile stimulation produced a small amount of theta.   
+HR:    104 bpm
+IMPRESSION:  Abnormal EEG due to:
+Markedly slow background.
+Shifting slowing.
+Rare right frontal sharp waves.
+CLINICAL CORRELATION:  The right frontal sharp waves are in the region of this patient's most recent stroke. They are subtle findings.  No seizures were recorded.  
+Ongoing evaluation as this patient's sedative hypnotic medications are withdrawn may be of use.

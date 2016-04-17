@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Digoxin, Amiodarone, and others.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation and hyperventilation were not performed.  The patient is profoundly lethargic during this recording. 
+DESCRIPTION OF THE RECORD: The background EEG is poorly organized and diffusely slow with low voltage. When maximally awake, theta activity with arrhythmic delta activity was identified.   When the patient was sleeping, diffuse slowing with occipital triphasic waves at the O1 and O2 and occasionally involving C3 / P3 were identified.  
+HR: 72 BPM.
+IMPRESSION: Abnormal EEG due to:
+Low voltage background.
+Diffuse slowing.
+Posterior triphasic sharp waves with shifting arrhythmic delta activity.
+CLINICAL CORRELATION: This EEG tracing is suggestive of a severe disturbance of cerebral function.  This pattern may be seen in patients with a metabolic or toxic encephalopathy or postictal pattern. The focal findings of posterior triphasic epileptiform activity may be seen in patients with a partial mechanism for an epileptic focus.  If epilepsy is a clinical concern, a repeat EEG may be helpful.

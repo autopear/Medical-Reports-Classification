@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin, Tylenol.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement  with 1 channel EKG. Photic stimulation and hyperventilation are not performed.
+DESCRIPTION OF THE RECORD: During wakefulness, a posterior alpha rhythm of
+9.5 hertz is seen. In the background, there is intermittent theta seen bilaterally during wakefulness. Artifact is seen throughout the study with the low frequency filter, pic.king up a small amplitude extra cerebral artifact seen, which is most likely sweat. There is also slow rolling eye movement seen throughout the study. Head rocking is also seen.
+	HR:	90 bpm
+IMPRESSION: Abnormal EEG due to:
+1.  Intermittent theta seen in the background bilaterally during wakefulness.
+CLINICAL CORRELATION:  There is no epileptiform activity seen on this record. The intermittent theta seen bilaterally is nonspecific.

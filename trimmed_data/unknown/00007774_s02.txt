@@ -1,0 +1,8 @@
+MEDICATIONS: Zofran, insulin, Dilantin, Versed, Fentanyl. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and comatose.  
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a markedly suppressed pattern.  The EEG can be reviewed at a sensitivity of 3.  There is EKG and other ICU artifact.  At a sensitivity of 2, there is again no definite cerebral activity.  The patient is stimulated by the clinical team throughout the EEG. The data can be reviewed using the ECS montage with double distance electrodes, however, the thermistor channel had not been plugged in.  However, even using this montage, there is no definite cerebral activity. 
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Absence of cerebral activity.
+	 
+CLINICAL CORRELATION: In the context of the use of Versed and Fentanyl, these medications may suppress cerebral activity.  If this patient is to be evaluated for the presence of cerebral activity, the appropriate montages would need to be included in the initial recording and the sedative hypnotic medications would need to be stopped.  In any case, in contrast to the previous study, no epileptiform activity was seen. 

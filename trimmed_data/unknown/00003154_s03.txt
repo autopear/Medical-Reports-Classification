@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is rich in beta frequency activity.  There is little in the way of a posterior dominant rhythm.  Focal slowing is noted in the left mid to anterior temporal region, some of which occurs in bursts.  The bursts are typically delta.  Hyperventilation is performed, which does seem to accentuate mixed theta-delta, left more so than right.  As the recording continues, there appear to be some T4 sharp waves and T4 sharply contoured slowing.  Some of these have little in the way of an after-going slow wave and in the sharply contoured background, there are also some noted on the left. Photic stimulation does not activate the record.   
+HR:    96 bpm
+IMPRESSION:  Abnormal EEG due to:
+Excess beta. 
+A paucity of some of the normal wave forms expected for an adult of this age.  Today, it is more difficult to define an alpha rhythm.
+Sharply contoured slowing from the left temporal region or more isolated on the right.
+A handful of sharp waves, typically left over right temporal sharp wave, but without a clear after-going slow wave.
+CLINICAL CORRELATION:  Compared to previous EEGs, it is harder to see an alpha rhythm.  There is more beta activity.  Epileptiform activity is not as well defined as it once was in the right frontal and right hemisphere as well as left frontal regions.

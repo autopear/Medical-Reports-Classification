@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Vecuronium, others.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is stimulated throughout the record.  He receives his IV Valproate at the close of the record.
+DESCRIPTION OF THE RECORD: The background EEG is low voltage with low voltage theta.  There is brief discontinuity in the background.  Despite the use of Vecuronium, there is muscle artifact picked up in the EEG and a question of IV drip as well.  The overall pattern is one of low voltage, rhythmic theta activity with some underlying delta activity and intermittent discontinuity.  
+Stimulation of the patient seems to accentuate the discontinuity.  Auditory stimulation does not activate the record.  Towards the close of the record, there is a suggestion of asymmetry with somewhat lower voltage activity from the right hemisphere, particularly in the posterior and temporal regions compared to the left. 
+HR:  114 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Low to medium voltage theta pattern with intermittent discontinuity.
+Pathologic reaction to stimulation with electrodecremental response to stimulation. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  This would suggest that the myoclonus is not an epileptiform form of a myoclonus, but it is still compatible with a post-anoxic myoclonus.  This tracing supports a severe disorder of cerebral function.  Additional assessment when the patient is more than 24 hours post injury is appropriate.  

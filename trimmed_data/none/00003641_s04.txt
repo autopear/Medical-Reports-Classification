@@ -1,0 +1,10 @@
+MEDICATIONS: Keppra, Depakote; others. 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient has a prominent right skull defect. 
+DESCRIPTION The background EEG at limes demonstrates a very challenging pattern. It is low voltage. There is a suggestion of some alpha frequency activity. There are sharp waves picked up at T6. There is a rhythmic discharge in the right central temporal region in the region of the patientÆs craniotomy defect, and there are occasional T4 sharp waves. There is also muscle artifact. The right hemisphere has much more significant disruption of faster frequency activity. The sharp waves may be right central temporal or posterior temporal but the after-going slow waves are more posterior and mid temporal. There is some muscle and twitch artifact noted. As the patient becomes comfortable, the EEG is a little bit easier to interpret. It is a relatively dynamic pattern. Stimulation of the patient tends to produce artifacts including 5 Hz muscle twitch artifact. There is a 7 Hz run of activity at C4, T4 which appears to be art if actual in nature. It does not evolve and it is actually congruent with some of the same frequency as his twitch artifact. 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Background slowing. 
+2. Superimposed focal slowing. 
+3. Sharp waves seen primarily from the right hemisphere, similar to previous studies. 
+CLINICAL CORRELATION: No seizures were recorded. The epileptiform activity described above has been previously identified. 
+ 

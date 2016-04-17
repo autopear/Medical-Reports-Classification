@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin, Ativan; Midazalam  discontinued the day before.
+INTRODUCTION: Digital video EEG is perfo1med at the bedside in the ICU using standard  10-20 system  of electrode placement  with one channel of EKG. The patient is intubated, but has cranial nerve signs, lower extremity clonus, and spasticity.
+DESCRIPTION  OF THE RECORD: The background  EEG demonstrates a continuous pattern.   There  is subtle,  7 to 8 Hz activity in the central regions.   Shifting asymmetries are  noted  with  at times  a  bit more  arrhythmic delta  activity  from  either  hemisphere, however, the right hemisphere is a bit more remarkable than the left.  Stimulation such as suctioning   of  the  patient   or  coughing  produces   an  increase   in  the  muscle   activity. Occasional FIRDA is noted in the background.
+HR:  114BPM.
+IM:PRESSION: Abnormal EEG due to:
+1.  Replacement  of normal  background  for an adult of this age with a mixed  frequency pattern.
+2.   Shifting  asymmetries, but  a  concern  that  there  may  be  more  delta  on  the  right compared to the left.
+3.   FIRDA.
+CLINICAL  CORRELATION: This EEG demonstrates a dramatic  improvement compared  to  the  previous   study  recorded  with  the  patient's acute  renal  failure  and sedative hypnotic medications. No epileptiform features were seen.

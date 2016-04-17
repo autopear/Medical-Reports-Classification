@@ -1,0 +1,9 @@
+MEDICATIONS: Antibiotics, Lisinopril.
+INTRODUCTION: Digital  video  EEG is performed  at the bedside  in the ICU  using standard 10-20 system of electrode placement with one channel ofEKG.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a well-defined  posterior dominant rhythm averaging  10 Hz.  There is occasional FIRDA noted in the background and  occasional  anhythmic  delta  activity  from  the  left  hemisphere  including  the  left temporal region.  As the recording continues, the overall organization improves.  There is some sharply contoured  delta from the left temporal region, and rare left temporal spike and slow wave activity or sharp and slow wave complexes.
+HR:  90BPM.
+IMPRESSION: Abnormal EEG due to:
+1.  FIRDA.
+2.   Arrhythmic delta from the left hemisphere, maximum in the temporal region.
+3.   Left temporal sharp and slow wave or spike and slow wave complexes.
+CLINICAL CORRELATION: Tlus  EEG  supports  a  structural  or  functional abnormality on the left and raises concerns for a potential for seizures.  FIRDA is a non­ specific finding in an adult of this age and can be seen in a metabolic  encephalopathy, as well as many other conditions.  No seizures were recorded.   These results were discussed with Dr. Cordova.

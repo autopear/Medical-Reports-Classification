@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard  10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: The background EEG activity from the left hemisphere  is relatively  unremarkable for an adult of this age.  There is an 8 Hz posterior dominant rhythm with a small amount of background  theta from the left. The right hemisphere  demonstrates  disruption of faster frequency activity, a bit of arrhythmic delta activity, and an occasional  sharp wave from the right  temporal  region, maximum  in the  mid-to-posterior temporal  regions  'tvith a generous field of spread. As the patient becomes drowsy, the epileptiform activity is more prominent, as is the focal slowing "vith disruption  offaster frequency activity from the right.
+BR: 84BPM.
+IMPRESSION: Abnormal EEG due to:
+1.   Focal slowing from the right hemisphere, particularly in the temporal  region, with disruption of faster frequency  activity.
+2.   Right   temporal   sharp   waves   with   a   generous   field   of  spread,   some   of   which   are anteriotemporal and some of which are more posteriotemporal  in nature.
+3.   Mild background slowing from the left.
+CLINICAL CORRELATION: This EEG demonstrates a clear improvement in that there are no longer periodic sharp waves marching  through the record.  This EEG does support a structural or functional abnormality  on the right and ongoing vigilance is appropriate.

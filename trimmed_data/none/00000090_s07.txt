@@ -1,0 +1,7 @@
+MEDICATIONS: Depakote, Tegretol. 
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. There is no mention that the patient experienced any seizures during this six-hour recording.  
+DESCRIPTION OF THE RECORD: The background EEG is low voltage and suppressed.  As the recording continues, there is an increase in muscle artifact in the background.  There is also some lower voltage, frontocentral mixed theta and delta.  A likely breach rhythm is identified on the left with increasing amplitude in that region.  There are likely T5 sharp waves in the context of a breach rhythm.
+HR:  100 BPM.
+	IMPRESSION: Abnormal EEG for an adult of this age due to:
+	1.	Markedly suppressed background. 
+CLINICAL CORRELATION: No seizures were recorded.  In the context of a breach rhythm at T5, the sharp waves described above should be interpreted with caution. 

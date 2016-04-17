@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, Lovenox, Morphine, Famotidine 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation was not performed, but photic stimulation was completed. 
+DESCRIPTION OF THE RECORD: The patient is in stage I or stage II sleep for much of the record, but there is a well-defined alpha rhythm when she is awake, which is 10 Hz, 40 microvolts. There is a generalized amount of low voltage, frontal central beta. The features of stage II sleep include vertex waves, spindles, and abundant POSTS. There is a single abnormality identified in this record and it occurs just at the onset of photic stimulation. It occurs just prior to photic and there is a burst of frontal delta highly suggestive, but not definitive for a generalized spiking wave complex. 
+HR: 80 bpm 
+IMPRESSION: EEG within normal limits. 
+CLINICAL CORRELATION: There is only a single discharge described above. There does appear to be an after going slow wave, however, this could also represent an arousal. Additional recording can more definitely capture epileptiform activity is advised as an outpatient. 

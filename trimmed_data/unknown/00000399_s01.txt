@@ -1,0 +1,20 @@
+MEDICATIONS: Dilantin, Morphine, Flagyl, Cefepime, Hydrocortisone, Heparin, Metoprolol, 
+Protonix 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of 
+electrode placement with 1 channel EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE Background EEG includes a dynamic pattern. Some 
+portions are primarily theta frequency activity which is relatively rhythmic. Other portions of the 
+record are disrupted by bursts of rhythmic, frontally predominate high amplitude delta activity 
+with bursts lasting 3-5 seconds. On occasion this activity is asymmetric, higher amplitude more 
+rhythmic on the left and slower and more arrhythmic on the right. The overall activity is sharply 
+contoured but there are no definitive sharp waves. Stimulation of the patient produces muscle 
+but also some faster frequency activity. 
+HR: 60 bpm. 
+IMPRESSION: Abnormal EEG due to: 
+1. Background slowing. 
+2. Bursts of rhythmic and arrhythmic delta activity with at times somewhat asymmetric clinical 
+correlation. 
+CLINICAL These findings are nonspecific. They can be seen in toxic or 
+metabolic encephalopathy or a bihemispheric process. There is some asymmetry to the bursts 
+of rhythmic delta activity which may be correlated with the MRI imaging. In this patient with a 
+single focal seizure there are no definitive sharp waves. 

@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background is mildly slow with a posterior dominant rhythm averaging 7 Hz, 30 to 40 uV, and a small amount of diffuse background theta.  There is some shifting asymmetries noted in the record and in some portions of the record there seems to be a bit more, rhythmic theta frequency slowing from the right hemisphere in comparison to the left.  Features of drowsiness include an increase in background beta, as well as generalized theta.   
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG for an adult of this age due to:
+	Generalized background slowing.
+	Intermittent rhythmic slowing from the right. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The generalized background slowing is a non-specific finding and can be seen in a diffuse disturbance of cerebral function or postictal state.  The rhythmic background slowing from the right may be correlated with imaging. 

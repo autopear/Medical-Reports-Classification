@@ -1,0 +1,9 @@
+MEDICATIONS: Hydralazine, Vasotec, and Ampicillin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an abnormal pattern with an intrahemispheric asymmetry.  The left hemispheres is not as slow as the right hemisphere and in fact, on occasion, there is an apparent posterior dominant rhythm of 7 Hz with a mixture of theta from the left hemisphere, as well as arrhythmic delta activity.  The right hemisphere has more arrhythmic delta particularly from the right posterior quadrant.  In the setting of a breach rhythm, there are rare T6 sharp waves.   Stimulation of the patient produces an alerting response and increases the amount of alpha and theta frequency activity from both hemispheres, but the patient is never truly awake or interactive. 
+HR:  68 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Intrahemispheric asymmetry with more arrhythmic delta on the right than the left.  
+Occasional right posterior temporal sharp waves.
+Generalized background slowing identifiable from both hemispheres. 
+CLINICAL CORRELATION: This patient is less interactive than one might imagine given the amount of slowing from the left hemisphere.  This may be due to a chronic CNS disturbance.  No seizures were recorded.  

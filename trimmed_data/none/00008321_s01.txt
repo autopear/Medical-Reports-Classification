@@ -1,0 +1,9 @@
+	MEDICATIONS: 	Tylenol, heparin, Altace, Keppra, Zofran, HCTZ, Cipro
+	INTRODUCTION: 	Digital video EEG is performed in the lab using standard 10/20 system electrode placement with 1 channel of EKG. Previous EEGs are not available for comparison. The patient is spastic and appears debilitated.
+	DESCRIPTION OF RECORD: 	Background EEG is challenging in terms of the muscle and movement artifact. The overall background is abnormal in both hemispheres but is a bit better organized on the right. The right hemisphere has more rhythmic, alpha and theta frequency activity. The left hemisphere demonstrates more arrhythmic delta activity. Both hemispheres demonstrate significant arrhythmic delta activity as well as some frontal delta. The patient drifts in and out sleep. The EEG patterns of wakefulness and drowsiness are relatively similar for this individual, but there are sections when the patient is awake where the interhemispheric asymmetry is more remarkable with sharply contoured delta from the left. At those time, more rhythmic theta can be seen in the occipital regions as well as the central regions, again right greater than left. Photic stimulation does not activate the record.
+	HR: 	76 bpm irregular
+	IMPRESSION: 	Abnormal EEG due to:
+1. Markedly abnormal background.
+2. Superimposed arrhythmic delta from the left.
+3. Generalized and shifting arrhythmic delta.
+	CLINICAL CORRELATION: 	This EEG supports a diffuse disturbance of cerebral function affecting both atmospheres. No seizures were recorded and in this markedly abnormal background there were no definitive epileptiform abnormalities.

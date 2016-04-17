@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Phenobarbital, and numerous antihypertensives.  
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is lethargic throughout the recording.
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow and poorly organized. There is a posterior dominant rhythm of 6 to 7 Hz, 30 V amplitude, which is reactive to eye opening and eye closure. There are occasional bursts of delta, particularly in the frontal regions, which are overall symmetric.  Stimulation of the patient produces alerting, but the background remains slow.
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Diffuse background slowing and poor organization.   
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  To further characterize this patient’s epilepsy, a repeat study in the lab with hyperventilation and photic stimulation would be indicated.  

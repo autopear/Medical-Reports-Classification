@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD:  The background EEG includes generous beta, focal slowing is noted in the right hemisphere with a brief rhythm in the right central region.  It is a somewhat attenuated record with skull artifact in the temporal region. 
+Features of drowsiness include an increase in beta. 
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due:
+Excess beta.
+Focal slowing from the right hemisphere with disruption of faster frequency activity. 
+A breech rhythm with sharply contoured activity at C4.
+CLINICAL CORRELATION:  No seizures were recorded.  No previous EEGs were available at this time for comparison.  If additional information is needed, a follow up study may be considered.

@@ -1,0 +1,6 @@
+MEDICATIONS: Morphine, aspirin, Dilantin, and Elavil. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not preformed, but photic stimulation was completed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz posterior dominant rhythm reaching amplitudes up to 60 uV with a generous amount of low voltage, frontocentral beta activity.  Brief drowsiness is characterized by an increase in background theta and beta frequency activity.  Photic stimulation elicits bilateral driving. 
+HR:  78 BPM.
+	IMPRESSION: Normal EEG in wakefulness and brief drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record. If further characterization of this patient’s epilepsy is important, a follow-up study capturing deeper stages of sleep may be valuable. 

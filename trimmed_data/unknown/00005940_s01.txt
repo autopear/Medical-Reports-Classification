@@ -1,0 +1,10 @@
+MEDICATIONS: Ativan, Nicardipine, Dilantin, Lovenox 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is awake. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a somewhat slow and disorganized pattern, rich in beta frequency activity. The overall background is a theta frequency pattern. There appears to be a 6 hertz posterior dominant rhythm, shifting arrhythmic slowing, posteriorly predominant delta and a suggestion of right more than left posteriorly predominant sharply contoured slowing. Vertex waves and POSTS are observed in stage I sleep. 
+HR: 72bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Poor organization. 
+3. Posteriorly predominant delta. 
+CLINICAL CORRELATION: There are no epileptiform features. The posteriorly predominately delta may be correlated with imaging. Additional electroencephalogram recording may be important to search for epileptiform activity and the posterior predominately slowing may be correlated with imaging. 
+ 

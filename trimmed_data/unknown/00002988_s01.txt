@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Percocet, Protonix 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a slow pattern with a mixture of theta and delta. The overall activity is relatively rhythmic and includes approximately 1 Hz delta, 3.5 Hz delta, and 4.5 Hz activity. In addition, there is some eye movement but there is also a subtle, right frontal sharp wave noted. FIRDA is also observed and is present bilaterally. Stimulation of the patient seems to produce more of a theta pattern than the frontal delta. Vigorous stimulation is not performed. 
+HR: 120 bpm 
+IMPRESSION: Abnormal EEG due to. 
+1. Replacement of normal background with the pattern of rhythmic slowing. 
+2. Right frontal sharp waves. 
+3. Frontal intermittent rhythmic delta activity. 
+CLINICAL CORRELATION: These findings may be correlated with imaging and clinical history. This EEG supports a diffuse disturbance of cerebral function in that there are frontal sharp waves, additional recording may be appropriate. 

@@ -1,0 +1,9 @@
+MEDICATIONS: ASA, Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake or drowsy.  He makes one or two vocalizations, but remains plegic on the right. Photic stimulation is performed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a slow pattern with a 7 Hz posterior dominant rhythm.  The overall pattern is slow from both hemispheres with excess background theta.  The patient is moving about throughout the record.  During one portion of the record at 15:18, as the patient starts to reach stage II sleep, left centrotemporal spikes are identified followed by photic stimulation. Photic stimulation is associated with an arousal.  
+The patient is examined by the tech at the end of the study and is awake.  There is a slow but discernable posterior dominant rhythm and a small amount of focal slowing in an individual who remains plegic and aphasic. 
+HR:  80 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+A brief burst of subtle sharp waves from the left.
+CLINICAL CORRELATION: In this individual with a previous stroke and seizures, there much l less than anticipated focal slowing.  Sharp waves are seen primarily in transition to stage II sleep. 

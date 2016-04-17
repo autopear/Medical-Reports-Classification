@@ -1,0 +1,12 @@
+MEDICATIONS:  Depakote, Topamax.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  This is a routine outpatient EEG.  Impedances were satisfactory.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm with small amount of low voltage, frontal central beta.  Brief bursts of rhythmic frontal delta, some of which were notched, were noted in relaxed wakefulness and in transition to drowsiness.  Some of this seemed to have an increase in beta as the patient became sleepier and there seems to be underlying subtle sharp wave in the right frontal region.   
+Hyperventilation produced an increase in the rhythmic frontal delta, again some of which had some fast activity with a subtle underlying spike or sharp, a bit more prominent in the right frontal region.  Similar activity with relatively symmetric fast activity was noted following hyperventilation at the patient was drifting off to sleep.  As the patient reaches stage II sleep, spindles were noted, as were vertex waves.   
+Photic stimulation was performed while the patient was drifting in and out of sleep.  A photomyogenic response was noted, but there was a driving response. 
+Heart rate:  90 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Notched frontal delta, subtle frontal spike and wave activity.
+Frontal fast activity.
+Subtle focality with more of a right frontal focus than the left.
+CLINICAL CORRELATION:  This patient's many previous EEGs were not available for comparison.  No seizures were identified.  Mechanisms for this patient's seizures may include a secondary generalized focus.
+__________________________

@@ -1,0 +1,13 @@
+MEDICATIONS: Ativan, Haldol, Dilantin. 
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 
+system of electrode placement with 1 channel EKG. The patient is restless, but awake. 
+She requires 2 mg of Ativan during the EEG. 
+DESCRIPTION OF THE RECORD: Background EEG demonstrates continuous 
+pattern, medium amplitude, rich in beta frequency activity. There is some head rocking 
+artifact and there is a glimpse of an underlying alpha rhythm of approximately 10 hertz. 
+Due to agitation, patient received Ativan during the EEG. This actually does produce a 
+more cooperative state with again an alpha rhythm although it does increase beta 
+activity in the background. 
+IMPRESSION: This EEG is remarkable only for excess beta. 
+CLINICAL CORRELATION: The excess beta is compatible with the use of 
+benzodiazepine medications. No focal nor epileptiform features were observed today. 

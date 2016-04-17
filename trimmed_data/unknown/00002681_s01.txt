@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin and Tylenol.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is comatose and intubated.
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal. The activity is relatively suppressed.  There are intermittent bursts of fast activity from the frontal regions, which seems to be relatively symmetric.  This is followed by a burst of slow activity.  Of note, there is blinking which seems to correlate with this.  Review of the video throughout this record indicates that the patient has continuous eye blinking and head tremor. This seems to have the same frequency as the delta.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with a very low voltage pattern with intermittent fast activity followed by 2 Hz slowing.
+CLINICAL CORRELATION: The patient’s eye movements and head bobbing could contribute to the pattern described above.  To determine the absolute quantity of cerebral activity, as well as the potential epileptogenesis of this activity, a study with a neuromuscular blocking agent would be valuable. 

@@ -1,0 +1,6 @@
+MEDICATIONS:  Dilantin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 12 Hz, 40 microvolt posterior dominant rhythm with a small amount of low voltage frontocentral beta.  Drowsiness is characterized by slowing of the background with attenuation of the alpha and slow-rolling eye movements.  Posts are noted in stage I sleep.  There is very brief stage II sleep.  Photic stimulation elicits vigorous bilateral driving.  Hyperventilation produces a small amount of slowing.  The patient reaches stage II sleep at the very end of the EEG with spindles.   
+HR:    60 bpm and slightly irregular.
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  There are no focal nor epileptiform features noted in this record.  A normal EEG does not exclude a diagnosis of epilepsy.  Of note, the patient has a little bit of eye movement, even in stage II sleep.

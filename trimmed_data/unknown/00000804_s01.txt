@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was performed.   This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well enough organized for age with a posterior dominant rhythm averaging 6 Hz, sometimes somewhat faster, reaching amplitudes up to 100 uV.  Features of drowsiness include hypersynchronous rhythmic slowing.  Vertex waves are identified with brief sleep epochs and then spontaneous arousals. Hyperventilation produces rhythmic slowing.  
+Deeper stages of sleep are not sustained. Although there are multiple episodes of hypersynchronous rhythmic 5 Hz activity, the static can be re-reviewed and is without epileptiform activity and is simply characteristic of a prominent hypnagogic hypersynchrony.
+HR:  90 BPM.
+	IMPRESSION: EEG within normal limits. 
+CLINICAL CORRELATION: Additional EEG recording including capturing more extended sleep may be important to characterize this child’s epilepsy if previous EEGs have not done so.  Photic stimulation may also be employed.  In comparison to previous EEGs, this study was of better quality technically, but neither studies identified epileptiform activity. 

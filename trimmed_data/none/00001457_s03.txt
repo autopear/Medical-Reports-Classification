@@ -1,0 +1,9 @@
+MEDICATIONS:  Tegretol, zonisamide, Keppra.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures only included photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  Heart rate 60. 
+The record opens to a posterior dominant rhythm that reaches at 9-10 Hz which is reactive to eye opening.  There is frontocentral beta which is slightly high amplitude over the right hemisphere.  Activating procedures including photic stimulation produced no abnormal discharges.  The patient was recorded in wakefulness, stage 1 sleep.
+ABNORMAL DISCHARGES:  Focal slow waves seen continuously at T4 at a frequency of 2-4 Hz and amplitude of 20-40 microvolts.  In addition, there is increase of faster frequencies in this region, both consistent with breach rhythm.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to right midtemporal slowing and breach.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right anterior temporal region, which is consistent with a known temporal lobectomy.  No seizures or epileptiform discharges were clearly seen.

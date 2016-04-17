@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Librium.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake and confused.  Previous EEGs are not available.  Photic stimulation is performed.
+DESCRIPTION OF THE RECORD: The patient is awake or drowsy.  Briefly, in maximum wakefulness, there is a 9 Hz posterior dominant rhythm, but wakefulness isn’t sustained and he drifts off into a drowsy pattern with generalized theta and some occasional arrhythmic delta particularly in the frontocentral regions.  Features of stage II sleep include spindles.  
+The patient essentially sleeps through photic stimulation.
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Excess background slowing and disorganization.
+Occasional frontal slowing identified in wakefulness/early drowsiness. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record. If localization of this patient’s epilepsy is needed, additional testing may be valuable. 

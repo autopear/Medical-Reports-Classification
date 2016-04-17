@@ -1,0 +1,10 @@
+MEDICATIONS:  Keppra, Nexium.
+REASON FOR EEG:  Seizure.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with anterior temporal and EKG electrodes.  Wakefulness and sleep was recorded.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  There is normal frontal, central, beta seen.  Sleep stage I is seen.  Hyperventilation and photic stimulation does not produce any abnormal discharges.
+ABNORMAL DISCHARGES:  Focal slow waves seen occasionally at T3 with a frequency of 2-4 Hz and an amplitude of 20-70 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Infrequent left midtemporal slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left midtemporal region, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

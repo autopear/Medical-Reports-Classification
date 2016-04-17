@@ -1,0 +1,10 @@
+MEDICATIONS: Ativan, Keppra. 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. The patient is intubated, but responsive. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal. It is a mixed frequency pattern rich in beta frequency activity and delta. There are frequent, almost periodic sharp waves identified in the right temporal region which can be differentiated from EKG artifact. The epileptiform activity is maximum at F8 and P4. Stimulation of the patient or spontaneous arousals are associated with overall decrease In amplitude, increase in faster frequency activity and attenuation of the epileptiform activity. As the recording continues, more clear focal slowing with disruption of faster frequency activity in the right temporal region is observed. There is some double phase reversing artifact raising the possibility of an abnormality in the surface of the skull although none is reported. Stimulation of the patient consistently results in Increase in faster frequency activity as well as agitation. 
+HR: 66 to 90 
+IMPRESSION: Abnormal EEG due to: 
+1. Replacement of normal background with primarily a beta frequency pattern. 
+2. Diffuse delta. 
+3. Focal slowing in the right temporal region. 
+4. Sharp waves primarily maximum in the right mid to anterior temporal region. 
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function as well as a structural function abnormality in the right hemisphere with a focal mechanism for seizures. Although no seizures were recorded, this is a highly irritative focus and additional follow up is suggested. 

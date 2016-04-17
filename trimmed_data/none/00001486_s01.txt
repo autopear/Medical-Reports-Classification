@@ -1,0 +1,8 @@
+MEDICATIONS: Keppra, Metoprolol, KCL, Cefazolin, Levetiracetam, gentamicin, Zosyn, Phytonadione, Ativan, Dilantin 
+INTRODUCTION: Digital video EEG was performed as bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a very slow pattern with delta. There is intermittent rhythmic theta. The activity is considerably slower in the right hemisphere than the left and there are higher amplitude right frontal triangular shaped waves. The central regions demonstrate more of the rhythmic 3 Hz to 5 Hz activity. There are rare, simple right temporal sharp waves. There is variability in this record in that some sections demonstrate an overall slower pattern. 
+HR: 126 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Profoundly slow and at times somewhat suppressed pattern. 
+2. Paucity of cerebral activity in the posterior regions particularly on the right when compared to the left. 
+CLINICAL CORRELATION: These findings may be correlated with imaging which demonstrates the extent of this patient's severe CNS pathology. There is variability in this record in that some sections have more rhythmic theta and on other occasions there is a bit more delta in addition, some sections of the record include eye movement artifact and others brief attenuation of the background for 1 to 2 seconds. No seizures were recorded. The eye movements are not ictal. 

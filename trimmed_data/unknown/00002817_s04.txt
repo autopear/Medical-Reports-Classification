@@ -1,0 +1,5 @@
+MEDICATIONS: Dilantin, Fentanyl, Propofol, Versed, Mannitol, Seena 
+INTRODUCTION: Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. 
+DESCRIPTION OF THE RECORD: The background EEG continues to demonstrate a burst suppression pattern. There are bursts of activity lasting typically on the order of three seconds with 1 to 3 bursts per 20 seconds. At later sections of the record, demonstrated an essentially suppressed pattern. At that time, there is no indication as to any change in medications, but this is a gradual phenomenon over the course of the recording with slowing observed by the early evening and this gradual transition around midnight to a completely suppressed pattern. 
+HR: 120 bpm 
+IMPRESSION/CLINICAL CORRELATION: This section of the EEG monitoring is remarkable for transition from a burst suppression to a completely suppressed pattern. 

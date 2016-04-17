@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and Phoscarnate.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: Much of the record includes stage II sleep with symmetric vertex waves, K complexes, spindles, and POSTS.  The waking record, however, is somewhat disorganized with a posterior dominant rhythm of 8.3 Hz and a small amount of excess background theta.  
+Photic stimulation elicits brief bilateral driving.
+HR:  108 BPM.
+	IMPRESSION: Mildly abnormal EEG in wakefulness through stage II sleep due to:
+	1.	Mild background disorganization and slowing of the posterior dominant rhythm.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The background slowing is a non-specific finding, which can be seen in a toxic or metabolic encephalopathy as well as in a diffuse disturbance of cerebral function. 

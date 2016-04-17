@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, aspirin, and many others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In apparent wakefulness, the background EEG is low voltage, diffusely slow with primarily a pattern of rhythmic 5 to 7 Hz theta.  As the patient becomes drowsy, there is shifting arrhythmic delta, somewhat more prominent from the right hemisphere than the left. 
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Shifting slowing, right greater than left. 
+CLINICAL CORRELATION: This tracing supports a diffuse disturbance of cerebral function affecting both gray and white matter.  The features described above are non-specific, but are typical of those seen in Alzheimer’s disease.  

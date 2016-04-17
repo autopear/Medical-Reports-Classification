@@ -1,0 +1,7 @@
+MEDICATIONS: Ativan, morphine, Dilantin, and Tylenol.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intermittently agitated and somnolent.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a dynamic pattern.  Some portions of the record demonstrate a medium amplitude pattern with relatively symmetric theta and intermittent bursts of beta.  Other portions demonstrate slower, bilateral frontally predominant delta.   Those portions are seen when the patient is a bit more active. 
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with a pattern of generalized background slowing alternating with frontal delta. 
+CLINICAL CORRELATION: These features are non-specific and support a diffuse disturbance of cerebral function affecting both gray and white matter.  This pattern can be seen in a metabolic encephalopathy, as well as a significant bihemispheric diffuse disturbance.  No epileptiform features were seen. 

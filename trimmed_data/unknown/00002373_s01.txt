@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, Librium, Neurontin, and Depakote.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is an asleep record. 
+DESCRIPTION OF THE RECORD: The vast majority of the record includes stage I or stage II sleep with generous diffuse beta, prominent beta spindles, and POSTS.  Brief arousals produce an alerting response with theta, but no real awake state.  
+HR:  72 BPM.
+	IMPRESSION: EEG within normal limits in sleep. 
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  This patient’s hypersomnolence may be due to his medications, sleep deprivation, or theoretically a CNS disturbance.  

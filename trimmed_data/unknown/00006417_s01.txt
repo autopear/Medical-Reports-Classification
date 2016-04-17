@@ -1,0 +1,8 @@
+MEDICATIONS: Insulin, Dilantin, others.
+INTRODUCTION: Digital  Video EEG was performed  at the bedside  in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and comatose.  He is examined during the record.
+DESCRIPTION   OF  THE   RECORD:   The  background  EEG demonstrates a discontinuous  pattern.   There  is burst suppression with periods  lasting as long as 40 seconds.  The cerebral activity which ranges from brief isolated discharges to somewhat more prolonged discharges.  There is some muscle artifact picked up on the right.  There are also rare bursts of slow delta picked up in the left frontal region.  Stimulation of the patient does not alter this discontinuous pattern.  As the recording continues, the periods of suppression are becoming longer.
+HR: 108 BPM.
+IMPRESSION:Abnormal EEG due to:
+1.   Replacement of normal cerebJ;al activity with a burst suppression pattern
+2.  Absence of activity to external stimuli
+	CLINICAL CORRELATION: This EEG recorded 24 hours following cardiac arrest is supportive of a poor prognosis.  These results were communicated to the clinical team.

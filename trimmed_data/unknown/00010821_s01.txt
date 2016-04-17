@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Phenobarbital.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 EKG. Photic and hyperventilation stimulation were performed. Awake and drowsy study.
+DESCRIPTION OF THE RECORD:  Drowsiness seen at the beginning of the study with alpha 8.9 Hertz with higher amplitude on the right. Alpha increases to 10 Hertz as the study continues and becomes bilateral. Rhythmic temporal theta is seen which is a normal variant. Beta rhythm can also be seen throughout the record. No stimulation response.
+	HR: 	96 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  Normal EEG does not rule out a seizure disorder. If frequent seizures, would recommend an ambulatory study.

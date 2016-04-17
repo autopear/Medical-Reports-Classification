@@ -1,0 +1,20 @@
+MEDICATIONS: Dilantin, Depakote, Metformin, Lexapro, Clozaril, HCTZ 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of 
+electrode placement with 1 channel EKG. Hyperventilation and Photic stimulation are 
+performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates excess background 
+theta. In addition, there is an amplitude asymmetry of higher amplitude 5-7 Hz activity at the 
+midline as well as left frontocentral. The posterior dominant rhythm ranges from 9-10 Hz. 
+Hyperventilation is performed early on in the record, accentuating the rhythmic slowing at the 
+left central region, left hemisphere. Features of drowsiness include slow rolling eye movements 
+and an increase in beta. Patient is somewhat fidgety as he drifts off to sleep. Hypnagogic 
+hypersynchrony is observed in the transition to sleep. Photic stimulation elicits bilateral driving. 
+HR: 96 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Modest excess theta and disorganization. 
+2. Focal features including increased theta on the left and an amplitude asymmetry at the 
+midline. 
+CLINICAL CORRELATION: These findings should be correlated with imaging and previous 
+craniotomy history. There were no epileptiform features, but the focal features may correlate 
+with his previous trauma. The generalized background slowing may be related to the head 
+trauma or the medications. 

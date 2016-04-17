@@ -1,0 +1,12 @@
+MEDICATIONS:  Levothyroxine, Loratadine, Metoprolol, Aspirin, Benadryl, Epinephrine.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system electrode placement system with an additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures, including photic stimulation, were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 9 Hz which is reactive to eye opening.  There is normal frontal central beta.  The patient reaches stage I sleep.  Activating procedures produce no abnormal discharges. 
+ABNORMAL DISCHARGES:  Focal slow waves seen intermittently at F8/T4 and less frequently at F7/T3 at a frequency of 2-4 Hz and an amplitude of 20-70 mV.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+1. dependent bilateral anterior temporal slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the bilateral anterior temporal regions, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.
+DD:02/29/2012
+DT:03/01/2012

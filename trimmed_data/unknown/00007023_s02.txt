@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Amodafine, Klonopin, Effexor, Gentamicin, Oxacillin, Mannitol, morphine, and a Pentobarbital coma.  
+INTRODUCTION: Continuous video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and poorly responsive. 
+DESCRIPTION OF THE RECORD: The initial portions of the record demonstrate a continuous EEG pattern with high amplitude sharply contoured activity from the left hemisphere, particularly in the frontotemporal regions.  In addition, there are sharp waves picked up in the frontal regions with a different periodicity of about 0.5 Hz.  Stimulation of the patient does not appear to activate this record.  
+HR: EKG slightly irregular, approximately 60 BPM. 
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing. 
+Independent, left greater than right frontal sharp waves.  
+CLINICAL CORRELATION: This tracing supports an irritative process involving both hemispheres.  Interestingly, the epileptiform activity from the two hemispheres seems to be independent and functions at different periodicities.  The right hemisphere appears to be slower than the left and correlation with the patient’s imaging may be of use. 

@@ -1,0 +1,9 @@
+MEDICATIONS: Antibiotics, Dilantin, anti-HIV meds, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated during the record.  
+DESCRIPTION OF THE RECORD: The background EEG is low voltage and subtly discontinuous with superimposed arrhythmic delta activity and occasional frontal PLEDS-like activity.  Although the patient has a few spontaneous eye movements, the EEG did not show any reactivity upon stimulation.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Disorganized background with a suppressed, low voltage pattern.
+Occasional frontal PLEDS.
+Absence of variability or reactivity to stimulation of the patient. 
+CLINICAL CORRELATION: This tracing demonstrates a severe cerebral dysfunction involving both gray and white matter, which can be seen in patients with a toxic or metabolic encephalopathy, anoxia, or diffuse central nervous system infection. No epileptiform features were identified in this record.  Lack of variability with stimulation suggests a poor prognosis in this patient. 

@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in lab using standard 10-20 system of electrode placement with one-channel EKG. The patient is described as postictal and somnolent. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with a 
+mixture of lower voltage beta and delta. As the recording continues, there is an increase in alpha frequency activity and with a bit more spontaneous movement. Stimulation of the patient also produces a clear change in the background with an increase in alpha and beta frequency activity and occasional question of asymmetry with more of a beta on the right. The overall background of the patient is unstimulated, is diffusely so, but there is a suggestion of a bit more slowing on the right. Photic stimulation does not activate the record. 
+HR: 72 bpm, slightly irregular. 
+IMPRESSION: Abnormal EEG due to: 
+1. Background slowing. 
+2. Superimposed intermittent focal slowing on the right. 
+CLINICAL CORRELATION: No epileptiform features are observed due to the 
+background slowing. Additional recording may be important. 

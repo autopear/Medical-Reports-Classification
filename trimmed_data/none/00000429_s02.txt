@@ -1,0 +1,8 @@
+MEDICATIONS: Tegretol, Valproate, Albumin, Solumedrol, Baclofen, others.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and asleep record in a patient who is quite drowsy today. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates a prominent interhemispheric asymmetry.  There is a posterior dominant rhythm which is identifiable bilaterally but better developed on the left and more rhythmic. There is overall, a drop-out of faster frequency activity from the right hemisphere compared to the left and more lower voltage delta in the right hemisphere than the left.  There are sharp and slow wave complexes identified from either hemisphere but the vast majority of these are in the right hemisphere particularly in the right temporal region, although there is some variability and some right hemispheric or occasional posterior temporal.  The right-sided spike and slow wave complexes are seen at least once in any 20 second period, others more.  The left temporal sharp waves are considerably less frequent, although towards the close of the record they can be identified in brief clusters. The amplitude of the temporal sharp waves generally is less than those on the right, although in some cases can go up to 100 V.
+HR:  56 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Interhemispheric asymmetry with relatively greater slowing from the right compared to the left. 
+Independent, right greater than left temporal sharp and slow wave complexes.
+CLINICAL CORRELATION: These features were seen in previous records.  No seizures were recorded in this study. 

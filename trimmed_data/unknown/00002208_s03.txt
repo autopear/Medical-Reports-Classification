@@ -1,0 +1,9 @@
+MEDICATIONS: Metoprolol, Dilantin, Insulin, Famotidine, Norvasc, ASA, Heparin
+INTRODUCTION:   Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1  channel of EKG. The patient is relatively somnolent.
+DESCRIPTION OF THE RECORD:  The background  EEG is markedly slow with slow delta and smaller amounts of theta.  There is shifting, slowing, as well as EKG artifact, but in the artifact-free sections of the record, there are portions with more disruption of theta on the right compared to the left, and on one occasion a pair of two left simple sharp waves.  Attempts to stimulate the patient produced snoring artifact. Later portions of this sleep recording demonstrated low voltage relatively featureless record which is slower on the left. Towards the close of the record, the patient arouses spontaneously, again, with a markedly slow background.
+	HR:	50 to 60 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1.	Markedly slow background.
+	2.		Prominent shifting slowing with at times, some sharply contoured delta on the right and two simple sharp waves on the left.
+CLINICAL CORRELATION: This EEG supports a bihemispheric disturbance of cerebral function. The epileptiform activity that is identified is relatively modest  and
+simple in nature.

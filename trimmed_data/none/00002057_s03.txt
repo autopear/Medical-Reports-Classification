@@ -1,0 +1,19 @@
+MEDICATIONS: Keppra, Vancomycin, Cefepime, Flagyl. 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel EKG. The patient is described as 
+responsive to stimuli.
+ 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal. It is a 
+very slow, featureless pattern. Sharp waves are seen prominently in the record. They 
+are most prominent in the left frontal temporal region, but they are also seen 
+independently in the right frontal region. Areas of maximum include F7, F8, T4, T5. and 
+frontal, left greater than right. These are accompanied by a very slow delta pattern. 
+Throughout the record the fossae of epileptiform activity varies, but much of it is in the 
+left hemisphere. Stimulation of the patient produces an increase in theta in the 
+background. 
+HR: 120 bpm 
+IMPRESSION: Markedly abnormal EEG due to: 
+1. Marked background slowing. 
+2. Prominent epileptiform activity from both hemispheres. 
+CLINICAL CORRELATION: These findings have been previously identified for this 
+individual. No seizures were recorded. 

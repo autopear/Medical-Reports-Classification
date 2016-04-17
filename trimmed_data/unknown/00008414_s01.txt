@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Insulin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. The patient starts out of the EEG in stage II sleep and intermittently awoken from sleep. 
+DESCRIPTION OF RECORD: As the recording begins intermittent focal sign with rhythmic delta noted in the right hemisphere, with a relatively generous field of spread including the posterior regions. Arousal of the patient produces an alpha rhythm 10.7 on the left, a bit slower on the right. The patient frequently transitions in and out of stage II sleep, and spindles, K complexes and vertex waves are present bilaterally. This is no indication during the EEG that the patient is twitching. A muscle monitor is not utilized and no twitching is observed. Photic stimulation is performed while she was drifting in and out of stage II sleep, and does not activate the record. 
+HR: 60 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Focal slowing, including focal delta from the right hemisphere. 
+CLINICAL CORRELATION: This EEG supports a structural process on the right involving gray and white matter. There were no epileptiform features observed. 

@@ -1,0 +1,7 @@
+MEDICATIONS: Keppra, Dilantin, and Zoloft.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is a 10.5 Hz, 20 to 25 uV posterior dominant rhythm.  Rhythmic high amplitude theta slowing in the left anterior temporal region with occasional underlying T1/F7 sharp waves were identified, more prominent during drowsiness.  The overall background is otherwise appropriate. 
+HR:  69 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Left anterior temporal slowing with occasional sharp waves. 
+CLINICAL CORRELATION: This tracing supports an underlying focal cortical/subcortical lesion explaining a possible partial mechanism for epilepsy in this patient.  

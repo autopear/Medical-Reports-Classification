@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and antihypertensives.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake through stage I sleep record.  
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is a 7 to 8.5 Hz, 40 V posterior dominant rhythm and a small amount of frontocentral beta activity.   Superimposed on the background is generalized rhythmic temporal theta activity with occasional shifting arrhythmic delta activity, right greater than left.  In drowsiness, vertex waves were identified.  Photic stimulation did not activate the record.  
+HR: 48 BPM.
+IMPRESSION: Abnormal EEG in a subject of this age due to:
+Background slowing.
+Occasional shifting arrhythmic delta activity, right more than left temporal region.  
+CLINICAL CORRELATION: The diffuse slowing in this EEG tracing suggests a bihemispheric disorder of cerebral function, which is a non-specific finding and can be seen in patients with encephalopathy such as toxic or metabolic or infectious processes, or can be seen in patients with dementia or postictal state.  However, no epileptiform discharges were seen in this recording. If seizures are a clinical concern, a repeat EEG may be helpful. 

@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Phenobarbital. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and sleep record with hyperventilation and photic stimulation. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.7 Hz posterior dominant rhythm, but there is a small amount of background, 6-7 Hz theta frequency activity. In wakefulness, there are occasional bursts of rhythmic slowing, particularly in the posterior regions, right more so than the left. Hyperventilation produces an increase in amplitude of the background. Photic stimulation elicits scant driving. 
+HR: 78 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. A small amount of excess theta. 
+2. Occasional bursts of posterior predominant similar irregular delta. 
+CLINICAL CORRELATION: There are no epileptiform features noted. The findings described above may be associated with this patient's previous severe head trauma. Of note, no epileptiform features were observed. 

@@ -1,0 +1,10 @@
+MEDICATIONS: Ativan 6 mg, Versed 2 mg, Dilantin and Depakote. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was attempted. 
+DESCRIPTION OF THE RECORD: The patient is drowsy throughout much of the record. In the initial portions of the record, he is much drowsier than in the later portions.  By the close of the record, however, he demonstrates brief arousals with a 10 Hz alpha rhythm seen for very brief portions of the record.  The overall background is low voltage.  There was occasional left temporal delta activity, and there were some portions of the record, particularly in the beginning of the record, where there was a bit more beta frequency activity seen from the left occipital region.  There are rare left temporal sharp waves.  Stimulation of the patient produces bursts of rhythmic, frontally predominant delta.  
+Photic stimulation elicits an arousal with higher amplitude delta and theta, with a driving response seen at 9Hz.  Towards the close of the record, it is more difficult to arouse the patient, but he continues to demonstrate fluctuations between wakefulness and sleep.  
+HR:  60 BPM.
+	IMPRESSION: Technically challenging but abnormal EEG due to:
+Low voltage background.
+Occasionally sharply contoured delta from the left temporal region with beta activity seen particularly in the beginning of the record from the left occipital region. 
+Rare left temporal sharp waves. 
+CLINICAL CORRELATION: Consideration for a partial or localization mechanism for this patient’s epilepsy is appropriate.  Given the challenges described above, a follow-up study when he is a bit more alert may be helpful.  

@@ -1,0 +1,8 @@
+MEDICATIONS: Antibiotics.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated. 
+DESCRIPTION OF THE RECORD: The patient is somnolent throughout much of the record.  At this time, the EEG is markedly slow with a mixture of delta and smaller amounts of theta.  This poorly formed, periodic complex is seen in the record with a somewhat unusual field of spread picked up in the left frontal and right posterior quadrant.  Stimulation of the patient clearly produces an alerting response with an increase in theta.  In addition, there is also spontaneous arousals with an increase in theta.  Because of the movement artifact, it is difficult to determine if this periodic delta disappears.  It appears to attenuate to some extent with stimulation. 
+HR:  72 BPM, paced rhythm.
+	IMPRESSION: Abnormal EEG due to:
+Marked background slowing particularly when the patient is not stimulated. 
+Poorly formed bilateral periodic complexes with an unusual field of spread without clinical correlate. 
+CLINICAL CORRELATION: This tracing supports a severe disturbance of cerebral function.  In the context of the patient’s age, these changes may be magnified.  No seizures were recorded and there were no prominent epileptiform features.  

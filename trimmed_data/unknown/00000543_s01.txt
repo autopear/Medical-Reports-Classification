@@ -1,0 +1,22 @@
+MEDICATIONS: Dilantin, Ativan 
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 
+system of electrode placement with 1 channel EKG. The patient is intubated and 
+sedated. 
+DESCRIPTION OF THE RECORD: Background EEG is markedly abnormal. The 
+overall background is of mixed theta, beta and smaller amounts of delta. In addition, 
+there are nearly continuous left frontal sharp and slow wave complexes. There is also 
+some disruption of faster frequency activity in the same region and an amplitude 
+accentuation. Simulation of the patient does not significantly activate the record. The 
+amplitude accentuation suggests an underlying breech rhythm. There is however, no 
+craniotomy. There is little in the way of reactivity to external stimuli. There is variability in 
+the record with some sections of the record richer in delta activity than others. The 
+laboratory contacted the clinical team regarding the presence of nearly continuous left 
+temporal sharp waves with as many as 7 left temporal sharp waves in a 1 0 second 
+period. 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Background slowing. 
+2. Nearly continuous left frontal sharp waves. 
+CLINICAL CORRELATION: This EEG supports a structural abnormality in the left 
+frontal region as well as a markedly irritated focus. No clinical seizures were observed in 
+this 20 minute record. 

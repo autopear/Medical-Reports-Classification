@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Lamotrigine, Prozac, Ativan, Fluoxetine, Loratadine, Bactrim, Azithromycin, Metoprolol, Clindamycin, Thiamine, Folic Acid, Oxycodone, Lovenox, Seoquel 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is remarkable for a markedly slow and somewhat disorganized pattern with 9 hertz alpha rhythm, but excess theta. Photic stimulation elicits scant driving. Features of drowsiness including increase in beta frequency activity. 
+HR: 80 bpm.
+ 
+IMPRESSION: Abnormal EEG due to: 
+1. Mild excess theta. 
+2. Mild background disorganization. 
+CLINICAL CORRELATION: No epileptiform features are observed. The background disorganization and theta may be related to this patient's medication, CNS pathology or postictal state. There is no epileptiform abnormalities. 

@@ -1,0 +1,10 @@
+MEDICATIONS:  Lorazepam, Lovenox.
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9 to 10 Hz, which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures including photic stimulation and hyperventilation produce no abnormal discharges, although there is very nice photic driving.  Sleep is characterized by stage I. 
+ABNORMAL DISCHARGES:   Focal slow waves seen at F7/T3, rarely.  One of them had a slightly sharply contoured appearance but not clearly epileptiform. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Infrequent left anterior temporal slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction, which is nonspecific with regard to etiology.  No seizures or epileptiform discharges were seen.  Please note that a normal EEG does not exclude the diagnosis of epilepsy.  If this remains a concern, further recording with deeper stages of sleep and longer recording may aid in confirming the diagnosis.

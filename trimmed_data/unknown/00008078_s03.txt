@@ -1,0 +1,19 @@
+ 
+MEDICATIONS: Dilantin, ASA, Atenolol, Navasc  
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. Photic simulation was 
+performed. This was an awake and asleep record.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG 
+demonstrates a 10 Hz alpha rhythm. There is a small amount of background theta and 
+a small amount of shifting theta. Wicket is observed in drowsiness, particularly around 
+the same time periods as the shifting arrhythmic delta activity. There is also some 5 Hz, 
+flat top shape characteristic movement in temporal state of drowsiness noted. Photic 
+stimulation elicits scant bilateral driving.  
+HR: 66bpm  
+IMPRESSION: Abnormal EEG due to: 
+1. Shifting arrhythmic delta activity.  
+CLINICAL CORRELATION: In comparison to previous studies, the background is 
+better organized and there is less in the way of arrhythmic delta activity. In this 
+individual with multiple strokes, the shifting arrhythmic delta activity supports a bihemisphere pathology. There is no definitive epileptiform activity in any of the EEGs 
+thus far, but if seizures are an ongoing issue, a repeat study capturing stage 2 sleep would be advised given the presence of normal variant, such as wicket. 
+ 

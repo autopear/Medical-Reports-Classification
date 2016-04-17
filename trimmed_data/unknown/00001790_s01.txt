@@ -1,0 +1,16 @@
+MEDICATIONS: Dilantin, Keppra, Plavix, Gabapentin, Lipitor. 
+Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. The patient is responsive. 
+DESCRIPTION OF THE RECORD: The background EEG includes a diffusely slow 
+pattern with a mixture of rhythmic theta and delta. There are some sections with in the 
+morning slow, arrhythmic delta activity. Prominent shifting and slowing is noted. There is 
+an amplitude asymmetry with at times higher amplitude activity in the left compared to 
+the right. There is a fair amount of variability
+HR: 66 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Shifting slowing. 
+3. An occasional amplitude asymmetry with higher amplitude activity
+CLINICAL. CORRELATION: Despite the history of a new lateral, subdural hematoma, 
+this EEG supports a bihemispheric process. The amplitude asymmetry, however, can 
+correlate with the subdural hematoma. 

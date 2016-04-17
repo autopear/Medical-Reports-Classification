@@ -1,0 +1,18 @@
+MEDICATIONS: Ativan, Keppra, and Fosphenytoin.  The patient is now on intrathecal amphotericin for CNS fungal infection.   
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. By report, there are no additional seizures.  
+DESCRIPTION OF THE RECORD: On the first day of this long-term EEG monitoring (11/06-07/06), no seizures were seen.  A burst suppression pattern is identified on the record that is asynchronous.  Bursts can be seen from either hemisphere and are of higher amplitude on the right.  The epochs of suppression are about five seconds long.  Over the course of the record, the burst suppression pattern becomes more continuous, and there are some right frontotemporal sharp waves.  Stimulation of the patient did not activate the record.  
+HR:  72 BPM.
+Long-Term EEG Monitoring, November 7, 2006 to November 8, 2005
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. No seizures were identified in this section of the record.  
+DESCRIPTION OF THE RECORD: Frontotemporal sharps are seen independently bilaterally.  During this portion of the record, the background is mostly slow with some portions demonstrating delta and others demonstrating theta.  Epileptiform discharges are seen in the areas where she has theta.  There is evidence of eye artifact and movement artifact as the record continues.  Clinically, the patient appears comatose.  
+HR: 72 BPM. 
+Long-Term EEG Monitoring, November 8, 2006 to November 9, 2005
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. No seizures were identified in this section of the record.  
+MEDICATIONS: Ativan, Keppra, Phenytoin.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a dynamic pattern.  There is evidence of state changes with some portions of the record demonstrating more vigorous slowing, others demonstrating more rhythmic delta, and others demonstrating more theta.  Stimulation of the patient such as suctioning actually produces delta.  There are occasional sharp waves noted in the background including left posteriotemporal and independent in the right anteriotemporal region.  There are no clinical notes regarding the use of sedative hypnotic medications, but overall, there seems to be more epileptiform activity on the right including right posteriotemporal in the early portions of the record. In the later portions of the record, there seems to be more generalized delta, as well as more FIRDA.  
+HR: 78 BPM.
+IMPRESSION: This 48-hour ambulatory EEG was remarkable for:
+	Prominent epileptiform activity, particularly on the right in the beginning of the record, waning towards the end in the later portions of the 8th and into the 9th.
+	Independent spikes from the left.
+	A dynamic pattern.  The first 24 hours demonstrated a delta alternating with a theta pattern, but the second 24 hours demonstrated more delta towards the close of the record. 
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function affecting both hemispheres and may include components that are toxic or metabolic in nature.  No seizures were recorded although there is epileptiform activity on the from each hemisphere. 

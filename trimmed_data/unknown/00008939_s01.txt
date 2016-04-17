@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Lipitor, and Seroquel.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. The patient is described as very anxious.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a medium amplitude pattern with a low voltage, 11 Hz posterior dominant rhythm and a generous amount of low voltage, frontocentral beta activity.  Features of drowsiness include an increase in background theta.  Hyperventilation produces frontal theta, which is sometimes slightly asymmetric.  Photic stimulation is unsuccessful due to muscle and eye blink artifact.
+HR:  90 BPM.
+	IMPRESSION: Very mildly abnormal EEG due to:
+	1.	A slightly asymmetric hyperventilation response.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The hyperventilation response is of unclear clinical significance.   

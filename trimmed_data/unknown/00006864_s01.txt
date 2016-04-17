@@ -1,0 +1,11 @@
+	MEDICATIONS: 	Lamictal, Ativan, Dilantin, ciprofloxacin, Decadron.
+	INTRODUCTION: 	Digital video EEG is performed in lab using standard 10 and 20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were performed.
+	DESCRIPTION OF THE RECORD: 	Background EEG in wakefulness is abnormal with excess background theta and a posterior dominant rhythm typically in the range of 6-7 hertz, 50-70 microvolts. Intermittent bursts of rhythmic frontal delta or generalized mixed 3-5 hertz activity are observed. Hyperventilation performed early on in the record clearly accentuating rhythmic high amplitude mixed theta and delta. Vertex waves are observed in stage 1 sleep. Spindles are identified in stage 2 sleep. Multiple arousals in and out of stage 2 sleep are observed.
+Photic stimulation is performed while the patient transitions to
+and from stage 2 sleep. Photic stimulation does not elicit a driving response.
+HR: 56 bpm
+	IMPRESSION: 	Abnormal EEG due to:
+1. Generalized background slowing.
+2. What is likely hypersomnolence as well as possibly an underlying disruption of sleep with epochs transitioning between stage 2 sleep and wakefulness.
+	CLINICAL CORRELATION: 	Careful clinical consideration is important to determine if this patient's medications or clinical
+events could produce this degree of background slowing. No epileptiform features are observed.

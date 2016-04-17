@@ -1,0 +1,10 @@
+MEDICATIONS:  Magnesium, potassium.
+REASON FOR STUDY:  Status post short code.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 to 10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is stimulated during the record, which appears to have increased muscle artifact and reactivity to the EEG. The patient was only recorded in wakefulness. No activating procedures were performed. 
+ABNORMAL DISCHARGES:  Focal slow waves seen intermittently at F7/T3 at 2 to 4 Hz with an amplitude of 20 to 50 microvolts. 
+SEIZURES  None.
+IMPRESSION:  Abnormal EEG due to: 
+Intermittent left anterior slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild focal cerebral dysfunction in the left anterior temporal region which is nonspecific in regard to etiology.  No seizures or epileptiform discharges were seen.  There is natural activity to this EEG.

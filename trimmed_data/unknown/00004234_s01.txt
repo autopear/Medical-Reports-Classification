@@ -1,0 +1,9 @@
+MEDICATIONS: Versad, Dilantin, Agitation, Patoprazole, Insulin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. The patient is intubated and poorly responsive. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous pattern with lower voltage delta, intermittent bursts of lower voltage beta are noted in the frontocentral regions and have a somewhat larger field on the right compared to the left. The record is intermittently subtly discontinuous. There is significant variability in the record with some sections demonstrating a bit more beta in 1 hemisphere than the other, but overall set time is a little less in the left temporal region. Stimulation of the patient clearly produces an arousal with an increase in eye movement and alpha and theta frequency activity. 
+HR: 78 bpm. 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Shifting slowing. 
+3. Shifting beta. 
+CLINICAL CORRELATION: There was a single sharp wave noted in the frontal region which is of unclear clinical significance. This was noted at T1. If epilepsy is an important consideration, a repeat tracing as the patient recovers from the ICU is suggested. 

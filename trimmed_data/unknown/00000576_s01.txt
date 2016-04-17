@@ -1,0 +1,15 @@
+MEDICATIONS: Many, Oxycodone, Piperacillin, Dilantin, Ativan 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic 
+stimulation are performed. The patient is relatively confused, but awake. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG 
+demonstrates background slowing with a 7.5 hertz alpha rhythm and a modest amount 
+of theta. Drowsiness is characterized by occasional bursts of delta. In wakefulness, 
+lambda is noted. 
+HR: 84 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+CLINICAL CORRELATION: There are no focal nor epileptiform features identified. The 
+background slowing is a nonspecific findings and made be due to this patient's hepatic 
+encephalopathy, postictal state or other medical causes. 
+ 

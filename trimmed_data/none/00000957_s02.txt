@@ -1,0 +1,8 @@
+MEDICATIONS:  Keppra, Protonix, Metoprolol, Moxifloxacin.
+REASON FOR STUDY:  Pre-operative.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures, including photic stimulation, was performed.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  There is a normal amount of frontal and central beta.  Activating procedures, including photic stimulation, produce no abnormal discharges.  The patient is recorded in wakefulness and drowsiness. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  No seizure or epileptiform discharges were seen.

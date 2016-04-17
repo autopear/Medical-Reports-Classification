@@ -1,0 +1,10 @@
+MEDICATIONS:  None
+REASON FOR STUDY:  Staring spells.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and sleep, stage I and stage II.  Activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9 to 10 Hz, which is reactive to eye opening.  There is a normal amount of frontal and right central beta.  The patient is recorded during wakefulness and stage I and stage II.  Activating procedures produce no abnormal discharges. 
+ABNORMAL DISCHARGES:  Focal slowing seen at 01 intermittently at a frequency of 2 to 4 Hz and amplitude of 20 to 40 microvolts. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Mild intermittent focal slowing in the left occipital region.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left occipital region, which is nonspecific in regard to etiology.  No seizures or epileptiform discharges were clearly seen.

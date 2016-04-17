@@ -1,0 +1,10 @@
+MEDICATIONS:  Pantoprazole, Lidocaine.
+REASON FOR STUDY:  Anoxic brain injury.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with anterior temporal and EKG electrodes.  No activating procedures were performed.  The patient was comatose during the exam.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow record in the frequencies of 5-7 Hz seen diffusely.  No posterior dominant rhythm and no frontal central beta is seen.  No activating procedures are performed; however, during the EEG, noxious stimuli is applied which causes a muscle artifact and movement of the eyes but no clear improvement in the frequencies.
+ABNORMAL DISCHARGES:  Generalized slow waves of 5-7 Hz and amplitude of 20-60 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:  
+Mild to moderate diffuse slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild to moderate diffuse cerebral dysfunction, which is nonspecific regards to etiology, in this case may be likely due to the post anoxic injury.  No seizures or epileptiform discharges were seen.

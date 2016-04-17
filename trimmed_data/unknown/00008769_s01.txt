@@ -1,0 +1,6 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was not performed but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz, 60 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow-rolling eye movements and anterior spread of the alpha rhythm.  Photic stimulation does not activate the record. 
+HR:    78 bpm
+IMPRESSION:  Normal EEG in wakefulness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy.  If further information is needed, a follow-up study capturing deeper stages of sleep is suggested.

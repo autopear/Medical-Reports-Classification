@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, morphine, and Ativan.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record with photic stimulation. 
+DESCRIPTION OF THE RECORD: Much of the record is drowsy with stage I sleep with vertex waves and prominent beta spindles, some of which are prominent in the posterior regions.  Brief arousals produce an 8 to 9 Hz posterior dominant rhythm.  Photic stimulation is performed early on in the record, eliciting a photoelectric artifact and then bilateral driving.  In the transition to and from sleep, there is some frontal delta, right greater than left.  
+HR:  __ BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Generalized background slowing and poor organization. 
+	Frontal delta, right greater than left.
+	Excess beta.
+CLINICAL CORRELATION: The beta may be due to medications and the frontal delta may be correlated with imaging.  The generalized background slowing supports a diffuse disturbance of cerebral function.  No epileptiform features were identified.  

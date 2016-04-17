@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a prominent interhemispheric asymmetry.  The activity is significantly higher on the right compared to the left.  The alpha rhythm is somewhat slow bilaterally, approximately 7-8 Hz.  There is excess theta.  There are some bursts of sharply contoured slowing and a handful of simple sharp waves in the left midtemporal region.  Features of drowsiness include anterior spread of the alpha rhythm and an increase in theta.  Photic stimulation elicits bilateral driving.
+IMPRESSION:  Abnormal EEG due to:
+Prominent amplitude asymmetry with higher amplitude activity on the right than the left. 
+A second asymmetry which includes a little bit more slowing and attenuation of activity on the left.
+A handful of simple sharp waves.
+CLINICAL CORRELATION:  These findings may be correlated with history and imaging.  A subdural hematoma and/or trauma with craniotomy can produce the asymmetry described above.

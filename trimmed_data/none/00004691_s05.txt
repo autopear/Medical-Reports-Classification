@@ -1,0 +1,9 @@
+MEDICATIONS: Lovenox, Dilantin, Levothyroxine, Actos, Zetia, Asa, Tylenol, Niacin, Metformin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a well-defined 9 Hz alpha rhythm. There is shifting arrhythmic delta activity, sometimes a bit more so on the left than the right. There is a rare left temporal sharp wave. Lambda is observed. Drowsiness is characterized by slow rolling eye movements. As the patient becomes drowsy, left posterior temporal slowing is more prominent. 
+HR: 84 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Shifting slowing which today is a bit more prominent on the left. 
+2. Single left temporal sharp wave. 
+CLINICAL CORRELATION: No seizures were recorded. Prior EEGs demonstrated right focal slowing and left temporal sharp waves. 
+ 

@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Thiamine, others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is awake.  There is a 9 Hz, 40 V posterior dominant rhythm identified on the left.  This is lower amplitude and somewhat disrupted on the right.  There is arrhythmic delta activity identified in the temporal regions bilaterally, but more so on the right compared to the left and there is also disruption of faster frequency activity on the right. Drowsiness is characterized by slow rolling eye movements. In drowsiness, the focal features are somewhat prominent with an increase in rhythmic theta and delta.  Deeper stages of sleep are not achieved.  Photic stimulation elicits brief driving. 
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Focal slowing from the right temporal region, accentuated in drowsiness.
+Occasional bitemporal slowing.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The focal features on the right are in the region of this patient’s intracerebral hemorrhage. 

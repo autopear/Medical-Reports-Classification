@@ -1,0 +1,10 @@
+	
+MEDICATIONS:  Dilantin, Metformin, Seroquel, Diovan, Advair, Atravert, Naproxin, ASA INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20
+system of electrode placement with 1 channel of EKG.  Hyperventilation was not
+performed, but photic stimulation was completed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  The background is somewhat slow and disorganized. There is a high amplitude alpha rhythm, higher amplitude on the right and slightly disrupted on the left ranging from 7-9 hertz. There is excess background theta, some shifting slowing and some shifting asymmetry even with beta frequency activity with the suggestion of a bit more beta on the right compared to the left. Photic stimulation does produce a scant driving response.
+	HR: 	78 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Background slowing and disorganization.
+	2. 	Shifting slowing.
+CLINICAL CORRELATION:  There were no epileptiform features noted. There were no hallmarks of hepatic encephalopathy. The findings described above are nonspecific, but can be seen in a toxic or metabolic encephalopathy as well as a disturbance of cerebral function due to many different causes.

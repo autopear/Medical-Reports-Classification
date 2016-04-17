@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Ativan, Theophylline, Apogen, antibiotics, and anti-TB medicine.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed. The patient was unresponsive during the EEG recording and was described as postictal. 
+DESCRIPTION OF THE RECORD: The background EEG is low voltage with a mixed frequency background of theta and delta activity.  Excessive muscle artifact was intermixed.  Stimulation of the patient -----Was there variability….
+HR:  96 BPM.
+IMPRESSION: Abnormal EEG due to:
+Low voltage tracing with a mixed frequency background of theta and delta.
+CLINICAL CORRELATION: The low voltage diffusely slow EEG can be seen postictal phase or diffuse disorder cerebral function including gray and white matter.  This is a non-specific pattern.  However, no focal or epileptiform activity was seen in this tracing.  In view of the muscle artifact, if epilepsy is a concern, a repeat EEG would be helpful.

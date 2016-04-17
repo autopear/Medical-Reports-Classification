@@ -1,0 +1,8 @@
+MEDICATION: Dilantin, Coumadin, and Ativan. ACTIVATION: Hyperventilation  and Photic Stimulation.
+	INTRODUCTION: Digital Video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.	·
+DESCRIPTION OF  THE RECORD: In wakefulness, the background EEG is markedly disorganized.   There is a 7 Hz posterior dominant rhythm but there is intermittent, rhythmic occipitally predominant  delta,  sometimes  more  rhythmic  on the  right  than  the left. Hyperventilation is performed early on the record producing an occipitally predominant high amplitude rhythmic delta followed by frontally predominant high amplitude delta.  Features of drowsiness include an increase in background  slowing as well as some arrhythmic delta from the occipital region.  High amplitude spikes, vertex waves and spindles are noted in stage II sleep.  In some portions of the record, the delta in the occipital  regions  is more prominent  than the left. Photic stimulation  is performed  while  the patient is in stage II sleep and does not activate the record.
+HR:    102BPM
+IMPRESSION: Abnormal EEG due to:
+1.   Occipitally predominant rhythmic delta
+2.   Disorganized  background
+CLINICAL CORRELATION: These findings may be correlated with imaging.   Consideration for a process that involves the right occipital region more than the left may be appropriate.

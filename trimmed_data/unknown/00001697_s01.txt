@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, 30 uV posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  In relaxed wakefulness and in the transition to drowsiness, there is 5 Hz characteristic rhythmic temporal theta of drowsiness seen more prominently from the left than the right. Hyperventilation is performed early on in the record, however, and during HV some of the activity on the left seems to slow and become more irregular. In addition, there are a handful of bursts of sharply contoured delta from the left with a suspicious underlying sharp wave noted in hyperventilation.  As the patient becomes drowsy, following hyperventilation, there is clear focal slowing from the left temporal region with some irregular theta and underlying sharp waves.  Features of stage II sleep include vertex waves.  POSTS, vertex waves, and spindles are noted in stage II sleep.   Photic stimulation elicits brief bilateral driving. 
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Intermittent, irregular slowing from the left temporal region.
+	Associated sharp waves. 
+CLINICAL CORRELATION: This EEG raises the possibility of a localization-related mechanism for epilepsy.  Correlation with imaging and clinical history may be valuable.  

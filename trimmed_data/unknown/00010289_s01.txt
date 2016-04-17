@@ -1,0 +1,19 @@
+MEDICATIONS: Ativan, Fentanyl, Vecuronium, Dilantin 
+Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. The patient is intubated and 
+comatose. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a very slow, 
+featureless record with primarily delta frequency activity. There is a significant amount 
+of EKG artifact. There is a slight asymmetry in the delta. There is a bit more higher 
+amplitude rhythmic delta activity in the left frontal region compared to the right. There is 
+some shifting asymmetries. The delta on the right is a bit slower. There is also an 
+amplitude asymmetry in this bedside recording. The activity is somewhat lower on the 
+right compared to the left. Stimulation of the patient does not activate the record. 
+HR: 116 bpm and irregular 
+IMPRESSION: Abnormal EEG due to: 
+1. Marked background slowing. 
+2. An asymmetry with somewhat higher amplitude delta activity on the left compared 
+to the right. 
+CLINICAL CORRELATION This EEG supports a severe, bihemispheric disturbance of 
+cerebral function. Because of the asymmetry on the left frontal central region, 
+correlation imaging is suggested. 

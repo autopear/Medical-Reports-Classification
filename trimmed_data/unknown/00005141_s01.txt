@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9.5 Hz, 50 uV posterior dominant rhythm.  There are right centrotemporal sharp waves in wakefulness and sleep.  Stage II sleep was achieved.  Hyperventilation increased the background theta.  Photic stimulation does not elicit a driving response.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Right centrotemporal sharp waves.  
+CLINICAL CORRELATION: These epileptiform features suggest a localization related epilepsy.  

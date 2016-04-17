@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin
+ 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness there is an 8.7 Hertz alpha rhythm with a small amount of asymmetry in the occipital region seen on rare occasions. Features of drowsiness include rhythmic background slowing and slowing of the alpha rhythm with posting in stage 1 sleep. Hyperventilation produces a small degree of background slowing. Photic stimulation does not significantly activate the record. 
+HR: 78 bpm 
+IMPRESSION: EEG within normal limits. 
+CLINICAL CORRELATION: There was no epileptiform activity and the subtle features that were remarkable here were primarily subtle asymmetries. Of note, the previous EEGs in 01/2010 and 06/2010 have both been without epileptiform activity although the study this summer was somewhat abnormal due to background slowing and disorganization. 

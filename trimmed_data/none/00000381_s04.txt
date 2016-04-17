@@ -1,0 +1,15 @@
+MEDICATIONS:  Keppra, Insulin, Heparin, Metoprolol, Zocor, Colace, Vancomycin.
+REASON FOR EEG:  Seizures.
+INTRODUCTION:  Continuous digital video EEG was performed at bedside using standard 10-20 electrode placement system with 1 channel of EKG.  The patient was unresponsive during the EEG.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The records opens to a diffusely slow background with no posterior dominant rhythm, normal frontocentral beta or normal sleep architecture.  No activating procedures were performed.
+ABNORMAL DISCHARGES:  
+There is generalized slow waves at 2-4 Hz with an amplitude of 20-40 mV and an asymmetry between the right and left hemisphere.  There are faster frequencies noted over the left hemisphere, at best 5-7 Hz, however, this is not seen over the right hemisphere.  
+There are focal sharp waves at F3 / C3. During the recording they appear more prominent in wakefulness.  After the first 2 hours they become more blunted and less sharp, later they almost disappear leaving focal slow waves.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:
+Generalized slow waves. 
+Focal sharp waves in the left frontal region, later becoming blunted, but continues to become prominent during wakefulness.
+Focal slower waves in the left centro-frontal region. 
+Lack of faster frequencies over the right hemisphere.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cortical dysfunction over the right hemisphere and addition of a focal structural dysfunction and irritability in over the left hemisphere maximally in the anterior temporal region which improves.  There is also evidence of generalized cerebral dysfunction, which is nonspecific in regards to etiology, but in this patient may be due at least in part to medications effect.  No seizures or epileptiform discharges were seen.

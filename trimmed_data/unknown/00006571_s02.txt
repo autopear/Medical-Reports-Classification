@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Phenobarbital, antibiotics, others.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and asleep record with photic stimulation.  The patient is noted to be lethargic.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8 Hz posterior dominant rhythm with excessive background theta activity.  Drowsiness is characterized by an increase in background slowing.  Photic stimulation does not activate the record.   
+HR:  64 to 66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing with poor organization.
+CLINICAL CORRELATION: In comparison to this patient’s previous EEGs, the background has markedly improved.  In this individual with lifelong epilepsy, again, no epileptiform features were identified. 

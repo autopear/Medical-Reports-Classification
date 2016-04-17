@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized for an adult of this age with a symmetric, reactive 10.5 Hz alpha rhythm and a small amount of low voltage, frontocentral beta activity.  Features of drowsiness include vertex waves, K complexes, spindles, and POSTS.  Hyperventilation is performed with good effort, producing an increase in the amplitude of the background.  
+Towards the close of the record, as the patient is in stage II sleep and photic stimulation begins, there is some artifact but there are also some pairs of suspicious underlying left centrotemporal sharp waves of low amplitude and discrete, but appear to be interrupting the background.  The patient otherwise remains in stage II sleep during photic. Low voltage left temporal sharp waves are seen only in this section of the record, and almost seem to have an electropositivity between T3 and F7, but do appear to have otherwise a clear field in the left centrotemporal and posteriotemporal regions.  
+HR:  70 BPM.
+	IMPRESSION: Unusual but abnormal EEG due to:
+	1.	Suspicious left temporal sharp waves. 
+CLINICAL CORRELATION: Additional EEG recording with special electrodes or special techniques may be helpful to more clearly evaluate the underlying dipole that produces this activity and to be more certain that it is not artifactual in nature.  Correlation with imaging may also be valuable for this adult with new onset seizures.  

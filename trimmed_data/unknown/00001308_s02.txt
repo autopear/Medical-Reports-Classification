@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Lescol, Heparin, and many others,
+INTRODUCTION: Digital video EEG is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. For reasons that are not clear, the video starts at 1600 hours and the EEG starts at 15:04.  There are no push buttons identifiable.  
+RANDOM WAKEFULNESS AND SLEEP: In wakefulness, the background EEG is well organized with a symmetric, reactive, 10 Hz alpha rhythm.  Generous stage II sleep with vertex waves, K complexes, and spindles are identified.   
+The computer does not identify any seizures. 
+In the sharply contoured background, no epileptiform activity is identified.  
+HR:  70 BPM.
+	IMPRESSION: Normal 24-hour video EEG monitoring despite some movement artifact.
+CLINICAL CORRELATION: No focal or epileptiform features were identified. No diary was provided to confirm that there were no events.  

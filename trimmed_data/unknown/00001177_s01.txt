@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin? 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is low voltage, well organized with a 10 Hz, 20 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Brief drowsiness is characterized by an increase in background beta activity, as well as attenuation of the alpha rhythm. 
+At 14:10:49, the patient experiences symptoms during the EEG.  She twitches her shoulders and jerks as if she is having hiccups.  The EEG is characterized by some movement artifact, but it demonstrates an otherwise normal awake pattern as the twitching continues.  At 14:11:17, the tech tries to get the patient to stop the jerking by asking her to take a deep breath.  This is not successful and the patient continues to have the intermittent jerking until 14:12:47.  
+Hyperventilation is performed with good effort, and does not activate the record.  Photic stimulation elicits brief bilateral driving.  
+HR:  72 BPM.
+	IMPRESSION: Normal EEG in wakefulness through brief drowsiness.
+CLINICAL CORRELATION: If the events recorded during this EEG are typical of this patient’s spells, the behaviors are not associated with an EEG signature and consideration for an alternative diagnosis would be appropriate. 

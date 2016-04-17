@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Topamax, Dilaudid, levetiracetam.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that can best seen over the right hemisphere that reaches 9 Hz which appears to be reactive to eye opening.  There is some normal frontal central beta seen.   
+Activating procedures produced no abnormal discharges.  The patient was recorded in wakefulness and drowsiness.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen occasionally at F7/T3 while awake.  
+Focal slowing seen continuously over F7/T3 at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts.  
+Focal slow waves seen rarely at T4 at 2-4 Hz at an amplitude of 20-60 microvolts.   
+Heart rate:  90.
+IMPRESSION:  Abnormal EEG due to left anterior temporal sharp waves and focal slowing as well as independent right mid temporal sharp waves and focal slowing.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization related epilepsy likely arising from the left anterior temporal region.  In addition, there is evidence of focal structural cerebral dysfunction in the left anterior temporal region consistent with a known stroke.  Lastly, there is evidence of nonspecific cerebral dysfunction over the right mid temporal region.  No seizures were seen.

@@ -1,0 +1,8 @@
+MEDICATIONS:  Gentamicin, Ativan, Dilantin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  This patient appears to be quite drowsy and much of the EEG includes stage II sleep wake with vertex waves, K-complexes, spindles, and POSTS. In maximal wakefulness the EEG is well organized with an 11 Hz, 40 mV alpha rhythm. There are some electrode artifacts.
+HR:    96 bpm 
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  There were no epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy or seizures.  If additional information is needed, a follow up study may be of use.
+DER/8/10/2012 2:09 PM
+DER/8/13/2012 9:44 AM (Edit)

@@ -1,0 +1,6 @@
+MEDICATIONS:  Dilantin, Keppra
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.  Previous EEGs were not available at the time of this dictation.
+DESCRIPTION OF THE RECORD:  The patient is somewhat sedated.  Generous beta activity is noted.  Vertex waves and posts are observed in stage II sleep.  Photic stimulation serves to alert the patient and produces a scant driving response.  
+HR:    96 bpm
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were observed.  This was used as a baseline for the patient's long-term video EEG monitoring.

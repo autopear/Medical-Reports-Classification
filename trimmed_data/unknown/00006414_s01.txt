@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Tegretol, Nifedipine, and Clonidine. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness and drowsiness, the background EEG is somewhat slow and disorganized with a great deal of muscle and movement artifact even when the patient is asleep.  There is a discernable posterior dominant rhythm, but the frequency is slow at approximately 7 Hz.  There is excess background theta.  As the patient becomes drowsy, breach and focal slowing are more prominent from the right centrotemporal region with accentuation of beta frequency activity as the patient becomes drowsier.  In addition, as the patient reaches stage I sleep, there is a high amplitude left centrotemporal sharp wave.  Hyperventilation is performed early on in the record, and does seem to accentuate the focal slowing from the right frontotemporal region.  Photic stimulation is essentially obscured by muscle and movement artifact.   
+HR:  100 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Excess background slowing.
+	Arrhythmic delta from the right frontotemporal region with an associated brief rhythm. 
+	A handful of left anteriotemporal sharp waves. 
+CLINICAL CORRELATION: These findings may be correlated with imaging.  The presence of the focal slowing on one side with the sharp waves on the other may be due to the pathway of cerebral injury.  

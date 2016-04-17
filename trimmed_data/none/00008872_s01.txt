@@ -1,0 +1,9 @@
+MEDICATIONS: Valproate, Lamotrigine, Dopamine, and sedative hypnotics. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The child is intubated and has a previous craniotomy scar. 
+DESCRIPTION OF THE RECORD: The background EEG is abnormal and is at times discontinuous.  The overall pattern is one of delta with occasional bursts of frontally predominant fast activity including a mixture of beta, as well as sharply contoured theta frequency activity.  The record is intermittently discontinuous.  There is an amplitude asymmetry with higher amplitude fast activity on the right.  There are occasional bursts of sharply contoured delta activity from the right temporal region.  Stimulation of the patient is associated with less in the way of discontinuity, but not a significant alerting response.  
+HR:  104 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing with a discontinuous pattern.
+Intermittent bursts of fast activity, higher amplitude on the right compared to the left.
+Occasional sharply contoured delta from the right. 
+CLINICAL CORRELATION: This tracing supports a severe, diffuse disorder of cerebral function effecting both hemispheres, perhaps the right more than the left.  Because of the intermittent discontinuity and the history of sedation, the possibility of either administration of anesthetic doses of sedatives, hypnotic medications, or a severe disorder of cerebral function could be considered. No seizures were recorded. 

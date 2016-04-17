@@ -1,0 +1,14 @@
+EEG  REPORT
+	MEDICATIONS: 	Dilantin,  Clonidine, Keppra, Aspirin,  Metoprolol
+	INTRODUCTION: 	Digital  video EEG  is performed in  lab using standard
+10-20 system of electrode  placement with  1 channel  of  EKG.   Photic stimulation    is performed.
+	DESCRIPTION  OF  THE RECORD:	The  overall background EEG  is  abnormal with  a  8  Hz to 9  Hz  posterior dominant  rhythm  on the left.  There are occasional burst  of FIRDA. There  is an interhemispheric  asymmetry  with disruption of faster  frequency activity from  the right hemisphere and more  arrhythmic delta  on the right,  in comparison to the left.  There are also  a handful of suspicions T6  sharp waves. In addition,  there are    a hand full of suspicious triphasic waves observed in  the bi frontal regions.  Features of drowsiness including  increase in background theta.  Photic stimulation elicits scant  driving  from the left. 
+HR:   78  bpm
+	IMPRESSION:	Abnormal  EEG due   to:
+1.  Generalized  background slowing.
+	2.	FIRDA.
+	3. 	Superimposed focal  sign  from the right hemisphere with sharp  waves, particularly the right  posterior temple region.
+CLINICAL  CORRELATION:
+increase in background generalized
+	The  triphasic waves,	the  FIROA  and  the slowing raise  concerns  about  more
+as a metabolic process.

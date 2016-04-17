@@ -1,0 +1,12 @@
+		MEDICATIONS: 	Morphine, Vecuronium, Propofol, Dilantin, others. INTRODUCTION: 		Digital video EEG is performed at the bedside using
+	standard 10/20 system electrode placement with 1 channel of EKG. 	The
+patient is sitting upright in a hard collar and has an EKG during the
+EEG.
+			DESCRIPTION OF THE RECORD: 	Background EEG includes vigorous pattern with mixed frequency theta and beta frequency pattern. 	There is an intrahemispheric asymmetry with relative attenuation of the beta frequency activity on the left in comparison to the right. 	The patient is stimulated throughout. When unstimulated, the EEG is slightly discontinuous. The overall record is sharply contoured and there is an EKG artifact in the background.
+	IMPRESSION: 	Abnormal EEG due to:
+	1. 	Replacement of normal background with a mixed frequency pattern.
+	2. 	Generous beta activity, right greater than left.
+	3. 	Intermittent discontinuity.
+Clinical correlation: No clinical seizures are identified. There is generous beta, compatible with medications but this is not otherwise a particularly irritative pattern.
+Additional EEG recording may be necessary to control this patient's
+ICP as discussed by the neurosurgeon on this team.

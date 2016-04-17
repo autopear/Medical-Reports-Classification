@@ -1,0 +1,14 @@
+MEDICATIONS:  Haldol, Ativan, Dilantin, Glipizide, Keppra, Sulfamethoxazole, Tramadol, Contin, Zyrtec
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is confused, has a cellulitis, but no clinical seizures are noted.  There are no pushbuttons by the clinical team for this individual.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates an abnormal pattern.  The activity from both hemispheres is slow.  The left hemisphere includes arrhythmic delta activity with periodic complexes.  Of note, over time, there periodic complexes in the left hemisphere are more broader contoured, less polyphasic.  They continue to showing waxing and waning and some frequency evolution.  They never completely stop and there is no well-defined ictal evolution for these discharges. 
+HR:    96 bpm
+IMPRESSION:  This 24 hours of video EEG monitoring is remarkable for a PLEDs-plus pattern with frequency evolution.
+INTRODUCTION:  Continuous video EEG monitored is performed in the neurological ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is noted to be confused, but no clinical seizures are observed.
+DESCRIPTION OF THE RECORD:  The overall background is quite slow.  Periodic complexes are noted out of the left hemisphere but of note, gradually over time in this 24-hour section of the record, they are starting to disappear.  They are losing their spiking morphology or their PLEDs+ morphology and they are transitioning more to a periodic delta pattern.  The patient is awake and responsive.  He is starting to follow commands. 
+HR:    66 bpm
+IMPRESSION:  This 48-hour video EEG monitoring session was remarkable for:
+Periodic complexes from the left hemisphere with a PLEDs+ pattern.
+Gradual improvement in the periodic activity.
+Focal arrhythmic delta activity from the left hemisphere.
+Slowing on the right.
+CLINICAL CORRELATION:    Despite the improvement in the epileptiform activity, the activity remains quite slow from the left hemisphere with arrhythmic delta and on the right is also remarkable for the absence of normal wave forms and a lower voltage beta pattern. 

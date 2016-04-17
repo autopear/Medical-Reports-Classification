@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Decadron, others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and in a hard collar. 
+DESCRIPTION OF THE RECORD: The patient is awake throughout portions of the record and is occasionally agitated.  The overall background is one of rhythmic delta and theta frequency activity.  There is an intrahemispheric asymmetry, which is most prominent when the patient is drowsy with drop-out of faster frequency activity in the right hemisphere particularly in the frontocentral regions in wakefulness, but most remarkable in drowsiness.  There was a single frontal sharp wave seen.  Stimulation of the patient produces an increase in faster frequency activity including beta and on rare occasions, there is a suggestion of a posterior dominant rhythm of approximately 7 Hz, 30 V.
+HR:  95 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Superimposed focal slowing from the right hemisphere characterized by an increase in delta and disruption of faster frequency activity.
+CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function as well as a structural abnormality on the right effecting both gray and white matter. 

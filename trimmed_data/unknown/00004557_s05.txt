@@ -1,0 +1,6 @@
+MEDICATIONS: Topamax, Effexor, Dilantin 
+INTRODUCTION: Continuous EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG and continuous seizure and spike detection. This was a 24 hour study. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness there is a 9 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity. Stage II sleep includes vertex waves, K-complexes, spindles and posts. 
+HR: 78 bpm 
+IMPRESSION: Normal EEG 
+CLINICAL CORRELATION: No epileptiform features were noted in this record, but the patient also had no clinical seizures. Correlation with previous studies would be important, but epileptiform activity may be elusive in some individuals. 

@@ -1,0 +1,16 @@
+MEDICATIONS: Ativan, Dilantin 
+INTRODUCTION: Digital EEG is performed at bedside using standard 10-20 system of 
+electrode placement with 1 channel of EKG. Patient ranges from being awake to sleep 
+and snoring. 
+DESCRIPTION OF THE RECORD: Background EEG demonstrates a continuous 
+pattern with diffuse beta and smaller amounts of alpha frequency activity. There is a 
+subtle asymmetry with a bit of low voltage delta activity observed in the right posterior 
+temporal and central parietal region. Stimulation of the patient produces a spontaneous 
+arousal with an increase in alpha activity, but additional awake recording was not 
+achieved. 
+HR: 104 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Replacement of normal background with beta frequency activity. 
+2. Subtle focal delta in the right posterior quadrant congruent with the patient's 
+imaging. 
+CLINICAL CORRELATION: 

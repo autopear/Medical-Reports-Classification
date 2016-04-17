@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin, metformin, Coumadin, digoxin, many others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was deferred, but photic stimulation was completed.  Technical:  Satisfactory, low voltage EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm.  Drowsiness is characterized by an increase in beta.  The patient transitions in and out of an awake and drowsy record with low voltage theta.  Occasional muscle artifact was noted.   
+Photic stimulation elicited harmonic and supraharmonic driving. 
+Heart rate irregular, 78 BPM.
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  This is the 2nd normal EEG for this patient.  Previous EEG was 12/03/2010.  Of note, the alpha rhythm is slightly slower in this record.
+__________________________

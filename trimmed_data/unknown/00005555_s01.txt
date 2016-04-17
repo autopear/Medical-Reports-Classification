@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, antibiotics and morphine. 
+INTRODUCTION: Digital video EEG is performed in the ICU at the bedside using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation was not performed. The patient is intubated. 
+DESCRIPTION OF THE RECORD: At the initiation of the EEG, the background was disorganized but continuous. The posterior dominant alpha rhythm cannot be seen, instead superimposed slow activity and low voltage in delta range is seen. Diffusely, low voltage fast beta activity can also be seen throughout the tracing. Stimulation of the patient did not produce a significant background change. No focal findings, no epileptiform discharge was seen in this tracing. 
+Heart rate was 120 BPM. 
+IMPRESSION: Abnormal EEG due to: 
+1. Disorganized background. 
+2. Background slowing with excessive slow activity in delta range. 
+3. Absence of alpha rhythm. 
+4. Diffuse beta activity. 
+CLINICAL CORRELATION: This abnormal EEG tracing indicates cerebral dysfunction involving the cortical gray matter can be seen encephalopathy due to toxic metabolic postictal phase or medication such as pharmacologic coma. No epileptiform discharges were seen in this tracing. If epilepsy is a clinical concern, a repeat EEG may be helpful. 

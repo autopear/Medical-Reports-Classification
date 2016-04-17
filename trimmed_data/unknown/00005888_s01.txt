@@ -1,0 +1,8 @@
+MEDICATION: Dilantin 
+INTRODUCTION: Digital Video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Previous EEGs are not available for comparison. In wakefulness, the background EEG is well organized. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 11Hz, 50 to 70 uV posterior dominant rhythm. There is an amplitude asymmetry of high amplitude activity in the left, particularly in the occipital regions in comparison to the right. While there is asymmetric muscle activity, there is also some suggestion of irregular slowing in the left central temporal region. Hyperventilation was not performed. Photic stimulation elicited brief bilateral driving. Stage 2 sleep is characterized by asymmetric vertexes, k complexes, spindles and POSTS. 
+HR: 72BPM 
+IMPRESSION: Abnormal EEG due to: 
+1. Subtle focal slowing in the left with high amplitude activity in that region. 
+CLINICAL CORRELATION: No epileptiform features are identified in this record. Correlation with imaging may be helpful in terms of underlying structural or functional abnormality in the left hemisphere. 
+REFERRING PHYSICIAN: 

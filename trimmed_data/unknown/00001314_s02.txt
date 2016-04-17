@@ -1,0 +1,11 @@
+MEDICATIONS: Dilantin, steroids, antibiotics, and others. 
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is confused during the record. 
+DESCRIPTION OF THE RECORD: In maximal wakefulness, the background EEG is mildly asymmetric and disorganized with the right hemisphere attenuated with superimposed excessively slow delta and theta bilaterally.  The normal posterior dominant alpha rhythm is not seen.  As the tracing continues, sharp activity with waves is seen at T4, C4, and T6.  Sleep is not achieved in this tracing.  Stimulation of the patient produces reactivity by increasing the amplitude and frequency of the brain waves in the background, however, no clinical seizure activity is observed on the video camera. 
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Disorganized background.
+	Background slowing with excessive theta and delta activity.
+	Asymmetric background with attenuation in the right hemisphere.
+	Absent alpha rhythm.
+	Sharp waves seen in the right hemisphere. 
+CLINICAL CORRELATION: This abnormal EEG pattern is suggestive of a cerebral dysfunction involving both gray and white matter.  The presence of bilateral polymorphic slow delta activity and the attenuation with sharp activity in the right hemisphere is consistent with that of a structural abnormality in the brain.  It also provides a localization-related mechanism for epilepsy in this patient.  Clinical correlation is recommended.  

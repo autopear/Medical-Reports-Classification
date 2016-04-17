@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, Metformin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: This a low voltage record with an alpha rhythm of 9 Hz with a small amount of left temporal  He has a small amount of left temporal theta, which is within acceptable limits for a patient of this age.  He has a single, asymmetric C4 vertex wave. Drowsiness:  Please describe…..Stage II sleep:  …….
+HR:  84 BPM.
+	IMPRESSION: This record is within the limits of normal for a subject of this age.
+CLINICAL CORRELATION: No epileptiform activity is seen.  A repeat EEG is recommended to clarify any underlying epileptiform activity.  

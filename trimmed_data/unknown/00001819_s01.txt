@@ -1,0 +1,18 @@
+MEDICATIONS: Dilantin, EPI, Insulin 
+INTRODUCTION: Digital EEG is performed at bedside using standard 10-20 system of 
+electrode placement with 1 channel EKG. The patient is comatose and intubated. 
+DESCRIPTION OF THE RECORD: Background EEG is markedly suppressed with 
+intermittent bursts of higher amplitude faster frequency activity seen every 1 0 to 20 
+seconds. These bursts of activity may be every 3 to 5 seconds in duration. With this 
+very suppressed background, the bursts of activity that are present are higher 
+amplitude, primarily theta frequency activity with some faster frequency activity. The 
+bursts of activity include activity ranging from 50 to 200 microvolts. At times the longest 
+duration of suppression for this record is 40 seconds. Tactile stimulation of the patient 
+does activate the record. 
+HR: 66 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Burst suppression pattern with most periods of suppression in the category to 20 
+to 30 seconds but some as long as 40 seconds. 
+CLINICAL CORRELATION: This EEG supports a severe underlying encephalopathy. 
+In the absence of sedative hypnotic medications, given the history described above, 
+these findings suggest one of the most severe patterns of brain injury. 

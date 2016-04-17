@@ -1,0 +1,9 @@
+MEDICATIONS:  Keppra, Thiamine, Haldol, Hydralazine, Clonidine, Metoprolol, Folic Acid, K Dur
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates rhythmic high amplitude slowing in the left hemisphere, particularly left frontal temporal region.  There are some sections in apparent wakefulness when there is a bit of generalized background slowing, but there are some sections where the right hemisphere demonstrates a relatively normal pattern and both hemispheres a 9 Hz alpha rhythm.  There is some shifting slowing and occasional slowing noted bilaterally, as well as FIRDA. Drowsiness seems to be accentuate the slowing, including FIRDA. Hyperventilation accentuates the focal slowing from the left hemisphere. Photic stimulation elicits driving. 
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Left anterior temporal or left frontal temporal focal, rhythmic delta.
+Occasional shifting slowing.
+FIRDA.
+CLINICAL CORRELATION:  This EEG is very similar to the previous EEG on July 23.  It is congruent with a structural lesion in the left frontal temporal region.  No seizures were recorded.

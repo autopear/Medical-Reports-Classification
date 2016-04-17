@@ -1,0 +1,6 @@
+MEDICATIONS: Neurontin, Ativan, and Dilantin.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an abbreviated study because of the patient’s inability to cooperate.   
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is somewhat drowsy.  The posterior dominant rhythm is 8 Hz with a significant amount of muscle identified on the right.  At 11:45, the patient becomes increasingly confused.  As she sits up, her alpha increases to 10 Hz.  This study is terminated at 11:48.  
+HR:  102 BPM.
+	IMPRESSION: This limited EEG did not identify epileptiform activity.  
+CLINICAL CORRELATION: There is a suggestion of focal slowing in this record on the left, however, the patient did not cooperate and the integrity of the electrodes cannot be confirmed.  

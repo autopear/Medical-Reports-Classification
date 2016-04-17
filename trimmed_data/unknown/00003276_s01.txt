@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin,  folic acid, thiamine and vitamin 812.
+INTRODUCTION: Digital video EEG is performed in the laboratory using standard 10-
+20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were conducted.  This is an awake to sleeping stage II record.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG is fairly well organized for her age.  There is a 9 Hz, 13 microvolt posterior dominant alpha rhythm which is attenuated with eyes open.  There is a small amount of low voltage small activity in the frontal and the central area.  With the tracing continued on, increasing slow activity on the background after hyperventilation.  However, no abnormal findings were seen on the background. Sleeping is evidenced by vertex waves, spindles and K complexes. During the light sleepiness as well as hyperventilation, wicket spike at T3 can be seen without disturbing the background.  Photic stimulation created a driving.
+Heart rate 96 bpm.
+IMPRESSION: Normal EEG in wakefulness and sleeping stage II.
+CLINICAL CORRELATION:  Wicket spike is a normal variant and can be seen in subjects without epilepsy.  Normal EEG does not exclude the diagnosis of epilepsy.  If epilepsy is a clinical concern, a repeat EEG may be helpful.

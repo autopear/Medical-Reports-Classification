@@ -1,0 +1,8 @@
+MEDICATIONS:  Lamictal, Dilantin, Keppra, Trileptal, diazepam and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  This was an awake EEG.
+DESCRIPTION OF THE RECORD:  The child is awake, has difficulty cooperating.  During some sections of the record, there is a glimpse of a 7 Hz alpha rhythm, but much of the record is a diffuse beta pattern.  In addition to frequent eye blinks, as the patient becomes drowsy, hypersynchronous higher amplitude rhythmic theta-delta was noted.  There is a suggestion of a frontal sharp wave, noted maximally on the left as she becomes drowsy, but sleep was not sustained.  In addition, there is also some arrhythmic delta activity which transitions as the patient becomes drowsy.  Heart rate 90 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+1. Abnormal background for an adult of this age with generalized background slowing.
+2. Slowing of the alpha rhythm. 
+3. Higher amplitude paroxysmal, somewhat irregular mixed theta-delta.
+CLINICAL CORRELATION:  No definitive sharp waves were seen, although there may be a frontal sharp wave.  A more prolonged record capturing sleep would be necessary to more definitively identify epileptiform activity.  Alternatively, review of previous EEGs might be helpful.

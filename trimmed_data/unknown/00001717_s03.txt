@@ -1,0 +1,7 @@
+MEDICATIONS: Ativan, Dilantin, antibiotics, and others.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is intubated and ventilator dependent during the record.  
+DESCRIPTION OF THE RECORD: The background EEG is symmetric, continuous, and diffusely slow, with theta and delta activity.  There is also a great deal of muscle artifact.  The patient is constantly opening his eyes while the technician is trying to keep them closed.  A posterior dominant alpha rhythm of approximately 10 Hz is transiently seen.  Increased beta activity is also seen, as well as occasional bursts of delta activity. 
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Disorganized and diffusely slow background.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The increased beta activity may be due to medications such as Ativan use.  In comparison to this patient’s previous EEG of February 6, 2004, this tracing is markedly improved. The previous PLEDS are no longer seen.  No clinical seizures were recorded during this tracing. 

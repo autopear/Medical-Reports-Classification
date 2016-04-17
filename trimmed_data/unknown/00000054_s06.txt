@@ -1,0 +1,9 @@
+MEDICATIONS: Phenobarb and Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and uncomfortable.  
+DESCRIPTION OF THE RECORD: The background EEG is low voltage, diffusely slow with a mixture of low voltage, slow delta and superimposed beta.  There is a beta asymmetry with richer beta frequency activity from the right compared to the left. In addition, the delta activity is a little higher amplitude on the right compared to the left, and the left appears to be more featureless than the right.  
+Stimulation of the patient does not activate the record.  
+HR:  45 to 50 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with a very slow pattern of delta with superimposed beta. 
+2. Intrahemispheric asymmetry with more beta and delta identified from the right suggesting that the pathology involves the left hemisphere more than the right. 
+CLINICAL CORRELATION:  please pull priors?!

@@ -1,0 +1,11 @@
+MEDICATIONS:  Keppra, Truvada, Kaletra, albuterol, and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1-channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a significant asymmetry.  In wakefulness, the activity is low voltage and relatively featureless on the right.  There is no well-defined alpha rhythm on the right.  On the left, the EEG demonstrates higher amplitude, medium amplitude, primarily a theta frequency background with a glimpse of a posterior dominant rhythm.  Rhythmic 2.5 to 4 Hz slowing is noted in the left temporal region.  Hyperventilation was performed early in the record and appears to accentuate the focal slowing as well as eliciting some sharp waves maximum at T1.  Following hyperventilation, the tech encourages the patient to fall asleep but as the patient does so, the patient becomes jittery.  The rhythmic mix theta delta noted from the left temporal region remains unchanged.  There also are some sharp waves noted but no seizures.  As the patient becomes a little sleepier, there is a more of a diffuse theta pattern but the rhythmic left frontotemporal slowing persists. 
+Photic stimulation was remarkable for blink artifact but no definitive driving.   
+Heart rate:  50 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+1. The absence of normal wave forms expected for an awake adult.
+2. An asymmetry with a lower voltage featureless pattern on the right.
+3. TIRDA:  Left temporal intermittent rhythmic delta activity, nearly continuous.
+4. Left temporal sharp waves which were augmented by hyperventilation.
+CLINICAL CORRELATION:  This EEG supports a focal mechanism for seizures.  In addition, a bihemispheric process is suggested given the absence of some of the normal wave forms anticipated for an awake adult of this age.

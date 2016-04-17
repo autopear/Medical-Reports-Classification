@@ -1,0 +1,6 @@
+MEDICATIONS:   Dilantin.
+INTRODUCTION:  Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation was performed. This is an awake and drowsy record.
+DESCRIPTION OF THE R ECORD:  The background EEG includes posterior dominant alpha rhythm at 9.5 hertz per second with amplitude around 30 to 40 microvolt. Drowsiness is characterized  by slow eye rolling movements  and increasing theta frequency. Also it characterized by increasing synchronicity.
+	HR: 	60 bpm
+IMPRESSION:   Normal EEG.
+CLINICAL CORRELATION: No epileptiform of focal features were observed. Absence of epileptiform feature does not exclude the diagnosis of epilepsy.

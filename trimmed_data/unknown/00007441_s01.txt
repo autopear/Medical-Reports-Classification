@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Versed 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated but is arousable and demonstrates spontaneous movements. Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: When the patient is resting unstimulated, the background EEG is continuous and demonstrates prominent fast activity in the frontal regions with an otherwise somewhat suppressed pattern in the posterior regions. Spontaneous arousals and stimulation of the patient both produce an increase In theta frequency activity as well as a more diffuse distribution of beta. 
+HR: 84 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. A somewhat unusual pattern of frontal beta with a more suppressed pattern posteriorly. 
+CLINICAL CORRELATION: Positive prognostic features for this individual include the spontaneous reactivity and variability. These findings may be correlated with the patient's history of PRES and hydrocephalus syndrome. No epileptiform features were observed. The use of benzodiazepine medications may have accentuated the frontal beta. 
+ 

@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Simvastatin, Remeron, Pantoprazole, Mirtazapine 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. There is no hyperventilation or photic simulation performed. The patient appears to be quite drowsy. 
+DESCRIPTION OF THE RECORD: In the drowsy state, there is generous beta, a glimpse of a 9 Hz posterior dominant rhythm and excess theta. The patient is a bit more alert toward the end of the record. She had some automatic movements of her jaw which were not associated with epileptiform activity and which occur with relaxed wakefulness and early drowsiness. Occasional bursts of FIRDA are noted. She appears to be slightly tachypneic. 
+HR: 120 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Excess beta. 
+2. Excess theta. 
+3. Mild generalized background slowing. 
+CLINICAL CORRELATION: These findings are nonspecific and could be due to postictal state or use of medications or underlying CNS pathology. No epileptiform features were observed. 

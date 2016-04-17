@@ -1,0 +1,43 @@
+MEDICATIONS: Dilantin and Carbamazepine. 
+INTRODUCTION: Continuous digital video EEG is performed at bedside using 
+standard 10-20 system of electrode placement with 1 channel EKG. 
+DESCRIPTION OF THE RECORD: As the tracing begins the patient is still somewhat 
+postictal. The background EEG is diffusely slow. As the recording continues, including 
+at 19:17 the background remains slow despite the fact that the patient is up and out of 
+bed. Rhythmic theta is observed in the temporal regions. 
+Event: 21:36:57. The patient is asleep in stage II sleep. His mother is sleeping at the 
+bedside. The patient is asleep, he arouses abruptly with the onset of muscle activity. 
+The background EEG demonstrates bursts of rhythmic high amplitude delta, followed by 
+an awake pattern, and then the patient drifts off to sleep. There is no definitive change 
+in the EEG. Interestingly, the heart rate in sleep is 90 beats per minute, and after the 
+arousals slows to about 60 beats per minute. 
+Random wakefulness in sleep: Much of the record includes stage II sleep with vertex 
+waves, K-complexes and spindles. There are sharp waves observed in the right 
+hemisphere which range from discrete to high amplitude sharp and slow wave 
+complexes. There seems to be at some point early transition to slow wave sleep. 
+Additional spontaneous arousals from sleep are observed. 
+Event time: 02:08:00: The patient is asleep. The seizure line is still on. He has a high 
+amplitude spike in his sleep and then he starts to just move in his sleep without any 
+specific epileptiform or ictal pattern. He moves more abruptly in sleep. He is moving 
+from side to side. There is no specific EEG pattern observed with event in sleep, but 
+behaviorally he is motorically very active and he is reaching forward in sleep with his 
+mother present. He is arousable and then returns back to sleep. Unfortunately, after 
+this event, his mother comforts him and he starts to go back to sleep, but the electrode 
+integrity is impaired. Subsequently, the electrodes are essentially lost. 
+Tattoo is not performed during either events. 
+Additional recording on the morning of July 23, 2008 continues to show right anterior 
+temporal sharp waves and spikes. 
+HR: 6_0.=90 b m 
+IMPRES..ON:---1\ normal EEG aue o: 
+1. Likely, 2 electrographic seizures characterized by posturing, elevation of 1 arm and 
+brief confusion. 
+2. Right anterior temporal sharp waves. 
+3. Infrequent, but clearly present lower amplitude left anterior temporal sharp waves. 
+4. Background slowing, improving over the course of the record. 
+CLINICAL CORRELATION: The 2 behaviors were recorded and were without a clear 
+ictal signature, however, 1 of them was proceeded by a clear high amplitude right 
+anterior temporal spike. In addition, the patient had automatisms and appeared to have 
+been confused afterwards. 
+This EEG is compatible with a complex partial mechanism for this patient's seizure. He 
+appeared somewhat aggressive with the second seizure, a consideration for the 
+environment that this individual is about to enter. 

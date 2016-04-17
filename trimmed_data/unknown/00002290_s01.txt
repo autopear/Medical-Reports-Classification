@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital  video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.   Photic stimulation is completed.
+DESCRIPTION OF THE RECORD: The patient is recorded, lying in a chair.  This is a broad­ chested woman with a broad, stout neck.  In maximal wakefulness, the background EEG is well­ organized with a 9 Hz posterior dominant rhythm but there are brief epochs in wakefulness where there are bursts of generalized background  slowing which are unusual for a drowsy pattern.  Some of these include irregular slowing.  Superimposed  upon this appears to be wicket activity which is unusual in the vigorousness of the wicket on the left. In addition, out of the bursts of slowing there seems to be an underlying left anterior-temporal frontotemporal sharp wave.  Theta frequency activity and some delta are observed, but again these seem to be more irregular in higher amplitude on the left. Photic stimulation results in an alerting response and brief bilateral driving.
+	HR: 	78 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 		Intermittent bursts of irregular bifrontal slowing remarkable on the left and most remarkable in the transition to drowsiness.
+	2. 	Likely an underlying left frontotemporal epileptiform focus.
+CLINICAL CORRELATION: This electroencephalogram supports a localization related mechanism for epilepsy.  Correlation with imaging given the prominent bilateral frontal features, left greater than right, is suggested.

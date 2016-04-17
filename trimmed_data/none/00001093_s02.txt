@@ -1,0 +1,10 @@
+MEDICATIONS: Keppra,  Dilantin, Aspirin, Labetalol, Lovenox, Pantoprazole
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  At the start of this record you see a markedly abnormal EEG.  The left hemisphere shows a low voltage, slow and suppressed background.  There is an asymmetry with the right hemisphere showing regular polyspike activity in the P4, T4, T6 regions.  Overall there is an extensive spread of activity that seemed to continue throughout this record. There is no seizure activity seen in this record even with extensive epileptiform discharges coming from the right hemisphere. There is some suppression of the record in between the discharges sometimes lasting up to 3 seconds.
+	HR:	78 bpm and irregular
+IMPRESSION: Markedly abnormal EEG due to:
+	1. 	Left hemispheric suppression over the background.
+Continuous right hemispheric polyspike activity with the parietal and temporal regions with a large field of spread.
+CLINICAL CORRELATION:   There is no seizure activity recorded on this record, however, the regular polyspike activity in the right hemisphere shows the patient have a very irrigative focus for seizure activity. The suppression of the left hemisphere can be
+consistent with a history of previous stroke in the past.
+		

@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin, Lorazepam, Reglan, Oxycodone.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement with 1 channel EKG. This is an awake and drowsy study.  Photic stimulation and hyperventilation were performed.
+DESCRIPTION OF THE RECORD:  During wakefulness, a well-organized posterior dominant alpha rhythm  is seen at 9 Hz reaching 50 microvolts. As the patient was almost drowsy, an increase in beta activity is seen and vertex waves are seen as the
+patient enters stage 1 sleep.  During photic stimulation, there is driving and photoelectric response seen.  There is no activation of the record during hyperventilation.
+HR: 74 bpm
+IMPRESSION:  Normal EEG
+CLINICAL CORRELATION:  A normal EEG does not rule out a diagnosis of epilepsy. If there is further concern of this diagnosis, we could repeat the study with sleep
+depravation, which may be helpful for further stages of sleep.

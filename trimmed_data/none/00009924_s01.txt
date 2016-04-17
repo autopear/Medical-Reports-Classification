@@ -1,0 +1,22 @@
+MEDICATIONS: Unknown 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel EKG. The patient is uncomfortable with 
+frequent complaint of pain with tactile stimulation. 
+ 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is markedly 
+abnormal. The activity includes nearly continuous, triphasic waves with an unusual field 
+of spread. In addition, there are also focal sharp waves picked up in the record 
+including C3, C4 and T5/01. Multiple montages are employed to confirm that there is, 
+in fact, a triphasic wave, but there are also multifocal sharps observed in the record. 
+Stimulation of the patient consistently produces an alerting response, typically lasting 
+·less than 10 seconds. By the close of the record, the patient is stimulated and is more 
+consistently interactive. The triphasic waves consistently attenuate with tactile 
+stimulation, although some of the occipital sharp waves persist. The overall 
+background, absent the triphasic waves and the sharp waves. is a theta pattern. 
+HR: 90 bpm 
+IMPRESSION: Markedly abnormal EEG due to: 
+1. Marked background slowing. 
+2. Nearly continuous triphasic waves. 
+3. Multifocal sharp waves 
+CLINICAL CORRELATION: This EEG supports an underlying metabolic process with 
+a clearly reactive triphasic waves. The underlying metabolic process may accentuate underlying sharp waves. No seizures were recorded. 

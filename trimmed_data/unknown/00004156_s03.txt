@@ -1,0 +1,14 @@
+MEDICATIONS: Dilantin, Midazolam, Labetalol, Ceftazidime 
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 
+system of electrode placement with 1 channel EKG. The patient is intubated and 
+comatose. 
+DESCRIPTION OF THE RECORD: Background EEG includes diffuse, slow delta. 
+There is higher amplitude delta in the left frontal region in this markedly slow record. 
+There is a bit faster frontal frequency in the parasagittal regions. Stimulation of the 
+patient also produced some theta in this region as well. 
+IMPRESSION: Abnormal EEG due to: 
+1. Slow delta with a slow featureless background. 
+2. Asymmetry with a bit of a faster frequency on the left. 
+CLINICAL CORRELATION: This EEG supports a severe disturbance of cerebral 
+function. The left hemisphere may be less impacted than the right. No epileptiform 
+features were seen. 

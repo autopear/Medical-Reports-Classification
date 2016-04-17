@@ -1,0 +1,7 @@
+MEDICATIONS:  Dilantin, Diovan, Simvastatin, Prednisone, ASA, HCTZ, Lisinopril
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a well defined posterior dominant rhythm of 10 Hz.  There is a small interhemispheric asymmetry with a bit more delta activity in the right temporal region compared to the left.   Photic stimulation elicits driving. 
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to: 
+Focal slowing in the right temporal region with disruption of faster frequency and theta rhythm.
+CLINICAL CORRELATION:  No epileptiform features are identified.  The focal theta described above with subtle asymmetry is an anticipated finding following right temporal hemorrhage.  In comparison to previous EEGs there is less focal slowing.  Prior EEGs did not demonstrate spikes or sharps.

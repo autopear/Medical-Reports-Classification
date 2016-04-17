@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and Avalide.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation could not be performed, but photic stimulation was completed.  This is an awake and drowsy record.
+DESCRIPTION OF  THE  RECORD:  In wakefulness,  there is an 8.5 Hz,  30 0  uV posterior dominant. rhythm.   There is some shifting, arrhythmic right or left temporal delta activity and prominent temporal wicket.  Despite the wicket, there is a single, high amplitude right anterior temporal sharp and slow wave complex.  Vertex waves are seen in stage I sleep. Photic stimulation does not activate the record.   ·
+The major abnormality in this record is a subtle,  right anterior temporal sharp wave, which is well identified on one occasion, clearly standing out from the background but on two occasions the sharp wave is a bit more subtle, but there is a more clearly defined after going slow wave.
+HR:  66BPM.
+IMPRESSION: Abnormal EEG for a subject of this age due to:
+1.  Shifting, right or left temporal arrhythmic delta.
+2.   Subtle right anterior sharp waves.
+CLINICAL CORRELATION: Consideration for a localization-related mechanism for this individual is appropriate.   These results were compared to a previous study, again identifying subtle epileptiform abnormalities.

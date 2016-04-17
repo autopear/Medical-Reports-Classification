@@ -1,0 +1,14 @@
+MEDICATIONS: Dilatin 
+INTRODUCTION: Digital video EEG is performed in lab using standard 10-20 system 
+of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation 
+are performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness the background EEG is well 
+organized, slightly low voltage with a 10-Hz posterior dominant rhythm. Hyperventilation 
+is performed early on in the record producing an increase in amplitude in the 
+background. Features of drowsiness include an increase in beta. Photic stimulation 
+elicits bilateral driving. 
+HR: 60 bpm 
+IMPRESSION: EEG within normal limits. 
+CORRELATION: No focal nor epileptiform features are observed. If 
+additional information is needed, repeat tracing capturing deeper stages of sleep is 
+advised. 

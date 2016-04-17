@@ -1,0 +1,9 @@
+MEDICATIONS: Ativan 16 mg.
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. No clinical seizures are noted by the tech, nurses, or computer. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates diffuse background beta.  There are brief portions of the record when the patient is drowsy with an increase in background slowing and other portions where he is agitated.  There are a handful of anterior temporal sharp waves seen primarily on the left but on rare cases on the right.  
+HR:  100 BPM.
+	IMPRESSION: Continuous long-term video EEG is remarkable for: 
+Excess beta.
+Rare sharp waves.
+	
+CLINICAL CORRELATION: No seizures were recorded.  The excess beta may be due to medications.   

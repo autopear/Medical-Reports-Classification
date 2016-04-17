@@ -1,0 +1,6 @@
+MEDICATIONS: Tylenol, Dilantin, Famotidine 
+INTRODUCTION: Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation is performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: Wakefulness background EEG is appropriately organized with 10 hertz, 30 UV, posterior dominant rhythm and a small amount of low voltage and frontal central beta activity. Frequent eye blink artifact is observed. Photic stimulation elicits brief driving. 
+HR: 96 bpm 
+IMPRESSION: Normal EEG in wakefulness. 
+CLINICAL CORRELATION: No focal or epileptiform features are identified in this record. Normal EEG does not exclude a diagnosis of epilepsy. 

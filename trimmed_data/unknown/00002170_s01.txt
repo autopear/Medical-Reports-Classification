@@ -1,0 +1,11 @@
+MEDICATIONS: Keppra, Dilantin, morphine.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  Some sections of the record are relatively well organized, but others are not. There is a 9 Hz posterior dominant rhythm. There is excess background theta.  There is excess muscle noted in some sections of the record as well as photoelectric artifact. It is somewhat disorganized  record with excess beta and theta. There is a suggestion of a subtle area of left frontotemporal focal slowing.
+Heart rate 88 BPM.
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Slow disorganized background.
+	2. 	Excess beta.
+	3. 	Excess theta.
+CLINICAL CORR  ELATION:
+This EEG supports a diffuse disturbance of cerebral
+function as may be seen following recurrent seizures. The focal features described above were quite subtle. Additional EEG recording in search of epileptiform activity may be important.

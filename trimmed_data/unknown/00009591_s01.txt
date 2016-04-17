@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Keppra. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic simulation. A right frontal craniotomy defect is noted. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 Hz 40 microvolt posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. There is very subtle right frontal focal slowing. Subtle posterior slow waves abuse are noted. Features of drowsiness include anterior spread of the alpha rhythm. Photic stimulation elicits scant driving. There is a scant amount of 14 and 6 Hz activity noted in the background.
+HR: 84 bpm. 
+IMPRESSION: This is a very mildly abnormal EEG due to: 
+1. Subtle focal slowing in the right frontal region.
+CLINICAL CORRELATION: The 14 and 6 is a rare but normal variant. No epileptiform features were observed.
+ 

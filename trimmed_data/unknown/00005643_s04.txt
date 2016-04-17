@@ -1,0 +1,7 @@
+MEDICATION:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed at the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient had experienced a seizure 40 minutes prior to the EEG and was quite confused.  This is a technically satisfactory record aside from slightly increased impedance in the T1 and T2 electrodes.  Digital video EEG is performed using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is initially postictal and confused.  She has a little difficulty cooperating with the test and some head rocking movements.
+DESCRIPTION OF THE RECORD:  The initial sections of the record demonstrate a low voltage, slow record with some head rocking artifact.  A posterior dominant rhythm of 6.5 Hz was noted.  Hyperventilation was attempted.  This served to alert the patient.  Following this, the patient drift off to sleep with low voltage vertex waves.  Occasional snore artifact was noted. 
+Heart rate:  72 bpm.
+IMPRESSION:  This is an abnormal EEG due to generalized background slowing.
+CLINICAL CORRELATION:  No epileptiform features are identified.  The background slowing is an anticipated finding for an acutely postictal patient.  No epileptiform features were seen in this EEG or in this patient's 2 previous EEGs earlier this year.
+__________________________

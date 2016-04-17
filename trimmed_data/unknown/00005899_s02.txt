@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, Lisinopril, Percocet PRN, Heparin, thiamin, Protonix, and Labetalol. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 to 11 Hz alpha rhythm, which is symmetric and reactive to eye opening.  Generous low voltage, frontocentral beta activity is seen.  In addition, generous muscle artifact is seen.  Features of drowsiness is characterized by slow rolling eye movements and an increase in background beta.  Photic stimulation elicits bilateral driving. 
+HR:  78 BPM.
+	IMPRESSION: EEG within normal limits.
+CLINICAL CORRELATION: The generous beta could be due to anxiety or benzodiazepine administration.  No epileptiform features were seen. 

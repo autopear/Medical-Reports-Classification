@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Zofran.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: The background EEG includes a very low voltage pattern with significant EKG artifact.  There is a rapid heart rate with the appearance of EKG and pulse artifact throughout.  The ECS montage was not employed in this record.  In addition, the technical aspects for ECS were not employed.  After examining the EEG with conventional montages, the ECS montage can be employed, however, there is significant EKG artifact.  Stimulation of the patient produces movement artifact, but no definite change in the EEG. 
+HR:  114 BPM.
+	IMPRESSION: This EEG is remarkable for:
+	1.	A significant amount of EKG artifact. 
+CLINICAL CORRELATION: The specific montages to subtract the EKG artifact would be necessary to determine if there is some underlying cerebral activity.  There does appear to be some activity, however, given the rapid heart rate, the small amount of theta seen in the record may well be due to the EKG artifact.  

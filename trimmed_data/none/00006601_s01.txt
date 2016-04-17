@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin.
+REASON FOR STUDY:  Seizure versus syncope.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and stage 1 sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal amount of frontocentral beta.  Activating procedures including photic stimulation and hyperventilation produced no abnormal discharges.  The patient was recorded in wakefulness and stage 1 sleep.
+ABNORMAL DISCHARGES:  Two small fragments of generalized spike and waves with the maximum frontal amplified but fairly symmetric discharge were seen with a frequency of 3-3.5 Hz and 2 short bursts lasting less than 1 second.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Small fragments of general spike and waves.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of idiopathic generalized epilepsy.  No seizures were seen.

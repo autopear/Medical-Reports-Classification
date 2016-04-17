@@ -1,0 +1,7 @@
+MEDICATIONS: Ativan, Dilantin, Lipid, Labetalol, Zantac, and Vancomycin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated.   
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is intubated in the ICU.  The background EEG demonstrates low voltage and generalized background slowing, predominantly delta activity.  Some portions of the record exhibit theta rhythm. Slight reactivity is seen with stimulation of the patient.  
+HR:  84 BPM.
+IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+CLINICAL CORRELATION: This tracing is not significantly different from his previous recording.  The absence of reactivity is a poor prognostic sign. 

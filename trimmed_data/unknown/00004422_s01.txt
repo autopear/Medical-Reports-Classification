@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG shows 9 to 9.5 Hz alpha rhythm that attenuates with eye opening. There is an anterior to posterior frequency amplitude gradient with faster frequencies and lower amplitudes anteriorly.  The patient is drowsy and asleep through the majority of the study demonstrating normal sleep architecture with spindles, K complexes and vertex waves.  Hyperventilation produces symmetric high amplitude diffuse delta activity.  Photic stimulation results in occipital driving at higher frequencies. 
+Heart rate regular.
+FINDINGS:  
+1. No epileptiform discharges.
+2. Stage II sleep.
+IMPRESSION:  This is a normal EEG mostly asleep, briefly awake EEG.  The lack of epileptiform features in a routine EEG does not exclude the diagnosis of epilepsy.

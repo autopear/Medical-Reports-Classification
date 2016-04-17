@@ -1,0 +1,19 @@
+MEDICATIONS: Ancef, Dilantin, Tylenol, Zofran, Morphine, Tylenol #3. 
+INTRODUCTION: Continuous video EEG monitoring is performed at bedside using 
+standard 10-20 system of electrode placement with 1 channel EKG. There are patient 
+events recorded including time 21:38 and the recording concludes at 1 p.m. 
+DESCRIPTION OF THE RECORD: Through much of the record, there is a 10Hz 
+posterior dominant rhythm observed. There is a small amount of intermittent temporal 
+theta seen in wakefulness. The sleep record includes vertex waves, K complexes and 
+spindles. Sleep record is symmetric. Practice push buttons are observed at 21:38. 
+There is a push button at 05:37. The nurse is interacting with the patient. The patient is 
+in the dark. No epileptiform features are seen prior to the placement of the push button 
+and afterwards there is significant muscle artifact. The seizure detector is reviewed. No 
+clinical seizures are observed with the spike detections. The spike detections primarily 
+identify sleep, including features of stage II and transition to slow wave sleep. The spike 
+detection at 06:40 demonstrates arousal. 
+HR: 78 bpm 
+IMPRESSION: This EEG is remarkable for: 
+1. Scant theta observed only in the early portion of the record 
+CLINICAL CORRELATION: No electrographic seizures, no lnterictal spikes and no 
+clinical seizures recorded in this overnight long term monitor recording. 

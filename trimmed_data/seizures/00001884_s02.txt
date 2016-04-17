@@ -1,0 +1,15 @@
+MEDICATIONS:  Vimpat, Zonegran.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video long-term EEG monitoring was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed.  Continuous spike detection as well as seizure detection software as well as patient's noted and nurse's noted events were used to review the EEG.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 5 Hz which is not reactive to eye opening.  There is no normal frontocentral beta.  There are at times appears to be stage changes and appears to go into sleep, but the normal sleep architecture is not usually seen.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen at F8/T4 and independently at F7/T3, a little bit more frequently on the left. 
+Focal slowing is seen at F8/T4 and at F7/T3 at 2-4 Hz with an amplitude of 20-60 microvolts.
+There is focal slowing also seen at C3/CZ continuously at 2-4 Hz with an amplitude of 20-70 microvolts.
+SEIZURES:  During the recording and especially particularly in the first 2 hours, there were multiple seizures about 10 noted originating with a rhythmic theta discharge seen at F7/T3 increasing in frequency and decreasing in amplitude at times ping-ponging to the right anterior temporal region and sometimes remaining in the same region, lasting for 30-45 seconds.  During these episodes, the patient appears to have right arm stiffening and mouth movements as well as staring unresponsively.  After the first 2 hours of the recording, there were only 2 seizures seen in the rest of the recording for about 15 hours.
+IMPRESSION:  Abnormal EEG due to: 
+Multiple seizures arising from the left anterior temporal region. 
+Bi-temporal sharp waves. 
+Background slowing and left central focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of multiple seizures arising from the left temporal region.  In addition, there is evidence of focal structural dysfunction and irritability arising from both anterior temporal lobes which has a high correlation for seizures arising from either region.  Lastly, there is evidence of focal cerebral dysfunction in the left central region which is consistent with the known tumor resection.  In addition to all this, there is evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology, but may be due at least in part to medication effect.  These findings were communicated to the primary team.

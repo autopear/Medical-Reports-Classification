@@ -1,0 +1,8 @@
+MEDICATIONS:  Valproic acid and Dilantin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is a drowsy and asleep record. 
+DESCRIPTION OF THE RECORD: The background EEG showed clear intrahemispheric asymmetry with lower amplitude on the right than the left.  There are also T3 polyphasic spikes of high amplitude, as well as rare sharp waves in the right temporal area.  The EEG is clearly reactive to stimulation and it becomes more active and richer.  At the close of the record, there is decreased epileptiform activity.  
+HR:  __ BPM.
+	IMPRESSION: Abnormal EEG due to:
+Intrahemispheric asymmetry.
+High amplitude T3 sharp waves, left more than right. 
+CLINICAL CORRELATION: This tracing is supportive of epilepsy in this patient.  A repeat tracing and correlation with brain imaging is recommended.  

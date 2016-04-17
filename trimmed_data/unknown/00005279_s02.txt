@@ -1,0 +1,9 @@
+MEDICATIONS:  Vecuronium, Dilantin, Lovenox
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was treated with vecuronium briefly.  She also received Dilantin load.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a burst suppression pattern.  There are brief bursts of sharply contoured activity identified asynchronously in the right or left frontal regions.  Most bursts are 3 seconds, a few longer such as 7 seconds. There is some variability in the bursts.  Over time, the bursts are becoming a little bit more broader contoured and the sharp waves noted initially are less prominent.  The overall background remains suppressed with ventilator artifact. 
+HR:    120 bpm
+IMPRESSION:  This EEG was remarkable for:
+A burst suppression pattern.
+Absence of reactivity or variability.
+Broadening of the sharp waves noted.
+CLINICAL CORRELATION:   These findings may be correlated with server anoxic injury.

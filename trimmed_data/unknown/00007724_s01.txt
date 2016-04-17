@@ -1,0 +1,6 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  This was a technically challenging EEG in an intubated patient.  The patient had a temperature of greater than 100 and had difficulty with electrode integrity.
+DESCRIPTION OF RECORD:  The background EEG demonstrates a continuous, mixed frequency pattern.  The frontal regions include lower voltage, 7-10 Hz activity.  The posterior regions are lower voltage, slower and more featureless.  Stimulation of the patient produces a scant amount of background theta.  Heart rate 126 BPM.
+IMPRESSION:  Abnormal EEG due to: 
+1. Marked generalized background slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified.  There were no focal features.  If additional information is needed, a follow-up study may be of use.

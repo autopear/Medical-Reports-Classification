@@ -1,0 +1,8 @@
+ADDENDUM TO EEG 
+Add to description of record:  The background includes a slow pattern.  The recording begins prior to intubation of the patient but after the patient has received Ativan and a Dilantin load.  The activity is moderately slow from the right, but the left hemisphere includes arrhythmic delta and a periodic complex maximum in the left central and temporal regions, more typically T3 maximum but with some variability.  The periodic activity may occur in bursts lasting 5 to 7 seconds.  It does not clearly evolve and as it ends it is typically followed by a generalized attenuation.   
+Heart rate 73 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+A periodic complex in the left hemisphere with some evolution.
+Arrhythmic delta on the left.
+A reasonably slow pattern on the right.
+CLINICAL CORRELATION:  This EEG raises concerns for a structural functional process in the left hemisphere which is epileptogenic as well as a diffuse disturbance of cerebral function.

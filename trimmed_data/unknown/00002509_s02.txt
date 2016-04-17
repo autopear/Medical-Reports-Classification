@@ -1,0 +1,19 @@
+MEDICATIONS: Dilantin, Ativan, Atenolol, Coumadin, Lisinopril, ASA 
+INTRODUCTION: Digital video EEG is performed in lab using standard 10-20 system 
+of electrode placement with 1 channel of EKG. This is an acutely post-ictal EEG 
+performed at 15:36 on 06/03/2008. 
+DESCRIPTION OF THE RECORD: In the initial portions of the record, the EEG is 
+remarkable for prominent slowing in the temporal regions bilaterally with prominent fast 
+activity in the central regions. Over time a more characteristic pattern with central 
+spindle activity is seen, and the temporal regions are richer in theta, a little richer in 
+faster frequency activity, but this asymmetry between central and temporal regions is 
+prominent until 20 minutes into the recording when the technologist stimulates the 
+patient towards the close of the record, at which point the patient awakens and the 
+asymmetric is not quite so prominent. 
+HR: 96 bpm, irregular 
+IMPRESSION: Markedly abnormal EEG due to: 
+1. Prominent slowing, particularly in the temporal regions in the initial sections of the 
+record. 
+2. More of a pattern of beta and generalized slowing at the close of the record. 
+CLINICAL CORRELATION: No epileptiform features were observed today. These 
+findings should be compared with previous studies. 

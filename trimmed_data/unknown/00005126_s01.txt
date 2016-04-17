@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and continuous, but with excessively slow theta activity.  There is a 10 Hz, 25 V posterior dominant alpha rhythm, which is well attenuated with eyes opened. There is a small amount of low voltage, frontocentral beta activity.  As the tracing continues, excessive theta and delta activity at T1 and T3 can be seen.  Occasional sharp activity at the T1 region with slow waves is also observed.  Sleep is evidenced by a mixed frequency of brain activity, as well as transient vertex waves and spindles.  Photic stimulation did not activate the record.  
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Background slowing.
+	Focal slowing with sharp activity at the left anterior quadrant.
+CLINICAL CORRELATION: This study provides a localization-related mechanism for epilepsy in this patient associated with the left anterior quadrant.  The background slowing is a non-specific finding.  

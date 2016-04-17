@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Serax, ASA, Protonix, Lisinopril, Norvasc, Thiamine, Folic Acid 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+ 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9.5 Hz alpha rhythm. In the transition to drowsiness there is occasional theta identified independently in the left or right mid to anterior temporal region. Deeper stages of sleep are not identified. Photic stimulation elicits a subtle driving response. 
+HR: 72 bpm 
+IMPRESSION: Normal EEG. 
+CLINICAL CORRELATION: The temporal changes described, left greater than right, in transition to sleep are considered normal for a subject of this age. There were no epileptiform features.

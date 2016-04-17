@@ -1,0 +1,19 @@
+MEDICATIONS: 
+Dilantin, Vim pat. She is off the Versed drip now. 
+INTRODUCTION: 
+Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement at the bedside and 
+one-channel EKG. 
+DESCRIPTION OF RECORD: 
+The background is very slow with theta and delta frequency rates. It is slower and more sharply contoured on the right. 
+There is arrhythmic delta on the right with stimulation. There seems to be some activation of the record and there was 
+alerting response. There was a burst of fast beta range activity on the left at the end of the record, which could be a 
+potential seizure at 9:26a.m. This lasted for about 30 seconds. 
+IMPRESSION: 
+Abnormal EEG due to: 
+1 Very slow background. 
+2. More slower and sharper on the right. 
+3. Arrhythmic delta on the right. 
+4. Burst of fast seizure like activity on the left. 
+Clinical Correlation 
+This is a mixed picture, could suggest severely injured brain. There is some variability in the record and reactivity. Ongoing observation 1s recommended at this time. 
+	

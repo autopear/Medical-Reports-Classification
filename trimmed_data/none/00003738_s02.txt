@@ -1,0 +1,9 @@
+MEDICATIONS:  Cefuroxime, pantoprazole, others.
+INTRODUCTION:  Digital video EEG was performed at bedside in ICU using standard 10-20 system of electrode placement with one channel of EKG.  This was a technically acceptable EEG with impedances slightly elevated at T1-T2 electrodes.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is slow and disorganized.  When the patient is stimulated with eye opening and eye closure, there is primarily a theta frequency background with little in the way of arrhythmic delta but on other occasions, when the patient is unstimulated, there is very slow arrhythmic delta activity noted, perhaps more so on the right than the left.  When the patient is unstimulated, in this sharply contoured record, there are occasional sharp waves noted.  These may be right central or left frontotemporal.  Shifting asymmetries were noted, and at times there seems to be more disruption of faster frequency activity in the right compared to the left. 
+Heart rate irregular 72 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+A markedly slow and disorganized pattern.
+A shifting slowing with a bit more disruption of faster frequency activity on the right compared to the left.
+Occasional sharp waves noted from either hemisphere with somewhat different localizations including left frontotemporal or right centrotemporal.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance of cerebral function.  No seizures were recorded and the sharp waves noted were infrequent.  Evaluation for a bihemispheric disturbance of cerebral function is suggested.

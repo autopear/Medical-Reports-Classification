@@ -1,0 +1,7 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a low voltage 10 Hz alpha rhythm which is symmetric and reactive to eye opening.  Drowsiness is characterized by rhythmic central theta, but deeper stages of sleep are not sustained. Hyperventilation does not activate the record. Photic stimulation elicits vigorous driving. 
+HR:    60 bpm
+IMPRESSION:  Normal EEG in wakefulness and stage I sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified, but if additional is needed, a follow up study capturing deeper stages of sleep is suggested.
+DER/8/7/2012 9:49 AM

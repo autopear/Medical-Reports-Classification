@@ -1,0 +1,17 @@
+MEDICATIONS: Depakene, Dilantin, Gabapentin, Metoprolol, Niaspan, Peridex, 
+Actonel. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. Photic stimulation was 
+performed. This is an awake and drowsy record. 
+DESCRIPTION OF THE In wakefulness the background EEG is low voltage 
+and has no alpha rhythm. Throughout the record the patient is sleepy, and there is right 
+central temporal slowing intermittently. In addition, there are sharp waves appreciated in 
+the background, particularly at T4, T6, and C4. There is no significant response to 
+photic stimulation with no driving. 
+HR: 60 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Overall slow record with no alpha rhythm and low voltage. 
+2. Sharp waves in T 4, C6, and C4. 
+3. Focal slowing on the right central temporal region 
+CLINICAL CORRELATION: This EEG record is supportive of a localization for this 
+patient's seizures given his history of intracranial hemorrhage. 

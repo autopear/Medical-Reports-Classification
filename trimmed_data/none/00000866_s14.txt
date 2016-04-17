@@ -1,0 +1,9 @@
+MEDICATIONS:  Topamax, Tegretol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  The patient has marked psychomotor slowing.
+DESCRIPTION OF THE RECORD:  The background EEG is slow and disorganized with a 7 Hz alpha rhythm.  There are bursts of FIRDA.  Stimulation of the patient when she appears to be poorly responsive results in an alerting response with a dramatic improvement in the overall background.  There is 7 Hz activity and the alpha rhythm reaches 8 Hz. Interictal sharp waves are noted throughout the record with multiple different maxima including T5, P3, left frontocentral, and right mid to posterotemporal.  The bursts of FIRDA as well as vertex waves are noted as she drifts off to sleep. 
+HR:    72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+Frontal intermittent rhythmic delta activity.
+Multifocal sharp waves and spikes from both hemispheres.
+CLINICAL CORRELATION:  No seizures were recorded.  The overall background is slower than previously noted and the epileptiform activity is much more prominent and is now in both hemispheres.

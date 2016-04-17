@@ -1,0 +1,12 @@
+MEDICATIONS:  Lisinopril, Motrin, Keppra.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded mainly in sleep.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a mildly diffusely slow background which upon stimulation appears to normalize and has a posterior dominant rhythm that at best reaches 9 Hz. There is normal amount of frontocentral beta.  The patient appears to go into stage 2 deep stage sleep.  Activating procedures with photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  
+Intermittent focal sharp waves seen at FP1. 
+Mild generalized slow waves throughout the recording.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left prefrontal sharp waves and mildly excessive diffuse slowing throughout the recording.
+CLINICAL CORRELATION:  This EEG is consistent with localization related epilepsy with seizures likely arising from the left prefrontal region.  In addition, there is evidence of mild diffuse cerebral dysfunction which is nonspecific with regards to etiology and may be due at least in part to medication effect.  No seizures were seen.

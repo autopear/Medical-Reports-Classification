@@ -1,0 +1,7 @@
+MEDICATIONS:   Colchicine, Dilantin, Enalapril, Amlodipine, Cozaar, Carnedial
+INTRODUCTION:   Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an interhemispheric asymmetry. An 8.5 hertz alpha rhythm is observed on the right. It is lower amplitude and slower on the left. In addition, the left hemisphere demonstrates disruption of faster frequency activity and a bit more theta. Drowsiness is characterized  by background slowing and accentuation of the interhemispheric asymmetry. Photic stimulation elicits scant driving, right more remarkably than the left.
+	HR:	60 bpm, irregular.
+IMPRESSION:  Abnormal EEG due to,
+	1. 	Focal slowing from the left, characterized by disruption of faster frequency on that side.
+	CLINICAL CORRELATION:  No epileptiform features were observed. Additional recording is recommended. 	

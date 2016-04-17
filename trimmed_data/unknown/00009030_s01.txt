@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, antibiotics, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is symmetric and fairly well organized.  There is a 9 Hz, 20 V posterior dominant alpha rhythm and a small amount of low voltage, frontocentral beta activity.  In drowsiness, left central and temporal theta and occasional arrhythmic delta activity were seen.  Sleep was characterized by vertex waves and spindles. Deeper stages of sleep were not achieved.  Photic stimulation produced mild driving.
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Left central and temporal focal slowing.
+CLINICAL CORRELATION: The focal features of this tracing may be suggestive of an underlying pathology linked to a stroke in this patient.  However, no epileptiform discharges were identified in this record.  If epilepsy is a clinical concern, a repeat EEG may be helpful. 

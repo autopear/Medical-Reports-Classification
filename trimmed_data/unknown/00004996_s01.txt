@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and morphine.  Patient is sedated with Ativan and others. 
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is sedated during this recording. 
+DESCRIPTION OF THE RECORD: The background EEG is symmetric, continuous, with excessively diffuse low voltage beta activity.  The normal posterior dominant alpha rhythm is absent.   Stimulation of the patient transiently increased the amplitude of beta activity. 
+HR:  132 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Disorganized background with excessive and diffuse beta activity. 
+	Absent alpha rhythm.
+CLINICAL CORRELATION: This tracing is suggestive of a cerebral dysfunction involving both gray and white matter.  The diffuse beta activity may be due to medications such as Ativan.  This tracing is consistent with that of a pharmacological coma.  However, no epileptiform features were identified in this record.  If epilepsy is a clinical concern, a repeat EEG may be helpful.

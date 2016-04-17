@@ -1,0 +1,10 @@
+MEDICATIONS:  Aspirin, Tylenol, Lovenox.
+REASON FOR STUDY:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG.  The patient was recording during wakefulness and sleep.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm at 9-10 Hz which is reactive to eye opening.  There is, however, intermittent focal slowing on the right anterior temporal region.  The patient appears to go to stage 1 and 2 sleep.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  Focal slowing at right anterior temporal region maximum at F8 and T4.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Intermittent focal slowing at F8 and T4.
+CLINICAL CORRELATION:  Intermittent focal slowing at the left anterior temporal region could contribute to the focal cerebral pathology which is nonspecific in regard to etiology.  No seizures or epileptiform discharges were seen.

@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Dilaudid, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is somnolent. 
+DESCRIPTION OF THE RECORD: The patient is drowsy throughout much of the record with a rhythmic theta pattern and intermittent bursts of rhythmic frontal theta and/or delta, as well as an increase in beta.  Other features of drowsiness, as he drifts into deeper stages of sleep, include some vertex waves followed by arousals.  There are portions of the record when the patient has eye movement, but the EEG remains a bit too slow with a posterior dominant rhythm of approximately 7 Hz.   
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Excess background slowing.
+Intermittent rhythmic frontal theta or frontal delta. 
+CLINICAL CORRELATION: These features are non-specific and may be seen in a toxic or metabolic encephalopathy or postictal state, as well as other mild-to-moderate diffuse disturbances of cerebral function.  The patient’s medications may have contributed to the slowing described above.  No epileptiform features were seen.

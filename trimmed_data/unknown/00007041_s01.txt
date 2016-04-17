@@ -1,0 +1,6 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using the standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz alpha rhythm.  The recording shows focal slowing on the right at times with disruption of the alpha.  There is also intermittent shifting slowing which is prominent in drowsiness.  Photic stimulation elicits driving at faster frequencies.  Stage II sleep was not achieved.
+IMPRESSION:  Abnormal EEG due to: 
+Right focal slowing.
+CLINICAL CORRELATION:  This pattern is consistent with a structural process on the right affecting gray and white matter.  The shifting slowing suggests that there may be bihemispheric pathology.  No sharp waves or spikes were seen.  An ambulatory EEG may be helpful to capture one of her spells.

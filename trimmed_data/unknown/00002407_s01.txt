@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and Nicardipine. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is arousable and follows occasional commands.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a dynamic pattern.  There are some portions of the record that are low voltage with diffuse background theta.  Others show a more higher amplitude rhythmic theta, which is variable.  On some occasions, there are bursts of rhythmic 2 to 4 Hz delta activity from the right hemisphere.  There are also more sustained bursts with rhythmic, sharply contoured delta activity maximum at T3.  The activity from the right on rare occasions includes sharply contoured delta at T6.  When the patient is active and moving about, the amplitude of the delta is considerably higher.  
+HR:  150 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with a lower voltage theta pattern. 
+Intermittent bursts of higher amplitude delta, which may be identified from either hemisphere, but when seen from the left tend to be more sharply contoured.  
+CLINICAL CORRELATION: Given the history of a hemorrhage on the right, the findings of intermittent rhythmic delta from the left are unexpected.  Correlation with imaging may be helpful.  

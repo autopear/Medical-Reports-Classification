@@ -1,0 +1,12 @@
+LENGTH OF THE RECORDING:  22 minutes
+CONDITION OF THE RECORDING:  The recording was performed according to the standard 10-20 system, with additional T1 and T2 electrode and a single EKG lead.  Hyperventilation and photic stimulation were performed.
+       
+CURRENT MEDICATIONS:  Dilantin.
+DESCRIPTION OF THE RECORD:  During maximal wakefullness, the posterior dominant rhythm consisted of a well-formed and modulated 10 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient that is less well preserved over the left hemisphere.  There was continuous polymorphic theta and delta activity that is captured over the left frontal/anterior temporal region, occasionally sharply contoured.  Additional faster frequencies are captured over the left temporal leads.  During sleep, vertex waves and wickets are captured.  Sleep architecture is more pronounced over the left hemisphere.  Hyperventilation produces results in slowing observed over the left hemisphere, as well as mild diffuse slowing. Stepped photic stimulation results in no change in the background.
+FINDINGS:  
+1. Frequent moderate focal slowing over the left frontal/anterior temporal leads, occasionally sharply contoured.
+2. Breach artifact over the left anterior temporal/frontal central region.
+3. Prominence of sleep architecture over the left hemisphere.
+4. No stage II sleep.
+5. No epileptiform discharges.
+IMPRESSION:  This is an abnormal 22- minute awake and drowsy EEG due to frequent moderate focal slowing over the left anterior temporal/frontal region.  This finding indicates underlying cerebral dysfunction that could be structural in etiology.  Breach artifact indicates a defect in the skull.  No clear epileptiform discharges were captured.  The lack of epileptiform discharges on the routine EEG does not preclude a clinical diagnosis of epilepsy.

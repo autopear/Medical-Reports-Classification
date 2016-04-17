@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Keppra. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed. Hyperventilation is not performed. 
+DESCRIPTION OF THE RECORD: During wakefulness, there is some disorganization of the record, with some posterior alpha reaching 9 Hz, but is slower at times. There is also mild excessive theta in the background in the frontocentral region. As well, there is also increased beta in the central regions. As the patient becomes drowsy, he enters deeper stages of sleep and spindles once he reaches stage 2 sleep. During photic stimulation, there is no driving seen. 
+HR: 74 bpm. 
+IMPRESSION: Abnormal EEG due to: 
+1. Mild excess theta, more prominent in the frontocentral regions. 
+2. Increased beta seen centrally. 
+CLINICAL CORRELATION: There are no epileptiform discharges on the record. The increase in beta centrally and the excess theta front centrally may be consistent with his history of the right central parietal tumor removal in the past. 

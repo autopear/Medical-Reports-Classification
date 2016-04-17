@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Trileptal, Baclofen, Lidocaine, pressors, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG and additional ECS montage for electric cortical silence. The patient is comatose after coding. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly suppressed with some artifacts from the ICU, which are most likely not cerebral.  No definite cerebral activity was seen and no epileptiform activity was identified.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+No definite cerebral activity with a markedly suppressed background.
+Intermittent artifacts, probably not cerebral in nature.  
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  Alternative testing is recommended such as cerebral blood flow study.

@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin, Zoloft, oxycodone, Seroquel, many others.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient was provided on a stretcher, hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm identified bilaterally.  There is a slightly higher amplitude on the left compared to the right.  Hyperventilation is performed with good effort, but does not significantly activate the record.  As the recording continues, on occasion there is a more clearly defined but subtle asymmetry with a bit more vigorous alpha activity on the left compared to the right.  Unfortunately, there is also a fair amount of muscle artifact and other artifacts noted.  Photic stimulation elicited driving as well as super-harmonic driving.   
+Heart rate 108 bpm.
+IMPRESSION:  This EEG is remarkable for:
+Generous beta.
+A technically challenging record for a stretcher patient with an intermittent and subtle asymmetry with a somewhat more vigorous alpha rhythm on the left compared to the right.
+CLINICAL CORRELATION:  No epileptiform features were identified.  These findings may be correlated with exam and imaging.  They should be evaluated with caution, given the difficulty in terms of adequately positioning the stretcher patient in the outpatient unit.

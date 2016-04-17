@@ -1,0 +1,13 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG was performed in Jab using standard 10-20 
+system of electrode placement with 1 channel of EKG. Photic simulation is performed. 
+This is an awake record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10.5 Hz alpha rhythm 
+with a small amount of low voltage, frontocentral beta activity. Photic stimulation elicits 
+scant driving. 
+HR: 72 bpm 
+IMPRESSION: Normal EEG. 
+CLINICAL CORRELATION: No epileptiform features were observed today. To more 
+completely characterize this individual's epilepsy, comparison with the previous 2005 
+EEG or a repeat study capturing in sleep is suggested. 
+ 

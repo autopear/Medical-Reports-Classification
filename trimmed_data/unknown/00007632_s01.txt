@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Keppra, morphine, Gabapentin, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with 9 Hz, 50 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  There is a small amount of background theta in the awake background.  In the transition to drowsiness, there is occasional slowing from the right or left temporal region. 
+Photic stimulation is remarkable for artifact, but no driving. 
+HR:  104 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+	1.	Excess theta. 
+CLINICAL CORRELATION: This patient’s medications may play a role in the theta described above.  No epileptiform features were seen.  If epilepsy is an important consideration, a repeat study may be valuable. 

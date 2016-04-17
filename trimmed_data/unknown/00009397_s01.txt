@@ -1,0 +1,9 @@
+MEDICATIONS: Codeine, Dilantin; Acetaminophen, Dextrose, Aranesp, Clindamycin, Heparin, Protonix, Cipro, Vancomycin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is relatively drowsy. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a theta frequency pattern. There is intermittent attenuation in the record with bursts of theta activity lasting about 2 to 3 seconds followed by attenuation. There are triphasic waves noted in the record. In addition, there seems to be breach rhythm with a right central sharp wave in the context of a breech rhythm. Tactile stimulation does not significantly activate the record. 
+HR: 102 bpm. 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Right central sharp wave in the context of a breach rhythm. 
+3. Triphasic waves. 
+CLINICAL CORRELATION: This EEG supports the diffuse disturbance of cerebral function affecting gray and white matter. The sharp waves are in the region of the patient's craniotomy. The intermittent lead discontinuous pattern carries a worrisome prognosis but may be part of this patient's metabolic features. 

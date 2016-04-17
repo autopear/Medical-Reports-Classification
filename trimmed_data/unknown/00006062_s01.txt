@@ -1,0 +1,9 @@
+MEDICATIONS: Keppra, Dilantin, Ativan.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-
+20 system of electrode placement with one channel of EKG. The patient is poorly responsive
+during the record.  She receives intravenous Levetiracetam during the EEG.
+DESCRIPTION OF THE RECORD: As the tracing opens, the background EEG is markedly abnormal with a background of diffuse background slowing.  There is a repetitive sharp wave seen as frequently as nine times in ten seconds from the left temporal region, with amplitudes up to 75 uV with a bi-phasic nature, maximum at Tl, but with a generous field of spread from the left hemisphere and disruption of background activity. The right hemisphere includes some beta activity and some low voltage theta.  During the EEG, the patient receives IV Levetiracetam, however, just prior to this, the epileptiform activity seems to be waning spontaneously.   The overall background did demonstrate variability with some portions of the record demonstrating more faster frequency activity and others demonstrating slower activity.   As  the recording continues, the periodic activity seems to abate, becoming lower voltage, more broadly contoured and seen a little less persistently.
+HR:  62BPM.
+IMPRESSION: Abnormal EEG due to:
+1.   Prominent left hemispheric, periodic complexes, which wax and wane.
+CLINICAL  CORRELATION: This EEG not only supports a diffuse disturbance of cerebral function, but also an underlying epileptogenic process on the left. No clinical seizures were noted during the recording and, in fact, the patient seemed to be more responsive  with reactivity and variability during the EEG suggesting that these PELDS are at this point not ictal, but postictal or peri-ictaL

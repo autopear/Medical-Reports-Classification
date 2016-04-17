@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Phenobarbital, and Fentanyl.
+INTRODUCTION: Digital video EEG is performed at the bedside in the Pediatric ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and drowsy. 
+DESCRIPTION OF THE RECORD: Some portions of the record demonstrate a stage II and/or transition to stage III pattern with spindles and appropriate quantities of delta.  Other portions of the record, when the patient is stimulated, demonstrates excess, high amplitude delta from both hemispheres, which is relatively synchronous.  There are some shifting asymmetries.  Stimulation of the patient produces a brief increase in beta frequency on one occasion and on the second occasion background delta. 
+HR:  140 BPM.
+	IMPRESSION: Abnormal sedated EEG due to:
+A background that is slower than anticipated with more delta than one might anticipate given the medications administered and the responsiveness to stimuli.
+	
+CLINICAL CORRELATION: The initial portions of the record demonstrate stage I/stage II pattern with excess delta.  The latter portions of the record demonstrate a slower pattern.  This may be part of a sleep/awake cycle or may represent a change in this patient’s medications.  The features described above are non-specific and there are no hallmarks of a particular type of encephalitis.  There is no epileptiform activity. 

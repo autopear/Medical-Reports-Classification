@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin, Haldol, Keppra, MS-Contin, Tramadol, Glipizide
+INTRODUCTION:  Digital EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is quite somnolent but is no longer aggressive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a slow background.  There is focal slowing from the left hemisphere with arrhythmic delta activity, most prominent in the left temporal region.  There is the suggestion of a breach rhythm.  A left temporal spike, maximum at T3 with amplitudes exceeding 70 microvolts is noted.  Some of the spikes are low voltage, others higher voltage.  Some of them are complex with a polyphasic component.  The field of spread in the after-going slowing includes the left centrotemporal region.  This could be considered a PLEDS plus discharge with waxing and waning of the activity.  Stimulation of the patient seems to be associated with a reduction of the epileptiform activity.  Stimulation of the patient unfortunately also produces a great deal of muscle artifact.   
+HR:    108 bpm
+IMPRESSION:  Abnormal EEG due to:
+Periodic sharp waves in the left temporal region with a PLEDS plus pattern.
+Left temporal focal slowing.
+A breach rhythm on the left.
+Generalized slowing.
+CLINICAL CORRELATION:  No clinical seizures were recorded.  This EEG supports a highly epileptogenic focus.  Ongoing EEG recording was requested.

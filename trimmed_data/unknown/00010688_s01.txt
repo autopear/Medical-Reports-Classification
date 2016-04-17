@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin, tramadol, others.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized.  There is a 9 Hz alpha rhythm but spontaneously, out of this background, there are paroxysmal bursts of somewhat rhythmic slowing.  There is also some shifting slowing.  This is a sharply contoured record but in some sections of the record there is some arrhythmic deltoid activity noted, more so on the left intertemporal region and in the sharply contoured record occasional left intertemporal sharp waves.   
+Photic stimulation as the patient is becoming somewhat drowsy.  There is some arrhythmic delta activity noted in the left hemisphere including left posterior quadrant.  No significant driving was appreciated. 
+Heart rate:  84 BPM.
+IMPRESSION:  This is an abnormal EEG due to: 
+Intermittent, paroxysmal slowing which can be bilateral or with shifting asymmetries.
+Sharp waves noted in the left hemisphere more typically left anterior temporal but sometimes with more of a posterior field of spread.
+Focal slowing in the left hemisphere sometimes left anterior temporal but occasionally a little bit more left posterotemporal or parietal.
+CLINICAL CORRELATION:  No previous EEGs were available at this time for comparison.  Epileptiform activity in this EEG was in the left hemisphere, anterior temporal or even left temporoparietal.  There were bursts of slowing from either hemisphere and correlation with imaging is suggested.

@@ -1,0 +1,9 @@
+	MEDICATIONS: 	Dilantin.
+		INTRODUCTION: 	Digital video EEG was performed in the lab using the standard 10/20 system of electrode placement with one channel electrocardiogram. 	This patient's previous electroencephalograms were not available for comparison.
+		DESCRIPTION OF THE RECORD: 	In wakefulness, background electroencephalogram was somewhat disorganized.	The outflow rhythm on the right has a frequency of 8.5 hertz, but the overall background is slower on the left with structure at faster frequency activity and arrhythmic delta. Hyperventilation was performed early in the record extenuating
+			the focal slowly from the left with both theta and delta maximum in the temporal regions. 	Features of drowsiness include an increase in delta from the left hemisphere. 	As the patient transitions to and from drowsiness, the alpha activity emerges faster from the right hemisphere and is faster frequency than that from the left. Photic stimulation elicits scant driving more so on the right.
+HR: 60 bpm
+	IMPRESSION: 	Abnormal electroencephalogram due to:
+1. Focal slowing from the left hemisphere most remarkable in the temporal region with disruption of the faster frequency activity and intermittently delta activity.
+2. Very mild slowly from the right.
+		CLINICAL CORRELATION: 	No epileptiform fusions were observed today. 	Comparison with previous electroencephalograms is advised.

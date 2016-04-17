@@ -1,0 +1,9 @@
+LENGTH OF THE RECORDING:  22 minutes and 53 seconds
+MEDICATIONS:  Ativan, Dilantin, clonazepam, chlorpromazine, amlodipine.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  During maximal wakefulness there are periods of fragmented moderate amplitude 9 Hz alpha activity with preserved anterior-to-posterior frequency amplitude gradient.  The majority of the background, however, consists of low amplitude fast activity admixed with polymorphic frequently sharply contoured central theta and delta activity.  Additionally, up to 20 second runs of sharply contoured frontocentral theta activity without spatial or temporal evolution are captured.  These runs are not ictal in etiology.  Occasional moderate amplitude isolated diffuse frontally predominant sharply contoured slow waves without clear spike waves or sharp waves are captured.  A good example of such waveform occurs at 09:59:50 a.m.  On a single occasion at 10:01:20 a.m., such discharge is correlated with a brief generalized body jerk.  There is a continuous diffuse EKG artifact.  No hyperventilation or photic stimulation are captured.  There is no normal sleep architecture captured.
+FINDINGS:  
+1. Mild diffuse slowing. 
+2. Runs of non-evolving frontocentral theta activity. 
+3. Isolated diffuse frontally predominant slow waves that on a single occasion correlates with the generalized body jerks.
+IMPRESSION:  This is a very abnormal EEG due to mild diffuse slowing, runs of sharply contoured bifrontocentral activity and occasional diffuse waveforms without clearly formed sharp waveforms that on a single occasion are associated with brief generalized body jerks.  This EEG supports a bihemispheric diffuse disturbance of cerebral dysfunction.  No clear electrographic seizures are captured.

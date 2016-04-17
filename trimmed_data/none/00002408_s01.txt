@@ -1,0 +1,12 @@
+MEDICATIONS:  Pravastatin, Aspirin, Plavix, Lantus.
+REASON FOR EEG:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and EKG electrodes.  The patient was recorded in wakefulness and drowsiness.  Activating procedures including photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that at best reaches 8.5 Hz and is best seen over the right hemisphere.  Some normal frontocentral beta is seen over the right hemisphere and with a slight decreased amplitude over the left.  The patient is recorded in wakefulness and drowsiness.  Photic stimulation produces no abnormal discharges.   
+ABNORMAL DISCHARGES:  
+Focal slow waves seen at F7/T3 continuously at a frequency of 2-4 Hz with an amplitude of 20-50 mV. 
+Generalized slow waves at 5-7 Hz seen almost continuously. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Continuous left anterior temporal slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of left anterior temporal focal cerebral dysfunction, which is consistent with a known stroke in that region.  No seizures or epileptiform discharges were seen.

@@ -1,0 +1,10 @@
+MEDICATIONS: Unknown 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.   
+DESCRIPTION OF THE RECORD: This continuous, video EEG monitoring demonstrates a pattern of generalized slowing with delta and theta.  There are asymmetries seen in the background, particularly in the later portions with the asymmetries more prominent from the right.  There are also right central sharp waves identified, sometimes subtle and at other times more prominent.  This has a periodicity during some portions of the record, which seems to be similar to the EKG but is not congruent with the EKG or not simultaneous with the EEG.  The patient’s clinical care intermittently produces a significant amount of artifact in the background.  
+No seizures were identified.  
+HR:  100 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Intrahemispheric asymmetry with higher amplitude, more prominent slowing on the right. 
+Right central sharp waves. 
+CLINICAL CORRELATION: No seizures were recorded.  This EEG supports not only a diffuse disturbance of cerebral function but a process impacting the right hemisphere more significantly than the left.   This EEG is technically inadequate because there is no interval history and no medication list.  

@@ -1,0 +1,14 @@
+MEDICATIONS: Dilantin, Tegretol, Phenobarbital, Percocet, Seroquel, Ativan 
+INTRODUCTION: Digital video EEG was performed at bedside using 10-20 system of 
+electrode placement with 1 EKG. Hyperventilation and voice stimulation were 
+performed. Awake and drowsy study. 
+DESCRIPTION OF THE RECORD: Background shows alpha at 10.5 Hz. The patient is 
+quite drowsy during the entire record and generous beta and theta is seen. During stage 
+of sleep, posts are seen, left greater than right, but this is non pathological in nature. 
+Photic stimulation was done and asymmetric driving greater on the left was seen, as the 
+patient falls asleep. This is pathological in nature. Low-voltage occipital delta was also 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Asymmetric driving seen greater on the left especially as he begins to fall asleep. 
+CLINICAL CORRELATION: The beta is consistent with history of benzodiazepines. No 
+clinical correlation for asymmetric driving on the left. Imaging is recommended. 

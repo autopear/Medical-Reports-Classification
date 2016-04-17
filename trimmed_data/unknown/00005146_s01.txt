@@ -1,0 +1,10 @@
+MEDICATION: Dilantin.
+ACTIVATION: Photic Stimulation and Hyperventilation.
+INTRODUCTION: Digital Video EEG was performed in the lab using standard 10-20 ·
+system of electrode placement with one channel of EKG.  This is an awake through stage
+II sleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9Hz,  30uV posterior dominant rhythm.  There is arrhythmic delta from the left mid temporal region which is higher amplitude than the background.  In wakefulness and through stage II, there is occasional left temporal sharp and/or sharply contoured delta as well as discreet sharp waves.   These range from discreet of 50-60uV to greater than lOOuV discharges.   To some extent, the focal slowing is a bit more prominent in sleep.   Photic stimulation is performed while the patient is asleep and does not clearly activate the tracing although, there is photoelectric artifact seen on the right.
+HR:   80BPM
+IMPRESSION: Abnormal EEG due to:
+1. Focal slowing and sharp waves
+CLINICAL CORRELATION:  This tracing supports a localization related mechanism for epilepsy and is congruent with this patient's history.

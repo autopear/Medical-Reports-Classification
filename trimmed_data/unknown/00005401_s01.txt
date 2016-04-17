@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, Citalopram, Meloxicam, ASA, Phenytoin 
+INTRODUCTION: Digital video EEG was performed in lab using standard system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation were performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is relatively low-voltage with generous beta activity and on rare occasion a 10-Hz alpha rhythm can be identified. Features of drowsiness include rhythmic background slowing. Vertex waves and spindles are noted in brief stage II sleep. Photic stimulation elicits vigorous bilateral driving. Hyperventilation produces an increase in amplitude and a degree of slowing in the background. 
+HR: 50 bpm. 
+IMPRESSION: Normal EEG in wakefulness through stage II sleep. 
+CLINICAL CORRELATION: No epileptiform features were observed. The patient quickly transitioned in and out of stage II sleep, which may be part of the underlying sleep disturbance. 

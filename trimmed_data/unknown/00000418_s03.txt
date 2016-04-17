@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Elavil, Percocet.
+INTRODUCTION : Continuous video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a
+10.5 Hz, 20 uV posterior dominant rhythm and a generous amount of low voltage, frontocentral beta activity. Drowsiness is characterized by slow rolling eye movements. Hyperventilation is performed early on in the record and the patient becomes drowsy. Features of drowsiness include an increase in background beta and slow rolling eye movements.  Other features of drowsiness include rhythmic central theta.
+Photic stimulation elicits scant driving.  HR:  96 BPM.
+IMPRESSION : Normal EEG.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record. Normal EEG does not .exclude the diagnosis of epilepsy.

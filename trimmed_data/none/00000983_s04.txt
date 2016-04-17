@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Ativan, Keppra, dexamethasone, lisinopril, and Dilantin.
+INTRODUCTION:  A long-term EEG was performed using a standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  During a large part of the recording, there was a 60 Hz artifact seen throughout the recording and review had to be performed with a notch filter on.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reached 9-10 Hz which was reactive to eye opening.  There was some frontal central beta.  Activating procedures were not performed.  The patient appears to go into stage I, stage II, and deeper stages of sleep.   
+Heart rate 96.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen intermittently at F3 and independently at T3 during wakefulness and sleep.  Please note that at the beginning of the recording these were seen very frequently and as time passed, they were seen less and less frequently and during the last 6 hours they were almost rarely seen.  
+Continuous focal slowing over the left hemisphere, maximal at T3 at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts with increasing amplitudes over that region consistent with a breach rhythm.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to frequent left mid temporal and frontal sharp waves as well as continuous midtemporal focal slowing.
+CLINICAL CORRELATION:  This EEG is consistent with a localization related epilepsy and with seizures likely arising from the left frontal or left midtemporal region.  In addition, there is evidence of focal cerebral structural dysfunction, which is consistent with the known tumor.  Please note that during the last 8 hours, the EEG improved markedly with less sharp waves and less rhythmic focal slowing.  No seizures were seen during this recording.

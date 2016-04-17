@@ -1,0 +1,8 @@
+MEDICATIONS: Ativan and Haloperidol.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is mainly a drowsy record. 
+DESCRIPTION OF THE RECORD: There is mild excessive beta and theta frequency seen.  Arousal response was positive.  Sleep spindles, K complexes, and spontaneous high amplitude vertex waves were also prominent.  Photic stimulation elicits driving.  
+HR:  102 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Excessive drowsiness.  
+Excess beta and theta activity. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The findings in this tracing are non-specific.  The patient’s drowsiness is a major concern. If epilepsy is an important consideration, a repeat tracing when the patient is more alert would be of use.  

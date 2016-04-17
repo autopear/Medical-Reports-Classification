@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Atenolol, Flomax, aspirin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  The patient was noted to snore throughout much of the record. 
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is an 8 Hz alpha rhythm with a small amount of background theta.  In drowsiness, there is generalized slowing with primarily a theta frequency background with bursts of shifting, sharply contoured arrhythmic delta activity seen in the T1 or T2 regions.  This can be differentiated from eye movement.  There are rare sharp waves, T1 greater than T2. 
+HR:  42 to 56 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Shifting arrhythmic delta.
+Rare temporal sharp waves in sleep.
+CLINICAL CORRELATION: This tracing supports an underlying disorder of cerebral function perhaps effecting white matter more than gray. While there is rare epileptiform activity, a partial mechanism for epilepsy is appropriate to consider.  No seizures were recorded and no previous EEGs were available for comparison. 

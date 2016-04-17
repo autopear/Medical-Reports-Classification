@@ -1,0 +1,7 @@
+MEDICATIONS: Depakote, Celexa, Seroquel, Birth control, Benzyl, INTRODUCTION: Digital video EEG was performed in lab using standard 10-20
+system of electrode placement with 1 channel of EKG. Photic stimulation and
+hyperventilation were performed. Awake and asleep study.
+DESCRIPTION  OF THE RECORD:  During wakefulness, there was a well organized alpha background with a rhythm of 11 Hertz. POSTS were seen early in the record. Further deeper stages of sleep were seen with vertex waves, K complexes, and spindles. There was no driving on photic stimulation. There was no activation on hyperventilation.
+	HR:	70 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  There was no epileptiform activity on this record. A normal EEG does not rule out the diagnosis of epilepsy. If further concern of this diagnosis, would recommend repeat of this study.

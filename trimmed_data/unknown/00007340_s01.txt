@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed. This is an awake and drowsy record.
+TECHNICAL:  There is a fair amount of muscle artifact noted in the frontal regions.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm and a small amount of low voltage, frontocentral beta.  Drowsiness is characterized by an increase in theta and slowing of the alpha rhythm.   
+Hyperventilation produces a small amount of slowing.  Photic stimulation is remarkable for a driving response and eye artifacts.   
+Heart rate 72 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified. No previous EEGs were available for comparison.  In this seizure-free adult, if additional information is needed, a review of previous EEGs may be of use.

@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Trileptal, vitamins.
+INTRODUCTIO N: Digital  video  EEG  is performed  in  the lab  using standard  10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake and drowsy record.
+DESCRIPTIO N  OF   THE    RECORD:  In  wakefulness,   the   background   EEG   is somewhat  slow with  excess  background  theta.   A theta  frequency  posterior  dominant rhythm  is identified, occasionally  reaching a frequency  of 8 Hz. There are intermittent asymmetries  with higher  amplitude  theta on the right.   Photic  stimulation  elicits  brief bilateral driving.
+HR:  84BPM.
+IMPRESSION: Abnormal EEG due to:
+1.   Excess background theta.
+2.   Shifting slowing with slightly higher amplitude theta on the 1ight.
+CLINICAL CORRELATION: No epileptiform  features were identified  in this record. This EEG supp01is a bihemispheric  process.  No specifically  left temporal features  were identified.

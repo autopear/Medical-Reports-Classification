@@ -1,0 +1,20 @@
+MEDICATIONS: Dilantin, others. No medication list available. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 
+system of electrode placement with1 channel EKG. Photic stimulation is performed. 
+This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is drowsy with 
+primarily a mixed theta and delta frequency background. Superimposed upon this, 
+there are several areas of focal slowing with some subtle sharp activity in the right 
+central region. As the patient arouses, the activity is more symmetric. There is, 
+however, some shifting slowing in right or left central areas. Features of sleep include: 
+Vertex waves followed by arousal. Towards the close of the record, photic stimulation is 
+performed. The patient is drifting off to sleep but brief, scant driving responses are 
+observed. 
+HR: 80 bpm 
+IMPRESSION: Very mild abnormal EEG due to: 
+1. shifting slowing in the central regions, somewhat sharply contoured on the right. 
+CLINICAL These findings carry an intermediate correlation with a 
+structural or functional abnormality in the central regions. Additional evaluation may be 
+warranted given the fact that some of the features described above are bilateral, but 
+given the CAT scan described above, features described were less prominent than one 
+would expect. 

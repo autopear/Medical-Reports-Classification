@@ -1,0 +1,6 @@
+MEDICATIONS: Nitroglycerin, Flovent, ASA, Protonix, Dilantin, Dilaudid, Lovenox, Metoprolol, Lisinopril 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. This is an awake through stage II sleep record with photic simulation. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is within normal limits with a 9 Hz alpha rhythm. In the transition to sleep, there are vertex waves, K complexes, spindles; and on 1 or 2 occasions, some frontal vertex waves which is a little higher amplitude on the left or right. Photic stimulation is performed while the patient is falling into stage II sleep and produces scant driving. 
+HR: 70 bpm
+IMPRESSION: EEG within normal limits. 
+CLINICAL CORRELATION: If further characterization of this patient's epilepsy is important, a more prolonged sleep recording, particularly looking for a frontal lobe focus, may be considered. 

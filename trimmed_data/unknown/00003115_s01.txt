@@ -1,0 +1,9 @@
+MEDICATIONS: Zonegran, Lamictal, Dilantin, and others.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a posterior dominant rhythm of 9.25 Hz, 30 to 50 uV with a small amount of low voltage, frontocentral beta activity.  Hyperventilation is performed with good effort and elicits focal slowing from the left anterior temporal region.  In addition, there is some sharply contoured delta activity and very sharp waves seen from the left temporal region.  Following this, the patient becomes drowsy and in drowsiness again the left temporal focal features are identified.  Eye blink artifact is occasionally elicited in the temporal regions as well, but can be differentiated from the focal slowing.  Towards the close of the record, as the patient is awakened for photic stimulation, the focal slowing is prominent in the left anterior temporal region.  
+Photic stimulation elicits minimal driving.  
+HR:  76 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Focal slowing.
+Rare left anterior temporal sharp and slow wave complexes. 
+CLINICAL CORRELATION: This tracing differs from an EEG in 2000, which identified bifrontal sharp waves.  

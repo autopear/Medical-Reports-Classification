@@ -1,0 +1,8 @@
+MEDICATIONS:  Lisinopril, Dilantin, Flomax, aspirin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the EEG is appropriately organized with a 9 Hz alpha rhythm.  In wakefulness and into relaxed wakefulness and early drowsiness, intermittent, semirhythmic delta was noted in the left hemisphere, particularly in the temporal region.  There is also a small amount of shifting slowing noted with occasional slowing noted on the right.  Deeper stages of sleep were not sustained, but as the patient does become drowsy, the left hemispheric slowing is a bit more prominent. 
+Photic stimulation elicited scant driving.  Heart rate 66 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Intermittent left hemispheric or left temporal focal slowing.
+Occasional slowing on the right.
+CLINICAL CORRELATION:  This is the third EEG for this individual without epileptiform activity.  Of note, the overall background is improving as the patient moves away from the events earlier this month.  None of the EEGs have identified epileptiform activity.

@@ -1,0 +1,16 @@
+MEDICATIONS: Ativan, Dilantin, Lovenox, Protonix, ASA 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. Photic stimulation was 
+performed and the patient is relatively drowsy. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 
+pattern of generous beta frequency activity and smaller amounts of theta. There is an 
+underlying alpha rhythm of 9.2 Hertz but there is some excess slowing mixed with the 
+alpha. In addition there is a small amount of intermittent, bilateral delta. Features of 
+drowsiness include slow rolling eye movements and an increase in beta. Photic 
+stimulation elicits a brief driving response. 
+HR: 90 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. A small degree of background slowing 
+2. Disorganization. 
+CLINICAL CORRELATION: No epileptiform features identified. Consider repeat in the 
+lab. 

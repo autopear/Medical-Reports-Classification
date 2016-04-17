@@ -1,0 +1,9 @@
+MEDICATIONS:  Heparin, ASA, Lipitor, Levodopa, Nitroglycerin.
+REASON FOR STUDY:  Syncope.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures was performed, specifically photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  There is normal frontal central beta.  Sleep is characterized by stage I and stage II.  Activating procedures, which is photic stimulation, produces no abnormal discharges.  There is some intermittent mild bilateral mid temporal delta. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

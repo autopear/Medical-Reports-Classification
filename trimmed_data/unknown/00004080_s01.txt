@@ -1,0 +1,6 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  The patient is very sleepy.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is a 10 hertz, 50 microvolt posterior dominant rhythm. The patient transitions in and out of stage II sleep and much of the record includes a drowsy pattern with transition in and out of stage II sleep with vertex waves, K complexes, spindle and posts. There are a hand full of snore arousals. The patient manages to stay awake for photic stimulation which does not significantly activate the record. 
+HR:    78 bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This is a very drowsy patient. There is also some snoring. The drowsiness may be due to sleep deprivation which might have been part of the patient's instructions for this study. If the patient is was not expected to be so sleepy, evaluation for an underlying sleep deficit may be appropriate.

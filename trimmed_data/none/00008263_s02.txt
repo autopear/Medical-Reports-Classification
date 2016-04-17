@@ -1,0 +1,16 @@
+MEDICATIONS: Keppra, Lovenox 
+REASON FOR STUDY: Seizures.
+INTRODUCTION: Digital video long term EEG monitoring was performed at bedside
+using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode. The patient was recorded in wakefulness and sleep. Continuous spike detection software, as well as seizure detection software, patient. events, and alarms, as well as nurses events were noted to review the EEG.
+'
+TECHNICAL DIFFICULTIES: In the middle of the night some electrodes became dislodged and there is some electrode artifact by the end of the recording.
+DESCRIPTION OF THE RECORD: The record opens to a well defined posterior dominant rhythm at9-10 Hz which is reactive to eye opening. There is normal frontal central beta. Activating procedures and photic stimulation produce no abnormal discharges. The patient is recorded during wakefulness and sleep and normal stages 1 to 3 with sleep are recorded.
+ABNORMAL DISCHARGES: None.
+SEIZURES: None.
+Episodes: The patient had 3 episodes throughout the recording. The first one occurred at 12:34 p.m. at the onset of the recording where she started having left facial twitching, followed by unresponsiveness while continuing to have left facial twitching. This event lasted for about 2 minutes and then the patient became reactive again.
+The second event occurred at 8:18p.m. The patient suddenly started having left facial twitching and grimacing, as well as tightening her arms, as well as becoming unresponsive. This was followed by staring and mouth movements. The episode lasted for over 4 minutes.
+At about 3:32 a.m. the patient suddenly started having diffuse body shaking and rocking, as well as facial twitching. This was much more severe than the other ones. She continued rocking, jerking, and being unresponsive. Then after stopping the jerking she laid in bed and remained unresponsive and started moving her mouth rhythmically
+in a chewing fashion. The whole event lasted for about 4.5 minutes.
+The EEG during the whole 3 events revealed a normal posterior dominant rhythm and no epileptiform correlate to any of the events.
+IMPRESSION: Normal awake and sleep EEG and 3 non-epileptic events.
+CLINICAL: CORRELATION: This is a normal awake and sleep EEG. Note: The 3 events described above did not have an EEG correlate which is consistent with a diagnosis of psychogenic nonepileptic seizures.

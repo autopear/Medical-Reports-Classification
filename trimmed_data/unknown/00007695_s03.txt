@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Depakote, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is extubated but confused. 
+DESCRIPTION OF THE RECORD: The background EEG is abnormal and is composed of a mixture of primarily beta and theta frequency activity.  Superimposed upon this is focal slowing from the left hemisphere, maximum at T3 with an associated sharp wave, which is seen in drowsiness at least once per ten seconds. With stimulation, the patient coughs, arouses, and both hemispheres are richer in 6 to 8 Hz activity bilaterally.  In the sleep recording there are spindles and vertex waves.  The high amplitude left anterior temporal spike and slow wave complexes persist in stage II sleep.  
+HR:  114 BPM, occasionally irregular.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+A left anterior temporal spike and slow wave activity, which varies in terms of its prominence in this record, but at some points in both the beginning of the record and in the stage II sleep record is relatively frequent.
+Superimposed focal slowing from the left temporal region. 
+CLINICAL CORRELATION: This tracings supports a structural or functional abnormality as well as a partial mechanism for this patient’s seizures.  In this individual with a history seizures, the background slowing may be due to medications or postictal state. In comparison to the previous EEG, the epileptiform activity is considerably improved.  

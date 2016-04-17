@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and melatonin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: As the EEG begins, bifrontal sharp waves are observed, which appear to be triphasic in morphology with occasional left temporal sharp waves.  There is a lot of variability but in some parts of the record, there is not a great deal of temporal sharp waves as seen in other parts of the record.  This EEG recording shows a more rhythmic background with significant variability compared to a 7/22/03 record.
+HR:  108 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized rhythmic slowing of the background.
+Bifrontal sharp waves.
+Focal sharp waves in the left temporal and right central regions. 
+CLINICAL CORRELATION: The background seems to be improving and the patient seems to be more clinically awake and alert. The epileptiform activity shows variability in this record. The background is supportive of diffuse cerebral dysfunction. As compared to this patient’s last EEG, this record shows the patient to be more responsive, with a recording that shows variability. 

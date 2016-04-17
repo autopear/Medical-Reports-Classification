@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Dilantin and Keppra.
+INTRODUCTION:  A long-term EEG was performed using standard a 10-20 electrode placement system with additional anterotemporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.  Continuous spike-wave detection as well as seizure-detection software including patient's notes and nurses' notes were used to review the EEG.
+TECHNICAL DIFFICULTY:  Some movement artifact seen throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that can be best seen over the right hemisphere and reaching 9-10 Hz which is reactive to eye opening.  Over the right hemisphere, there is at times a posterior dominant rhythm that can also be seen at 9-10 Hz; however, there is hemispheric slowing that appears to be maximal at T3 and seen continuously.  This hemispheric slowing also has intermixed sharp waves that at times are more frontal at F7, sometimes more at T3, and sometimes more at F3.  These sharp waves at times become rhythmic and appear to become monomorphic but do not clearly evolve.  At times they just start and stop in bursts of 10-20 seconds.  This appears to be more pronounced when the patient is awake.   
+Heart rate:  84. 
+Abnormal discharges:
+Focal sharp waves seen independently at F7, at T3 and F3, at times in rhythmic bursts but not clearly evolving.
+Focal slowing seen over the left hemisphere maximal at T3 with asymmetric amplitude consistent with a breach rhythm. 
+Seizures:  No clear electrographic or clinical seizures were seen.
+IMPRESSION:  Abnormal EEG due to frequent left anterotemporal and frontal sharp waves in addition to left hemisphere focal slowing, maximal in the midtemporal region.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of localization-related epilepsy with seizures likely arising from the left anterotemporal and/or left frontal region.  In addition, there is evidence of focal and structural dysfunction irritability over the left hemisphere, maximal in the midtemporal region, which is consistent with the known tumor resection.  Please note that this recording looks slightly different from the last hours of the previous recording in which the frequency and amplitude of the sharp waves was not as impressive.  These findings were communicated to the primary team.

@@ -1,0 +1,6 @@
+MEDICATIONS: Aspirin, Plavix, Heparin, and Norvasc. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is 4 to 5 Hz, 40 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by increased beta and theta. Deeper stages of sleep are not sustained. Photic stimulation elicits brief driving at intermediate and faster flash frequencies.
+HR:  56 to 90 BPM, irregular.
+	IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  These results are similar to the results of March 1999. 

@@ -1,0 +1,10 @@
+MEDICATIONS:  Lamictal, Synthroid
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  The patient had continuous eye movement artifact throughout the recording despite being asked to relax by the technologist.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9-10 Hz, which is reactive to eye opening.  There is a normal amount of frontal central beta.  Activating procedures produce no abnormal discharges.  The patient is only recorded during wakefulness.   
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake EEG.
+CLINICAL CORRELATION:  This is a normal awake EEG.  No seizures or epileptiform discharges were seen.
+DER/8/13/2012 1:42 PM

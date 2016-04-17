@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Librium, Thiamine.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record in a patient who is lethargic.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG demonstrates modest background slowing with a posterior dominant rhythm of 6 to 8 Hz, 30 to 50 V.  In the transition to drowsiness, there are occasional bursts of shifting arrhythmic delta activity identified from either hemisphere.  In stage I sleep, vertex waves are identified.  There is some snore artifact.  There are multiple, brief arousals from sleep.  The pattern in sleep is relatively low voltage, again with intermittent arousals.
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Mild generalized background slowing in apparent wakefulness.
+Occasional shifting arrhythmic delta activity in drowsiness. 
+CLINICAL CORRELATION: The spontaneous arousals may be seen in individuals with alcohol withdrawal or any other sort of agitated state.  The snoring producing an arousal raises the possibility of an obstructive sleep apnea. The shifting, arrhythmic delta activity is a non-specific finding and consideration for underlying white matter disease in either hemispheres would be appropriate.

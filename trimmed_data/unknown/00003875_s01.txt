@@ -1,0 +1,4 @@
+MEDICATIONS: Pentobarbital and Dilantin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. There is no clinical information provided at the onset of the EEG at 17:38:53.
+DESCRIPTION OF THE RECORD: As the tracing opens, the background EEG is markedly suppressed.  The EEG is reviewed with a sensitivity of 2 uV.  The patient is examined in the initial EEG.  There is scant cerebral activity with essentially a pattern at sensitivities of 2 of nearly electrocerebral silence with the exception of the right posterior quadrant, which demonstrates some low voltage theta and smaller amounts of beta activity.  The sections of the record with cerebral activity may be as short as three seconds in duration or as long as seven seconds.  
+HR:  66 BPM.

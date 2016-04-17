@@ -1,0 +1,9 @@
+	MEDICATIONS: 	Dilantin, insulin, others.
+	INTRODUCTION: 	Digital video EEG is performed in lab using 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed.
+	DESCRIPTION  OF THE RECORD: 	Background EEG in wakefulness is somewhat slow with excess background theta. Hyperventilation is performed early on in the record producing bursts of frontally predominant slowing; however, some of this is irregular with more irregular, sharply contoured signs on the right hemisphere with bursts lasting up to 5 seconds. The drowsy pattern demonstrates an increase in background slowing. In addition, more rhythmic, right frontal delta with suspicious underlying right frontal sharp waves are seen in brief bursts in the transition to drowsiness. Photic stimulation elicits
+both photoelectric artifact and some driving.
+	HR: 	100 BPM.
+	IMPRESSION: 	Abnormal EEG due to:
+	1.	Generalized background slowing.
+	2. 	Superimposed bursts of paroxysmal frontal delta much more prominent from the right hemisphere with an underlying right frontal sharp wave.
+CLINICAL CORRELATION: This EEG supports a localization related mechanism for epilepsy. The focal findings may be correlated with imaging.

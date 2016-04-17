@@ -1,0 +1,8 @@
+MEDICATIONS: Ativan drip, Dilantin, Haldol, Serax, Ceftriaxone, Pantoprazole, AZITHROMYCIN, Medrol 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is on a face mask, but is responsive, and demonstrates asterixis. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous pattern rich in beta frequency activity, as well as theta and slow delta. The asterixis is not associated with a change in the EEG. As the EEG continues and the patient becomes more agitated, there is an increase in faster frequency activity and a decrease in delta. 
+HR: 114 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Replacement of normal background with a pattern of beta and theta. 
+2. Intermittent background delta. 
+CLINICAL CORRELATION: This individual with a history of epilepsy or seizures, a follow up study when he is out of the ICU may be helpful to characterize epileptiform activity. 

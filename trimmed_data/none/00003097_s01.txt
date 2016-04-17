@@ -1,0 +1,16 @@
+MEDICATIONS:  Advair, Spiriva, Paxil, Xanax, Trazodone.
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single lead electrode.  The patient was recorded in wakefulness and drowsiness, as well as stage I sleep.  
+No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  Multielectrode artifact, as well as movement artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 9 Hz, which is reactive to eye opening.  The posterior dominant rhythm is seen best over the left hemisphere.  There is normal frontal central beta, although at times this is lacking.  
+The patient reaches stage I sleep.  No activating procedures are performed. 
+ABNORMAL DISCHARGES:
+Focal slow waves seen intermittently at P4, at times at P6 at 2-4 Hz with an amplitude of 20-40 mV.  
+There is generalized slow waves seen at 5-7 Hz with an amplitude of 20-60 mV seen almost continuously during the limited wakefulness.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Right parietal and posterior temporal slowing. 
+Mild generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right parietal and posterior temporal regions, which is consistent with a known lesion in that region.  In addition, there is evidence of mild diffuse cerebral dysfunction, which 
+is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.  Note:  This is a limited EEG due to marked motion artifact.

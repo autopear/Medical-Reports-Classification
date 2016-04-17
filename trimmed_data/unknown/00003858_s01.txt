@@ -1,0 +1,8 @@
+MEDICATIONS: Phenobarbital, Dilantin, Tegretol, Advair 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is 9.3 hertz alpha rhythm with a small amount of low voltage frontocentral beta activity. Brief drowsiness is characterized by slowing of the background. Photic stimulation does not activate the record.
+ 
+HR: 90 bpm 
+IMPRESSION: Normal EEG in wakefulness. 
+CLINICAL CORRELATION: There are no focal nor epileptiform features. A normal EEG does not exclude a diagnosis of epilepsy, however, in this individual with refractor seizures in pregnancy, a review of this patient's previous EEG may be useful. 
+ 

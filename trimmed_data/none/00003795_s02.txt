@@ -1,0 +1,41 @@
+MEDICATIONS: Diltiazem, Lisinopril, Lamictal. 
+INTRODUCTION: Continuous video EE G monitoring is performed in the unit using 
+standard 10-20 system of electrode placement with 1 channel of EK G. Computerized 
+system of seizure and spike detection is employed. No seizures are observed by the 
+patient, computer or clinical team. 
+DESCRIPTION OF THE RECORD: The background EE G demonstrates asymmetric 
+eye artifact, congruent with this patient's history of prosthetic eye. There are left anterior 
+temporal spike and slow wave complexes and polyspike complexes observed in 
+wakefulness through stage II sleep. Rare right temporal sharp waves are observed. 
+Occasional left temporal intermittent rhythmic delta is observed. 
+Reviewing the seizure and spike detector, although there are no clinical events, there is 
+1 event out of sleep at 02:03:25 a.m. The patient has a high amplitude left anterior 
+temporal polyspike followed by rhythmic delta picked up in the temporal regions on the 
+left. Intermittent TIRD A is observed. Most of the time, this is on the left in the T1 and T2 
+electrodes, but on other occasions, it is picked up at T1 and T2, but has more field on 
+the right. 
+HR: 72 bpm 
+There is one more day and that is when we will dictate the impression and the 
+conclusion. 
+LONG-TERM MONITORING 11/15/2007 
+INTRODUCTION: Continue video EE G monitoring is performed in the unit using 
+standard 10-20 system of electrode placement with 1 channel of EKG. The patient 
+recalls no seizures during this section of the record. He reports no episodes of vertigo 
+loss of awareness. 
+DESCRIPTION OF THE RECORD: Background EEG demonstrates a well organized 
+10 hertz posterior dominant rhythm. There is asymmetric eye artifact compatible with a 
+right glass eye .Intermittent sharp waves are identified from the left temporal region as 
+is occasional left temporal theta. The awake record demonstrates intermittent rhythmic 
+delta. The sleep record is remarkable for a prominent accentuation with left anterior 
+temporal spike and slow wave complexes, but left anterior temporal spike and slow 
+wave complexes are also identified in wakefulness. The vast majority of epileptiform 
+activity is on the left, but is occasionally observed on the right with right temporal spike 
+and slow wave activity as well. 
+HR: 72 bpm 
+IMPRESSION: Abnormal continuous EEG monitoring due to: 
+1. High amplitude left anterior temporal spike in slow wave and sharp and slow wave 
+complexes identified in wakefulness and increasing in sleep. 
+2. Rare right temporal sharp waves. 
+3. Temporally predominant rhythmic delta and theta primarily on the left. 
+CLINICAL CORRECTION: Consideration for a localization related mechanism for 
+epilepsy is appropriate. 

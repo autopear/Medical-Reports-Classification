@@ -1,0 +1,6 @@
+MEDICATIONS: Lyrica, Dilantin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is somnolent. Photic stimulation is performed. 
+DESCRIPTION OF THE RECORD: In the initial sections of the record, the patient is quite obtunded but within minutes he is awake with an 11 Hz alpha rhythm. Unstimulated he drifts off to sleep with a relatively low voltage featureless pattern. Spindles are noted in stage II sleep. Photic stimulation is performed while the patient is still asleep and he does have a brief arousal during photic stimulation and scant driving. 
+HR: 84 bpm 
+IMPRESSION: This is a normal EEG in a very drowsy patient. 
+CLINICAL CORRELATION: The low voltage sleep pattern can be a normal variant. There are no epileptiform features. This EEG has features of a postictal pattern with originally a very slow record and then an increasingly awake patient. 

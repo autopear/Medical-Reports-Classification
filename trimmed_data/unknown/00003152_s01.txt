@@ -1,0 +1,7 @@
+MEDICATIONS:  Ativan, Dilantin, Depakote, Haldol, clindamycin.
+INTRODUCTION:  Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was initially comatose.  The patient was intubated throughout the EEG.
+DESCRIPTION OF THE RECORD:  The initial sections of the record demonstrated a low voltage, slow record with delta and frontal beta. 
+As the recording continues, tactile stimulation of the patient results in an alerting response with eye opening, lower voltage fast beta pattern and spontaneous movements of all extremities of the patient.  As the recording continues, the patient starts to drift back towards stage II sleep.   
+Heart rate:  78 beats per minute.
+IMPRESSION:  Abnormal EEG due to: Replacement of normal background with low voltage and generalized slow pattern.
+CLINICAL CORRELATION:  Brief alerting response identified is a positive finding for this individual with recent status epilepticus.  No epileptiform features were seen.

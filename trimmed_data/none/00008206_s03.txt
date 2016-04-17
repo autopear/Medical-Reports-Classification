@@ -1,0 +1,11 @@
+MEDICATIONS:  Lamictal
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and drowsiness.  Activating procedures included photic stimulation and hyperventilation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 8.5 Hz, which is reactive to eye opening.  There is a normal amount of frontocentral beta which is slightly increased over the right hemisphere in the frontal region.  Activating procedures revealed no abnormal discharges which included hyperventilation and photic stimulation.   
+ABNORMAL DISCHARGES:  Focal slow waves seen in the right hemisphere, maximal at F4 at a frequency of 2 to 4 Hz with an amplitude of 20 to 60 microvolts with a breach over that region.
+SEIZURES:   None
+IMPRESSION:  Abnormal EEG due to: 
+Right frontal slowing. 
+Breach.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right frontal region, which is consistent with the known tumor surgery.  No seizures or epileptiform discharges were clearly seen.

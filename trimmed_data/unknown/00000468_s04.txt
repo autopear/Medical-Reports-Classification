@@ -1,0 +1,13 @@
+MEDICATIONS: Tramadol, Zocor, Thiamine, Seroquel, Norvasc, Dilantin, Hydralazine, labetalol 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10.20 system of 
+electrode placement with 1 channel of EKG. The patient is in wakefulness and also going into drowsiness. Hyperventilation and photic stimulation were performed. 
+DESCRIPTION OF RECORD: In wakefulness, there is a 6Hz to 10Hz background. The overall background is slow and disorganized with some spike and low wave in the right side and 
+with left temporal slowing. There is temporal rhythmic delta (TIRDA). Also, the record shows some features of focal slowing and sharp waves in the left side in addition to T1 and F7, that demonstrated left temporal sharp. With photic stimulation, there is a driving response at 19 Hz that appears symmetric. 
+HR: 66bpm 
+IMPRESSION: Abnormal EEG that revealed in maximal wakefulness., 
+1. Excess theta with several prominent features. 
+2. left anterior temporal sharps with slow waves with predominance in T1, F7 and 
+frontoparietal that lead to focal slowing. 
+3. Sharps in Fa, T2, C4.  
+CLINICAL CORRELATION: The background slowing In addition to the independence and left 
+sharps supports a localization-related mechanism for epilepsy. Clinical correlation is indicated with a temporal focus for this activity. 

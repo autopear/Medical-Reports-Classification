@@ -1,0 +1,8 @@
+MEDICATIONS:  Ativan, Haldol, Diazepam, Keppra, Xanax, Percocet, Levetiracetam, Simvastatin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  Wakefulness and sleep were recorded. No stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.  Prior craniotomy scar
+DESCRIPTION OF THE RECORD:  The record opened to a very slow background of 5-6 Hz. The patient is asleep when the EEG starts. The tech tries to wake her up, there is a brief alerting with 8 Hz alpha rhythm, but wakefulness is not sustained. The majority of the EEG is stage I and stage II sleep.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  EEG within normal limits in sleep.
+CLINICAL CORRELATION:  Seizures or epileptiform discharges were seen. Please note that normal EEG does not exclude the diagnosis of epilepsy. This patient's medications or acute medical condition may account for the hypersomnolence. No epileptiform features seen in prior EEG.

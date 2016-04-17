@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Ativan, antihypertensives, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is intubated and unresponsive during the record. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is unresponsive.  The background EEG is somewhat disorganized with a 7 Hz posterior dominant alpha rhythm.  There is mild asymmetry of the background with a mild decrease in the amplitude on the right, as well as attenuation on the right.  Sharp activity with slow activity was seen at the T3-T4 regions.  No clinical seizures were correlated on the video camera.  Stimulation of the patient produced variability on the background by decreasing the slow waves transiently.  
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Disorganized background.
+Asymmetric background with occasional attenuation in the right hemisphere.  
+Alternative left or right anterior temporal quadrant epileptiform discharges. 
+CLINICAL CORRELATION: This abnormal EEG pattern is suggestive of a severe cerebral dysfunction involving mainly the gray matter.  It also provides a mechanism for epilepsy in this patient.  Clinical correlation is recommended.  

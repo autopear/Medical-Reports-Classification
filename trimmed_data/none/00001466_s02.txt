@@ -1,0 +1,7 @@
+MEDICATIONS:   Depakote, Trileptal
+INTRODUCTION:   Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated.
+DESCRIPTION OF THE RECORD:  Overall background  is featureless and slow bilaterally, greater seen on the left. Slow periodic discharges of 0.8 Hz  are seen every 1 second.  In comparison of last EEG, they are of lower voltage and now are of a more suppressed pattern. These periodic discharges are seen mostly of the left occipital region at the start of the record, but near the end, they are seen also on the left central region. Heart rate: Around 104 beats per minute.
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Overall background  is featureless and slow bilaterally, but slower on the left.
+	2.	Periodic discharges in the hemisphere, maximal left occipital region at the beginning and later also seen in the left central region.
+CLINICAL CORRELATION: There are no seizures seen on this record, but this pattern is consistent with severe anoxic injury.

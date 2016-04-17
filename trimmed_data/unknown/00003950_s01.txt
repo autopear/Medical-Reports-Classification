@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Labetalol, thiamine, and many others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the patient achieves an alpha rhythm of 10 Hz, 30 to 50 uV with a small amount of low voltage, frontocentral beta activity. Much of the record captures early drowsiness and in this pattern, there is some underlying arrhythmic delta, which is slightly asynchronous, perhaps a bit slower at times on the right or the left, particularly with this isolated delta in the posterior region. Towards the close of the record, when the patient is maximally awake for photic stimulation, there are brief portions where there is clearly an asymmetry with subtly disrupted faster frequency activity on the right compared to the left. A scant driving response is identified.
+HR: 78 BPM.
+IMPRESSION : Abnormal EEG due to:
+	Subtle underlying shifting and slowing in the posterior regions in early drowsiness.
+	Infrequent asymmetry with disruption of faster frequency on the right compared to the left.
+CLINICAL CORRELATION : In this patient with a history of seizures localizing to the right body and left brain, no epileptiform features were identified on that side. There are shifting asymmetries seen in this record, which may be correlated with this patient's bihemispheric pathology. Iffurther characterization of his epilepsy is important, a repeat tracing may be useful.

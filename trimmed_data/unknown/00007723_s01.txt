@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Metoprolol, Singulair, Metformin, Lantus, lsosorbide, Tylenol, Pantoprazole, Clondine, Nifedipine
+INTRODUCTION:   Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  In brief wakefulness there is a 9.5 hertz posterior dominant rhythm.  The overall EEG is low voltage.  Much of the record includes drowsiness with a clear breech rhythm in the frontal region, accentuation of the amplitude activity in that area, skull artifact with double phase reversal and prominent EKG artifact.
+The patient is falling asleep in photic stimulation and in photic stimulation there is a vertex wave followed by a K complex and then bursts of FIRDA high-amplitude frontal delta without clinical correlate.  Following this, the patient awakened with a well organized pattern. In fact, the
+patient is awakened by the tech who taps and then after this the patient drifts off to sleep. Additional paroxysmal bursts without epileptiform activity are observed in photic stimulation, but are terminated by the tech stimulating the patient.  When unstimulated, the patient drifts off to stage II sleep.
+	IMPRESSION:   Abnormal EEG due to: I.	A relatively low-voltage pattern.
+	2.	Significant cranial defects with head-rocking artifact in the frontal regions.
+	3. 	Occasional bursts of rhythmic frontal slowing and the transition to and from sleep.
+	4. 	Excess frontal low-voltage theta.
+CLINICAL CORRELATION:   No epileptiform features were observed.  The findings described above are congruent with her imaging. 

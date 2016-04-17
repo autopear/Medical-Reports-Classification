@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Ethambutol, Rephampin, others.
+INTRODUCTION: Digital  video EEG is performed  at the bedside  in  the ICU  using standard 10-20 system of electrode placement with one channel of EKG. The patient is no longer extubated and is conversant, although restless.
+DESCRIPTION OF THE  RECORD: The background EEG is slow and disorganized with a paucity of nom1al awake adult rhythms.  The frequencies include delta, theta, and generous beta.  There is occasional FIRDA.  As the patient becomes drowsy, there is a bit more rhythmic delta from the right hemisphere including right frontal and right occipitotemporal.
+HR:  108 BPM.
+IMPRESSION: Abnormal EEG due to:
+1.  Marked generalized slowing.
+2.   Occasional rhythmic slowing on the right.
+CLINICAL CORRELATION: No epileptiform  features were identified  in this record. This   EEG   is   more   compatible   with   a   chronic   underlying    encephalopathy   with considerable background slowing in an individual who is awake and conversant.

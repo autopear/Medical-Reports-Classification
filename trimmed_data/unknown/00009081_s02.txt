@@ -1,0 +1,11 @@
+MEDICATIONS:   Dilantin, Corag, Plavix, Azor, Tekurna, Advair, lmdur, Statin, Nexium, Actos, Mentax, Excelon, Ranexa, Catapres
+INTRODUCTION:  Digital  EEG is performed using standard 10-20 system of electrode placement with one channel EKG.  Photic stimulation is performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:   The background EEG demonstrates intermittently, diffusely slow pattern.  There is intermittent, paroxysmal slowing.  When the patient is maximally awake, there is an alpha rhythm 9 Hz.  There are bursts of generalized  hypersynchronous rhythmic slowing as well as shifting slowing. Some of the rhythmic delta is more prominent from the left central region with a bit more arrhythmic delta from the right. Photic stimulation does not
+activate the record. There is no mention of the patient experiencing  the motor activity during the
+EEG and there is no accompanying  video.
+	HR: 	84 bpm.
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Intermittent, generalized  background  slowing with paroxysmal slowing.
+	2.	Shifting arrhythmic delta activity.
+	3. 	Interhemispheric asymmetry with a bit more rhythmic delta from the left and arrhythmic delta from the right.
+CLINICAL CORRELATION:  It does not appear that the patient had any of his behaviors during this EEG.  No epileptiform features were seen in this markedly abnormal background.  Overall the appearance is one of a metabolic encephalopathy  particularly withburst of paroxysmal slowing.

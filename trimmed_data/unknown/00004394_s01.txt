@@ -1,0 +1,6 @@
+MEDICATIONS: Depakote, Dilantin, insulin, Erythromycin, and Ativan.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  The patient is described as exceptionally drowsy.
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is an 11 Hz, 40 V posterior dominant rhythm.  Much of the drowsy record is characterized by slowing of the posterior dominant rhythm with an increase in both beta and theta.  Stage II sleep is characterized by vertex waves, K complexes, and spindles.  There are rare, shifting asymmetries.  The patient is intermittently alerted from stage II sleep, but subsequently drifts back to sleep.  Photic stimulation is performed with attempts to alert the patient.  There is minimal driving at faster flash frequencies and then the patient drifts back to sleep.
+HR:  90 BPM.
+	IMPRESSION: EEG primarily in sleep within normal limits.
+CLINICAL CORRELATION: There are no definite focal or epileptiform features seen in this record.  Additional clinical evaluation may be helpful regarding this patient’s hypersomnolence. 

@@ -1,0 +1,8 @@
+MEDICATIONS: Morphine, Dilantin, and antibiotics. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is diffusely slow and disorganized.   There is a 6 to 7 Hz, 30 uV posterior dominant rhythm and a moderate amount of generalized beta activity. Occasionally, shifting asymmetries are seen in the background with theta as well as arrhythmic delta activity.  Sleeping is evidenced by a few vertex waves. Deeper stages of sleep were not achieved. 
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Diffusely slow and disorganized background.
+Shifting asymmetric and rhythmic theta with arrhythmic delta.
+CLINICAL CORRELATION: The patient is not in coma or status epilepticus- she is awake which is a positive prognostic feature after cardiac arrest.  This tracing is suggestive of a diffuse pathological process involving both gray and white matter.  Prior CVAs or todays events may produce this pattern. 

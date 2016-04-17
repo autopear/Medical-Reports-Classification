@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is an awake and light sleep record. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with theta activity and disorganized.  A rare, slow alpha rhythm of 7 Hz, 20 V is seen. Low voltage, frontocentral beta activity is also seen.  Soon after the EEG starts, bursts of 2 to 4 Hz frontally predominant sharp and slow wave complexes lasting for one to two seconds are seen.  In addition, frequent right focal spike and wave complexes are seen in the right hemisphere, mostly in the temporal region, but also in the occipital area.  This focal spike and wave activity occasionally generalized. Drowsiness is characterized by a decrease in the amplitude as well as a mixed frequency of activity, with bursts of frontally predominant 2 to 3 Hz sharp and slow wave activity. Deeper stages of sleep were not achieved.  When the patient is aroused, she has some spastic facial movements, but no EEG correlates were recorded. 
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Diffusely slow and disorganized background.
+Bursts of frontally predominant sharp and slow wave activity.
+Focal spike and wave activity in the right temporal and occipital area.
+CLINICAL CORRELATION: This tracing is consistent with a diffuse disorder of cerebral dysfunction involving both gray and white matter.  The epileptiform discharges found in the right hemisphere, as well as the frontally predominant sharp and slow waves supports a partial mechanism for epilepsy in this patient. This EEG pattern is usually seen in patients with refractory epilepsy.  The clinical differential should also include Lennox-Gastaut syndrome.

@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Labetalol, Ativan, Versed, and others.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as stuporous. 
+DESCRIPTION OF THE RECORD: The background EEG is continuous, rich in beta and theta frequency activity.  There are occasional bursts of delta.  There is some focal delta with slower arrhythmic delta activity from the right posterior quadrant.  There is also intermittent asymmetry of the beta frequency activity with relative disruption in the right compared to the left.  With stimulation, the patient alerts briefly and there is an increase in theta frequency activity.  When the patient is left by herself, the EEG is rich in beta frequency activity and there is subtle discontinuity.  
+HR:  116 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with a mixture of beta and theta.
+Focal slowing from the right posterior quadrant.  
+CLINICAL CORRELATION: No epileptiform features were seen despite the history of recent status epilepticus.  This EEG supports a diffuse disorder of cerebral function. The patient’s benzodiazepines may produce the beta described above.  The focal slowing supports a structural abnormality and is congruent with the reported CT scan findings. 

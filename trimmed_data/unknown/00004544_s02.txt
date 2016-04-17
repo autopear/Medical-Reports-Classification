@@ -1,0 +1,16 @@
+MEDICATIONS: Dilantin, Phenobarbital, Propofol, Zofran, and others. 
+INTRODUCTION: Continuous EEG is performed in the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  Start time for this LTM is 13:44
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an overall transition.  It becomes increasingly lower in voltage and also more discontinuous.  There is a transformation with bursts of activities followed by bursts of attenuation in what is a lower voltage record.  There is a comment regarding Pentobarbital initiation at 15:02:39, which precedes some of the paroxysmal changes described above, and then at 20:56, again a Phenobarbital bolus is given.  These comments can be integrated into the record to demonstrate what is an increasingly burst suppression-like pattern.  By midnight, the EEG is markedly suppressed with intermittent bursts of activity, which are essentially bilateral.  Vecuronium is given at 1:21 AM on the 26th. 
+Long-Term EEG Monitoring, August 26, 2006 to August 27, 2006
+INTRODUCTION: Continuous EEG is performed in the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  There are no additional notes regarding the dose of Pentobarbital until much later at 7:00 AM. The Pentobarbital dose had at some point been discontinued and is restarted for reasons that are not entirely clear.  
+DESCRIPTION OF THE RECORD: The EEG is markedly suppressed, however, there is some cerebral activity and there is an alpha frequency artifact picked up in the background, particularly at C3, P3, which is invariant and hence unlikely to be cerebral in origin.  There are no additional comments regarding the Pentobarbital drip.  
+Long-Term EEG Monitoring, August 27, 2006 to August 28, 2006
+DESCRIPTION OF THE RECORD: The background EEG is markedly suppressed. The EKG lead is discernable.  The EEG can be read at a sensitivity of 2, and there is scant, very low voltage activity in the background.  The EEG no longer has some of the paroxysmal bursts.  
+HR:  108 BPM.
+Long-Term EEG Monitoring, August 28, 2006 to August 29, 2006
+DESCRIPTION OF THE RECORD: EEG monitoring at times identifies an entirely suppressed pattern.  There is a progressively low voltage and suppressed background with some artifact.  
+HR: 120 BPM.
+	IMPRESSION: EEG monitoring for this patient was remarkable for:
+	Initially an intrahemispheric asymmetry followed by the appearance of a burst suppression pattern with Pentobarbital therapy followed by a markedly low voltage and suppressed pattern. 
+	
+CLINICAL CORRELATION: This EEG supports a severe disturbance of cerebral function affecting the right hemisphere more than the left, as well as the pharmacologic effects of the Pentobarbital.  There was no additional history provided to indicate what happens in the later days of the recording in regard to ongoing use versus cessation of the Pentobarbital and/or the reported craniotomy, which would impact these results.  If further information is needed, additional clinical information would be necessary.  

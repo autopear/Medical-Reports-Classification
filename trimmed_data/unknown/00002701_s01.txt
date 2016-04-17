@@ -1,0 +1,7 @@
+MEDICATION:  Morphine, Dilantin.
+ACTIVATION:  Photic Stimulation.
+INTRODUCTION: Digital Video EEG was performed in the lab using standard  10-20 system of electrode placement  with one channel of EKG.
+DESCRIPTION  OF THE RECORD:  This patient is drowsy or asleep  but when he is maximally awake, there is a 10 Hz, 50-60uV posterior dominant rhythm with a generous amount  of  low  voltage,  frontocentral   beta  activity.    Of  note,  the  alpha  rhythm  is occasionally  higher  amplitude  on the left.   Features of drowsiness  include  slow rolling eye movement  and an increase in background beta.   Beta spindles are noted in stage ll sleep and there are multiple transitions between wakefulness and sleep.  POSTS are noted in stage I sleep.   Photic  stimulation is performed while the patient is somewhat  drowsy but does elicit a bilateral driving response.
+HR:  72BPM.
+IMPR ESSION: EEG within normal limits.
+CLINICAL  CORRELATION:  The  alpha rhythm is slightly higher  amplitude  on the left than the right but not outside of the limits of normal.  No epileptiform features were seen.  These findings may be correlated with imaging.

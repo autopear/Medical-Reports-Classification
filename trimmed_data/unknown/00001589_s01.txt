@@ -1,0 +1,15 @@
+MEDICATIONS: Dilantin, Lexapro, Temazepam, Seroquel, Klonopin, Clonazepam 
+Divalproex
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel EKG. Hyperventilation and photic 
+simulation are performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness there is an 11 Hertz, 20 microvolt 
+posterior dominant rhythm with a small amount of low voltage, frontal central beta 
+activity. Drowsiness is characterized by bursts of FIRDA. In addition, there is 
+prominent beta. Hyperventilation does not activate the record. In sleep there is some 
+head rocking artifact but no definitive epileptiform activity. Photic stimulation elicits a vigorous driving response. 
+HR: 78 bpm 
+IMPRESSION: This EEG is remarkable for excess beta. 
+CLINICAL CORRELATION: No epileptiform features are identified. The beta 
+described above may be due to this patient's medications. 
+ 

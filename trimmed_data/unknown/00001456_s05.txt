@@ -1,0 +1,19 @@
+MEDICATIONS: Ativan, Dilantin, Keppra. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10·20 
+system of electrode placement with 1 channel of EKG. The patient has received 5 mg 
+Ativan and is quite somnolent. Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a very slow 
+pattern, low voltage with delta and smaller amounts of beta. There is intermittent 
+background attenuation. There are a handful of low voltage, right frontotemporal sharp 
+waves as well as rare sharp waves noted on the left which can be differentiated from 
+EKG and other artifacts. The patient's transitioning into stage II sleep during photic 
+stimulation which does not otherwise activate the record. 
+HR: 90bpm . 
+IMPRESSION: Abnormal EEG due to: 
+1. Replacement of normal background with low voltage slow pattern. 
+2. A handful of proudly contoured sharp waves in the right anterior temporal or 
+frontocentral region. 
+3. Rare left temporal sharp waves. 
+CLINICAL CORRELATION: This-record is significantly slower and lower voltage than 
+previous studies. In the 2 previous studies available for comparison, the epileptiform 
+activity was higher amplitude and more easily defined on the right. 

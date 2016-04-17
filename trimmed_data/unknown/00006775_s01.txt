@@ -1,0 +1,10 @@
+MEDICATIONS:  Lovenox, Hydralazine, Simvastatin, Bactrim, Amiodarone, Cozaar, and
+Dilantin.
+INTRODUCTION:   Digital video EEG was performed at bedside using standard 10-20 system electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were not performed.
+DESCRIPTION OF THE RECORD:  The EEG pattern showed significant interhemispheric asymmetry with much slower left hemisphere comparing to the right.  The right hemisphere showed also slowing with the alpha frequency of around 8 with occasional delta activity from the right temporal region.  The patient seemed awake during the record.  The left hemisphere showed significant disorganized disruption of the normal pattern and the clear disruption was characterized  by the absence of the normal alpha or theta activity and increased delta activity. Occasional frontal intermittent  rhythmic delta activity/FIRDA  was also noted during the report.
+	HR: 	72 bpm
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Interhemispheric asymmetry with very slow left hemisphere.
+	2. 	FIRDA.
+	3. 	Occasional right T4 focal slowing.
+CLINICAL CORRELATION:   This EEG pattern supports the hemispheric  disturbance  of the brain following an acute/subacute CVA.  No epileptiform activity noted during this recording. Right focal delta congruent with prior CVA.

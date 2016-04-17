@@ -1,0 +1,6 @@
+MEDICATIONS:  Keppra, Dilantin and others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  This is a technically acceptable record, although impedance for T1-T2 electrode slightly increased.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  As the patient becomes drowsy, there is an increase in theta.  Other features of drowsiness include slow rolling eye movements, but sleep is not sustained.  Photic stimulation elicited bilateral driving.  
+Heart rate 60 bpm.
+IMPRESSION:  EEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  If additional information is needed, a follow up study is suggested.

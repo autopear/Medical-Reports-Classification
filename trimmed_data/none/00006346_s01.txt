@@ -1,0 +1,13 @@
+MEDICATIONS:  Vancomycin, Heparin, Clindamycin, Fentanyl, Metoprolol, Depakote, Pantoprazole, Lopressor, Valproate.
+`REASON FOR STUDY:  Change in mental status. EEG for possible myoclonic jerks.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded while awake.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  Some movement artifact during the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontocentral beta.  The overall background consists of diffuse delta activity at 2 to 4 Hz with a central alpha pattern.  There are some what appear to be state changes, but no typical sleep architecture.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:
+Focal spikes were seen occasionally at CZ and at times with a predominance at C4 and at times at C3.
+Generalized slowing at 2 to 4 Hz seen continuously. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Central spikes. 
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of central focal irritability which may have correlation with acute structure injury in that region.  In addition, there is evidence of diffuse cerebral dysfunction which is nonspecific with regard to etiology.  No seizures were seen.

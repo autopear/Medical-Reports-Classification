@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin and Keppra.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures, including photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is seen mainly over the right hemisphere. The posterior dominant rhythm, although can be slightly lower in amplitude on the left. The patient is recorded during wakefulness and stage I sleep.  Activating procedures, including photic stimulation.
+ABNORMAL DISCHARGES:  Focal slowing seen over the left hemisphere, maximal at C4 with an asymmetry and lower amplitudes at 20-30 microvolts seen continuously throughout the recording.   
+Heart rate 60.
+IMPRESSION:  Abnormal EEG due to left hemispheric slowing, maximal in the central region in addition to decreased amplitude over that region.
+SEIZURES:  None.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral structural dysfunction involving the cortex over the left hemisphere, maximal in the central region,which is consistent with a known traumatic brain injury.  No seizures or epileptiform activity was seen.

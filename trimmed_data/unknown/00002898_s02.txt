@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Phenobarbital, Morphine, Propofol, and Versed.
+INTRODUCTION: Continuous video EEG is  performed at  the bedside in  the  ICU  usin g standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and unresponsive.  No clinical seizures were observed.
+DESCRIPTION   OF  THE  RECORD:  As the tracing begins,  the background EEG  is low voltage, low to medium amplitude, diffusely slow. In the initial portions of the record, there is a well-defined periodic complex from the right hemisphere with a generous field of spread, maximum in the right anterior temporal regions, but again with involvement at C4 in the right central region and even 02.  There is also more disruption of faster frequency activity seen at times from the right compared to the left. Over time, the periodic activity wanes. On one or two occasions, it is reflected on the left. Although it is not possible to identify stimulation or testing of the patient, the activity does overall become more subtle over time, although it does not completely disappear.  In this record, there are rare bursts of high amplitude sharply contoured delta from the left anterior temporal region.  Stimulation of the patient can be identified at9:04
+AM.   At this time, stimulation of the patient produces a small increase in faster frequency activity.                       
+ HR.: 120 BPM.
+IM PRESSION: Abnonnal24-hour video EEG monitoring due to:
+1.   Right  hemispheric periodic complexes, which gradually fade to sharply  cortoured  delta during this recording.
+2.   Generalized background slowing with excessive delta.
+3.   Superimposed focal slowing from the right hemisphere.
+4.   Rare sharply contoured delta from the left.

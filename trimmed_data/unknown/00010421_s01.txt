@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, thiamin, Lipitor, Heparin, and others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  The patient was described as snoring occasionally. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.3 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity. In wakefulness and in drowsiness, there is left anterior temporal sharp and slow wave and spike and slow wave complexes, which range from small discrete discharges to higher amplitude discharges.  They are seen in wakefulness and in sleep.  Features of sleep include vertex waves, K complexes, and spindles.   
+Photic stimulation elicits bilateral driving.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Left anterior temporal sharp and slow wave complexes. 
+CLINICAL CORRELATION: In this individual with a right parietal stroke, the epileptiform activity is outside of the distribution of the ischemia.  Correlation with additional neuroimaging may be of value. 

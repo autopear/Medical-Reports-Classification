@@ -1,0 +1,11 @@
+MEDICATIONS: Zosyn, Dilantin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Patient was intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is abnormal. It includes what seems to be an awake and asleep record. Superimposed upon all the sleep states is a
+5 Hz sharply contoured or repetitive sharp discharge maximum in the left temporal parietal region. In stage 2 sleep suggest left parietal 5 Hz  activity may occur in brief paroxysmal bursts, brief runs, or with focal isolated discharges. There are some isolated T5/ P3 sharp waves and a handful of sharp waves. Features of sleep include vertex waves and spindles. The P3 activity is quite prominent, but it does not build up.
+Arousals are characterized by muscle activity but again with some 5 Hz  on the left.
+Later portions of the record suggest almost a bilateral discharge in the posterior regions with rhythmic theta which has the appearance of benign variant seen in geriatric populations, but the early section of the record is much more supportive of an epileptiform discharge.
+	HR:	70-100 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+1.   Underlying epileptiform discharge in the left temporal parietal region.
+CLINICAL CORRELATION: As this patient recovers from his acute illness, additional EEG recording to define the presence of focal sharp waves and or SREDA is suggested.
+		

@@ -1,0 +1,9 @@
+MEDICATIONS: Oxcarbazepine, Labetalol, Ativan, Pantoprazole, Hydralazine, Metoprolol, Prednisone, Bisacodyl, Insulin, Trileptal, Lovenox 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. The patient has a trache and PEG and is poorly responsive. 
+DESCRIPTION OF THE RECORD: The background in this EEG demonstrates a low, mixed frequency pattern with primarily 2 Hz delta activity and smaller amounts of 4 Hz theta activity. There are occasional sharp waves noted in the background, including in the frontal regions, left greater than right, and in the right posterior temporal region. This is a dynamic record with some sections of the record demonstrating a lower voltage theta pattern. The remainder of the record demonstrates low voltage delta, followed by smaller amounts of theta. The record concludes at 10:14. Stimulation of the patient at the closing of the record produces muscle artifact and a scant amount of faster frequency activity, as well as bursts of delta. 
+HR: 84 bpm 
+IMPRESSION: This EEG is remarkable for. 
+1. Prominent sharp waves noted in the initial sections of the record, which do appear to have responded to the use of Ativan. 
+2. Markedly abnormal background. 
+3. At least initially a very irritative pattern. 
+CLINICAL CORRELATION: No seizures were recorded in the section of the record provided. The initial section certainly raises the possibility of an irritative brain. The possibility of seizures prior to this study can be considered. Of note, behaviorally the patient is not significantly different pre and post with a bit of eye flicker. Additional evaluation and recording may be considered. 

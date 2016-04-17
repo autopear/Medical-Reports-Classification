@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Percocet, and Elavil.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.5 Hz posterior dominant rhythm.  In wakefulness, there is occasional left temporal focal slowing with an associated sharp wave.  This is seen primarily at the beginning of the record.  Hyperventilation does not activate the record.  Photic stimulation produces harmonic and supraharmonic driving. 
+HR:  114 BPM.
+	IMPRESSION: Mildly abnormal EEG in wakefulness due to:
+	1.	Left temporal slowing with associated sharp waves.
+CLINICAL CORRELATION: This EEG suggests a localization-related mechanism for epilepsy, and the location of her epileptiform discharges are not in the region of her aneurysm coiling.  

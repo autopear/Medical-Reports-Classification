@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and Neurontin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is relatively low voltage.  Hyperventilation is performed with good effort, producing an increase in the amplitude of the background.  At that time, a low voltage 9 Hz posterior dominant rhythm is identified bilaterally.  Despite movement artifact, there is a glimpse of a left mid-to-anterior temporal region in HV.  This is followed by a drowsy pattern at which point there is some subtle focal slowing discernable in the left anteriotemporal region.  As the patient drifts off to sleep, he begins to snore, again producing a fair amount of artifact.  Other features of sleep include some vertex activity.   In sleep, well-defined left anteriotemporal spike and slow wave complexes are identified.  The patient remains asleep during photic stimulation, with features of stage II sleep and spindles, but no clear driving.  In this sleep state, during HV, the left anteriotemporal spike and slow wave complexes are better defined and then the patient briefly awakens towards the end of HV.
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Left anteriotemporal spike and slow wave activity.
+	Left anteriotemporal focal slowing.
+	Low voltage, somewhat slow background.
+CLINICAL CORRELATION: Despite the technical challenges described above, this EEG is similar to a previous record with focal temporal epileptiform activity.

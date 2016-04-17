@@ -1,0 +1,7 @@
+MEDICATIONS: Morphine, Midazalam, Ativan, pressers, Hydrocortisone, Dilantin, and antibiotics. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not possible.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is low voltage and continuous.  The patient has eye movements, but there are asymmetric eye artifacts.  The overall pattern is low voltage with rhythmic theta and smaller amounts of delta.  The patient is awake throughout portions of the record, although testing is somewhat difficult.  Stimulation of the patient, however, clearly elicits an alerting response with an increase in theta and some frontal delta. 
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG for a subject of this age due to:
+Replacement of normal background with primarily theta and smaller amounts of delta. 
+CLINICAL CORRELATION: There are some technical features in this record which produced asymmetries, however, given the condition of Stevens-Johnson, and hypersensitivity with scalded skin, it may not have been possible to achieve optimal electrode placement or scalp impedances. If epilepsy is an important consideration, a follow-up study in the lab when the patient’s dermatologic conditions have resolved is appropriate. 

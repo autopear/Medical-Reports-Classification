@@ -1,0 +1,10 @@
+MEDICATIONS:  Plavix, Atenolol, ASA, Diovan, Isosorbide, Simvastatin, Trilipix.  She also received aspirin and morphine in the ER.
+REASON FOR EEG:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with anterior temporal electrodes and EKG electrodes.  EEG was recorded during wakefulness and stage I sleep.  Activating procedures include  photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm of 9 Hz with about 20-60 microvolt amplitude.  Normal frontocentral theta is seen.  Sleep is characterized as stage I.  Photic stimulation was performed with no abnormal discharges. 
+ABNORMAL DISCHARGES::  Intermittent T5 focal slow waves. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:  
+Infrequent left posterior temporal slowing.
+CLINICAL CORRELATION:  This EEG is consistent with evidence of mild focal cerebral dysfunction in the left temporal region, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

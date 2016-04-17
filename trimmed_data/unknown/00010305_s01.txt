@@ -1,0 +1,9 @@
+MEDICATIONS:  Lasix, Dilantin, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was lethargic but somewhat responsive at the time that the EEG was performed.
+DESCRIPTION OF THE RECORD:  The background EEG includes significant muscle and motion artifact.  The pattern includes generous alpha and beta frequency activity as well as arrhythmic delta activity with shifting arrhythmic delta activity from either hemisphere.  The patient is able to answer questions.  As she becomes a bit more cooperative and relaxed, generous beta was noted.  In this sharply contoured record, there are bursts of arrhythmic delta activity and some sharply contoured discharges at F3 and C4.  These are identified independently.
+HEART RATE:  78 BPM.
+IMPRESSION:  This is a technically very challenging but abnormal EEG due to:  
+1. Background slowing and disorganization.  
+2. Bursts of shifting arrhythmic delta.  
+3. Prominent beta.  
+4. Despite the limitations of the record, independent sharp waves were noted from either hemisphere.  Well-defined sharp waves were infrequent, but if additional delineation of epileptiform activity in this patient is needed, a more complete study in the lab, when she is able to cooperate, is suggested.

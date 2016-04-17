@@ -1,0 +1,8 @@
+MEDICATIONS: Nitroglycerin, Dilantin, and others.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and unresponsive during the recording. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates continuous low voltage diffuse beta activity.  The EEG is intermixed with a small amount of delta activity mostly in the central region.  Painful stimulation did not change the pattern..  
+HR:  114 BPM, irregular.
+IMPRESSION: Abnormal EEG due to:
+Continuously low voltage and diffuse beta activity.
+	2.	Stimulation did not activate the EEG.
+CLINICAL CORRELATION: No localized or epileptiform abnormalities  were identified This EEG pattern is consistent with severe cerebral dysfunction.  This EEG pattern is suggestive of a poor prognosis.

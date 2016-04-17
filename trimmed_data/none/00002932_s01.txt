@@ -1,0 +1,9 @@
+MEDICATIONS:  Seroquel, Ativan, HCTZ
+REASON FOR STUDY:  Aortic arch replacement preop.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF RECORD:  The record opens to a posterior dominant rhythm that at best can reach 9 Hz,  however, is mainly in the 8 to 8.5 range.  The posterior dominant rhythm appears to be reactive to eye opening and there is a normal amount of amount of frontocentral beta.  The patient was recorded in wakefulness and sleep, stage I and stage II.  Activating procedures produced no abnormal discharges.   
+ABNORMAL DISCHARGES:  Mild excessive theta of 5-7 Hz with an amplitude of 20-50 microvolts in wakefulness.
+IMPRESSION:  Abnormal EEG due to: 
+Mild excessive theta in wakefulness.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.

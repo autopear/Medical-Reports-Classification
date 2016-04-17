@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz, 30 uV posterior dominant rhythm. Drowsiness is characterized by rhythmic background slowing, with vertex waves, K complexes, and spindles in stage II sleep. There is a small amount of snore artifact, but this is not sustained   Photic stimulation is performed while the patient is relatively drowsy, but does elicit a brief driving response.  
+HR:  90 BPM.
+	IMPRESSION: Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  Of note, the patient reported shortness of breath to the technologist during this study, which was why hyperventilation was not performed. 

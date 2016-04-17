@@ -1,0 +1,9 @@
+	MEDICATIONS: 	Dilantin, aspirin and Lovenox.
+	INTRODUCTION: 	Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is completed.
+			DESCRIPTION OF THE RECORD: 	In wakefulness, there is a 9 Hz posterior dominant rhythm. Superimposed upon this, there is intermittent arrhythmic delta from the left frontotemporal region with associated sharp waves. There is also excess 	acra 	theta. The activity on the left is sometimes high amplitude with a generous field of spread maximum at Tl. There are a handful of other suspicious sharp waves observed in the record including C4. Features of drowsiness including increase in background theta as well as the frontotemporal delta. Photic stimulation elicits no driving.
+	HR: 	78 BPM.
+	IMPRESSION: 	Abnormal EEG for an adult of this age due to:
+1. Left frontotemporal focal slowing and sharp waves.
+	2. 	Excess theta.
+3. Rare C4 sharp waves.
+	CLINICAL CORRELATION:	This EEG supports a localization-related mechanism for epilepsy as well as a diffuse disturbance of cerebral function. The focal slowing is in the region anticipated to produce aphasia. No previous records were available for comparison.

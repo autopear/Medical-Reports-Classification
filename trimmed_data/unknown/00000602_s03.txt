@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, morphine, and Percocet. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. No previous EEGs were available for comparison.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 9.5 Hz, 40 uV posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  Hyperventilation is performed early on in the record, producing an increase in background theta.  Features of drowsiness include hypersynchronous rhythmic slowing with vertex waves.  Vertex waves, spindles, K complexes, and POSTS were seen in sleep. Photic stimulation is performed while the patient is relatively drowsy and does not clearly activate the record. 
+HR:  72 BPM.
+	IMPRESSION: Very mildly abnormal EEG due to:
+	1.	Intermittent background theta.
+CLINICAL CORRELATION: The theta described above is non-specific and may be due to this patient’s sedative hypnotic medications, postictal state, or underlying CNS process. No epileptiform features were seen.

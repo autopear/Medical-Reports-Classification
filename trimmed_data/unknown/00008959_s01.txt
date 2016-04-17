@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is appropriately organized for a child of this age with a 10.5 Hz, 50 to 75 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Hyperventilation is performed early on in the record, producing hypersynchronous rhythmic slowing, particularly from the occipital regions in the beginning.  Photic stimulation is characterized by vigorous driving with harmonic and supraharmonic driving.  Features of drowsiness include an increase in background theta.  At the close of the record, stage II sleep is recorded with vertex waves, spindles, K complexes, and POSTS.  There is some snore artifact, and there is a single right central sharp wave. 
+HR:  66 BPM.
+	IMPRESSION: EEG within normal limits in wakefulness through stage II sleep.
+CLINICAL CORRELATION: Only a single right centrotemporal sharp wave was noted in this record and, therefore, must be considered artifactual.  

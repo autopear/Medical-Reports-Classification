@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is examined during the EEG. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a slow and disorganized pattern in an agitated patient who has head and eyes turned to the right but does have motor activity using the left. There is no well-defined alpha rhythm and the overall pattern is one of beta with smaller amounts of theta. The theta frequency activity is approximately 5 Hz. As the recording continues, the patient does occasionally look to the left. 
+HR: 78 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+CLINICAL CORRELATION: No epileptiform features were observed today. Comparison with previous EEGs may be helpful in this individual with a history of intermittent, severe seizures. 

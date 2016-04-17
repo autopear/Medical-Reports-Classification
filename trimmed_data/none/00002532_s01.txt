@@ -1,0 +1,9 @@
+ACTIVATION: Photic Stimulation.
+INTRODUCTION: Digital Video EEG was performed in the lab using  standard 10-20 system of electrode placement with one channel of EKG.
+DESCRIPTION OF  THE  RECORD: The background EEG is abnormal.   It is poorly organized.   There is a discernable  posterior dominant rhythm averaging  7 Hz with some shifting   asymmetry,  sometimes  more  slow  on  the  right  or  left.     Shifting,  sharply contoured  delta activity can be seen from the right or left temporal region  and there are independent  sharp  waves maximum  at T2 and/or T1.  Features  of stage I sleep include vertex waves.  Features  of stage II sleep include vertex waves and K-complexes.  Photic stimulation does not activate the record.
+HR: 96BPM.
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing
+2.   Sharply contoured delta in the right or left temporal region
+3.   Rare sharp waves attributable to either temporal region
+CLINICAL CORRELATION:  No seizures were seen.   This EEG supports  a diffuse disturbance of cerebral function affecting both gray and white matter.   Correlation with imaging may be helpful.

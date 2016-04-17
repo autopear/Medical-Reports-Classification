@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and asleep record, with photic stimulation.
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is slow for an adult of this age with a posterior dominant rhythm of 6 to 7 Hz, 30 to 50 uV.  There is a prominent breach rhythm identified in the right frontal region with prominent accentuation of alpha and beta frequency activity in this region.  As the patient becomes drowsy, right frontal spike and slow wave or sharp and slow wave complexes are identified.  The frontal regions are remarkable for occasional, frontal delta seen bilaterally. 
+Photic stimulation does not activate the record. 
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Occasional right frontal sharp and slow wave complexes.
+Occasional frontal slowing.
+CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function effecting both gray and white matter.  The breach rhythm suggests a previous craniotomy and is in the region of the epileptiform activity.  A partial or focal localization mechanism for his epilepsy should be considered. 

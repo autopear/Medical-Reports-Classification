@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake but speaks very little English.  Photic stimulation was performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is reasonably well organized with a 9 Hz, 30 to 40 uV posterior dominant rhythm, and a generous amount of low voltage, frontocentral beta activity.  In the transition to drowsiness, there is an increase in background beta, as well as some rhythmic central theta.  Occasional bursts of frontally predominant delta are seen in the transition to sleep.  Generous spindles are noted in stage II sleep followed by arousals.  
+Photic stimulation elicits brief bilateral driving.  
+HR:  100 BPM.
+	IMPRESSION: EEG within normal limits in wakefulness through stage II sleep. 
+CLINICAL CORRELATION: No definite focal or epileptiform features were identified in this record.  There is a generous amount of beta and the patient seems to be quite drowsy.  Consideration for medications, which could produce the beta described above would be appropriate. 

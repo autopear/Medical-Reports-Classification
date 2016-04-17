@@ -1,0 +1,6 @@
+MEDICATIONS:  Versed, Ativan, Dilantin.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  This was a difficult patient with problematic impedance and combative behavior.
+DESCRIPTION OF THE RECORD:  The patient is primarily drowsy throughout the EEG transitioning from drowsiness to even stage II sleep with vertex waves and a suggestion of spindles.  Brief arousals produce eye opening and scant alpha activity and then the patient  transitions back to a drowsy state with theta and generous beta.   
+Heart rate 78 BPM.
+IMPRESSION:  This is a normal EEG primarily in drowsiness.
+CLINICAL CORRELATION:  The generous beta may reflect the use of benzodiazepines.  This patient is drowsy, compatible with the clinical scenario.  No epileptiform features were identified.  No previous EEGs are available at this time for comparison.  A previous study on June 14, 2006, may be utilized for comparison.

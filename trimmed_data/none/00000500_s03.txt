@@ -1,0 +1,16 @@
+MEDICATIONS:  Thorazine, Heparin, Keppra, Famotidine, lisinopril, Metoprolol.
+REASON FOR STUDY:   Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded while obtunded.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 7 Hz.  There is an absence of normal frontal central beta.  There appears to be some theta frequency seen only throughout the left hemisphere and being absent over the right hemisphere.  There is no normal sleep architecture.  No activating procedures were performed.   
+ABNORMAL DISCHARGES:
+Focal slow waves seen intermittently at T3 at a frequency of 2-4 Hz at an amplitude of 20-50 mV. 
+There is right hemispheric attenuation with lack of any fast frequencies or even theta frequencies over that hemisphere.  
+Generalized slowing at 5-7 Hz with an amplitude of 20-40 mV seen mainly over the left hemisphere.
+SEIZURES:   None
+IMPRESSION:  Abnormal EEG due to: 
+Left temporal focal slow waves. 
+Generalized slow waves. 
+Right hemispheric diffuse attenuation.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural cortical dysfunction over the right hemisphere, as well as focal cerebral dysfunction over the left mid temporal region, both of which are consistent with a known large right and left MCA 
+stroke.  In addition, there is evidence of diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.

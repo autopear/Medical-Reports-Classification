@@ -1,0 +1,13 @@
+MEDICATIONS: Phenobarbital, Midazolam, Dilantin, Valproic Acid 
+INTRODUCTION: Continuous digital video monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is now longer having right focal twitching. She is critically ill, intubated, with multiple abdominal and musculoskeletal injuries.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous pattern of high amplitude fast activity or spikes in the left central and/or temporal region. As this recording continues, the area of epileptogenicity seems to have broaden. While it started at C3, it includes C3, P3, and the temporal regions. There are also some occasional sharp waves in the contralateral hemisphere. The vast majority of the activity is on the left, high amplitude. It waxes and wanes a bit, but at this point no longer completely evolves as a seizure might. 
+There are sections of the record, including 11:48 p.m., where the activity is lower amplitude and there is a bit more sharp activity on the right. In addition to the epileptiform activity, the overall background is primarily a delta pattern. 
+At 6:29 a.m. the activity waxes and wanes a bit, but no clinical signs or symptoms are observed. 
+This section of the record concludes at 11:40 a.m. on June 1, 2011. On the morning of June 1, 2011 there is prominent epileptiform activity. There are some sections with paroxysmal delta appearing out of the right, but the majority of the epileptiform activity is in the left hemisphere. It is associated with some faster frequency activity. 
+As the recording continues, it is transitioning from a central focus to a T3 focus, but again with generous spread through the left hemisphere. 
+HR: 112 bpm 
+IMPRESSION: This EEG monitoring for is remarkable for: 
+1. Prominent epileptiform activity which is transitioning over time from a central focus to a fast and sharp focus in the left temporal region. 
+2. Occasional sharp waves in the left. 
+3. Intermittent sections where the epileptiform activity does improve. 
+CLINICAL CORRELATION: With stimulation on June 1, 2011 at 10:43 the background EEG does seem to be reactive and there was eye movement in association with tactile stimulation, which is a positive finding in this critically ill individual with a significant PRES pathology. 

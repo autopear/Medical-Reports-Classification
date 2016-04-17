@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin, Lovenox
+REASON FOR STUDY:  3 episodes of bilateral upper extremity shaking for 10-15 seconds.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system and single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures, including hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  During the entire study there was difficulties with the T4 electrode, which causes marked electrode abnormality, that even though the technician tries to fix multiple times continue to reappear throughout the study.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches, at best, 8.5 Hz, which is reactive to eye opening.  There is some frontal central beta.   Activating procedures, including hyperventilation, produce a normal diffuse slowing response, but photic stimulation produces no abnormal discharges. The patient is recorded in wakefulness and drowsiness. 
+ABNORMAL DISCHARGES::  None.
+SEIZURES:  None
+IMPRESSION:  Normal awake and drowsy EEG.
+CLINICAL CORRELATION:  This is a limited EEG due to single electrode artifact and is normal.  No seizures or clear epileptiform discharges were seen.

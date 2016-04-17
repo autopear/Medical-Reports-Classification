@@ -1,0 +1,5 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is noted to be very sweaty. Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG is somewhat slow and disorganized. There is shifting slowing. In addition, there is arrhythmic delta activity particularly in the left temporal region. In this sharply contoured background, there is a suggestion of a left posterior temporal sharp wave identified in wakefulness. Sharply contoured slowing is also noted at C3fT3. Deeper stages of sleep are not achieved. 
+HR: 60 bpm 
+IMPRESSION: Abnormal EEG due to:1. A slow and disorganized background.2. Superimposed focal slowing from the left hemisphere. 3. Sharply contoured activity in the left posterior quadrant. 

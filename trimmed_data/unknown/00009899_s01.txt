@@ -1,0 +1,8 @@
+MEDICATIONS: Antivert, Percocet, Dilantin, and others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is noted to have a prominent craniotomy defect.  Photic stimulation is performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is relatively well organized.  There is a posterior dominant rhythm identified of 7.5 Hz bilaterally.  This ranges from 75 V on the left to 20 V on the right.  There is nearly continuous focal slowing from the left, particularly in the temporal region through the prominent breach and sharply contoured activity emanating in that region.  There is a mixture of arrhythmic delta and rhythmic theta seen.  Vertex waves are identified in stage I sleep.  
+Photic stimulation does not activate the record. 
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Nearly continuous focal slowing with arrhythmic delta activity. 
+CLINICAL CORRELATION: In the setting of a breach as identified above, the background is sharply contoured, but there were no definite spike and slow wave complexes.  If additional characterization of this patient’s epileptiform activity is necessary, a follow-up study with more sustained sleep could be of use. 

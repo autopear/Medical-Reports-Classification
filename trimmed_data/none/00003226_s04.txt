@@ -1,0 +1,11 @@
+MEDICATIONS: Valproate. Others
+INTRODUCTION: This is a 24-hour continuous video EEG recording performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. 
+RANDOM WAKEFULNESS AND SLEEP: In wakefulness, the background EEG includes a lot of movement artifact and other artifacts.  At times, there is rhythmic theta on the left in comparison to the right notable in wakefulness.  An ongoing issue in the awake recording is very high amplitude eye movement artifact.  Drowsiness is characterized by rhythmic background theta and POSTS.  Spontaneous arousals are noted, and the patient is awake into the late night hours.   Vertex waves and spindles are seen in stage II sleep.   In that transition, there is a burst of sharply contoured slowing from the right.  In more sustained stage II sleep, there are rare, relatively high amplitude sharp and slow wave complexes identified on the right.  Again, throughout the night, sleep remains disrupted with multiple spontaneous arousals.  On some occasions, as the patient arouses from sleep, a train of POSTS are identified and some of these are high amplitude on the left compared to the right.  
+Reviewing the stellate seizure detection, no epileptiform seizures are identified and the stellate detections are arousals.  
+HR:  70 to 90 BPM.
+	IMPRESSION: Abnormal continuous video EEG monitoring due to:
+	Left temporal sharp and slow wave complexes seen in wakefulness and also in stage II sleep.
+	Rare, right temporal sharp waves.
+	Excess background theta. 
+	Evidence of an intrahemispheric asymmetry with an asymmetric driving response and at times, in the transition to and from sleep, a bit more faster frequency activity on the right, as well as the asymmetric POSTS.
+CLINICAL CORRELATION: This EEG supports a localization-related mechanism for epilepsy.  No seizures were recorded.  If this family desires additional recording, this patient would need to have additional supervision and his head wrapped to ensure electrode integrity. In addition, the fragmented sleep could be due to uncomfortable hospital conditions, but may represent other underlying disturbances of sleep.  

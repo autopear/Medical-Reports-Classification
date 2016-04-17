@@ -1,0 +1,7 @@
+MEDICATIONS: Depakote, Dilantin, and Ativan.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is low voltage with generous background beta and a difficult to discern posterior dominant rhythm.  As the patient becomes drowsy, there are prominent bursts of shifting arrhythmic delta activity, some of which are a bit more remarkable on the left compared to the right.  Stimulation of the patient elicits an alerting response.  
+HR:  60 BPM.
+	IMPRESSION: Mildly abnormal EEG for a subject of this age due to:
+Prominent bursts of shifting arrhythmic delta activity in the temporal regions in drowsiness. 
+CLINICAL CORRELATION: There are no definite epileptiform features identified in this record and no major focal features.  Additional imaging may be helpful in terms of localizing her symptoms. 

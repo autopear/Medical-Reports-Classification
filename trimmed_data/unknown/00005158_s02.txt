@@ -1,0 +1,11 @@
+MEDICATIONS: Dilantin, Keppra,  Ativan
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient had a ventriculostomy.
+DESCRIPTION OF THE RECORD: During wakefulness, there is no discernible alpha rhythm. During the start of the record, an interhemispheric asymmetry is seen.  On the right, a low voltage depressed pattern with theta and superimposed delta activity, while on the left sharp waves are seen in the P3 and F3 distribution. In the F3 distribution, poly spike waves are seen.  At times, there is evolution of the spike waves some times lasting 7 seconds in duration. In between these waves the record can attenuate lasting
+1 to 3 seconds.
+HR: 72 bpm and irregular.
+IMPRESSION: Abnormal EEG due to:
+	1.	Asymmetry of the background with right low voltage suppressed pattern and left sharp waves.
+	2.	Sharp waves in the left hemisphere in the P3 and F3 distribution at times with evolution.
+CLINICAL CORRELATION:  This record is consistent with periods of nonconvulsive status epilepticus and a focus for epilepsy.
+I   D.O.
+LOGY FELLOW

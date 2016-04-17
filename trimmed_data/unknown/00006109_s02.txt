@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, insulin, Clonidine, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is poorly organized with primarily a theta background with a posterior dominant rhythm of 6.5 Hz.  Drowsiness is characterized by attenuation of the background and an increase in beta frequency, as well as some vertex waves.  There are rare left temporal sharp waves identified with a field of spread.  One sharp wave reaches an amplitude of 75 uV.   Photic stimulation elicits a symmetric driving response.   
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Rare left temporal sharp waves seen in sleep.  
+CLINICAL CORRELATION: The generalized slowing is a non-specific and may be due to metabolic disturbances or other causes.  Left temporal sharp waves support partial mechanism for the epilepsy but may be augmented by ESRD.  Correlate with neuroimaging. 

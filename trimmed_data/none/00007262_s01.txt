@@ -1,0 +1,11 @@
+MEDICATIONS:  Zosyn, Vancomycin, Albuterol.
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was lethargic to unresponsive during the study.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with frequencies mainly in the 2-4 Hz with an amplitude of 20-50 mV.  No normal posterior dominant rhythm or frontal central beta seen.  No normal sleep architecture is seen. During the recording the patient gets noxious stimulation which appear to improve the frequencies slightly and there appeared to be some eye blinking not seen before.   
+ABNORMAL DISCHARGES:  Generalized slow waves as described above.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+1. Generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  It may be secondary to bilateral white matter disease, toxic metabolic infectious encephalopathy, or maybe at least due in part to medication effect.  No seizures or epileptiform discharges were seen. 
+Note:  The slight improvement in frequencies during the stimulation may forebode a favorable prognosis.

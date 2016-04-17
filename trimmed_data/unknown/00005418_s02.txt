@@ -1,0 +1,13 @@
+			
+MEDICATIONS:  Dilantin, Ativan, Aricept, Fluoxetine
+INTRODUCTION: Continuous  digital video EEG was performed at bedside using the standard
+10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  This EEG shows slowing of the background  seen bilaterally. There is more muscle artifact seen throughout the record. There are no push button events seen throughout this record. Occasional arousals were seen in this long term monitoring session. Again, there were some left spike waves seen with some periodicity, but they are now smaller and start to wane in the record. Some occasional right temporal spike waves were also seen. No subclinical seizure episodes were seen as there was a decrease in the spikes.
+Continuation of some asymmetry was seen with more rhythmic alpha-theta on the right intermittently which was not seen on the left. At one point in the record, per video, the patient was being cleaned up by staff and we see an increase in artifact. By the end of this record,
+there was a stop in the epileptiform discharges with again some improvement in the background
+	rhythm. Sleep was seen with vertex waves and spindles. HR: 	75 bpm
+IMPRESSION:   Abnormal EEG due to:
+	1. 		Disorganization and asymmetry of the record with more rhythmic alpha-theta seen on the right intermittently, but not on the left.
+	2. 	At the start, some continuation  of the independent left greater than right temporal spike
+waves which dissipate by the end of the record.
+CLINICAL CORR  ELATION:  There was improvement  of the record with continued  decrease of the epileptiform discharges  as the record continues. This is consistent  with a revolving postictal state.

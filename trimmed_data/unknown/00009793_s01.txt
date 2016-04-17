@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is an awake record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and fairly well organized. There is a 10.5 Hz, 30 uV posterior dominant rhythm and excessive beta activity.  Frequent sharp waves followed by slow activity were observed at T2/T4 and occasionally at T3. There were rare sharp waves emanating from the right and followed by a sharp wave on the left. 
+HR:  80 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Independent sharp and wave activity mainly in the right temporal area but occasionally in the left. 
+CLINICAL CORRELATION: The focal features seen in this record support a partial mechanism for epilepsy in this patient.  The preliminary results were communicated with the primary team and resident.  A repeat EEG capturing deeper stages of sleep or sleep deprivation prior to the EEG may be helpful. 

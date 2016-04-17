@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as obtunded, intubated, and unresponsive. 
+DESCRIPTION OF THE RECORD: The background EEG is continuous.  The overall pattern is one of diffuse, 5 to 7 Hz theta.  There is arrhythmic delta activity identified in the occipital scalp regions.  This has a field of spread and is identified bilaterally.  There is beta frequency activity in the frontal regions.  Stimulation of the patient doesn’t clearly activate the record, but there is a fair amount of variability in this record.  No reactivity is seen to noxious stimuli.  
+HR:  110 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:
+Rhythmic background slowing.
+Shifting arrhythmic delta activity in the posterior regions seen bilaterally. 
+CLINICAL CORRELATION: Given the richness of the theta and beta frequency activity in this record, consideration for perhaps some sort of vegetative-like state would be appropriate given the failure of any sort of alerting response or other response.  No sleep stages were recorded.  

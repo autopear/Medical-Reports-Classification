@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Phenobarbital, Keppra, Lipitor, others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9 Hz, 30 to 50 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Hyperventilation is performed early on in the record producing an increase in the amplitude of the background, as well as some subtle slowing in the posterior temporal regions bilaterally. Following hyperventilation, the patient becomes drowsy with an increase in background beta activity, occasional vertex waves, and POSTS. 
+Photic stimulation elicits driving at intermediate and faster flash frequencies.
+HR:  60 BPM.
+	IMPRESSION: Very mildly abnormal EEG due to:
+Posterior temporal slowing identified in hyperventilation.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The features described above are similar to previous EEGs, all of which have failed to identify epileptiform activity. 

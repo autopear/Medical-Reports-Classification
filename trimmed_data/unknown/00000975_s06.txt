@@ -1,0 +1,18 @@
+MEDICATIONS: Propofol, Pentobarbital, Versed, Vecuronium, Midazolam, Dilantin, 
+Gentamicin, Pantoprazole, Ceftriaxone, Nimodipine, Labetalol. Pentobarbital in an on 
+the 11/9/2010.  
+INTRODUCTION: Continuous digital video EEG was performed at bedside using 
+standard 10-20 system of electrode placement with 1 channel of EKG. There is no 
+indication regarding the patients response in terms of ICP.  
+DESCRIPTION OF THE RECORD: The background EEG continues to demonstrate a 
+discontinuous pattern as was noted in the baseline prior to the initiation of the 
+pentobarbital. The bursts of cerebral activity that are seen are now in the order of 2 to 3 seconds in duration. This suppression is very typically on the order of 3 seconds in 
+duration. Stimulation of the patient does not activate the record. The overall pattern is 
+relatively symmetric, sometimes a little higher amplitude on the right compared to the 
+left. There are no sustained discharges. As the recording continues, electrode integrity 
+is declining. In addition, toward the close of the record, the patient is no longer in burst suppression.  
+HR: 66bpm  
+CLINICAL CORRELATION: Medication induced burst-suppression 
+resolves slowly after sedation discontinued. Abnormal background slowing and 
+disorganized pattern was noted at the end of the LTM. 
+ 

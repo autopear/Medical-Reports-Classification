@@ -1,0 +1,8 @@
+MEDICATIONS: Tegretol, Atenolol, Carbatrol 
+INTRODUCTION: Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates generous, diffuse beta activity with a rhythmic theta pattern. Superimposed upon this is some focal slowing in the right posterior quadrant. This is at times sharply contoured and it is more of a T4 T6 1ocation. Photic stimulation elicits scant driving, left greater than right. Heart rate 80 beats per minute. 
+IMPRESSION: Abnormal EEG due to: 
+1. Excess beta. 
+2. Excess theta. 
+3. Focal slowing in the right posterior region. 
+CLINICAL CORRELATION: No seizures were recorded. This EEG demonstrates dramatic improvement. 

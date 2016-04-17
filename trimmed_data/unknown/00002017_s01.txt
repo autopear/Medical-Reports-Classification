@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin, Celexa, Norvasc, Temazepam.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz, 30 mV posterior dominant rhythm.  There is a fair amount of muscle artifact noted.  In relaxed wakefulness, there are occasional isolated 3-4 Hz slow waves noted in the background.  Hyperventilation is performed early in the record and seems to accentuate some of the focal slowing with a bit more slowing noted on the left compared to the right.  Following hyperventilation as the patient becomes drowsy again, there is muscle artifact noted in the T4 electrode and then later at F7.  Aside from this, there are some minor shifting asymmetries.  Photic stimulation is performed as the patient is drifting off to sleep and elicits scant driving.  
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Isolated slow wave activity from the left or right hemisphere.
+Shifting slowing in relaxed wakefulness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The bihemispheric changes described above may be related to the patient's traumatic brain injury.  Additional EEG recording may be of value in capturing epileptiform activity.  Because of the degree of muscle artifact, subtle focal features may have been obscured.

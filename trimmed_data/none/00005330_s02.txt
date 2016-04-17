@@ -1,0 +1,20 @@
+MEDICATIONS: Dilantin, Keppra, ASA, Proscar, 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. The patient is quite agitated
+during the EEG. 
+DESCRIPTION OF THE RECORD: Despite a great deal of muscle and motion artifact, 
+the overall background includes one of rhythmic theta on the left. There seems to be 
+less theta on the right with a suggestion of a some arrhythmic delta with a phase .. 
+reversal a) T2/F8. As the recording continues, the patient is a little bit calmer and as he 
+becomes calmer the intrahemispheric asymmetry becomes more prominent with more 
+activity on the right.
+of a disruption of faster 
+HR: 80 bpm and irregular 
+IMPRESSION: Abnormal EEG
+due to: 
+1. Generalized background slowing. 
+2. Superimposed attenuation of faster frequency activity on the right in comparison to 
+the left. 
+3. Sharply contoured delta the right . 
+CLINICAL CORRELATION: This EEG supports a structural functional abnormality on 
+the right, as well as a diffuse disturbance of cerebral function. No seizures were observed. 

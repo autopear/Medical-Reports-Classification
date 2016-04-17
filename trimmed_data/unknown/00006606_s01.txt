@@ -1,0 +1,19 @@
+MEDICATIONS: Dilantin, Zyprexa, Klonopin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel EKG. The patient Is awake with frequent 
+eye blink. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an awake 
+individual with a low-voltage beta pattern and continuous eye-blink artifact. Although 
+the patient seems to become drowsy during the record, he continues to demonstrate 
+continuous eye blink. Photic stimulation does seem to elicit a driving response, although 
+this is difficult to distinguish from the background beta. 
+HR: 110 bpm. 
+IMPRESSION: This EEG is remarkable for a pattern of nearly continuous beta. 
+CLINICAL CORRELATION: On just 1 occasion the patient seems to be able to relax 
+enough to demonstrate a well-defined alpha rhythm. Because of this, it is possible that 
+should this patient's behavioral issues be overcome it would be possible to obtain a 
+good wakefulness through stage II sleep record. Please consider a followup EEG when 
+the patient is a bit more cooperative or able to cooperate with the testing so that we 
+could evaluate wakefulness through stage II sleep. Possibilities include a sleep 
+deprived study or just a more prolonged 1-hour EEG when the patient is able to do so. 
+ 

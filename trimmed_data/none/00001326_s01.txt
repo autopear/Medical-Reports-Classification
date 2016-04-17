@@ -1,0 +1,6 @@
+MEDICATIONS: Tegretol.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement  with one channel  of EKG. This is an awake and briefly  asleep record. Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE  RECORD: In maximal wakefulness, the background EEG is well organized with a 9.5 Hz, 30 uV posterior dominant rhythm and small amounts of frontocentral beta activity.  Drowsiness produces attenuation of the alpha rhythm.   Stage II sleep is achieved briefly and characterized by spindles and vertex waves.  Hyperventilation does not significantly alter the record.   Post-hyperventilation, there is rhythmic theta seen in drowsiness. Photic stimulation does not elicit a significant driving response.
+HR: 78 BPM with occasional arrhythmias and possible APCs.
+IMPRESSION: Normal EEG in wakefulness through stage II sleep.
+CLINICAL  CORRELATION:  No epileptiform features were identified in this record. The rhythmic theta in drowsiness in post-hyperventilation is a normal finding.

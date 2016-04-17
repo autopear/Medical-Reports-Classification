@@ -1,0 +1,15 @@
+MEDICATIONS: Keppra, Gabapentin, Lyrica, Lamictal, Asacol, Prozac, Ambien. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel EKG. Hyperventilation and photic 
+simulation were performed. 
+DESCRIPTION OF THE RECORD: The EEG in the awake state is well-organized. The 
+background consists of alpha but is less vigorous. Photic stimulation was performed, 
+and it produced supraharmonic driving. Hyperventilation was performed, also. There 
+was no seizure activity, no focal or epileptiform features. 
+HR: N/A 
+IMPRESSION: Normal EEG. 
+CLINICAL CORRELATION: No epileptiform activity or focal features were found. 
+Absence of epileptiform activity does not exclude the diagnosis of epilepsy. Additional 
+EEG may be useful to capture any epileptiform activity. May want to consider outpatient 
+DigiT race. 
+ 

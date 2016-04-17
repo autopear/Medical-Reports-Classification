@@ -1,0 +1,7 @@
+MEDICATIONS:  Dilantin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Over-the-phone translator services were employed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 9 Hz, 50 microvolt posterior dominant rhythm and a small amount of low-voltage, frontocentral beta.  Features of drowsiness include anterior spread of the alpha rhythm and an increase in beta.  Hyperventilation produces scant slowing.  Photic stimulation elicits a driving response.  At the very close of the record, very brief stage I sleep is identified. 
+HR:    66 bpm.
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy, and if seizures are an important 
+consideration, a repeat test capturing deeper stages of sleep is suggested.  No previous EEGs were available at this time for comparison.

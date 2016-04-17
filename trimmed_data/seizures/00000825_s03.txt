@@ -1,0 +1,6 @@
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is comatose, but is noted to have some movements of the eyes and the arm.
+DESCRIPTION OF THE RECORD:  This EEG over 5 hours demonstrates an ongoing, ictal pattern with different seizure types including bifrontal rhythmic sharply contoured activity with frequency evolution, right mid or posterior temporal seizures and less frequently left anterior temporal seizures.  In the sections of the record when the patient is not seizing, the background EEG is markedly slow and poorly organized.   
+HR:    135 bpm
+IMPRESSION:  Abnormal EEG due to: 
+Continuous electrographic seizures with multiple different localizations, frontal, right posterior temporal, lower left anterior temporal. 
+CLINICAL CORRELATION:  This EEG supports a severe bihemispheric disturbance.  The status epilepticus had not resolved by the end of the EEG.

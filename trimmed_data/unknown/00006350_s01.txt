@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin, Ativan, and others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake and asleep record.
+DESCR IPTION  OF THE  RECORD: The background EEG is abnormal and includes an intrahemispheric asymmetry.   The activity from  the left  hemisphere is  somewhat slow and disorganized with  a posterior  dominant rhythm ranging from 7.5  to  9  Hz.    There is some arrhythmic delta activity from the left, pa1ticularly in  the  frontocenh·al regions.    The  right hemisphere, particularly in wakefulness, demonstrates more significant disruption of faster frequency activity and a bit more arrhythmic delta activity.  A single right frontocentral sharp wave is noted in the background.  Features of drowsiness include an increase in slowing from both hemispheres.  Because of this, the asymmetry in terms of faster frequency activity is less remarkable.   Hyperventilation does not significantly activate the  record.   Photic stimulation appears to elicit a subtle driving response, more prominent from the left than the right
+HR:  78 BPM.
+IMPRESSION: Abnormal EEG due to:
+1.   Arrhythmic delta much more prominent from the right compared to the left.
+2.   Disruption of faster frequency activity, more prominent from the right compared to the left.
+3.   Background disorganization.
+CLINICAL CORRELATION: Only a single sharp wave was identified in this record, which is of unclear clinical significance.  This EEG supports a bihemispheric process involving the right more than the left.

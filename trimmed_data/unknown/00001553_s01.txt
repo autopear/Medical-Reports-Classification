@@ -1,0 +1,17 @@
+MEDICATIONS: Codeine, Morphine, Dilantin, Nexium, Metropolol, Percocet 
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. This is an awake and 
+intermittently agitated study. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is described as 
+somewhat agitated. The background includes generous beta activity seen diffusely with 
+superimposed slower delta from the right hemisphere particularly in the central temporal 
+region. Stimulation of the patient produces bursts of generalized delta as well as 
+movement artifact. As this recording continues, there is an increase in alpha and theta 
+frequency activity. A handful of symmetric vertex sharp waves are observed. 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to 
+1. Replacement of normal background with a beta frequency pattern. 
+2. Superimposed focal delta from the right, particularly right central temporal region. 
+CLINICAL CORRELATION: The focal features are congruent with this patient's history 
+of recent craniotomy. The generalized beta is compatible with the use of 2 
+benzodiazepines. No epileptiform features are observed. 

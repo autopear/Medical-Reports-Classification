@@ -1,0 +1,13 @@
+MEDICATIONS:  Nimodipine, Gentamicin, Dilantin, Keppra.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded while comatose.  No activating procedures were performed, other than stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no clear posterior dominant rhythm or frontocentral beta.  No normal sleep architecture is seen.  When the patient is stimulated during the recording, there is no clear change in the wave forms.   
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen at F4, continuously at a frequency of 0.5 to 1 Hz, representing periodic lateralized epileptiform discharges (PLEDs).  It is apparent that with each of these discharges, although not always consistently, there seems to be clinical correlates in the middle of left shoulder twitching.
+Generalized slow waves at 2 to 4 Hz with an amplitude of 20 to 70 microvolts.   
+SEIZURES:  Based on the description above, it is likely that the accompaniment of the PLEDs at F4 with the left shoulder twitching is consistent with focal motor seizures.
+IMPRESSION:  Abnormal EEG due to: 
+Right frontal PLEDs and focal motor seizures. 
+Generalized slow waves with intermittent periods of attenuation.
+CLINICAL CORRELATION:  This EEG reveals focal motor seizures arising from the right frontal region.  In addition, there is evidence of diffuse cerebral dysfunction, which is nonspecific in regard to etiology but may be partly due to medication effect or cortical injury from the subarachnoid hemorrhage.

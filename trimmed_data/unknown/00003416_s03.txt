@@ -1,0 +1,8 @@
+MEDICATIONS:   Dilantin.
+INTRODUCTION:  Digital video EEG was performed  at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation and hyperventilation not performed.
+DESCRIPTION OF THE RECORD:   At the start of this record during wakefulness there was a slowness of the background  with a theta rhythm of 6.4 Hertz.  There was asymmetry seen in the amplitude with a lower amplitude seen on the left.  On the right you see the theta region 45 microvolt's while on the left is seen between 25 microvolt's. As the record continues no epileptiform activity is see.
+	HR: 	48 bpm
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Slowness of the background.
+	2. 	Asymmetry of amplitude lower on the left.
+CLINICAL CORR ELATION:  There is no epileptiform  activity seen on this record.  The diffuse slowness of the background is consistent with a diffuse cerebral encephalopathy.  The amplitude differences are consistent with the patient's history of CVA.

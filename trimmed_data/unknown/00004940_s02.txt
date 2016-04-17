@@ -1,0 +1,7 @@
+MEDICATIONS: Synthroid, Lipitor, Decadron, and Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is coughing, uncomfortable, and has scaling skin on the scalp, which makes electrode integrity a challenge. 
+DESCRIPTION OF THE RECORD: There are portions of the record when the patient is awake and an 8.3 Hz, 30 to 50 V posterior dominant rhythm is identified.  There is generous, low voltage, frontocentral beta activity, as well as intermittent, background theta.  As the patient becomes drowsy, there is occasional arrhythmic delta seen particularly from the left hemisphere including the central and frontotemporal regions. Photic stimulation does not activate the record. 
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Mild background slowing.
+CLINICAL CORRELATION: In the setting of some shifting arrhythmic delta, more well defined focal slowing from the left hemisphere, particularly frontocentral and frontotemporal is identified.  This EEG demonstrates a significant improvement compared to the previous study, which demonstrated more prominent background slowing.  No epileptiform activity was seen in either study.  This record shows more lateralized features with more focal slowing from the left than the right.  This is not to suggest that there is increasing focality, but simply that the overall background from both hemispheres has improved revealing the pattern described above.   

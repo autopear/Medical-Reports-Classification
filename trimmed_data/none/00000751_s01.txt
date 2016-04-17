@@ -1,0 +1,9 @@
+MEDICATIONS:  Protonix, Aspirin, heparin, hydralazine.
+REASON FOR STUDY:  Confusion.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Recording was mainly in wakefulness with some drowsiness. Activating procedure was only photic stimulation.
+TECHNICAL  DIFFICULTIES:  Continuous muscle artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a low amplitude posterior dominant rhythm that as best as can be seen at 9 hertz with a low amplitude of 20-40 microvolts. In addition, there is a increased amount of diffuse beta seen throughout the recording. Drowsiness is seen and photic stimulation does not reveal any abnormal discharges. Please note again that there is notable amount of muscle artifact throughout the recording which impedes clear definition of all wave forms. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This is a limited EEG due to muscle artifact and reveals no overt abnormalities. No seizures or epileptiform discharges were seen. Repeat recording with sedation may aid in obtaining a better study which more clearly define the wave forms. This can be performed if clinically desired.

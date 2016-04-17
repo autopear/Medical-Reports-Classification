@@ -1,0 +1,6 @@
+MEDICATIONS: Insulin, Dilantin, and Amoxicillin.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are not performed.  This is an awake and drowsy record, with the patient being drowsy throughout much of the record.  
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is a well formed posterior dominant rhythm of 10 Hz, with a small amount of low voltage, frontocentral beta activity.  There is frequent eye blink artifact.  Drowsiness is characterized by slow rolling eye movements.  Deeper stages of sleep are not sustained.  
+HR:  __ BPM.
+	IMPRESSION: EEG within normal limits in wakefulness and drowsiness. 
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  No activation procedures were used.  To further evaluate this patient’s epilepsy, a repeat study in the EEG lab is recommended.  

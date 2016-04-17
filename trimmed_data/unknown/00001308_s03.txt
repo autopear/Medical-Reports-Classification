@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, Neurontin, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, 30 to 40 uV posterior dominant rhythm. Drowsiness is characterized by attenuation of the alpha rhythm with vertex waves, K complexes, spindles, and POSTS.  The patient seems to be quite drowsy and is drifting back into stage II sleep during photic stimulation.  Despite this, photic stimulation does elicit bilateral driving.  
+HR:  66 BPM.
+	IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: Despite the history of multiple strokes and seizures, this is a normal EEG.  These results are similar to previous studies.  

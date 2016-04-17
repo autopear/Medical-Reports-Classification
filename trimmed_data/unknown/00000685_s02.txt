@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Phenobarbital, Percocet, Ativan, Baclofen. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates a symmetric, reactive 9.5 Hz posterior dominant rhythm.  There is a suggestion of MU activity in the central regions, but testing is not performed to confirm this.  There is some head rocking artifact picked up in the right centrotemporal electrodes, but there also seems to be some subtle disruption of faster frequency activity in this area.  Hyperventilation is performed and seems to accentuate that finding.  In the post-HV record, as the patient evolves into relaxed wakefulness, there is clear disruption of the alpha rhythm in the right occipital region.  Rhythmic central theta is identified in the frontal regions.  Photic stimulation elicits a driving response, which is more remarkable on the left compared to the right.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Focal slowing from the right centrotemporal region with disruption of the alpha rhythm on the right.  
+CLINICAL CORRELATION: This EEG supports a structural or functional abnormality in the right  hemisphere impacting both gray and white matter.  The arrhythmic slowing described above supports a disturbance of underlying white matter. 

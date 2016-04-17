@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Allopurinol, Gabapentin, Plavix, Crestor 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates modest background slowing with an 8 Hz alpha rhythm and mild, diffuse background theta. There was occasional focal slowing with arrhythmic delta activity seen a bit more in the left hemisphere In comparison to the right. Photic stimulation does not activate the record. 
+HR: 84 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Mild to moderate generalized background slowing. 
+2. Occasional shifting slowing. 
+CLINICAL CORRELATION: The background EEG is a bit slower than seen 1 year ago. Focal seizures are less prominent than a year ago. 
+ 

@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9.5 Hz, 50 uV posterior dominant rhythm.  Hyperventilation is performed early on in the record, producing an increase in background theta.  Photic stimulation elicits brief bilateral driving. 
+HR:  78 BPM.
+	IMPRESSION: Normal EEG in wakefulness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  This study in contrast to a previous study two years ago, identified excess theta and some sharply contoured features in the hemispheres, although there were technical problems with that study.  

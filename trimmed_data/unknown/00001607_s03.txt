@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Fentanyl, and Neurontin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is experiencing a right arm tremor throughout the study. This is an awake record. 
+DESCRIPTION OF THE RECORD: The patient is awake throughout the record.  There is an 8 to 8.3 Hz posterior dominant rhythm, a small amount excess background theta activity, and some muscle artifact related to the tremor. Drowsiness is characterized by an increase in background slowing.  There is occasional frontally predominant delta.  There are brief portions of the record without the arm tremor, but when the tremor recurs, muscle is picked up in the right and also with EMG electrode. 
+HR:  66 BPM.
+	IMPRESSION: Very mildly abnormal EEG for a subject of this age due to:
+	1.	Minimal background excess theta. 
+CLINICAL CORRELATION: No focal or epileptiform features were seen in this record. The mild background slowing is a non-specific finding particularly in a subject of this age, and may be related to this patient’s medications. 

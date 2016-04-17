@@ -1,0 +1,10 @@
+MEDICATIONS: Keppra. Dilantin, codeine, labetalol and antibiotics. Also the patient received Ativan. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hypovolemia and photic stimulation were not performed. The patient is intubated. 
+DESCRIPTION OF THE RECORD: At the beginning of the tracing, the background is disorganized. The normal posterior dominant alpha rhythm cannot be recognized. Breach rhythm can be recognized on the right hemisphere especially in the middle temporal area. The background is also asymmetric because of the breach rhythm. Stimulation on the patient transiently reduced the slow activity as well as increased fast activity, however, no epileptiform discharges were seen in this tracing. 
+Heart rate 90 bpm, irregular. 
+IMPRESSION: Abnormal EEG due to: 
+1. Disorganized background. 
+2. Absence of alpha rhythm. 
+3. Attenuated background with excessive slow activity. 
+4. Breach rhythm on the right. 
+CLINICAL CORRELATION: The attenuated background with excessive slow activity is a nonspecific finding but suggestive of cerebral dysfunction involving the cortical gray matter. The breach rhythm on the right temporal area is consistent with that of craniectomy in this patient in the history. No epileptiform discharges were seen in this tracing. If epilepsy is a clinical concern, a repeat EEG may be helpful. 

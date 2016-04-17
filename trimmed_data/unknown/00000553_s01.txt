@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Phenobarbital. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement and 1 channel EKG. Hyperventilation and photic simulation were performed. 
+DESCRIPTION OF THE RECORD: There are bursts of theta on the left but occasionally during drowsiness is seen bilaterally. He does reach an alpha rhythm of 10.5 Hz on the right. When he has bilateral bursts, the left is greater and more sustained than the right. This is accentuated during hyperventilation. Lateral eye movements are also seen. He has episodes of 3 to 4 Hz slowing, predominantly in the left temporal region. There are positive TIRDA predominantly in the left hemisphere in the temporal region and again is accentuated during hyperventilation. As the patient becomes sleepy during the exam, there are bilateral changes with alpha rhythm on the right but is not seen on the left. Also positiveWICKETS. Photic stimulation does trigger driving of the record. Again, hyperventilation does increase amplitude and accentuates theta bilaterally, left greater than right. 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Left 3 to 4Hz pattern, TIRDA; the TIRDA is accentuated in hyperventilation and drowsiness. 
+2. Disruption of the alpha rhythm in drowsiness. 
+3. WICKETS. 
+CLINICAL CORRELATION: There is no actual epileptiform activity. However, with the presence of sustained TIRDA, this is suggestive of a left focus in the temporal region and although TIRDA is not seizure activity, it is associated with a temporal lobe epilepsy. Further clinical correlation is recommended. 

@@ -1,0 +1,17 @@
+MEDICATIONS: Sinemet, Dilantin, Keppra, Heparin, Folic Acid, Synthroid, ASA, 
+Portonix, 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. This is an awake and asleep 
+record. Hyperventilation and photic simulation are performed.
+ 
+DESCRIPTION OF THE RECORD: There are sections of the EEG where the 
+background is, in fact, normal with a 9 Hz posterior dominant rhythm. Intermittent 
+sections demonstrate background slowing particularly frontocentral or posterior regions. 
+Photic stimulation elicits scant driving. The patient is tested during some sections of the record with psychomotor slowing. In those sections of the record, there is no correlate with her psychomotor slowing or slowed responses. 
+HR: 100 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Intermittent background slowing. 
+CLINICAL CORRELATION: This EEG demonstrates dramatic improvement compared 
+to previous studies. There are sections when the background is normal and her slowed 
+responsiveness in staring does not have an EEG correlate; i.e. is not a seizure.
+ 

@@ -1,0 +1,11 @@
+MEDICATIONS: Dilantin, Lovenox, Famotidine 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is in a hard collar and is responsive. 
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is in the emergency room. He is intubated. He does not appear to be responsive initially. 
+The background EEG is markedly slow, low voltage with slow featureless delta. In addition, there are sharp waves noted in the right temporal region. These start in the anterior temporal region and spread to the posterior temporal and central temporal region. They can be differentiated from EKG artifact. Most are low voltage, but a handful are higher amplitude with a more generous field of spread. They do involve some spread to the contralateral hemisphere. As the recording continues, there are some eye movements noted. 
+Episodes of tremulousness are noted. These episodes are characterized by muscle activity but no epileptiform features. Motor activity is more a pattern of stiffening. Just prior to the episodes of stiffening, there did seem to be a bit of an arousal with an increase in theta frequency activity. The patient seems to be perhaps elevating his head and extending his arms a bit with the episodes. Although he is under the covers, the behavior may represent a response to the endotracheal tube or decerebrate posturing. As the recording continues, there is an increase in rhythmic theta frequency activity. 
+HR: 104 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. An initially markedly slow background. 
+2. Right temporal sharp waves, some of which are low voltage and discrete, others which are higher amplitude and with a generous field of spread. 
+3. A dynamic pattern with, at least toward the close of the record, an improvement in the background in association with some of the motor activity. 
+CLINICAL CORRELATION: This EEG supports a severe disturbance of cerebral function. This may be due to medications or an acute CNS insult, as suggested in the limited history. The posturing recorded was not a seizure. If epilepsy is an important consideration, a followup study is suggested. 

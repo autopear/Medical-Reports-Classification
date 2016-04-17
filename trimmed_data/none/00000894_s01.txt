@@ -1,0 +1,15 @@
+MEDICATIONS:  Keppra, HCTZ, Synthroid.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  Some T5 electrode artifact at the beginning of the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontocentral beta.  At times, some faster frequencies in the theta range can be seen over the left hemisphere and not over the right.  There is also some normal sleep architecture seen at times with some spindles seen only the left hemisphere.  Activating procedures were not performed.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen frequently at T4 in wakefulness and sleep. 
+Focal slow waves seen continuously at F8/T4 and at times at T4 at a frequency of 2-4 Hz and an amplitude of 20-40 microvolts.  
+Generalized slowing seen at 5-7 Hz throughout the recording.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Right midtemporal and anterior temporal sharp waves.  
+Right hemispheric slowing, maximal in the temporal region.  
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of localization-related epilepsy with seizures likely arising from the right midtemporal to anterior temporal region.  In addition, there is evidence of focal structural cerebral dysfunction and irritability in the right hemisphere, maximal in the anterior temporal to midtemporal region, which is consistent with the known previous subarachnoid and hemorrhagic lesion.  Lastly, there is evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology, but in this case may be due at least in part to medication effect.  No seizures were seen.

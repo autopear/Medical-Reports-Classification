@@ -1,0 +1,8 @@
+MEDICATIONS: Amiodarone, Coreg, Celexa, Coumadin, Aspirin, Plavix, Dilantin, Heparin. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a medium frequency background with generous beta. There is excess background theta. Throughout much of the record the background is symmetric, although on occasion there is a bit more isolated mixed theta delta from the left hemisphere. Features of drowsiness include a decrease in motor activity. 
+HR: 90 bpm and irregular 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing and poor organization. 
+2. In this somewhat limited record, occasional focal delta from the left hemisphere.
+CLINICAL CORRELATION: The excess beta may be due to this patient's medications. The excess theta supports a diffuse disturbance of cerebral function affecting gray and white matter. In this individual with a past history of stroke, there is lit11e in the way of focal findings, but those that are present are in the region of this patient's previous infarct. 
+ 

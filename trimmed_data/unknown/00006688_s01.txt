@@ -1,0 +1,10 @@
+MEDICATIONS:  Lovenox, Protonix., Dilantin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  The background EEG is slow throughout.  There is no focal asymmetry. His alpha rhythm is  7Hz. There are episodes of shifting slowness.
+The patient drifts into sleep with vertex waves, but does not have continuous sleep.
+	HR:	84bpm
+IMPRESSION: Abnormal EEG due to:
+	1.	Slow background.
+	2. 	Shifting slowing.
+	CLINICAL CORRELATION: There was no epileptiform activity seen on this EEG. The
+background slowing could  be  due  to known brain pathology or Dilantin toxicity. 

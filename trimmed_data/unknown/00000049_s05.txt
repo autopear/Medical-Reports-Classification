@@ -1,0 +1,5 @@
+MEDICATIONS:  Folic Acid, Tylenol, Phenobarbital,  Dilantin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is trached but is somewhat responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a low voltage, featureless pattern.  There is a clear variation in terms of a difference between wake and sleep.  As the recording begins, there is a low voltage sleep pattern with some activity that does resemble vertex wave and some activity in the central region, moreso on the right than the left, that resembles  spindle. There is spontaneous arousal or tactile or auditory arousal with stimulation with a lower voltage beta frequency pattern.
+	HR: 	78 bpm
+IMPRESSION/CORRELATION: this seems to be an improved pattern. There is a differentiation between an awake and asleep pattern although the overall background is quite abnormal.  There are no epileptiform features noted.

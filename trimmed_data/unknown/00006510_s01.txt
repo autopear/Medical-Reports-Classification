@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates a well-organized pattern with a 9 Hz alpha rhythm, which is symmetric and reactive to eye opening.  Although there is artifact in the temporal regions, there is some subtle slowing from the left temporal region.  As the patient becomes drowsy, high amplitude F7 sharp and slow wave complexes are identified, which persist into stage II sleep. 
+Photic stimulation seems to elicit a sharp wave out of the right.  Photic stimulation was also obscured by significant artifact.  
+HR:  __ BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Sharp waves seen from the left frontotemporal region.
+	Focal slowing seen from the left.
+CLINICAL CORRELATION: This EEG supports a localization-related mechanism for epilepsy.  

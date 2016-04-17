@@ -1,0 +1,11 @@
+MEDICATIONS: Nebivolol, Valsartan, Potassium, Atorvastatin, Dexlansoprazole. 
+REASON FOR STUDY: Recent change in mental status. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes. The patient was recorded in wakefulness and sleep. Activating procedures including hyperventilation and photic stimulation were performed. 
+TECHNICAL DIFFICULTIES: None. 
+DESCRIPTION OF THE RECORD: The record opens to a posterior dominant rhythm that at best reaches 9 Hz with a normal amount of frontocentral beta. Wakefulness and sleep, stage I and stage II, are recorded. Activation procedures produced no abnormal discharges. 
+ABNORMAL DISCHARGES: Focal slow waves seen at T3, occasionally at 2 to 4Hz with an amplitude of 20 to 60 microvolts. Please note that at times these slow waves in the left temporal region appear sharply contoured; however, never clearly epileptic. 
+SEIZURES: None. 
+IMPRESSION: Abnormal EEG due to: 
+1. Intermittent left temporal slow waves.
+ 
+CLINICAL CORRELATION : This EEG reveals evidence of left midtemporal focal cerebral dysfunction, which is nonspecific in regard to etiology. No seizures or epileptiform discharges were seen.

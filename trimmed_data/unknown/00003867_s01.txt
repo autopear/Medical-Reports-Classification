@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Depakote, Cogentin, and Zyprexa. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a posterior dominant rhythm of 8 to 8.5 Hz, with a small amount of low voltage, frontocentral beta activity. There is prominent eye artifact.  Hyperventilation is performed early on in the record, producing a small degree of background slowing.  Photic stimulation elicits scant bilateral driving.  Drowsiness is characterized by a small amount of rhythmic slowing. 
+HR:  __ BPM.
+	IMPRESSION: Very mildly abnormal EEG due to:
+	1.	Mild background slowing. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The mild background slowing is a non-specific finding, and may be due to this patient’s underlying neurologic problems or his medications.    

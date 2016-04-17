@@ -1,0 +1,10 @@
+MEDICATIONS:  Keppra and Dilantin.
+INTRODUCTION:  The recording was performed according the standard 10-20 system with additional T1, T2 electrodes and a single EKG.  Seizure detection and spike detector software were activated.  Nursing notes and medical staff notes as well as patient events were reviewed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a low amplitude 10 Hz alpha activity that attenuates with eyes opening.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  Diffuse excess beta is captured.  During sleep, frequent diffuse sleep spindles, sleep spindle-like complexes, fragmented slow wave sleep and several epochs of REM sleep are captured.  There are frequent left anterior temporal sharp waves with after going slow waves with phase reversal over F7-T3 electrodes.  Intermittently, these epileptiform discharges increase in frequency and periodicity up to 2-3 Hz, representing quasi-PLEDs and PLEDs.  During these runs, these discharges do not organize or evolve, thus they do not represent electrographic seizures.  Additionally, polymorphic theta and delta activity are captured over the left temporal region.
+FINDINGS:  
+* Focal mild-to-moderate slowing over the left temporal region.
+* Frequent left anterior temporal epileptiform discharges.
+* Intermittent runs of 2-3 Hz quasi-PLEDs and PLEDS over the left anterior temporal region.
+* No discrete electrographic seizures.
+* Excess beta.
+IMPRESSION:  This is a very abnormal awake and asleep approximately 19-hour continuous video EEG monitoring due to focal left temporal slowing, frequent left anterior temporal epileptiform discharges that intermittently appear semi-periodically and periodically.  These findings indicate left temporal cerebral dysfunction, likely structural in etiology, that carries increased epileptogenic potential.  Excess beta is frequently seen in the setting of medications such as benzodiazepines and barbiturates.  No frank electrographic seizures were captured.  These findings were conveyed to the primary team.

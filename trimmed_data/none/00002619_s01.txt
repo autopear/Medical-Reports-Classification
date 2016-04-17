@@ -1,0 +1,9 @@
+MEDICATIONS:  Insulin, Heparin, Diltiazem, Reglan, Cefepime, Levophed, Albuterol
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient has a tracheostomy and is poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  It is a mixture of sharply contoured theta and delta.  There are triphasic waves noted.  In addition, there are focal sharp waves noted in the central region, some of which are more clearly on the left.  There is rhythmic 3 to 4 Hz activity, but no definite frequency evolution.  Stimulation of the patient does not clearly produce an alerting pattern.  
+HR:   N/A
+IMPRESSION:  Markedly abnormal EEG due to:
+A markedly slow and disorganized pattern.  
+Triphasic waves.
+In this sharply contoured EEG, sharp waves are identified, most notably at C3.
+CLINICAL CORRELATION:  No seizures were recorded.  This EEG bears hallmarks of a toxic or metabolic encephalopathy.  In addition, the presence of focal epileptiform activity suggests a predisposition to seizures.

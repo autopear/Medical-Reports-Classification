@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Phenobarbital, Tegretol, Losartan, Carbamazepine, Amiodipine 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and asleep record. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a dramatic intrahemispheric asymmetry. There is a 10 Hz alpha rhythm with generous intermittent 11 Hz faster frequency activity noted in the record. The right hemisphere and contrast demonstrates more significant stowing with prominent disruption of faster frequency activity. Occasional lambda waves are noted in wakefulness but there is no definitive alpha rhythm on the right. In the transition to drowsiness, there is some rhythmic 12 Hz activity identified in the frontal regions, left greater than right. Features of drowsiness include an increase in bilateral background slowing and an increase in beta but sleep is not sustained. 
+HR: 60 bpm and irregular 
+IMPRESSION: Abnormal EEG due to: 
+1. Continuous focal slowing from the right hemisphere with disruption of faster frequency activity. 
+2. Mild disorganization on the left 
+3. Prominent beta activity. 
+CLINICAL CORRELATION: No epileptiform features were observed in the record. The slowing described above supports a structural abnormality on the right affecting both gray and white matter. The generous beta may be associated with the barbiturate exposure. 

@@ -1,0 +1,7 @@
+MEDICATIONS: Diovan, Dilantin, Plavix, Lipitor 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is very agitated, trying to get out of bed despite the presence of physician, nurse and EEG tech at the bedside. 
+DESCRIPTION OF THE RECORD: Underneath a significant amount of muscle and motion artifact the EEG demonstrates a relatively symmetric, continuous mixed frequency slow background with delta, beta activity and smaller amounts of theta. There is no well-defined alpha rhythm. The patient's episodes of agitation are not associated with a particular EEG signature. 
+HR: 140 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+CLINICAL CORRELATION: The features described above are nonspecific in nature and can be seen in a toxic or metabolic encephalopathy as well as other, diffuse disturbances of cerebral dysfunction. 

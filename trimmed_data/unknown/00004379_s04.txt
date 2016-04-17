@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Heparin, and Ativan.
+INTRODUCTION:  Digital video EEG is pe1formed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake and drowsy record.
+DESCRIPTION OF THE  RECORD:  The vast majority of the record is drowsy with a mixture of theta and beta frequency activity.   In this state, there is rare, subtle left frontotemporal slowing.  Sometimes this is picked up bilaterally in the fi-ontal regions.  On occasion, this is associated with a discrete, left frontotemporal sharp wave maximum at F7 and Tl, sometimes appealing as a couplet.  Features of deeper stages of sleep include vertex waves and spindles. As the patient reaches stage II sleep, the EEG becomes more symmetric and more synchronous.  There are rare left anterior temporal sharp waves in stage II sleep. These discrete discharges persist throughout the light sleep record. In maximal wakefulness, the patient arouses and the EEG becomes well organized, symmetric with a low voltage, synm1etric reactive 10.5 Hz posterior dominant rhythm and a small amount of frontocentral beta activity.
+HR:  90BPM.
+IMPRESSION:  Abnmmal EEG due to:
+1.  Left frontotemporal sharp and slow wave or discrete spike and slow wave activity.
+2.   Subtle left frontotemporal focal slowing.
+CLINICAL  CORRELATION:  Tllis tracing supports a  partial mechanism for epilepsy. Conelation with this patient's imaging may be valuable.
+	

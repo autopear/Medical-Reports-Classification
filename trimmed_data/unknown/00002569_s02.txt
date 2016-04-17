@@ -1,0 +1,8 @@
+MEDICATIONS: TPA, Labetalol, insulin, thiamin, Reglan, Lopressor, Aricept, Dilantin, Coumadin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: The patient is drowsy throughout much of the record with a drowsy pattern and an intrahemispheric asymmetry.  At best, there is a 7 to 8 Hz posterior dominant rhythm on the left.  The right hemisphere is characterized by disruption of faster frequency activity including disruption of the alpha rhythm and a bit more arrhythmic mixed delta from the right hemisphere.   
+HR:  84 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:
+	Mild generalized background slowing.
+	Superimposed focal slowing from the right hemisphere with disruption of faster frequency activity. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The focal features identified in this record are congruent with this patient’s stroke.  

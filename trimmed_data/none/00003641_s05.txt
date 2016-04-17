@@ -1,0 +1,10 @@
+MEDICATIONS:  Keppra, Depakote.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed. This is a neurologically disabled adult in a supported wheelchair.  The patient is described as markedly drowsy.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow with diffuse delta noted.  There is a breach rhythm on the left with higher amplitude, sharply contoured delta with a broad field of spread at T3.  There is also electrode pop and irregular delta or focal delta in the right posterior region, T6-L2, and sometimes C4.  As the patient drifts off to sleep there is a small increase in beta.  There are also a handful of more triangular shaped higher amplitude right frontal delta waves.   
+Photic stimulation is remarkable for photoelectric artifact, but no significant driving.   
+Heart rate 60 beats per minute.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Paucity of the normal wave forms for an adult.
+Replacement of normal background with delta.
+Sharply contoured delta noted from either hemisphere including left mid temporal, right posterior or right frontocentral.
+CLINICAL CORRELATION:  Previous EEGs were not available for comparison.  No seizures were recorded.  Although breach rhythm is suggested with higher amplitude delta on the left, epileptiform activity is seen from both hemispheres independently.  This EEG is slower than previous studies, but there is less epileptiform activity.

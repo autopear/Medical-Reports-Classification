@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Risperdal, and Haldol.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not possible, but photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes an alpha rhythm of 8 to 8.5 Hz, 30 to 50 uV and occasional right or left temporal theta.  Drowsiness is characterized by an increase in background slowing, as well as an increase in beta activity followed by vertex waves.  K complexes are seen in stage II sleep.  
+Photic stimulation failed to elicit a driving response.  
+HR:  56 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Mild background slowing with excess theta and slowing of the posterior dominant rhythm. 
+CLINICAL CORRELATION: These features are non-specific and may be due to medication effect, toxic or metabolic encephalopathy, or postictal state.  No epileptiform features were identified in this record.  

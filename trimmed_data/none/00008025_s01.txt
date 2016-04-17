@@ -1,0 +1,16 @@
+INTRODUCTION: Digital video EEG was performed using standard 10-20 system of 
+electrode placement with 1 channel EKG. Patient is intubated and poorly responsive. 
+The EEG is performed more than 24 hours after the cardiac arrest. 
+DESCRIPTION OF THE RECORD: The background EEG is slow and featureless. 
+There is scant eye movement. In addition, there is a slow periodic discharge which 
+appears approximately every 5 seconds. Stimulation of the patient does not activate the 
+record particularly, but that very slow periodic discharge is more of a left posterior 
+localization. 
+HR: 90 bpm and irregular 
+IMPRESSION: Markedly abnormal EEG due to: 
+1. Marked background slowing. 
+2. An asymmetry with a little bit more theta on the left and a very slow, broad periodic 
+complex out of the left. 
+CLINICAL CORRELATION: These findings are hallmarks of a severe underlying 
+encephalopathy as can be seen following anoxia. No seizures were seen, and there are 
+no specific epileptiform findings. 

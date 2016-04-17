@@ -1,0 +1,9 @@
+MEDICATIONS:  Levothroid
+REASON FOR STUDY:  Convulsions.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and limited sleep.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  There is a normal amount of frontocentral beta.  Activating procedures produced no normal discharges and photic driving does produce nice normal driving.
+ABNORMAL DISCHARGES:  None.  However, there is a single sharp transient with a bifrontal field which is suspicious, but not clearly pathologic seen only once during the recording.
+SEIZURES:  None
+IMPRESSION:  Normal awake and limited sleep EEG.
+CLINICAL CORRELATION:   The single sharp transient seen may be better defined with prolonged recording capturing longer and deeper stages of sleep.

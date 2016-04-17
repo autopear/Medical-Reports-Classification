@@ -1,0 +1,20 @@
+MEDICATIONS: Neurontin, Tegretol, Pravachol. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of 
+electrode placement with one channel of EKG. Hyperventilation and photic stimulation were 
+performed. This is an awake and drowsy record. This is a half hour EEG. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a posterior dominant rhythm 
+identified from the right, at times 10.5 Hz. The right hemisphere is reasonably well organized, 
+but the left hemisphere demonstrates continuous arrhythmic delta activity, which is sharply 
+contoured. There is an underlying breach rhythm with accentuation of the amplitude of activity 
+in that region and some double phase reversal, perhaps due to the shape of the cranium. Sharply 
+contoured delta is noted from the left hemisphere with variable maximum including T3, TS, and 
+Tl. There are occasional bursts of rhythmic. slowing from the right. Hyperventilation may 
+accentuate the background slowing. Photic stimulation does not significantly activate the record. 
+HR.: 78BPM. 
+IMPRESSION: Abnormal EEG due to: 
+1. Continuous focal slowing from the left hemisphere, maximum in the temporal region. 
+2. Sharply contoured delta and a handful of sharp waves from the left including T3, T5 or T1 
+sharp waves. 
+CLINICAL CORRELATION: The previous craniotomy may accentuate underlying 
+epileptiform activity. No seizures were recorded. The previous 2003 EEG was inconclusive due 
+to artifact, but this clearly demonstrates focal slowing. 

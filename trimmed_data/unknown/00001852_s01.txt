@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Phenobarbital, Klonopin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1channel EKG. Photic stimulation was performed. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: This is a very drowsy patient but in wakefulness, there is an 8.7 Hz alpha rhythm, slowing to 7 Hz in drowsiness. The overall background is symmetric, but on one occasion there is a bit more rhythmic slowing on the left compared to the right in transition to sleep. Photic stimulation: The driving response is elicited which is a bit more vigorous on the right than the left although it is present bilaterally. 
+HR: 66 bpm
+ 
+IMPRESSION: Abnormal EEG due to: 
+1. Very modest background slowing. 
+2. A burst of rhythmic slowing on the left. 
+CLINICAL CORRELATION: The background slowing is nonspecific and could be due to this patient's medications or CNS problems. Although no epileptiform features were identified, correlation with imaging is suggested. If more information Is needed about this patient's epilepsy, an EEG monitoring session should be considered. 
+ 

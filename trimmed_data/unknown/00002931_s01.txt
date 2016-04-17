@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Ativan.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is arousable. 
+DESCRIPTION OF THE RECORD: The background EEG is relatively symmetric with some shifting asymmetries.  There is generous, diffuse beta activity.  There is arrhythmic delta activity identified in the posterior regions bilaterally, perhaps slightly slower on the right.  There is excess beta and excess theta noted in the background.  There is occasional FIRDA and eye movements, but no triphasic or periodic discharges.  Stimulation of the patient produces an increase in faster frequency activity and a brief arousal.  
+HR:  70 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Generalized background slowing.
+	Occipital delta.
+	Excess beta  
+CLINICAL CORRELATION: No epileptiform features were identified in this record, and there are no specific hallmarks of a hepatic encephalopathy.  There are soft lateralizing features.  Additional recording when the patient leaves the ICU may be helpful in searching for epileptiform activity.  

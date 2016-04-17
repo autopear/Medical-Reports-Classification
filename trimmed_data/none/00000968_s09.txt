@@ -1,0 +1,12 @@
+MEDICATIONS:  Ativan, Diastat, Phenobarbital, Keppra
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel  EKG.  The patient is quite somnolent.
+DESCRIPTION OF THE RECORD:  The background EEG includes generous beta.  It is a mixed frequency pattern.  There are bursts of sharply contoured slowing noted from the left or right temporal region.  There are bursts of beta activity as well as some higher amplitude right temporal or centrotemporal sharp waves noted in the background.   
+This is a prolonged bedside recording.  As the recording continues in the first 45 minutes there are bursts of beta activity and some sharp wave contoured slowing.  There are also bursts of 13 Hz activity.   
+The second hour of EEG recorded is in a separate EPOC.  Generous beta activity is noted.  There are occasional paroxysmal bursts noted from the left temporal region, a little bit more prominent from the left.  The patient is somnolent, but arousable.   
+HR:    110 to120 bpm
+IMPRESSION:  Abnormal EEG due to:
+Excess beta. 
+Occasional bursts of epileptiform activity which may include fast activity or sharp waves from the left or right hemisphere.
+CLINICAL CORRELATION:  No seizures were recorded.  The excess beta may be due to this patient's medications.  There are epileptiform features noted from either 
+hemisphere.      
+.

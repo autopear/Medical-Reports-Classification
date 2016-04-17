@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10 Hz, 30 V posterior dominant rhythm and a generous quantity of low voltage, frontocentral beta activity.  Drowsiness is characterized by attenuation of the alpha rhythm and an increase in the dramatic beta activity.  Hyperventilation is performed with good effort and does not significantly activate the record.  Photic stimulation elicits brief bilateral driving.
+HR:  90 BPM.
+	IMPRESSION: Normal EEG in wakefulness and stage I sleep.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The extraordinary beta described above can be seen in the setting of anxiety or with medication effect.  Review of this patient’s medication list might be helpful to determine whether or not she receives benzodiazepine. 

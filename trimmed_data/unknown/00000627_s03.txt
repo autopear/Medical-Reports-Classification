@@ -1,0 +1,16 @@
+MEDICATIONS: Dilantin, Tegretol. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic 
+stimulation are performed. This is an awake and briefly drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10Hz alpha rhythm of 40 
+microvolts. There is a subtle asymmetry with a bit more delta in the left frontal region 
+and as the patient becomes drowsy, there is beta accentuation in the left frontal region. 
+Hyperventilation produces some rhythmic bilateral slowing. Photic stimulation elicits 
+scant bilateral driving. 
+HR: 90 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Subtle left frontal delta. 
+2. Frontal beta accentuation. 
+CLINICAL CORRELATION: The delta described above has been reported in previous 
+studies. The beta asymmetry can be seen following previous craniotomy or treatment to 
+the abscess as described above. 

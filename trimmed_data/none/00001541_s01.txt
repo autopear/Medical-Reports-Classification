@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Midazolam, Ativan, Zosyn, Vancomycin, Senkot, Verse, Gentamicin, Dilaudid, Keppra, Midazolam 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated with a ventriculostomy. She had previously been responsive. Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a markedly abnormal pattern. The activity from the left hemisphere is markedly suppressed and slow. There is a breach rhythm identified on the right. In addition, throughout much of the record the activity is quite slow in the right frontal region but there is some beta accentuation in the right frontal region as well as a somewhat periodic sharp wave maximum at 4. Stimulation of the patient does produce some artifact as well as a small amount of rhythmic activity in the right hemisphere but this is difficult to discern at the left hemisphere and at both hemispheres, the use of slow paper speed is necessary to see changes. There is variability in the right hemisphere. 
+HR: 100 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Markedly slow background. 
+2. Intrahemispheric asymmetry with a markedly slow pattern on the left. 
+3. Occasional periodic sharp waves on the right in the right frontal region. 
+4. Variability with occasional prominent beta activity in other sections with more of a delta pattern. 
+CLINICAL CORRELATION: This EEG supports a severe disturbance of cerebral function. The periodic sharp waves identified at F4 could be generated from the cerebral activity on the left given the degree of herniation noted on the CT scan. No seizures were seen. Overall, this is a very ill-appearing pattern. 

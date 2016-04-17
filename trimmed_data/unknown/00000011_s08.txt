@@ -1,0 +1,9 @@
+MEDICATIONS:  Ativan, Dilantin, Midazolam.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The technologist notes a craniotomy defect on the right.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a periodic complex in the left hemisphere.  It starts in the left frontotemporal region but demonstrates significant spread throughout the left hemisphere and using different montages seems to end in the occipital region, phase reversing at O1 and O2.  The discharge has complex morphology and a periodicity of about 1 per second.  It can be considered PLEDS plus in that there is a little bit of variability and a little bit of theta frequency that goes along with it.  Stimulation of the patient seems to dramatically accentuate faster frequency activity from the right hemisphere, but not the left.   
+HR:    120 bpm
+IMPRESSION:  Abnormal EEG due to:
+A complex epileptiform discharge from the left hemisphere which is periodic in nature and has a broad field of spread.
+Markedly slow background on the left.
+Generalized background slowing.
+CLINICAL CORRELATION:  This EEG supports a highly epileptiform and complex process on the left which spreads to the right.  Positive prognostic features include the remarkable variability and reactivity on the right.  This patient has epileptiform activity from either hemisphere. 

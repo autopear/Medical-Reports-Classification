@@ -1,0 +1,13 @@
+MEDICATIONS:  Copaxone, Keppra, Vimpat, Loperamide, Baclofen, Terazosin, Metoprolol, Lantus, Doxazosin.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 2 to 4 Hz with an amplitude of 20 to 70 microvolts.  There is no reactivity to this background, and no clear state changes or activating procedures were seen. 
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen at FP-2/F4, frequently.
+Generalized slow waves at 2 to 4 Hz with an amplitude of 20 to 70 microvolts. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Focal sharp waves in the right prefrontal and frontal regions.  
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization related epilepsy with seizures likely arising from the right prefrontal and frontal region. In addition, there is evidence of diffuse cerebral dysfunction, which is nonspecific with regard to etiology.  No seizures were seen.

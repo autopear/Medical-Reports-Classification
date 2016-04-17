@@ -1,0 +1,8 @@
+MEDICATIONS: Xanax, Percocet, Plavix.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as somnolent. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow.  In maximal weakness, there is primarily a theta frequency background with a posterior dominant rhythm of approximately 7 Hz.  The patient rapidly drifts off to a light sleep state.  There is generous, frontocentral beta activity.  The major abnormalities are intermittent bursts of rhythmic, higher amplitude 4 to 6 Hz activity.  This is maximum at T1 using an anterior temporal chain, but at T3-T5 a lateral temporal chain. In addition, there are rare bursts of slowing from the right mid-temporal region. Deeper stages of sleep are characterized by vertex waves and brief spindles with occasional arousals.  In later portions of the record, in light sleep, there are brief bursts of rhythmic, left temporal again higher amplitude sharply contoured 6 Hz activity with bursts lasting 3 to 5 seconds.
+HR:  84 BPM, irregular.
+	IMPRESSION: Abnormal EEG for a subject of this age due to:
+Moderate generalized background slowing.
+Rhythmic, high amplitude sharply contoured activity from the left mid-to-posterior region.
+CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function effecting both gray and white matter.  This can be seen in the setting of a toxic or metabolic encephalopathy.  This patient’s medications may play a role in this pattern.  The amplitude asymmetry is of unclear significance, however, consideration for either a skull defect or thinning of the skull would be appropriate. No seizures were recorded. 

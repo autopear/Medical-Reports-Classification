@@ -1,0 +1,17 @@
+MEDICATIONS:  Dilantin, Ativan, phenobarbital.
+INTRODUCTION:  Continuous video EEG was initiated after the patient arrived in the ICU.  During the overnight recording, the patient received 400 mg of phenobarbital.  He remained comatose without any evidence of clinical seizure.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a very low voltage, suppressed pattern on the right.  There are some sections of the record with more theta and even some alpha frequency activity on the right.  The left hemisphere demonstrates left temporal sharp waves with a broad field of spread, primarily T3 with a polyspike component.  These are high amplitude discharges with some variability.  Intermittently, they occur as more sustained bursts with some frequency evolution.   
+On the morning of October 19, 2012 the activity continues to demonstrate intermittent, bursts, but as not sustained as noted around 1:00 a.m. earlier on October 19, 2012.
+October 19
+INTRODUCTION:  Continuous video EEG recording was performed using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was intubated and comatose.
+DESCRIPTION OF THE RECORD:  The background includes a slow pattern.  The recording begins prior to intubation of the patient but after the patient has received Ativan and a Dilantin load.  The activity is moderately slow from the right, but the left hemisphere includes arrhythmic delta and a periodic complex maximum in the left central and temporal regions, more typically T3 maximum but with some variability.  The periodic activity may occur in bursts lasting 5 to 7 seconds.  It does not clearly evolve and as it ends it is typically followed by a generalized attenuation.  The background EEG demonstrates a diffusely slow pattern.  The activity is very low voltage and slow on the right.  Epileptiform activity is noted from the left hemisphere with a sharp wave, periodic complex, and even some polyphasic activity in the left central parietal region.  Through much of the recording the activity is relatively invariant, but on the morning of October 20, 2012 the periodicity is more consistently increasing, about 1 per second. 
+Heart rate 73 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+A periodic complex in the left hemisphere with some evolution.
+Arrhythmic delta on the left.
+A reasonably slow pattern on the right.
+CLINICAL CORRELATION:  This EEG raises concerns for a structural functional process in the left hemisphere which is epileptogenic as well as a diffuse disturbance of cerebral function.
+October 20
+There is no frequency evolution of the epileptiform activity, but it is more prominent on October 20, 2012 in comparison to the October 19, 2012 in that it is a more consistent pattern of periodic spike.   
+Heart rate:  96 BPM.
+IMPRESSION/CLINICAL CORRELATION:  This 24-hour section of the record demonstrates ongoing epileptiform activity which does not appear to have slowed, and in fact, is a bit more consistent on October 20, 2012.

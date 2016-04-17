@@ -1,0 +1,8 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Zonisamide.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement with additional anterior temporal lead and single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  The patient is recorded during wakefulness and drowsiness.  Activating procedures, including hyperventilation and photic stimulation, produce no abnormal discharges. 
+Heart rate:  60. 
+Abnormal discharges:  None.
+IMPRESSION:  Normal awake and drowsy EEG.
+CLINICAL CORRELATION:  This is a normal awake and drowsy EEG.  No seizures or epileptiform discharges were seen.

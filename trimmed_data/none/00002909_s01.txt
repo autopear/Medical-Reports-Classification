@@ -1,0 +1,13 @@
+MEDICATIONS: Gentamicin, atropine. 
+INTRODUCTION: Digital EEG is performed at bedside in ICU using standard 10-20 
+system of electrode placement with 1 channel of EKG. The patient is intubated and 
+poorly responsive. 
+DESCRIPTION OF THE RECORD: The background EEG is continuous, slow and 
+disorganized with a mixed frequency pattern. There was significant muscle activity on 
+the right. Both hemispheres include generous theta and delta with a handful of left 
+posterior temporal sharp waves. 
+Heart rate: 60-90 BMP. 
+IMPRESSION: Abnormal EEG due to: Slow and disorganized background. 
+CLINICAL CORRELATION: The muscle activity precludes adequate evaluation on the 
+right, but this EEG supports a bihemispheric disturbance as may be seen in the context 
+of an intracerebral hemorrhage. There ware a handful of sharp waves, but no seizures. 

@@ -1,0 +1,12 @@
+MEDICATIONS:  Ativan, Keppra, Cipro, Benadryl, Tylenol
+INTRODUCTION:  Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is initially quite somnolent with bilateral decerebrate posturing and then over the course of the recording, increasingly awake.  She is awake in the early morning hours of March 9, 2012.
+DESCRIPTION OF THE RECORD:  In the initial hours of recording, the background EEG is quite slow, low voltage.  Although there is problematic muscle artifact, there are brief bursts of sharply contoured activity and/or sharp waves.  On one occasion at 11:54 the activity seems to evolve over a 30 second period, but no clinical signs are noted.   
+Over the long term monitoring session, the patient is increasingly awake with more beta activity, particularly on the morning of March 9, 2012.  Despite electrode artifacts, sharply contoured slowing and/or sharp waves are noted in the right hemisphere more typically at T4, but sometimes T6 or P4.   
+The final sections of the record demonstrate better quality EEG in an awake patient with what seems to be an improvement in the background slowing until the manages to take off most of her EEG electrodes.   
+HR:    96 bpm
+IMPRESSION:  This 24-hours video EEG monitoring session is remarkable for:
+Generalized background slowing, improving significantly over the course of the day.
+Focal slowing from the right hemisphere.
+Sharp waves from the right with technical difficulties described above, most of them are T4, but with some variability.
+What is likely an electrographic seizure in the initial sections of the record.
+CLINICAL CORRELATION:  The patient had episodes of posturing.  These episodes of posturing were not associated with ictal pathology, but they did occur periodically.  In reviewing the video, no specific motor behaviors were noted with a burst of muscle activity, which may have been temporalis muscle.

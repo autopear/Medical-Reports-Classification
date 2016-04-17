@@ -1,0 +1,12 @@
+MEDICATIONS: Acyclovir and many others.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-
+20 system  of electrode placement with one channel  of EKG. The patient is intubated and poorly
+responsive.
+DESCRIPTION OF THE RECORD: This is a dynamic  record  with portions of the record demonstrating rhythmic higher  amplitude theta frequency activity and other  portions of the record demonstrating  more significant slowing with more  arrhythmic delta superimposed upon the theta. During the portions of the record when the patient  has the delta,  the delta  appears to be slower  on the  right  in  comparison to  the  left.   In  this  challenging record,   there  are  triphasic waves.    In addition,   there  are  occasional  sharp   waves   identified   from   either   hemisphere  including  the occipital regions, bifrontal, as  well  as left anterior  temporal.  Stimulation of  the patient  clearly elicits an alerting response in the EEG.             
+HR.: 96BPM.
+IMPRESSION: Abnormal EEG due to:
+1.   Markedly disorganized background.
+2.   Triphasic waves.
+3.  Intermittent asymmetry with slower delta on the right compared to the left.
+4.    Sharp  waves  identified from  multiple localizations in this EEG including right frontocentral, bifrontal, right greater  than left, and left anterior  temporal, as well  as occipital.
+CLINICAL CORRELATION: The  triphasic  waves  and the frequent sharp  waves  may both  be manifestations of this  patient 's metabolic encephalopathy thy.  The  metabolic encephalopathy may augn1ent  the  underlying epileptiform  abnormalities.   Because  of  the  intermittent asymmetry, imaging  may be of use.  No seizures were recorded.

@@ -1,0 +1,16 @@
+MEDICATIONS: Dilantin, Benadryl, Keppra 
+INTRODUCTION: Digital video EEG was performed at bedside u standard 10-20" 
+system of electrode placement with 1 channel of EKG. The patient is awake and easily 
+confused. 
+DESCRIPTION OF THE RECORD: The overall background is disorganized with 
+excess theta. There is a glimpse of a 7 Hz posterior dominate rhythm. lambda activity 
+is noted. Occasional bursts of FIRDA are noted. 
+HR: 120 bpm. 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Disorganization. 
+3. Frontal intermittent rhythmic delta aCtivity. 
+4. Occasionally posteriorly predominate slowing. 
+CLINICAL CORRELATION: No epileptiform features were ed today. Although 
+this is a markedly improved record, the overall background remains quite slow. 
+ 

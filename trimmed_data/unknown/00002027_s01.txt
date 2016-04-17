@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, Keppra, Actonel 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation were performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 12-Hz alpha rhythm of 40 microvolts. There is a small amount of low voltage, which is central beta activity. Features of drowsiness include an increase in beta frequency activity. Vertex waves are observed in stage 1 sleep .. Hyperventilation does not activate the record. Photic stimulation elicits brief bilateral driving. 
+HR: 72 bpm. 
+IMPRESSION: Normal EEG. 
+CLINICAL CORRELATION: No focal nor epileptiform features were observed. The only prior EEG available for this individual is from 1998 and is also reportedly normal. If epilepsy is an important consideration, additional studies are advised. 

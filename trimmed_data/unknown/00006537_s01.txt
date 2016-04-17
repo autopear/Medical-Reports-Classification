@@ -1,0 +1,9 @@
+MEDICATION: Dilantin, Aspirin, Antibiotics, others.
+INTRODUCTION: Digital Video EEG was performed at the bedside using standard 10-
+20 system of electrode placement with one channel of EKG.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal and is at times,  discontinuous.    There are portions  of the record with discontinuity  ranging from  1-3  seconds.    Portions  of  the  record  with activity, demonstrate  theta  frequency activity.   There is a periodic  complex  identified in this record  with a generous  field of spread  but  this  complex  seems  to  be  maximum  in  the  left  frontotemporal  region. Stimulation  of the patient does not impact the discontinuous pattern nor the left frontal epileptiform  activity.
+HR:   114BPM.
+IMPRESSION: Abnormal EEG due to:
+1.   Replacement of normal background with a discontinuous pattern
+2.   Left frontotemporal periodic complexes with some spread to the right hemisphere
+CLINICAL CORRELATION:  This tracing, 48 hours following  anoxic injury, in the context of watershed  infarct, supports a severe, diffuse disturbance  of cerebral function. No sustained seizures were recorded.   The presence of the left frontotemporal periodic complexes was reported to the clinical team on the day of this study for appropriate intervention  at that time.

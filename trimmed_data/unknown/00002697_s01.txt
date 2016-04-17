@@ -1,0 +1,7 @@
+MEDICATIONS: Vancomycin, Dilantin, Ativan, Dopamine, Norphinefrine(?), Hydrocortisone. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and comatose. 
+DESCRIPTION OF THE RECORD: The background EEG is continuous with a mixed frequency, medium amplitude pattern with diffuse theta and smaller amounts of delta, alpha, and beta frequency activity.  There are clear state changes for this patient: portions of the record where she opens and closes her eyes spontaneously and where there is a hint of a 7 Hz posterior dominant rhythm.  The EEG has some shifting asymmetries in this state, but it is relatively symmetric.  There are other portions of the record that are compatible with a sleep pattern including a brief portion with stage II sleep with spindles and K complexes.  At the close of the record, the patient opens and closes eyes to command and appears to be responsive.  The EEG at this time remains slow and moderately disorganized.  
+HR:  N/A.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Generalized background slowing.
+CLINICAL CORRELATION: This EEG and its associated clinical exam demonstrates an improvement for this patient who appeared to be in a state of coma yesterday.  The generalized background slowing is supportive of a diffuse disorder of cerebral function such as a toxic or metabolic encephalopathy or even sepsis. No epileptiform features were seen in this record. 

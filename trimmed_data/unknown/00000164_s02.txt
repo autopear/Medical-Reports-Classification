@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Tegretol. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well-organized but somewhat slow with a 7.5 Hz alpha rhythm, a small amount of low voltage frontocentral beta activity and excess theta. Technically, this is a good quality study with symmetric pattern. Occasional lambda Is noted. Photic stimulation elicits scant driving. A single left frontally frontocentral sharp wave maximum at F7, FT1 is observed in this EEG. 
+HR: 60bpm. 
+IMPRESSION: Abnormal EEG due to: 
+1. Mild background slow. 
+CLINICAL CORRELATION: A single sharp wave should be considered artifactual and not epileptiform if there is only one. This sharp wave, however, is well-defined with an after going slow wave. This is the third EEG for this patient and the first to demonstrate epileptiform activity which is well-defined. This appears to be a satisfactory localization of this person's epilepsy despite the shortcomings described above. 
+ 

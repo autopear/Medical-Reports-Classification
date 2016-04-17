@@ -1,0 +1,5 @@
+MEDICATIONS:  Dilantin, Zofran, Folate
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10/20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  The patient is drowsy throughout much of the record, but when maximally awake, he has a well-defined 11 Hertz alpha rhythm of 50 microvolts. Features of drowsiness include slow rolling eye movements. This patient's temperature  produces bioelectric artifact (sweat). Post and vertex waves are seen in stage 1 sleep. A small discrete right temporal sharp wave is observed in the transition to stage 2 sleep.
+	HR: 	72 bpm
+CLINICAL CORRELATION: Only a single discrete right temporal sharp wave was observed. This sharp wave has the morphology of a benign epileptiform  transient of sleep. Given the history of his seizure, however, additional recording in the lab is recommended.

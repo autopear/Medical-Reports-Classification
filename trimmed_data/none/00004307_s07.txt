@@ -1,0 +1,10 @@
+MEDICATIONS:  Keppra, Ceftriaxone, Vancomycin, Zosyn, Heparin
+REASON FOR STUDY:  Rule out seizures; patient having myoclonic jerks.
+INTRODUCTION:  Digital video EEG was performed in lab using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was unresponsive during the EEG.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:   None
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a frequency of 2 to 4 Hz and an amplitude of 20 to 30 microvolts.  There is no normal posterior dominant rhythm or frontocentral beta.  There appears to be no clear reactivity.  During the recorded video, there appears to be some sudden jerks with the typical appearance of myoclonus; however, the EEG did not reveal any clear correlate.  No normal sleep architecture was seen.   
+ABNORMAL DISCHARGES:  Generalized slow waves at 2 to 4 Hz and an amplitude of 20 to 30 microvolts.
+SEIZURES:   None
+IMPRESSION:  Abnormal EEG due to:  
+1. Generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific in regard to etiology.  No seizures were seen.  Please note that the myoclonus observed during the video had no EEG correlate.

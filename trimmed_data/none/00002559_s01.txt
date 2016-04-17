@@ -1,0 +1,11 @@
+MEDICATIONS:  Clonidine, Lorazepam.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal electrode. Data was recorded in wakefulness and lethargy.  No activation procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background that, at best has a posterior dominant rhythm that reaches 8 Hz which appears to be slightly reactive to eye opening.  No normal frontal beta activity is seen.  At times there is burst of frontal intermittent rhythmic delta activity (FIRDA) seen throughout the recording.  No normal sleep architecture is seen.  No activating procedures were performed.
+ABNORMAL DISCHARGES:  Generalized slow waves at 5 to 7 Hz, 5-7 hertz seen throughout the recording along with intermittent FIRDA activity.
+SEIZURES:   None
+IMPRESSION:  Abnormal EEG due to:  
+Diffuse slow waves. 
+FIRDA.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.

@@ -1,0 +1,8 @@
+MEDICATIONS:  Gabapentin, Atenolol, Ultram, Norvasc, Hydralazine, Vancomycin, Haldol, Lipitor.
+REASON FOR STUDY:  Change in mental status concerning for herpes encephalitis
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded while in wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  Some movement artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely disorganized and slow background with a posterior dominant rhythm that at best reaches 7 Hz, which appears to be reactive to eye opening.  There is a lack of normal frontal central beta.  No activating procedures were performed.  Some sleep architecture in stage I and stage II was seen.   
+ABNORMAL DISCHARGES:  Focal slow waves seen infrequently at F7/T3 at 2-4 Hz with an amplitude of 20-60 mV. Generalized slow waves seen at a frequency of 5-8 Hz with an amplitude of 20-60 mV. 
+SEIZURES:  None.
+IMPRESSION/CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left anterior temporal region, in addition to diffuse cerebral dysfunction, both of which are nonspecific in regards to etiology.  No seizures or epileptiform discharges were clearly seen.

@@ -1,0 +1,7 @@
+MEDICATIONS:  Dilantin, Ativan, Lorazepam
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record.  It is a bedside portable study.
+DESCRIPTION OF THE RECORD:  The overall EEG is low-voltage, relatively slow with rhythmic theta.  There is lower amplitude activity in the temporal regions relative to the central regions.  Stage I sleep includes vertex waves.  Spontaneous arousals are noted.
+	HR:	84 bpm
+IMPRESSION: Abnormal EEG due to:
+1.  Generalized rhythmic slow background.
+	CLINICAL CORRELATOIN: The background slowing described is nonspecific.  It can be seen in many disturbances of cerebral function but is relatively characteristic of a diffuse encephalopathy as could be seen in HIV or other conditions.

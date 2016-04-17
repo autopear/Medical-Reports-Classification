@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, Phenobarbital, Thiamine.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake record. 
+DESCRIPTION OF THE RECORD: The patient is awake.  The background EEG is well organized with a 10 Hz, 40 to 50 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by attenuation of the alpha rhythm with vertex waves, spindles, and POSTS in stage II sleep. 
+HR:  90 BPM.
+	IMPRESSION: Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION: In this individual with refractory seizures, this is the eighth EEG lacking epileptiform activity.  If appropriate, additional video EEG recordings may be arranged.  

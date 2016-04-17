@@ -1,0 +1,16 @@
+MEDICATIONS:  Phenobarbital, Topamax, Carbamazepine.
+REASON FOR EEG:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The EKG was performed in wakefulness and sleep.  Photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 8 Hz which appears to be reactive to eye opening.  There is asymmetry in the frontocentral beta better seen over the right hemisphere.  
+No abnormal discharges are seen during photic stimulation.  Some patterns of abnormal sleep stage 1 were seen. 
+ABNORMAL DISCHARGES:  
+Focal slow waves seen over the left hemisphere almost continuously maximally at F7/T3 at a frequency of 2-4 Hz with an amplitude of 20-60 microvolts.  There is an associated loss of faster frequencies over this region.
+Intermittent focal slow waves seen at T4 at a frequency of 2-4 Hz with an amplitude of 20-40 microvolts. 
+Diffuse slow waves seen at a frequency of 5-7 Hz with an amplitude of 20-50 microvolts.  
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due:  
+Left hemispheric focal slow waves seen continuously and maximally over the anterior temporal region. 
+Independent right midtemporal focal slow waves. 
+Diffuse slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction seen in the left hemisphere maximally in the anterior temporal region with some associated cortical involvement, which is consistent with a known AVM over that region.  In addition, there is evidence of independent focal cerebral dysfunction in the right midtemporal region, which is nonspecific with regards to etiology.  Lastly, there is evidence of diffuse cerebral dysfunction, which is also nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.  Please note that this is different from the previous report where they saw right posterior temporal focal sharp wave which were not seen during this record.

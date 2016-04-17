@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin, Ativan, Versed, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the emergency room using standard 10-20 system of electrode placement with one channel of EKG.  The patient was somnolent, but sometimes responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow.  Superimposed upon the slow background there are sharp waves, some periodic slowing and some periodic sharps noted in the left  hemisphere typically at T1, but with some variability, T1, F7 and T3.  Stimulation of the patient does produce an alerting response with a glimpse of an alpha on the right, but the patient remains somnolent.  Unfortunately, stimulation of the patient also produces a fair amount of artifact.  In an averaged reference, the epileptiform activity is maximum at F7 with a variable field in the left anterior temporal or frontotemporal.   
+Heart rate 84 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+* Focal slowing from the left frontotemporal region. 
+* Sharp waves, periodic complexes and periodic delta in the left frontal and frontotemporal region with variability.  
+* Background slowing.
+CLINICAL CORRELATION:  As the recording continues, with stimulation of the patient there is an increase in faster frequency activity on the right.  However, the periodic activity and the sharp waves on the left have not abated, although there are no clinical seizures.  Ongoing clinical evaluation is warranted.

@@ -1,0 +1,10 @@
+MEDICATIONS: Versed, Dilantin, and Digoxin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is uncomfortable.  
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a fluctuating pattern.  The overall pattern is disorganized, high amplitude, and slow.  However, there are some portions, particularly with stimulation, where the patient has a more organized pattern with a bit more rhythmic theta from the left compared to the right.  When not stimulated or just resting, there is more remarkable arrhythmic delta activity that can be identified in the frontal regions or with slower, slightly lower voltage, lower arrhythmic delta activity from the occipital regions, right greater than left.  There is some sharply contoured delta seen in the record, and rare right frontal or right frontotemporal sharp and slow wave complexes may be identified.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing with poor organization.
+Intrahemispheric asymmetry.  With stimulation, the left hemisphere demonstrates more beta and theta than the right.  
+Arrhythmic delta from the posterior regions.
+Rare sharp waves from the right hemisphere, particularly frontal or temporal regions. 
+CLINICAL CORRELATION: No seizures were recorded.  This EEG supports a diffuse disturbance of cerebral function affecting both gray and white matter.  The fluctuating pattern described above is more supportive of a metabolic process, although it can be seen in any waxing or waning neurologic condition.  The arrhythmic delta from the right posterior quadrant is in the same localization as the hemorrhage. 

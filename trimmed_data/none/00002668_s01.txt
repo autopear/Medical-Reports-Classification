@@ -1,0 +1,11 @@
+MEDICATIONS:  Fluticasone, Benzonatate.
+REASON FOR STUDY:  Episodes of dizziness, not able to move hands or feet.
+INTRODUCTION: Digital video EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures, including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal amount of frontal central beta seen during the recording.  The patient is recorded in wakefulness and drowsiness.   
+Activating procedures, which included photic stimulation, produce no abnormal discharges.  However, there was event during hyperventilation, which will be described below.   
+ABNORMAL DISCHARGES:  None. 
+EVENTS:  During hyperventilation the patient complains of feeling dizzy and started trembling and became unresponsive.  He stopped trembling later, but continued to be unresponsive and wound not follow commands.  About 2, almost 3 minutes, later the patient started answering questions and moving as commanded, but did not remember what happened and was slightly disoriented.  During this episode the EEG had no epileptiform abnormalities or correlate to this behavior.
+IMPRESSION:  Normal awake and drowsy EEG.  
+NOTE:    One episode of unresponsiveness with no EEG correlate.
+CLINICAL CORRELATION:  This is a normal awake and drowsy EEG.  No seizures or epileptiform discharges were seen.  The episode captured, as described above, had no EEG correlate.  As such, it may represent a nonepileptic event.  The clinical disposition should be correlated to the events the patient complained about.

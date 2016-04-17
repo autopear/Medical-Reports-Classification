@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Procardia, Metformin, Insulin, Albuterol, Singulair, Clonidine, Protonix, lsosorbide, Metoprolol
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is initially quite somnolent.
+DESCRIPTION OF THE RECORD:  The initial portion of the EEG demonstrates  a continuous pattern with a mixture of beta and delta.  There is some alpha and beta frequency activity observed in the central region, but the frontal regions demonstrate more slow arrhythmic delta. The patient is shivering, and when she does so, there is a great deal of muscle artifact.   Later in the record, the patient is increasingly  active with tremors, shivering and spontaneous movements.  This activity unfortunately, obscures much of the EEG.   There is a suggestion of a right greater than left frontal sharp wave, but there is a great deal of artifact.   In addition, there is a beta asymmetry with a bit more right frontal beta in comparison to the left, noted at the close
+of the record.
+HR:   120 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1.	Slow background  with prominent  frontal slowing.
+	2. 	Asymmetry in terms of beta frequency  activity.
+	3.	Question right frontal sharp wave.
+CLINICAL CORRELATION: To more completely evaluate underlying epileptiform activity, a repeat tracing in the EEG lab when the patient is comfortable is recommended.

@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Aspirin, Lovenox, sertraline, nicotine patch, Keppra, digoxin, Librium.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures included photic  stimulation.
+TECHNICAL DIFFICULTIES:  There was some movement artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffuse posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures which included photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen almost continuously at F8/T4 at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts.  
+Focal slow waves seen occasionally at T3 and at times at F7/T3 at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts.
+SEIZURES:  None.
+HEART RATE:  66 and irregular.
+IMPRESSION:  Abnormal EEG due to almost continuous right anterior temporal slowing and intermittent left mid temporal to anterior temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural cerebral dysfunction in the right anterior temporal region which is consistent with the known stroke.  In addition, there is evidence of focal cerebral dysfunction in the left mid temporal to anterior temporal region, which is nonspecific with regards to etiology.  No seizures or clear epileptiform discharges were seen.

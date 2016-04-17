@@ -1,0 +1,13 @@
+MEDICATIONS:  Dilantin, Sertraline, Lisinopril, Digoxin, Sertraline, Metoprolol, Phenytoin, Acetaminophen
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation is completed, hyperventilation was attempted.
+DESCRIPTION OF THE RECORD:  The background EEG is slow and disorganized.  There is no well defined alpha rhythm.  There does appear to be 6-7 Hz mu noted in the central regions, more so on the right than the left, but there is shifting slowing noted.   
+Photic stimulation elicits minimal driving.   
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:
+1. Background slowing and disorganization.
+2. Shifting slowing with at times a bit more of a central mu noted bilaterally.
+3. Intermittent shifting asymmetries at times more disruption of faster frequency activity on the right compared to the left.
+CLINICAL CORRELATION:  This EEG supports a bihemispheric disturbance.  The central region seemed to be a little less involved than others.  There were no epileptiform features.  In some sections of the record the right hemisphere seems to be 
+more impacted than the left.  The absence of epileptiform activity does not exclude the possibility of seizures.
+DD:02/10/2012
+DT:02/10/2012

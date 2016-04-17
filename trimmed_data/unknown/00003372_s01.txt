@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is uncomfortable on a stretcher and moaning throughout. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with low voltage theta and smaller amounts of delta.  The patient had intermittent episodes where he has brief body shaking, which appears to be volitional.  This is not associated with a change in his EEG, although it does produce some movement artifact.  As the recording continues, the patient is less cooperative.  In addition, as the recording continues, the patient is noted by the tech to have irregular respirations and four PVCs.  The technologist sits the patient up at that point and pages the physician who arrives within minutes.  The recording ends at 9:37.  The patient is comfortable at that time and is no longer demonstrating the intermittent tremulousness.
+HR:  72 BPM, occasionally irregular.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Generalized background slowing.
+CLINICAL CORRELATION: Reviewing the video with the clinical information that was occurring, it appears that this patient’s intermittent tremulousness seems to be a response to respiratory difficulty.  The patient was sent back to the floor under physician supervision. 

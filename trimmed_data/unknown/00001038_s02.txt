@@ -1,0 +1,9 @@
+MEDICATIONS: Labetalol, Dilantin, many others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient reports significant discomfort and is noted to mumble and moan.
+DESCRIPTION OF THE RECORD: In maximal wakefulness, the background EEG is somewhat disorganized.  The primary frequencies are theta with bursts of frontally predominant delta.  There is a posterior dominant rhythm of approximately 8 Hz, 30 V. When the patient is comfortable, she starts to drift off to sleep with additional rhythmic, frontally predominant delta and occasional vertex waves.  She alerts spontaneously.  As the patient drifts off to sleep, there are occasional bursts of shifting, frontally predominant delta.  
+HR:  104 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Occasional FIRDA.
+Occasional shifting arrhythmic delta.
+CLINICAL CORRELATION: The features described above are non-specific and support a diffuse disorder of cerebral function effecting both gray and white matter.  Toxic or metabolic encephalopathies as well as medications may produce the pattern described above.  There were no definite epileptiform features seen in this record.  To further characterize this patient’s epileptiform activity, a follow-up study when the patient is more comfortable may be of use. 

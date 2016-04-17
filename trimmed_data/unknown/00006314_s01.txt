@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Norvasc, Percocet, Zofran, LISINOPRIL, Vanco, Carvedilol,  
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is awake.  
+DESCRIPTION OF THE RECORD: In wakefulness the background activity primarily includes rhythmic, 5-8.5Hz theta frequency activity. There are bursts of rhythmic, high amplitude frontal delta which is higher amplitude on the right compared to the left. Features of drowsiness include an increase in beta.  
+HR: 90 bpm  
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Frontal intermittent rhythmic delta activity (FIRDA) which is significantly higher amplitude on the right compared to the left.  
+CLINICAL CORRELATION: The features described above are nonspecific and can be seen in the context of a toxic or metabolic encephalopathy as well as diffuse disturbance of cerebral function due to many different causes. If further information is needed, a repeat study when the patient is out of the ICU may be helpful to search for epileptiform activity. 
+ 

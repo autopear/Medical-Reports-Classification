@@ -1,0 +1,10 @@
+MEDICATIONS: Metformin, Haldol, Dilantin 
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG included low voltage, 
+primarily flat EEG pattern in range of 4.5-6.0 hertz. Small amount of intermittent bursts of delta activity was also observed. Drowsiness is characterized by slow eye rolling movements. 
+HR: 96 bpm 
+IMPRESSION: Mildly abnormal EEG due to: 
+1. Background theta. 
+2. Low voltage pattern with absence of normal awake morphologies. 
+CLINICAL CORRELATION: No epileptic features were observed. Absence of 
+epileptiform does not exclude the diagnosis of epilepsy. The patient is awake, but with generalized background slow EEG activity. This pattern is more consistent with chronic encephalopathy. 

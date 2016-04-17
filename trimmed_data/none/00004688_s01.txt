@@ -1,0 +1,8 @@
+.MEDICATIONS: Amiodarone, Coumadin, Fosamax, others.
+INTRODUCTION:  Digital  video EEG  is performed  at the bedside  in the ICU using standard 10-20 system of electrode placement with one cham1el of EKG. The patient is in a hard collar and responsive.
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnom1al with a mixture  of  theta and arrhytlm1ic  delta.   There  are occasional  frontal  triphasic  waves noted.    Shifting  asymmetries  in tem1s of  arrhythmic delta  are identified.    Features  of drowsiness include an increase in rhythmic delta.
+HR:  60 BPM, irregular _
+Il\1PRESSION: Abnormal EEG due to:
+1.  Marked background slowing and disorganization.
+2.   Triphasic waves.
+CLINICAL  CORRELATION: These  features  are non-specific, but  suggest an underlying encephalopathy. This may be chronic, with elements of an acute process.  No seizures were recorded.   Because of what may well be a baseline  abnormal  background, focal features may be underrecognized in this study.

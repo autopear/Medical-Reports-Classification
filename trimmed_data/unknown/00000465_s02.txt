@@ -1,0 +1,8 @@
+MEDICATIONS:  Topamax, Creon, cyclobenzaprine, Benadryl, lamotrigine, metoprolol, ondansetron, oxycodone, Dilantin.
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8 Hz alpha rhythm with a small amount of background theta.  Drowsiness is characterized by an increase in slowing, particularly in the central regions and disappearance of the alpha rhythm.  Sleep is not sustained.  Photic stimulation elicits scant driving.  Hyperventilation did not significantly activate the record.   
+Heart rate 66 BPM.
+IMPRESSION:  A mildly abnormal EEG for an adult of this age in wakeful and limited drowsiness due to:
+Mild excess theta. 
+Mild slowing of the alpha rhythm.
+CLINICAL CORRELATION:  This is similar to a previous study this year.  Neither EEG captured stage II sleep.  A repeat study capturing sleep is suggested to more completely characterize this patient's epilepsy.

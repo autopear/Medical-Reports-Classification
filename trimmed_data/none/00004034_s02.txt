@@ -1,0 +1,11 @@
+REASON FOR STUDY:  Seizures and altered mental status.
+MEDICATIONS:  Ativan and Keppra.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 system of electrode placement with additional anterior temporal and single lead EKG electrode.  Patient was recorded while awake.   No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  Some movement artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a background which at times appears to have a posterior dominant rhythm that reaches 8 Hz.  Overall, there is an excessive amount of beta and some movement artifact. There is disorganized background.  No sleep is recorded.  No activating procedures are performed.
+HEART RATE:  114.
+ABNORMAL DISCHARGES: Diffuse slow.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to diffuse slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of cerebral dysfunction, which is non-specific with regards to etiology.
+__________________________

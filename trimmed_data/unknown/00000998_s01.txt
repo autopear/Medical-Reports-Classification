@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and Lamictal. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is somewhat sharply contoured and there is a fair amount of muscle and other artifact seen in the background.  There is a 9 Hz, 30 uV posterior dominant rhythm identified.  Despite the head-rocking artifact, there seems to be some underlying focal slowing in the left frontocentral region, which at times is sharply contoured.  This seems to be accentuated by hyperventilation, as well as by drowsiness.  As the patient becomes increasingly drowsy, this finding is less prominent.  In the transition to drowsiness, there are a handful of subtle, left anteriotemporal sharp and slow wave complexes.  Increasing beta activity is seen as he reaches deeper stages of sleep.  There is some subtle snore arousals.  Photic stimulation elicits brief bilateral driving.  
+HR:  96 BPM.
+	IMPRESSION: This EEG is remarkable for:
+Some focal slowing from the left frontocentral region seen in the initial portions of the record in the context of some artifact. 
+Rare, left anteriotemporal sharp waves seen in drowsiness. 
+CLINICAL CORRELATION: Consideration for a localization-related mechanism for epilepsy is important.  Given the artifacts described above, a more prolonged sleep recording may be helpful to more completely capture epileptiform activity. 

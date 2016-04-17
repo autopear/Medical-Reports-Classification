@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Viramune, Phenobarbital, and Percocet.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, 30 uV posterior dominant rhythm.  There is a subtle intrahemispheric asymmetry with a bit more theta identified from the right hemisphere than the left.  As the patient becomes drowsier, it is a bit more remarkable with a somewhat arrhythmic mixed theta and rare delta.  Photic stimulation elicits bilateral driving.   Two bursts of sharply contoured delta from the right were seen, but no definite sharp waves.  
+HR:  56 BPM.
+	IMPRESSION: Abnormal EEG for an adult of this age in wakefulness and drowsiness due to:
+	1.	Focal slowing from the right.
+CLINICAL CORRELATION: There were two sharp waves identified in this record.  Consideration for a structural or functional process on the right is appropriate.  Previous EEGs were not available for comparison. 

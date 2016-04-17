@@ -1,0 +1,17 @@
+MEDICATIONS: Ativan. Dilantin, Keppra 
+INTRODUCTION: Continuous digital video EEG monitoring was performed at bedside using 
+standard 10-20 system or electrode placement with 1 channel of EKG. As the recording 
+continues, the patient becomes increasingly active and starts to remove his EEG electrodes. 
+Hyperventilation and photic simulation are performed. This was a 4 hour study. 
+DESCRIPTION OF THE RECORD: In this challenging bedside recording, the background EEG 
+is diffusely slow with delta and increasing amounts of beta. As the patient moves about. there is 
+muscle and motion artifact. The baseline study suggests there is some left occipital delta. 
+Occipital delta Is seen in this record and there is a suggestion that there may be a T5 sharp 
+wave. Despite problems with electrode integrity, over time the patient does appear to be a bit 
+more awake with an increase in alpha frequency activity. 
+HR: 102bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Marked background slowing. 
+CLINICAL CORRELATION: Epileptiform activity may be under recognized in this record due to 
+muscle and motion artifact If further characterization of his epileptiform activity is requested, a 
+repeat study when the patient Is cooperative is suggested. 

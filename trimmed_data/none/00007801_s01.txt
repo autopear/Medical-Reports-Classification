@@ -1,0 +1,8 @@
+MEDICATIONS:  Magnesium Sulfate, Fioricet
+REASON FOR STUDY:  Episodes of unresponsiveness.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is normal amount of frontocentral beta.  The patient is recorded in wakefulness, stage 1 and stage 2 sleep.  Activating procedures were not performed.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Please note that a normal EEG does not exclude the diagnosis of epilepsy.

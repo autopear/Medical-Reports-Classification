@@ -1,0 +1,9 @@
+MEDICATIONS: Keppra,  Lisinopril, Ranitidine,  Bactrim, Fosamax
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. Awake through stage II  sleep.
+	DESCRIPTION OF THE RECORD:  At the start of epoch, it  has a quite disorganized background.  An intrahemispheric asymmetry is seen with a posterior dominant alpha rhythm seen mostly on the left up to 8 to 9 Hz, but much attenuated and lost on the right posterior dominant region. Consistently, there is slowing of the background seen in the T4 and 06 regions maximally. As the record continues, 02 spike waves are seen with a generous spread throughout the hemisphere.	Deeper stages of sleep are seen in the record with some spindles and vertex waves. As the record concludes, the patient seems to become a little bit more awake with increasing posterior dominant alpha rhythm seen on the left.
+	HR:	96 bpm
+IMPRESSION: Abnormal EEG due to:
+	1.	Disorganized background slowing.
+	2.	lntrahemispheric asymmetry with loss of the posterior rhythm mostly on the right.
+	3.	Right occipital spike waves with a generous spread throughout the hemisphere.
+CLINICAL CORRELATION:   There is regular epileptiform activity seen starting in the right occipital region and spreading generously through the right hemisphere.  This is consistent with an area for seizure focus.  The overall slowing of the background is asymmetric, but the intrahemispheric asymmetry with the slowing on the right could be due to a structural abnormality. No seizures are recorded on this report.   Correlation with radiological studies are recommended.

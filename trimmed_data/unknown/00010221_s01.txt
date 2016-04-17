@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin, Neurontin, Lipitor.
+INTRODUCTION:  Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation is performed.
+	DESCRIPTION OF THE RECORD:  Background EEG in wakefulness demonstrates a somewhat slow pattern from the left.  The right demonstrates a featureless background with rhythmic, high-amplitude  right frontal delta.  There is also craniotomy defect with some distortion of the electrodes in that region.  There seems to be an underlying sharp wave despite the craniotomy defect which seems to be maximum in the right parietal or posterior temporal region.  The EEG is reported with the patient sitting up and he seems to be drifting off to sleep while sitting forward and intermittently arouses. 	Photic stimulation does not significantly activate the record.
+	HR: 	54 bpm
+IMPRESSION:   Abnormal electroencephalogram (EEG) due to:
+	1. 	Prominent arrhythmic delta activity in the right hemisphere.
+	2. 	Right parietal posterior temporal sharp wave.
+	3.	Some background slowing observed from the left.
+CLINICAL CORRELATION:  This EEG supports a functional process on the right and localization related mechanism for epilepsy.  The background slowing on the left may merit clinical correlation.

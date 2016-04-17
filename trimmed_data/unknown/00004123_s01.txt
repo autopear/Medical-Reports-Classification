@@ -1,0 +1,9 @@
+	MEDICATIONS: 	Dilantin.
+	INTRODUCTION: 	Digital video EEG is performed in lab using standard 10/20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed. This is an awake and drowsy record.
+	DESCRIPTION OF THE RECORD: 	In maximal wakefulness, the background EEG is symmetric with reactive, 9 hertz alpha rhythm. In the transition to drowsiness, there is an interhemispheric asymmetry with a bit more slowing from the right as well as disruption of faster frequency activity. Stage I sleep is symmetric with vertex waves. Stage II sleep includes vertex
+waves and spindles. Brief driving is elicited by photic
+stimulation.
+HR: 72 bpm
+	IMPRESSION: 	Abnormal EEG due to:
+1. Intermittent asymmetry observed with drowsiness with a small amount of slowing from the right.
+	CLINICAL CORRELATION: 	No epileptiform features are observed. These findings may be correlated with imaging.

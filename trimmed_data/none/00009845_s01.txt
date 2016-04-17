@@ -1,0 +1,10 @@
+MEDICATIONS:  None.
+REASON FOR STUDY:  Memory loss and confusion.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  Patient was recorded in wakefulness and drowsiness.  Activating procedures including hyperventilation and photic stimulation were performed.
+CLINICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9 Hz which is reactive to eye opening.  There is normal amount of frontocentral beta.  The photic stimulation produced no abnormal discharges.  However, the hyperventilation revealed some abnormality, described below.  The patient was recorded in wakefulness and drowsiness.
+ABNORMAL DISCHARGES:  Focal slowing seen at T4 at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts.  This is accentuated by hyperventilation.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Occasional right midtemporal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right midtemporal region, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges are seen.

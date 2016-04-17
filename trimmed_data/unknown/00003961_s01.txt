@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, benzodiazepines.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient had just been extubated after receiving Ativan and Dilantin.
+DESCRIPTION OF THE RECORD: The initial portions of the record demonstrate a sedated pattern, followed by more of a stage II sleep pattern with vertex waves and spindles.  As the recording continues, the patient spontaneously alerts and arouses with a glimpse of a 9 Hz posterior dominant rhythm in an otherwise well organized background.  
+HR:  100 BPM.
+	IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  No previous EEGs were identified at the time of this dictation.  Normal EEG does not exclude the diagnosis of epilepsy, but given the gravity of this patient’s situation, additional recording to identify an underlying epileptiform focus may be warranted.  

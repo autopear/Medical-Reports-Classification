@@ -1,0 +1,7 @@
+MEDICATIONS: Phenobarbital, Dilantin, Omeprazole 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation was performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG shows some rhythmic background slowing with a 6.5 Hz alpha rhythm and a small amount of low voltage, frontocentral beta activity. Mid temporal theta of drowsiness is noted in relaxed wakefulness and there is a small amount of shifting slowing in the temporal regions. Hyperventilation produces a small amount of background slowing and an increase in amplitude. Photic stimulation was not performed. 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Background slowing. 
+CLINICAL CORRELATION: No epileptiform features were seen. The background slowing described above may be due to this patient's post ictal state, medications, or other processes. 

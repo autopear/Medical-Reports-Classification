@@ -1,0 +1,8 @@
+MEDICATIONS: 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was completed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10.5 Hz, 25 V posterior dominant rhythm.  The overall background is sharply contoured.  There is MU rhythm seen.  In the transition to drowsiness, there is temporal wicket seen from the left or right, but no definite epileptiform activity.   In drowsiness, there are two bursts of sharply contoured 5 Hz theta activity from the right. 
+Photic stimulation elicits symmetric bilateral driving.
+HR:  120 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+	1.	Right temporal focal slowing.
+CLINICAL CORRELATION: The wicket seen from the right is a sharply contoured, normal variant.  There is no definite epileptiform activity.  To further characterize this patient’s seizures, if appropriate, a follow-up study capturing deeper stages of sleep may be of use. 

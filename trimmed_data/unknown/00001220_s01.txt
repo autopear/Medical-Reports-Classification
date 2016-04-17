@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is abnormal.  There is a prominent breach rhythm identified in the frontal regions with accentuation of beta frequency activity as well as increasing amplitudes.  However, there is frontally predominant rhythmic theta seen intermittently in the frontal and frontotemporal regions.  There is a posterior dominant rhythm identified at approximately 7 Hz.  The findings in this tracing reveal intermittent bursts of sharply contoured, high amplitude activity which includes some 6 Hz activity and an underlying sharp wave.  This is sometimes accompanied by evidence of a drowsy pattern with hypersynchronous, higher amplitude slowing.  This is sharply contoured and demonstrates intermittent phase reversals in the left or right frontotemporal/frontocentral regions.  
+Hyperventilation is performed with good effort and seems to accentuate some of the rhythmic slowing from the frontotemporal regions.  Photic stimulation does not illicit a significant driving response. 
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Excessive background slowing with rhythmic frontal theta.
+Unusual bursts of sharply contoured activity from the frontocentral/frontotemporal regions, particularly seen in drowsiness in the setting of a craniotomy.
+CLINICAL CORRELATION: The background slowing, particularly the frontal slowing, may be part of this patient’s previous surgery.  While the activity from the frontocentral regions is sharply contoured, this is in the region of the breach.  Additional recording and deeper stages of sleep may help determine whether or not this is the appearance of the patient’s background, accentuated by the breach, or truly epileptiform in nature. 

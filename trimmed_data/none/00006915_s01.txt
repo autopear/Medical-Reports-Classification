@@ -1,0 +1,10 @@
+MEDICATIONS: Mannitol and Serax. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: The background EEG includes rhythmic 3 to 5 Hz activity with some underlying arrhythmic delta activity.  There is some asymmetry with relative suppression of the theta frequency activity from the left temporal region.  In addition, there is more marked beta frequency activity in the right central region in comparison to the left.   There is variability in the record with an apparent sleep state characterized by an increase in rhythmic theta and vertex waves.  In sleep, there are occasional, high amplitude, right anterior temporal sharp waves. 
+Stimulation of the patient produces an increase in theta from most hemispheres. 
+HR:  35 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Relative attenuation from the left anterior temporal region.
+Right anterior temporal sharp waves. 
+CLINICAL CORRELATION: No seizures were recorded.  This tracing supports a structural or functional abnormality and raises the possibility of a partial mechanism for epilepsy.  Correlation with this individual’s imaging may be helpful in terms of the features identified in each temporal region.  

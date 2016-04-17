@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, ASA, Hydralazine, Amlodipine, Coreg, Zocor, Flomax, Diovan, Isordil, Pantoprazole 
+INTRODUCTION: Digital video EEG was performed at bedside lab using standard 10-20 system of electrode placement with 1 channel EKG. The patient is confused and is wearing mittens. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a dynamic pattern. Some sections include a rhythmic theta pattern. Other sections include prominent triphasic waves. The patient has rapid respirations, yawning and is somewhat confused. There are occasional focal sharp waves identified in the left or right temporal region. Stimulation of the patient produces a decrease in the triphasic waves and an increase in theta although they never completely resolve. There were also some positive vertex sharps and apparent wakefulness. 
+HR: 60bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Replacement of normal background with a theta frequency pattern. 
+2. Triphasic waves. 
+3. Sharply contoured background with occasional sharp waves from the right or left hemisphere. 
+CLINICAL CORRELATION: The record today is more compatible with a metabolic process. The patient is interactive. If epilepsy is an important consideration a follow up study may be considered. 

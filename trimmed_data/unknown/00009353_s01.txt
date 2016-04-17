@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Lamictal, Phenobarbital, and Tamoxifen. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a symmetric, reactive 9 Hz posterior dominant rhythm.  As the patient becomes drowsy, there is a subtle focus with sharply contoured fast activity and sharp waves maximum at C4.  There is an amplitude accentuation as there is a breach that follows.  Photic stimulation is performed early on in the tracing and elicits bilateral driving.  The focal features at C4 are identifiable throughout the photic stimulation period.  Following this, the patient drifts off to stage II sleep with symmetric vertex waves, K complexes, and spindles.  The beta accentuation can still be identified in the right frontocentral region. In addition, as the patient becomes drowsy, additional focal slowing is seen in the right frontocentral region.  Hyperventilation is performed with good effort and to some extent seems to accentuate both the beta and the focal slowing from the right frontocentral region.
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Right frontocentral focal slowing.
+Right frontocentral sharp waves. 
+Accentuation of beta frequency activity.  
+CLINICAL CORRELATION: While there is no mention of a breach rhythm, consideration for a skull defect would be appropriate.  This tracing supports a focal mechanism for epilepsy as well as a structural or function abnormality in the same region.  

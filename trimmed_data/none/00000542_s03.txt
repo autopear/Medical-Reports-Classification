@@ -1,0 +1,9 @@
+MEDICATIONS: Xanax 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The child has occasional spontaneous movements. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal.  It is at times nearly featureless with periodic delta activity and sharp waves that may be seen in the frontal regions on the left or bilaterally.  At times, the frontal sharp waves are almost triphasic in nature.  There is variability in the record and some portions of the record are richer in theta frequency activity than others. The most prominent epileptiform discharge for this child is frontally predominant sharp waves with an almost triphasic-like morphology.  Occasional eye blink artifact is seen.  Also, occasional T5 sharp waves were seen.
+HR:  116 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with primarily a rhythmic delta and smaller amounts of theta.
+Bifrontal sharp waves.
+Focal sharp waves from the left hemisphere, particularly in the frontal or frontotemporal regions. 
+CLINICAL CORRELATION: This EEG supports a diffuse disorder of cerebral function effecting both gray and white matter. No seizures were recorded.  The epileptiform activity described above is similar to the previous studies.  It is intermittent and occasionally occurs in bursts, but there are no actual seizures. 

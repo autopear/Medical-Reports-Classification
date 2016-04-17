@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and Depakote, Topiramate- check tech sheet!.  
+INTRODUCTION: Portable digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is diffusely slow with theta activity.  There is a 7 Hz, 30 uV posterior dominant slow alpha rhythm and a small amount of low voltage, frontocentral beta activity.  Occasionally, frontal sharp wave complexes, mainly in the right hemisphere, are seen.  Photic stimulation did not activate the record.  On the video camera, the patient’s left hand was observed to twitch occasionally without EEG correlation. 
+HR:  108 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Background slowing.
+Occasional frontal sharp wave complexes mainly in the right hemisphere. 
+CLINICAL CORRELATION: This EEG tracing demonstrates a non-specific pattern, which can be seen in patients with a toxic or metabolic encephalopathy or postictal phase.  The jerking movement of her left fingers observed without EEG change is suggestive that this is not epileptogenic in nature.  If epilepsy is a clinical concern, a repeat EEG capturing deeper stages of sleep may be helpful.

@@ -1,0 +1,13 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in lab using standard 10-20 system 
+of electrodes and 1 channel EKG. Photic and hyperventilation are performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, the patient's EEG is diffusely slow 
+with alpha activity at 7.5 Hz. There is also evidence for excess background theta. The 
+patient does get drowsy during the record with occasional vertex waves. Photic 
+stimulation is performed, which shows minimal driving. 
+HR: 60 bpm 
+1. Slow alpha 
+2. Excessive background theta. 
+CLINICAL CORRELATION: The patient's EEG does not show any focal epileptiform 
+features. The abnormal slow background is suggestive of a diffuse disturbance of 
+cerebral function as seen in metabolic disorders. 

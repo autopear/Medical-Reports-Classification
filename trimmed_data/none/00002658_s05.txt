@@ -1,0 +1,12 @@
+INTRODUCTION: Digital video EEG was performed in the lab using standard  10-20 system of electrode placement  with one channel of EKG. Hyperventilation and photic stimulation were performed. This is an awake and asleep record.
+DESCRIPTION OF THE R ECORD:
+As the tracing opens, the background includes a
+symmetric, reactive posterior dominant rhythm. There is a generous amount of muscle and beta activity identified bilaterally. There is an amplitude asymmetry with lower amplitude  and a bit more slowing on the left compared to the right but shifting asymmetries  are observed. Hyperventilation was performed  early in the record, accentuating the amplitude  asymmetry. As the patient becomes drowsy, there is an increase in background slowing and accentuation of
+the left frontal delta. Photic stimulation was performed with the patient awake. At that time, the left frontal focal slowing is prominent. Just prior to the start of photic stimulation,  sharp waves are identified from the left hemisphere, maximum  at C3. The sharp waves wax and wane and the arrhythmic delta from the left persists. The sharp waves wax and wane throughout the
+photic stimulation. They begin to build up at 15:05 at the end of photic stimulation. The patient is talking and moving about during this time period. When asked, he either gives the date or the place as "28". No seizures actually evolved, just the slowing identified from the left.
+	HR:	104 bpm
+IMPR  ESSION:
+Abnormal EEG due to:
+	1. 		Marked interhemispheric asymmetry  with rhythmic focal slowing from the left and sharp waves from the left frontal central region.
+	2. 	Occasional shifting slowing from the right.
+CLINICAL CORRELATION: Compared to this patient's most recent EEG, the findings are more remarkable on the left today rather than the right.

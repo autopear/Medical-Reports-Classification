@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin, Lorazepam, Insulin, Simvastatin, Plavix, ASA, Baclofen, Metoprolol, Lisinopril
+INTRODUCTION:  Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  The overall pattern is slow and the posterior dominant rhythm at best 7 hertz on the right, somewhat slower on the left. An intrahemispheric asymmetry is observed with a bit more arrhythmic delta activity in the left compared the right as well as disruption of faster frequency activity. Asymmetric eye movement artifact is also observed. There is a suspicion of a left frontotemporal sharp wave observed in the background.
+	HR: 	90 BPM.
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Background slowing.
+	2. 	lntrahemispheric  asymmetry.
+CLINICAL CORRELATION:   Due to the symmetric eye artifact, absolutely symmetric electrode placement could not be ensure, therefore, the EEG must be repeated. This is particularly important because here is the suspicion of a left frontotemporal sharp wave.

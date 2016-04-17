@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin, Keppra, Celexa.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with one channel of EKG.  Previously EEG's were not available for comparison.  Photic stimulation was completed, but hyperventilation was not possible.
+DESCRIPTION OF THE RECORD:  As the tracing begins, the patient is awake.  She had significant oral dyskinesia and there is muscle activity that persists even if she becomes drowsy.  In the waking recording, there is primarily a theta frequency pattern.  As she transitions into stage I sleep, vertex waves were seen.  There is a subtle, discrete, underlying low amplitude spike in the left frontocentral region which can be differentiated from artifact.  There may be one as well on the right (region not as well defined) and on one occasion the spike is followed by a vertex wave.  Bursts of arrhythmic, frontally predominant delta are noted as the patient transitions to deeper stages of sleep.  There is also some Firda in that transition to sleep.   
+Photic stimulation produces a great deal of muscle and photoelectric artifact, right greater than left, but there is driving at 15 Hz. 
+Heart rate 66 bpm.
+IMPRESSION:  Technically challenging, but abnormal EEG due to:
+Significant background slowing.
+Disorganization.
+Discrete, low voltage frontocentral sharps. 
+There was a previous EEG from 08/28/2012 demonstrating frequent left hemispheric maximal anterior slowing.  This EEG is essentially congruent with that pattern; although, today's EEG is significantly slower.  The low voltage spikes are also ipsilateral to the left.  In that this EEG today is significantly slower than the previous study, correlation with clinical history is important as medications, metabolic disorders, or progression of her dementia may all contribute to the pattern identified above.

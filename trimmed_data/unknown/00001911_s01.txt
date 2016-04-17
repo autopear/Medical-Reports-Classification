@@ -1,0 +1,12 @@
+MEDICATIONS: Dilantin, ASA, Plaxia, Toprol, Clonidine, HCTZ, Glucotrol, Lipitor, 
+Minoxidil, Procardia 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. Photic stimulation is completed. 
+DESCRIPTION OF THE RECORD: The patient is drowsy throughout much of the 
+record but when maximally awake, there is a low-voltage symmetric reactive 
+background with a 9-Hz posterior dominant rhythm. Features of drowsiness include 
+slow rolling eye movements followed by vertex waves. Patient is falling asleep in stage 
+2 sleep which does not activate the record. Heart rate 60 BPM, slightly irregular. 
+IMPRESSION: EEG within normal limits. 
+CLINICAL CORRELATION: No epileptiform features are seen. Clinical correlation 
+regarding the patient's hypersomnolence is advised. 

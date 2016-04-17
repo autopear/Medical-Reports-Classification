@@ -1,0 +1,7 @@
+MEDICATIONS:  Dilantin. Neurontin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz alpha rhythm.  Central mu activity is observed, but testing is not performed to confirm this. Features of drowsiness include vertex waves. Wicket activity is noted on the left more so than the right.  Rare shifting, slowing was noted. Deeper stages of sleep are not sustained, although there is a transition in and out of stage I sleep with POSTS and vertex waves. Hyperventilation produces an increase in theta. Photic stimulation elicits scant driving. 
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to: 
+1. Subtle left temporal focal slowing.
+CLINICAL CORRELATION:  This EEG contrasts to a previous study, which identified right anterior temporal sharp wave.

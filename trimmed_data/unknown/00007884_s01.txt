@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and Depakote. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates a symmetric, reactive 9.5 Hz, 30 uV posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements with attenuation of the alpha rhythm.  Occasional vertex waves are seen in stage I sleep.  In drowsiness, there are a handful of small sharp waves identified in the right mid-to-anterior temporal region.  These may occur in couplets, and are associated with some rhythmic theta.  Vertex waves are seen in stage I sleep.
+Hyperventilation does not activate the record.  Photic stimulation elicits brief bilateral driving.
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Subtle focal slowing with small discrete sharp waves identified from the right mid-temporal region in drowsiness. 
+		
+CLINICAL CORRELATION: While the discrete sharp waves have the morphology of a benign epileptiform variant, these are seen more frequently than would be acceptable for that variant and would therefore be considered epileptogenic. 

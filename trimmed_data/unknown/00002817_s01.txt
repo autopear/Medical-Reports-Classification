@@ -1,0 +1,13 @@
+MEDICATIONS: Pentobarb, Dilantin, Fentanyl, Propofol, Versed, Mannitol, Seena 
+INTRODUCTION: Continous digital video EEG was performed at bedside using 
+standard 10-20 system of electrode placement with 1 channel EKG. In this section of 
+the record, t he patient's medications and medication manipulation are not listed. 
+DESCRIPTION OF RECORD: The background EEG demonstrates a suppressed 
+pattern. Reviewing the data at very low sensitivities, there is a bit of th eta in the left 
+frontal region. 
+HR: 66 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Suppressed background. 
+CLINICAL CORRELATION: These findings are a bit more prominent than one might 
+expect in pentobarb coma, but by clinical report, it has been difficult to manage this 
+patient without a completely suppressed pattern due to ongoing ICP issues. 

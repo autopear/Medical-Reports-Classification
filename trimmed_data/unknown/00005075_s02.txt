@@ -1,0 +1,11 @@
+MEDICATIONS: Dilantin, occasionally Zonisamide, and Risperdal. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake and asleep record in a patient who is relatively drowsy. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates mild background slowing with primarily a theta frequency pattern.  Superimposed upon this, there is an intrahemispheric asymmetry with slower theta frequency activity on the right compared to the left, as well as disruption of faster frequency activity on the right.  There are occasional right anterior temporal sharp waves. 
+Photic stimulation elicits brief bilateral driving.  Features of drowsiness include an increase in the background beta activity.  
+Brief stage II sleep is characterized by vertex waves and spindles.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing. 
+Focal slowing from the right characterized by disruption of faster frequency activity and a small increase in the slowing from the right. 
+Occasional right anterior temporal sharp waves. 
+CLINICAL CORRELATION: Compared to this patient’s previous EEGs, the background slowing in this record is not as marked. 

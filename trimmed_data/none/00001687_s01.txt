@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin, Pentobarbital, Phenylephrine, Dopamine.
+REASON FOR STUDY:  Seizures and pentobarbital coma.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during unresponsiveness.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The EEG reveals no abnormal posterior dominant rhythm or frontocentral beta.  Overall, it reveals a very low amplitude diffuse slow record with an overriding EKG artifact and no clear cerebral activity.  There is no normal sleep architecture and no activating procedures were performed. 
+ABNORMAL DISCHARGES:  Almost completely suppressed EEG with no cerebral activity. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Complete suppression of any normal cerebral activity.
+CLINICAL CORRELATION:  This EEG reveals evidence of marked diffuse cerebral dysfunction with no cerebral activity which may be due, at least in part, to medication effect.  No seizures or epileptiform discharges were clearly seen.  The findings on this EEG were reported to the consult team right after it was done.

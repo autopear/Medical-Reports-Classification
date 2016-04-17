@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Phenobarbital, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record in a relatively sleep deprived patient. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz posterior dominant rhythm of 30 to 50 V.  There is a prominent breach rhythm in the frontal region with amplitude accentuation as well as an increase in beta activity and focal delta from the left frontal temporal region.  There are occasional sharp waves noted in the record at F7-F3.  The epileptiform activity and the sharp waves become more prominent as the patient becomes drowsy.  Features of drowsiness include attenuation of the alpha rhythm, an increase in background beta activity, and occasional vertex waves.  In sleep, at times, the focal delta is sharply contoured, maximum at T1.  Vertex waves and spindles are seen in stage II sleep.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Focal slowing from the left frontal region. 
+Left frontal/frontotemporal sharp waves. 
+Mild generalized background slowing.
+CLINICAL CORRELATION: This tracing supports a structural abnormality in the left frontal region with epileptiform activity in the same region.  

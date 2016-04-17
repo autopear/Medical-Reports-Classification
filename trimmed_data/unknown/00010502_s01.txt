@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This EEG captures wakefulness through stage 2 sleep. 
+DESCRIPTION OF THE RECORD: In wakefulness there is a 10 Hz alpha rhythm with a small amount of low voltage frontal central beta activity and a generous amount of beta. The patient transitions in and out of wakefulness through stage 2 sleep. The patient is transitioning in and out of stage 2 sleep, even during photic stimulation. In addition to vertex waves and beta spindles, there is some asymmetric vertex activity, and with shifting maxima in the left or right central parietal region in what seems to be a C3 P3 sharp wave in sleep. Photic stimulation does elicits a scant driving response despite the fact that the patient seems to be falling asleep. Hyperventilation produces 
+an increase in amplitude of the background. 
+HR: N/A 
+IMPRESSION: Abnormal EEG due to: 
+1. Asymmetric vertex waves with vertex waves to the right or left of the maxima. 
+2. Left central parietal sharp waves. 
+CLINICAL CORRELATION: These findings are congruent with the patient's CT scan. If additional information is important, a record capturing one of the patient's seizures may be of value. 

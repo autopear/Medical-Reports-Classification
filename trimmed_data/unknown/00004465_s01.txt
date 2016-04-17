@@ -1,0 +1,8 @@
+	MEDICATIONS: 	Dilantin, Zoloft, Depakote, Percocet.
+	INTRODUCTION: 	Digital video EEG is performed at the bedside using standard 10/20 system of electrode placement with 1 channel of EKG monitoring. The patient is somewhat drowsy.
+	DESCRIPTION  OF THE RECORD: 	Background EEG in wakefulness demonstrates a diffusely slow pattern, rich in rhythm theta. Breach rhythm is identified with an increase in frontal theta. As the patient becomes drowsy there is an increase in frontal delta essentially bilaterally.
+HR: 72 BPM.
+	IMPRESSION: 	Abnormal EEG due to:
+1. Generalized background slowing.
+2. Frontal mixed theta and delta.
+	CLINICAL CORRELATION: 	No epileptiform features were identified. This EEG supports a diffuse disturbance in cerebral function. Medications or this patient's clinical state may play a role in this pattern.

@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, insulin, and Plavix.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is a frequently drowsy or asleep record, but by the end of the record the patient demonstrates sustained wakefulness. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is an 8 Hz, 30 uV posterior dominant rhythm and an overall, relatively low voltage pattern.  As the patient drifts off to sleep, there is an increase in rhythmic theta and occasional vertex waves.  The patient is excessively drowsy throughout much of the record with primarily a drowsy pattern.  
+HR:  88 BPM.
+	IMPRESSION: EEG within normal limits for a subject of this age.  
+CLINICAL CORRELATION: No definite focal or epileptiform features were identified in this record. A subject of this age is permitted the background slowing identified above. 

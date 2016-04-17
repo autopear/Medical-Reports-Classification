@@ -1,0 +1,12 @@
+MEDICATIONS: Dilantin, Keppra, Lorazepam 
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. This is an awake and drowsy 
+record. 
+DESCRIPTION OF THE RECORD: In wakefulness, background EEG includes a 10-Hz 
+alpha rhythm with generous background beta. Features of drowsiness include slow 
+rolling eye movements. Of note, this EEG is recorded immediately after a seizure when 
+the patient is described as post ictal. 
+HR: 84 bpm 
+IMPRESSION: EEG within normal limits in wakefulness and drowsiness. 
+CLINICAL No focal nor epileptiform features are observed. The 
+generous beta is compatible with medication effect. 

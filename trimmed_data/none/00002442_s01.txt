@@ -1,0 +1,7 @@
+MEDICATIONS:  Cardizem,  Plavix.
+REASON FOR STUDY:  Right facial twitching.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness.  Activating procedures including hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that although difficult to see, at best appears to reach 9 Hz which is reactive to eye opening.  There is a diffuse amount of beta seen throughout the recording.  Activating procedures including hyperventilation and photic stimulation produce no abnormal discharges.  During the entire recording, there appears to be right facial twitching which causes muscle artifact throughout the right hemisphere, specifically were maximally at T4, but there appears to be no EEG correlate seen in the left hemisphere, especially none clearly in the central region.
+SEIZURES:  None.
+IMPRESSION:  Normal awake EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Please note that the facial jerks had no EEG correlate as such, they may represent simple partial seizure which may not be captured up to 75% of the time or alternatively it may represent a nonepileptic event.  Clinical correlation is required.

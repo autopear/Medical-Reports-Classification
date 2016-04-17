@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The video was archived prior to reading.  
+DESCRIPTION OF THE RECORD: The background EEG, when the child is awake, demonstrates a reasonably well-organized pattern with a posterior dominant rhythm of 6.5 to 7 Hz.  Drowsiness is characterized by rhythmic slowing.  There is some wicket activity in the transition to and from sleep, which is a normal entity in a child of this age.  Crying is also associated with some hypersynchronous rhythmic slowing.  There is some shifting asymmetry in the alpha rhythm, with an alpha sometimes generating more of a field to the left than the right.  
+HR:  120 BPM.
+	IMPRESSION: Mildly abnormal EEG for an infant of this age.
+CLINICAL CORRELATION: The background is acceptable for an infant of this age, but there is a bit of asymmetry in the distribution of the alpha rhythm.  This is a non-specific finding.  No epileptiform features were identified.

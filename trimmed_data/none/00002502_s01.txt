@@ -1,0 +1,10 @@
+MEDICATIONS:  Lorazepam, Procardia, Lopressor.
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures, including photic stimulation and hyperventilation, were performed.
+TECHNICAL DIFFICULTIES:  Some T3 impedance electrode artifact seen throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9 Hz seen better over the left hemisphere, which is reactive to eye opening.  There is normal frontal central beta seen. Sleep is characterized by stage I and stage II.  Activating procedures reveal no abnormal discharges. 
+ABNORMAL DISCHARGES:  Focal slow waves seen almost continuously over the right hemisphere, maximal at F7/T3 and T3, at times F3 at a frequency of 2-4 Hz with an amplitude of 20-60 mV. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Focal right hemispheric slowing maximal in the anterior to mid temporal region.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right hemisphere maximum at the anterior and mid temporal regions, which is consistent with a known stroke.  No seizures or epileptiform activity was seen.

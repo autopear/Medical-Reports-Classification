@@ -1,0 +1,13 @@
+MEDICATIONS: Depakote, Rifampin, Isoniazid, Pyridoxine, Pyrazinamide, 
+Ethambutol, Protonix, Lovenox, Zocor, Lisinopril, ASA, Simethicone, Dilantin, Metoprolol, Valproate 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. 
+DESCRIPTION OF THE RECORD: The background EEG is quite abnormal. On rare occasions, there is a glimpse of a 9.5 Hz alpha rhythm in the posterior regions, but much of the record includes a rhythmic theta and delta. There are prominent bursts of rhythmic theta and delta most prominent from the right frontal region but present bilaterally. In addition, there is a bit more slow arrhythmic delta activity in the right frontal region in comparison to the left. The patient is awake throughout much of the record. There are a handful of sharp waves noted in the right frontal region. 
+HR: 120bpm
+ 
+IMPRESSION: Abnormal EEG due to: 
+1. Prominent bursts of frontal slowing, right greater than the left 
+2. Generalized background slowing. 
+3. Rare sharp waves in the right frontocentral region.
+ 
+CLINICAL CORRELATION: No seizures were recorded. This remains a markedly 
+abnormal EEG. 

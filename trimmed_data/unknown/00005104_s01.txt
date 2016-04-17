@@ -1,0 +1,21 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 
+10-20 system of electrode placement with 1 channel of EKG. 
+Hyperventilation and photic stimulation were performed. This is an 
+awake and drowsy record. 
+DESCRIPTION OF RECORD: In wakefulness there is a 10.5 hertz 60 
+microvolt posterior dominant rhythm with a small amount of low 
+voltage, frontal and central beta activity. Features of drowsiness 
+include anterior spread of the alpha rhythm. Occasional posterior 
+waves of youth are observed in the waking background. Hyperventilation 
+was performed with good effort producing a small amount of background 
+slowing and an increase in amplitude. Photic stimulation does not 
+elicit driving. 
+HR: 78 bpm 
+IMPRESSION: Normal EEG. 
+CLINICAL CORRELATION: No focal or eleptiform seizures are observed in 
+this record in this individual with nocturnal seizures. Additional EEG 
+recording is recommended with additional hyperventilation and photic 
+stimulation as well as extended sleep to search for epileptiform 
+activity in this individual with a history of head trauma. No focal 
+features were observed. 

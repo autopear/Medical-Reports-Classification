@@ -1,0 +1,11 @@
+MEDICATIONS: Dilantin, Ativan, Xanax, phen insulin. 
+INTRODUCTION: Continuous video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. 
+EVENTS: 06/10/06 - Time 14:43:57 - Patient has events where her head feels warm and she feels anxious.  
+DESCRIPTION OF THE RECORD: The patient is awake.  She is fiddling with her EKG monitoring equipment, leaning over on her side.  She pushes the button without any difficulty.  The patient continues her purposeful movements.  No testing is performed for this event, which includes two push buttons at 14:43 and 14:44.  A health care professional comes in at 14:44:30, and the patient converses with the nurse.  The patient is making some requests with the nurse and has no impairment of awareness.  
+PUSH BUTTONS: No epileptiform abnormalities are seen. 
+EVENTS: 06/11/06 – Time 9:15:05 – Additional practice push buttons or accidental push buttons are identified at 16:39, 16:49, 16:50, and 19:40.  The patient is awake and coherent for all events.  
+RANDOM WAKEFULNESS AND SLEEP: In wakefulness, there is a 9 Hz symmetric, reactive posterior dominant rhythm.  In sleep, there is generous beta activity with vertex waves and spindles.  
+HR:  Ranging from 60 to 85 BPM.
+	IMPRESSION: 
+CLINICAL CORRELATION: 
+See the end

@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Ativan, Morphine, and Haldol. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated in a hard collar. In addition, the tech notes that it is difficult to obtain a good quality study because of the fact that his scalp is not clean.
+DESCRIPTION OF THE RECORD: The background EEG is low voltage and slow with generous, relatively symmetric beta activity and slow delta.  There is little variability. The patient was not stimulated during this test.  A breach rhythm is identified from the left frontal region with accentuation of the beta frequency, as well as an accentuation of delta.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Replacement of normal background with low voltage beta and delta.
+CLINICAL CORRELATION: This is a technically unsatisfactory EEG because there is no evidence that this comatose patient was stimulated.  A repeat tracing should be performed.

@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Aricept. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as awake and asleep. Photic stimulation was performed.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is low-to-medium amplitude.  There is a 9.5 Hz, 30 uV posterior dominant rhythm.  There is excess beta, some electrode artifact, but also some underlying arrhythmic delta activity from the left frontotemporal region.  There is some shifting arrhythmic delta activity and there is also a bit of a beta asymmetry with disruption of faster frequency activity from the left.   
+Photic stimulation elicits a brief driving response, but a clear alerting response. The left temporal focal slowing is more prominent in photic stimulation.  
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG for a subject of this age due to:
+	Focal slowing from the left mid-to-anterior temporal region with disruption of faster frequency activity and irregular mixed theta delta. 
+	Shifting slowing from either hemisphere. 
+CLINICAL CORRELATION: These findings may be correlated with neuroimaging.  By the close of the record, the background slowing seen initially had resolved, which may be part of an alerting process, or a resolving postictal process.  

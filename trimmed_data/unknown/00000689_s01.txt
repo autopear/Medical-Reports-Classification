@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin, Keppra, Risperdal, Risperidone
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm.  There is excess theta in apparent wakefulness.  There is sometimes a background of more rhythmic theta. 
+Interictal findings for this individual include frontal fast activity, right more so than the left with a subtle frontal sharp wave underlying and a sharp wave can be seen at  Fp2-F4 with a small amount of bilateral representation.  Rare, higher amplitude left mid temporal sharp waves were identified. 
+Hyperventilation was performed early in the record producing rhythmic slowing particularly in the frontal regions.  The hyperventilation response included some arrhythmic slowing.  Features of drowsiness included slow rolling eye movements, slowing of  the alpha rhythm, and increase in overall background slowing, but deeper stages of sleep were not sustained. Photic stimulation did not activate the record.  
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+Frontal fast activity with a right frontal underlying sharp wave. 
+Left anterior temporal sharp waves.
+CLINICAL CORRELATION:  This EEG supports a focal mechanism for epilepsy and raises the possibility of more than one mechanism for seizures.  Left anterior temporal sharp waves, right temporal sharp waves and bifrontal sharp waves were noted in a previous EEG in 2008.

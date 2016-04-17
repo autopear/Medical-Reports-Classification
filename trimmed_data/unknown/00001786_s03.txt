@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed. Hyperventilation was not performed because the patient refused it. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz alpha rhythm, which is symmetric and reactive to eye opening.  Excess theta activity is seen on the background.  Intermittent focal slowing is identified in the right temporal region and is characterized by a little bit of arrhythmic delta and a decrease in faster frequency activity.  These bursts are three to five seconds in duration and are relatively subtle.  Photic stimulation does not activate the record.
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Presence of intermittent bursts of focal slowing in the right temporal regions and excess background theta. 
+CLINICAL CORRELATION: In comparison to previous studies, no sharp waves were seen today.  Previous EEGs have identified right centrotemporal sharp waves and independent right greater than left temporal sharp waves.  

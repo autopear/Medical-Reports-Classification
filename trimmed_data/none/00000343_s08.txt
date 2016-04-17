@@ -1,0 +1,9 @@
+MEDICATIONS:  Keppra, Tegretol.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are completed.  This is an awake and a sleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10-Hz alpha rhythm.  At times in apparent wakefulness there is excess theta and beta. Hyperventilation is performed early on in the record.  Hyperventilation elicits a focal hyperventilation response with more disrupted activity in the right temporal region compared to the left followed by right temporal sharp waves.  In relaxed wakefulness and early sleep, medium to high amplitude right anterior temporal sharp and slow wave and spike and slow wave complexes are noted.  There are a number of normal variants also noted, including lateral rectus spikes which represent eye movement. Hyperventilation is performed while the patient is drifting in and out of sleep and does not significantly activate the record.   
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Right anterior temporal sharp waves and spikes.
+Right temporal focal slowing.
+Excess theta and a mild degree of background disorganization.
+CLINICAL CORRELATION:  This pattern is relatively typical for a complex partial epilepsy pattern.  No seizures were recorded.

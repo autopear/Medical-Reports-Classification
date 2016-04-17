@@ -1,0 +1,9 @@
+MEDICATIONS:  None.
+REASON FOR EEG:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm of 9 Hz which is reactive to eye opening.  There is normal amount of frontocentral beta.  The patient is recorded in wakefulness, stage 1 sleep.  Activating procedures including photic stimulation produced no abnormal discharges and hyperventilation produces a nice diffuse slowing response which is appropriate. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:    None.
+IMPRESSION:  Normal EEG, awake and sleep.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

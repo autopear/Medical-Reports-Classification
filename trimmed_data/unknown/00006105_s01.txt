@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin, Aricept, aspirin, Crestor, Plavix, valsartan.
+INTRODUCTION:  A digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  This was an awake and interactive but confused adult.  Hyperventilation and photic stimulation were not possible.
+DESCRIPTION OF THE RECORD:  There are sections of the record when the overall background is relatively well organized but slow with rhythmic 6-7 Hz activity.  There are intermittent bursts with generalized complex followed by attenuation.  In addition, there are bursts of irregular delta, some of which has a bit of a focality right frontal and left anterior temporal.  Most of the bursts of higher amplitude rhythmic slowing are brief but as the patient becomes drowsy there is an increase in rhythmic frontal delta. 
+Heart rate:  60 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Marked background slowing and disorganization.
+A dynamic pattern which varies between rhythmic slowing and somewhat more chaotic arrhythmic and sharply contoured slowing.
+Frontal intermittent rhythmic delta activity (FIRDA).
+CLINICAL CORRELATION:  There are no sharp waves or spikes in this EEG.  This EEG is representative of a bihemispheric disturbance.  The intermittent attenuations in an awake patient are more supportive of a chronic encephalopathy.  The irregular delta on the right may be part of a breech rhythm.

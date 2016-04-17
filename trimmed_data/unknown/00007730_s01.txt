@@ -1,0 +1,22 @@
+MEDICATIONS: Phenytoin, Zosyn, Dilantin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel EKG. 
+DESCRIPTION OF THE RECORD: Background EEG demonstrates a continuous 
+pattern which is beta and delta frequency activity: Initially there is some isolated twitch 
+artifact and then later, there is movement artifact, but no epileptiform discharges are 
+seen in association with the movement and the characteristics of the movement initially 
+are not typical for seizures. There is some head bobbing and sharply contoured 
+· 
+patterns. There is some suspicious underlying periodic activity in 'the left hemisphere 
+which as the recording continues and the patient receives phenytoin is more clearly 
+defined. 
+HR: 120 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Marked background slowing. 
+2. Activity is slower on the left·, but not seen consistently. 
+3. Question sharp waves on the left. 
+CLINICAL CORRELATION: Given the history described above, the EEG pattern is 
+really more of a generalized than a focal pattern. There is only a small section with 
+brief, periodic sharp waves. In addition, recordings for amelioration of the patient's 
+artifacts or recording with elimination of the muscle artifact would provide a better· 
+picture if clinically appropriate.

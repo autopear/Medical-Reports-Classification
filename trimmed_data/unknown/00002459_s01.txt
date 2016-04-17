@@ -1,0 +1,8 @@
+MEDICATIONS:  Naprosyn, Flexeril, Abilify, and Unidentified psychiatric medication.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  The background is continuous and symmetrical.  The posterior dominant rhythm consists of a well-formed and modulated 9 Hz alpha that attenuates with eye opening.  There is an anterior to posterior frequency amplitude gradient.  During drowsiness, there is attenuation of the posterior dominant rhythm, decrease in voltages diffusely, and appearance of low amplitude vertex waves.  No stage II sleep is captured.  No epileptiform discharges are observed.  Hyperventilation is performed with fair effort and produces no background changes.  Photic stimulation does not produce occipital driving.
+FINDINGS:  
+No stage II sleep.  
+No epileptiform discharges.
+IMPRESSION:  This is a normal awake and drowsy, 24-minute EEG.  
+CLINICAL CORRELATION:  No epileptiform discharges were captured, but stage II sleep was not recorded.  If clinical suspicion for seizures is still present, a repeat EEG with stage II sleep may be of benefit.  The lack of epileptiform discharges in a routine EEG does not preclude a clinical diagnosis of epilepsy.

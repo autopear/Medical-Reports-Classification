@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG was relatively low voltage with a 10 Hz alpha rhythm.  There is intermittent focal slowing which is quite discrete on the left mid to anterior temporal region, F7, T1.  Hyperventilation produces some bilateral theta but also seems to accentuate at focal slowing.  Vertex waves and spindles are noted in stage II sleep.  Photic stimulation elicits bilateral driving.  Photic stimulation is performed as the patient is stretching after sleep.  Focal slowing with some bilateral slowing is noted left frontotemporal region more so than the right.   
+HR:    60 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing left anterior temporal region.
+Discrete left frontal temporal sharp waves.
+CLINICAL CORRELATION:  In comparison to a previous EEG last year, the epileptiform activity is a little less prominent.  The previous EEG was recorded immediately after a seizure which may account for the difference.

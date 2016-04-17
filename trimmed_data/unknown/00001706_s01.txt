@@ -1,0 +1,8 @@
+MEDICATIONS: Protonix, Haldol, ASA, Thiamine, Oxazepam,  Dilantin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient remained somewhat agitated.
+DESCRIPTION OF THE RECORD: When the patient is cooperative, the EEG is well organized with a 10 hertz alpha rhythm. There is generous background beta activity. On occasion. there is some low voltage delta in the posterior regions. Features of sleep include an increase in beta as well as vertex waves and spindles with spontaneous arousals from sleep. There is no hyperventilation nor photic stimulation in this bedside recording.
+	HR:	66 bpm
+IMPRESSION: This EEG is remarkable for:
+	1.	Generous background beta.
+	2.	Rare posterior delta.
+CLINICAL CORRELATION:   In this individual with previous CNS pathology, epilepsy and alcohol abuse,  no epileptiform features were seen.

@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, antihypertensives, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standing 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake through stage II sleep record.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric but disorganized for her age with slow excessive theta activity.  There is a 9 to 10 Hz, 20 V posterior dominant alpha rhythm and a small amount of low voltage, frontocentral beta activity.  In drowsiness, isolated single right temporal sharp waves and left temporal sharp activity were identified.  Sleep is demonstrated by vertex waves, spindles, and K complexes and the patient is noted to be snoring. Photic stimulation did not activate the record. 
+HR:  60 BPM.
+IMPRESSION: Abnormal EEG due to:
+Disorganized background for the patient’s age.
+Background slowing with excessive theta activity.
+CLINICAL CORRELATION: This tracing demonstrates a non-specific pattern suggestive of diffusely decreased cerebral function.  The isolated single, right and left temporal sharp activity may be partially responsible for the mechanism of epilepsy in this patient or simply a result from the previous MCA infarct damage.  If clinically indicated, a repeat EEG may be helpful.  

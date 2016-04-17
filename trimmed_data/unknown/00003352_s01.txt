@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake record. The patient was able to induce a typical  event by having herself hyperventilate.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with an 11 Hz, 40 V posterior dominant rhythm.  Drowsiness is not achieved.  
+Hyperventilation is performed with good effort.  The patient was noted to stare at 11:03:18.  She was verbally unresponsive. The EEG at this time shows a normal awake pattern, somewhat obscured by muscle artifact with a heart rate of 104 BPM.
+Photic stimulation was performed.  The patient was observed to hyperventilate during photic stimulation. Photic stimulation elicited driving but no other significant changes.  
+BASELINE HR: 84 BPM.
+	IMPRESSION: Normal EEG in wakefulness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The behavior described in hyperventilation was not associated with a change in the EEG.

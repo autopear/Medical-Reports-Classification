@@ -1,0 +1,6 @@
+MEDICATIONS: Phenytoin
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is appropriately organized for a subject of this age with a 10.5 Hz, 50 uV posterior dominant rhythm and a modest amount of low voltage, frontocentral beta activity. Hyperventilation is performed early on in the record and produces an increase in the amplitude of the background.  There is some head rocking artifact picked up at T6.  Drowsiness is characterized by an increase in background beta with increasing synchronicity and anterior spread of the alpha rhythm.  Photic stimulation is performed while the patient is slightly drowsy, but does elicit a subtle driving response. 
+HR:  66 BPM.
+	IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: This 62-year-old woman with adult onset epilepsy had two EEGs, one demonstrating some temporal slowing, but no epileptiform features.  Clinical correlation is appropriate.  

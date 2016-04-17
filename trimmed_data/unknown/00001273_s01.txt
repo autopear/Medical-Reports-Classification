@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Ativan, Valium, many others.
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The recording begins at 15:36.  The patient is disconnected at 2100 hours.  
+DESCRIPTION OF THE RECORD: As the tracing opens, the background EEG is low voltage and slow.  Tactile stimulation of the patient produces some artifact.  There is no indication that additional medications are given, but the EEG as time goes on demonstrates a somewhat discontinuous pattern, particularly around 2100 hours.  At 1800 hours, there is more muscle artifact and evidence that the patient is awakening from the postictal state.  There is more theta in the background and she has spontaneous eye movements.  
+HR:  84 BPM.
+	IMPRESSION: Abnormal continuous video EEG monitoring due to:
+	1.	Markedly abnormal background with a slow background seen in the beginning, some improvement in the early evening with eye movement, and then a more discontinuous pattern.
+CLINICAL CORRELATION: This EEG is technically unsatisfactory.  There is no medication sheet, there is no indication as to what occurred for this patient, and the recording was discontinued prematurely without assessing the patient.  

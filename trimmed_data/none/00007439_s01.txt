@@ -1,0 +1,9 @@
+MEDICATIONS:  None.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with addition of anterior temporal and single lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures with photic stimulation and hyperventilation were performed.
+TECHNICAL  DIFFICULTIES:  Some intermittent temporalis muscle artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that at best reaches 9 Hz and is reactive to eye opening.  There is a normal amount of frontocentral beta.  Patient is recorded during wakefulness, sleep stage I and stage II.  Activating procedures with photic stimulation and hyperventilation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

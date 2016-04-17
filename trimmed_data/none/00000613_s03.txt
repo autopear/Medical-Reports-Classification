@@ -1,0 +1,11 @@
+MEDICATIONS:  Keppra, Anastrozole, Aquaphor, Aricept, ASA, Vitamin D.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The recording was performed in wakefulness and drowsiness.  No hyperventilation was performed, but photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  There is a normal amount of frontocentral beta.  The patient goes into stage 1 sleep.  No hyperventilation was performed, but photic stimulation produced on abnormal discharges.
+ABNORMAL DISCHARGES:  Focal slow waves seen mainly at F7/T3 at 2-4 Hz with an amplitude of 20-60 microvolts.  At times the field appears to be more posterior.  There is also intermittent F8/T4 slowing that is rare.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left anterior temporal slowing. 
+Intermittent right anterior temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the bilateral anterior temporal regions (left more than right), which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

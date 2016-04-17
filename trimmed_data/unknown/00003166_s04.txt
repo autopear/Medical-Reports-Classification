@@ -1,0 +1,9 @@
+MEDICATIONS: Norvasc, Lipitor, Dilantin, Zocor, Lorazepam, and aspirin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is organized with a 10 Hz, 20 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  
+The major abnormality in this record is intermittent rhythmic temporal delta (FIRDA) seen in quiet wakefulness, accentuated by hyperventilation, and prominent in the transition to sleep.  It is sometimes associated with left anterior temporal spike and slow wave or sharp and slow wave complexes.  On one occasion, fast activity is associated with this.  Photic stimulation elicits both an arousal response and some driving.  
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Occasional spike and slow or sharp and slow wave activity in the left anterior temporal region. 
+	Left temporal FIRDA.
+CLINICAL CORRELATION: The epileptiform features in this record are more prominent compared to previous studies.  This EEG supports a localization-related mechanism for epilepsy.  This is this patient’s third EEG in 2006, and it is his sixth EEG since 2002.  

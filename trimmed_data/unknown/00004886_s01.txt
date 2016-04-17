@@ -1,0 +1,7 @@
+MEDICATIONS:  Dilantin, Benadryl, Cogentin, Ativan.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is somnolent and when aroused.  The EEG demonstrates significant muscle artifact.
+DESCRIPTION OF THE RECORD:  When undisturbed, the background EEG is primarily a lower voltage theta pattern with increasing amounts of delta as she drifts off to sleep.  It is a relatively low voltage record, slightly more featureless on the right compared to the left.  Stimulation of the patient produces muscle artifact  
+HR:    120 bpm and irregular
+IMPRESSION:  Abnormal EEG due to:  
+Low voltage slow background.
+CLINICAL CORRELATION:  The technical qualities of this record as well as the background muscle artifact precludes an acceptable evaluation in search of focal features.  There were no epileptiform features noted.

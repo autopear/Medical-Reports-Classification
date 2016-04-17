@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is somewhat slow with a 5 to 6 Hz posterior dominant rhythm in a background with a small amount of excess theta.  Intermittently, in wakefulness and drowsiness, there is bit more arrhythmic delta activity on the left compared to the right.  Hyperventilation seems to accentuate this asymmetry.  As the patient becomes drowsy, the asymmetry is somewhat less prominent.  Other features of drowsiness include rhythmic background slowing with an increase in background beta.   Snore artifact is seen and is followed by arousals.  
+Photic stimulation produces LAMBDA waves, but no definite driving.  
+HR:  84 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+Background slowing and disorganization.
+Occasional focal slowing on the left.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  In this individual with a right frontal skull defect, one might anticipate accentuation of beta in that region and perhaps easier identification of sharp waves. No previous EEGs were available for comparison. 

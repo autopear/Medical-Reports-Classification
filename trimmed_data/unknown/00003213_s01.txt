@@ -1,0 +1,8 @@
+MEDICATIONS: Phenobarbital, Dilantin, and a diuretic. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is low voltage.  In maximum wakefulness, the overall background is well organized with a well organized 10.5 Hz, 50 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  As the patient drifts off to sleep, there is a low voltage pattern and some subtle asymmetries with some left temporal theta.  Vertex waves are seen in brief stage I sleep. 
+Photic stimulation elicits bilateral driving. 
+HR:  72 BPM.
+	IMPRESSION: Very mildly abnormal EEG for a subject of this age due to:
+	1.	Subtle, left temporal focal theta identified in drowsiness. 
+CLINICAL CORRELATION: The overall waking background is normal for a subject of this age.  If epilepsy is an important consideration, a repeat, more extended sleep record may be of use.  The subtle temporal features described above are non-specific but may be seen in the setting of an underlying structural or functional abnormality in the left hemisphere, as well as in the setting of underlying cerebrovascular disease.  

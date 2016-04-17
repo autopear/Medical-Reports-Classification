@@ -1,0 +1,15 @@
+MEDICATIONS: Lovenox, Azithromycin, Famotidine, Lidocaine
+REASON FOR EEG : Seizure. 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with one channel of EKG. No activation procedures were performed. The patient was lethargic during the recording. 
+TECHNICAL DIFFICULTIES: None. 
+DESCRIPTION OF THE RECORD: The record opens to posterior dominant rhythm that can only be seen on the right with frequency that at best 7 Hz and an amplitude of 20 to 60 microvolts. Frontocentral beta can be seen over the right hemisphere only. No normal sleep architecture seen. During the EEG, he was stimulated and there is an increase in the faster frequencies over the right hemisphere can be seen. 
+ABNORMAL DISCHARGES: 
+1. Left hemisphere focal slow waves and loss of faster frequency, maximal in the T3 electrode. 
+2. Intermittent focal slow waves seen at FB/T4. 
+3. Diffuse slow waves. 
+SEIZURES: None. 
+IMPRESSION : Abnormal EEG due to: 
+1. Left hemispheric slow waves and loss of faster frequencies.
+2. intermittent right anterior temporal slowing. 
+3. Diffuse slow waves. 
+CLINICAL CORRELATION: This EEG revealed evidence of left hemispheric cortical structural dysfunction, maximal in the temporal region which is consistent with a known previous stroke. In addition, there is evidence of intermittent right anterior temporal slow wave which is nonspecific with regards to etiology. Lastly, there is evidence of diffuse cerebral dysfunction which is also nonspecific with regards to etiology. No seizures or epileptiform discharges were seen. 

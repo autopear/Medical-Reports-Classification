@@ -1,0 +1,7 @@
+MEDICATIONS:  Keppra, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Impedances were satisfactory aside from T1-T2 electrodes.  Photic stimulation was completed.  Hyperventilation was deferred. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9.5 Hz alpha rhythm noted on the right.  The alpha rhythm is noted on the left but it is a bit attenuated.  The overall activity on the left is lower voltage and a bit more attenuated in comparison to the right.  This is most prominent in the central temporal regions.  Features of drowsiness include slow rolling eye movements and an increase in beta.  During the EEG, the patient experienced cramps in the hands and legs.  This was associated with muscle and movement artifact. 
+Photic stimulation elicited vigorous, bilateral driving. 
+Heart rate 60 bpm.
+IMPRESSION:  Abnormal electroencephalogram due to attenuation of faster frequency activity on the left compared to the right.
+CLINICAL CORRELATION:  No epileptiform features were noted in this EEG.  Of note, this is a 21 minute EEG in a patient experienced cramps which obscured the EEG and the study could have been run a little longer to capture 20 minutes of good quality data.  In comparison to this patient's two previous EEGs, no seizures were captured today.  No epileptiform features were seen in the last 2 EEGs for this patient.

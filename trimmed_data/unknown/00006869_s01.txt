@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Dilaudid, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record with photic stimulation. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8 Hz, 30 uV posterior dominant rhythm and a small amount of lower voltage rhythmic slowing, primarily delta frequency activity in the occipital regions, right greater than left.  At 11:18, there is a burst of periodic sharp activity with an unusual field of spread.  It is negative in the centrotemporal region with a positivity at T4.  It is paroxysmal in nature and associated with a clear underlying phase reversal with electronegativity at T4, but is actually electropositive at C4 and A2.  It wanes at 11:59:51.  It is associated with disruption of faster frequency activity in the right hemisphere.  Reviewing the discharge and an average reference, it looks like a periodic complex in the right temporal region with a triphasic component.  The technologist notes that the patient is very weak and very ill appearing.  An additional burst is again identified at 11:25:21 with the use of a referential montage.  Again, this is maximum in the right temporal region with a more significant field in the right temporal region and relatively little spread using that montage to the central region.  Photic stimulation does not clearly activate the record.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Mild background slowing.
+	Occipitally predominant arrhythmic slowing.
+	Two bursts of right periodic sharp waves.
+CLINICAL CORRELATION: This EEG supports a localization-related mechanism for epilepsy, as well as a diffuse disturbance of cerebral function.  Correlation with imaging regarding the localization of the epileptiform activity is appropriate.

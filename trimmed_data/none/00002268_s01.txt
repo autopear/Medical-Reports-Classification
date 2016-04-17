@@ -1,0 +1,10 @@
+MEDICATIONS:  Hydralazine, Insulin.
+REASON FOR EEG:  History of possible seizure.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.  Wakefulness and sleep are recorded.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 8 Hz with an amplitude of 20 to 50 microvolts which is reactive to eye opening. Wakefulness and stage I and stage II sleep were seen. Photic stimulation causes no abnormal discharges.
+ABNORMAL DISCHARGES:  Generalized slow waves at 5-7 Hz and 20-60 microvolts amplitude.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Excessive theta in wakefulness.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction which is nonspecific with regards to etiology. No seizures or epileptiform discharges were seen.

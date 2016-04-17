@@ -1,0 +1,9 @@
+MEDICATIONS:  Heparin, Ampicillin, Famotidine, Midazolam, Haldol.
+REASON FOR STUDY:  Unresponsiveness
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness, stage I, stage II, and REM sleep.  Activating procedures, including photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record reveals normal posterior dominant rhythm that reaches 9-10 Hz.  This is reactive to eye opening.  There is normal frontal central beta. Activating procedures, including photic stimulation, produce no abnormal discharges.  The patient easily drowses off into sleep.  While awake the background is totally normal, but it quickly goes into stage I sleep and even achieves REM during the recording.   
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  The patient appears to have a very short sleep latency and achieves REM during the recording, which is not typically seen on a routine EEG and consideration for a sleep disorder or medical affect is advised.  No seizures or epileptiform discharges were seen.

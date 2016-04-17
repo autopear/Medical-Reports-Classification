@@ -1,0 +1,7 @@
+MEDICATIONS: Depakote and Dilantin. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates generalized slowing and low voltage.  There is a 9 Hz, 25 V posterior dominant alpha rhythm and a small amount of low voltage, frontocentral beta activity.  Intermittently, left temporal sharp activity with excessive theta and delta activity, occasionally evolving in the frontal area and rarely in the right hemisphere were observed.  Sleeping is characterized by spindles and K complexes.  Stimulation of the patient produced attenuation of the background followed by muscle movement artifact and arousals.  
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Background slowing with left temporal sharp activity with excessive theta and delta activity. This occasionally involved the frontal and right hemisphere. 
+CLINICAL CORRELATION: This tracing demonstrates the same pattern as multiple prior EEGs including long-term EEG monitoring.  The focal features support a partial mechanism for epilepsy in this patient, as well as a possible pathological process or a structural lesion.  

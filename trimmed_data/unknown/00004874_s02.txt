@@ -1,0 +1,17 @@
+MEDICATIONS: Dilantin, Ativan, Insulin, Lorazepam, Heparin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. The patient is awake, restless 
+with frequent oral automatisms. 
+DESCRIPTION OF THE RECORD: Background EEG is diffusely slow, poorly 
+organized and lacks the normal morphology of an adult EEG. When the patient drifts off 
+to sleep, there is some vertex waves. There are also some periodic sharp complexes 
+identified in the left temporal region with a generous field of spread, left central, left 
+frontotemporal. These are not discernible when the patient has muscular movement 
+artifact. 
+HR: 90 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing and poor organization. 
+2. Rare periodic sharp waves identified from the left temporal region. 
+CLINICAL CORRELATION: This EEG is markedly improved compared to previous 
+studies. The epileptiform activity described above was seen almost continuously in the 
+first EEG. 

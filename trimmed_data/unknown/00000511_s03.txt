@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Depakote, Geodon, Cogentin, Nifedipine, Lisinopril, Hydrochlorothiazide. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were performed. This awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness the background demonstrates a somewhat slow alpha rhythm at 7 Hz with a smaller amount of background theta. The patient appears to be quite sleepy and drifting off. The patient reaches stage 2 sleep and fluctuates in and out. Photic stimulation reveals driving. There was no epileptiform activity seen. Other features of drowsiness include a pattern of diffuse beta. Vertex waves are noted in stage 1 sleep. 
+HR: 78 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Mild generalized background slowing. 
+CLINICAL CORRELATION: These findings were consistent with 4 other EEGs. This is the fourth EEG which has not identified epileptiform activity. 

@@ -1,0 +1,19 @@
+MEDICATIONS: Dilantin, Enalapril, Omeprazole 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic 
+stimulation were performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.5 Hz, 40 microvolt 
+posterior dominant rhythm. In the transition to drowsiness, there is a small degree of 
+shifting slowing. Hyperventilation is performed early on in the record and produces an 
+increase in amplitude in the background. Features of drowsiness include an increase in 
+beta and a small degree of shifting slowing. Photic stimulation elicits a scant driving 
+response. 
+HR: 72 bpm 
+IMPRESSION: This EEG is remarkable for: 
+1. A scant degree of shifting slowing. 
+CLINICAL CORRELATION: Identical features were noted in the previous study 
+3/20/2009, with a small degree of shifting slowing or disorganization noted again just in 
+the early part of the record. No epileptiform features were observed in either of these 
+records. As this patient is continuing to have paroxysmal tingling on the left hemibody, 
+a repeat study capturing one of his spells is advised. 
+ 

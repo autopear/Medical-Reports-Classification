@@ -1,0 +1,9 @@
+MEDICATIONS:  Tegretol, Motrin
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with the addition of anterior temporal single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures including hyperventilation and photic stimulation were performed.   
+TECHNICAL DIFFICULTIES:   None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm 9-10 Hz which is relative to eye opening.  There is a normal amount of frontocentral beta.  The patient was recorded in wakefulness and drowsiness.  During the procedure there was no abnormality discharges.   
+ABNORMAL DISCHARGES:   None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and drowsiness EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

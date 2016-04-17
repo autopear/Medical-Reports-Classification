@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation is performed. There is a lot of eye movement. 
+DESCRIPTION OF THE RECORD: In wakefulness the EEG is slow and disorganized. In background there is delta and there is also theta. There are bursts of paroxysmal delta as well. In drowsiness, there is a left frontotemporal spike. Right focal slowing characterized by 1-2 Hz delta. In photic stimulation there is no driving that has changed. 
+HR: 66 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Focal slowing on the right 
+2. Rare left frontotemporal spikes. 
+CLINICAL CORRELATION: As mentioned above, there is structural process on the right, but epilepsy is seen on the left. Clinical correlation is recommended as this could be secondary to postictal state or toxic metabolic state. 

@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin, Keppra, Cymbalta, Neurontin, Alprazolam
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This is an awake but nonverbal patient.  Tactile and verbal stimulation of the patient were performed during the EEG.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a pattern of diffuse theta, primarily 6-7 Hz theta.  There is a minor asymmetry, but with a bit more arrhythmic delta in the left temporal region.  Grimacing of the patient or oral automatisms were associated with movement activity in muscle but no epileptiform discharges.  It was not clear that the patient understood verbal stimulation, but at least initially with verbal stimulation, there was an increase in faster frequency activity in the background.   
+HR:    114 bpm
+IMPRESSION:  Abnormal EEG due to:  
+Replacement of normal background with a rhythmic theta pattern.  
+Subtle, focal slowing from the left temporal region.
+CLINICAL CORRELATION:  No epileptiform features were noted in this record.  If seizures are suspected, more prolonged video EEG monitoring sessions is suggested.

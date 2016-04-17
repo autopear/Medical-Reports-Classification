@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and Depakote. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  There is no mention of a previous craniotomy defect. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with an 8.5 Hz, 25 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by attenuation of the alpha rhythm with some temporal wicket.  In stage I sleep, vertex waves and POSTS are seen.  
+Subtle abnormalities are seen in hyperventilation with an increase in amplitude, particularly from the left temporal region and occasion focal slowing seen in the temporal regions, left greater than right.  
+Photic stimulation elicits brief driving.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Subtle focal features from the left temporal region in hyperventilation.
+CLINICAL CORRELATION: This tracing supports an underlying structural or functional process on the left.  No epileptiform features were seen. 

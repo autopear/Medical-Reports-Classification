@@ -1,0 +1,10 @@
+MEDICATIONS:  Insulin, Keppra, nystatin, Lexapro, others.
+LOCATION:  Room number 601.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient was very confused, inattentive, restless and had difficulty cooperating with the study.
+DESCRIPTION OF THE RECORD:  This technically challenging EEG is remarkable for a pattern of diffuse background slowing and disorganization with a mixture of primarily theta frequency activity as well as arrhythmic delta activity.  Eye blink artifact was noted.  Triphasic waves were noted as well.  In this sharply contoured record, there appear to be frontal sharp waves noted which can be differentiated from the eye artifact.  Stimulation of the patient produces an increase in faster frequency activity.   
+Heart rate 66 beats per minute.
+IMPRESSION:  This is a technically challenging but abnormal EEG due to:
+1. Marked background slowing and disorganization.
+2. Triphasic waves.
+3. Likely underlying right frontal sharp waves or spikes in this EEG which is confounded by significant eye artifact.
+CLINICAL CORRELATION:  No seizures were recorded.  This EEG is most characteristic of significant, diffuse disturbance of cerebral function.  If additional information is needed, a followup study as the patient's medical issues resolve may be helpful to characterize epileptiform activity.  Previous EEGs demonstrated the pattern described above as well as bifrontal sharp waves.

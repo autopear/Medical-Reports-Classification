@@ -1,0 +1,8 @@
+MEDICATIONS: Risperdal, Dilantin, and many others.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: Wakefulness is characterized by an 8 Hz, 40 uV posterior dominant rhythm with occasional shifting arrhythmic delta activity, particularly from the temporal regions, slightly more prominent in the right compared to the left.  This is occasionally somewhat sharply contoured.  Drowsiness is characterized by an increase in beta and an increasing synchronicity of the background.    
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Mild background slowing for a subject of this age.
+Shifting, temporal arrhythmic delta activity, right greater than left.  
+CLINICAL CORRELATION: The background slowing is mild for a subject of this age.  The shifting arrhythmic delta activity is less prominent than one might anticipate given the stroke and hemorrhage on the right.  No epileptiform discharges were seen.  

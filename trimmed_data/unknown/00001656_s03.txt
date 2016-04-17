@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Percocet, Tylenol, Phenytoin, Gabapentin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: The right hemisphere demonstrates a reasonably well-organized background with a 9 Hz posterior dominant rhythm. The left hemisphere demonstrates continuous theta. Hyperventilation accentuates the theta rhythmic data from the left hemisphere. Photic stimulation elicits scant driving. 
+HR: 66 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Continuous slowing from the hemisphere. 
+CLINICAL CORRELATION: This EEG supports a structural or functional abnormality on the left involving gray and white matter congruent with the history. 

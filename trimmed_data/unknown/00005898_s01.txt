@@ -1,0 +1,13 @@
+MEDICATIONS: Dilantin, Azithromycin, Clindamycin, Heparin, Pantoprazole 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel EKG. The patient's intubated. 
+DESCRIPTION OF THE RECORD: The overall background is low voltage and is 
+consistent mostly with a stage 2 sleep record with vertex wave, K complexes and 
+spindles seen. The overall background is slow with a beta rhythm of 7 Hz. 
+HR: 120 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Some slowing of the background. 
+CLINICAL CORRELATION: There is no epileptiform activity or seizures recorded in 
+this EEG. If there is further concern in the slow background is nonspecific. There is 
+further concern of the diagnosed of epilepsy, could repeat this study when patient is 
+more alert. 

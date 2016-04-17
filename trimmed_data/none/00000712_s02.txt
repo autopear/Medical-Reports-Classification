@@ -1,0 +1,14 @@
+INTRODUCTION: 
+An EEG is performed using standard the 10-20 electrode placement system with an EKG electrode. Awake and stage I sleep is recorded. Hyperventilation and photic stimulation were used. 
+MEDICATIONS: 
+Vimpat and Tegretol. 
+TECHNICAL PROBLEMS: 
+None. 
+DESCRIPTION OF RECORD: 
+Posterior dominant alpha rhythm is seen at 9 to 10Hz frequency and 20 microvolt amplitude which is symmetric and reactive to eye opening. Frontocentral beta rhythm is also seen. Stage I sleep is seen and is normal. Hyperventilation and photic stimulation are performed, which are also normal.
+ABNORMAL DISCHARGES: 
+Generalized spike and wave at 4 to 4.5 Hz and 70 to 100 microvolts amplitude is seen, which is located maximum anteriorly. This generalized pattern is asymmetric with slight predominance in the left hemisphere. No seizures are seen.
+IMPRESSION: 
+This is an abnormal EEG due to generalized spike and wave.
+CLINICAL CORRELATION: 
+The EEG findings can be seen in generalized epilepsy; however, a sight asymmetric pattern raises the possibility of a focal epilepsy with secondary bilateral synchrony.

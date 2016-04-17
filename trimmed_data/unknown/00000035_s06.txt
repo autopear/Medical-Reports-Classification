@@ -1,0 +1,8 @@
+MEDICATIONS:  Tegretol, Dilantin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  There were technical problems with electrode caliber in the initial sections of the record.  This problem was resolved.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz posterior dominant rhythm.  There is a small amount of shifting slowing, but there is also underlying focal slowing in the left anterior temporal region.  Hyperventilation accentuates the left anterior temporal focal slowing.  In the early part of the record before the tech has a chance to really address all of the electrode issues, there is a single left frontotemporal sharp wave. 
+Hyperventilation is as described above.  Photic stimulation elicits a bilateral driving.  Heart rate 78 BPM.
+IMPRESSION:  This is an abnormal EEG due to: 
+Left anterior temporal focal slowing. 
+Shifting slowing.
+CLINICAL CORRELATION:  Only a single, definitive sharp wave was identified.  This EEG supports a bihemispheric process, but the focal slowing may have lateralizing or localizing importance.

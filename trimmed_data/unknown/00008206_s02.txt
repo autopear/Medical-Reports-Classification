@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Lamictal, Glucophage, Zoloft, calcium, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz posterior dominant rhythm of 30 uV with a small amount of low voltage, frontocentral beta activity.  As the patient becomes drowsy, there is an increase in rhythmic theta followed by one or two vertex waves.  There is a suggestion of a breach rhythm in drowsiness, which is higher amplitude theta in the frontal regions.  Hyperventilation is performed with good effort, producing an increase in the amplitude and a small amount of rhythmic slowing.  Photic stimulation does not significantly activate the record. 
+At the close of the record, there is a more subtle amplitude asymmetry in the left frontal region, but clear focal slowing and no epileptiform features. 
+HR:  60 BPM.
+	IMPRESSION: EEG at the limits of normal.
+CLINICAL CORRELATION: In this record, the breach rhythm in the frontal region can be seen.  There is no epileptiform activity and no clear focal slowing.  This is similar to a more recent recording.  

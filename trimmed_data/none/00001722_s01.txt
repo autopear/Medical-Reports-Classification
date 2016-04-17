@@ -1,0 +1,9 @@
+MEDICATIONS: Antihypertensives, Seroquel, and Restoril.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is confused, breathless, and uncomfortable.  
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an intrahemispheric asymmetry. The left hemisphere demonstrates a posterior dominant rhythm of 9 Hz, 40 uV with reasonable organization and a modest amount of low voltage, frontocentral beta activity, as well as small excess of background theta with a small degree of disorganization. The right hemisphere demonstrates disruption of faster frequency activity with more rhythmic, 3 to 5 Hz activity seen throughout; on rare occasions a posterior dominant rhythm is identified.  
+The patient’s episodes of confusion and agitation do not appear to have an EEG correlate in terms of association with the rhythmic slowing from the right hemisphere. The theta is most intense in the right central, parietal, and mid-to-posterior temporal regions.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Continuous rhythmic slowing from the right hemisphere.
+Mild background slowing on the left.
+CLINICAL CORRELATION: This tracing supports a structural or functional abnormality on the right affecting both gray and white matter.  No seizures were identified.  If appropriate, a follow-up study may be helpful to exclude seizures. 

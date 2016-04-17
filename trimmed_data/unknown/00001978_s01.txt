@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Lamictal, Seroquel and BuSpar.  Vagus nerve stimulation.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is low to medium amplitude with rhythmic theta activity and a posterior dominant rhythm of 5 to 7 Hz. There are intermittent bursts of theta and a relatively low voltage pattern.  As the patient becomes drowsy or in quiet wakefulness, there are bursts of frontally predominant spike and slow wave and poly spike and slow wave activity.  These are complex and may be maximum in the frontal regions symmetrically, left temporal, or right frontal.  Some of this showed shifting asymmetries in the frontal region.  There is also isolated, generalized paroxysmal fast activity sometimes a bit more prominent in the right frontal region.  As the patient becomes drowsy, the epileptiform activity increases and there are bursts of poly spike followed by slow wave activity of approximately 2.5 Hz.  
+Photic stimulation does not elicit a driving response.  The epileptiform activity is seen prior to the photic stimulation as the patient is drowsy.  Photic stimulation doesn’t clearly activate the record, although there is slow spike and wave activity and poly spike and slow wave activity seen in photic. This is also seen after the photic terminates.
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Complex epileptiform activity with poly spike and slow wave activity as well as frontal activity identified in either hemisphere or left temporal. 
+CLINICAL CORRELATION: In this individual with Lennox-Gastaut syndrome, the epileptiform activity is considerably less prominent than one might imagine.  Comparison with previous EEGs would be helpful as previous reports indicate continuous slow spike and wave activity. 

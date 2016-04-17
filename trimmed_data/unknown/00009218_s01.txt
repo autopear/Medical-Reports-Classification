@@ -1,0 +1,7 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION: Digital video EEG was performed in lab using standard 1 0-20 system of electrode placement with 1  channel of EKG.  Hyperventilation and photic stimulation and hyperventilation are performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness,  the background EEG is relatively low voltage, but there is a symmetric, reactive 9 Hz posterior dominant rhythm with a small amount of low voltage, frontal, central, and beta activity. Drowsiness this characterized by an increase in beta.  Wicket activity is identified.  Minimal stage 1
+sleep is observed.  Brief stage 2 sleep characterized by vertex waves and spindles was noted.  Photic stimulation elicits trivial driving. Hyperventilation does not active the record.
+	HR:	66 bpm
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  No focal nor epileptiform features are observed.  Normal EEG does not exclude a diagnosis of epilepsy.  Additional EEG recording captures deeper stages of sleep.  It may be helpful to identify epileptiform activity.

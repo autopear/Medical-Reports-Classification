@@ -1,0 +1,7 @@
+MEDICATIONS: Benadryl, Folate, Clonidine, Ativan, and Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized, low voltage with an 8.5 Hz, 15 to 20 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by an increase in the background beta activity, as well as attenuation of the alpha rhythm.  As the tracing continues, the patient is increasingly restless and the EEG has increasing amounts of muscle.  
+Photic stimulation elicits brief, bilateral driving at intermediate flash frequencies.  
+HR:  90 BPM.
+	IMPRESSION: EEG within normal limits in wakefulness through stage I sleep.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  There were no specific hallmarks of a toxic or metabolic encephalopathy.  If epilepsy is an important consideration, a repeat tracing capturing deeper stages of sleep may be helpful. 

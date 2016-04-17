@@ -1,0 +1,13 @@
+MEDICATIONS: Dilantin, Plavix, aspirin. 
+INTRODUCTION: Digital video EEG was performed in lab using 
+standard 10/20 system of electrode placement with 1 channel of 
+EKG. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG 
+is well-organized with 10 hertz posterior dominant rhythm. 
+Drowsiness is characterized by a small amount of background 
+slowing. Photic stimulation elicits scant driving. 
+HR: 96 BPM. 
+IMPRESSION: Normal EEG in wakefulness and drowsiness. 
+CLINICAL CORRELATION: No focal nor epileptiform features are 
+identified. This information may be valuable during the planned 
+carotid surgery. 

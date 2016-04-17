@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, insulin, blood pressure medications, and antibiotics. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is confused, restless, and uncooperative, which limited the acquisition of data.  Stimulation of the patient is not performed. 
+DESCRIPTION OF THE RECORD: This EEG is extremely limited in an incredibly educated patient due to limitation of motion.  The tracing is overall low voltage with excessive beta activity with an occasional suggestion of an alpha rhythm of 11 Hz.  Drowsiness produces some temporal delta.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Excessive beta activity.
+Frequent movement artifact.
+CLINICAL CORRELATION: No epileptiform activity was seen.  Because of the degree of motion, epileptiform discharges could easily be overlooked. A repeat tracing as soon as the patient is more cooperative would be valuable.   

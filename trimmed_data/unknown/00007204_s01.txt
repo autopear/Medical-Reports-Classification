@@ -1,0 +1,8 @@
+MEDICATIONS: Labetalol, Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is poorly organized.  There is a posterior dominant rhythm, which ranges from 8 to 10 Hz, 30 to 50 uV.  In addition, there is shifting arrhythmic delta activity and there is also more prominent focus of slower arrhythmic delta activity identified from the right occipital region with intermittent disruption of the alpha rhythm in that region.   Features of drowsiness include generalized background slowing and occasional vertex waves.  Photic stimulation does not activate the record, but does elicit a photoelectric effect.  
+HR:  60 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing and disorganization.
+Superimposed focal slowing with more marked arrhythmic delta activity from the right posterior quadrant and disruption of the posterior dominant rhythm. 
+CLINICAL CORRELATION: The background slowing and disorganization is a non-specific finding and may be due to postictal state, metabolic process, or other factors.  Consideration for a structural or functional abnormality is appropriate.  

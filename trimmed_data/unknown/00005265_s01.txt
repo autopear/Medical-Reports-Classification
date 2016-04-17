@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and Tegretol. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10 Hz, 30 to 35 uV posterior dominant rhythm.  There are intermittent couplets/trains of temporal sharp and slow wave activity occurring at a frequency of 3.5 Hz from the left temporal region more than the right.   The rest of the background is otherwise normal.  Photic stimulation activates the record.  
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Interictal 3.5 Hz left temporal sharp and slow wave activity occurring in brief bursts of trains and couplets. 
+Left temporal focal slowing.
+3. Rare right temporal sharps 
+CLINICAL CORRELATION: This tracing supports a localization-related mechanism for epilepsy.  Correlation with imaging studies is appropriate.  

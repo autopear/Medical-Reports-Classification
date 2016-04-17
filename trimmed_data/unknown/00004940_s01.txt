@@ -1,0 +1,8 @@
+MEDICATIONS: Ativan, Dilantin, SUX, Vecuronium, Etomodate. Check spelling
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and obtunded.
+DESCRIPTION OF THE RECORD: The background EEG is continuous, very low voltage, with a mixture of beta and theta activity as well as shifting arrhythmic delta activity.  In this individual who appears to be unresponsive and doesn’t seem to alert to noxious stimuli, this very low voltage background at times appears to demonstrate a posterior dominant rhythm on the right of 7 to 8 Hz.  As the recording continues, the patient clearly is increasingly active with muscle, eye blink, and increasing amounts of alpha frequency activity in the background.  By the middle of the record, a posterior dominant rhythm can be identified bilaterally of approximately 8 to 9 Hz.
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Prominent background slowing with shifting arrhythmic delta activity identified in the early part of the record.
+A physiological state with the patient appearing to be poorly responsive initially and then increasingly awake with an improvement in the background EEG at the end.
+CLINICAL CORRELATION: No epileptiform features were identified in this record and there were no significant focal features.  The dynamic nature of this EEG may be part of a postictal pattern, or may be associated with either an improvement or elimination of a toxic or metabolic process or elimination of sedative hypnotic medication. 

@@ -1,0 +1,8 @@
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode with 1 channel EKG.  The patient is preoperative and has already had marking electrodes placed on his scalp resulting in modification of electrode placement.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is moderately slow with primarily rhythmic theta pattern.  There is some beta asymmetry with shifting beta left frontal central and right frontal regions.  In addition, there is a question of a left central sharp wave.  The patient is agitated and moving about.
+	HR 	55 bpm
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Marked slowing.
+	2. 	Shifting beta.
+	3. 	Question left central sharp wave.
+CLINICAL CORRELATION: The background slowing described above would not be affected by the variability in electrode placement, but sharp waves should be interpreted with caution in this study.

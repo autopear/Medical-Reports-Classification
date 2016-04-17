@@ -1,0 +1,11 @@
+MEDICATIONS:  Keppra.
+REASON FOR STUDY:  Status post hypoxic injury.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded while unresponsive.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record reveals a background that is diffusely slow with a posterior dominant rhythm with no normal posterior dominant rhythm or frontal central beta.  The majority of the frequencies are delta and they are intermixed with diffuse suppressions seen for seconds.  Overall the amplitude of the EEG is very low and minimal brain activity is seen.  No normal sleep architecture could be seen.  No activating procedures were performed.
+ABNORMAL DISCHARGES:  Generalized slow waves at 2-4 Hz at an amplitude of 20-40 microvolts with intermittent burst suppression.
+HR::   96 with an irregular pattern.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slowing. 
+Low amplitude.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is not specific as regards to etiology.  However, the low amplitude and intermittent burst suppression can be seen due to a diffuse injury like hypoxia or may be partly due to medication effect.  No seizures or epileptiform discharges were seen.

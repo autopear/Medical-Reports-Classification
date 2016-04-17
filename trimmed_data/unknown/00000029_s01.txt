@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and antibiotics. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  The patient was uncooperative and there were problems with high impedance.  
+DESCRIPTION OF THE RECORD: The background EEG is abnormal.  The left hemisphere demonstrates moderate background slowing for a subject of this age, with a 7 Hz posterior dominant rhythm, primarily a theta frequency background with some delta.  The right hemisphere demonstrates disruption of faster frequency activity on the right with some sharply contoured activity picked up in the right hemisphere more so than others, particularly at T4, P4. There is also some EKG artifact, but there seems to be an underlying burst of somewhat sharply contoured periodic activity, which differs from the EKG artifact identifiable in that region.  Stimulation of the patient or spontaneous arousals are associated with an increase in background theta. 
+HR:  116 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing. 
+Intrahemispheric asymmetry with some disruption of faster frequency activity from the right hemisphere, as well as a suggestion of some sharply contoured activity in the right hemisphere.  
+CLINICAL CORRELATION: These features are similar to a previous study performed in 2004.  They support not only a diffuse disturbance of cerebral function, but a structural or functional abnormality on the right involving both gray and white matter.  Consideration for an irritative focus in the right hemisphere is appropriate.  

@@ -1,0 +1,11 @@
+MEDICATIONS:  Lamictal, Primidone
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG includes a 10 Hz 40 mV alpha rhythm with a small amount of low voltage, frontal central beta.  In wakefulness, accentuated in hyperventilation and in drowsiness, there are occasional bursts of rhythmic, 3 to
+4 Hz, bilateral temporal slowing.  This may be rhythmic, irregular and is typically maximum
+anterior temporal regions.  Mixed in with this are occasional right anterior temporal sharp waves and some which are right posterior temporal.  Alerting of the patient seems to decrease this activity.  Hyperventilation seems to accentuate the sharp waves on the right. Hyperventilation also produces FIRDA some of which is notched, but during the hyperventilation response, there is no definitive spike and wave activity. Features of drowsiness include an increase in background slowing, as well as an increase in the bursts described above, but sleep is not sustained. Photic stimulation elicits minimal bilateral driving.
+	HR:	72 bpm
+IMPRESSION: Abnormal EEG due to:
+	1.	Unusual bursts of unilateral or bilateral rhythmic temporal slowing with a right posterior temporal sharp wave.
+CLINICAL CORRELATION:   The findings described in the hyperventilation response, include some normal and some potentially pathologic findings as well. In this individual with a strong family history of epilepsy, consideration for more than one mechanism for her seizures may be entertained,  although there  was no definitive, frontally predominate generalized spike in wave activity. Overall, these findings are similar to her previous study.
+	.	
+"-·

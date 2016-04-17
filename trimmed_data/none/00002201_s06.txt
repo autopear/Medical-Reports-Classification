@@ -1,0 +1,9 @@
+MEDICATIONS:  Depakote, Tegretol, Phenobarbital.
+INTRODUCTION:  Digital video EEG was performed at the bedside using the standard 10-20 system of electrode placement and one channel of EKG.  Wakefulness and sleep were captured.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background is poorly organized.  It is diffusely slow in the theta range.  There is frequent shifting slowing.  There is arrhythmic delta sharply contoured at times, greater in the right hemisphere than in the left hemisphere. 
+No spikes and no seizures were captured.
+EVENTS:  There were multiple practice pushbuttons but there were no patient events.
+IMPRESSION:  This EEG is abnormal due to: 
+Diffuse theta range slowing.
+Arrhythmic delta which is sharply contoured, right greater than left.
+CLINICAL CORRELATION:  This EEG is indicative of diffuse cerebral dysfunction which is either genetic or toxic metabolic or neurodegenerative in etiology.  There were no epileptogenic features noted except the occasional sharply contoured delta.  Clinical correlation recommended.

@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with a 9 Hz, 40 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by attenuation of the alpha rhythm, as well as the appearance of POSTS and slow rolling eye movements.  Occasional temporal wicket is identified.   Hyperventilation is performed with good effort, producing a small increase in the amplitude and a small amount of background theta.  Photic stimulation elicits brief bilateral driving.  Occasional temporal wicket is seen at the close of the record, as well as vertex waves.
+HR:  __ BPM.
+	IMPRESSION: Normal EEG in wakefulness through stage I sleep.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  This individual demonstrated some wicket, which is a normal variant. 

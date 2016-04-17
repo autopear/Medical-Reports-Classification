@@ -1,0 +1,8 @@
+MEDICATIONS: Depakote. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10.5 Hz, 40 to 45 uV posterior dominant rhythm.  There is a bifrontal breach rhythm identified.  There is intermittent sharply contoured theta from the left anterior temporal regions, which is accentuated in drowsiness.  He also has occasional left T1 sharp waves.  Photic stimulation elicits a driving response.  
+HR:  80 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Left T1 sharp waves.
+Intermittent left anterior temporal sharply contoured theta. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The features described above support the presence of an underlying focal lesion, particularly over the left anterior temporal region.  No seizures were recorded.  This is an interval change compared to a previous EEG from January 2004, which was read as normal in wakefulness and sleep.

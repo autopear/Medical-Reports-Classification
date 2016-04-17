@@ -1,0 +1,26 @@
+MEDICATIONS: Dilantin, Keppra, Ativan, Fentanyl, Morphine 
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 system of 
+electrode placement with one channel of EKG. The patient has a trach and is somnolent. 
+DESCRIPTION OF THE RECORD: Background EEG is markedly abnormal and demonstrates 
+an intrahemispheric asymmetry. The overall pattern is one of slow theta and delta but 
+unfortunately the left hemisphere demonstrates more disruption of fast or frequency activity with 
+more very slow, arrhythmic delta, sometimes 0.3 Hz delta. In addition, there is a periodic 
+complex identified from the left hemisphere maximum the occipital parietal region with some 
+superimposed fascial frequency activity. At times, it's maximum at 01. It is a periodic plus type 
+complex with some theta noted with this activity. There is variability in the record. Some 
+sections demonstrate more theta than others and some spontaneous arousals are observed 
+during the EEG. Stimulation of the patient clearly produces and alerting response with 
+dramatic drop out of the periodic complexes and increase in faster activity bilaterally. As the 
+effect of stimulation wears off, this periodic mixed theta activity can be seen in the left occipital 
+region with a much slower periodicity and then gradually building up. 
+HR: 120 bpm. 
+IMPRESSION-: Markedly abnormal EEG due to: 
+1. Prominent intrahemispheric asymmetry with slower arrhythmic delta on the left compared 
+to the right. 
+2. Periodic sharply contoured activity in the left hemisphere with a generous field of spread 
+but primarily left parietal occipital with some superimposed theta activity. 
+CLINICAL CORRELATION: This EEG supports a structural abnormality on the left involving 
+gray and white matter which is irritative in nature. Although there is PLEDS plus observed in the 
+record, the activity is responsive to stimuli, decreasing with tactile stimulation. Additional EEG 
+recording is recommended given the periodic nature of this 
+activity. 

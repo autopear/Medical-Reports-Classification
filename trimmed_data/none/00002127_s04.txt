@@ -1,0 +1,12 @@
+MEDICATIONS: Keppra. 
+INTRODUCTION: Digital video EEG is performed in he lab using standard 10-20 electrode placement with one channel of EKG. Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10Hz alpha rhythm with a small amount of low voltage, frontal central beta activity. In relaxed wakefulness. There Is intermittent focal slowing identified from the right mid to anterior temporal region. Although there Is some artifacts noted in the record including the EKG artifact. There discreet spikes in the right anterior temporal at F8, T2. Hyperventilation is performed early in the record and seems to accentuate the slowing noted from the right. This is followed by drowsiness, which again accentuates the focal and low to medium amplitude sharp waves and spikes from the right anterior temporal region. As becomes drowsy, some of the these lower voltage spikes become a little bit more in morphology and more sustained bursts of focal slowing and additional sharp waves are noted as the patient becomes drowsy with the sharp waves starting to develop into bursts or trains which are not sustained.
+ 
+Unfortunately, photic stimulation is performed just as the patient Is starting to transition this sleep pattern and a scant driving response was noted. 
+Immediately after photic stimulation, the patient transitions into stage II sleep with vertex waves and spindles and K complexes. The epileptiform activity was clearly accentuated by stage II sleep. 
+Heart rate 60 bpm. 
+IMPRESSION: Abnormal EEG due to: 
+1. Right temporal focal slowing. 
+2. Right anterior temporal sharp waves and spikes which are accentuated by and sleep. 
+CORRELATION: No seizures were recorded. The findings described above support a focal mechanism for this patient's epilepsy. Additional EEG recording will be initiated to this individual seizure. 
+I

@@ -1,0 +1,9 @@
+MEDICATIONS: Keppra, Vancomycin, Acyclovir
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is sedated, but responsive.
+DESCRIPTION OF THE RECORD: The background EEG is primarily a theta frequency pattern. In addition to frequent eye blink artifact there is some frontal delta and a handful of triphasic waves observed in the frontal regions bilateral, occasionally independently in the left and right. The background EEG demonstrates variability.
+Some sections are richer in alpha frequency activity.	Stimulation of the patient produces bursts of frontal delta.
+HR:	96 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Replacement of normal background with primarily a theta frequency pattern.
+2. Triphasic waves.
+CLINICAL CORRELATION: These findings are nonspecific. They may be seen in a diffuse disturbance of cerebral dysfunction due to many different causes, including toxic or metabolic encephalopathy or meningitis. No epileptiform features were observed.  If needed, additional evaluation to assess this patient's mental status may be appropriate.

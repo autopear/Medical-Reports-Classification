@@ -1,0 +1,16 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. The patient is extremely 
+agitated and sweating. 
+DESCRIPTION OF RECORD: Background EEG includes a lower voltage, low pattern 
+with beta frequency activity. The patient is extremely agitated. Electrodes are being 
+lost during the record and the tech119logist observed assault bridge. 
+HR: 120 bpm 
+Technically less than suboptimal but abnormal EEG due to: 
+1. Excess beta: 
+2. Paucity the normal wave forms one would anticipate. 
+IMPRESSION: Abnormal EEG due to: 
+1. Absence of normal wave forms. 
+2. Excess beta. 
+Because of the artifacts and agitation, please repeat the 
+study in the lab when the patient is cooperative. 

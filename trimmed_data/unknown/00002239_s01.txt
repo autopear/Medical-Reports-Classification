@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin and others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were completed.  This is an awake through stage I sleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and low voltage.  There is a 9 Hz, 50 V posterior dominant alpha rhythm and a small amount of low voltage, frontocentral beta activity.  Intermittently, theta activity was seen in the right frontotemporal region, as well as occasional breach rhythms seen in the right temporal region.  Sleep is characterized by a mixed frequency pattern, slow rolling eye movements, vertex waves, and occasional bursts of higher amplitude theta activity.   Photic stimulation did not activate the record.  
+HR:  84 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+Right frontotemporal theta activity.
+CLINICAL CORRELATION: The focal features seen in this record may be suggestive of a structural lesion or a pathological process.  The breach rhythm is an artifact of scar due to the patient’s previous craniotomy.  No epileptiform discharges were observed in this tracing.  If epilepsy is a clinical concern, a repeat EEG capturing deeper stages of sleep or sleep deprivation prior to the EEG would be useful. 

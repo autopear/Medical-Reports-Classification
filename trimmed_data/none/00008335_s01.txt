@@ -1,0 +1,11 @@
+MEDICATIONS:  Heparin, Pantoprazole, Carvedilol, ASA, Nifedipine, Hydralazine, Clonidine.
+REASON FOR STUDY:  Altered mental status.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded while lethargic.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  There was movement artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no posterior dominant rhythm or frontocentral beta.  There was no normal sleep architecture.  No activating procedures are recorded. 
+ABNORMAL DISCHARGES:  
+Generalized slow waves at 2 to 4 Hz with an amplitude of 20 to 60 microvolts.  At times it become very rhythmic.
+Triphasic waves at 2 to 4 Hz and an amplitude of 20 to 60 microvolts seen predominantly anteriorly, although sometimes asymmetrically.  Not occurring continuously throughout the recording.
+IMPRESSION:  Abnormal EEG due to: 
+1.  Generalized slow waves and triphasics.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction which may be due, at least in part, to a metabolic derangement.  No seizures or epileptiform discharges are clearly seen.

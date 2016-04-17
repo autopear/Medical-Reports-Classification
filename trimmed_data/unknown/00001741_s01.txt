@@ -1,0 +1,6 @@
+MEDICATIONS:  Dilantin, Tegretol.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm with a modest amount of low voltage, frontocentral beta.  Stage 1 sleep includes abundant POSTs.  Rare vertex waves are identified.  Hyperventilation produces an increase in beta.  Photic stimulation elicits vigorous, bilateral driving.   
+HR:    96 bpm
+IMPRESSION:  Normal EEG in wakefulness and sleep.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Normal EEG does not exclude a diagnosis of epilepsy.

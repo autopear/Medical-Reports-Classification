@@ -1,0 +1,5 @@
+MEDICATIONS:  Dilantin (zonisamide was started in this section of the record).
+INTRODUCTION:  Continuous video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with continuous seizure and spike detection.  The patient had none of her typical events.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized.  Sleep is somewhat fragmented.  In stage 2 sleep, there are bursts of frontally predominant spike and wave and polyspike and wave discharges, typically as isolated bursts, but rarely in clusters.  These are frontally predominant and relatively symmetric. 
+Heart rate:  72 beats per minute.
+IMPRESSION:  

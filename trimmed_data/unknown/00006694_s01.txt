@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, antibiotics, and Ativan. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and is either lethargic or agitated during this study.  
+DESCRIPTION OF THE RECORD: In maximal wakefulness there is a symmetric 10 Hz PDR which is reactive.  The patient is agitated when awake but there is a small amount of theta.  There is subtle discontinuity seen in sleep, then vertex waves and spindles in stage 2 sleep.
+HR:.90
+	IMPRESSION: This awake and sleep record is  mildly slow 
+CLINICAL CORRELATION: no epileptiform features were seen; the mild slowing is consistent with medication administration

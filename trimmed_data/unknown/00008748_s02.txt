@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin and Keppra.
+INTRODUCTION:  A digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz alpha rhythm, which is symmetric and reactive to eye opening.  There is a small amount of low-voltage frontal central beta.  Features of drowsiness include anterior spread of the alpha rhythm and an increase in beta.  Eye blink was noted during a portion of the record of unclear significance.   
+Hyperventilation produced an increase in bilateral background slowing.   
+Photic stimulation elicited vigorous bilateral driving.   
+Heart rate:  96 BPM.
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  This is the second normal EEG for this adult.  Additional recording strategies may be helpful to capture epileptiform activity.

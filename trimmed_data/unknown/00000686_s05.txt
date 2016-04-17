@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat disorganized with a 7 Hz, 30 to 60 uV posterior dominant rhythm.  Features of drowsiness include hypersynchronous rhythmic frontal slowing. Deeper stages of sleep are not sustained. Hyperventilation is performed with good effort, producing bursts of slowing. Photic stimulation elicits a driving response bilaterally.
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG for an adult of this age due to:
+	1.	Background slowing and disorganization. 
+CLINICAL CORRELATION: The background slowing is non-specific and could be part of a postictal process.  It is somewhat striking in this otherwise quite functional adult.  If appropriate, a follow-up study may be important to make sure that this pattern is simply a postictal finding. 

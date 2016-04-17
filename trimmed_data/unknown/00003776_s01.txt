@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is somewhat poorly organized with primarily a theta frequency pattern.  There are portions of the waking record where the background EEG is well organized with a low voltage 9 Hz posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Portions of the record demonstrate low voltage, rhythmic theta from the left mid to anterior temporal region and generalized background slowing.  There are also some asynchronous bursts of high amplitude delta, somewhat more prominent on the left.  Hyperventilation is performed with good effort and accentuates the focal theta from the left, as well as producing some bursts of sharply contoured delta, maximum at T1.  At the close of hyperventilation, there are bursts of rhythmic, frontally predominant delta but occasionally these bursts are again maximum on the left.  As the patient becomes drowsy after HV, there is more arrhythmic delta picked up from the left temporal region.  Photic stimulation elicits brief bilateral driving.  In photic, there are rare left temporal sharp waves identified.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Left temporal focal slowing, which may include rhythmic theta or arrhythmic delta.
+Sharply contoured left temporal delta.
+Rare T1 sharp waves.
+Intermittent mild background slowing. 
+CLINICAL CORRELATION: This tracing supports a partial mechanism for epilepsy. Consideration for a structural or functional abnormality would be appropriate, as would a diffuse disorder of cerebral function.  

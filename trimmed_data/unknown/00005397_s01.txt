@@ -1,0 +1,7 @@
+MEDICATIONS: 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ER using standard 10-20 system of electrode placement with one channel of EKG. The patient has received Dilantin and Ativan.  The study is done prior to the patient receiving Depakote. The patient is intubated and comatose.  
+DESCRIPTION OF THE RECORD: The background EEG is abnormal and shows a burst suppression pattern.  There are bursts of chaotic, high amplitude sharply contoured activity, typically ten seconds in duration.  This is followed by background attenuation or suppression.  The bursts of activity are very high amplitude, but when the periods of suppression are reviewed at low sensitivity, the activity appears relatively flat although there is some background artifact.  There are rare portions of the record with more subtle eye movement with some rhythmic eye artifact picked up in the EEG.  
+HR:  100 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with a burst suppression pattern in association with clinical myoclonus. 
+CLINICAL CORRELATION: Six hours post-anoxic injury.  This is an early EEG and therefore her prognosis may change, but typically this EEG would carry a poor prognosis. These results were communicated to the clinical team and medications were initiated.  

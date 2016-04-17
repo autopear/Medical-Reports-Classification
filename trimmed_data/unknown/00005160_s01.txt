@@ -1,0 +1,7 @@
+MEDICATIONS: Ativan, Dilantin, Protonix, and Haldol.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: Rhythmic background slowing is seen and there is a 10 Hz, 15 V diffuse alpha activity with excess theta in wakefulness.  There is central 3 to 4 Hz theta as the patient becomes drowsy.  Photic stimulation does not elicit driving.
+HR:  96 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+	1.	Excess theta seen in drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform activity is seen. The patient is excessively drowsy either due to sleep deprivation or postictal state and theta waves are seen either due to sleep deprivation, postictal state, or medications. A repeat EEG may be helpful to identify epileptiform activity.

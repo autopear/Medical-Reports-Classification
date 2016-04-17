@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Little other clinical data is available. 
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is intubated. The background includes a medium amplitude, mixed frequency pattern rich in beta and some alpha frequency activity. The patient is moving about intermittently and there is some true artifact. Stimulation of the patient produces initially an attenuation of the background and then some theta frequency activity. There is some variability in the record. As the recording continues, the attenuation is seen a bit more commonly but in addition, stimulation of the patient also sometimes elicits muscle artifact. 
+HR: 90 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Replacement of normal background with a mixed frequency pattern. 
+CLINICAL CORRELATION: These findings support a diffuse disturbance of cerebral function, but no other conclusions can be made given the absence of a clinical history. 

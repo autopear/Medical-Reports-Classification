@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and light sleeping record.   
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and continuous.  There is a 9 Hz, 30 uV posterior dominant rhythm, which is attenuated with eyes opened.  There is a small amount of low voltage, frontocentral beta activity.  As the record continues, there is sharp and sharp wave activity seen in the right T2 area.  The sharp activity is seen less frequently in the left anterior temporal area. Hyperventilation and post-hyperventilation increased the likelihood of the sharp activity, more so in the right anterior temporal area as well as in the left anterior temporal area independently.  Post-hyperventilation, the patient falls asleep, which is characterized by vertex waves, spindles, and a few K complexes.  Photic stimulation elicits driving.  
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Independent, right more than left frontal and/or temporal, spikes  and sharp and wave activity.
+Complex epileptiform activity with some variability in terms of localization and or presence of associated fast activity
+CLINICAL CORRELATION: The focal features of epileptiform discharges in this tracing are supportive of a partial mechanism for epilepsy in this patient.   

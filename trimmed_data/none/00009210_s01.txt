@@ -1,0 +1,9 @@
+MEDICATIONS:  Benadryl, Lorazepam.
+REASON FOR STUDY:  Episode of loss of consciousness.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedure only including photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures including photic stimulation produced no abnormal discharges.  The patient was recorded in wakefulness and stage 1 sleep. There was some mild excessive beta seen throughout.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.  
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  The mild excess beta seen on the EEG may be due to benzos or barbiturate effects.

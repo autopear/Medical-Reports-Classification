@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake through stage I sleep record. 
+DESCRIPTION OF THE RECORD: The background EEG is symmetric and well organized.  There is a 9 Hz, 30 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Hyperventilation produces synchronized slowing and increased amplitude. Drowsiness is characterized by a decrease in the amplitude with a mixed frequency background. Deeper stages of sleep were not achieved.  
+Photic stimulation elicits driving.  
+HR:  66 BPM.
+	IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  If epilepsy is a clinical concern, a repeat EEG capturing deeper stages of sleep or sleep deprivation prior to the EEG may be helpful. 

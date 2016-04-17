@@ -1,0 +1,22 @@
+MEDICATIONS: Ativan, Dilantin, Heparin. 
+INTRODUCTION: Digital video EEG was performed in the lab using standard 10-20 system of 
+electrode placement with 1 channel of EKG. 
+DESCRIPTION OF THE As the tracing opens, the patient is relatively lethargic, but 
+over the course of this postictal EEG, the patient is more arousable. The initial background is 
+low voltage, diffusely slow, but there are intermittent arousals with approximately 8 Hertz alpha 
+rhythm identified bilaterally right better than left. The patient waxes and wanes with some 
+portions of the records which are reasonably well organized with alpha and theta activity, other 
+which are low voltage featureless delta and others which are a mix of irregular mixed theta and 
+delta. Activity is slightly higher on the right. Through the course of the record, intermittent 
+attenuations are observed and there is a fair amount of waxing and waning although the close -
+of the record does seem to be better then the beginning. There is some sharp slowing observed 
+in the right mid to anterior temporal region with an after going slow wave observed. 
+HR: 84 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Superimposed focal slowing with disruption of fast frequency on the left relative to the right. 
+3. Intermittent background attenuation. 
+4. Rare sharp wave observed on the right. 
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function 
+effecting botti hemispheres perhaps more significantly on the left than the right. The sharp 
+waves, however, were on the right. No previous EEG were available for comparison. 

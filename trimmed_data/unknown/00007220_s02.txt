@@ -1,0 +1,7 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10 Hz alpha rhythm. 
+Drowsiness is characterized by attenuation of the alpha rhythm.  Vertex waves, K-complexes, spindles, and POSTS were observed. Photic stimulation elicits bilateral driving. Hyperventilation produces an increase in theta.  The patient seemed to be falling asleep during hyperventilation. A breech rhythm is noted with accentuation of amplitude at T2-T4.  Despite this, there is no significant underlying focal slowing
+IMPRESSION:  This EEG is remarkable for:  
+A breech rhythm with skull artifact at T2-T4.
+CLINICAL CORRELATION:  No epileptiform features were observed.  Despite the history described above, this is a quite unremarkable EEG.

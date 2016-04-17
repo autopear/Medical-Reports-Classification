@@ -1,0 +1,15 @@
+MEDICATIONS: Zofran, Keppra, Dilantin, Pantoprazole, Lorazepam, Insulin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. The patient is somewhat 
+somnolent. 
+DESCRIPTION OF THE RECORD: As the tracing opens the patient is in stage 2 sleep 
+with abundant beta frequency activity and low voltage vertex waves, posts and spindles. 
+Arousals are characterized by an increase in background theta. Maximal wakefulness is 
+never achieved. 
+HR: 90 bpm and irregular 
+IMPRESSION: Abnormal EEG due to: 
+1. Background slowing in limited wakefulness 
+CLINICAL CORRELATION: In this individual with a subdural hematoma, no 
+epileptiform features are seen and none of the typical features of a subdural hematoma 
+are identified. A clinical evaluation regarding the cause of this individual's 
+hypersomnolence is advised. 

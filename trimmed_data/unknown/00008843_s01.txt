@@ -1,0 +1,12 @@
+��
+MEDICATIONS:   Dilantin, Ativan, Aranesp,  Insulin, Heparin, ASA, Plavix, Phoslo, Cipro, Methylprednisolone, Benadryl
+Digital video EEG was performed at bedside using standard 10-20
+system of electrode placement with 1 channel EKG. The patient is intubated.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly normal.  It is one of relatively high amplitude rhythmic, sharply contoured daily with intermittent discontinuity, bursts of FIRDA and frontally predominant triphasic waves.  There are paroxysmal bursts of slowing and intermittent epochs of attenuation. Triphasic waves can  occur in brief trains. Stimulation of the patient does not impact the bursts of
+triphasic activity. The bursts of triphasic waves occur with relatively sustained bursts but without frequency evolution.  The triphasic wave bursts occurred at a periodicity of approximately 2 Hz.
+IMPRESSION:  Markedly abnormal EEG due to:
+	1.	Generalized background slowing.
+	2. 	Frontal intermittent rhythmic delta activity.
+Prominent bursts of triphasic waves with bursts of activity which may last 60
+seconds.
+	CLINICAL CORRELATION: 	These findings are relatively characteristic of metabolic encephalopathy.  No electrographic seizures were recorded.

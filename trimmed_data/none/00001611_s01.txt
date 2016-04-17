@@ -1,0 +1,28 @@
+MEDICATIONS: Tegretol, Dilantin, and Phenobarbital. 
+INTRODUCTION: Digital video EEG is performed in the Long-Term EEG Monitoring unit using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is disorganized and diffusely slow. There is 6 to 7 Hz, 40 to 60 V posterior dominant alpha rhythm with a small amount of low voltage, frontocentral beta activity.  Occasional left temporal sharp activity with focal slowing is observed.  In random sleepiness, during the night sleep stage, left temporal sharp activity was dramatically increased.  Occasional spikes, as well as rare right temporal sharp activity was also observed.    During deeper sleep stages, occasional left sharp activity and rare right temporal sharp activity can be seen.  Sleep is characterized by vertex waves, spindles, and K complexes.  Deeper sleep stages reveal synchronized delta activity with high amplitudes more than 75 V occupying half or more than half of the epoch.
+EVENTS:  No seizure events were reported, and no push button events occurred over this long-term EEG monitoring.    
+HR:  56 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Frequent, left temporal sharp activity with focal slowing.
+Occasional right temporal sharp activity.
+Long-Term Monitoring, 10/14/03 at 06:34 to 10/15/03 at 01:14
+MEDICATIONS: Dilantin and Phenobarbital. Tegretol was discontinued.
+INTRODUCTION: Digital video EEG is performed in the Long-Term EEG Monitoring unit using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is disorganized and diffusely slow. There is 6 to 7 Hz, 40 to 60 V posterior dominant alpha rhythm with a small amount of low voltage, frontocentral beta activity.  Frequent left temporal sharp activity, sometimes continuous, with focal slowing was observed in wakefulness.  In light sleep, the left temporal sharp activity sometimes appeared with spikes and was continuous with focal slowing.  Occasional independent right temporal sharp activity was also observed. In deeper stages of sleep, the independent temporal sharp activity is also seen.  Sleep is characterized by vertex waves, spindles, K complexes, and high synchronous delta activity.  
+EVENTS:  No seizures events were recorded, and no push button events occurred over this period of long-term monitoring.
+HR:  56 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Disorganized background with diffuse slowing. 
+Independent temporal sharp activity with frequent left temporal sharp activity which was continuous.
+Long-Term Monitoring, 10/15/03 at 06:47  to 10/16/03 at 08:32
+MEDICATIONS: Dilantin and Phenobarbital.  
+INTRODUCTION: Digital video EEG is performed in the Long-Term EEG Monitoring unit using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is disorganized and diffusely slow. There is 6 to 7 Hz, 40 to 60 V posterior dominant alpha rhythm with a small amount of low voltage, frontocentral beta activity. Left temporal sharp activity and occasional left temporal spike waves were observed.  The left sharp activity frequently repeated in runs, with focal slowing.  Occasionally, independent right sharp activity was also observed in the right temporal area.  The left focal features were more dramatic during sleep at night, with slow activity repeatedly appearing. Sleep is characterized by vertex waves, spindles, K complexes, and high synchronous delta activity.  
+EVENTS:  No seizure activity was recorded, and no push button events occurred during this portion of the record. 
+HR:  64 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Disorganized background with diffuse slowing. 
+	Frequent sharp or spike waves with slow activity in the left temporal region. 
+	Occasional right temporal sharp activity.
+CLINICAL CORRELATION: The focal EEG findings seen in this record may be responsible for the partial mechanism of epilepsy in this patient.  No seizure were recorded over this three-day long-term EEG monitoring. 

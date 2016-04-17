@@ -1,0 +1,9 @@
+MEDICATIONS:  Ativan 4 mg, Versed drip 160 mg, propofol,  succinylcholine,  etomidate, Dilantin 1500 mg.
+INTRODUCTION:  Digital EEG was performed in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient has been intubated and was somnolent.  Technical challenges for this EEG include problems with the electrical system utilized for the patient's hospital bed.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow, low voltage, and relatively suppressed with slower, lower voltage delta, and scant amount of beta and alpha frequency activity.  Spontaneous arousals are associated with movement artifact.  The quantity of beta activity waxes and wanes in this record and in this low voltage record, shifting asymmetries were identified.   
+Stimulation of the patient as the recording continues clearly produces  an alerting response with eye opening and rolling eye movements are noted a little bit more prominently in later sections of the record.   
+Heart rate:  120 BPM.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Replacement of normal background including low voltage, slow delta pattern.  
+Scant, frontal central fast activity.
+CLINICAL CORRELATION:  In this patient with refractory status epilepticus, the current pattern is one of pharmacologic coma.  No epileptiform features were identified. Additional EEG recording was undertaken to make certain that no epileptiform features were overlooked.

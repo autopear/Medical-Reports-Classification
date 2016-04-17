@@ -1,0 +1,10 @@
+MEDICATIONS:  Versed, phenytoin, others.
+INTRODUCTION:  Digital video EEG is performed using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.  Continuous video EEG monitoring was performed with seizure and spike detection.  No clinical or electrographic seizures were identified by the team.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates a continuous pattern.  It is slow and low voltage, relatively suppressed in the right hemisphere.  The left hemisphere is also low voltage and slow. 
+In the late hours of the 28th, early morning hours of the 29th, there are subtle underlying sharp waves noted or sharply contoured slowing in the left hemisphere at F7 and FP 1.  These are not prominent.  There is an amplitude asymmetry with slightly higher amplitude activity on the left compared to the right and a bit more theta on the left compared to the right.  There is variability in the record and some sections of the record demonstrate more significant, bilateral slowing.  By the end of the recording, the pattern on the left was improving with increasing theta
+Heart rate 72-150 BPM.
+IMPRESSION:  Markedly abnormal EEG due:
+Marked suppression of brain activity from the right hemisphere.
+A slow and suppressed pattern on the left.
+The emergence of subtle sharp waves from the left hemisphere.
+CLINICAL CORRELATION:  No seizures were noted.  This is one of several days of EEG monitoring for this individual who has now developed some subtle sharp waves on the left which may be part of the mass-effect and the impact of the stroke on the right onto the left hemisphere.

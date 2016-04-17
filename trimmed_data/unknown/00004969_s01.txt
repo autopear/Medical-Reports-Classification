@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, Librium, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with an 8 Hz posterior dominant alpha rhythm.  Generous beta is seen throughout the record.  Drowsiness is characterized by roving eye movements.  Stage I sleep is achieved for a brief period of time.  There is no intrahemispheric asymmetry.  Tactile and auditory stimulation of the patient does not elicit variability on the background.  
+HR:  112 BPM.
+	IMPRESSION: Normal EEG in wakefulness and in stage I sleep.  
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  If seizures are an important consideration, correlation with neuroimaging data is appropriate.

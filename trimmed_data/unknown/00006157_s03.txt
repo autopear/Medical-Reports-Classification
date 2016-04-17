@@ -1,0 +1,7 @@
+MEDICATIONS:  Dilantin, Keppra others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was deferred.  Photic stimulation was completed.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10.5 Hz alpha rhythm, which is present bilaterally.  The overall EEG is low voltage.  There is a small amount of subtle, underlying 3-4 Hz activity in the frontal regions.  It is present bilaterally, but is a bit more prominent on the right.  Features of drowsiness include rhythmic central theta.  The overall drowsy pattern is nearly symmetric with the emergence of lower voltage vertex waves, in stage 1 sleep and brief vertex waves and spindles in stage 2 sleep. 
+Photic stimulation elicited a driving response.  The patient was relatively drowsy and drifting in and out of stage 2 sleep during photic stimulation. 
+Heart rate 54 BPM.
+IMPRESSION:  This is a subtly abnormal EEG due to:  subtle intermittent low voltage, frontal slowing, present bilaterally, but a bit more prominent on the right 
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  Focal slowing is less prominent This is the third EEG for this individual who has been seizure free for more than 1 year.

@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm with a frequency of 10 to 11 Hz, which is reactive to eye opening.  There is a slightly increased amount of frontocentral beta.  No sleep is recorded.  Photic stimulation reveals no abnormal discharges.   
+ABNORMAL DISCHARGES:   None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Please note that if epilepsy remains a consideration, a repeated recording capturing deeper stages of sleep may aid in confirming the diagnosis.

@@ -1,0 +1,9 @@
+MEDICATIONS: Tegretol, Valproate, many others.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an intrahemispheric asymmetry.  From the right hemisphere, the overall activity is low voltage and relatively suppressed with occasional to frequent, high amplitude right temporal sharp and slow wave activity.  This is maximum at T2 or T4 depending upon the montage employed.  Epileptiform activity is identified in wakefulness and drowsiness. The left hemisphere demonstrates rhythmic background slowing with primarily a theta frequency pattern, rare left anterior temporal spike and slow wave complexes.  There is a brief portion of the record in drowsiness with a burst of arrhythmic delta activity from the left temporal region. 
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Marked intrahemispheric asymmetry with suppression on the right and high amplitude spike and slow wave activity from the right temporal region.
+Generalized background slowing.
+Rare, irregular slowing from the left hemisphere and sharp waves.
+CLINICAL CORRELATION: These features are similar to previous studies. No seizures were recorded.

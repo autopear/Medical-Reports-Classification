@@ -1,0 +1,9 @@
+MEDICATION:  Dilantin, Tylenol, others.
+INTRODUCTION: Digital Video BEG was perfom1ed in the lab using standard 10-20 system of electrode  placement  with one channel  of EKG.   The patient  is described as drowsy.
+DESCRIPTION OF THE RECORD: As the tracing begins, the BEG is relatively featureless low voltage with approximately  5 Hz theta.  As the recording continues, the record is richer in both  alpha and beta frequency  activity and there  is rhythmic  4 Hz activity noted in the right when the patient is resting quietly.  There is also some high amplitude alpha frequency  activity and there are bursts from the right occipital temporal region.  Vertex waves are seen followed immediately by arousals.
+HR:   84BPM
+IMPRESSION: Abnormal EEG due to:
+1.   Generalized background slowing
+2.   Subtle asymmetry seen in the later portions of the record with a bit more rhythmic
+4 Hz activity from the right
+CLINICAL  CORRELATION: In this individual  with a history  of stroke in the past, seizures  for 10 years  and a history of right focal features, this BEG is remarkable for more  prominent  rhythmic  features  from  the right  rather than  the  left.    In contrast  to previous BEG's, no epileptiform features were seen from the left.

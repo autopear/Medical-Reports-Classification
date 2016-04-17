@@ -1,0 +1,12 @@
+MEDICATIONS: Dilantin, Lamictal, Risperdal, and others. [PULL MEDS]
+INTRODUCTION: 24-hour continuous video EEG is performed in the Long-Term Monitoring Unit using standard 10-20 system of electrode placement with one channel of EKG. The patient has one brief, salaam event during this recording.   None of his other seizures, which are associated with more prolonged movements in his hands were identified.   
+DESCRIPTION OF THE RECORD: In the initial portions of the record, which starts on the morning of the 25th after seven brief events on the 24th, there is frequent, slow spike and wave activity of 2.5 Hz.  This is superimposed upon a background of theta.  The patient has both spike and wave activity as he is performing an activity including speaking and eating.  Drowsiness is characterized by an increase in background slowing.  Much of the record is primarily a theta pattern.  
+In sleep, the EEG demonstrates a spike and wave pattern.  There is also poly spike and slow wave activity and attenuation of the activity seen at times in sleep with poly spike and slow wave discharges and then background attenuation lasting up to 1.5 seconds. 
+EVENT SEIZURE TIME 9:13:00: The patient is slightly drowsy.  This section of the EEG differs slightly in comparison to previous studies in that there is more frequent right frontal spike and slow wave activity.  The event occurs at 9:13:44.  There is a frontally predominant spike and slow wave complex followed 1.02 seconds of lower voltage delta, although there is still some overriding faster frequency activity.  Then for a period of almost two seconds, the patient’s arms elevates, he gasps, his head comes forward, and he turns slightly to the right.  The muscle activity obscures the EEG, but there is a suggestion of slow spike and wave activity and then attenuation for approximately two seconds afterwards followed by approximately 200 msec of fast activity.  The patient subsequently arouses.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal continuous video EEG monitoring due to:
+Salaam seizure with a suggestion of attenuation and then essentially a difficult to define EEG pattern. 
+Slow spike and wave activity.
+Right frontal spike and slow wave activity. 
+Generalized background slowing. 
+CLINICAL CORRELATION: The salaam-type seizure recorded above is identical to his previous seizure in terms of behavior, but with the previously recorded seizure, it was possible to see spike and wave activity with the discharge.  

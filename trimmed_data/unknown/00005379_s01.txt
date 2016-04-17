@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab/beside? using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed, but hyperventilation was not due to the patient’s asthma.  This is an awake record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with an 11 Hz, 15 to 20 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is not achieved. Photic stimulation elicits vigorous driving at 5 Hz and faster flash frequencies.
+HR:  84 BPM.
+	IMPRESSION: Normal EEG in wakefulness. 
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record. If further characterization of this patient’s epileptic focus is needed, a repeat study could be helpful. 

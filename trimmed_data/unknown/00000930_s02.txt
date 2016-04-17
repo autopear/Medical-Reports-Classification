@@ -1,0 +1,9 @@
+MEDICATIONS: Acyclovir, Dilantin, Lorzepam,  Lovenox, Vance,  Ceftriaxone,  Insulin, zPantoprazole
+INTRODUCTION: Continuous digital EEG was performed at bedside using standard
+10-20 system of electrode placement with 1 channel of EKG. This is a 5 hour and 20 minute record. The patient is intubated in the ICU and poorly responsive.
+	DESCRIPTION OF THE RECORD:	The background EEG is markedly slow. The EEG includes a continuous, right mid to anterior temporal periodic complex with generous delta. The complex had a generous field of spread in the right temporal region, but the delta is more prominent anteriorly and the spike focus at this point is most prominent mid  temporally. The activity can be reviewed at a slower taper speed. It  does not evolve in a classic ictal pattern. It  is more of a continuous pattern. The recording is terminated in order to enable the patient to go to MRI.
+	HR:	90 bpm
+IMPRESSION: Abnormal EEG due to:
+	1. 	Continuous right anterior temporal period complexes.
+	2. 	Severe background slowing.
+CLINICAL CORRELATION:   These findings are congruent with the MRI imaging. Interestingly, the epileptiform activity and the focal slowing is more anterior temporal  at the close of the record.

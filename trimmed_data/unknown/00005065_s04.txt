@@ -1,0 +1,11 @@
+MEDICATIONS: Acetaminophen, Hydralazine, Cardizen, Lopressor, Insulin, 
+lsosorbide, Digoxin, Vancomucin, Zosyn, Dilantin, Keppra, Flagyl, Metoprplol, Zofran, 
+Glipizine, Pantoprazole 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel EKG. 
+DESCRIPTION OF THE RECORD: The patient is intubated and poorly responsive. 
+Background EEG demonstrated burst suppression pattern which is relatively 
+homogeneous. There is relatively rhythmic medium amplitude and primary theta 
+frequency activity occurring in brief bursts with periods of suppression of typically 3 
+seconds in duration. Stimulation of the patient does not activate the record. As the 
+recording continues, the suppressions increase in duration heading towards 5 seconds. 

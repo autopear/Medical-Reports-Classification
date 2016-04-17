@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. The patient ranges from being somnolent to agitated. 
+DESCRIPTION OF THE RECORD: When the patient is resting comfortably, there is a low-voltage pattern with beta and theta. There is a little bit of asymmetry with a little bit more rhythmic theta from the left. Vertex waves are noted. Irregular bursts of generalized sharply contoured delta are noted, and in these bursts there are some suspicious frontal sharp waves, right more so than the left. When the patient is unstimulated, he drifts into sleep. EKG and eye movement artifact persist into sleep. Photic stimulation does not activate the record. 
+HR: 70 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. In this challenging EEG, there are 2 areas of potential focal features. These include a little bit more rhythmic theta in the left frontal region. 
+3. Frontal paroxysmal delta which is sharply contoured. 
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function, as might be anticipated following a tonic-clonic seizure. There are some focal features with a bit more rhythmic activity on the left and a question of perhaps frontal sharp waves on the right. A follow up EEG when the patient is cooperative is suggested if additional information is needed to localize epileptiform activity. 
+ 

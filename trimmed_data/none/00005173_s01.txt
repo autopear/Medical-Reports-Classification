@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not possible. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal for a child of this age with a pattern from the right hemisphere of high amplitude rhythmic delta as well as theta. The left hemisphere demonstrates less in the way of slow, chaotic delta.  Sharp waves are identified from multiple foci, particularly the right hemisphere in the initial portions of the record with maximum in the right frontal region or central region.  There are also C4 high amplitude spike and slow wave complexes with after going slow waves. Occasional frontal sharp waves are identified from the left.  These occur with the patient awake, laughing, and comfortable.  The typical developmental milestones for a child of this age are absent.  
+The epileptiform activity overall is high amplitude.  The child becomes somewhat drowsy and there are bursts of frontally predominant 2.5 Hz spike and slow wave complexes.  These may be maximum on the right; some are relatively symmetric in the frontal regions.  Other features of drowsiness include again a prominence of focal features from the right hemisphere.  
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+The absence of normal background for a child of this age with replacement with a slower pattern.
+In this abnormal background, superimposed right focal slowing.
+Multiple different epileptiform discharges including slow spike and wave activity from the frontal regions, as well as focal epileptiform activity from both hemispheres, right greater than left. 
+CLINICAL CORRELATION: This tracing supports a diffuse disturbance of cerebral function.  The EEG activity may be seen in epilepsy syndromes such as Lennox-Gastaut syndrome or other seizure types.  No seizures were recorded.  

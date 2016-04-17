@@ -1,0 +1,15 @@
+MEDICINES: 
+Dilantin, Ativan, amiodarone, others. 
+INTRODUCTION: 
+Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one 
+channel of EKG. The patient is intubated. 
+DESCRIPTION OF RECORD: 
+Background EEG demonstrates a low voltage, continuous pattern with low voltage frontal theta. There is some slow 
+rolling eye movements. Arousals are characterized by increasing muscle artifact. Towards with close to the records, stimulation produces a bit more artifacts. 
+Heart rate 60 BPM. 
+IMPRESSION: 
+Markedly abnormal EEG due to: 
+1. Marked background slowing. 
+Paucity of normal epileptiform waves. 
+CLINICAL CORRELATION: 
+No epileptiform features were identified. The findings described above should be placed in the appropriate clinical context given the patient's severity of medical illness. 

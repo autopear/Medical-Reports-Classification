@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  The background EEG is well organized with a low voltage 11 Hz alpha rhythm.  There are some very subtle, focal findings with subtle underlying low voltage delta in the right central temporal region.  In addition, on rare occasions there is attenuation of the alpha on the right. As the patient becomes a little drowsier, there is a little bit more rhythmic slowing in the right hemisphere, both at C4/T4 and T2.  EKG artifact is also picked up in this region.  Stage II sleep includes vertex waves and spindles.  On occasion the vertex waves have a field just to the right of the midline. Photic stimulation is performed while in the patient is in stage II sleep and does not activate the record. 
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+1. Subtle focal slowing in the right hemisphere, primarily in drowsiness.
+2. Rare attenuation of the alpha on the right.
+3. Slightly asymmetric vertex waves.
+CLINICAL CORRELATION:  These findings may be correlated with the patient's history of skull defect.  Of note, his head trauma resulted in loss of hearing to the left ear, but the focal features were identified only on the right.
+DER/8/3/2012 9:02 AM

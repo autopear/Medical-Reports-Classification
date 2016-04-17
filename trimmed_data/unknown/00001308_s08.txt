@@ -1,0 +1,7 @@
+MEDICATIONS :  Dilantin, Neurontin, and Seroquel.
+INTRODUCTION : Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakeness , there is a 10.5 Hertz, 30 microvolts. Posterior dominant rhythm with a small amount of low voltage, frontocentral beta.
+Drowsiness is characterized by slow rolling eye movements. The patient is recorded sitting and has difficulty drifting off to sleep. She slumps forward in the chair as she tries to drift off to sleep.	Photic stimulation elicits brief bilateral driving with photoelectric artifact.
+HR:	84 bpm
+IMPRESSION: Limited EEG in wakefulness and brief drowsiness but normal.
+CLINICAL CORRELATION:	No focal nor epileptiform features are observed.  Normal EEG. Does not exclude the diagnosis of epilepsy. A repeat study a.Ad sleep is advised.

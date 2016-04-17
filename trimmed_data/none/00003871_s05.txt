@@ -1,0 +1,8 @@
+MEDICATIONS: Carbamazepine and Coumadin.  
+INTRODUCTION: Continuous video EEG monitoring is performed using standard 10-20 system of electrode placement with one channel of EKG. The patient experienced no events during the first 48 hours.  A provocative test using hyperventilation is performed.  This is an awake and asleep record.   
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and fairly well organized. There is a 9 Hz, 30 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  When the patient becomes drowsy, small amounts of increased theta activity are seen in the background.  Occasionally, there are bursts of rhythmic, frontally predominant slowing.  In the evening, sleeping is evidenced by vertex waves, spindles, and K complexes. Stage III sleep is achieved. 
+EVENTS: No events or seizure activity were recorded during this long-term monitoring. 
+EVENT: Provocation with hyperventilation is performed at 10:36 with good effort.  She remains awake with no complaints of being uncomfortable or change in behavior or awareness.  During hyperventilation there is a mild increase in the amplitude and a small increase in theta activity in the background. 
+HR:  72 BPM.
+	IMPRESSION: Normal awake and asleep EEG.
+CLINICAL CORRELATION: No seizures, epileptiform features, or behavioral changes were identified during this two-day long-term EEG monitoring.  However, normal EEG does not exclude the diagnosis of epilepsy.  If epilepsy is a clinical concern, a repeat EEG in the future may be helpful.

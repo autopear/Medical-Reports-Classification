@@ -1,0 +1,7 @@
+MEDICATIONS: Ativan, Dilantin.
+INTRODUCTION: Digital  video EEG  is performed  in the  lab  using  standard  10-20 system of electrode placement  with one channel of EKG. This is an asleep record.
+DESCRIPTION OF THE  RECORD: Much of the record includes  stage II sleep  with vertex waves, spindles,  K complexes, and POSTS.  Brief arousals are characterized by a
+10 Hz posterior  dominant  rhythm.   Photic stimulation  is performed  while  the patient is asleep;  however,  despite  this  fact,  there  is  a  scar1t d1iving response   at  faster  flash frequencies,  as well as brief artifact in the right temporal electrodes.
+HR:  84BPM.
+IMPRESSION: EEG within normal limits primarily in stage II sleep.
+CLINICAL CORRELATION: No focal or epileptiform features were identified  in this record. If additional evaluation is needed, a repeat EEG is recommended.

@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, Penobarbital, Depakote, Nexium
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic simulation is performed. There is no hyperventilation.
+DESCRIPTION OF THE RECORD: In wakefulness the background EEG includes an 8.5 Hz alpha rhythm of 40 mcV with a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by slow rolling eye movements. Hyperventilation produces minimal slowing. heart rate 66 BPM. 
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal nor epileptiform features are observed in this EEG. Normal EEG does not exclude a diagnosis of epilepsy. 
+ 

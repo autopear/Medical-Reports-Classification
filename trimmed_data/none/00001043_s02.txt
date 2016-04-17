@@ -1,0 +1,16 @@
+MEDICATIONS:  Famotidine, Lisinopril, Lorazepam, Metformin, Phenytoin, Dilantin, Sertraline,Tipramine.
+REASON FOR EEG:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The recording opens to a diffusely background with an asymmetric posterior dominant rhythm which is not clearly seen on the right occipital region, but seen on the left with a frequency of at best 7 Hz and 20-40 microvolts amplitude which has reacted to eye opening.  Some frontocentral beta is seen.  Wakefulness and sleep are recorded stage I.  
+Activating procedures including photic stimulation produced no abnormal discharges.       
+ABNORMAL DISCHARGES:
+Focal slow wave seen at T3 at 2 to 4 Hz almost continuously. 
+Asymmetric lack of posterior dominant rhythm on the right. 
+Generalized low waves at 5 to 7 Hz seen almost continuously.  
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left midtemporal focal slow waves. 
+Lack of posterior dominant rhythm in the right hemisphere. 
+Generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left midtemporal region, which is nonspecific with regards to etiology.  In addition, the lack of posterior dominant rhythm and low amplitude on the right could be seen with cortical injury in that region.  Lastly, there is evidence of diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges are clearly seen.

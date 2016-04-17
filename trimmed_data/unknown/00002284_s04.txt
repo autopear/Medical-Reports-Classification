@@ -1,0 +1,15 @@
+	
+MEDICATIONS:  Dilantin, Keppra, Risperdal, donepezil, simvastatin, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation are performed.  Hyperventilation was not possible.  This is an awake and asleep record.
+TECHNICAL:  No significant issues.
+DESCRIPTION OF THE RECORD:  The overall background in maximal wakefulness includes a glimpse of a 9 HZ rhythm but with generous data.  Focal slowing is noted, most particularly in the left mid temporal region with some rhythmic and arrhythmic mixed theta delta in the left temporal region.  In addition, in wakefulness, there are discrete left temporal sharp waves as well as TIRDA.  There is also some shifting slowing noted from the right hemisphere.  Features of drowsiness include slow rolling eye movements, attenuation of the alpha rhythm, and more significant bursts of focal slowing on the left.  The patient was transitioned in and out of a drowsy state with an increase in beta.   
+Photic stimulation elicited a level that is driving response.   
+Heart rate 78 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:  
+Left temporal focal slowing.  
+Left temporal discrete sharp waves.  
+Left temporal intermittent rhythmic delta activity.  
+Background slowing and disorganization.  
+Occasional bursts of slowing in contralateral hemisphere.
+CLINICAL CORRELATION:  This EEG is similar to a previous study which identified seizures from the left, but the overall background is, of course, markedly improved as the patient had not been in status epilepticus recently.   
+Overall, this EEG supports a focal mechanism for epilepsy on the left, but there are bihemispheric features which may represent age-related changes or bihemispheric disturbance of cerebral function.

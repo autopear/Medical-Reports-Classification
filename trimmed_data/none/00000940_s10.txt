@@ -1,0 +1,13 @@
+MEDICATIONS:  Dilantin, Depakote, Zonegran.
+REASON FOR STUDY:  Refractory epilepsy.
+INTRODUCTION:  Digital video long-term EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9 to 10 Hz which is reactive to eye opening.  The patient is recorded during wakefulness and sleep.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen frequently at F8/T4, at times in rhythmic runs that last for minutes.  There is occasional to rare F7/T3 sharp waves seen also in wakefulness and sleep.  
+Focal slow waves seen over F8/T4, at times also in rhythmic runs and infrequently over F7/T3. 
+SEIZURES:  No seizures were captured during the entirety of day #1 through day #4 of admission.
+IMPRESSION:  Abnormal EEG due to: 
+Frequent right anterior temporal sharp waves and slow waves. 
+Occasional left anterior temporal sharp waves and slow waves.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization related epilepsy with seizures possibly arising from either anterior or temporal lobe.  No seizures were captured during this long-term monitoring.

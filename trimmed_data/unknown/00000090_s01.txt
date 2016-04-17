@@ -1,0 +1,8 @@
+MEDICATIONS: Morphine, Dilantin, Tegretol, Vancomycin. 
+INTRODUCTION: Digital video EEG is performed at the beside in the ICU with standard 10-20 system of electrode placement with one channel of EKG. The patient is obtunded in the ICU.
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is positioned with his head away from the camera and appears to be asleep.  The EEG is diffusely slow with rhythmic theta and delta.  There is a breach rhythm with higher amplitude activity from the left hemisphere, particularly in the central and occipital regions.  During some portions of the record, the patient is awake and looking about.  On those occasions, rare right frontal sharp waves can be seen.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with diffuse theta and delta.
+Occasional right frontal sharp waves.
+CLINICAL CORRELATION: In comparison to previous studies, this EEG is improved and there is less epileptiform activity and the background is less suppressed.

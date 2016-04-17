@@ -1,0 +1,11 @@
+MEDICATIONS:  Topamax, Naproxen, Depakote.
+REASON FOR STUDY:  Questionable seizures.
+INTRODUCTION:  Digital video  EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 9 Hz with an amplitude of 20-50 microvolts.  There is a slightly increased amount of frontocentral beta seen more diffusely.  Sleep is characterized by stage 1 and stage 2.  Activating procedures produced no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:    None
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Please note that a normal EEG does not exclude the diagnosis of epilepsy.
+DD:02/13/2012
+DT:02/13/2012

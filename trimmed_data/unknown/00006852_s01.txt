@@ -1,0 +1,9 @@
+			
+	MEDICATIONS: 	Dilantin.
+	INTRODUCTION: 	Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were observed.
+	DESCRIPTION OF THE RECORD: 	Wakefulness demonstrates posterior dominant rhythm of 12 Hz, 30 to 50 mV. There is artifact from the patient's skull defect observed in the frontal regions, right greater than left. Hyperventilation was performed earlier on in the record producing an increase in muscle artifact and head rocking artifact. In drowsy record, there is frontal theta with some shifting asymmetries,
+a bit slower theta on the right, compared to the left. Photic stimulation elicits bilateral driving.
+HR: 96 bpm
+	IMPRESSION: 	Abnormal EEG due to:
+1. Frontal theta slower on the right compared to the left, observed in drowsiness but also in awake, photic stimulation record.
+	CLINICAL CORRELATION: 	No epileptiform features were observed in this study today. Additional, more prolonged recording additionally capturing sleep may be of use.

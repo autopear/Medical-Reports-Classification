@@ -1,0 +1,7 @@
+MEDICATIONS: Ativan, Vecuronium, Dilantin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ER using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: At the start of this record at 8:57 AM, the EEG is low voltage and suppressed.  As the recording continues, there is an increase in beta frequency activity and a small increase in theta.  The Vecuronium wears off and the patient starts to move about a bit.  Stimulation of the patient produces a small amount of low voltage theta and a small amount of beta.   By the close of the record, the patient has some eye movement and an increase in beta.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with low voltage, diffuse slowing, which makes the transition from slow delta to smaller amounts of theta and beta by the end.  
+CLINICAL CORRELATION: The features described above are non-specific, but support a dynamic processing including postictal state or the use of short-acting sedative hypnotic medications.  In comparison to previous EEGs, this study did not show right temporal focal slowing or sharp waves.  

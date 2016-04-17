@@ -1,0 +1,10 @@
+MEDICATIONS:  Propofol, Dilantin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is comatose.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a markedly abnormal background.  It is slow, relatively low voltage, featureless with bursts of frontal beta and then slow delta.  Stimulation of the patient produces scant theta.   
+HR:    120 bpm
+IMPRESSION:  Abnormal EEG due to:
+Markedly slow, low voltage pattern.
+Scant frontal delta.
+Paucity of reactivity and variability.
+CLINICAL CORRELATION:  These findings can be seen with the use of propofol.  They can also be seen in the context of severe toxic or metabolic encephalopathy.
+________________________

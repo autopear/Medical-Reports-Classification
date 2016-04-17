@@ -1,0 +1,18 @@
+MR: 24900185 
+MEDICATIONS: Dilantin, Ativan, Metformin, Advair, Albuterol. 
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. The patient is arousable. 
+DESCRIPTION OF THE RECORD: Background EEG waxes between a drowsy state 
+with some spontaneous arousals. The over all pattern is somewhat slow, but with 
+stimulation there is an alpha theta reasonably well-organized pattern. As he drifts off to 
+sleep, increasing in slowing is observed. Vertex waves are observed in stage 1 sleep. 
+Asymmetric eye artifact is observed in this individual with blindness. Electrode artifact is 
+picked up at P3. Stimulation of the patient clearly produces no learning response. 
+HR: 96 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+CLINICAL There is a suggestion, particularly in the very last page of 
+the record which is technically better, that there may be an underlying asymmetry on the 
+left with disruption of faster frequency activity in the frontal and frontotemporal regions. 
+Because of the asymmetry of the eye artifact, please repeat a study when the patient is 
+a bit more arousable, having him open and close his eyes. 

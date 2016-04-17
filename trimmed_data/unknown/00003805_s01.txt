@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Ativan, and others. 
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is intubated and ventilator dependent during the recording. 
+DESCRIPTION OF THE RECORD: The background EEG is disorganized and very attenuated.  After adjusting the sensitivity, excessive slow activity is superimposed on the background with theta and delta activity.  The posterior dominant alpha rhythm is not identified.  Instead, an increased amount of beta activity is seen throughout the tracing.  Stimulation of the patient creates positive variability and reactivity by transiently increasing the amplitude on the background.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Disorganized and attenuated background with background slowing.
+	Absent alpha rhythm.
+CLINICAL CORRELATION: This abnormal EEG pattern is indicative of a cerebral dysfunction involving both gray and white matter, as well as the central nuclei at the midline.  However, the pattern is non-specific and can be seen in patients with severe structural lesion, postictal phase, or due to medication effect.  However, no focal or epileptiform features were identified in this record.  This tracing is also not suggestive of status epilepticus.  Clinical correlation is recommended.   

@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Zonisamide, Risperdal, and many others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is modestly slow with an 8 to 9 Hz posterior dominant rhythm.  Superimposed upon this is focal slowing from the right mid and centrotemporal regions with occasional right mid-to-anterior temporal sharp and slow wave activity and rare left anterior temporal sharp waves.  Features of sleep include vertex waves as well as an accentuation of the focal slowing.  Hyperventilation produces a small increase in background slowing and slightly accentuates the focal epileptiform activity.   
+Photic stimulation does not elicit significant driving.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Focal slowing from the right centrotemporal region.
+	Primarily right anterior temporal sharp and slow wave complexes with a right to left ratio greater than 10:1. 
+CLINICAL CORRELATION: Compared to previous records for this patient, this EEG demonstrates less in the way of background slowing, which may be due to the fact that this is an outpatient rather than a postictal recording.

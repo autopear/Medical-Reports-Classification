@@ -1,0 +1,7 @@
+MEDICATIONS: Aspirin, Plavix, Lipitor, Ambien, and Coumadin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is an 8.5 Hz posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity. There is a fair amount of muscle seen in the background including as the patient drifts off to sleep.  As the patient drifts off to sleep, there are rare bursts of sharply contoured irregular theta frequency activity identified from both temporal regions, but clearly maximum on the left with a suspicious underlying sharp wave on the left.  Features of stage I sleep include vertex waves.  Photic stimulation does not activate the record.   
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG in wakefulness through stage I sleep due to:
+Two bursts of irregular, sharply contoured theta identified from the temporal regions bilaterally, maximum on the left. 
+CLINICAL CORRELATION: No seizures were recorded and the overall background is normal. The two sharply contoured bursts are of unclear clinical significance.  Correlation with imaging and history may be valuable.  

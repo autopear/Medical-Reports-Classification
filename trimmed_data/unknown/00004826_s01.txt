@@ -1,0 +1,16 @@
+MEDICATIONS: Dilantin, Ativan, Zofran, Insulin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. The patient is examined during 
+the EEG. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.5 Hz alpha rhythm 
+and a small amount of low voltage, frontal central beta activity. There is a small amount 
+of background theta. There is also some shifting slowing in this bedside recording, 
+more so on the right. Features of drowsiness, including increase in beta with brief stage 
+2 sleep, followed by arousals. POSTS are observed in sleep. 
+HR: 108 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. A small degree of background disorganization for age. 
+2. Occasional shifting and slowing, particularly in the posterior regions. 
+CLINICAL CORRELATION: No epileptiform features are observed. If epilepsy is an 
+important consideration, a repeat tracing may be performed in the lab when the patient's 
+medical condition permits. 

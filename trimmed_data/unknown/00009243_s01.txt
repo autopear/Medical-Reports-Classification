@@ -1,0 +1,10 @@
+	MEDICATIONS:	Dilantin and Ativan.
+	INTRODUCTION: 	Digital video EEG was performed at the bedside using a standard 10-20 system of electrode placement with 1 channel of EKG. The child is drowsy but over the course of the record it demonstrates increasing restlessness and purposeful movements.
+	DESCRIPTION OF THE RECORD: 	In maximal wakefulness there is a 4.5
+Hertz alpha rhythm reaching amplitudes of 75 microvolts. There is prominent, generous beta activity in the fronto-centra1 region. Over the course of the record, the EEG improves with an alpha rhythm improving from 3 Hertz to 4.5 Hertz and a decrease in bursts of delta.
+	HR: 	116 bpm
+	IMPRESSION: 	Abnormal EEG for a child this age due to:
+1. Mild background slowing.
+	2. 		Initially intermittent bursts of frontal intermittent rhythmic delta activity.
+3. Excess beta.
+	CLINICAL CORRELATION:	The background slowing is a nonspecific sign and can be seen in a postictal state, diffuse disturbance of cerebral function or medication exposure. The generous beta may be due to this patient's medications.  No epileptiform seizures are identified. These results were reported to the physician on call on September 14, 2007.

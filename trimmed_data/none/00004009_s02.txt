@@ -1,0 +1,18 @@
+MEDICATIONS: Dilantin, Keppra, Levetiracetam, Enalapril, Ecotrin, Pravastatin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel EKG. Hyperventilation was not 
+completed but photic stimulation was performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hertz posterior 
+dominant rhythm with a small amount of low voltage, frontocentral beta activity. 
+Arrhythmic delta is noted from the left mid to posterior temporal region with occasional 
+disruption of faster frequency activity. This activity typically occurs in bursts and is 
+somewhat sharply contoured and may be maximum at T3 or T5. Vertex waves and 
+posts are observed in stage 2 sleep. The focal slowing is a bit more prominent In the 
+posterior regions in sleep. Photic stimulation elicits a driving response particularly at 
+faster frequencies. 
+HR: 78 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Left mid to posterior temporal focal slowing accentuated by sleep. 
+CLINICAL CORRELATION: No sharp waves or spikes were seen. The patient's 
+previous EEGs were not available for comparison. This EEG supports a structural 
+abnormality, congruent with the patient's history. 

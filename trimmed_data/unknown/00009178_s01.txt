@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is continuous and mildly slow.  There is an 8 Hz, 40 uV posterior dominant alpha rhythm on the left and 15 uV posterior dominant alpha rhythm on the right, which attenuates with eyes opened. There is a small amount of low voltage, frontocentral beta activity.  Hyperventilation mildly increased the theta activity in the background, as well as attenuation of the alpha rhythm.  Post-hyperventilation, the patient fell asleep, which is evidenced by vertex waves, a mixed frequency of activity, as well as spindles.  The asymmetry attenuates the amplitude of the background during sleep.  Occasional focal slowing with delta activity was also seen in the O2 area.  Photic stimulation elicits driving as well as POSTS.
+HR:  66 BPM, occasionally irregular.  
+	IMPRESSION: Abnormal EEG due to:
+Mild background slowing.
+Asymmetric alpha activity.
+CLINICAL CORRELATION: This tracing is suggestive of a pathological process involving both gray and white matter.  The focal findings with the asymmetric alpha and focal slowing in the right occipital area is indicative of a structural lesion and suggests a partial mechanism for a structurally-related seizure in this patient.  Correlation with neuroimaging may be helpful.  

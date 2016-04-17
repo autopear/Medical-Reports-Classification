@@ -1,0 +1,11 @@
+MEDICATIONS:  Keppra, Vimpat, Topamax.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is somnolent.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates a slow pattern, rich in beta.  Frequent eye blink artifact is noted.  A discrete sharp wave is noted in the right temporal region.  It has a variable field and can include T2 and T4.   
+HR:    96 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Excess beta.
+Excess delta, particularly frontal delta.
+Modest shifting delta in an awake patient who is on the phone.
+Tiny, discrete temporal sharp waves noted only in the initial sections of the record.
+CLINICAL CORRELATION:  These very small polyspike discharges at T2 and T4 suggest a cortical process.  They were only seen in the beginning of the EEG.  The generalized background slowing and bursts of beta and delta may be part of the postictal state or medications used for the status epilepticus.  The markedly slow 
+background in an awake, conversant patient does, however, suggest a chronic encephalopathy.

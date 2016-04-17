@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin, Synthroid.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and sleep record in a patient with a left centroparietal craniotomy defect.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there is an 11 Hz alpha rhythm.  There is generous beta.  A prominent breach rhythm is noted in the left central region.  In addition, there is rare focal slowing in the right central region.  Prominent beta activity was identified.  Features of drowsiness included a small amount of shifting slowing, as well as theta and POSTS.   
+Vertex waves were noted in sleep. 
+Hyperventilation produces an increase in the amplitude of the background.  Photic stimulation did elicit a driving response with supra-harmonic driving.  During photic stimulation, the left central slowing was a bit more prominent.   
+Heart rate:  66 bpm.
+IMPRESSION:  This is an abnormal electroencephalogram in wakefulness through stage 2 sleep due to:
+Shifting slowing from the central regions.
+The shifting slowing in the temporal regions and a breach rhythm have been previously described and are congruent with the neurosurgical history.
+The prominent beta may be due to this patient's medications or anxiety and was previously described.  No epileptiform features have been identified in any of this patient's electroencephalograms.

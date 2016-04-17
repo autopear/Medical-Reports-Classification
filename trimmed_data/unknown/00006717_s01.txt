@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin, Hydralazine,  Labetalol.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement with 1  channel of EKG. This is a 1  hour study.
+DESCRIPTION OF THE RECORD:  As the records begin, intrahemispheric asymmetry is seen.  A  slowing of the background is seen with theta delta activity with a mix of some alpha activity seen in the right hemisphere.  In the left hemisphere regular left frontal central and parietal temporal sharp waves are seen, sometimes spreading to the right frontal region as well. Occasional triphasic waves are seen in the record. There is minimal evolution of these sharp waves seen in the left hemisphere.  Phenobarbital was given to the patient during this recording.
+	HR:	66 bpm
+IMPRESSION: Abnormal EEG due to:
+	1.		Left parietal temporal frontal central sharp  waves with spread and minimal evolution.
+	2.	Triphasic waves.
+	3.	Slowing of the background.
+	CLINICAL CORRELATION: With the start of some evolution of the left temporal sharp waves, the patient was put on long term monitoring to monitor this activity. This is a
+focus for epilepsy.

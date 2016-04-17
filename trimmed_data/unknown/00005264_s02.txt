@@ -1,0 +1,10 @@
+MEDICATIONS:  Compazine, Insulin, Albuterol, Omeprazole, Risperidone, Divalproex, Dilantin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with channel of EKG.  This is an awake and asleep record with photic stimulation.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, there are brief sections where the EEG is reasonably well organized but immediately it becomes somewhat disorganized with shifting slowing and slowing of the alpha rhythm.  There are intermittent attenuations noted bilaterally, and there are rare sharp waves noted in the right hemisphere in a sharply contoured background.  Features of drowsiness include an increase in background slowing.  Vertex waves and posts are observed.  The posts have a somewhat odd looking confirmation.  Photic stimulation elicits scant driving.  
+HR:    72 bpm.
+IMPRESSION:  Abnormal EEG due to:
+Background slowing and disorganization.
+Shifting slowing. 
+A handful of rare right-sided sharp waves.
+CLINICAL CORRELATION:  In comparison to a previous EEG of August 5, 2010, the alpha rhythm is present bilaterally.  The sharp waves are quite subtle in this record and 
+support a focal mechanism for epilepsy.  If additional information is needed, an EEG monitoring session could be obtained.

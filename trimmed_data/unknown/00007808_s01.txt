@@ -1,0 +1,6 @@
+MEDICATIONS:  Dilantin, Motrin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation and hyperventilation are performed.  In awakeness there is a low voltage, transverse posterior dominant rhythm with a small amount of low voltage front and central beta.
+		DESCRIPTION OF  THE RECORD:  Features of drowsiness include slow eye rolling movements.  In early drowsiness there is a single, left temporal benign epileptiform . transient of sleep.  Hyperventilation is performed while the patient is drifting off  to sleep and does not activate the record.  Photic stimulation elicits scant driving.	Notable in this record are:  Some electrode artifacts including muscle or pickup at T3 at the close of the record.
+	HR:	96 bpm
+IMPRESSION:  EEG within normal limits.
+CLINICAL CORRELATION:  No epileptiform features were observed in this study. There was a single, normal variant. If further characterization of this patient's background EEG is needed, a more prolonged study capturing deeper stages of sleep may be of use, although it must be noted that this patient was quite drowsy throughout the EEG although she was not able to achieve stage II sleep.

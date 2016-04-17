@@ -1,0 +1,11 @@
+MEDICATIONS:  
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system with channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is typically somewhat slow and disorganized.  In initial sections of the record, the alpha rhythm is significantly slower at approximately 8 to 8.5 Hz, but it is a bit faster at the end of the record achieving 10 Hz.  In the initial sections of the record in wakefulness lambda waves were noted and the patient drifted off to sleep, POSTS were seen.     
+Notable features in this record include sharp waves noted in the background.  The sharp waves were often occurring in clusters and may appear with a pair of left temporal sharp waves followed by right temporal sharp waves.  Hyperventilation seemed to accentuate some of the sharp waves and they were also noted as the patient drifted off to sleep.  Additional more complex sharp waves were noted.  Some of these were obscured by muscle artifact, but others demonstrated left frontal focus and there was a single burst with a bifrontal spike and wave complex.         
+Photic stimulation was performed as the patient was drifting in and out of sleep and did not significantly activate the record.   
+Heart rate 60 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+1. Unusual epileptiform activity including sharp waves which seem to start in the left temporal region and spread to the right. 
+2. A single burst of left frontal spike and wave activity. 
+3. A single burst of generalized spike and wave activity.
+CLINICAL CORRELATION:  This EEG supports more than 1 potential process for seizures.  No seizures were recorded.  The diminution of background slowing noted in the record may be due to a dynamic process such as postictal state.

@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin, Morphine, Insulin, Lovenox, Midazolam, Fentanyl
+INTRODUCTION:  Digital video EEG was performed at bedside using the standard 10-20 system of electrode placement with 1 channel EKG.  Patient is awake.
+DESCRIPTION OF THE RECORD:  The background EEG is disorganized with a 7.5 Hz alpha rhythm.  Occasional bursts of FIRDA are noted.  There is also shifting slowing noted in either hemisphere. Features of drowsiness include an increase in background slowing.   
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due to:
+Slow alpha.
+Shifting slowing.
+Frontal intermittent rhythmic delta activity.
+CLINICAL CORRELATION:  This EEG supports a diffuse disturbance of cerebral function which may be acute or chronic in nature.

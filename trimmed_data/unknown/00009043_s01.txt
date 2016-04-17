@@ -1,0 +1,8 @@
+MEDICATIONS: Zonisamide, Dilantin, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  No previous EEGs were available for comparison.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a vigorous, 9.5 Hz, 40 to 50 uV posterior dominant rhythm.  In wakefulness, and accentuated by hyperventilation, there is focal slowing from the left temporal region characterized by a mixture of rhythmic theta and smaller amounts of delta.  Mixed in with this is sharply contoured delta.  The sharply contoured delta is clearly accentuated by hyperventilation and occasional sharp waves are seen in HV followed by more clear-cut spike and slow wave activity as the patient drifts off to sleep immediately following HV. Deeper stages of sleep are not sustained.  Photic stimulation elicits brief bilateral driving. 
+HR:  99 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Focal slowing from the left temporal region.
+Associated sharp waves and spikes identified in wakefulness, hyperventilation, and early drowsiness. 
+CLINICAL CORRELATION: This tracing supports a structural or localization-related mechanism for this individual’s seizures.  Comparison with previous EEGs may be of value.  

@@ -1,0 +1,16 @@
+MEDICATIONS:  Topamax, Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional temporal and single lead EKG electrode.  The patient was recorded during wakefulness and stage I and II of sleep.  
+Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens with well-defined posterior dominant rhythm 9-12 Hz bilaterally which is reactive to eye opening.  There was a shifting and slowing throughout the EKG pattern more on the right than the left.  
+There is excessive amount of beta waves on the central leads on the right indicative of a breach  rhythm on that side.  The patient appears to go into stage I and II of sleep.  Activating procedures including hyperventilation and photic stimulation produce no abnormal discharges.
+ABNORMAL DISCHARGES:  
+Shifting and slowing more on the right side than the left.
+Breach rhythm on the right side.
+Occasional C4 sharp waves.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to
+Shifting and slowing on the right side more than the left.  
+Breach rhythm on the right side.
+Intermittent C4 sharp waves.
+CLINICAL CORRELATION:  This is an abnormal EEG due to shifting and slowing more on the right than the left with a breach rhythm indicating focal structural brain lesion consistent with a right-sided brain tumor.  Occasional C4 sharp waves could indicate epileptiform potential

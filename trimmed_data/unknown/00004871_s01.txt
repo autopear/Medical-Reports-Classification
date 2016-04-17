@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Digoxin, and Lasix.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well-organized and high amplitude with an alpha rhythm of 50 to 60 uV.  In drowsiness and in the transition to sleep, there is some subtle focal slowing picked up in the left temporal region and rare left mid-to-anterior temporal sharp waves.  Photic stimulation elicits scant driving. 
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Subtle left temporal focal slowing.
+	Rare left temporal sharp waves. 
+CLINICAL CORRELATION: Supportive of a localization mechanism of epilepsy.

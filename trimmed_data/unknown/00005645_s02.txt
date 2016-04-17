@@ -1,0 +1,7 @@
+MEDICATIONS: Metformin, Dilantin, Zocor, Simvastatin, Coumadin, Digoxin, Metoprolol, Prozac, Ambien, Xanax, Percocet, Namenda. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well-organized with a 9.5 Hz posterior dominant rhythm. There is a great deal of EKG artifact noted in the record. In addition, there is a skull defect noted in the right frontocentral region. There is a small amount of rhythmic slowing in the frontocentral region, again slightly more so on the right when compared to the left. Features of drowsiness include an increase in beta followed by slow-rolling eye movements and more of a theta frequency background. Photic stimulation elicits a driving response. 
+HR: 60 bpm 
+IMPRESSION: Mildly abnormal EEG due to: 
+1. Some rhythmic frontal slowing observed a little more so on the right than the left in the context of a craniotomy defect. 
+CLINICAL CORRELATION: These findings are similar to a previous study of July 14. No epileptiform features were identified in either EEG. If this patient is thought to have frequent seizures, EEG monitoring may be undertaken. 

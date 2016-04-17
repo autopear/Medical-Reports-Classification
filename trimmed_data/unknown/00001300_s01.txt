@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Coumadin, Hydralazine, Flexeril, others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is somewhat poorly organized and slow.  The left hemisphere demonstrates a  7 to 8 Hz, posterior dominant rhythm with left temporal wicket.  There is focal slowing identified from the right hemisphere characterized by disruption of faster frequency activity, as well as some rhythmic, more arrhythmic activity from the right frontal region.  On one or two occasions, there is sharply contoured activity from the right frontal region, but no definite sharp or slow wave activity.  There is rare, right temporal wicket.  In drowsiness, there was a single, right frontocentral sharp wave. 
+HR:  66 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing. 
+Superimposed focal slowing from the right hemisphere with focal delta, as well as disruption of faster frequency activity.
+CLINICAL CORRELATION: Wicket is a normal variant.  The focal features described above may be correlated with this patient’s history of stroke. 

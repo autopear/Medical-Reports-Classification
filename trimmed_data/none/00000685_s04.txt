@@ -1,0 +1,12 @@
+MEDICATIONS: Dilantin, Ativan, Phenobarbital. 
+INTRODUCTION: Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic 
+stimulation are performed. There is no log provided. There is no information provided as to whether or not this patient had seizures during the section of the record. 
+DESCRIPTION OF THE RECORD: As the EEG monitoring session begins, the patient 
+received 3 mg ofVersed for agitation. The initial section s of the record demonstrate low voltage beta pattern. As he recording continues, the patient Is increasingly agitated, sitting up, moving about. The seizures detected are mostly muscle or agitation. This is a technically challenging record due to the patient's movement. Reformatting the data does not particularly help in terms of Interpreting the background. The Interpretable sections of the record demonstrate a slow pattern with beta, head rocking artifact. 
+HR: 116 bpm
+IMPRESSION: Abnormal EEG due to: 
+1. Pattern of background delta and beta. 
+2. FIRDA. 
+CLINICAL CORRELATION: No seizures were recorded, however, epileptiform activity may 
+have been overlooked in the later sections of the record due to electrode artifact. There is a suggestion particularly at 10:20 p.m. with sharp waves in the right anterior temporal region. Occasional broadly contoured right anterior temporal sharp waves can be identified at 10:20 p.m. but additional epileptiform activity may have been under recognized due to the patients agitation. 
+ 

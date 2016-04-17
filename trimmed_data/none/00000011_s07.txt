@@ -1,0 +1,15 @@
+MEDICATIONS:  Simvastatin, ASA, Tamniosm
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that can only be seen over the right hemisphere that at best reaches 8 Hz with an amplitude of 20-60 microvolts, which is reactive to eye opening.  There is a lack of frontocentral beta over the left hemisphere, but is clearly seen over the right.  No normal sleep architecture is seen.  No activating procedures were performed.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen over the left hemisphere maximal at P3/T5 at 2-4 Hz with an amplitude of 20-70 microvolts. 
+In addition, there are focal sharp waves at P3/T3 and T5 intermittently.  
+In addition, mild generalized slow waves at 5-7 Hz in wakefulness seen mainly over the right hemisphere.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left hemisphere slow waves. 
+Sharp waves maximal in the parietal and posterotemporal region.  There is an associated breach in this region. 
+Generalized slow waves.
+CLINICAL CORRELATION:  This EEG is consistent with diagnosis of localization-related epilepsy with seizures likely arising from the left parietal and posterotemporal region.  There is also evidence of focal cerebral dysfunction in this region, which may be due at least in part to the known subdural and craniectomy in the past.  Lastly, there is evidence of mild diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures were seen.

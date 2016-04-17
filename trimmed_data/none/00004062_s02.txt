@@ -1,0 +1,10 @@
+MEDICATIONS:  Keppra, Versed, Ativan.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was initially quite somnolent, but was becoming more awake as the record continued.
+DESCRIPTION OF THE RECORD:  The EEG opens with a somnolent patient with a mixed frequency background.  There is an asymmetry in that the left hemisphere has a bit more faster frequency activity.  The right hemisphere has lower voltage and slow frequency activity.  Wicket was noted.  In addition, the patient also seems to have a sharp wave in the same region maximum at T1 and on occasion with an after going slow wave.  The bursts of wicket like activity from the left temporal region were noted most prominently in the initial section of the record.  As the recording continues, the patient is a bit more awake with an alpha rhythm identified and transitions in and out of sleep.  By the end of the EEG, the focal features seem to be resolving.  The patient is more clearly in stage I or stage II sleep, and there are no additional sharp waves noted.  Heart rate irregular at 72 BPM.
+IMPRESSION:  This is an abnormal EEG due to: 
+1. Left frontotemporal sharp and spikes noted early in the EEG.  
+2. Asymmetry between the 2 hemispheres, resolving over the course of the record.  
+3. No seizures were identified.  
+4. The focal epileptiform activity is in the region of the patient's previous stroke.
+CLINICAL CORRELATION:  Overall, this EEG is most compatible with a focal Mechanism for seizures.  In addition, a postictal pattern with significant improvement in the background  over time was noted.
+`

@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Valproate, Versed. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. During this portion of the record, the patient’s Versed drip is gradually reduced.  She remains intubated and comatose.
+DESCRIPTION OF THE RECORD: The background EEG continues to show a discontinuous or burst suppression pattern.  In the portions of the record with activity, there is sharply contoured, irregular alpha/beta frequency activity with an underlying epileptiform discharge in the left posterior quadrant.  This has some spread to the right.  In the overall record, there is variability with some records showing bursts of activity as long as ten seconds and others as short as three seconds with periods of suppression that is typically under five seconds in duration.  Stimulation of the patient does not activate the record.  
+HR:  56 BPM.
+COMMENTS: There are multiple computerized comments, which appear to have been elicited by accidentally pressing the command keys.  The patient remains deeply comatose and intubated throughout. 
+	IMPRESSION: Abnormal EEG due to:
+Burst suppression pattern.
+Epileptiform activity maximum from the left posterior quadrant.
+ 
+CLINICAL CORRELATION: This tracing supports a severe disorder of cerebral function.  The differential diagnosis includes a late ictal pattern versus a pattern compatible with anoxic encephalopathy.  No additional EEGs were performed given the patient’s advanced directive.

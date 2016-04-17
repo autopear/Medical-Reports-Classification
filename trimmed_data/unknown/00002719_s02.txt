@@ -1,0 +1,7 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In apparent wakefulness, the background EEG includes excessive theta. Features of drowsiness include an increase in background slowing with vertex waves.  Photic stimulation elicits scant driving. 
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG in wakefulness and sleep due to:  
+Excessively slow background.
+CLINICAL CORRELATION:  There were no epileptiform features identified.  If epilepsy is an important consideration, a follow up study capturing deeper stages of sleep is suggested.

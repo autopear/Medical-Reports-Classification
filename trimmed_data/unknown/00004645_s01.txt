@@ -1,0 +1,16 @@
+MEDICATIONS: Haldol, Cogentin, Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 
+system of electrode placement with one channel of EKG. The patient is described as 
+very agitated with continuous movements of the feet. 
+OF THE RECORD: In wakefulness, the background EEG is low 
+amplitude, reasonably well organized with a scant alpha rhythm observed. When he 
+becomes agitated, there is an increase in background slowing. The patient was 
+sedated with 2 mg of Haldol during the EEG. Photic stimulation elicits vigorous 
+bilateral driving. 
+HR: 90 bpm. 
+IMPRESSION: Abnormal EEG due to: 
+1. Increase in background slowing, primarily theta frequency activity associated with 
+agitation or administration of Haldol. 
+CLINICAL CORRELATION No epileptiform features were observed. The presence of 
+theta with agitation suggests that there may be an underlying delirium or metabolic 
+encephalopathy 

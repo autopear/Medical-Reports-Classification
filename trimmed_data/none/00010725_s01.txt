@@ -1,0 +1,9 @@
+MEDICATIONS: Lipitor, Motrin, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is somnolent and snoring. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal and irritative in morphology.  The background includes a mixed frequency pattern with theta activity, prominent arrhythmic delta activity, and some superimposed fast activity given sharply contoured activity.  There is also an irregular heart rate with a significant amount of EKG artifact.  Despite this, there are clear underlying epileptiform discharges including left mid-to-anterior temporal regions and independent discharges picked up in the right mid-temporal with a generous field of the sharp wave to the posteriotemporal region, but with a very large amplitude after going slow wave.  The arrhythmic delta activity in the record demonstrates shifting and the initial section of the record seems to be a bit more prominent on the right, but overall, despite the artifact, the asymmetry is not borne out.  There are even rare sharp waves in the left frontocentral regions.  There are occasional bursts of generalized paroxysmal slow, approximately 1 Hz delta without an underlying epileptiform discharge.   
+Stimulation of the patient produces an increase in muscle and faster frequency activity.  
+HR:  72 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:
+	Prominent background slowing with an overall sharply contoured and irregular-appearing background.
+	Epileptiform activity identified from either hemisphere including left mid-to-anterior temporal regions and right mid-to-posterior temporal regions, as well as left central. 
+CLINICAL CORRELATION: No seizures were recorded.  This EEG supports an irritative process involving either hemisphere.  Pathology involving both gray and white matter of both hemispheres should be considered.

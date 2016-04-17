@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric, continuous, and fairly well organized for age.  There is a 9 Hz, 50 V posterior dominant alpha rhythm, which is well attenuated with eyes opened.  There is a small amount of low voltage, frontocentral beta activity.  As the tracing continues, the patient fell asleep, which is evidenced by a mixed frequency of brain activity, POSTS, spindles, and K complexes.  Photic stimulation elicits driving, but no abnormal discharges.   
+HR:  96 BPM.
+	IMPRESSION: Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The POSTS seen in this record is a normal variant without clinical significance.   Normal EEG does not exclude the diagnosis of epilepsy.  If epilepsy is a clinical concern, a repeat EEG may be helpful.

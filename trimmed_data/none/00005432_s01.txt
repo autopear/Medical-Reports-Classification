@@ -1,0 +1,11 @@
+MEDICATIONS:  Insulin, Lipitor, Plavix, Aldactone, Aspirin.
+REASON FOR STUDY:  Complaints of short-term memory loss.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded while awake and drowsy.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 8 Hz, which appears to be reactive to eye opening.  The patient is recorded during wakefulness and drowsiness.  Activating procedures including only photic stimulation produce no abnormal discharges.   
+ABNORMAL DISCHARGES:  Mild excessive theta during wakefulness at 5 to 7 Hz and an amplitude of 20 to 60 microvolts.   
+HR:     60 with intermittent premature ventricular complexes seen.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Mild generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction, which is nonspecific with regard to etiology.  No seizures or epileptiform discharges were seen.

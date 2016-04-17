@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin, Keppra
+REASON FOR  STUDY:  Seizures
+INTRODUCTION:  Digital video long-term EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes. The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.  The patient's EEG was reviewed using continuous spike and seizure detection software, in addition to the patient's learned event as well as nurses' notes.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 to 10 Hz which is reactive to eye opening.  There is a mild excessive amount of beta seen throughout the recording.  The patient is recorded in wakefulness and stage I, stage II, and stage III sleep, as well as stage IV.  Activating procedures were not performed.   
+ABNORMAL DISCHARGES:   None
+SEIZURE/EVENT:  During the recording, the patient presses the alarm around 7:39 p.m. and describes that she feels like she is going to have an event.  There are no EEG changes at that time.  At 09:24:51, the patient presses the alarm and starts shaking her body, arching her back, and stretching her legs.  She lifts up the sheets at times and cannot be seen in the video.  She continues to do this for about 7 to 8 minutes until nurses come in and she is unresponsive to questions.  She remains having irregular jerking movements.  During this entire time, the EEG remains normal with no epileptiform discharges.   
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  The episode captured during this EEG had no EEG correlate, which is consistent with a nonepileptic psychogenic event.
+__________________________

@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Digoxin, Amiordarone. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake, wearing a non-rebreather facemask and coughing.
+DESCRIPTION OF THE RECORD: The patient is awake and uncomfortable.  The background includes a low voltage pattern with generous beta, a 10 Hz central MU rhythm, and a suggestion of a 9 Hz alpha rhythm in this overall low voltage record.  As the patient becomes comfortable and begins to drift off to sleep, there is a bit of arrhythmic delta from either temporal region, slightly more so on the left compared to the right.  As the patient becomes more comfortable at the close of the record, there is again some shifting arrhythmic theta or delta from the temporal regions, slightly more so from the left centrotemporal region.  
+HR:  125 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Mild excess background beta.
+Occasional left or right temporal theta/delta. 
+CLINICAL CORRELATION: In comparison to this patient’s previous record, there are no longer trains of left anterior temporal sharp waves.  The heart rate in this study is twice that seen in the previous study.  The background is overall markedly improved.  No seizures were recorded.  

@@ -1,0 +1,20 @@
+MEDICATIONS: Dilantin, Insulin, ASA, Hydralazine, Zocor, Actos, Lisinopril, Isosorbide, 
+Glipizide, Diltiazem 
+INTRODUCTION: Digital video EEG is performed in lab using standard 10-20 system of 
+electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are 
+performed. 
+DESCRIPTION OF THE RECORD: Background EEG is somewhat slow and disorganized. 
+There is an 8.5 to 9 hertz alpha rhythm identified symmetrically and bilaterally, but there is 
+excess theta seen in the background particularly from the left hemisphere. Hyperventilation 
+seem to accentuate this phenomenon. In addition, at the close of hyperventilation, there is some 
+sharply contoured slowing in the left mid to anterior temporal region. Features of drowsiness 
+include vertex waves. Photic stimulation is performed while the patient is drowsy and elicits 
+scant bilateral driving. 
+HR: 84 bpm 
+IMPRESSION: Mildly abnormal EEG due to: 
+1. Excess background theta. 
+2. Superimposed focal slowing with excess theta from the left compared to the right. 
+3. Occasionally sharply contoured slowing on the left. 
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function 
+affecting both gray and white matter. In addition, superimposed focal process on the left may be 
+considered. There was a small amount of sharply contoured slowing observed today.

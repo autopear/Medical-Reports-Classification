@@ -1,0 +1,9 @@
+MEDICATIONS: Depakote, Klonopin, Xanax, and Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is reasonably well organized with at times a posterior dominant rhythm of 9 to 10 Hz.  There is excess background theta.  During much of the time, when the patient is restless or even slightly drowsy, there is an increase in background slowing and there are some portions with a bit more arrhythmic delta or rhythmic delta from the left frontocentral region.  There is some likely breach artifact picked up close to Cz, and there are a handful of left parietal sharp waves noted in this record.  Photic stimulation elicits minimal driving.
+HR:  108 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Background slowing.
+Subtle focal features from the left in the context of a breach rhythm.
+Underlying left parietal sharp waves. 
+CLINICAL CORRELATION: This EEG supports a localization-related mechanism.  The lateralizing features are not prominent in this record, but a diffuse disturbance of cerebral function is supported by this pattern.  

@@ -1,0 +1,12 @@
+MEDICATIONS:  Propofol, Fentanyl, Keppra.
+REASON FOR STUDY:  Head trauma.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with the addition of anterior  temporal single lead EKG electrodes.  The patient was recorded while unresponsive.  No activating procedures were performed.   
+TECHNICAL DIFFICULTIES:   None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no abnormal posterior dominant rhythm.  At times there is intermittent central beta seen throughout the recording.  No normal sleep architecture is seen and no activating procedures were performed.  During the recording the patient was stimulated and there was transient muscle artifact seen after the stimulation, but no clear change in the electrocerebral activity.      
+ABNORMAL DISCHARGES:   
+Generalized slow waves at 2-4 Hz with an amplitude of 20-70 mV seen continuously throughout the recording.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:
+Generalized slowing.
+CLINICAL CORRELATION:  This is EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  In this patient it may be due at least in part to medication effect.  During stimulation there was some increase in muscle 
+artifact, but no clear changes in the cerebral waveforms.  No seizures or epileptiform discharges were seen.

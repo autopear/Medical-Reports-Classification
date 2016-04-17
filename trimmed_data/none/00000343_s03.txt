@@ -1,0 +1,4 @@
+MEDICATIONS: PHT
+INTRODUCTION: Continuous video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. No seizures were identified in this section of the record. 
+RANDOM WAKEFULNESS AND SLEEP: In wakefulness, the background EEG is well organized with a 10 Hz, 30 V posterior dominant rhythm.  There are occasional spike and slow wave complexes identified in wakefulness, although there is a fair amount of eye movement artifact.  In wakefulness and occasionally in sleep there is rhythmic 3 to 5 Hz activity in the temporal regions, particularly at T2.  In sleep, there is intermittent, focal slowing and sharp waves from the right anterior temporal electrode. 
+HR:  80 BPM.

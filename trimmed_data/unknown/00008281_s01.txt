@@ -1,0 +1,8 @@
+MEDICATIONS: Decadron, Dilantin, Zofran. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  The patient is awake and/or drowsy 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an intrahemispheric asymmetry.  The right hemisphere is somewhat slow and disorganized, but there is a discernable 8 to 9 Hz posterior dominant rhythm identified in a background with some excess theta and delta.  The left hemisphere demonstrates a breach rhythm with higher amplitude, arrhythmic delta activity on the left.  This activity is most prominent in the frontotemporal regions.  In addition, disruption of faster frequency activity is identified.  As the patient becomes drowsy, the intrahemispheric asymmetry becomes more marked with prominent drop-out of faster frequency on the left compared to the right.  At times, there is some sharply contoured slowing, but there are no definite sharp waves or spikes. 
+HR:  70BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Continuous left frontotemporal delta with disruption of faster frequency activity.
+	A moderate degree of background slowing from the right hemisphere with an interesting pattern, occasionally with the patient demonstrating snoring and very brief arousals from the right hemisphere, with an unusual arousal pattern emerging from sleep. 
+CLINICAL CORRELATION: This EEG supports a structural or functional abnormality on the left.  

@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Ativan, Keppra, Neosynephrine 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and poorly responsive. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous pattern. Both hemispheres are slow, but the left hemisphere is primarily a mixture of theta with delta. The right hemisphere demonstrates more significant arrhythmic delta activity with a right frontal breech rhythm and broadly contoured left frontal sharply contoured delta. In some sections of the record, particularly the right frontal temporal there is a dramatic attenuation of beta frequency activity. On 1 or 2 occasions as the patient drifts off into sleep vertex waves are noted. The periodicity of the sharply contoured discharges is approximately 1 per 2 seconds. 
+HR: 100 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Marked slowing from the right. 
+2. Right frontal temporal periodic sharp activity. 
+3. Generalized slowing. 
+CLINICAL CORRELATION: This EEG supports both a diffuse disturbance of cerebral function, as well as a structural process on the right involving gray and white matter. There are periodic sharp waves, but no seizures. 
+ 

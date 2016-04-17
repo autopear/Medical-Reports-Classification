@@ -1,0 +1,14 @@
+MEDICATIONS:   Dilantin.
+INTRODUCTION:   Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, background EEG includes a 10- Hz, 50-mV alpha rhythm. Prominent eye blink artifact is observed. During hyperventilation the patient has a seizure. The seizure begins with the patient's resting comfortably just at the end of hyperventilation. It begins with a train of high-amplitude left anterior temporal spike and slow wave complexes. The technologist does not seem to have understood the EEG changes. The first spikes for the seizure are evolving at
+13:57:17. The repetitive train of high amplitude seen on spike and slow complexes is
+building up at 13:57:40. Behaviorally the first changes are that the patient becomes restless at 13:58 and she starts jiggling her left leg at 13:57:58 and is not answering at
+13:58:16. She has automatisms  of the right hand and left arm with head turning, first to
+the left and then to the right. It is more of a dystonic posture of the left hand and the automatism in on the right, but she started out with her hands in that posture. She has a circling movement of the right hand, automatic slightly circular movements of the mouth, hands and legs. She answers the tech when the tech asks "Are you okay?" She
+appears unable to speak to the tech during the later parts of the seizure, but she is
+interestingly responsive. By this point, late in the seizure, the EEG is very difficult to interpret. After the burst of muscle when she starts fiddling about, there are bursts of frontal delta. The seizure seems to be over at 13:59:27 for a total seizure duration of 2 minutes 10 seconds. The end of the seizure is bilateral, but the early portions of the seizure are exquisitely focal in nature with this train of repetitive left temporal sharp wave and then automatic behavior. Interestingly, for a patient with a left temporal seizure, she was initially unresponsive to the tech, but then later in the seizure actually was confused and could not speak but seemed to interact with the tech.
+Photic stimulation was performed at the close of the record.
+	HR: 	90 bpm
+IMPRESSION:   Abnormal EEG due to:
+1.   A left temporal lobe seizure.
+CLINICAL CORRELATION:  This EEG is diagnostic of a localization-related mechanism.

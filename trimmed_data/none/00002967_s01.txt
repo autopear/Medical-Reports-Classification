@@ -1,0 +1,9 @@
+REASON FOR STUDY:  Hypoxic injury.
+MEDICATIONS:  Insulin, aspirin, Lovenox, vitamins, Coreg, thiamine, vancomycin, Lipitor.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness.  Activating procedures included photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontocentral beta.  Overall, the patient's background is mainly in the theta frequently at 5-7 Hz and amplitude of 20-40 microvolts.  The patient does appear to be reactive to commands and there is variability in the EEG upon stimulation.  The patient did have photic stimulation which revealed no abnormal discharges.   
+Heart rate 84.
+ABNORMAL DISCHARGES:  Diffuse slow waves seen at 5-7 Hz and amplitude of 20-40 microvolts continuously throughout the recording.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to mild-to-moderate diffuse cerebral dysfunction.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild-to-moderate diffuse cerebral dysfunction, which is nonspecific with regards to etiology, but is likely related to the carbon monoxide/hypoxic injury.  No seizures or epileptiform discharges were seen.

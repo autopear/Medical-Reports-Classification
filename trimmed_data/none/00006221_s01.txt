@@ -1,0 +1,9 @@
+MEDICATIONS:  Keppra
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  There is continuous muscle artifact and movement artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  The patient has normal frontocentral beta.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.  Actually, the patient was recorded only in wakefulness.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake EEG.
+CLINICAL CORRELATION:  This is a limited normal awake EEG.  No seizures or epileptiform discharges were seen.  Please note that the patient was moving and awake throughout the recording.  If there is still a concern for epilepsy, repeated recording capturing deeper stage of sleep will helpful in elucidating the diagnosis.

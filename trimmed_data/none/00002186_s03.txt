@@ -1,0 +1,10 @@
+MEDICATIONS:  None mentioned.
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  There is continuous movement artifact throughout the recording.  The patient does not hold still, making this a very limited poor recording.
+DESCRIPTION OF THE RECORD:  The record did not reveal a normal posterior dominant rhythm or frontocentral beta.  There is a generalized slow background with no normal sleep architecture.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:  Generalized slowing at 2 to 4 Hz and an amplitude of 20 to 60 microvolts.  Please note that no clear focality could be elucidated from this limited EEG.
+SEIZURES:  None
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slowing.
+CLINICAL CORRELATION:  This limited EEG reveals evidence of generalized cerebral dysfunction, which is nonspecific in regard to etiology and may be due, at least in part, to medication effect.  No seizures or epileptiform discharges were clearly seen.

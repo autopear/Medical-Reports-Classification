@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Heparin, others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record with hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD: In the initial portions of the record, there is a marked intrahemispheric asymmetry.  From the left hemisphere, there is a 9.5 Hz, 35 V posterior dominant rhythm.  This is somewhat disrupted on the right, and the right hemisphere demonstrates disruption of faster frequency activity with arrhythmic delta activity particularly from the centrotemporal regions and T2 sharp and slow wave or spike and slow wave complexes. Hyperventilation is performed early on in the record and seems to accentuate this pattern. As the post-hyperventilation pattern resolves, the focal slowing becomes somewhat less prominent and the intrahemispheric asymmetry slightly less marked.  Later on, as the patient drifts into stage I and stage II sleep, there is again disruption of faster frequency activity particularly from the right frontal regions. Symmetric vertex waves, K complexes, and spindles are identified in stage II sleep. 
+Photic stimulation elicits brief driving bilaterally at faster flash frequencies.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Focal slowing from the right hemisphere characterized by disruption of faster frequency activity as well as focal delta and theta activity maximum in the temporal regions.
+T2 spike and slow wave complexes, which are overall high amplitude.
+ 
+CLINICAL CORRELATION: This record was compared to this patient’s five previous EEGs.  Some have demonstrated epileptiform activity on the right or left temporal regions, as well as others with bitemporal activity.  The activity in this record is much more marked on the right.  Correlation with imaging may be useful.

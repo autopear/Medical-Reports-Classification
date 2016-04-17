@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Labetalol 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is in a hard collar and intubated. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal. It is sharply contoured throughout with arrhythmic 3-5 Hz activity. There are frontal sharp waves noted some of which seem to be maximum in the left frontal region. The EEG consists of high amplitude sharply contoured activity. While the activity is bilateral there is some suggestion that it may be maximum in the left frontal region. The activity does not particularly wax and wane. During the EEG no clinical signs or symptoms are noted. Ativan is given during the EEG. The Ativan clearly reduces the epileptiform activity identified diffusely. Review of the video, it does not appear that the patient had any clinical events during the EEG. 
+HR: 120 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. A pattern of prominent sharp waves, which seem to be maximum in the frontal 
+regions. 
+CLINICAL CORRELATION: This EEG is compatible with a late ictal pattern or a status 
+epilepticus pattern which was quite response to Ativan. 
+ 

@@ -1,0 +1,10 @@
+MEDICATIONS: Keppra, Trileptal, Depakote.
+ 
+Continuous digital video EEG monitoring was performed at bedside using 10-20 system of electrode placement with 1 channel of EKG. The patient is awake, poorly cooperative. The technologist replaces the electrodes several times. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly slow, disorganized. Limitations is animated and trying to get out of bed. There is an Increase in paroxysmal higher amplitude slowing. There is also an asymmetry with a bit more higher amplitude slowing in the right hemisphere compared to the left. There is an extraordinarily large amount of EKG artifact noted throughout. No clinical seizures were observed. As the recording continues, despite the EKG artifact, there is a right anterior temporal sharp wave which can be differentiated from the patient's EKG artifact. These are seen occasionally with a high amplitude. There is a generous field of spread in the right hemisphere, including central temporal and occipital regions. 
+HR 104 bpm 
+IMPRESSION: Abnormal EEG due to╖ 
+1. Markedly abnormal background. 
+2. Intrahemispheric asymmetry with slower higher amplitude activity on the right than the left. 
+3. Sharp waves in the right hemisphere, particularly posterior temporal and central temporal. 
+CLINICAL CORRELATION: No seizures were recorded. By the end of the record the patient was more sleepy with a more of a rhythmic slow pattern. If additional information is needed, might be necessary to sedate the patient as a 1:1 and a tech on duty was utilized to try and obtain the recording that we were able to achieve. 

@@ -1,0 +1,10 @@
+MEDICATIONS: Decadron, Dilantin, Depakote, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG has significant background artifact.  The overall background is, however, disorganized with a rhythmic 7 Hz theta frequency posterior dominant rhythm and shifting arrhythmic delta activity, particularly from the left.  There are also occasional bursts of rhythmic frontally predominant delta. 
+	Features of sleep include drop-out of the muscle artifact and an increase in background delta. In the sleep section of the record, there is a bit more arrhythmic delta activity in the left posterior temporal region.  
+HR:  78-96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing. 
+Poor organization. 
+Shifting slowing with at least some localization in the left posterior quadrant in sleep.
+CLINICAL CORRELATION: While no epileptiform features were identified in this record, this EEG supports a diffuse disturbance of cerebral function and consideration for a process involving both hemispheres is appropriate. 

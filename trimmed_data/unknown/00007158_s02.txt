@@ -1,0 +1,7 @@
+MEDICATIONS: Fioricet, Metochlorpramide, Norvasc, HCTZ. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is a 10 Hz, 30 uV posterior dominant rhythm.  A breach rhythm is identified with higher amplitude activity from the left temporal region than the right.  In drowsiness, the breach rhythm becomes prominent and the focal slowing becomes more prominent.  Intermittent subtle theta is seen from the left temporal region.  Features of state II sleep include spindles and vertex waves, as well as accentuation of the focal slowing.  Photic stimulation elicits minimal driving.  
+HR:  68 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Left temporal focal slowing characterized by theta and a small amount of delta waves.  
+CLINICAL CORRELATION: This EEG is consistent with a structural abnormality in the left hemisphere.  No epileptiform features were identified in this record.  

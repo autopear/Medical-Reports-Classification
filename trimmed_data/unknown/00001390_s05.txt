@@ -1,0 +1,16 @@
+MEDICATIONS: Prednisone, Keppra, Dilantin, Bactrim, Fluconazole, Insulin, Flagyl, 
+Nystatin, Sirolimus, Zofran, Vancomycin, Pantoprazole, Ursodiol, Fentanyl 
+INTRODUCTION: Digit al video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. The patient is awake and 
+moving about. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous 
+pattern in an awake adult with generous rhythmic theta and smaller amounts of delta. 
+The patient is a wearing a face mask and is uncomfortable. There is occasional FIRTA. 
+As he starts to get drowsy there is an increase in the beta. 
+HR: 96 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. A pattern of generalize d rhythmic slowing. 
+CLINICAL CORRELATION: These findings are nonspecific, but they are most 
+compatible with a toxic or metabolic encephalopathy. There were no epileptiform 
+features noted. 
+ 

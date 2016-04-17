@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Depakote.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is a mostly drowsy record in an agitated patient.
+DESCRIPTION OF THE RECORD: The patient is drowsy throughout the record.  He fluctuates between a drowsy and agitated pattern.  The overall background is rhythmic, 4 to 7 Hz activity with a suggestion of an 8 Hz posterior dominant rhythm.  Agitation is associated with an increase in background beta activity.  There are occasional shifting asymmetries with somewhat slower theta activity seen from the right frontocentral region more so than the left.  Drowsiness is characterized by attenuation of 7 to 8 Hz activity with a more low voltage featureless pattern.  Photic stimulation elicits scant driving.
+HR:  70 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Shifting arrhythmic slowing seen intermittently in the record more so from the right hemisphere than the left.
+CLINICAL CORRELATION: In comparison to a previous EEG, this study did not identify epileptiform activity.  This record is not as slow as the study performed last month for the same condition. 

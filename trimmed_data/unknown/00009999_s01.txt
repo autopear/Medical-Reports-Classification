@@ -1,0 +1,9 @@
+	MEDICATIONS: 	Coumadin, Lovenox, Lasix, Morphine, Isosorbide, Nexium, Simvastatin, K-Dur, Digoxin, Senna and Dilantin.
+	INTRODUCTION: 	Digital video EEG is performed at the bedside using the standard 10-20 system of electrode placement with 1 channel of EKG. This recording was performed 1 day after her intracerebral hemorrhage.
+		DESCRIPTION OF THE RECORD: 	There is a great deal of 	muscle artifact in the record. The patient is biting down on her endotracheal tube during the recording. When the muscle artifact decreases, the background is slow and disorganized with more prominent arrhythmic delta on the left. Despite the muscle artifacts, there are rare T1 sharp waves as well as rare T5 sharp waves.
+	HR: 	72 bpm
+IMPRESSION:
+1. Abnormal EEG due to background slowing and disorganization.
+2. Superimposed arrhythmic delta.
+3. Left temporal sharp waves.
+	CLINICAL CORRELATION: 	These findings may be compared with imaging. The left temporal sharp waves suggest a predisposition to seizures.

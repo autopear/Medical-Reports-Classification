@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10 Hz, 20 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by an increase in the amplitude of the background with a small amount of background slowing.  Features of drowsiness include an increase in background beta.  There are vertex waves and vertex waves followed by K complexes, but many of these are associated with arousals, although there is not a great deal of muscle artifact to support snoring. 
+Hyperventilation is performed with poor effort and does not activate the record. Photic stimulation elicits photoelectric artifact but also brief driving.  Immediately after photic stimulation, the patient drifts back to stage II sleep. 
+HR:  70 BPM.
+	IMPRESSION: EEG within normal limits in wakefulness through stage II sleep.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  In terms of the history described above, there are no focal features or epileptiform features.  Comparison with previous EEGs may be of use.  If this patient is experiencing frequent seizures, an additional EEG recording may be of value. 

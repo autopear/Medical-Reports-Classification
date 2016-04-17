@@ -1,0 +1,11 @@
+MEDICATIONS:  Keppra.
+REASON FOR STUDY:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with one anterior temporal electrode and EKG electrode.  Wakefulness and sleep were recorded.  Photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record showed loss of beta activity in the right frontocentral region.  There is a small amount of normal beta activity in the left frontocentral area.  The record also showed a well-defined posterior dominant rhythm at 9 to 10 Hz with 20 to 60 microvolts, which is reactive to eye movements symmetrically.  Sleep is characterized by stage I.  Photic stimulation revealed no abnormal discharges. 
+ABNORMAL DISCHARGES:  Focal slow waves, maximum on F8-T4 at 1 to 2 Hz, with 20 to 50 microvolts.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Loss of beta activity in the right frontocentral. 
+Continuous slow waves in the right frontocentral area.
+CLINICAL CORRELATION:  This EEG reveals evidence of right frontocentral cortical dysfunction which is consistent with the history of previous trauma. No seizures or epileptiform discharges were seen.

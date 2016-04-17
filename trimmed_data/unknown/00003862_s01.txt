@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and insulin.  
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient was agitated and confused.  
+DESCRIPTION OF THE RECORD: The background EEG is variable with beta or theta activity with more attenuation in the right hemisphere than the left.  There are periodic complexes of spike and wave discharges occurring at a frequency from 1.4 to 2 Hz over the right hemisphere.  The spike wave discharges also occur in wakefulness.  Several movement artifacts are seen in this record.  There is reactivity and variability in the background.
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Low voltage variable background with beta and theta activity.
+Subtle attenuation over the right hemisphere. 
+Periodic lateralized epileptiform discharges and spike wave activity maximum over the right temporal area occurring at a frequency of 1.4 to 2 Hz.  
+CLINICAL CORRELATION: This tracing is consistent with the patient’s reported finding of right hemispheric intracerebral hemorrhage and right chronic subdural hematoma. If seizures are an important consideration, a repeat tracing should be attempted.  Correlation with neuroimaging studies is appropriate.  

@@ -1,0 +1,11 @@
+MEDICATIONS:  Ativan, Protonix, Lovenox, aspirin, Dilantin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal single lead EKG electrode.  The patient was recorded while unresponsive or __________.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontocentral beta.  The background essentially consists of mainly delta frequencies maximally seen frontally at 2-4 Hz and an amplitude of 20-40 microvolts.  At times there are some more central data.  There is some intermittent burst suppression or diffuse suppression seen for 2-3 seconds.  At times, some of the wave forms acquire a more triphasic morphology.  As the record continues, by the end there is more clearly seen triphasic wave forms seen symmetrically on both sides bifrontally predominantly.
+ABNORMAL DISCHARGES:  
+Generalized slow waves at 2-4 Hz, amplitudes 20-60 microvolts with intermittent suppression and bursts of data.
+Triphasics anterior predominant seen intermittently and symmetrically in both hemispheres.
+SEIZURES:  None.
+HEART RATE:  Sixty.
+IMPRESSION:  Abnormal EEG due to generalized slowing and triphasics.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction which is nonspecific in regards to etiology.  However, the presence of triphasics suggests that the encephalopathy may be due at least in past to a metabolic effect.  No seizures or epileptiform discharges were seen.

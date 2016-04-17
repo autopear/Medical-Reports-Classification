@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Lamictal, Prozac, Ativan, others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake and conversant during the EEG.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 10 Hz posterior dominant rhythm with a generous amount of low voltage, frontocentral beta activity.  In wakefulness, there are two bursts of sharply contoured focal slowing from the left temporal region lasting approximately three seconds – in one case, with an underlying sharp wave with a generous field of spread to T1, but involving the anterior and posterior temporal regions, as well as to some extent the frontocentral regions.  Drowsiness is characterized by an increase in background beta.   Other features of drowsiness include an increase in slow rolling eye movements.  Epileptiform activity is not accentuated at that time.  
+Review of the epileptiform activity using an average reference suggests that it is mid-to-anterior temporal in maximum electronegativity.  
+HR:  100 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Rare bursts of focal slowing from the left temporal region with associated sharp waves. 
+CLINICAL CORRELATION: This EEG supports a localization-related mechanism for epilepsy.  

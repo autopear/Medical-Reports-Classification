@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes an 11 Hz alpha rhythm with a generous amount of beta activity.  The patient makes the frequent transition from wakefulness to sleep including into stage II sleep with vertex waves and spindles.  Some snore artifact is identified.  Hyperventilation does not activate the record.  POSTS are seen in later stages of sleep.  Photic stimulation is performed while the patient is in stage II sleep and does not activate the record.  
+HR:  60 BPM.
+	IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy.  

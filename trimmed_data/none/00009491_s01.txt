@@ -1,0 +1,7 @@
+MEDICATIONS:  Aspirin, Plavix, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient was intubated and unresponsive.
+DESCRIPTION OF THE RECORD:  The background EEG is slow voltage, markedly suppressed with muscle artifact.  Occasional eye blink was noted.  Tactile stimulation of the patient did not activate the record.   
+Heart rate 96 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Replacement of normal background with a very low voltage suppressed pattern.
+CLINICAL CORRELATION:  There is so little cerebral activity identified in this EEG that to more fully evaluate the scant cerebral activity identified above, a repeat tracing using a neuromuscular blocking agent, if appropriate would be needed.  In any case, this EEG recorded more than 48 hours after the patient's anoxic insult is concerning for severe CNS injury.  No seizures or epileptiform features were identified.

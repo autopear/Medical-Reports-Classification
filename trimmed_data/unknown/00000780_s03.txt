@@ -1,0 +1,15 @@
+MEDICATIONS: Vecuronium, Ativan, Dilantin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. 
+DESCRIPTION OF THE RECORD: Background EEG demonstrates generous diffuse 
+background beta activity with underlying delta. There is a small asymmetry with a bit 
+more delta in the right hemisphere compared to the left. The beta is relatively 
+symmetric. There are spontaneous arousals with muscle. Later on the record there are 
+some portions with shifting asymmetries in the beta. 
+HR: 96 to 120 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Replacement of normal background with primarily a beta frequency pattern. 
+2. Shifting delta. 
+CLINICAL CORRELATION: No epileptiform features were observed today. There is 
+evidence of arousal in this record, suggesting that this patient's pharmacologic, and 
+paralysis are wearing off. 

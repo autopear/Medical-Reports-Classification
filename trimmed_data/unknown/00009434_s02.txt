@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Keppra, also medication adherence.
+INTRODUCTION:  Digital video EEG was attempted using standard 10-20 system of electrode placement with 1 channel EKG.  The patient returned to the EEG lab.  She had removed the weave from her hair.  Impedances were good.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta.  There is a very subtle asymmetry with a bit of slowing in the central temporal region compared to the right both in hyperventilation and in transition to drowsiness.  Stage 2 sleep includes vertex waves, K complexes, spindles, and POSTs.  Photic stimulation is performed while the patient is in stage 2 sleep. 
+    66 bpm
+IMPRESSION:  Abnormal EEG due to: 
+Some subtle slowing in the left hemisphere.
+CLINICAL CORRELATION:  These findings are quite subtle and are seen only intermittently.  This is the second EEG without epileptiform activity for this young woman 
+who reports recent seizures.  More prolonged EEG recording may be necessary to capture her epileptiform focus.

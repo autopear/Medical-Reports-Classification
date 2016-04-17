@@ -1,0 +1,10 @@
+MEDICATIONS:  Serax, Lorazepam.
+REASON FOR STUDY:  History of alcohol abuse with seizure.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that is poorly defined and low amplitude at times, at best can be seen at 9 Hz.  There is a diffuse overriding beta throughout the recording.  Some normal sleep architecture, stage 1 sleep can be seen.  Photic stimulation produces no abnormal discharges.
+ABNORMAL DISCHARGES:  Rare focal slow waves seen at F7/T3.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Mild, rare left anterior temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild focal cerebral dysfunction in the left anterior temporal region, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.  The excessive beta may be likely due to the benzodiazepine use.

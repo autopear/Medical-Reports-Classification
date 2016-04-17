@@ -1,0 +1,12 @@
+ 
+MEDICATIONS: Dilantin, Phenytoin, Norvasc, Protonix, Carvedilol, Codeine, Heparin, Oxacillin, Tylenol #3 
+INTRODUCTION: Digital video EEG was performed at beside using standard 10 20 system of 
+electrode placement with 1 channel EKG. 
+DESCRIPTION OF THE RECORD: The background EEG Is diffusely slow with a mixed frequency theta-delta pattern. There is at times a 9 Hz posterior dominant rhythm and at times 
+there is an asymmetry with more disruption of faster frequency activity on the right compared to the left. Features of drowsiness include some hypersynchronous slowing. Occasional FIRDA is observed. 
+HR: 78 bpm and irregular 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Superimposed focal slowing on the right. 
+3. Disruption of the alpha rhythm on the right. 
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function as well as a focal or structural process on the right Involving gray and white matter. No epileptiform features were observed. The FIRDA noted above can be seen in the context of metabolic encephalopathy as would be the case with renal failure. 

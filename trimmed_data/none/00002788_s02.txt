@@ -1,0 +1,17 @@
+MEDICATIONS:  Keppra and Zocor.
+REASON FOR EEG:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed using the standard 10-20 system of electrode placement with one channel anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  
+No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The EEG opens to a background with a posterior dominant rhythm that best reaches 8.5 to 9 hertz but is usually in the theta range of 7-8.  It is asymmetrically slower on the right compared to the left.  
+During the recording, there is a state change, and the patient appears to be asleep, but only some normal sleep architecture is seen.  No activating procedures were performed.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen continuously at the right hemisphere P4, T6 electrodes at a frequency of 4-6 hertz and an amplitude of 20-75 microvolts.
+Infrequent sharp waves seen at P4, T6.
+Diffuse slow waves seen at 5-7 hertz.
+IMPRESSION:  Abnormal EEG due to:
+Focal slow waves in the right posterior quadrant with an associate breech.
+Infrequent sharp waves in this region in the right posterior quadrant.
+Mild excessive theta wakefulness.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction and irritability in the right posterior quadrant, which is consistent with a known history of a tumor removal, but at the same time, has a high correlation with seizures arising from 
+this region.  In addition, there is evidence of mild, diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures were seen.

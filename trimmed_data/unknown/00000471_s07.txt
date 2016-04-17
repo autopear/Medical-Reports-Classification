@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin, Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  The EEG in wakefulness includes an 8 Hz alpha rhythm with some 6 Hz theta.  As the patient transitions in and out of sleep, there are bursts of shifting slowing.  Some of this is sharply contoured.  Muscle artifact is noted in the right central region.  Prominent frontal central beta activity is noted.  Shifting slowing is noted as the patient drifts in and out of sleep. Photic stimulation elicits no significant driving response. This is a sharply contoured background, but without definitive sharp waves or spikes.  There are bursts of arrhythmic delta activity, particularly in the posterior regions.
+HR:  N/A
+IMPRESSION:  abnormal EEG due to:
+Background slowing and disorganization.
+Shifting slowing.
+CLINICAL CORRELATION:  No epileptiform features were identified today.  This remains a sharply contoured record and additional EEG recording may be obtained if the patient is having ongoing seizures.

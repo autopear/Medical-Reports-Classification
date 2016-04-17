@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Topiramate, and antibiotics. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and unresponsive. 
+DESCRIPTION OF THE RECORD: The background EEG is continuous.  There is a mixture of low voltage theta and delta.  There are bursts of lower arrhythmic delta, particularly seen in the posterior quadrants, sometimes more remarkable in the right than the left.  There is some variability in the record with some portions of the record richer in theta than others.  There are occasionally sharply contoured bursts, particularly at T6.
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Arrhythmic delta activity, particularly in the occipital regions, right greater than left.
+CLINICAL CORRELATION: This tracing differs markedly from previous studies in that the triphasic waves and PLEDS have essentially resolved.  In addition, while there is a clear burst of rhythmic delta from the right temporal region, there are no paroxysmal bursts to suggest ictal activity.  

@@ -1,0 +1,13 @@
+MEDICATIONS:  Depakote.
+REASON FOR STUDY:  Frequent seizures.
+INTRODUCTION:  Digital video long term EEG monitoring was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and drowsiness and sleep.  Activating procedures were performed at the onset of the recording, hyperventilation and photic stimulation.  Continuous spike detection software as well as seizure detection software and patient events were used to help in reviewing the EEG.
+TECHNICAL DIFFICULTIES:   None
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no posterior dominant rhythm or normal frontocentral beta.  At times there is some frontocentral beta seen diffusely.  No normal sleep architecture is seen throughout the recording.
+ABNORMAL DISCHARGES:  
+Frequent sharp waves seen at C3, P3 with a large field.  
+Generalized slow waves at 2-4 Hz with an amplitude of 20-50 microvolts.
+SEIZURES:  Multiple seizures were seen with an onset that appears to be at C3, P3 with a nicely well-formed low amplitude beta that rapidly spreads throughout the central region toward the right side and then diffusely.  The seizures appeared to evolve to delta and high amplitude sharp waves and then stop in about 20-30 seconds.  Clinically the patient's right arm becomes tonic followed rapidly by the left arm becoming tonic and raising up bilaterally.  The left could not be visualized during the recording.  The seizures were occurring, about 7 of them about every 2 hours.  The number and frequency started to improve at the end of the recording.
+IMPRESSION:  Abnormal EEG due to:  
+Frequent left parietal central tonic seizures in addition to sharp waves in that region.
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG is consistent with localization related epilepsy with multiple seizures seen arising from the left central parietal region.  In addition, there is evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology and may be due at least in part to medication effect.  These findings were reported to the primary team.

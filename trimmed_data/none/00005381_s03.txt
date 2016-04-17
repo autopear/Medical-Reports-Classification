@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Depakote, Serax, and Zyprexa. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake and occasionally agitated.   
+DESCRIPTION OF THE RECORD: The background EEG is interpretable.  There is a generous amount of muscle, but it is medium amplitude pattern with theta and low voltage, frontocentral beta activity.  There are intermittent bursts of arrhythmic, frontally predominant delta seen from either hemisphere.  Features of drowsiness include an increase in background beta activity. Deeper stages of sleep are not sustained. 
+HR:  108 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Shifting, frontally predominant delta, which becomes increasingly rhythmic as the patient becomes drowsy.
+CLINICAL CORRELATION: No seizures and no epileptiform activity was seen in this record.   This EEG supports a diffuse disorder of cerebral function effecting both gray and white matter, which may include medications, the patient’s underlying dementing illness, and/or postictal state.  

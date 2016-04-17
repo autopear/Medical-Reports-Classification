@@ -1,0 +1,7 @@
+MEDICATIONS: Ativan and Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record with hyperventilation and photic stimulation.  There is a fair amount of movement and snore artifact. 
+DESCRIPTION OF THE RECORD: In the portions of the record when the patient is not moving, the background EEG appears to be well organized with a symmetric, reactive 9 Hz, 30 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Hyperventilation is performed early on in the record, again producing a great deal of movement artifact and a small amount of background slowing but no definite focal features.  In drowsiness, there is snore artifact, but there is a suggestion of some underlying slowing in the left frontocentral region.  This is seen on rare occasions.   
+Photic stimulation is obscured by photoelectric effect artifact, but no significant driving.  
+HR:  96 BPM.
+	IMPRESSION: Technically challenging EEG, but ?left frontocentral intermittent focal slowing.  
+CLINICAL CORRELATION: Because of the degree of movement artifact and snore artifact, a follow-up study when this patient is able to sit still for a longer period of time is recommended. No epileptiform activity was seen. 

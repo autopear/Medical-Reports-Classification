@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, Abilify, Prozac, Geodon, Seroquel, Topamax, Lisinopril, Loratadine, Prilosec, Cyclobenzaprine, Prednisone, Fluoxetine, Effexor 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient has a craniotomy defect on the right. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10.5 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity. A subtle breech rhythm is identified in the right hemisphere with an increase in amplitude in that region. Drowsiness is characterized by slow-rolling eye movements. Photic stimulation elicits scant driving. Hyperventilation does not activate the record. 
+HR: 78 bpm 
+IMPRESSION: This EEG is within normal limits. 
+CLINICAL CORRELATION: No focal nor epileptiform features were observed in the record. A breech rhythm is an anticipated finding following craniotomy and in this case is a relatively subtle pattern. 

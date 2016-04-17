@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz, 30 uV posterior dominant rhythm, which is symmetric and reactive to eye opening.   Drowsiness is characterized by rhythmic theta with some occipitally predominant theta.  Hyperventilation is performed with good effort, producing a minimal amount of background slowing.  Photic stimulation elicits vigorous driving with harmonic and supraharmonic driving.
+HR:  90 BPM.
+	IMPRESSION: EEG within normal limits. 
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The generous driving response is not considered pathological.  If epilepsy is an important consideration, additional testing either capturing deeper stages of sleep or with additional activating procedures is recommended.  

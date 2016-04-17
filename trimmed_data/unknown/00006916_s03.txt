@@ -1,0 +1,25 @@
+	MEDICATIONS: 	Dilantin, Depakote, phenobarbital, insulin, digoxin, Lopressor.
+INTRODUCTION:  Continuous video EEG is performed at bedside in ICU using standard 10-20 system of electrode placement with 1 channel EKG. During the record, including on the 26th, the
+Phenobarbital was turned off.
+DESC RIPTION
+	OF THE RECORD: 	In the initial data on the 24th
+there are intermittent seizures occurring in the contexts of burst suppression. There are prolonged periods of suppression with brief seizures. However, by 16:28 the EEG is completely suppressed. This section of the record was previously dictated.
+	Additional recording after 16:37 for the following subsequent days includes the following: 	·
+October 24 to October 25: A suppressed EEG. The patient can be visualized in the unit. Technologist and nurses work with her. The background EEG remains markedly suppressed.
+October 25 to October 26: Again no definite cerebral activity is observed. The overall activity is very low voltage. Electrode artifacts and other artifacts are observed.
+There is no variability in the record, although there is some
+EKG artifact.
+October 26 to October 27: Background EEG continues to demonstrate an essentially suppressed pattern. There is some artifact picked up in the background. With the use of alternative montages the overall activity appears to be essentially artifactual.
+	MEDICATIONS:  Multiple anesthesic medication, including Propofol,_    , Dilantin 
+INTRODUCTION: Continuous digital video EEG performed 
+using standard 10-20 Hz electrode placement with l channel EKG.
+	Study from 2253 on October 23, 2008 through October 24, 2008 at
+1043.
+DESCRIPTION OF THB RECORD: Due to continuous right frontal sharp waves patient is put higher in a pentobarbital coma. 
+There seems to be more burts of right frontal sharp waves consistent with the status, but there are some seen as well on the left. 
+		
+		Pentobarbital is started at 125.	At that time an intermittent suppression pattern is seen. Periods of bursts will go from 30 seconds to 1 minute and 40 seconds. When there is a return of the burst the patient is seen to reenter a status pattern of right frontal greater than left sharp waves, which can last for 20 seconds before there is return of suppression. As the records continues you have longer periods of suppression, but as soon as the patient returns to a burst pattern, again you see the nonconvulsive status pattern of the right predominantly frontal discharges. On the right there is definitely extension of these discharges throughout the hemisphere. A heart rate 60 beats per minute.  
+IMPRBSSION: Markedly abnormal EBG due to:
+	1.	Pharmacological burst suppression pattern.
+2. Bursts of continuous sharp waves seen, right greater than left.
+		CLINICAL CORRELATION: This record is consistent with continuous status throughout the pharmacological burst suppression pattern.

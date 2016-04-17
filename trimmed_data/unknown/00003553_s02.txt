@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Keppra, Norvasc, and Dyazide.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with an 8.5 Hz, 30 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Hyperventilation is performed early on in the record and in hyperventilation there is subtle, left mid-to-anterior focal delta with some involvement into the central region.  As the patient becomes drowsy and in stage I sleep, there is again subtle focal delta from the left mid-to-anterior temporal regions with rare, sharply contoured delta at F7.  
+Photic simulation elicits brief driving with some supraharmonic driving at intermediate flash frequencies. 
+HR:  47 to 56 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Focal slowing from the left mid-to-anterior temporal regions, at times sharply contoured.
+CLINICAL CORRELATION: In comparison to a previous study, there are no left temporal sharp and slow wave complexes.  The focal slowing was previously described.  This record demonstrates a slow wave posterior dominant rhythm compared to a previous study. 

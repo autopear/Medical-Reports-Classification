@@ -1,0 +1,9 @@
+MEDICATIONS: Carnitine, Depakote, Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the unit using standard 10-20 system of electrode placement with one channel of EKG. This is an awake EEG. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal.  There are rare portions where there is a 6 Hz posterior dominant rhythm identified bilaterally, but the overall background is a mixture of theta and delta.  There are multifocal spikes and multiple unusual epileptiform patterns.  These include occipitally predominant slow spike and wave activity, right occipital spike and slow wave activity, right parietal sharp and slow wave activity, right posterior temporal or mid-temporal, as well as independent left hemispheric spike and slow wave activity.  There is occasional paroxysmal fast activity, which is maximum in the occipital or posterior regions.  Brief drowsiness is characterized by an increase in background slowing, as well as an increase in the epileptiform activity and some of the posterior fast activity. 
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Multifocal epileptiform activity.
+Slow spike and wave activity, particularly occipitally predominant spike and slow wave activity.
+Generalized background slowing.
+CLINICAL CORRELATION: No clinical seizures were recorded, although at some point, the occipitally predominant spike and slow wave activity was identified in trains up to 15 seconds.  The pattern described above is typical of that described in the literature for these types of congenital, metabolic abnormalities. 

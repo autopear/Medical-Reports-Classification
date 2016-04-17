@@ -1,0 +1,9 @@
+MEDICATIONS: Lovenox, Metformin, Plavix, Aspirin, Depakote, Pyridoxine, Metoprolol, Keppra, Labetalol. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. There is no hyperventilation or photic stimulation. 
+DESCRIPTION OF THE RECORD: The background EEG includes at times an 8.7 Hertz alpha rhythm. The overall background is relatively well organized with background theta. The patient is awake. There are occasional bursts of arrhythmic delta activity from either side but far fewer than previously noted. 
+HR: 78 bpm 
+IMPRESSION: This EEG is remarkable for: 
+1. Mild background slowing. 
+2. Excess theta. 
+3. Rare shifting slowing. 
+CLINICAL CORRELATION: In comparison to previous studies, there are no seizures, no periodic sharp waves, no focal sharp waves and the focal slowing is dramatically improved. This patient appears to have turned to the corner in terms of her status epilepticus. A follow-up study may be of interest. 

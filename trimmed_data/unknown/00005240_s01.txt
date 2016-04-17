@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Fentanyl, Ativan, Tylenol, ASA, Heparin, Lorazepam, Daptomycin, Flagyl 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is stimulated during the EEG. He is in strict isolation. Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a low voltage slow pattern. Much of the EEG includes very slow, low voltage delta and theta but some sections have a scant amount of beta and alpha frequency activity. 
+HR: 84 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Marked background slowing. 
+CLINICAL CORRELATION: The small amount of variability described above is a positive prognostic factor, but to put this record into the appropriate clinical context, it is important to know the degree of pharmacologic sedation. 
+ 

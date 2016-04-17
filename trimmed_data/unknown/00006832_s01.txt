@@ -1,0 +1,9 @@
+MEDICATIONS: Topamax, Dilantin, Synthroid, others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is appropriately organized for an individual of this age with a 9 Hz, 30 to 50 V posterior dominant rhythm.  There is a small amount of low voltage, frontocentral beta activity and a very small amount of theta.  Just prior to the initiation of hyperventilation, which occurs early on in the record, a high amplitude, left anterior temporal sharp wave is identified.  In hyperventilation, there is both generalized slowing as well as some rhythmic, sharply contoured theta activity from the left anterior temporal region, as well as left anterior temporal sharp waves.  Following hyperventilation, as the patient becomes drowsy, again there is some subtle focal slowing from the left temporal region and rare sharp waves.  Stage II sleep follows with symmetric vertex waves, K complexes, spindles, and abundant EKG artifact.  
+Photic stimulation elicits some subharmonic slowing. In addition, the left anterior temporal sharp waves also seem to be accentuated by photic. 
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Subtle left anterior temporal focal slowing.
+Left anterior temporal sharp waves, which seem to be accentuated by hyperventilation and photic stimulation.
+CLINICAL CORRELATION: This tracing supports a partial mechanism for epilepsy. While it is uncommon for a partial mechanism to be accentuated by the activity and procedures used for generalized epilepsy, this phenomenon can occur.  

@@ -1,0 +1,11 @@
+MEDICATIONS:  Versed, Keppra, fentanyl, magnesium, and many others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a diffusely slow pattern with a mixture of delta and theta.  There is an overlying asymmetry with a breach rhythm on the left, congruent with the patient's past history of subdural hematoma and craniotomy.  Rare left temporal sharp waves were noted.   
+Heart rate 108 BPM.
+IMPRESSION:  Abnormal EEG due to:  
+Generalized background slowing.  
+Shifting slowing.  
+Occasional asymmetry with greater delta on the left. 
+Rare simple left temporal sharp waves.
+CLINICAL CORRELATION:  No seizures were recorded.  The sharp waves were in the region of the patient's craniotomy.  This patient's medications and critical illness as well 
+as her past neurological history may all contribute to the pattern described above.  No seizures were recorded.

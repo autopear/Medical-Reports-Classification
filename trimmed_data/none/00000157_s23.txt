@@ -1,0 +1,7 @@
+MEDICATIONS: Keppra, Phenobarbital, Ativan. 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is awake, but confused.
+ 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a theta frequency background with a periodic sharp wave in the left hemisphere. The sharp wave is seen approximately 7-8 times per 10 seconds. Some of the sharp waves are anterior temporal in their localization, but some of them have more of a posterior temporal maximum or T5-01. The sharp waves do not evolve. 
+HR: 90 bpm 
+IMPRESSION: This EEG supports a highly irritative focus in the left temporal region, but no seizures were identified. 
+ 

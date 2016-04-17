@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION: Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation were preformed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 10 hertz posterior dominant rhythm with amplitudes reaching 70 microvolts. Although the patient is excessively drowsy, in maximal wakefulness, the EEG is somewhat  disorganized with excess background theta. As he drifts off into early drowsiness,  more marked background disorganization is observed. Although there is some head rocking artifact seen intermittently, there is also intermittent left mid temporal focal delta. Occasional left temporal sharp waves as well as left temporal spike and slow wave complexes are observed,  the majority of which have a left anterior temporal maximum, but 1 of which has a more modest central parietal spread. Hyperventilation elicits and alerting response, but does seem to accentuate some of the left temporal slowing. Photic stimulation elicits a brief driving response bilaterally.
+	HR:	66 bpm
+IMPRESSION: Abnormal EEG due to:
+1.   Intermittent left mid temporal focal delta
+2.  Background disorganization
+3.   Occasional left temporal sharp
+4.  Slow wave complexes are observed

@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in the lab using the standard 10-20 system of electrode placement and one channel of EKG.  Activating procedures included hyperventilation.
+DESCRIPTION OF THE RECORD:  This EEG in maximum wakefulness has an alpha of about 9 Hz, which is of low amplitude.   
+The patient quickly drifts off into sleep, which is characterized by slowing of the background and vortex phase. 
+Hyperventilation does not reveal any abnormalities.  The patient becomes drowsy right after hyperventilation.   
+Heart rate 66 beats per minute.
+IMPRESSION:  This is a normal awake and asleep EEG.
+CLINICAL CORRELATION:  A normal EEG does not rule out a diagnosis of epilepsy.

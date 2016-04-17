@@ -1,0 +1,10 @@
+	MEDICATIONS: 	Hydrocortisone,  Dilantin, Keppra, Zofran, others.
+	INTRODUCTION:	Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with one channel of EKG. There is no mention that the patient is twitching during the EEG. He is intubated and poorly responsive.
+	DESCRIPTION OF THE RECORD: 	Background EEG is markedly slow with a mixture of arrhythmic delta activity and smaller amounts of theta. Breech rhythm is manifested by an increase in amplitude of intermittent rhythmic theta from the right hemisphere. Shifting arrhythmic delta is identified. Spontaneous arousals are observed. When the patient is less active, there is· more and slower arrhythmic delta activity identified on the right compared to the left.
+HR: 66 b.p.m.
+	IMPRESSION: 	Abnormal EEG due to:
+	1. 		Prominence of arrhythmic delta activity from both hemispheres, right greater than left.
+2. Mixed frequency slow background with shift in asymmetries.
+	CLINICAL CORRELATION: 	No twitching was observed. This EEG supports a diffuse disturbance of cerebral function affecting
+gray and white matter, the right hemisphere more significantly  than
+the left.

@@ -1,0 +1,9 @@
+MEDICATIONS: Pentobarbital, Propofol, Dilantin.
+INTRODUCTION: Digital EEG is perfonned  at the bedside in the ICU using standard
+10-20  system of electrode placement  with one cham1el of EKG. The patient is intubated and comatose.   The patient is stimulated during the EEG.
+DESCRIPTION  OF  THE   RECORD:   The  background   EEG  is  10\v voltage   and essentially  suppressed.   There is a scant amount of low voltage, slow activity picked  up from the right hemisphere.
+HR:  72BPM.
+IMPRESSION: Abnom1al EEG due to:
+1.  Replacement  of normal background  with nearly a suppressed pattern.
+2.   A scant amotmt of cerebral  activity seen in the initial portion of the record with low voltage delta identified from the right.
+CLINICAL  CORRELATION: This EEG supports a severe disturbance of cerebral function.  Knowledge of this patient's dose of Pentobarbital may be of value.

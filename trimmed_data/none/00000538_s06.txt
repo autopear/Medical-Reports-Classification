@@ -1,0 +1,15 @@
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  A long-term EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded while slightly confused.  Activating procedures were not performed. Continuous spike wave detection as well as seizure detection software in addition to patient's notes and nurses events were used to review the EEG.
+MEDICATIONS:  Dilantin and Versed.
+TECHNICAL DIFFICULTIES: There is some intermittent Cz electrode artifact seen intermittently throughout the recording as well as A1 electrode artifact.
+DESCRIPTION OF RECORD: The record opens to a diffusely slow background with posterior dominant rhythm that at times can be seen best over the left hemisphere reaching 7-8 Hz; however, this background improves slightly over the last 10 hours and is slightly more continuous again seen best over the left hemisphere and reactive to eye opening.  There is some frontal central beta seen too especially over the left hemisphere and best at the last hours of the recording.  There is no normal sleep architecture; however, there is some wake and sleep stage changes that are noted.  Activating procedures were not performed.
+ABNORMAL DISCHARGES:  
+1. Focal sharp waves seen at C4 in a pseudoperiodic pattern occurring almost at 1-2 Hz with some intermittent attenuation continuously throughout the recording consistent with periodic lateralized epileptiform discharges (PLED's). 
+2. Focal sharp waves seen occasionally at F8/T4 in wakefulness and sleep. 
+3. Focal slow waves seen continuously at C4 at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts.
+4. Moderate generalized slow waves.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to right central periodic lateralized epileptiform discharges as well as right anterior temporal sharp waves in addition to focal slowing in the same region. There is also moderate diffuse generalized slowing.
+HEART RATE:  84.
+CLINICAL CORRELATION: This EEG reveals evidence of focal structural dysfunction and acute irritability over the right central region which is consistent with the known hemorrhage and contusion. In addition there is evidence of diffuse cerebral dysfunction, which is non-specific with regards to etiology but may be due at least in part to medication effect. No seizures were seen. These findings were reported to the primary team.
+__________________________

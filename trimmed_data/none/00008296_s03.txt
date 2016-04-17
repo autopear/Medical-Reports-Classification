@@ -1,0 +1,12 @@
+MEDICATIONS:  Gentamicin, Carvedilol, Famotidine, Flonase, Vancomycin, Lovenox, Keppra.
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed lab using standard 10-20 electrode placement system with anterior temporal and single-lead EKG electrodes.  The patient was recorded while unresponsive.  No activating procedures were performed.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a slight asymmetry of the frequency, more attenuated on the right hemisphere maximally in the temporal region.  There is no normal frontocentral beta or posterior dominant rhythm and no normal sleep architecture seen.  Activating procedure with stimulation has a slight increase in the faster frequencies to more of a theta range transiently. 
+ABNORMAL DISCHARGES:  
+Generalized slow waves at 4 to 6 Hz.
+Right hemispheric maximal temporal lobe attenuation and lack of faster frequencies. 
+SEIZURES:    None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves as. 
+Focal slowing and decrease of faster frequencies and less faster frequencies over the right hemisphere, maximal in the mid-temporal region.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right hemisphere, maximal in the mid-temporal region with additional diffuse cerebral dysfunction, which may be partly due to the intracerebral hemorrhage or medication effect.  The reactivity in the EEG suggests a better outcome.  No seizures or epileptiform discharges were seen.

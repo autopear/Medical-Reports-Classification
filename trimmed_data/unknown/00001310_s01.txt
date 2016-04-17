@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin, Fentanyl, Clindamycin, Demerol
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow.  Relatively low voltage.  It includes slow featureless delta and some more scant rhythmic theta with a few bursts of more paroxysmal rhythmic low voltage theta.  In addition, there is a periodic transient noted in the right posterior quadrant.  Sometimes this appears as a pled, other times as slow delta.  It starts at P4 and ends at O2.  It is sometimes spikier at O2 than it is at P2, but occurs first at P4.  As the recording continues, this abnormality is less prominent and appears as an infrequent, periodic delta burst. Stimulation of the patient clearly produces a reactivity with an increase in faster frequency activity.   
+HR:    104 bpm
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing. 
+A slow, periodic complex in the right occipital or parietal region which improves over time. 
+Right posterior focal slowing.
+CLINICAL CORRELATION:  This EEG demonstrates both positive and negative prognostic features for an individual 3 days post cardiac arrest.  In addition, it is not known when the patient had the seizure.  The overall pattern is one of some improvement in terms of the epileptiform activity over time suggesting that the seizure may have occurred today.  This EEG supports a diffuse disturbance of cerebral function as well as a focal disturbance in the right occipital region, but the presence of reactivity and variability are positive prognostic features after cardiac arrest.

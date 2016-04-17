@@ -1,0 +1,8 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  A routine EEG was performed using a standard 10-20 system with one anterior temporal and single lead EKG electrode. The patient was recorded in wakefulness and sleep. Activating procedures included hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded in wakefulness, stage I, stage II sleep.  Activating procedures include hyperventilation and photic stimulation.
+ABNORMAL DISCHARGES:  None, however there are 2 left temporal sharp transients that are suspicious but not clearly epileptiform.
+SEIZURES:  None.
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION:  This is a normal EEG with no seizures or epileptiform discharges that were clearly seen.  However, there are 2 left sharp transients that are suspicious for epileptiform activity.  Please note that this has been seen in the previous EEGs.

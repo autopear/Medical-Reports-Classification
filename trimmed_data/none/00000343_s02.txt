@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Continuous video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. No clinical or electrographic seizures were identified. 
+RANDOM WAKEFULNESS AND SLEEP: In wakefulness, the background EEG demonstrates a well-organized background. There are rare, high amplitude right anterior temporal spike and slow wave complexes as well as occasional focal slowing identified in wakefulness.  Wakefulness is also remarkable for a great deal of eye artifact. 
+Drowsiness is characterized by attenuation of the alpha rhythm.  The movement artifact decreases and the focal slowing and the right anterior temporal sharp and slow wave and spike and slow wave complexes are more prominent.  
+Rare (2) left anterior temporal sharp waves are identified. 
+HR:  68 BPM.

@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Keppra, Ativan, antifungals.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated, but awake and responsive to stimuli.  
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is awake with eyes opened.  The background includes a medium amplitude mixed frequency pattern, which is remarkable for slow arrhythmic delta particularly in the posterior regions and theta seen centrally and more anteriorly.  There is an occasional left mid-to-posterior temporal sharp and slow wave complex noted in wakefulness. As the recording continues, it becomes more prominently seen at T6, sometimes as often as three discharges in a ten second period.  It seems to accentuate when the patient is agitated.  
+HR:  Greater than 120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Prominent left posteriotemporal sharp and slow wave and spike and slow wave complexes. 
+	Generalized background slowing with prominent occipital delta. 
+CLINICAL CORRELATION: Compared to previous studies, this EEG is improved.  The epileptiform features were not seen in the first EEG, but this patient was heavily sedated at that time and was essentially in a pharmacologic coma.  

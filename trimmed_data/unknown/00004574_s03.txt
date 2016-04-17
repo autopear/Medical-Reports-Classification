@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Keppra, Zonisamide, Tegretol 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is somewhat drowsy. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a relatively slow and disorganized pattern bilaterally with a breech rhythm identified in the right temporal region. Arrhythmic delta activity is seen on the right. There is generous frontal beta. Photic stimulation elicits scant driving. In the transition to and from sleep, there are bursts of frontal delta, right more so than left. 
+HR: 60 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Essentially continuous arrhythmic delta activity from the right temporal region. 
+2. Generalized background slowing. 
+3. Poor organization. 
+CLINICAL CORRELATION: No epileptiform features were seen. The persistent focal slowing from the right temporal region is compatible with a structural abnormality as is stent breech rhythm. 

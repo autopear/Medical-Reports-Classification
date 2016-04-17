@@ -1,0 +1,8 @@
+MEDICATIONS: ?Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9 Hz posterior dominant rhythm.  There is a small amount of age appropriate background theta.  Drowsiness is characterized by rhythmic background slowing.  LAMBDA waves are seen in wakefulness and POSTS are seen in sleep. 
+Hyperventilation is performed with good effort and does not significantly activate the record.  Photic stimulation elicits brief  bilateral driving.  
+HR:  66 BPM.
+	IMPRESSION: This EEG is at the limits of normal due to: 
+	1.	Remarkable degree of theta identified in wakefulness.  
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record. If epilepsy is an important consideration, a follow-up study may be appropriate. 

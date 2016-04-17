@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Norepinephrine, Vasopressin, Pantoprazole 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated and poorly responsive. 
+DESCRIPTION OF THE RECORD: The background EEG is relatively low voltage, featureless with a mixture of delta but there are sections of the record with more theta frequency activity. Rhythmic eye movements are noted and are not associated with epileptiform activity. The overall pattern is one of lower more monorhythmic delta and theta, but there is a smaller amount of faster frequency activity. Stimulation of the patient produces an increase in theta frequency activity. 
+HR: 96 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Moderate background slowing, which is most prominent in the temporal and posterior regions. 
+CLINICAL CORRELATION: This EEG supports bi-hemlspheric disturbance of cerebral function. There is reactivity and variability. No epileptiform features were noted. 

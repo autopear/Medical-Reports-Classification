@@ -1,0 +1,9 @@
+REASON FOR STUDY:  Seizures.
+TECHNICAL DIFFICULTIES:  None.
+HEART RATE:  66.
+MEDICATIONS:  Valproic acid, loperamide, methocarbamol, and risperidone.
+INTRODUCTION:  A routine EEG was performed using standard 10-20 system electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  The patient is recorded in wakefulness and drowsiness.  Activating procedures included photic stimulation which produced no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+IMPRESSION:  Normal awake and drowsy EEG.
+CLINICAL CORRELATION:  This is a normal awake and drowsy EEG.  No seizures or epileptiform discharges were seen.

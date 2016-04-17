@@ -1,0 +1,20 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of 
+electrode placement with 1 channel of EKG. Photic stimulation was performed. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes generous 
+beta. There is a suggestion of an 11 Hz alpha rhythm and intermittent, rhythmic theta from the 
+right or left temporal region. There is evidence of a breech rhythm with higher amplitude activity 
+in the right frontal central region, as well as posterior temporal region. There is also occasional 
+delta noted in this region. Although it is not clear from the description that the patient 
+experienced her typical facial twitching during the EEG, twitch artifact was noted. Stage 2 sleep 
+was characterized by POSTS, vertex waves, and spindles. Photic stimulation elicits vigorous 
+bilateral driving. 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Background slowing and disorganization. 
+2. Rhythmic slowing from the right hemisphere, including frontal central and frontal temporal 
+region. 
+CLINICAL CORRELATION: This EEG supports a structural abnormality on the right. Although 
+there is no specific indication that the patient experienced her facial twitching during the EEG 
+there was a fair amount of intermittent twitch artifact. No epileptiform features were seen on this 
+EEG nor on the previous study 2 years ago. 

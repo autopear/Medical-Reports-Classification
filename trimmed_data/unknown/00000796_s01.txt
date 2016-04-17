@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Cefepime, Noreoinphrine, Heparin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and her clinical events during the EEG. and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal and, at times, even discontinuous. When she is not having a seizure, the background includes a low to medium amplitude theta pattern. The record demonstrates high amplitude spiking from the right central region with a generous field of spread. There is also some bifrontal, generalized periodic but the majority of the epileptiform activity is on the right. The activity waxes and wanes and is followed by a burst suppression pattern. 
+HR: 66 bpm 
+IMPRESSION: Abnormal due to: 
+1. Status epilepticus.
+2. Burst suppression. 
+3. Marked background slowing. 
+4. Pathological to stimulation which seems to produce some of the patient's myoclonus and twitching. 
+CLINICAL CORRELATION:  This EEG supports a highly irritative focus following anoxic injury. There is sustained rhythmic right central repetitive sharp waves and theta suggesting that there are several patterns but they are treatable patterns for this individual.

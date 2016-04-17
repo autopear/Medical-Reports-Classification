@@ -1,0 +1,10 @@
+MEDICATIONS: 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is having continuous chorea form movements. These movements partly obscure the EEG.  There does not appear to be an underlying epileptiform correlate with the movements, however.  As the EEG continues, approximately six minutes into the EEG, the movements decrease and the EEG pattern is one of diffuse background slowing with poor organization and a mixture of rhythmic delta and theta frequency activity.  There are occasional shifting asymmetries and occasionally there is higher amplitude frontally predominant delta in one hemisphere or the other.  
+As the recording continues and the patient is moving less, there is an area of focal delta identified from the left occipital/posterior temporal region.
+HR:  104 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing and poor organization. 
+Occasional focal slowing identified at the close of the record characterized by a left occipital temporal delta. 
+Choreiform movements without EEG change.
+CLINICAL CORRELATION: As discussed with the clinical team, the chorea form movements may be an adverse effect of Phenytoin infusion and did not appear to be seizures.  A follow-up EEG may be of use. 

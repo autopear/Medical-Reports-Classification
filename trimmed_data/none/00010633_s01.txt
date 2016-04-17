@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Ativan, and antibiotics. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD: The background EEG is continuous, low voltage and includes low voltage diffuse rhythmic theta and delta.  The primary frequencies in the background are 3 to 5 Hz, but there is some faster and some slower frequency activity.  Stimulation of the patient produces some rhythmic artifact, as well as attenuation of the EEG, but no clear arousal. In the initial portions of the record, there is little variability in the record, however, as the recording continues, there is an increase in  beta frequency activity, as well as some evidence of spontaneous variability and reactivity. 
+HR:  102 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Generalized background slowing.
+CLINICAL CORRELATION: With the poor reactivity and variability identified in the initial portions of the record but an improvement towards the close of the record, a dynamic process such as a metabolic or toxic encephalopathy or even postictal state may contribute to this pattern. No epileptiform features were seen and no seizures were recorded.  

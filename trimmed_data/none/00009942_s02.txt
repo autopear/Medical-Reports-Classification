@@ -1,0 +1,10 @@
+MEDICATIONS:  Hydralazine, Renagel, Diovan, Metoprolol,
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was performed.  There is no hyperventilation.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a slow and disorganized pattern. Through much of the EEG, there is a 4-7 Hz theta pattern. There are prominent bursts of shifting arrhythmic delta activity particularly in the right posterior quadrant. There are also some bursts of paroxysmal generalized delta. There are a handful of sharp waves noted in the background including right posterior temporal and right central parietal. Photic stimulation seems to elicit both bursts of generalized frontal delta and some of the focal sharp waves which today seem to involve a little bit more of the central parietal region. There is no driving response noted.   The patient is responsive during the EEG. No involuntary jerking is identified.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized background slowing. 
+Disorganization. 
+Shifting arrhythmic delta particularly in the right posterior quadrant. 
+Frontal intermittent rhythmic delta activity. 
+Sharp waves today noted in the right hemisphere posterior temporal, central parietal.
+CLINICAL CORRELATION:  The background slowing and the epileptiform activity on the right as well as the arrhythmic delta activity were previously described. No seizures were recorded. There were no involuntary movement noted. This EEG is most supportive of a metabolic encephalopathy, but a focal mechanism procedure may be considered.

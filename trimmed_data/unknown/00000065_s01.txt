@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. The patient is examined during the EEG. 
+DESCRIPTION OF THE RECORD: While resting quietly, the background EEG is low voltage relatively featureless with prominent slow activity and relative suppression at faster frequency activity in the posterior regions, right more so than left. The overall record is lacking in faster frequency activity and is primarily a delta-theta pattern with scant frontal beta. Eye movements and other movements are noted. Stimulation of the patient produces an increase in faster frequency theta as well as muscle artifact. 
+HR: 66 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Prominent background slowing. 
+2. Posterior predominant delta. 
+CLINICAL CORRELATION: There are no epileptiform features observed. The absence of epileptiform features does not exclude a diagnosis of epilepsy, but the EEG overall supports relatively severe disturbance of cerebral function. 

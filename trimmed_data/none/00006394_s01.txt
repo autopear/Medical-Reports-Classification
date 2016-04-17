@@ -1,0 +1,16 @@
+MEDICATIONS: None 
+INTRODUCTION: Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 _Channel EKG, Photic stimulation performed. 
+DESCRIPTION THE RECORD: During wakefulness, there is increased muscle 
+artifact specifically seen on the right hemisphere. The overall background is slow with a 
+posterior dominant rhythm of Hertz, about 30 microvolts. Consistently through the 
+record, the patient had continuous left temporal theta activity TIRTA. At times, left 
+temporal sharp. waves are also seen. Photic stimulation shows driving. 
+HR: 72bpm
+IMPRESSION: Abnormal EEG due to: 
+1. Slowing of the background
+2. Continuous left temporal theta activity (TIRTA). 
+3. Occasional left temporal sharp waves. 
+CLINICAL CORRELATION: The left temporal slowing is consistent with a focal area of 
+structural abnormality. The left temporal sharp waves are consistent with an area of 
+irritability and possible focus tor seizure activity. There are no seizures seen 
+on this record.

@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Mannitol, and antihypertensives. 
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is confused during the record.  
+DESCRIPTION OF THE RECORD: The background EEG is continuous, high voltage, and poorly organized.  The normal posterior alpha rhythm cannot be seen.  A 5 Hz, arrhythmic theta activity with occasional right posterior delta activity is seen.  At times, right temporal focal slowing and sometimes frontal theta activity can also be seen.  Stimulation of the patient produced eye opening and movement of her right arm with increased frequency of brain waves and an increase in the amplitude. 
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+High voltage and disorganized background. 
+Lack of alpha rhythm.
+Slow activity in the right hemisphere.  
+CLINICAL CORRELATION: The focal features demonstrated in this tracing are consistent with the pathological process of a right parietal and temporal hemorrhage in this patient.  The disorganized background with a high amplitude is suggestive of cerebral dysfunction involving both gray and white matter as well as interfering with the thalamocortical interaction.  The reactivity induced by stimulation suggests that the patient is not in status epilepticus.  If clinically indicated, a follow-up EEG may be warranted.  

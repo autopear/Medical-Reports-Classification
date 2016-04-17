@@ -1,0 +1,6 @@
+MEDICATIONS: Percocet, Heparin, and Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with an 11 Hz, 50 to 60 uV posterior dominant rhythm and a small amount of posterior slow waves of youth.  There is some head rocking artifact picked up in wakefulness and in hyperventilation. There is also focal 3-5 Hx activity seen in the left occipital region.  Drowsiness is characterized by an increase in the amplitude of the background with anterior spread of the alpha rhythm, as well as increasing synchronicity.  There are brief epochs of sleep with vertex waves followed by arousals.  Photic stimulation does not elicit a driving response.  Hyperventilation does not significantly activate the record.  
+HR:  66 BPM.
+	IMPRESSION: mildly abnormal due to subtle focal slowing- L occipital.
+CLINICAL CORRELATION: Despite the head rocking artifact, subtle focal features were identified in this record.  If epilepsy is an important consideration, a repeat tracing with more extensive sleep may be of use.  These results are similar to previous studies.

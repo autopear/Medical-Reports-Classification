@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, steroids, Lamictal, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and light sleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is symmetric and continuous.  There is a 10 Hz, 30 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  As the recording continues, low voltage focal slowing of delta activity is seen in the T3 and T5 regions.  This focal slowing is accentuated by hyperventilation.  Post-hyperventilation, the patient fell asleep.  In drowsiness, rare sharp activity and slow wave complexes are seen in the left anterior temporal region.   Scant sharp activity is also observed in the right temporal area.  Sleep is characterized by a mixed frequency activity, but deeper stages of sleep are not achieved.   
+Photic stimulation did not activate the record.  
+HR:  102 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Left temporal focal slowing.
+Sharp activity and slow wave complexes in the left temporal area.
+CLINICAL CORRELATION: The focal features observed in this tracing are consistent with the pathological changes in this patient.  In comparison to previous EEGs of November 7, 10,  and 12, 2003, this tracing continues to support a focal pathology in the left temporal area.  It also supports a partial mechanism of epilepsy in this patient.  No clinical seizures were recorded during this tracing.  

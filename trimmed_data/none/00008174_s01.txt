@@ -1,0 +1,8 @@
+REASON FOR STUDY:  Change in mental status.
+MEDICATIONS:  Heparin, benztropine, acyclovir, ceftriaxone, vancomycin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded while unresponsive.  Activating procedures were not performed.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background which is mainly in the theta range of about 5-7 Hz, but at times having intermittent bursts of delta 2-4 Hz.  There is no normal frontocentral beta seen and no normal sleep architecture.  No activating procedures were performed.  During the recording the patient is stimulated and appears to have muscle reaction and slight increase in the frequencies.
+ABNORMAL DISCHARGES:  Generalized slow waves at 5-7 Hz and amplitude of 20-60 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to mild to moderate generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild to moderate diffuse cerebral dysfunction, which is nonspecific with regards to the etiology.  No seizures or clear epileptiform discharges were seen.

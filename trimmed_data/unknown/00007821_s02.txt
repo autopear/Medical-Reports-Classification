@@ -1,0 +1,21 @@
+MEDICATIONS: Dilantin, Famotidine 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 of 
+electrode placement with 1 channel of EKG. The patient is not intubated and Is 
+DESCRIPTION OF RECORD: The background EEG demonstrates a diffusely 
+poorly organized pattern although it is relatively rich in theta and some alpha 
+The major abnormalities in this record are high amplitude left anterior temporal sharp 
+wave or spike and slow wave complexes. some of which occur in bursts and trains 
+which have clear frequency evolution. There is clear variability in the record with 
+from more of an alpha-theta frequency pattern to a slower pattern. There is also an 
+asymmetry. The activity from the left hemisphere is higher amplitude than the right. 
+HR: 100bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. High amplitude left anterior temporal sharp and slow wave and spike and slow 
+complexes occurring in bursts and trains. 
+2. Left anterior temporal arrhythmic and rhythmic delta. 
+3. Generalized background slowing. 
+4. An asymmetry with lower voltage activity on the right compared to the left. 
+Although the history suggested a right-sided cerebral 
+is prominent epileptiform activity from the left. Consideration for additional EEG or at 
+least a follow-up study in 24 hours, is suggested. 
+ 

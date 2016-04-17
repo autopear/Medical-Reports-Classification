@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record in a patient who seems exceptionally drowsy. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is a 9.5 Hz, 20  uV posterior dominant rhythm, but following testing, the patient drifts back to sleep with rhythmic background slowing.  The overall EEG is low voltage.  Photic stimulation elicits brief bilateral driving.  Hyperventilation produces rhythmic slowing with higher amplitude theta and delta frequency activity. 
+HR:  96 BPM.
+	IMPRESSION: This EEG is at the limits of normal for a subject of this age. 
+CLINICAL CORRELATION: Simply a low voltage pattern is not an abnormality for a subject of this age.  Pathological drowsiness could produce the pattern seen above with limited sustained wakefulness and a rapid transition into a theta/drowsy pattern. 

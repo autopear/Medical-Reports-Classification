@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is a 1 hour EEG. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is just slightly disorganized with a posterior dominant rhythm ranging from 8-9 Hz, generous frontal central beta activity. In addition, in the context of a frontal breech, there is a high amplitude sharp wave picked up in the central regions, but much more so on the left. This seems to be accentuated by hyperventilation. Other features of hyperventilation include a increase in background slowing. Features of drowsiness included increase in beta. The breech rhythm in the frontal regions is prominent in the transition in and out of drowsiness and in stage 1 sleep, the left frontal sharp wave can clearly be differentiated from the other normal wave forms in stage 2 sleep, including vertex wave, spindles, and K-complexes. 
+HR: 60 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Mild background slowing and disorganization. 
+2. Left central sharp wave. 
+CLINICAL CORRELATION: The breech rhythm with excessive beta is an anticipated finding following craniotomy. The left frontal sharp waves support a localization related mechanism for epilepsy. 

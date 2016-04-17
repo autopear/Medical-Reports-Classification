@@ -1,0 +1,18 @@
+MEDICATIONS: Zofran, Dilaudid, Tylenol, Lorazepam, ASA Dilantin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10 20 
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic 
+simulation are performed. 
+DESCRIPTION OF THE RECORD: The patient is awake and drowsy. The overall 
+pattern is low voltage but it is consistently lower voltage on the left compared to the 
+right. There is a glimpse of a 9 Hz posterior dominant rhythm and there is a small 
+amount of theta. 
+HR: 60bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Excess beta. 
+2. Mild excess theta. 
+3. An intrahemispheric asymmetry with an amplitude asymmetry on the left compared 
+to the right. 
+CLINICAL CORRELATION: In that this is a bedside recording, the significance of the 
+amplitude asymmetry is somewhat uncertain. A repeat tracing in the lab now that the 
+patient is extubated may provide more information. 
+ 

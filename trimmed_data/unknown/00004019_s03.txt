@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Clonidine, and insulin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and briefly asleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with a 10.5 Hz, 25 to 30 uV posterior dominant rhythm.  There is a subtle intrahemispheric asymmetry seen mainly in hyperventilation, which is characterized by drop-out of faster frequency of the left centrotemporal area and occasional left frontotemporal sharp waves.  Stage I sleep is briefly achieved and characterized by vertex waves and slow rolling eye movements.  MU rhythm is seen better in the right hemisphere than on the left.  Photic stimulation elicits a minimal driving response.  
+HR:  87 BPM.
+	IMPRESSION: Abnormal EEG due to:
+A subtle intrahemispheric asymmetry with left centrotemporal slowing in early hyperventilation. 
+Occasional left frontotemporal sharp waves, which increase in hyperventilation.  
+CLINICAL CORRELATION: This tracing supports a focal mechanism for epilepsy in this patient.  Correlation with neuroimaging studies would be valuable.  

@@ -1,0 +1,9 @@
+MEDICATIONS:  Benadryl, Klonopin, Protonix, Lovenox.
+REASON FOR STUDY:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using the standard 10-20 electrode placement system with anterior temporal electrode as well as EKG electrode.  Wakefulness and drowsiness was recorded.  Activating procedure with photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm at 9-10 Hz which is reactive to eye opening and eye closing.  There is an increased amount of diffuse beta over the entire recording.  Sleep is characterized by stage I for a limited amount of time.  Photic stimulation reveals no abnormal discharges.   
+Abnormal Discharges:  None. 
+Seizures:  None.
+IMPRESSION:  Normal awake and drowsy EEG.
+CLINICAL CORRELATION:  This EEG is normal.  Please note that the increased amount of beta is normal but may be secondary to use of benzodiazepines or other medications.  No seizures or epileptiform discharges were seen.

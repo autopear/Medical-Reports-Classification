@@ -1,0 +1,9 @@
+MEDICATIONS: Labetalol, Dilantin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: The background EEG is continuous.  There is s dynamic pattern.  At times, the background is reasonably well organized with an 8 Hz posterior dominant rhythm, but with a small amount of excess background theta.  At other times, there is frontally predominant, medium amplitude, rhythmic 1 to 2 Hz delta activity and there is occasional shifting arrhythmic delta.  When the patient is described as confused, there is an increase in the arrhythmic delta on the background. 
+HR:  126 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Mild background slowing.
+Intermittent bursts of rhythmic, medium amplitude frontal delta. 
+Shifting arrhythmic delta seen more prominently when the patient is described as confused. 
+CLINICAL CORRELATION: These features are non-specific and may be seen in the setting of a toxic or metabolic encephalopathy.  They may also be seen in a postictal state or other diffuse disturbances of cerebral function.  No epileptiform features were identified.  

@@ -1,0 +1,8 @@
+MEDICATIONS:  Phenytoin, Nimodifine, Codeine, ASA, Gentamicin, Serax, Dilantin, Zofran, Heparin, Keppra
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and comatose.
+	DESCRIPTION  OF THE RECORD:  Background EEG demonstrates a relatively homogenous pattern with low-voltage, diffuse beta activity, intermittent frontally predominant generalized delta, and intermittent, attenuations  of the background.  The overall pattern is very low voltage and can be reviewed at a sensitivity of 3. 	Stimulation of the patient does not activate the record, and there is little in the way of variability.
+	HR:	126 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Replacement of normal background with primarily a beta frequency pattern.
+	2.	Intermittent attenuation clinical correlation:
+	CLINICAL CORRELATION:	Despite the history of a frontal lobe hemorrhage and neurosurgical procedure, this electroencephalogram demonstrates a relatively synchronous pattern bilaterally.  The generous beta pattern is nonspecific but can be seen in the context of pharmacologic coma as utilized above.

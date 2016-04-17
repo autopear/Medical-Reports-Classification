@@ -1,0 +1,22 @@
+INTRODUCTION: 
+NOTE 
+A routine EEG was performed using the standard 10/20 electrode placement system with additional EKG and anterior 
+temporal electrodes. Sleep and wakefulness were recorded. Photic stimulation was performed. 
+TECHNICAL PROBLEMS: 
+None. 
+MEDICATIONS: 
+dilantin and Depakote. 
+DESCRIPTION OF RECORD:
+The EEG opens to a slow background mainly in the theta frequencies with a posterior dominant rhythm that, at best, 
+reaches 7Hz with an amplitude of 20 to 40 microvolts. There is minimal frontal central beta seen. Stage changes are 
+noticed and some vertex waves are noted signifies stage I sleep, Photic stimulation does not produce any abnormal discharges. 
+ABNORMAL DISCHARGES: 
+1. Generalized slow waves at 5 to 7 Hz and 20 to 50 microvolts amplitude. 
+2. Bursts of frontal intermittent rhythmic delta (FIRDA). 
+SEIZURES: 
+None. 
+IMPRESSION: 
+Abnormal EEG due to mild diffuse slow waves and FIRDA. 
+CLINICAL CORRELATION: 
+This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regard to etiology. No seizures or epileptiform discharges were seen. 
+ 

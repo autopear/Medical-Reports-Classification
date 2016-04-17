@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Seroquel. 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. There is no hyperventilation and photic stimulation performed. The patient is relatively somnolent. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly disorganized with rhythmic theta and delta. There are prominent shifting asymmetries at times. There is a arrhythmic, posterior dominant rhythm 8 hertz identified on the right, but not so much on the left. Arrhythmic delta activity can be more prominent in either hemisphere and there are sharp waves noted in the right mid and central temporal region. Features of drowsiness include an increase in slowing with bursts of FIRDA. As the patient transitions in and out of drowsiness, a relatively stable pattern with a much more predominant outflow rhythm on the right is noted. 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Marked background slowing and disorganization. 
+2. Prominent disruption of the alpha rhythm on the left relative to the right. 
+3. Sharp waves from the right hemisphere particularly right temporal region with field 
+of spread to the posterior temporal region. 
+CLINICAL CORRELATION: This EEG supports a bihemispheric disturbance of cerebral function. The epileptiform activity is similar to prior studies. Correlation with imaging is recommended. 

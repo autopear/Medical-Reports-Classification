@@ -1,0 +1,8 @@
+MEDICATIONS:  Risperdal, Lisinopril, Dilantin.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In relaxed wakefulness, the background EEG is somewhat disorganized.  There are brief sections that are reasonably well organized with an 8 Hz alpha rhythm and then other sections with paroxysmal or irregular slowing, as well as some shifting slowing.  The majority of the underlying arrhythmic delta activity is bilateral with a slight predominance on the right. Hyperventilation is performed early on in the record producing rhythmic, bilateral slowing, and slightly accentuating the arrhythmic slowing on the right. Photic stimulation elicits bilateral driving.   EKG artifact is noted in this EEG.
+HR:    84 bpm 
+IMPRESSION:  Abnormal EEG due to:
+A somewhat disorganized and slow background.
+Shifting slowing a little bit more remarkable on the left.
+CLINICAL CORRELATION:  No epileptiform features were identified.  Overall this EEG is more supportive of a bihemispheric process.  A follow up study capturing deeper stages of sleep may be helpful to more completely evaluate epileptiform activity in this individual with head trauma.  There were bursts of paroxysmal slowing observed.  This is a nonspecific finding, but the pattern of intermittent, paroxysmal slowing in wakefulness is a nonspecific finding which can be seen in a bihemispheric disturbance of cerebral function, including post traumatic state or metabolic disturbance.

@@ -1,0 +1,8 @@
+MEDICATIONS:  Keppra, meropenem, others.
+INTRODUCTION:  Continuous video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was intubated.  There was some problems with loss of electrodes during the recording.
+DESCRIPTION OF THE RECORD:  The background EEG begins as a markedly abnormal and chaotic pattern with a mixture of rhythmic theta, bursts of delta, and triphasic waves.  Despite the presence of triphasic waves, there are also some sharp waves which are seen in the occipital parietal regions and may be a bit more prominent in the left parietal region.  The overall morphology is one of a posterior triphasic wave. 
+As the recording continues, the discontinuity noted previously disappears.  There are more bursts of rhythmic faster theta frequency activity, although in the overnight record there also appears, when the patient seems to be asleep, and transitions more to a triphasic pattern. 
+By the early morning on 01/24/2013 the patient is more consistently awake.  Intermittently eye movements suggesting a more awake state have been noted intermittently.  In addition, the EEG is really transforming to more of a theta pattern with less in the way of bursts of delta and the triphasic morphologies have disappeared. 
+Heart rate:  60 to 90 BPM.
+IMPRESSION:  This continuous video EEG monitoring session was remarkable for:  Initially a markedly abnormal pattern with evidence of discontinuity, triphasic waves, and even posterior, periodic activity.
+CLINICAL CORRELATION:  The dramatic improvement in a patient who is awakening suggests that the primary pattern has been a metabolic one.  No seizures were recorded.

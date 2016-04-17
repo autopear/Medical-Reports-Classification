@@ -1,0 +1,15 @@
+INTRODUCTION: 
+Routine EEG performed using a 10/20 electrode placement system including EKG electrodes, awake and drowsy stages sleep. Photic stimulation was performed with no hyperventilation. 
+TECHNICAL PROBLEMS: 
+None 
+MEDICATIONS: 
+Zocor, pantoprazole, insulin, Seroquel, glyburide, metformin, Lovenox, aspirin, citalopram. 
+DESCRIPTION OF RECORD: 
+The EEG reveals a posterior dominant rhythm of 8.5 to 9Hz and 20 to 60 microvolts, which is symmetrically reactive to eye opening and closing. A beta rhythm of 15-25 Hz and less than 10 microvolts amplitude, which is maximally frontocentrally is seen in a small amount. Photic stimulation was normal. In addition, stage 1 sleep was seen. 
+ABNORMAL DISCHARGES: 
+1. Generalized slow waves are present during wakefulness: Excessive theta in the 5 to 7 Hz range with an amplitude of 20 to 60 microvolts seen moderately. 
+2. No seizures were seen. 
+IMPRESSION: 
+Abnormal EEG due to mild generalized slow waves. 
+CLINICAL CORRELATION: 
+This EEG demonstrates mild cerebral dysfunction, which is nonspecific with regard to etiology. No seizures or epileptiform discharges were seen. 

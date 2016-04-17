@@ -1,0 +1,8 @@
+MEDICATIONS: Insulin, Tylenol, Mannitol, and others.  
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is confused during the record.  
+DESCRIPTION OF THE RECORD: This EEG tracing is technically challenging.  The background EEG is disorganized with generalized slowing and a lot of beta and delta, as well as muscle artifact.  The muscle artifact seems to be more in the right hemisphere, somewhat more slower and attenuated in the left hemisphere.  Stimulation of the patient and calling to the patient caused eye opening and increased the amplitude and frequency of the background.  
+HR: 66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Disorganized and slow background.
+Slight asymmetry with more slowing and attenuation in the left hemisphere.  
+CLINICAL CORRELATION: This is a technically challenging EEG due to a lot of muscle movement artifact.  This tracing is suggestive of a cerebral dysfunction involving both gray and white matter.  This asymmetric EEG with more slowing and attenuation in the left hemisphere may be linked to an underlying pathological process in this patient.  Correlation with neuroimaging studies may be helpful.  No seizures were recorded. 

@@ -1,0 +1,12 @@
+MEDICATIONS: Pantoprazole, Cyancobalationn, ASA, Lovenox, Digoxin, Dilatin, 
+Vancomycin, Zosyn, Metoprolol 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel EKG. 
+DESCRIPTION OF THE RECORD: As the record begins a low voltage feature with 
+suppressed background is seen. Theta and delta activity are seen throughout this 
+record. During stimulation the patient is mildly reactive. 
+R: 96bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Slow feature with suppressed background of theta and delta activity. 
+CLINICAL CORRELATION: No seizures are recorded in this record. Compared to 
+previous studies, the background is a bit more suppressed.

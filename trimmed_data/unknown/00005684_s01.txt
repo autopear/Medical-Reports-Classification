@@ -1,0 +1,15 @@
+MEDICATIONS: Aspirin, Dilantin. 
+INTRODUCTION: Digital l video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. The patient has difficulty 
+following commands and is moving about during the study. Hyperventilation and photic 
+simulation are performed. 
+DESCRIPTION OF THE RECORD: The overall background is one of beta and theta 
+frequency activity. There is also 4 Hz rhythmic slowing picked up from the left temporal 
+region. This is sharply contoured and can be seen as an interictal abnormality. There 
+are sustained bursts of this, however, and It may represent an ictal phenomenon. It is 
+not identified throughout the entire record but intermittently. 
+HR: 78 bpm 
+IMPRESSION: Abnormal due to: 
+1. Rhythmic background slowing. 
+2. Superimposed left temporal rhythmic delta. 
+CLINICAL CORRELATION: Additional evaluation may be appropriate for this individual when he is able to cooperate. 

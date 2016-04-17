@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Phenobarbital, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9Hz posterior dominant rhythm reaching amplitudes up to 70 uV.  There is some underlying slowing in the posterior regions bilaterally.  There is also shifting arrhythmic delta activity, most prominent in the temporal regions in hyperventilation, which is partly complicated by significant eye movement artifact.  Vertex waves and spindles are seen in stage II sleep.  Photic stimulation dose not elicit driving.  LAMBDA waves are seen in photic.
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Excess background theta.
+Slowing in the posterior temporal regions seen in wakefulness with shifting arrhythmic delta in hyperventilation.
+CLINICAL CORRELATION: To more completely characterize the epileptiform activity for this patient, a prolonged sleep study would be helpful.  

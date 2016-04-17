@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Morphine, Tylenol, Keppra. 
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient has undergone a craniectomy on the date of this study. 
+DESCRIPTION OF THE RECORD: The patient is somnolent through much of the record. She wakes up briefly at which point, there is some alpha and theta frequency activity in the background. There are intermittent bursts of frontally predominant irregular delta which are bilateral, but with more generous field in the right hemisphere compared to the left. Both spontaneous arousal and easy alerting to noxious stimuli are observed. There are a hand-full of morphologies of normal sleep including vertex waves again followed by arousal. As the patient becomes a little bit more comfortable, there is a bit more slow arrhythmic delta observed from the right. 
+HR: 66 bpm, irregular. 
+IMPRESSION: Abnormal EEG due to: 
+1. Bilateral background slowing. 
+2. Occasional bursts of bilateral irregular or regular delta, rightgreater then left. 
+3. Occasional focal slowing from the right. 
+CLINICAL CORRELATION: No epileptiform features were observed. The focal slowing is congruent with this patients clinical history and description of operative intervention. 

@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, steroids, Copegus, and Procrit.  Infergen until  November.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with an 8 Hz, 20 to 25 uV posterior dominant rhythm and generous amounts of beta activity.  Hyperventilation produced mild slowing and increased the amount of theta.  Photic stimulation elicits bilateral symmetric driving.   
+HR:  90 BPM.
+	IMPRESSION: EEG at the limits of normal.
+CLINICAL CORRELATION: Compared to a previous EEG from August 2004, this tracing is markedly improved with less slowing.  No epileptiform discharges were seen. 

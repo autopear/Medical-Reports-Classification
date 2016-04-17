@@ -1,0 +1,7 @@
+MEDICATIONS:  Dilantin, gabapentin.
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This was an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 10 Hz alpha rhythm with a small amount of low voltage, frontocentral beta.  Vertex waves were noted in stage I sleep.   
+Hyperventilation did not significantly activate the record.   
+Photic stimulation elicited vigorous bilateral drawing.  Heart rate 108.
+IMPRESSION:  Normal EEG in wakefulness to stage II sleep.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  A normal EEG does not exclude a diagnosis of epilepsy.

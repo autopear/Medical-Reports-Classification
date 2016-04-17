@@ -1,0 +1,9 @@
+MEDICATIONS:  Ativan, Dilantin.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. Patient is intubated in a hard collar.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow, featureless, medium amplitude with slow, frontal delta, scant beta, and eye movement.
+Stimulation of the patient produces muscle.
+--
+	HR:	126 bpm
+IMPRESSION: Abnormal EEG due to:
+	1.	Marked background slowing.
+	CLINICAL CORRELATION:	No epileptiform features are observed. The background slowing supports a diffuse disturbance of cerebral function which may be due to this patient's cerebral insult. Recent use of medications may also play a role in the pattern described above.

@@ -1,0 +1,19 @@
+MEDICATIONS: Dilantin, Advair, Nephrocap, Phoslo, ASA, Lantus, Lisinopril, 
+Metoprolol 
+INTRODUCTION: Digital video EEG was performed in lab using standard placement 
+with 1 channel EKG. Hyperventilation and photic stimulation are not possible. 
+DESCRIPTION OF THE RECORD: Background EEG demonstrates an asymmetric 
+pattern. The left hemisphere demonstrates a great deal of artifacts, but a relatively 
+continuous pattern primarily composed of mixed alpha and theta frequency activity. The 
+right hemisphere demonstrates a marked disruption of faster frequency activity on the 
+right. In addition, FIRDA and eye movement artifacts are observed. Occasional bursts of 
+generalized delta are noted. Photic stimulation demonstrates scant driving on the left. 
+HR: 84 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Marked interhemispheric asymmetry. 
+2. Slowing on the right with significant disruption of faster frequency activity. 
+3. Moderate slowing on the left with mixed frequency background rich in alpha 
+and theta frequency activity. 
+4. Occasional bursts of generalized of generalized delta. 
+CORRELATION: No epileptiform features are observed. Consideration for a 
+structural process on the right Is advised. 

@@ -1,0 +1,10 @@
+MEDICATIONS:  Tegretol. Amitriptyline.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and EKG electrodes.  The patient was recorded in wakefulness and drowsiness.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9 to 10 Hz with an amplitude of 20 to 60 microvolts, which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded during wakefulness and drowsiness.  Activating procedures of photic stimulation and hyperventilation produce no abnormal discharges.   
+ABNORMAL DISCHARGES:  Focal slow waves seen intermittently at T3 at a frequency of 2 to 4 Hz with an amplitude of 20 to 40 microvolts. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:  
+Intermittent left temporal slow waves.
+ 
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left midtemporal region, which is nonspecific in regard to etiology.  No seizures or epileptiform discharges were clearly seen.

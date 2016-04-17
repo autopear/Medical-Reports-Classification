@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital  video  EEG is  performed  in the  lab using  standard  10-20 system   of  electrode   placement  with  one  channel  of  EKG.  Photic  stimulation   was perfom1ed.  This is an awake and drowsy record.
+DESCRIPTION OF  THE  RECORD: As the tracing opens, the patient is awake with a
+10  Hz,  50  uV  posterior   dominant   rhythm   and  prominent   eye  blink.  Features   of drowsiness  include  an  increase  in  background  beta  and  slow  rolling  eye  movements. Photic stimulation  does not activate the record.
+HR:  72BPM.
+Il\ 1PRESSION: BEG within normal limits in wakefulness and drowsiness.
+CLINICAL CORRELATION: No focal or epileptiform  features were identified  in this record.   Normal BEG does not exclude the diagnosis of epilepsy. In this individual  with focal seizures, an BEG with sleep may be helpful.

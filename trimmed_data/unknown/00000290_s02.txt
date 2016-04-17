@@ -1,0 +1,10 @@
+MEDICATIONS: Topiramate, Zonisamide, Dilantin, Klonopin, and Neurontin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation could not be performed due to the patient’s lack of cooperation, however, photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly disorganized and chaotic with a prominent intrahemispheric asymmetry.  The overall background includes a mixture of rhythmic theta and delta, with some alpha frequency activity.  There is a suggestion of a theta frequency posterior dominant rhythm.  The right hemisphere demonstrates a breach. There is more delta from the right in comparison to the left.  Sharp waves are identified from multiple regions including high amplitude right frontal/frontocentral sharp waves, left occipital, and left mid-temporal.  Features of drowsiness include an increase in slowing in the background.  
+Photic stimulation elicits a subtle driving response seen from the left midline in the right temporal region.  The photic section includes a prominent increase in beta frequency from the right frontal region without clinical correlates.  The patient may have been drifting off to sleep during photic, but it is not clear why the beta would increase throughout this section. 
+HR:  58 BPM.
+	IMPRESSION: Markedly abnormal EEG due to:
+Generalized background slowing.
+Prominent intrahemispheric asymmetries with higher amplitude arrhythmic delta from the right. 
+Multiple foci of epileptiform activity including the right frontal, left occipital, and left anterior temporal regions. 
+CLINICAL CORRELATION: The epileptiform activity from the right is in the same region as this patient’s previous head trauma.  The activity on the left may be a sequelae of the head trauma or related to his preexisting neurologic condition. 

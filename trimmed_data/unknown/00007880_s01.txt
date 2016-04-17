@@ -1,0 +1,7 @@
+MEDICATIONS: Ativan, Dilantin. 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient appears to be contractured and lethargic. Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates primarily a theta frequency pattern with a glimpse of an alpha rhythm. The most prominent findings in this record is the continuous, high amplitude, left anterior temporal sharp wave with a generous field of spread. With stimulation, the patient readily arouses, moves about and has self-protective behaviors. The patient is examined during the EEG. His left arm appears contractured but he does bat things away with the left arm. He remains looking to the left throughout the EEG despite the ongoing epileptiform activity. 
+HR: 120 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Continuous left anterior temporal sharp waves. 
+CLINICAL CORRELATION: These findings should be correlated with this patient's exam and the patient's baseline. This is a high epileptiform focus and additional observation and monitoring may be imperative. 

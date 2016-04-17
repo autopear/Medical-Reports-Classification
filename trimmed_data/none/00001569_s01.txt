@@ -1,0 +1,10 @@
+	MEDICATIONS:	Dilantin, labetalol
+INTRODUCTION: Digital video EEG is performed at bedside in the ICU using a standard 10/20 system of electrode placement with 1-channel EKG. Hyperventilation and photic stimulation are not possible.
+	DESCRIPTION OF THE RECORD:	Background EEG includes a mixed frequency background rich in beta and delta activity. There is an interhemispheric asymmetry with greater, faster frequency activity on the right compared to the left. The left includes arrhythmic delta activity. In addition, some sections of the record include arrhythmic, somewhat pruritic delta maximum from the left hemisphere, particularly the temporal region. There is variability in the record with some sections richer and faster frequency than others. In addition, not all sections of the record show the periodic sharp activity. Stimulation
+of the patient produces faster frequency activity from both hemispheres, right greater than left.
+HR: 120 bpm
+	IMPRESSION: 	Markedly abnormal EEG due to:
+1. Marked background slowing.
+2. Interhemispheric asymmetry.
+3. Intermittent bursts of arrhythmic delta activity identified from the left hemisphere with periodic complexes.
+	CLINICAL CORRELATION:	Although no seizures were recorded, this EEG raises concerns for an epileptogenic process on the left. Additional EEG recording may be an appropriate consideration.

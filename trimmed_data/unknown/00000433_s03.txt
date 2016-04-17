@@ -1,0 +1,24 @@
+MEDICATIONS: Dilantin, Depakote. 
+INTR0DUCTION: Digital video EEG was performed at bedside using standard 10-20 system of 
+electrode placement with 1 channel EKG. This is an awake and drowsy record. No additional 
+information is provided. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is abnormal. There is 
+a prominent intra-hemispheric asymmetry with continuous arrhythmic delta activity from the left 
+hemisphere with sharply contoured delta at T1/F7. The right hemisphere is slightly slow as well. 
+The right hemisphere demonstrates some background slowing with a posterior dominant rhythm 
+averaging 7 Hz, 30 microvolts. Occasional delta observed in that hemisphere as well. As the 
+recording continues, the patient is a bit more alert and at the very close of the record there is 
+increasing eye opening, eye closure and the alpha rhythm is improving in rhythmicity and it 
+becomes present bilaterally. 
+HR: 54 bpm 
+IMPRESSION : Abnormal EEG due to: 
+1. 
+Initial very prominent arrhythmic delta activity in the left hemisphere with sharply contoured 
+delta, left temporal region. 
+2. 
+Background slowing improving bilaterally towards the close the record. 
+CLINICAL CORRELATION: For this patient who was admitted after a cluster of seizures on 
+January 11, this EEG may represent a postictal pattern with improvement over time. The focal 
+slowing, sharp waves and destruction of faster frequency activity, support a structural 
+abnormality on the left involving gray and white matter as well as localization-related 
+mechanism for epilepsy. 

@@ -1,0 +1,10 @@
+MEDICATIONS:  Solu-Medrol, Reglan, Protonix, Insulin, Labetalol, Heparin.
+REASON FOR STUDY:  Unresponsiveness.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded while unresponsive.  No activating procedures were performed, although stimulation was performed to the patient.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontocentral beta.  There are small bursts of beta that occur intermittently but appear to be fairly symmetric throughout the recording.  During the recording the patient is stimulated, and there is increasing faster frequency and muscle reactivity. 
+ABNORMAL DISCHARGES:  Generalized slow waves at 2 to 4 Hz with an amplitude of 20 to 60 microvolts. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific in regard to etiology; however, it is important to mention that this is a reactive EEG and did not have any focal symmetry features.  No seizures or epileptiform discharges were seen.

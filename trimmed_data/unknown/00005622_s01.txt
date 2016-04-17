@@ -1,0 +1,8 @@
+MEDICATIONS: Atenolol and Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a posterior dominant rhythm of 9 Hz, 30 uV with a generous amount of frontocentral beta activity and some excess frontal theta.  In the setting of this patient’s previous craniotomy, there is less of a breach than might be anticipated, but there are occasional sharply contoured complexes seen from the left frontal region.  Photic stimulation is performed early on in the record producing a scant driving response.  Drowsiness is characterized by attenuation of the alpha rhythm with slow rolling eye movements.  Deeper stages of sleep are not achieved. 
+HR:  __ BPM. Check tech sheet
+	IMPRESSION: Mildly abnormal EEG due to:
+Excessive frontal theta. 
+Sharply contoured transience in the frontal region. 
+CLINICAL CORRELATION: In the context of this patient’s craniotomy, there is less of an EEG signature than might be anticipated.  Although there are some subtle sharp waves, this EEG supports a partial or localization-related mechanism for epilepsy and correlation with CT may be valuable.  

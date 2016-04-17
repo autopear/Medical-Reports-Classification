@@ -1,0 +1,21 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 
+system of electrode placement with one channel of EKG. Photic stimulation was 
+performed. Tllis is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is relatively 
+low voltage, but there is a 9 Hz posterior dominant rhythm. There is an intermittent 
+asymmetry with higher amplitude activity on the left and disruption of faster frequency 
+on the right. This finding is seen throughout the right hemisphere, but is most prominent 
+in the temporal regions. In addition, there are occasional left temporal sharp and slow 
+wave complexes identified in wakefulness with variable maximum including T3, Tl, and 
+TS. Rare, right centrotemporal sharp waves are also identified. Photic stimulation does 
+not activate the record. 
+HR: 66BPM. 
+IMPRESSION: Abnormal EEG due to: 
+1. Higher amplitude, rhythmic theta from the left with well-defined left temporal sharp 
+waves and spike and slow wave complexes with variable maximum. 
+2. Right centrotemporal sharp waves, occasionally right mid-temporal. 
+3. Background slowing from the right. 
+CLINICAL CORRELATION: This EEG supports a localization-related mechanism for 
+epilepsy, as well as a bihemispheric process. Consideration for a previous craniotomy is 
+appropriate. 

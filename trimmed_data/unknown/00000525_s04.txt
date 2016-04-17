@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, ASA, Senna, Oxycodone, Benadryl, Flomax, Advir, Zosyn, Metoprolol, Lorazepam, Amphotericin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation is performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a fair amount of muscle and movement artifact. The background includes a generous beta, some theta, and a glimpse of a 9-Hz posterior dominant rhythm. There is some posterior delta observed bilaterally and some associated focal slowing best identified in the right central region with breech rhythm and mixture of theta and delta. Features of drowsiness including slow rolling eye movements and an increase in bilateral delta but most particularly in the posterior and right central regions. Photic 
+stimulation elicits scant driving. 
+HR: 90 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Background slowing and disorganization. 
+2. Bilateral, posteriorly predominant delta. 
+3. More subtle focal slowing seen intermittently in the right central occipital region. 
+CLINICAL CORRELATION: This is the third EEG for this individual. No sharp waves were seen today. The breech rhythm is not as prominent but the overall background is similar to prior studies. This EEG supports a diffuse disturbance of cerebral function as well as a focal process compatible with previous cerebral abscess. 

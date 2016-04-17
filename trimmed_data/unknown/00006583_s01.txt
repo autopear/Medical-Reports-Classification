@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin and Zyprexa.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The patient is somewhat drowsy throughout the record.  When she is maximally awake, there is a 6 Hz posterior dominant rhythm with some shifting arrhythmic delta. Intermittent bursts of frontal delta are seen as she drifts off to sleep. 
+Left anterior temporal sharp waves are identified in wakefulness, becomes more clearly defined in stage I sleep.  There is some subtle focal slowing in the left hemisphere when the patient becomes drowsy.  
+HR:  78 BPM, with high complex QAS. 
+	IMPRESSION: Abnormal EEG due to:
+Left mid-temporal sharp waves.
+Generalized background slowing.
+Subtle focal slowing from the left in sleep. 
+CLINICAL CORRELATION: This EEG supports a localization-related mechanism for epilepsy.  The background slowing is non-specific and may be due to a postictal state or previous strokes.  

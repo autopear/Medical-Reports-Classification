@@ -1,0 +1,15 @@
+REASON FOR STUDY:  An 84-year-old woman with change in mental status and a past  medical history of epilepsy, hypertension, and left MCA stroke, as well as dementia and coronary artery disease.
+MEDICATIONS:  Dilantin, Timolol, Plavix, Xalatan, metoprolol, aspirin, simvastatin, donepezil.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness.   
+Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  There is a marked myogenic artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that is best seen over the right hemisphere and  reaches 7 Hz, at best, which appears to be reactive to eye opening.  There is some frontal central beta again also seen best over the right hemisphere. 
+Activating procedures, including photic stimulation, produced no abnormal discharges.  The patient was recorded while awake. 
+Abnormal discharges:
+Focal slow waves seen almost continuously at T3 at a frequency of 2-4 Hz an amplitude of 20-40 microvolts.
+Focal slow waves seen intermittently at T4 at a frequency of 2-4 Hz and an amplitude of 20-40 microvolts.
+Mild generalized slowing at 5-7 Hz seen almost continuously throughout the recording. 
+Heart rate:  108 with some PVCs.
+IMPRESSION:  Abnormal EEG due to bilateral mid temporal focal slowing (left more and more than right), in addition to mild generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the bilateral mid temporal region (left more than right), in addition to mild generalized cerebral dysfunction, all of which are nonspecific with regards to etiology.  No clear seizures or epileptiform discharges were seen.
+__________________________

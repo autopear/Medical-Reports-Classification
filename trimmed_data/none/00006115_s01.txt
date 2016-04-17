@@ -1,0 +1,17 @@
+Reason for EEG: Change in mental status 
+INTRODUCTION: 
+A routine EEG was performed using the standard 10/20 electrode placement system including EKG and anterior temporal electrodes. Wakefulness and lethargy were recorded. No activation procedures were performed. Stimulation was performed. 
+TECHNICAL DIFFICULTIES: 
+None. 
+MEDICATIONS: 
+Ativan, folic acid, propranolol and calcium. 
+DESCRIPTION OF RECORD: 
+The record opens to a diffusely slow background in the theta delta frequencies with no clear posterior dominant rhythm and no clear frontal central beta. The EEG appears to fluctuate in between delta and theta frequencies and, when the patient is stimulated, appears to have increased muscle artifact and slight improvement in the frequency of the background. No normal sleep architecture is seen and no activation procedures were performed. 
+ABNORMAL DISCHARGES: 
+Generalized slow waves 2 to 5 Hz and 20 to 40 microvolt amplitude. 
+SEIZURES: 
+None. 
+IMPRESSION: 
+Abnormal EEG due to diffuse slow waves with some reactivity to stimulation.
+CLINICAL CORRELATION: 
+This EEG reveals evidence of diffuse cerebral dysfunction which is nonspecific with regard to etiology. It may be seen in metabolic and/or toxic encephalopathies or bilateral cerebral disease. No seizures or epileptiform discharges were seen. 

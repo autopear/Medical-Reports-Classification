@@ -1,0 +1,11 @@
+MEDICATIONS: Dilantin, Valproic acid, Klonopin, Topamax and others.
+INTRODUCTION:  Digital video EEG is perfonned in the lab using standard 10-20 system  of  electrode  placement  with  one  channeel of  EKG.  Photic  stimulation   was perfom1ed. This is an awake record.
+DESCRIPTION  OF  THE  RECORD:  The background is abnom1al and includes a theta/delta  frequency  background  with continuous focal  slowing  in  the  left  frontal­ temporal region.  Sharp waves are also identified in the left maximum at T3, but also can be seen at T1 and T3 and C3.   There are rare sharp waves seen in the right temporal region.  On rare occasions, there is frontal 10 Hz activity, left more than right.  During stage I sleep, there is background slowing. Deeper stages of sleep are not sustained.
+HR:  66BPM.
+IMPRESSION:  Abnonnal EEG due to:
+1.   Focal slowing left temporal
+2.   Diffuse background slowing.
+3.   Sharp waves in the left temporal region.
+4.   Left right frontal focal 10 Hz activity
+CLINICAL  CORRELATION:  These findings are  suggestive  of  a  diffuse cerebral dysfunction, as well as a structural lesion in the left fronto-temporal region.  No previous EEGs  are  available  for  comparison.     This  tracing  supports  a  partial  mechru.1ism for
+epilepsy

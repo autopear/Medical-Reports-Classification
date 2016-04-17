@@ -1,0 +1,8 @@
+MEDICATIONS:  Keppra, Aricept, Prilosec, Synthroid, Allegra, Nasonex, Naprosyn
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is relatively low voltage.  There is a symmetric reactive 9 Hz alpha rhythm with a generous amount of low voltage frontocentral beta activity.  Despite some electrode artifacts, there is focal slowing in the left anterior temporal region with a handful of subtle sharp waves noted.  As the patient becomes drowsy, the focal slowing is a bit more prominent but the sharp waves remain relatively discrete in the left frontal or frontotemporal region. Vertex waves and posts are observed in stage II sleep.  In stage II sleep, the sharp waves seem to be more of a left frontal localization. Photic stimulation is performed as the patient is drifting in and out of sleep and does produce a driving response with supraharmonic driving.   
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Focal slowing in the left anterior temporal and frontal regions.
+Sharp waves in the left frontal or frontotemporal regions.
+CLINICAL CORRELATION:  This EEG supports a focal mechanism for this patient's seizures.  The focal slowing may be correlated with imaging.  These findings are similar to the previous EEG.

@@ -1,0 +1,8 @@
+MEDICATIONS: Levetiracetam. 
+REASON FOR STUDY: Seizures 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 electrode placement system with anterior temporal and additional EKG single-lead electrode. Wakefulness and sleep were recorded. Activating procedures including hyperventilation and photic stimulation were performed. 
+TECHNICAL DIFFICULTIES: None. 
+DESCRIPTION OF THE RECORD: The record opens to a posterior dominant rhythm of 9 to 10 Hz with 20 to 60 microvolts amplitude, which is reactive to eye opening. Mostly central beta is seen. Stage I and Stage II are seen. Activating procedures including photic stimulation and hyperventilation produce no abnormal discharges. 
+ABNORMAL DISCHARGES : None. 
+SEIZURES: None. 
+IMPRESSION: Normal awake and asleep EEG. 

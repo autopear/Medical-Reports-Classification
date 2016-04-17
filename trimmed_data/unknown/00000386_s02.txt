@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Ativan, morphine, Vecuronium.
+INTRODUCTION: Continuous video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. As the tracing begins, the patient is intubated and sedated. 
+DESCRIPTION OF THE RECORD: As the EEG begins, the pattern is one of initially beta frequency activity.  There is a diffuse pattern of beta with smaller amounts of delta.  The heart rate at times reaches 150 BPM.  By 21:43, the patient is increasingly active, moving spontaneously and producing artifact in the EEG, as well as an increase in theta.  Within one hour of initiation of the EEG, the patient is increasingly agitated, moving about and slowly eliminating the EEG electrodes.  
+HR:  Maximum 150 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Excess background beta.  
+CLINICAL CORRELATION: The interpretable EEG described above is compatible with medication effect.  The patient was increasingly interactive, compatible with an improving process following status epilepticus. No epileptiform features were seen in this EEG or in his previous EEGs.  More extensive recording when the patient is cooperative is recommended to characterize his underlying epileptiform disorder. 

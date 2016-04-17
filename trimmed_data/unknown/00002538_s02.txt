@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Zyprexa, Phenobarbital,  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record with photic stimulation. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is diffusely slow and poorly organized.   There is a posterior dominant rhythm of 6 to 7 Hz, 30 to 50 uV.  The posterior dominant rhythm is a bit higher amplitude and a bit better developed on the left compared to the right.  There are occasional bursts of shifting arrhythmic delta activity and, as the patient becomes drowsy, occasionally the beta activity is a bit more prominent from the left hemisphere compared to the right. Drowsiness is characterized by the asymmetric beta as described above.  Photic stimulation does not significantly activate the record, however, some shifting slowing is seen in photic stimulation.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Shifting asymmetries including at some points increased beta activity and a bit more slowing on the right.  At other times, there is some arrhythmic delta on the left.  
+CLINICAL CORRELATION: The background slowing was seen in a previous study.  The beta asymmetry may be due to the capacity to obtain some evidence of sleep in this EEG.  The asymmetries described above may be correlated with imaging.  No epileptiform activity was seen in either EEG. 

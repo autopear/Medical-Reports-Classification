@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, potassium, Heparin, and others.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake record. 
+DESCRIPTION OF THE RECORD: In most of the waking record, the background is diffuse theta but there are rare portions where there is a 10 Hz, 20 uV posterior dominant rhythm.  Even on those occasions, there is diffuse background theta. 
+HR:  66 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+	1.	Generalized background slowing. 
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  The features described above are non-specific but are similar to those previously reported in the literature in the setting of CNS HIV infection. 

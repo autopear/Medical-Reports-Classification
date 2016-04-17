@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Neurontin, Tegretol, Valium, Seroquel, melatonin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness.  Activating procedures only included photic stimulation.
+TECHNICAL DIFFICULTIES:  There was a lot of continuous movement artifact throughout the recording and an A2 electrode continuous artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely disorganized background with no abnormal posterior dominant rhythm.  There is a diffuse beta seen throughout the recording.  No normal sleep architecture is seen.  Activating procedures, which only included photic stimulation, produced no abnormal discharges. 
+Abnormal discharges:
+Anterior predominant spike and wave bursts seen at a frequency of 2 to 2.5 Hz intermittently throughout the recording.  
+Diffuse slowing at 2 to 4 Hz seen throughout the recording intermixed with diffuse beta.
+There is arrhythmic CZ discharge seen continuously throughout the recording which at times has a benign morphology and at times becomes more sharply contoured.  It appears to be of higher amplitude than the background frequencies and it dies not appear to become rhythmic at any point.  This pattern is of unclear significance. 
+Seizures:  None. 
+Heart rate:  84.
+IMPRESSION:  Abnormal EEG due to generalized slowing intermixed with diffuse beta in addition to slow anterior predominant generalized spike and wave and central discharge of unclear significance.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of symptomatic generalized epilepsy and supports the diagnosis of Lennox-Gastaut syndrome.  There is evidence of diffuse cerebral dysfunction, which is nonspecific with regard to etiology.  Lastly, there is a central discharge which appears to be of unclear significance, but likely benign in nature.

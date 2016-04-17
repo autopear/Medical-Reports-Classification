@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and Fosamax.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is non-verbal but cooperative. This is an awake and drowsy record with photic stimulation.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes an identifiable posterior dominant rhythm of 7 to 8 Hz, 40 uV with excess background theta and a small amount of background theta.  In apparent wakefulness, there are bursts of frontally predominant rhythmic delta activity, which increases as the patient becomes drowsy.  These are at times notched, but there is no definite epileptiform activity.  Photic stimulation does not produce a change in the EEG.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG in wakefulness and drowsiness due to: 
+	Prominent bursts of frontally predominant rhythmic delta.
+	Excess theta. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  This EEG supports an underlying encephalopathy.  Comparison to previous studies may be valuable. If necessary, additional recording capturing deeper stages of sleep may be helpful to identify epileptiform activity. 

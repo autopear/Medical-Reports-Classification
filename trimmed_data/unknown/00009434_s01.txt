@@ -1,0 +1,6 @@
+MEDICATIONS:  Dilantin, Keppra
+INTRODUCTION:  Digital video EEG was attempted in an adult female with a hair weave and significant scalp glue.  The technologist has a great deal of difficulty attaching the electrodes.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz 40 mV posterior dominant rhythm with a small amount of low voltage, frontal central beta.  Hyperventilation produces a small amount of frontal central slowing. Drowsiness is characterized by slow rolling eye movements with brief EPOC of sleep with POSTS, spindles, and K-complexes. Photic stimulation is performed while the patient is transitioning in and out of sleep.  It does not activate the record.   
+HR:    60 bpm
+IMPRESSION:  Normal EEG in wakefulness through stage II sleep.
+CLINICAL CORRELATION:  A normal EEG does not exclude a diagnosis of epilepsy.  In this individual with frequent seizures, a video EEG monitoring session should be undertaken.

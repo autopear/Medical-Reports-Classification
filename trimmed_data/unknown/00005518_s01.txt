@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Propofol, Decadron, Labetalol, and Zofran.
+INTRODUCTION:  Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is restless and moaning. This is an awake and drowsy record.
+DESCRIPTION   OF  THE  RECORD:  Technically, this  is  a challenging EEG in  a patient who is moving about and moaning.  There is a fair amount of muscle and other artifacts in the EEG, as well as generous beta activity.  There is also some double phase reversing artifact at F3, C3. Despite this, the background does include excess background beta,  disorganization,  and  some  intermittent  superimposed  focal  delta  in  the  right posterior quadrant, although some of this delta is also picked up in the left posterior quadrant as well. Features of drowsiness include an increase in background beta.
+HR:  90BPM.
+IMPRESSION: Abnormal EEG due to:
+1..  Generalized background slowing and poor organization.
+2.  Underlying  arrhythmic  delta  activity  picked  up  most  prominently  m  the  right posterior quadrant, but with some spread to the left.
+CLINICAL CORRELATION:  No epileptiform features were identified in this technically challenging EEG.  A repeat study in the lab is recommended when the patient is safe to do so.

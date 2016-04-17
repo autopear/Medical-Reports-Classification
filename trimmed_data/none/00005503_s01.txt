@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION:  Digital video EEG is performed at the bedside using standard 10/20 system of electrode placement with 1 channel of EKG. The patient is in a hard collar.
+DESCRIPTION OF THE RECORD:  Much of the record includes stage II sleep with symmetric vertex waves, K-complexes and spindles. The drowsy record suggests that there may be some attenuation on the right. The awake record demonstrates  symmetric reactive posterior dominant rhythm with a well-organized pattern of 10 Hz.
+	HR: 	115 bpm
+IMPRESSION:  This bedside portable electroencephalogram from an individual in a hard collar is remarkable for occasional attenuation of amplitude on the right.
+CLINICAL CORRELATION:  Given the limitation of a bedside recording in a patient in a hard collar which alters electrode placement, these findings are of unclear clinical significance. Positive features for this individual with head trauma are a normal awake background with maximal stimulation. An additional EEG in the lab when he is clinically stable and out of the ICU is advised.

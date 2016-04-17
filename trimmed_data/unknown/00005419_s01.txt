@@ -1,0 +1,12 @@
+MEDICATIONS: Tegretol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed during this recording.
+DESCRIPTION OF THE RECORD:  In wakefulness  there is an intrahemispheric asymmetry. There is a minimally low voltage pattern throughout, but slightly more decreased on the left than the right. There is also some slowing which is more than expected for his age. There are also left central sharp waves that are intermittent that become more periodic on photic stimulation. There is also left disrupted fast activity. There is a right organized posterior dominant rhythm of
+8 hertz.
+HR:  72 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Low voltage throughout, slightly greater on the left than the right.
+		2. 	Left central sharp waves that are intermittent and become more periodic on photic stimulation.	·
+	3. 	Left disrupted fast activity.
+CLINICAL CORR ELATION:
+This EEG demonstrates a structural lesion on the left side and
+diffuse abnormality in brain function. The sharp waves that were noted on the record indicate a potential for continued seizures.

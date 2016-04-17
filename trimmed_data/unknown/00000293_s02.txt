@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin, Ativan, Lisinopril, Senna, Colace, Tylenol, Lovenox, Hydralazine, Plavix, ASA, Protonix, Zofran.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG,
+LENGTH OF STUDY:  23 minutes.
+DESCRIPTION OF THE RECORD:  During very brief wakefulness, the posterior dominant rhythm reaches 11 to 12 Hz alpha that attenuates with eye opening.  There is an anterior to posterior frequency amplitude gradient.  The patient remains asleep throughout most of the recording with normal sleep architecture seen, POSTS (positive occipital sharp transients of sleep), vertex waves, sleep spindles, and K-complexes.  Hyperventilation is not performed.  Photic stimulation produces no diving in the background.
+FINDINGS:  
+Primarily asleep EEG.
+No epileptiform discharges.
+IMPRESSION/CLINICAL CORRELATION:  This is a normal 23-minute, primarily asleep, EEG.  No epileptiform discharges were captured.  The lack of epileptiform discharges in a routine EEG does not rule out a clinical diagnosis of epilepsy.

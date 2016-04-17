@@ -1,0 +1,6 @@
+	MEDICATIONS: 	Dilantin, Depakote.
+	INTRODUCTION: 	Digital video EEG was obtained in the lab using
+10/20 electrode system placement and l lead of EKG. Hyperventilation and photic stimulation were performed.
+	DESCRIPTION OF THE RECORD: 	Background EEG demonstrates a well­ defined alpha rhythm of 9.5-10 hertz that is symmetric and reactive to eye opening. Drowsiness is characterized by mildly increased rolling eye movements, slowing of the alpha rhythm and increase in beta activity. As she gets sleepier there is a somewhat irregular burst of sharply contoured slowing, more remarkable on the left compared to the right but without a definitive spike. Hyperventilation did not activate the background. Photic stimulation elicits some driving.
+	IMPRESSION: 	Mildly abnormal EEG due to a single irregular paroxysmal burst.
+	CLINICAL CORRELATION: 	This patient has some other paroxysmal bursts as she reaches drowsiness, but no others had this irregularity. Additional recording into sleep is essential to identify an underlying epileptiform activity.

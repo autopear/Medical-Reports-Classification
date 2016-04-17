@@ -1,0 +1,11 @@
+MEDICATIONS: Dilantin, Keppra, Ativan, Fanotidine, Tylenol 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. The patient is somewhat agitated. 
+DESCRIPTION OF THE RECORD: The background EEG includes generous beta activity bilaterally. In addition, there is a breech rhythm Identified on the right with frequent sharp waves identified maximum T2 and F8, but sometimes with a poly spike component and with a generous field of spread into the right central and posterior temporal regions. The sharp waves persist into stage II sleep. Spontaneous arousal in and out of stage II sleep are noted. At times, the sharp waves occur in brief trains, but no sustained bursts. 
+HR: 90 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Frequent right temporal sharp waves. 
+2. Right temporal focal slowing. 
+3. Excess beta. 
+4. Generalized slowing. 
+CLINICAL CORRELATION: These findings support a localization related mechanism for epilepsy. A follow up study may be of use. 
+ 

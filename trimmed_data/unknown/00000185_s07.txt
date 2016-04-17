@@ -1,0 +1,15 @@
+MEDICATIONS:  Dilantin, Protonix, Depakote.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  The patient was quite somnolent during the EEG and had a seizure.
+DESCRIPTION OF THE RECORD:  As the tracing began, the background EEG was quite slow and disorganized.   
+Interictal epileptiform discharges were identified with low amplitude sharp waves seen primarily in the right temporal region.   
+A seizure was identified shortly after the start of the EEG around 2:06 a.m. lasting approximately 1 minute.  This was characterized by eye flutter.  The patient was on the video and it is a bit hazy but the technologist described eye flutter and the video also seems to generate an arousal.  The first seizure out of the right is about 1 minute long and as the epileptiform activity evolves and slows a second seizure lasting approximately 20 seconds is noted out of the left.  This is associated with much higher amplitude slow delta and it ends abruptly.  During the left temporal seizure the patient has repetitive jerking of the trunk that occurred during the second seizure.  The first seizure was at 2:19. 
+Low amplitude intermittent left temporal sharp waves were noted to follow this. 
+No additional seizures were noted on the baseline EEG.   
+Heart rate 102 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Marked background slowing.
+A right temporal lobe seizure.
+A second seizure which localizes to the left and seems to evolve just as the seizure out of the right ends.  
+Marked background slowing.
+Heart rate reaching 150 bpm during the second seizure out of the left.
+CLINICAL CORRELATION:  This EEG is diagnostic of the localization related epilepsy.  The clinical history with onset of seizures before 8 a.m., failure to awaken and the presence of this seizure on the EEG raises concerns about a later form of status epilepticus.

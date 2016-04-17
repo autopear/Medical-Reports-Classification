@@ -1,0 +1,10 @@
+REASON FOR STUDY:  Possible seizure.
+MEDICATIONS:  Keppra, hydralazine, labetalol, propofol, Fentanyl, metformin, Synthroid, Protonix.
+INTRODUCTION:  Digital video EEG is performed using standard 10-20 system of electrode placement with the addition of anterior temple single lead EKG electrode.  The patient was recorded while awake and slightly lethargic. Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  There was some 01 electrode artifact and some right F4 electrode artifact as well as some 60 Hz artifact.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9 Hz which appears to be somewhat reactive to eye opening.  The patient is recorded mainly while awake.  There is diffuse amount of beta seen throughout the recording.   Activating procedures were not performed and no abnormal sleep architecture is seen.
+ABNORMAL DISCHARGES:  Focal sharp waves seen intermittently at F7/ T3 while awake. 
+Focal slowing seen continuously over the right hemisphere, maximal at T4 at a frequency of 2-4 Hz, amplitude of 20-60 mV.  At times, there are some sharp wave contour wave forms in this area but not clearly epileptic.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to left anterior temporal sharp waves and continuous right with temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of cortical irritability arising from the left anterior temporal region as well as focal cerebral dysfunction arising from the right midtemporal region.  The focal cerebral dysfunction in the right midtemporal region is consistent with the known surgery.  No seizures were seen.

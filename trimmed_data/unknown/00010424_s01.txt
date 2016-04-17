@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is relatively somnolent. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: The overall background EEG is relatively low voltage. There is a mixture of theta and delta lasting 10 seconds. There is perhaps a total asymmetry with a bit lower delta in the right posterior quadrant compared to the left. As the recording continues, the patient alerts briefly and when he does so, a more well-defined alpha rhythm is noted. The patient then drifts back into stage I sleep with vertex waves. As the patient then transitions toward drowsiness, there is a very subtle asymmetry with delta somewhat slower on the right compared to the left, however, when the patient is awakened, this asymmetry is much more difficult to identify. Overall, the faster frequency activity is symmetric. Photic stimulation produces a minimal driving response at intermediate flash frequencies. 
+HR: 60 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. A subtle asymmetry with a bit more delta activity noted in the right posterior region primarily in drowsiness. 
+2. Modest slowing in maximal wakefulness. 
+3. An individual who seems to have primarily a drowsy state and spontaneous arousal with stimulation and then return back to more of a drowsy state. 
+CLINICAL CORRELATION: The subtle, focal slowing is compatible with the MRI with the right parietal lesion. Intermittent background slowing and drowsiness may be part of the underlying metabolic encephalopathy and/or alcohol withdrawal. 

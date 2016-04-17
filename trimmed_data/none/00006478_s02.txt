@@ -1,0 +1,11 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Amlodipine, metoprolol, pravastatin, hydralazine, metformin, aspirin, hydrochlorothiazide, lisinopril.
+TECHNICAL DIFFICULTIES:  None.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 8.5 Hz, which is reactive to eye opening.  There is some frontocentral beta.  The patient is recorded during wakefulness and sleep stage 1.  Activating procedures including photic stimulation produced no abnormal discharges.  Please note that the patient had almost continuous nystagmoid eye movements throughout the entire recording.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen at T4 at a frequency of 2-4 Hz, amplitude of 20-40 microvolts seen continuously throughout the record.
+Focal slow waves seen at T3 at a frequency of 2-4 Hz, amplitude of 20-40 40 microvolts seen occasionally to rarely throughout the recording.  
+Heart rate 72.
+IMPRESSION:  Abnormal EEG due to continuous right mid temporal focal slowing and occasional left mid temporal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural cerebral dysfunction in the right mid temporal region, which is consistent with a known stroke.  In addition, there is evidence of focal cerebral in the left mid temporal region, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

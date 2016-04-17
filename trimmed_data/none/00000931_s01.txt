@@ -1,0 +1,7 @@
+MEDICATIONS:  Ativan, Keppra.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation was performed.  The patient was noted to have hair extensions.
+DESCRIPTION OF THE RECORD:  The patient is somewhat drowsy, but there is a glimpse of a 9 Hz alpha rhythm.  She drifts in and out of stage I sleep.  She is drifting off to sleep during hyperventilation.  On occasions as she drifts off to sleep, there are bursts of frontal notched delta and a left frontal central sharp wave. 
+HR:    60 bpm
+IMPRESSION:  This EEG is remarkable for:  
+Rare, subtle left frontal sharp wave as the patient transitions in and out of sleep.
+CLINICAL CORRELATION:  No seizures were recorded.  In this drowsy and postictal patient, the background slowing is an anticipated finding.  The epileptiform activity is quite subtle and a follow up study may be of value.

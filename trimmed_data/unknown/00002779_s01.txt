@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, many others.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is moving and there is a fair amount of muscle artifact throughout the record. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates theta frequency activity throughout with a posterior dominant rhythm of 7 to 8 Hz.  There is a breach rhythm with higher amplitude activity on the left and more significant muscle on the right.  There is a small amount of background delta, but overall relatively little.  There is rare focal slowing from the left characterized by slower delta particularly from the frontotemporal and frontocentral regions. 
+HR:  80 BPM.
+	IMPRESSION: Mildly abnormal EEG for a subject of this age due to:
+Mild background slowing with excess theta.
+Occasional focal slowing from the left hemisphere. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record. In light of this patient’s neurosurgical procedure, the focal features are not prominent.  To further characterize this patient’s epilepsy, a follow-up study when she is out of the ICU and a bit more cooperative is recommended. 

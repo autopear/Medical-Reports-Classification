@@ -1,0 +1,8 @@
+MEDICATIONS: check tech sheet
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record in a patient who is lethargic.   
+DESCRIPTION OF THE RECORD: The background EEG is poorly organized.  In wakefulness, there is a 7 Hz, 30 to 50 V posterior dominant rhythm superimposed upon a background primarily of theta.  As the patient becomes drowsy, there is prominent, shifting arrhythmic delta activity perhaps more on the right than the left.  There is also somewhat more faster frequency activity in the left temporal region in comparison to the right. 
+HR:  88 BPM.
+	IMPRESSION: Abnormal EEG for a subject of this age due to:
+Generalized background slowing.
+Shifting arrhythmic delta activity, right somewhat more prominent than the left.
+CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function effecting both gray and white matter.  No epileptiform features were seen and no seizures were recorded.

@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin, Keppra, ASA
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were performed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 10 Hz rhythm.  There is a small amount of low voltage, frontocentral beta activity.  The overall EEG is sharply contoured and there is wicket and mu noted. Following hyperventilation, there is a small amount of shifting slowing particularly in the left temporal region.  Although there is some artifact T4 and F8 electrodes, in drowsiness, there is rare, left central focal slowing with isolated theta or delta waves.  Photic stimulation is remarkable for significant electrode artifact, but bilateral driving. 
+HR:    78 bpm
+IMPRESSION:  Mildly abnormal EEG for an adult of this age due to: 
+Occasional, left central slowing.
+CLINICAL CORRELATION:  There were no epileptiform features seen.  The focal occasional left temporal slowing was noted on a previous EEG, but is a little less remarkable today.  Neither EEG captured extensive sleep.  If seizures are an important 
+consideration, a repeat tracing with sleep is suggested.  Thus far, this patient has had 2 EEGs, neither of which have demonstrated epileptiform activity.
+__________________________

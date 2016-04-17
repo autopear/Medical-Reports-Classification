@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin, Gentamicin,  Famotidine, Insulin, Chlorhexidine, Citicholine, Flagyl, Cefepime, Keppra, Tylenol, Mannitol
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is comatose and is wearing a hard collar.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates and intermittently discontinuous pattern. There are periods of attenuation of suppression lasting 3-5 seconds with bursts of activity typically again about 3 seconds in duration. There is also a breech rhythm observed in the right central region. In addition to the breech rhythm, there is some sharp activity in the region of the craniotomy in the right frontal region, This activity in seen in the sections of the record with cerebral activity.
+HR:  120 bpm
+IMPRESSION: Abnormal EEG due to:
+	1.	Burst suppression pattern.
+	2.	Right frontal sharp waves.
+	3.	Absence of reactivity or variability. Tactile stimulation failed to produce a change in the background EEG.
+CLINICAL CORRELATION:   No clinical nor subclinical seizures were observed. This EEG supports a severe disturbance of cerebral function particularly worrisome in the absence of sedative hypnotic medications.

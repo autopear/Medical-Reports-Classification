@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, morphine, Neurontin, antihypertensives, Prednisone, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  The patient is in a deep sleep during the record. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is already in deep sleep.  High voltage, slow rhythmic activity of more than 75 uV occupies less than 50% of epoch.  Calling to the patient transiently decreases the amplitude and increases the fast activity on the background, but the patient returns back to sleep immediately.  When the patient is intermittently awakened, there is a 7 Hz, 30 V posterior dominant alpha rhythm. As the tracing continues, the slow activity of more than 75 uV occupies the entire epoch, suggesting stage IV sleep.   Photic stimulation elicits driving.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Slow alpha activity.
+CLINICAL CORRELATION: This is a very sleepy individual.  The slow alpha rhythm may be due to the sound sleep of the patient.  However, no focal or epileptiform features were identified in this record.  If epilepsy is a clinical concern, a repeat EEG may be helpful.

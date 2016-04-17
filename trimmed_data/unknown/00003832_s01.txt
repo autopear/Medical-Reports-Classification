@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Midazolam, Zofran, Famotidine 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is relatively low voltage with generous beta. There is a subtle alpha rhythm of 8 Hz. There is also a suggestion of MU activity, but testing was not performed to confirm this. As the patient drifts off to sleep, there is some shifting slowing in the frontal regions which has higher amplitude on the left compared to the right. Rare FIRDA is observed as the patient drifts toward sleep. 
+HR: 66 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Mild background slowing. 
+2. Occasional rhythmic left frontal delta. 
+CLINICAL CORRELATION: There are no epileptiform features. Additional EEG recording as the patient recovers from the subdural hematoma is suggested. 

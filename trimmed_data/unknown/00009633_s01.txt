@@ -1,0 +1,9 @@
+MEDICATIONS: Labetalol, Dilantin, Hydralazine. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as excessively lethargic. 
+DESCRIPTION OF THE RECORD: The patient is excessively drowsy, and with stimulation the background demonstrates an alerting pattern with a diffuse 6 to 8 Hz background without a well-defined posterior dominant rhythm.  As the patient drifts off to sleep, there is an increase in background beta.  In addition, there appears to be a breach rhythm with higher amplitude, 6 to 8 Hz activity which was sharply contoured and maximum in the mid-left temporal region.  A single left temporal sharp wave was seen. 
+Brief stage I sleep is characterized by vertex waves.  Towards the close of the record, the patient seems to be a bit more alert and the noise in the background produces an alerting, again with a theta frequency pattern.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Probable underlying breach rhythm with higher amplitude wicket activity from the left temporal region.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  The features described above are non-specific, but consideration for a diffuse disorder of cerebral review of the history regarding the possibility of a craniotomy on the left or other cause for activity to be less attenuated in that region would be appropriate. 

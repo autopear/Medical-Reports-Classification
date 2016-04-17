@@ -1,0 +1,8 @@
+MEDICATIONS: Ativan, Dilantin, Mannitol, and others. 
+INTRODUCTION: Digital video EEG is performed in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is lethargic and somnolent during the record. 
+DESCRIPTION OF THE RECORD: The background EEG is continuous, but there is intrahemispheric asymmetry with arrhythmic delta activity seen in the left hemisphere. I sleep asymmetric spindle activity is identified- seen only on the right There is an increased amount of beta as well as theta activity in the background.  When the patient is aroused, there is a 9 Hz posterior dominant rhythm, R>L.  Stimulation of the patient initially caused subtle movement of the left arm, and further stimulation caused some moaning.  At 12:52, the patient had a seizure lasting for three minutes.  This is evidenced by continuous spike and slow wave activity, maximum at T5 and O1.  After the seizure ended, the patient fell asleep and began to snore.  No clinical changes, relevant to patients’ baseline obtundation were observed with the seizure/
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Intrahemispheric asymmetry on the left with arrhythmic delta activity as well decreased fast activity
+Subclinical seizure in obtunded adult
+CLINICAL CORRELATION: The focal findings are diagnostic of an epileptic disorder and localize to the hemorrhage.  If the patient remains obtunded, LTM may be valuable 

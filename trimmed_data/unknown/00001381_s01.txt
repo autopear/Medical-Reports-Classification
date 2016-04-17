@@ -1,0 +1,6 @@
+MEDICATIONS: Ativan, Dilantin, Morphine, 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is extremely uncomfortable and moving about throughout. 
+DESCRIPTION OF THE RECORD: In the brief sections of the record in which the patient is awake and EEG is of reasonable quality there is definitely generous alpha and beta frequency activity. There are no major focal features, although there is a great deal of muscle movement artifact. 
+HR: 150 bpm 
+IMPRESSION: Normal EEG 
+CLINICAL CORRELATION: This is a limited EEG but without epileptiform activity. To more completely assess this patient's cerebral functioning, follow-up study when he is able to cooperate is suggested. 

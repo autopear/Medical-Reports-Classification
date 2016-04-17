@@ -1,0 +1,7 @@
+MEDICATIONS: Lovenox, Keppra, Metformin, Dilantin, Risperdal, Aricept, Nelformin, Acto, Narvasc, Protonix, 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation were completed. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG demonstrates a voltage pattern with diffuse beta and smaller amounts of theta. Prominent eye movement artifact is picked up in the T1-T2 electrodes. Interestingly, eye artifact persists into stage 2 sleep. Features of stage 2 sleep include vertex waves and spindles. The patient is in fact asleep during photic stimulation. Hyperventilation does not activate this record. 
+HR: 60 bpm 
+IMPRESSION: Drowsy but abnormal EEG due to: 
+1. Background slowing. 
+CLINICAL CORRELATION: No epileptiform features are observed. The low voltage and slow pattern may be part of this patient's medications or other illnesses. If epilepsy is an important consideration, a follow-up study may be valuable. 

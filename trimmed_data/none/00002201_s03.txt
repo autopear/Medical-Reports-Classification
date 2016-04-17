@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Valproic acid, phenobarbital, Tegretol.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Patient also recorded during wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontal central beta.  Overall, there is a disorganized theta pattern that at times has intermixed bursts of diffuse delta that appears to be related to some drowsiness, although not always.  These bursts occur frequently and can last for seconds and be at times more prolonged up to 30 seconds.  Some of these bursts have intermixed waveforms that appear to have maximally sharp contour, sometimes in the central and sometimes in the frontal regions, although not clearly epileptiform.  Overall, they are maximally bifrontally.
+ABNORMAL DISCHARGES:  
+Burst of generalized slowing as described above.
+Generalized slow background.
+SEIZURES:  None.
+HEART RATE:  66.
+IMPRESSION:  Abnormal electroencephalogram due to generalized slowing and burst of delta.
+CLINICAL CORRELATION:  
+This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific as to etiology.  No seizures or clear epileptiform activity was seen.

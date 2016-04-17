@@ -1,0 +1,9 @@
+MEDICATIONS:  Maxalt, Percocet, Diovan, Klonopin, Restoril, Abilify.
+REASON FOR EEG:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed using in lab standard 10-20 electrode placement system with anterior, temporal, and EKG electrodes.  Sleep, stage I and stage II were recorded.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm of 9 to 10 Hz with a 20-60 microvolt amplitude which is reactive to eye opening.  Wakefulness and stage I and stage II sleep are recorded with normal architecture.  Photic stimulation and hyperventilation did not produce any abnormal discharges. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  No seizure or epileptiform discharges are seen.  Please note that a normal EEG does not exclude the diagnosis of epilepsy.

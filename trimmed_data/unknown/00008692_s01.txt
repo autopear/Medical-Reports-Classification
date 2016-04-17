@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Mirapex, Ambien, Ativan, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, there is a 10 Hz posterior dominant rhythm reaching amplitudes greater than 70 uV.  There is a small degree of background disorganization and there is occasional slowing identified from the frontocentral or frontotemporal regions, most of which includes 3 to 5 Hz activity with rare, more irregular delta.   Features of drowsiness include anterior spread of the alpha rhythm, as well as a mild degree of background slowing.  Photic stimulation elicits scant driving.
+HR:  70 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Mild background disorganization.
+Subtle, shifting slowing in the frontocentral and frontotemporal regions bilaterally.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  These features are non-specific and may be seen in the setting of an underlying cerebrovascular disease, toxic or metabolic encephalopathy, or other disturbance.  

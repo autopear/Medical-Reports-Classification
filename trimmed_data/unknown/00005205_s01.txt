@@ -1,0 +1,13 @@
+			
+				
+			
+MEDICATIONS:   Dilantin, Zosyn, Vancomycin, Reglan, Creon, Erythromycin, Protonix, Gentamicin, ISS
+INTRODUCTION:   Digital video EEG is performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and described as comatose.
+DESCRIPTION  OF THE RECORD:  Background EEG is slow.  There is interhemispheric  asymmetry observed with lower voltage theta activity noted from the left, intermittent suppression of faster frequency activity or slow delta on the right.
+There is breech rhythm observed with wickety appearing theta activity on the left.  In the
+later portions of the record, there are intermittent, generalized attenuations.
+	HR: 	60 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Markedly abnormal background with intermittent attenuation on the right.
+	2. 	Generalized attenuation overall.
+CLINICAL CORRELATION: No epileptiform features are observed.  This EEG is consistent with significant disturbance in the right hemisphere.  The generalized attenuation may be due to medication effect or other, severe disturbance of cerebral function.

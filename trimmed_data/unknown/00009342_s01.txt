@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Lipitor, and aspirin (Phenobarbital was discontinued).
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz, 30 uV posterior dominant rhythm, as well as rare, right anteriotemporal sharp waves. The major abnormality is intermittent, somewhat arrhythmic slowing identified from the right hemisphere, particularly in the temporal regions.  This sometimes spreads to involve the right parietal region.  Hyperventilation accentuates the focal slowing and produces an increase in rhythmicity of that focal slowing.  Drowsiness is characterized by anterior spread of the alpha rhythm.  Photic stimulation elicits a minimal driving response.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Right-sided focal slowing, maximum in the temporal regions but with some spread to the parietal regions.
+	Rare, right temporal sharp waves. 
+CLINICAL CORRELATION: In this individual with a history of both head trauma and a previous stroke, the intermittent right arm tingling may be due to a central or peripheral nervous system process. It did not occur during the EEG and an additional, more prolonged recording could be helpful in recording this patient’s symptoms.   

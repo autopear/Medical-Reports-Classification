@@ -1,0 +1,15 @@
+MEDICATIONS: Dilantin, Keppra, Zonegran, Synthroid, Percocet, Venlafaxine, Pantoprazole, 
+Lovenox, Dexamethasone 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. The patient is very drowsy, photic stimulation is completed. 
+DESCRIPTION OF THE RECORD: In wakefulness there is an 8Hz alpha rhythm with a great deal of 6 Hz activity underlying this. There is a breech rhythm with higher am activity on the right than the left. The left hemisphere is lower voltage and may be a little slower with some sharply contoured left anterior temporal delta. There is an area of fast activity on the right central region and underlying arrhythmic delta activity in the right central temporal region. In this area with the breech rhythm there is a suggestion of a C4 sharp wave. A the patient becomes drowsy, beta activity is seen bilaterally, more particularly in the right central region. As the patient transitions to stage 2 sleep with spindles, there is more clearly defined, but not particularly high amplitude right central sharp waves. Photic stimulation is performed while the patient is in stage 2 sleep and does not activate the record.
+HR: 78bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Focal slowing from the right frontal central region. 
+3. Subtle C4 sharp waves. 
+4. Sharply contoured slowing In the left temporal region. 
+CLINICAL This EEG supports a bihemispheric process. The focal slowing  
+breech rhythm and C4 sharp waves are all in the region of the patient's previous neurosurgery. 
+The features on the left may represent her preexisting epilepsy. 
+11 
+ 

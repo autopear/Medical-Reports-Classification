@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. The patient has a previous right frontal craniotomy.  
+DESCRIPTION OF THE RECORD: The background EEG includes a dynamic pattern.  Some portions of the record demonstrate a well-organized, 10 Hz, 40 uV posterior dominant rhythm.  In wakefulness, there are intermittent bursts of irregular slowing that can be seen from the left or the right.  There are occasional right frontal sharp and slow wave or spike and slow wave complexes, as well as some from the left temporal region.  Hyperventilation seems to accentuate the intermittent bursts of focal slowing, as well as producing some rhythmic delta and eye blink artifact.  Features of drowsiness and sleep include vertex waves, some of which are asynchronous. Photic stimulation elicits driving identified bilaterally.  At the end of the record, the patient achieved stage II sleep with vertex waves.  
+HR:  72 BPM, increasing to 100 BPM in hyperventilation.
+	IMPRESSION: Abnormal EEG due to:
+	Intermittent bursts of irregular slowing from either hemisphere.
+	Epileptiform activity identified independently from either hemisphere with different maximum.  That from the left seems to be more temporal, but the epileptiform activity from the right seems to be frontal.  
+CLINICAL CORRELATION: The epileptiform activity described from either hemisphere has been previously described in this patient’s many previous EEGs.  If those results are not available, please call 215/707-4523 for a copy of those results. 

@@ -1,0 +1,7 @@
+MEDICATIONS: Clonidine, Percocet PRN, Ativan, Dilantin, dopamine.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG, and a portion of this record is also reviewed with ECS montage.  The patient is intubated, comatose, and unresponsive.  Body temp is 99, and systolic blood pressure is 62. 
+DESCRIPTION OF THE RECORD: The background EEG activity is low voltage and markedly suppressed.  Portions of the record are reviewed with the ECS montage.  In this individual whose heart rate at times exceeds 150 BPM, there is clear EKG artifact, but there is also some 6 Hz activity, which is likely artifactual in nature but cannot be considered definitively artifact.  Some of this activity is also picked up in the non-cerebral electrodes.  No reactivity to external stimuli is noted.  There is no significant variability.  
+HR:  150 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Replacement of normal background with a suppressed pattern.
+CLINICAL CORRELATION: Because of the medical factors described above, this EEG cannot be used to confirm electrocerebral silence.  

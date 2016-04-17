@@ -1,0 +1,16 @@
+REASON FOR THE STUDY:  Declining memory.
+MEDICATIONS:  Lisinopril, Klonopin, Glucophage, Pravachol.
+INTRODUCTION:  Digital video EEG was performed in the lab using the standard 10-20 system of electrode placement and one channel of EKG.  Wakefulness was recorded during the EEG.  Activating procedures include hyperventilation and photic stimulation.
+TECHNICAL PROBLEMS:  There was continuous eye movement artifact in the first half of the recording, which impedes correct evaluation of the cerebral activity in the frontal leads.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a posterior dominant rhythm of 9 Hz frequency, 30-50 microvolts in amplitude, which is symmetric and reactive to eye opening.  There is excess theta noted in the frontal leads in the section without the eye movement artifact.   
+Sleep was not achieved during the recording.   
+Hyperventilation was performed, which did not bring about significant change in the recording.   
+Photic stimulation did not elicit any changes in the record.
+ABNORMAL DISCHARGES:  
+Occasional T3 focal slow waves at 2-4 Hz in frequency and 50-70 microvolts in amplitude.  
+Mildly excess theta in the frontal leads.
+SEIZURES:  None.
+IMPRESSION:  This is an abnormal EEG due to:  
+Left mid temporal intermittent slowing.  
+Mildly excess theta in wakefulness.
+CLINICAL CORRELATION:  This EEG is suggestive of focal cerebral dysfunction in the left mid temporal region which is non-specific with regards to etiology.  The excess theta in the frontal leads may indicate drowsiness or a mild diffuse encephalopathy.

@@ -1,0 +1,8 @@
+MEDICATIONS:  Spiriva, Symbicort, Ventolin inhaler.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The posterior dominant rhythm consists of a well formed and modulated moderate amplitude 9 to 9.5 Hz.  Alpha  activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies and lower amplitudes anteriorly. During drowsiness, shifting bitemporal beta activity is captured. No hyperventilation is performed. Photic stimulation results in no change in the background. A regular sinus rhythm is captured on the single EKG lead.
+FINDINGS:  
+1. No epileptiform discharges.
+2. No stage II sleep.
+IMPRESSION:  This is a normal awake and drowsy 26 minute EEG.  No epileptiform discharges are captured, however, stage II sleep is not recorded.  If a clinical diagnosis for seizures persists, a repeat study with sleep may be of benefit.
+DER/08/29/2012 11:04 AM

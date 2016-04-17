@@ -1,0 +1,10 @@
+MEDICATIONS:  Keppra, Baclofen, Heparin, Vancomycin, Doxazocin, Azithromycin, Zosyn, Calcitriol, Norvir, Enalapril, Metoprolol, Famotidine, Nifedipine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is not intubated.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates a dynamic record.  There is some sections rich in theta and alpha frequency activity, particularly 7-8 Hz on the left.  The right hemisphere typically demonstrates more arrhythmic delta activity on the right with periods of bursts with frontally predominantly delta, rare T6 sharp waves.  There are focal features with disruption of faster frequency activity on the right.  There is also bursts of frontal delta.   
+HR:    120 bpm
+IMPRESSION:  Abnormal, but markedly, improved EEG.  Abnormalities include:
+Frontal intermittent rhythmic delta activity.
+Focal features in the right hemisphere with disruption of the faster frequency activity.  
+Paroxysmal pattern with intermittent paroxysmal slowing superimposed upon a slow background.
+T6 sharp waves.
+CLINICAL CORRELATION:  The cerebral activity from both hemispheres has improved.  No seizures were seen.  This EEG supports a bihemispheric disturbance of cerebral function.  This patient's metabolic and infectious processes may play a role in the patterns described above.

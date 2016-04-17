@@ -1,0 +1,14 @@
+MEDICATIONS: Dilantin, Depakote. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic 
+stimulation are performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is an 11.7 hertz 
+alpha rhythm with a small amount of low voltage, frontocentral beta activity. There is a 
+small amount of theta noted in the background. Hyperventilation produces an increase 
+in rhythmic slowing. Photic stimulation elicits bilateral driving. 
+HR: 60 bpm 
+IMPRESSION: Mildly abnormal EEG due to: 
+1. Excess background theta. 
+CLINICAL CORRELATION: There were no epileptiform features observed today. Right 
+occipital head rocking artifact was noted. If further characterization of this individual's 
+epilepsy is important, a follow-up study is suggested. 

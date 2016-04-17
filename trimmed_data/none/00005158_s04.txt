@@ -1,0 +1,12 @@
+	
+MEDICATIONS:  Keppra, Dilantin, Hydrochlorothiazide,  Lisinopril, Levothyroxine, Sotalol, Insulin.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  As the record begins, a slow bilateral background is seen. There is no discernible posterior dominant rhythm. lntrahemispheric asymmetry is seen with sharp waves and occasional spike waves, followed by slow activity seen in the left FP1 and P3 regions which does not occur regularly 1 second duration, but then sometimes it  increases to
+2.5 seconds in between.  On the right hemisphere it  is slow, but no sharps are seen and mostly of an intermixed pattern with delta and theta and occasional faster frequencies intermixed. As stimuli is given there is no responsiveness in the record besides muscle artifact seen, more extensively in the right hemisphere. No seizures are recorded.
+	HR:	70 bpm and irregular.
+IMPRESSION: Abnormal EEG due to:
+	1.	Very frequent sharp or spike and slow waves seen in the left frontal and parietal regions.
+	2.	Slow bilateral background.
+CLINICAL CORRELATION:   There are very frequent epileptiform discharges seen coming from the left frontal parietal region. However, no seizures are recorded during this record.  The slowing of the background bilaterally is nonspecific and can be seen with an encephalopathy due  to toxic metabolic or bilateral brain dysfunction.  Further eli    ical correlation is
+Recommended.
+		

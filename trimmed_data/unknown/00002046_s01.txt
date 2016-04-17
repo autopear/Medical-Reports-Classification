@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin, Famotidine, Lovenox, Cefepime, Vancomycin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and wearing a collar.
+DESCRIPTION OF THE RECORD:  The patient seems to be awake with spontaneous eye movement.  The overall pattern is relatively symmetric and includes 6 Hz theta and frontocentral beta.  Stimulation of the patient produces artifact and then an increase in beta.  There is a small degree of variability noted in the record.  
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to: 
+Primarily arrhythmic theta pattern.
+CLINICAL CORRELATION:  This EEG is consistent with diffuse cerebral dysfunction. 
+	

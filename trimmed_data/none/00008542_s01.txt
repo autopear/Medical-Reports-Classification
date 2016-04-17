@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin, Insulin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated.
+DESCRIPTION OF THE RECORD:  This is a somewhat challenging bedside EEG with a patient who has a significant amount of chew artifact.  The EEG is quite slow but demonstrates a continuous, bihemispheric pattern with theta, brief bursts of faster frequency activity and delta. Despite significant ventriculomegaly on the left, diffuse atrophy and prior infarcts, the activity is actually slower on the right.  Stimulation of the patient produces an increase in muscle.  There is clear variability in the record with the appearance of increasing faster frequency activity.  There is a handful of simple sharp waves of medium amplitude, which may be seen at T6 or C3.   
+HR:    72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+Shifting asymmetries, typically slower on the right, although not always.  
+A handful of simple sharp waves in this record which can be seen from the left central, left frontocentral, or right posterior region.
+CLINICAL CORRELATION:  No seizures were recorded.  This EEG is more supportive of a chronic disturbance of cerebral function than an acute, in that the record is variable, 
+clearly reactive, and at times richer in faster frequency activity.  In this individual with bihemispheric strokes, there are sharp waves noted from either hemisphere.

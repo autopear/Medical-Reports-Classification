@@ -1,0 +1,18 @@
+MEDICATIONS: Unknown. 
+Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel EKG. Photic stimulation was performed. 
+OF THE RECORD: In wakefulness there is a 9.5 Hz posterior dominant 
+rhythm with a small amount of low voltage frontal central beta activity. Drowsiness is 
+characterized by anterior spread of the alpha rhythm with an increase in theta. There is 
+some single channel artifact picked up in the right frontal central region as the patient 
+becomes drowsy. In addition to this single channel artifact, there is a suggestion of 
+focal, rhythmic frontal theta, which persists throughout photic stimulation. Photic 
+stimulation elicits bilateral driving. 
+HR: 60 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Right frontal theta. 
+CLINICAL No epileptiform features were observed, but the right 
+frontal rhythmic theta is sometimes seen in localization related epilepsy. It was not 
+identified in previous years. Clinical evaluation is suggested. Of note, this patient had 
+a previous craniotomy with a breech rhythm which might explain the rhythmic theta 
+discharge. 

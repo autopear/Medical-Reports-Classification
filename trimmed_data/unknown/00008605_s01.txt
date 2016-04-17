@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, Ativan, Fentanyl.
+INTRODUCTION: Digital video EEG is performed in the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is low voltage, continuous, with a mixture of slow delta and smaller amounts of theta and beta. There are some shifting asymmetries of slow delta, and at times the delta seems a little slower on the right than the left.  Stimulation of the patient does not clearly activate the record.  
+HR:  132 BPM.
+	IMPRESSION: This EEG recorded nine hours after admission for multiple hypoglycemic seizures demonstrates significant, generalized background slowing. 
+CLINICAL CORRELATION: These features are non-specific.  Medications may contribute to this pattern, however, consideration for a severe diffuse disturbance of cerebral function is appropriate.  

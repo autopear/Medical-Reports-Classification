@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake through stage II sleep record in a patient who is hypersomnolent and is uncooperative when awake. 
+DESCRIPTION OF THE RECORD: Throughout much of the record, the patient is in stage II sleep with vertex waves and spindles.  Stimulation of the patient produces some theta frequency activity.  There is some asymmetric eye movement artifact in the frontal region. Despite the P4 bur hole, there is a bit more arrhythmic delta on the left mid-to-posterior temporal region identified in drowsiness.  Stimulation of the patient produces a brief arousal with an approximate 9 Hz posterior dominant rhythm.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG for an adult of this age due to:
+	Hypersomnolence.
+	Intermittent higher amplitude slowing from the left mid-to-posterior temporal parietal region compared to the right. 
+CLINICAL CORRELATION: In this individual with recent, repetitive seizures, no epileptiform features were seen.  The focal findings may be correlated with this patient’s type of previous head trauma.  The hypersomnolence is compatible with a postictal state or medication administration.  

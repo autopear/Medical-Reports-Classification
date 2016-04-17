@@ -1,0 +1,9 @@
+MEDICATIONS:  :      Dilantin
+INTRODUCTION:   Digitial video performed with standard 10-20 system electrodes with
+1 channel of  EKG. Photic stimulation was performed. The patient was cooperative.
+DESCRIPTION OF THE RECORD:  There is a brief portion of maximal wakefulness with 9 Hz alpha rhythm. Alpha rhythm was symmetric and reactive. In the transition to drowsiness, there is attenuation of the background in the temporal region. The patient makes brief transitions, in and out, to stage II of sleep.  Photic stimulation did not
+activate  the record.
+	HR: 	84 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1.		Intermittent background slowing and intermittent attenuation on the right and drowsiness
+	CLINICAL CORRELATION: 	No epileptiform features were observed today. The focal features identified were seen on October 10, 2007.

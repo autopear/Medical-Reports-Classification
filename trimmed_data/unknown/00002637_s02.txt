@@ -1,0 +1,9 @@
+MEDICATIONS: Depakote, Dilantin, Hydrocortisone, and many others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated, poorly responsive, but is responsive with spontaneous eye opening and some evidence of responsiveness to actual stimuli.
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with a mixture of delta and smaller amounts of theta.  There are some portions of the record with frequent PLEDS identified from the right hemisphere, but there are portions of the record that are relatively free of the periodic activity.  In comparison to a previous study, the PLEDS are much simpler. On occasion, the activity is generalized rather than unilateral. 
+Stimulation of the patient produces some slowing of the periodic activity.  In addition, stimulation of the patient appears to attenuate the activity to some extent.  
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Periodic lateralizing epileptiform discharges from the right hemisphere.
+CLINICAL CORRELATION: In comparison to a previous study, the patient is clearly reactive and responsive at this time.  The PLEDS do seem to attenuate with stimulation and they are simpler in morphology.  This EEG represents an improvement compared to previous.

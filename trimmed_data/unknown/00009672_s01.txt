@@ -1,0 +1,16 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG is performed in lab using standard 10-20 system 
+of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation 
+are completed. The technologist had some technical challenges in that the patient has 
+very oily hair. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 8 
+Hz, 40 microvolt posterior dominant rhythm and a small amount of low voltage frontal 
+central beta activity. Features of sleep include: Drowsiness is characterized by slow 
+rolling eye movements and attenuation of the alpha. Photic stimulation elicits: Scant 
+driving. Hyperventilation elicits: Hyperventilation is performed early in the record with 
+fair effort and without alteration of the background. 
+HR: 72 bpm, slightly irregular. 
+IMPRESSION: Mildly abnormal EEG due to: 
+1. Mild slowing of the alpha rhythm. 
+COR RELATION: No epileptiform features were observed. There were no 
+previous EEG's available for comparison. 

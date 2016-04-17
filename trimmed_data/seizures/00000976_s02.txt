@@ -1,0 +1,12 @@
+MEDICATIONS:  Vimpat, Keppra, benzodiazepines, others.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.
+DESCRIPTION OF THE RECORD:  As the tracing began, the patient is in ICU and is very confused and moving about.  The background EEG is markedly abnormal with primarily a theta pattern, poorly organized with generous background beta.  In addition, there are sharp waves noted in the record with more than one localization including C3 and the right temporal region.  There is prominent theta noted in the background. 
+A burst of right temporal sharp waves and delta was noted at 2:35 but without a clear clinical correlate.  This burst continues as might be anticipated in an electrographic seizure but looking at the video the patient does not appear to be doing anything other than motion arrest.  There is no significant change in the patient's behavior after this 30-second discharge.  Additional bursts of right temporal sharp waves and spikes maximum in the anterior temporal region were noted at 2:47.  At the close of the EEG, the right temporal sharp waves are building up.  They have not yet evolved into the pattern of a seizure.  Of note, the patient has turned his head to the left but testing is not performed and it is difficult to determine if there is really a change in the patient's mental status.  The patient is confused but interactive throughout the EEG. 
+Heart rate 90 BPM.
+IMPRESSION:  This is a markedly abnormal EEG due to:  
+Marked background slowing and disorganization.  
+Prominent right anterior temporal sharp waves and spikes.  
+At least 1 electrographic seizure from the right temporal region.  
+Sharp waves noted on occasion from the left hemisphere as well.
+CLINICAL CORRELATION:  In this individual who has had recent, repetitive seizures, this is an ongoing ictal record although it does not meet the formal criteria for a status epilepticus record and the seizure that was recorded appeared to be with little clinical signs or symptoms and was brief.   
+Additional EEG recording was initiated on the evening of the 16th.

@@ -1,0 +1,10 @@
+MEDICATION: Dilantin, Dexamethasone, Protonix, Insulin.
+INTRODUCTION: Digital Video EEG was performed  at the bedside in the ICU using standard
+10-20 system of electrode placement  with one channel of EKG.
+DESCRIPTION OF THE RECORD:  The background  EEG demonstrates an awake individual with a markedly asymmetric EEG pattern.  There is low voltage rhythmic  theta frequency activity identified   from  the  left  hemisphere.    The  right  hemisphere demonstrates  sharply   contoured activity  with  sharp  waves  and  arrhythmic  delta  activity  in  the  right  temporal  region  .with a generous  field  of spread  throughout  the right  hemisphere.    Areas  that  involved  in this activity includes the left temporal  parietal region as well.  Although  there are some electrode  impedance issues,  there  is al so some  focal  fast  activity  in the  left central  region.   There  is epileptiform activity   waxes  and  wanes  but  there  is  no  definite   frequency   evolution.     Because   of  the epileptiforn1 activity, the technician is quite interactive  with the patient and checks the patient for reactivity.  Stimulation  of the patient seems to decrease the epileptiform  activity.
+HR:  60BPM
+IMPRESSION: Abnormal EEG due to:
+1.   Frequent,  at times nearly continuous sharp and slow wave, spike and slow wave and fast activity from the left hemisphere with a generous field of spread and at times, variable maximum  including  the  left  centrotemporal  but  sometimes  including  the  parietal  and occipital regions as well
+2.   Higher amplitude more irregular activity from the left
+3.   Lower voltage slow pattern from the right
+CLINICAL CORRELATION: Despite the highly irritative nature of this record, the decrease in epileptiform  activity  with stimulation suggests that this is not a continuous  ictal pattern however, additional EEG recording may be valuable.

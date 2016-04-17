@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and folate.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is 10.5 Hz, 50 to 70 uV posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by an increase in the amplitude of the background.  In drowsiness, there are a handful of bursts of frontally predominant sharp and slow wave complexes.  Some of these are subtle with an overlying, relatively fast background, but they are approximately 4.5 Hz.  They are seen just prior to the transition into stage I sleep with vertex waves, and brief arousals from stage I sleep are seen.  Two additional discharges are noted in hyperventilation with a 4 to 4.5 Hz isolated high amplitude frontally predominant discharge with subtle underlying sharp waves.  
+Photic stimulation does not clearly accentuate the record and is performed just as the patient becomes drowsy. 
+HR:  54 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Subtle, underlying and frontally predominant 4 to 4.5 Hz spike and slow wave activity.
+CLINICAL CORRELATION: This tracing is supportive of a generalized rather than a localization-related mechanism for seizures.  

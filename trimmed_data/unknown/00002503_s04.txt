@@ -1,0 +1,9 @@
+MEDICATIONS: Depakote, Dilantin, others.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.   Patient is intubated and comatose.
+DESCRIPTION OF THE RECORD: As the tracing opens, the background is diffusely slow and suppressed with an delta activity of .5 to 2 Hz, 10 to 30 uV.  Occasional discrete left occipital sharp waves are seen.  No reactivity to external stimuli was seen.
+HR:  90 BPM.
+IMPRESSION: Abnormal EEG due to:
+Diffusely slow and suppressed background.
+Occasional left occipital sharp waves.
+Predominantly deltaactivity. 
+CLINICAL CORRELATION: This tracing supports the diffuse disorder of cerebral function, as well as the possibility of a structural abnormality on the right.  A toxic or metabolic encephalopathy or medications may produce some of the background slowing described above. 

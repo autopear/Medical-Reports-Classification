@@ -1,0 +1,16 @@
+ 
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic 
+stimulation are performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 
+well-organized 10 Hz alpha rhythm with a small amount of low voltage frontocentral beta 
+activity. Drowsiness is characterized by slow-rolling eye movements. Vertex waves are 
+noted in stage I sleep. Hyperventilation does not activate the record. Photic stimulation 
+elicits a driving response. Head rocking artifact and a skull defect are noted 
+intermittently in the frontocentral regions. 
+HR: N/A 
+IMPRESSION: EEG within normal limits. 
+CLINICAL CORRELATION: The skull defect and associated breech rhythm are not 
+pathologic abnormalities. No epileptiform features were seen. 
+ 

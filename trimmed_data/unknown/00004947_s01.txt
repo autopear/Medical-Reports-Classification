@@ -1,0 +1,8 @@
+MEDICATIONS: Heparin, Protonix, Dilantin, and Hydralazine.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an intrahemispheric asymmetry.  From the left hemisphere, there is a 10 Hz alpha rhythm of approximately 30 uV, but the left hemisphere demonstrates a small amount of background theta and suboptimal organization.  The right hemisphere demonstrates disruption of faster frequency activity.  There is no well-defined alpha rhythm.  There is semi-rhythmic delta activity in the right hemisphere.  The patient was agitated during the record.  The episodes of agitation was not associated with ictal changes.  Photic stimulation does not activate the record.
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Intrahemispheric asymmetry.
+	Arrhythmic delta from the right with decreased faster frequency activity on the right.
+CLINICAL CORRELATION: This EEG supports a structural abnormality on the right involving both gray and white matter.  No epileptiform features were seen.  The mild slowing identified from the left is a non-specific finding.  

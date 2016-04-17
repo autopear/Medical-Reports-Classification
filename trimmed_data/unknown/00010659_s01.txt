@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin and Phenobarbital.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 9.25 Hz alpha rhythm with a small amount of low voltage, frontocentral beta activity.  There is a scan amount of background theta in the record seen bilaterally. Drowsiness is characterized by an increase in background beta.  Hyperventilation does not activate the record.  Photic stimulation elicits minimal driving.  
+HR:  78 BPM.
+	IMPRESSION: EEG within normal limits in wakefulness and brief drowsiness.
+CLINICAL CORRELATION: No definite epileptiform features were identified in this record.  If characterization of this patient’s epilepsy is an important consideration, a repeat study capturing sleep is recommended.  The scant amount of theta described above is within normal limits.

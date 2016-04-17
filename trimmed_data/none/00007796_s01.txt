@@ -1,0 +1,9 @@
+MEDICATIONS: Depakote and many others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake, crying, and hyperventilation and photic stimulation could not be completed.   
+DESCRIPTION OF THE RECORD: The background EEG is remarkable for a significant amount of muscle, particularly in the frontal regions.  Higher amplitude, rhythmic 3 to 5 Hz activity is identified from the occipital regions bilaterally with epileptiform activity demonstrating variable maximum including O2, T6, and on occasion O1.  The majority of the activity is at O2/T6 with spread to O1.  The occipital activity is higher amplitude than the anterior and central portions of the EEG. This portion, when identifiable, includes a mixture of rhythmic theta frequency activity, smaller amounts of delta, and a great deal of muscle.  
+HR:  162 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Absence of normal developmental milestones for a child of this age. 
+Higher amplitude, rhythmic 3 to 5 Hz activity from the posterior regions bilaterally.
+Primarily a right occipital spike and slow wave focus, but with some spread to involve T6 and O1.
+CLINICAL CORRELATION: This tracing supports a severe disturbance of brain function affecting both gray and white matter of both hemispheres.  The posterior portions of the brain appear to be preferentially affected and the epileptiform activity is in this region.  No seizures were recorded. 

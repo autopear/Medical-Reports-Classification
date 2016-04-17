@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin, Tylenol with codeine.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Patient was relatively somnolent. Photic stimulation was completed. Hyperventilation was deferred.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is somewhat disorganized, but there is a 9 Hz alpha rhythm.  Occasional bursts of shifting slowing are noted in wakefulness and into drowsiness.  Broadly contoured vertex sharp waves were noted.  EKG artifact was a bit more prominent on the left, but there was also a very slight suggestion of a bit more focal slowing on the left compared to the right.   
+Photic stimulation elicited scant driving.   
+Heart rate 96 beats per minute.
+IMPRESSION:  This is an abnormal EEG for an adult of this age due to:
+Occasional burst of shifting slowing.
+A very subtly symmetry with a bit more sharply contoured slowing in the left frontotemporal frontocentral region relative to the right.
+CLINICAL CORRELATION:  No definitive sharp waves were noted, although this EEG was remarkable for a fair amount of both EKG and eye movement artifact.  Additional EEG recording with more extensive sleep may be helpful to characterize epileptiform activity.  In this individual with a history of previous aneurysm, no cranial defect was noted by the tech and there was no definitive breech rhythm.

@@ -1,0 +1,17 @@
+MEDICATIONS: Dilantin, Keppra, Metformin. 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel EKG. The patient is intubated and poorly 
+responsive. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a slow, mixed 
+frequency pattern. In the left hemisphere there is primarily theta. From the right there is 
+a mixture of theta and delta. A breach rhythm is characterized by an increase in faster 
+frequency. activity in the right frontotemporal region. Stimulation of the patient produces 
+an increase in faster frequency activity. 
+96 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Superimposed focal slowing from the right. 
+CLINICAL CORRELATION: No sharp waves were seen from the right or left temporal 
+region. In comparison to previous EEGs, this is slower than many of the other studies 
+and is among the few studies that have not shown definitive epileptiform activity.
+ 

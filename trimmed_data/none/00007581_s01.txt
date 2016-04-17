@@ -1,0 +1,9 @@
+MEDICATIONS:  Keppra, Lovenox, Zofran, Morphine.
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  The patient had no activating procedures performed.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9 Hz which is reactive to eye opening.  There is normal amount of frontocentral beta.  The patient goes into stage 1/stage 2 sleep.  No activating procedures were performed.
+ABNORMAL DISCHARGES:  Focal slow waves seen at T3 more than T4 at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts.
+SEIZURES:
+IMPRESSION:  Abnormal EEG due to: 
+Independent right temporal slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the bilateral midtemporal regions, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

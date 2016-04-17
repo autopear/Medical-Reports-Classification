@@ -1,0 +1,11 @@
+MEDICATIONS:  Lovenox, Ativan, Azithromycin, Atorvastatin, Famotidine, Tylenol.
+REASON FOR STUDY:  Status post anoxic injury.
+INTRODUCTION:  Digital video long term video EEG was performed using standard 10-20 system of electrode placement with anterior temporal single lead EKG electrode.  The patient was recorded unresponsive and comatose.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD: The study opens to a attenuated background with no normal posterior dominant rhythm or frontal central beta.  In between the severely attenuated background there is intermittent anterior predominant generalized sharp waves with a maximum in the frontal region that are occurring once every 3 seconds, and at times become more periodic and more consistent with generalized periodic epileptiform discharges (GPEDs).  During the recording the amplitude of these discharges, which at the beginning is closer to anywhere from 35 to 150 mcV, by the end of the recording the discharges are anywhere from 25 to 70 mcV.  Throughout the recording the EEG remains with a similar background with the exception that at times during the early morning hours the patient appears to develop some muscle artifact during stimulation.  It is difficult to assess if the background is reactive due to the muscle artifact. 
+ABNORMAL DISCHARGES:  As above.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+1. A severely suppressed background. 
+2. Generalized periodic epileptiform spikes at times becoming GPED.
+CLINICAL CORRELATION:  This EEG reveals evidence of acute diffuse cerebral dysfunction, which may be seen in diffuse anoxic injury, but it is not exclusive to this disease.

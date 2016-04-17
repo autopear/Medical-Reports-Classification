@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Ativan, Protonix, and Dexamethasone. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient is intubated and poorly responsive during the study.
+DESCRIPTION OF THE RECORD: The background EEG is disorganized and attenuated.  It is low voltage, diffusely slow with occasional beta in the frontal region. There is asymmetric beta and theta activity seen on the left.  There are occasional frontal sharp waves, more prominent in the left frontal region.  There are also brief episodes of mild left temporal delta.  Stimulation elicits muscle artifact and theta waves bilaterally.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized slowing.
+Asymmetric pattern, more on the left than the right.
+Occasional left frontotemporal sharp waves.
+CLINICAL CORRELATION: This tracing demonstrates a severe disturbance of both gray and white matter, left more than right.  

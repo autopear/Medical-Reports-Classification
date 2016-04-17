@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin, ceftriaxone, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel EKG.  Technically, one of the specific challenges for the patient was that she was shivering greatly.  Previous EEGs were not available at this time.
+DESCRIPTION OF THE RECORD:  Underlying the shiver artifact, the background EEG is somewhat slow with primarily a theta pattern.  There is a bit of superimposed focal slowing.  This is seen in the right posterior regions with disruption of the alpha rhythm.  It can also be seen in the central temporal regions.  There is a glimpse of a 9 Hz alpha rhythm seen at times a bit more on the left than the right.  Drowsiness is characterized by an increase in beta.   
+Heart rate 96 BPM.
+IMPRESSION:  This is a somewhat technically challenging EEG due to the shiver artifact, but is abnormal due to:
+Generalized background slowing.
+Shifting slowing in the right posterior and left temporal region. 
+Disruption of the alpha rhythm on the right.
+CLINICAL CORRELATION:  Previous EEGs are not available for comparison.  This EEG did not demonstrate epileptiform activity.  The shiver artifact may be part of the urosepsis.

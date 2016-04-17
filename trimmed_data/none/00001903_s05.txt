@@ -1,0 +1,10 @@
+MEDICATIONS: Tylenol, Phenobarbital, Vancomycin, and Depakote. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal with a mixture of rhythmic theta and shifting arrhythmic delta.  The activity is sharply contoured.   There are bursts of rhythmic frontal delta and bursts of shifting arrhythmic delta, some of which are more remarkable from the right compared to the left with a bit more arrhythmic delta activity in the right hemisphere and a bit more sharply contoured activity in the right central region, but without definitive spike and slow wave complexes.  Apparent vertex waves are identified, although it is not entirely clear what the patient’s sleep state is.  The technologist avoids stimulating the patient as that seems to elicit some of her agitation.  When the video is reviewed, the portions of the record with the vertex activity demonstrates a relatively quiet individual, but without testing, it is impossible to know whether or not the patient is in fact asleep.  She is noted to have spontaneous movements of the left hand and sits with the left hand somewhat clenched.   
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing with a mixture of rhythmic theta and arrhythmic delta.
+Shifting arrhythmic delta sometimes more prominent in the right hemisphere.
+Bursts of generalized frontal delta.
+Concerning, pathological vertex waves noted for this individual. 
+CLINICAL CORRELATION: No seizures were seen.  In comparison to previous studies, the epileptiform activity previously identified, which was quite prominent, has resolved substantially. The activity described above is unusual in nature, but is in all likelihood epileptiform.  

@@ -1,0 +1,9 @@
+MEDICATIONS:  Lorazepam, Zolpidem, Enalapril, Meclizine, Aspirin, Ventolin, Metoprolol, Imdur, Furosemide, Omeprazole, Simvastatin, Metoclopramide, Fluticasone.
+REASON FOR STUDY:  History of seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with anterior temporal electrodes and EKG electrodes.  Sleep stage I and photic stimulation were recorded.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm at 9 Hz with 20-60 mV amplitude, which is reactive to eye opening.  There is normal frontal central beta seen. Sleep is characterized by stage 1.  Photic stimulation does not reveal any abnormal discharges. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  A normal EEG does not exclude the diagnosis of epilepsy.  No seizures or epileptiform discharges were seen.

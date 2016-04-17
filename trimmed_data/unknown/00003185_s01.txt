@@ -1,0 +1,8 @@
+MEDICATIONS: Ativan drip, Dilantin, multiple antibiotics, Acyclovir.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and comatose. 
+DESCRIPTION OF THE RECORD: The initial portions of the EEG are extremely low voltage, featureless, with slow delta.  Stimulation of the patient produces artifact, but doesn’t clearly activate the record.  As the recording continues, the CNS-acting agents are adjusted.  This produces an increase in beta frequency activity particularly from the left in the central region, but the temporal regions remained relatively suppressed. By the close of the record, there are portions with less muscle with a low voltage, featureless pattern, but with some broadly contoured delta activity in the left centrotemporal region.  
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Marked, generalized background slowing.
+Subtle, superimposed left centrotemporal focal delta.
+CLINICAL CORRELATION: The dynamic changes in terms of background slowing seen in this record may be due to adjustment of this patient’s medications.  No periodic epileptiform features were identified in this record, as might be anticipated in the setting of herpes encephalitis.  There are previous EEGs for this subject with the above medical record number and these EEGs, which were recorded for seizures and hypothermia, demonstrated background slowing but not as severe as seen in this record.

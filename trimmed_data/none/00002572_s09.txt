@@ -1,0 +1,10 @@
+REASON FOR STUDY:  Differential and classification of seizures or episodes of loss of consciousness.
+MEDICATIONS:  None listed, we will add later.
+INTRODUCTION:  A long-term EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  No activating procedures were used.  Continuous spike wave detection program was used as well as seizure detection software to review the EEG.  In addition, nurses notes and patient's events were also used to review the EEG.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is an excessive amount of beta seen throughout the recording.  The patient is recorded during wakefulness and limited sleep.  Activating procedures were not performed.
+ABNORMAL DISCHARGES:  None.
+PUSHBUTTON EVENTS:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges were seen.  No pushbuttons were seen or evaluated during this 41 hours of long-term admission.

@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Labetalol.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: There are portions of the record when the patient is maximally awake where the left hemisphere is reasonably well organized with an 8 Hz posterior dominant rhythm.  Throughout the record, there is arrhythmic delta activity identified from the right hemisphere, most prominent in the right frontal region, but with a generous field of spread throughout the right frontal region.  There is a periodic right hemispheric discharge identified. This has a generous field of spread, but with utilization of an average reference, it seems to be most prominent in the right frontal region although with bipolar montages, it seems to be right frontotemporal with more significant arrhythmic delta activity in the right posterior quadrant.  Features of drowsiness include an increase in background slowing from both hemispheres, and to some extent greater prominence of the arrhythmic delta activity from the right hemisphere.  
+HR:  72 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:
+	Essentially continuous focal slowing from the right hemisphere.
+	Right periodic complex with variable maximum as described above.
+CLINICAL CORRELATION: This EEG supports a structural or functional abnormality on the right, despite the absence of radiographic imaging abnormalities.  Given the prominent periodic activity described above, long-term monitoring was discussed with the house officer.  

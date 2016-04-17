@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin, Keppra
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  Much of the EEG is relatively low voltage and featureless aside from a higher amplitude, broadly contoured periodic complex in the left posterior quadrant with a generous field of spread including T5, T1, T3.  The right hemisphere is lower voltage and does pick up some of the activity from the left, perhaps due to a transverse dipole.  There is a small amount of variability in the record, with some sections of the record with smaller amount of theta and others with beta. The periodic activity sometimes appears as pairs or brief bursts, but does not evolve.  Stimulation of the patient does not seem to activate the record.   
+HR:    116 bpm
+IMPRESSION:  Abnormal EEG due to:
+Periodic complexes in the left posterior temporal region.
+Marked background slowing.
+CLINICAL CORRELATION:  There is a small amount of reactivity and variability in the record.  The overall record is slower than previous studies.  The periodic complexes are unchanged.

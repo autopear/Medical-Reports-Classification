@@ -1,0 +1,11 @@
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  
+DESCRIPTION OF THE RECORD: In wakefulness, there is a posterior dominant rhythm which at times, reaches 9 Hz.  This is a high amplitude EEG with an alpha rhythm of 50 Hz.  In this background, there are occasional bursts of higher amplitude paroxysmal slowing.  There are also some subtle discrete spikes or sharps at the vertex in wakefulness at CZ, were at times a bit more towards C3.
+ Hyperventilation is performed early on in the record producing bursts of very high amplitude paroxysmal rhythmic slowing.  Drowsiness if characterized by hypnagogic hypersynchrony.   In relaxed wakefulness and in the transition to drowsiness, there are bursts of somewhat irregular paroxysmal slowing and some occasional arrhythmic slowing in the posterior region.  
+Photic simulation did not clearly activate the record.  Towards the end of the record, there are bursts of high amplitude frontally predominant notched slowing. 
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+1. Intermittent, bursts of paroxysmal high amplitude slowing and wakefulness.
+2. In this high amplitude record, there is on rare occasion, a bit of posteriorly predominant subtle underlying delta.
+3. There appears to be a discrete spike noted in the background.  In this very sharply contoured background, on rare occasions, it is at CZ or C3. 
+CLINICAL CORRELATION:   In this individual with a history of profound overdose, these findings may represent residual of that experience.  Ongoing neurologic monitoring is important.

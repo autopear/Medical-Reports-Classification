@@ -1,0 +1,10 @@
+MEDICATIONS: Depakote, Dilantin, and Aricept, others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 Hz, 30 V posterior dominant rhythm. Initially, there is subtle focal slowing from the left with hyperventilation producing occasional, more prominent sharply contoured slowing from the left temporal region.  In wakefulness, there is also a small amount of background theta.  
+Following hyperventilation, as the patient becomes drowsy, there is again some sharply contoured slowing from the left temporal region as well as a rare, right single temporal sharp wave. 
+Photic stimulation does not activate the record.  
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Left temporal focal slowing with subtle underlying sharp waves.
+Occasional shifting temporal slowing.
+CLINICAL CORRELATION: Some of these features are non-specific in this clinical context, but support a diffuse disorder of cerebral function as well as a partial mechanism for epilepsy.  Correlation with imaging would be helpful in terms of the left temporal features.  

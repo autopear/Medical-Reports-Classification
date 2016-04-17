@@ -1,0 +1,9 @@
+MEDICATION: Dilantin, Neurontin.
+ACTIVATION: Photic Stinmlation and Hyperventilation.
+INTRODUCTION: Digital Video EEG was performed in the lab using standard 10-20 system of electrode placement  with one channel  of EKG.  This is an awake and asleep record.
+DESCRIPTION OF THE  RECORD: In wakefulness, there is an 8.5 - 9Hz, 30-50uV posterior  dominant  rhythm  with  a  small  amount  of  low  voltage,  frontocentral  beta activity.  There is a subtle asyinmetry with intermittent arrhythmic slowing from the left temporal region.    Hyperventilation  is performed  early on  in  the  record  and produces rhytlnnic frontally predominant  slowing as well as subtle features from the left.   Vertex waves and spindles are seen in stage II sleep.  Photic stimulation  is performed while the patient is asleep or drowsy.  No driving response is seen although when the patient wakes up, there is some LAMBDA.
+HR:   90BPM
+IMPRESSION: Abnormal EEG due to:
+1. Subtle left·temporal focal features seen in HV
+CLINICAL CORRELATION: No epileptiform features were seen in this record.   The bursts  of  rhythmic  slowing  seen  in  hyperventilation   are  typical  of  a  normal   HV reposonse.
+•

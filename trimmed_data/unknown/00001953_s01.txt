@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin, Ativan, Dilaudid
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  Through much of the record, the patient is drowsy with a lot of institute delta and beta. the record for the most part is slow and a bit suppressed with some excess delta activity. Minimal posterior dominant alpha rhythm is seen reaching normal limits at 9 to 10 Hz at 25 microvolts. It is usually seen just at arousal and followed by some increase in muscle artifact and movement of the patient. Initially, some FIRDA is seen in the record, but does not continue throughout the recording.
+	HR:	100 bpm, irregular, with an ectopy.
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Slowing of the background with some suppression.
+	2. 	Initial FIRDA
+CLINICAL CORRELATION:  No epileptiform activity or seizures are recorded in this record and the findings are nonspecific, but could be seen in a post ictal state. The fast frequency could be consistent with medication treatment.  Further clinical correlation is
+recommended.

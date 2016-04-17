@@ -1,0 +1,9 @@
+MEDICATIONS: Ativan, Dilantin, insulin, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Noxious stimulation was applied to the patient.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: The overall background EEG is mildly slow for the patient’s age.  There is an intrahemispheric asymmetry with occasional to frequent left anterior temporal sharp waves at F7, T1, and T3.  Stimulation of the patient briefly produces an arousal, but not enough to wake him up.  Stage II sleep is achieved briefly and characterized by spindles
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Left temporal parietal focal slowing.
+Occasional left anterior temporal sharp waves, anterior to the parietal area. 
+Mild background slowing.
+CLINICAL CORRELATION: This tracing is suggestive of a structural lesion in the left hemisphere and is consistent with this patient’s history of parietal stroke. However, the left anterior temporal sharp waves are anterior to the area of the stroke and could represent a focal mechanism for epilepsy.  A follow-up study would be valuable to further assess the EEG changes without underlying sedative hypnotic effects.  Correlation with neuroimaging data is recommended. 

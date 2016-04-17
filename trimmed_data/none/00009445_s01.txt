@@ -1,0 +1,9 @@
+MEDICATIONS:  Tegretol, Risperidone, Paxil, ProAmatine.
+REASON FOR STUDY:  Evaluation for seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recording during wakefulness and drowsiness.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to weak pattern, well-defined posterior dominant rhythm at 9-10 Hz with 15 microvolt amplitude which is reactive to eye opening.  There is a normal frontocentral beta.  The patient appears to go into the stage 1 sleep.  Activating procedures including hyperventilation will induce high amplitude alpha rhythm indicative of drowsiness and also the photic stimulation elicits supraharmonic alpha driving, but no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and drowsiness EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Please note that the EEG does not exclude the possibility of seizures.

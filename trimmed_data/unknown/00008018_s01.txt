@@ -1,0 +1,6 @@
+MEDICATIONS: Haldol and Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is primarily an asleep record.  
+DESCRIPTION OF THE RECORD: The vast majority of the record demonstrates stage II sleep with generous spindles, POSTS, and K complexes. Stimulation of the patient elicits brief alerting, but the patient is unable to sustain wakefulness.  
+HR:  90 BPM.
+	IMPRESSION: Normal EEG within normal limits in stage II sleep.
+CLINICAL CORRELATION: Consideration for a disorder of hypersomnolence would be appropriate. No epileptiform features were seen. 

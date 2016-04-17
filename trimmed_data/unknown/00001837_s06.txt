@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, Ativan, Lorazepam, Lovenox 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and agitated. Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a somnolent patient with generous beta activity. There are features of normal stage II sleep with vertex waves, spindles and posts. Toward the end of the record, the patient becomes somewhat agitated with spontaneous arousals and a low voltage alpha and beta frequency pattern. There is a glimpse of an alpha rhythm. 
+HR: 90 bpm 
+IMPRESSION: EEG is within normal limits. 
+CLINICAL CORRELATION: The EEG demonstrates normal stage II sleep. When she arouses, a relatively normal agitated pattern with an alpha rhythm and generous beta are identified. On clinical correlation, there are no epileptiform features noted in the record. The generous beta may be due to this patient's medications. Of note, this patient has had 3 EEGs; none of them have identified epileptiform activity. A repeat study capturing one of her spells may be appropriate. 

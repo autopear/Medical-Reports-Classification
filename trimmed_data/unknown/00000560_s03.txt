@@ -1,0 +1,13 @@
+MEDICATIONS:  Dilantin, Keppra and others.
+INTRODUCTION:  Digital EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was not intubated, but quite somnolent.  He is minimally arousable to verbal stimuli in Spanish.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly slow.  When the patient is stimulated, there are bursts of frontal-predominant delta. 
+The patient demonstrates frequent and at times nearly continuous left posterotemporal, T5, sharp waves and spikes with amplitude delta and fast activity.  To some extent, tactile stimulation of the patient seems to ameliorate the epileptiform activity.  In some cases it disappears and in another cases it is a bit more blunted. 
+The patient has intermittent jerking of the right leg, which does not clearly correlate with the epileptiform activity.  This may be about 1 per second.  The patient also had 1 episode of eye deviation to the right again without a clear change in the ongoing epileptiform activity.  Consistently, tactile stimulation of the patient does produce more high amplitude slow, chaotic delta in the frontal regions. 
+Heart rate 90 BPM.
+IMPRESSION:  This is an markedly abnormal EEG due to
+1. A prominent focus of epileptiform activity in the left posterotemporal region.
+2. At times some evidence of evolution of that epileptiform activity, particularly with fast activity.
+3. Marked background slowing.
+4. A pathological response to tactile stimulation, which includes frontal delta.
+5. In this individual with prominent area of epileptiform activity in the left temporal region, there is almost a positivity at T1, which may proceed or follow the T5 activity suggesting a horizontal dipole.
+CLINICAL CORRELATION:  Consistent with ongoing ictal pattern. Continuous EEG monitoring was initiated.

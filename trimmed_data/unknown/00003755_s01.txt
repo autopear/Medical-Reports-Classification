@@ -1,0 +1,15 @@
+MEDICATIONS: Dilantin, Ativan, Keppra. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record in an individual who is quite sleepy. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: The patient is quite drowsy at the beginning of the record with an overall slow background with delta and smaller amounts of theta. There is a suggestion of an asymmetry with a little slower activity on the right than the left. The background EEG is abnormal and includes primarily a theta frequency pattern with a glimpse of an alpha rhythm. The alpha rhythm is somewhat slow at 7Hz. 
+There are focal epileptiform features observed in this record. These include discrete high amplitude right anterior temporal spike and slow wave complexes, right occipital spike and slow wave complexes and some bifrontal sharp waves, left higher amplitude than the right. 
+Hyperventilation seems to accentuate the epileptiform activity from the frontal and occipital regions. Photic stimulation does not produce a driving response but may also accentuate the epileptiform activity. 
+As the recording continues, the patient starts to arouse spontaneously with an 11 Hz alpha rhythm and a background with excess beta. Intermittently a bit of rhythmic slowing is observed in the right hemisphere particularly the posterior temporal. 
+Photic stimulation is performed while the patient is asleep and does not significantly activate the record. Toward the close of the record, there is a suggestion of sharp waves on the right, but unfortunately there is also electrode artifact. 
+HR: 96 bpm 
+IMPRESSION: Abnormal EEG due to:
+1. Abnormal background.
+2. Focal epileptiform activity including frontal, temporal or occipital.
+3. Excess beta.
+4. Initially excess slowing.
+CLINICAL CORRELATION: There is certainly a suggestion of slowing on the right, however, there are some technical limitations of this record. To more completely evaluate this patientÆs underlying epilepsy, a followup study is suggested.
+The epileptiform activity described today has been previously noted. Of note, the temporal epileptiform activity is much more prominent. No occipital seizures were noted and the patient is not experiencing refractory headaches at this time.

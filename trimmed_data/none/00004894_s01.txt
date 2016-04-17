@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-2- electrode placement system with anterior temporal and single EKG electrode.  The patient was recorded during wakefulness and sleep  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a limited wakefulness that reveals a posterior dominant rhythm that best reaches 9 hertz and is reactive to eye opening.  There is diffuse marked excessive beta seen throughout the recording.  The patient is recorded in wakefulness, stage I, stage II sleep mainly.  No activating procedures were performed.
+HEART RATE:  which was 124.
+ABNORMAL DISCHARGES:  
+Focal slow wave seen over the right hemisphere maximal at T6 on a frequency of 2-4 hertz and amplitude of 20-60 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to focal slowing over the right hemisphere, maximal on the right posterior temporal region as well as excessive beta in wakefulness and sleep.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebellar dysfunction in the right posterior temporal region, which is consistent with the known injury.  In addition, there is evidence of excessive beta which may be due at least in part to benzodiazepines or barbiturate use.  No seizures were seen.   

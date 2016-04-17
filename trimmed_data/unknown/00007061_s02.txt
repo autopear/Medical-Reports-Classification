@@ -1,0 +1,8 @@
+MEDICATIONS:  Hydralazine, Codeine, Dilantin
+INTRODUCTION:	Digital video EEG is performed in lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation and hyperventilation are performed. The record includes wakefu lness and sleep. The study is done for encephalopathy.
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow and poorly organized with beta, and arrhythmic delta activity. At times, the right hemisphere is somewhat slower than the left. Photic stimulation serves to alert the patient producing
+an increase in alpha and theta frequency activity. Breech rhythm is apparent at that time with accentuation of the faster frequency on the left. Minimal driving is observed.
+HR:	66 bpm
+IMPRESSION: Abnormal EEG due to:
+1. Generalized background slowing.
+CLINICAL CORRELATION: No epileptiform features are observed today. The pattern described today is more one of a diffuse encephalopathy rather than a focal process.

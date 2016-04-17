@@ -1,0 +1,14 @@
+MEDICATIONS:  Tylenol, Ativan.
+REASON FOR STUDY:  Change in mental status and seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with additional anterior temporal and single lead EKG electrode.  The patient was recorded while he was agitated and not following commands.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  A lot of movement artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a disorganized slow background with posterior dominant rhythm that at best reaches 6-7 Hz and does not appear to be reactive to eye opening.  There is a lack of normal frontal central beta.  No normal sleep architecture is seen.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:
+Generalized slow waves at 5-7 Hz with an amplitude of 20-70 mV seen continuously.  
+Triphasic waves seen intermittently maximally anteriorly.
+At times there is frontally contoured sharp transients, but not clearly pathologic sharp waves.  
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves. 
+Triphasic waves.
+CLINICAL CORRELATION:  This EEG is consistent with diffuse cerebral dysfunction which is nonspecific in regards to etiology.  However, in this case it is at least partly due to metabolic encephalopathy and/or medication effect.  No seizures were seen.

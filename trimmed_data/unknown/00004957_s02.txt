@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Ativan, Glucophage, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with a 10 Hz alpha rhythm. Drowsiness is characterized by a prominent increase in background beta activity.  In the transition to wakefulness and drowsiness, there is some wicket activity some eye movement artifact.  Vertex waves and spindles are noted in stage II sleep.  
+Photic stimulation elicits bilateral driving. 
+HR:  104 BPM, occasional PVCs.
+	IMPRESSION: EEG within normal limits.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this patient with acute head trauma and two seizures.  In addition, this patient had a previous EEG on Friday, which was also normal.    

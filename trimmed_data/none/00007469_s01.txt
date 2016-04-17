@@ -1,0 +1,24 @@
+MEDICATIONS: Dilantin, Morphine. Famotidine. Lopressor 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of 
+electrode placement with 1 channel of EKG. The patient is responsive. 
+DESCRIPTION OF THE RECORD:
+ The background EEG demonstrates a mixed frequency 
+background. There are intermittent high amplitude sharp waves from the right hemisphere, 
+maximum in the frontal regions but with a generous field of spread throughout the right 
+hemisphere. There are also occasional bursts of rhythmic slowing noted in the right 
+frontocentral region. The additional background includes at times a mixture of alpha and beta 
+frequency activity on the left. From the right hemisphere. the faster frequency activity is 
+disrupted and there is more of a pattern of theta delta. Stimulation of the patient clearly 
+produces an arousal with faster frequency activity Identified bilaterally. Although there are some 
+sections of the record with bursts of sharp waves or trains or sharp waves, there are no 
+sustained ictal discharges. Features of drowsiness include a prominent increase in beta 
+identified bilaterally although less so on the right frontocentral region. 
+HR: 84bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. High amplitude sharp waves from the right hemisphere particularly frontocentral regions 
+with a generous field of spread. 
+2. Intermittent rhythmic delta from the right central region. 
+3. Disruption of faster frequency activity on the right. 
+CLINICAL There were no seizures identified Supports a focal mechanism for 
+seizures. 
+ 

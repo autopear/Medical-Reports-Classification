@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and Hydralazine. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as lethargic. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow.  Much of the record is low voltage, diffusely slow, featureless pattern with delta and smaller amounts of theta.  There is a subtle, intermittent asymmetry identified with a bit more theta from the left hemisphere than the right.  There are a handful of triphasic waves identified in the record, and there are two left anterior temporal sharp waves identified.  There are some discernable waveforms compatible with stage II sleep including vertex waves and spindles seen in the middle section of the record.  Stimulation of the patient produces a minimal alerting, although there is clear variability in the record.  
+HR:  __ BPM.
+	IMPRESSION: Abnormal EEG due to:
+Severe, generalized background slowing.
+Occasional triphasic waves.
+Occasional left temporal sharp waves. 
+CLINICAL CORRELATION: This tracing supports a diffuse disturbance of cerebral function affecting both gray and white matter.  The triphasic waves suggest a metabolic component and the occasional sharp waves suggest a potential for seizures.  There is a small predominance of faster frequency activity in the frontal regions, which in this context is of unclear significance with the parietal features described in the CAT scan.  No seizures were recorded.  

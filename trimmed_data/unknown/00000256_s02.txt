@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, antibiotics, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG..  The patient is unresponsive, trached, and ventilator dependent.  
+DESCRIPTION OF THE RECORD: The background EEG is symmetric, continuous, and diffusely slow.  The posterior dominant alpha rhythm and frontocentral beta activity is absent.  There is a 5 to 6 Hz activity seen in the background. There is a very small degree of variability as well as no reactivity to stimulation.  A small amount of delta activity is superimposed on the background
+HR:  102 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Disorganized background with diffuse slowing. 
+Minimal variability and no reactivity to stimulation. 
+CLINICAL CORRELATION: This abnormal EEG pattern is suggestive of a severe cerebral dysfunction involving both gray and white matter, as well as deeper nuclei at the midline.  This can be seen in patients with posterior fossa surgery, toxic or metabolic encephalopathy, or medication effect.  No epileptiform features were identified in this record.  

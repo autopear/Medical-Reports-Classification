@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Phenobarbital, Ativan, others.
+INTRODUCTION:  Digital video EEG is performed at the bedside  in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient withdraws to noxious stimuli.
+DESCRIPTION   OF  THE  RECORD:  The background BEG is low voltage and relatively featureless, but with stimulation,  there  is an increase in frontal delta.   The previous craniotomy defect with right frontal artifact is noted.   In  addition, there is a breach rhythm noted from that region.
+HR:  114BPM.
+IMPRESSION: Abnormal BEG due to:
+1.     Replacement  of  normal  background  with  a  generalized  slow,  mixed  frequency pattern.
+CLINICAL CORRELATION: No epileptiform features were identified in this record. The presence of reactivity, as well as variability in this record is a positive prognostic feature.

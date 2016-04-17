@@ -1,0 +1,9 @@
+MEDICATIONS: Keppra, Dilantin, Ativan, Versed, and others 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  This is an awake and drowsy record in a patient described as confused. 
+DESCRIPTION OF THE RECORD: The background EEG includes a breach rhythm from the right frontocentral/frontotemporal region. There is a posterior dominant rhythm of 8 Hz with excess background beta and excess background theta.  Focal slowing is seen intermittently from the right hemisphere, particularly in the temporal regions, sometimes spreading to the right frontocentral region. There are also independent bursts of focal slowing from the left frontotemporal regions seen in later portions of the record.  A single left anterior temporal sharp and slow wave complex is identified. Drowsiness is characterized by an increase in background beta and accentuation of the breach.  Photic stimulation does not activate the record.    
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Focal slowing from the right temporal or central regions.
+Rare left frontotemporal slowing with a single left anterior temporal sharp wave.
+Generalized background slowing. 
+CLINICAL CORRELATION: This tracing supports a structural or functional abnormality, some of which is outside the region of this patient’s previous craniotomy.  A single sharp wave was identified and if further characterization of this patient’s epilepsy is important, an additional recording may be useful to determine whether or not the epileptiform activity is a projection from the right or epileptiform activity contralateral to the side of resection. 

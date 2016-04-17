@@ -1,0 +1,12 @@
+MEDICATIONS: Dilantin, Topamax, Phenobarbital 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. 
+DESCRIPTION OF THE RECORD: The overall background is poorly organized. There is rhythmic, 5.3 Hz activity noted in the posterior regions on the right. This activity is somewhat faster on the left at 5.8 Hz. The overall background is high amplitude, poorly organized. Paroxysmal bursts of generalized 6 Hz activity are seen intermittently in the background. As the patient becomes drowsy, these bursts are a bit more prominent. There are rare left frontocentral sharp waves. 
+HR: 120 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Background slowing. 
+2. Slowing of the alpha rhythm. 
+3. An asymmetry in alpha rhythm with a slower rhythm on the right. 
+4. Paroxysmal bursts of rhythmic 5 Hz to 6 Hz activity. 
+5. Rare left frontal sharp waves.
+ 
+CLINICAL CORRELATION: These findings support an underlying encephalopathy. The types of abnormalities described above are seen in a chronic static encephalopathy. No seizures were recorded. If additional information is needed, a repeat study capturing deeper stages of sleep can be of value. 

@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20
+system of electrode placement with 1 channel EKG. Patient with face mask.
+DESCRIPTION OF THE RECORD: At the start of this epoch, a disorganized background with intrahemispheric asymmetry is seen.   In the right hemisphere, there are bursts of polyspike activity, especially in the occipital regions.  These bursts of polyspike activity are separated by background attenuations seen equally in both hemispheres.  The technician notes patient attempt to talk during the study and in the video the patient's eyes are seen open.   Polyspike activity continues in the record as
+stimulation is done. Ativan is given, with improvement of the polyspike activity seen with decreasing amplitude.
+	HR:	88 bpm and irregular.
+IMPRESSION: Markedly abnormal EEG due to:
+	1.	Regular bursts of right occipital polyspike activity.
+	2.	Bilateral attenuations of the record lasting 2-3 seconds.
+CLINICAL CORRELATION:   There is regular epileptiform activity seen in the right occipital region which is consistent with the focus for epilepsy.  There are no evolutions or seizures recorded in this record.  The regular attenuations seen in the record a consistent with a severe cerebral dysfunction.

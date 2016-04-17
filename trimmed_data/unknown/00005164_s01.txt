@@ -1,0 +1,15 @@
+Medications: Dilantin 
+Sedation: 
+EEG Type: Awake & asleep 
+Technique: International 10.20 System; standard 21 electrodes with T1-T2 electrodes and EKG electrodes, awake
+Description: 
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies. No normal sleep architecture was present. 
+Focal slowing was seen continuously at T4 at times sharply contoured. There was an asymmetry in the amplitude consistent with a breach in that region. In addition there was intermittent Independent focal slowing at T3. No epileptiform discharges are present. No clinical or electrographic seizures were present.
+ 
+Hyperventilation and photic stimulation were not performed. The e was no reactivity to auditory, tactile, of painful stimuli. During the majority of the study there was a pronounced bitemporal muscle artifact that obscured the waveforms. 
+Summary of Findings:
+Focal slowing, polymorphic, continuous, right tempo al 
+Focal slowing, polymorphic. Intermittent, left temporal 
+Diffuse slowing, polymorphic, and continuous 
+Interpretation:
+This is an ABNORMAL EEG because of diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction. In addition there is evidence of focal structure I dysfunction in the right midtemporal region. Which is consistent with the known history. Last y there is evidence of independent left midtemporal local cerebral dysfunction, which is non-specific with regards to etiology.  

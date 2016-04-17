@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is well organized for a subject of this age with an 8.5 Hz, 50 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  There is occasional rhythmic, lower voltage theta seen independently from either hemisphere, left or right.  Photic stimulation elicits minimal bilateral driving response.  
+Features of drowsiness include hypersynchronous rhythmic slowing with occasional bursts of slowing in the right posterior quadrant.   
+HR:  72 BPM.
+	IMPRESSION: Mildly abnormal EEG for a subject of this age due to:
+Intermittent slowing identified from either hemisphere with more arrhythmic delta from the right and more rhythmic theta from the left. 
+CLINICAL CORRELATION: No epileptiform features were seen in this record. It may be helpful to correlate this EEG with this patient’s imaging given his age.

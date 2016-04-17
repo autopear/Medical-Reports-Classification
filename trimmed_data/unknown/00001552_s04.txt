@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Phenobarbital, Ativan, Depakote, and antibiotics. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation and hyperventilation were not performed.  The patient was trached and unresponsive. 
+DESCRIPTION OF THE RECORD: The background EEG is low voltage with diffuse slowing.  During the recording, involuntary eye blinking with asymmetric eye movement were observed. The eye blinking and eye movement is of different frequency in each eye. and without EEG change. 
+HR:  108 BPM.
+IMPRESSION: Abnormal EEG due to:
+	1.	Low voltage with diffuse slowing.
+CLINICAL CORRELATION: This tracing demonstrates significant severe diffuse cerebral dysfunction. Compared to this patient’s previous EEG, this record did not show significant change.  Again, no active epileptiform discharges were identified in this recording.  The dysconjugated eye blinking and movement at very different frequencies are not of epileptogenic origin. 

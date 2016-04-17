@@ -1,0 +1,9 @@
+MEDICATIONS:  Prednisone, Bumax, Insulin, Cifedipine, Cardizem, Theophylline, Diltrazem
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is poorly responsive.
+DESCRIPTION OF THE RECORD:  The overall background is markedly slow with primarily a theta frequency pattern.  In wakefulness, there are little of the normal waveforms of wakefulness in an adult identified.  This is a very sharply contoured EEG.  Despite this, there are epileptiform discharges, including independent, higher amplitude right more than left temporal sharp waves.  There are also some left more than right occipital sharp waves and some generalized discharges with typical morphology of triphasic waves.  Stimulation of the patient produces an increase is theta.  
+HR:    96 bpm
+IMPRESSION:  Marked abnormal EEG due to:
+1. Markedly slow background.
+2. Triphasic waves.
+3. Well-defined sharp waves primarily from the right hemisphere but also left temporal and left occipital.
+CLINICAL CORRELATION:  No seizures were recorded.  This is a very epileptiform-appearing EEG.  The metabolic features may accentuate that phenomenon.

@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin and Albuterol.  The patient was otherwise not able to list her medications.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation are performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with an 11 Hz, 30 to 50 V posterior dominant rhythm and a generous amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by attenuation of the alpha rhythm.  The patient rapidly drifts into deeper stages of sleep with relatively symmetric, theta frequency activity as well as vertex waves, K complexes, and spindles.  In later stage II sleep, the background remains rich in beta frequency activity.  There are occasional bursts of shifting theta or delta.  Later stage II sleep is symmetric with abundant K complexes, spindles, and vertex waves.  
+Hyperventilation is performed with good effort producing symmetric slowing.  Photic stimulation is performed while the patient is asleep and no significant driving response is identified. 
+HR:  90 BPM, rare APCs.
+	IMPRESSION: EEG within normal limits for a subject of this age.
+CLINICAL CORRELATION: No significant focal or epileptiform features were identified in this record.  To further characterize this patient’s seizures, a repeat tracing with a more prolonged recording could be of use.  

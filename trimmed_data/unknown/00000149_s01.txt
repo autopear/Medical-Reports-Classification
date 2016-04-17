@@ -1,0 +1,7 @@
+MEDICATIONS:  Current medications:  Dilantin, Ativan, citalopram, and others.
+INTRODUCTION:  Condition of the recording:  The recording was performed to the standard 10-20 system with additional T1 and T2 electrodes and a single EKG lead.  Hyperventilation was not performed.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORDING:  The posterior dominant rhythm consists of low amplitude 10-11 Hz alpha activity that attenuates with eyes opening.  There is an anterior-to-posterior frequency amplitude gradient with faster frequencies and at lower amplitudes anteriorly.  During sleep vertex waves and sleep spindles are captured.  Hyperventilation was not performed.  Stepped photic stimulation resulted in no change in the background.  A single EKG lead demonstrates an irregular heart rate.
+FINDINGS:  
+No epileptiform discharges. 
+Cardiac arrhythmia.
+IMPRESSION:  This is a normal awake and asleep 21 minute EEG.  The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.  An irregular heart rate is captured on the single EKG lead.

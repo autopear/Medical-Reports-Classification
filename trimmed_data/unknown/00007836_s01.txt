@@ -1,0 +1,15 @@
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. The patient is intubated and 
+poorly responsive, but is stimulated during the study. 
+DESCRIPTION OF THE RECORD: Background EEG demonstrates a pharmacologic 
+pattern with generous, frontal beta activity and slow delta observed in the posterior 
+region. The slow delta is somewhat slower on the right in comparison to the left. 
+Stimulation of the patient produces some eye movement but no clear alerting. There is 
+a small degree of variability in terms of the quantity of beta observed in the background. 
+HR: 60 bpm. 
+IMPRESSION: Abnormal EEG due to: 
+1. Replacement of normal background with a pattern with generous beta activity in the 
+frontal regions and slow delta in the posterior regions, right greater than left. 
+CLINICAL The use of sedative hypnotic medications may play a role 
+in the generous beta. No epileptiform features were seen. The delta, which is slower on 
+the right compared to the left may be correlated with imaging and other findings. 

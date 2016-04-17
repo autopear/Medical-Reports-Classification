@@ -1,0 +1,14 @@
+MEDICATIONS: Synthroid, Dilantin, ASA, Renitidine, Benadril, Proventil, Zolpiem, 
+Diovan, Percocet 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic 
+simulation are performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 10 hertz alpha rhythm, 
+drowsiness is characterized by slowing of the alpha rhythm followed by the appearance 
+of beta, Hyperventilation produces rhythmic background slowing. Photic stimulation is 
+performed while the patient is drifting off to sleep and elicits scant driving. 
+HR: 60 bpm 
+IMPRESSION: Normal EEG. 
+CLINICAL CORRELATION: No focal or epileptiform features are observed. If this 
+patient is experiencing frequent seizures, a followup study may be appropriate. 
+ 

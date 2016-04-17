@@ -1,0 +1,14 @@
+MEDICATIONS:  Cipro.
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness.  Activating procedures, including photic stimulation, were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a disorganized background with a posterior dominant rhythm that at best reaches 8 Hz, which appears to be slightly reactive to eye opening.  There is a lack of normal frontal central beta.  No normal sleep architecture is seen. Activating procedures, including photic stimulation, produced no abnormal discharges. 
+ABNORMAL DISCHARGES:
+Focal slowing seen intermittently at F7/T3 and much more than F8/T4, and at times at C3/P3 at 2-4 Hz and an amplitude of 20-70 mV.  
+Generalized slow waves at 5-7 Hz with an amplitude of 20-70 mV.
+SEIZURES:  None
+IMPRESSION:  Abnormal EEG due to:  
+Focal slowing in the bilateral anterior temporal region. 
+Some mild generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the bilateral anterior temporal region, as well as the left parietal region, which is nonspecific in regards to etiology.  In addition, there is evidence of a diffuse cerebral dysfunction, which is also nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.
+__________________________

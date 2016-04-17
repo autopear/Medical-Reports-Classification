@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. This is an awake and a sleep record. Past description of seizures included onset in 1999 with typical seizures with nocturnal seizures with tongue biting. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.5 Hz posterior dominant rhythm. Hyperventilation is performed early in the record and in addition to the eye artifact, there is a somewhat asymmetric hyperventilation response with the appearance of a bit more slowing from the left hemisphere compared to the right. The left hemisphere demonstrates somewhat higher frequency slowing than the right and there are some sharply contoured discharges at T3. This is followed by drowsiness with anterior spread of the alpha rhythm. 
+Other features of drowsiness include a prominent increase in beta frequency activity. In the transition out of sleep just before photic stimulation, there is a single high amplitude left anterior temporal sharp wave and then another more clearly defined burst just prior to the 7 Hz stimulation. Photic stimulation elicits a driving response, but the patient's focal slowing from the left temporal region is a bit more prominent and the photic driving actually seems to be asymmetric at that time. 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Left temporal sharp waves. 
+CLINICAL CORRELATION: This is the second EEG for this individual. The previous EEG also demonstrated left temporal sharp waves. 
+ 

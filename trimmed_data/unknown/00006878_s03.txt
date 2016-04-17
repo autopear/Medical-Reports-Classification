@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin, Lovenox, Pantoprazole
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is confused.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a pattern of diffuse theta.  There are a handful of left temporal sharp waves overall in the record.  There is a frontal asymmetry with a bit of left temporal slowing noted early in the record, not as prominent later on.  Muscle and movement artifact are noted when the patient is a bit more active.  She is unable to fall asleep. 
+HR:    126 bpm
+IMPRESSION:  Abnormal EEG due to: 
+Generalized background slowing.
+Prominent excess theta.
+Left temporal sharp waves.
+Transient left temporal slowing.
+CLINICAL CORRELATION:  This EEG suggests a diffuse cerebral function with special, focal features.  No epileptiform features were observed.

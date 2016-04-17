@@ -1,0 +1,9 @@
+MEDICATIONS: Keppra, Dilantin, Protonix 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. 
+DESCRIPTION OF THE RECORD: In maximal wakefulness, there is an alpha rhythm of 7.8 to 8.3 Hz. There are some shifting asymmetries but on top of this there is some focal slowing with arrhythmic delta activity in the right hemisphere, particularly in the temporal and posterior quadrants but with some shifting asymmetries. Vertex waves are noted. The focal slowing in the right hemisphere is more prominent in sleep. 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Focal slowing from the right hemisphere, more prominent in sleep. 
+2. Mild background slowing. 
+3. Occasional shifting slowing.  
+CLINICAL CORRELATION: This EEG supports a structural functional abnormality on the right, congruent with a stroke. There are no definitive sharp waves, although there is some sharp wave contoured slowing. If additional information is needed, a follow-up study when the patient is out of the ICU may be of value. 

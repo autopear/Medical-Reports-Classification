@@ -1,0 +1,8 @@
+MEDICATIONS:  Keppra, Percocet, Gabapentin, HCTZ, Metoprolol, Baclofen
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  The patient is awake.
+DESCRIPTION OF THE RECORD:  The background EEG is disorganized.  There is an asymmetry with excess theta noted on the right compared to the left.  There are a handful of T4 sharp waves noted in the context of what is breach rhythm.  Generous beta is noted bilaterally.  This bedside EEG is remarkable for a fair amount of muscle artifact.
+IMPRESSION:  Abnormal EEG due to:
+Background slowing and disorganization.
+Theta noted most prominently in the right central region.
+Rare right anterior temporal sharp waves.
+CLINICAL CORRELATION:  No seizures were noted.  The background slowing and disorganization may be correlated with imaging.  The focal slowing on the right and the rare sharp waves are congruent with her history.

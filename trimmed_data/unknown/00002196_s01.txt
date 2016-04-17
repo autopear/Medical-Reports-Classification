@@ -1,0 +1,16 @@
+MEDICATIONS: Dilantin, Namenda 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of 
+electrode placement with 1 channel EKG. Multiple craniotomy scars are noted. 
+DESCRIPTION OF THE RECORD: The background EEG is somewhat slow and disorganized 
+with shifting arrhythmic delta activity. There is a suggestion at some point of a little bit more 
+rhythmic slowing on the left and the right and there are rare right temporal sharp waves, some 
+of which suggest a breach pathology. Photic stimulation does not activate the record. Features 
+of drowsiness include an increase in background slowing. 
+HR: N/A 
+IMPRESSION: Abnormal EEG due to: 
+1. Background slowing and disorganization. 
+2. Shifting slowing, perhaps a bit more so on the right. 
+3. Occasional right sharp waves. 
+CLINICAL CORRELATION: This EEG supports a bi-hemispheric disturbance of cerebral 
+function. The sharp waves are on the right although the patient has a more significant 
+craniotomy defect on the left. Correlation with imaging is suggested. 

@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient was not having seizures during the EEG and was responsive. The patient was awake.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates an 8 Hz posterior dominant rhythm.  There is generous, frontocentral theta and beta.  As the patient becomes drowsy, frontal slowing is noted, which is present bilaterally.  Other features of drowsiness include slow rolling eye movements. 
+Heart rate 72 BPM.
+IMPRESSION:  This is an abnormal EEG due:
+Mild background slowing.
+Additional more prominent slowing in the frontal regions.
+CLINICAL CORRELATION:  No epileptiform features were identified in this record.  For this patient with acute craniotomy, there is little in the way of a breach rhythm.  Previous EEGs were not available for comparison.
+__________________________

@@ -1,0 +1,10 @@
+MEDICATIONS:   Keppra, Fentanyl, Insulin. Vancomycin, Ceftriaxone
+INTRODUCTION:   Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  The background EEG is remarkable for an intrahemispheric asymmetry. Although both hemispheres are not normal, the striking features are focal slowing in the right hemisphere with arrhythmic delta activity, breech rhythm, and sharp waves with variable maximum including anterior temporal, mid to posterior temporal, and right occipital. There are brief portions of the record when the patient is awake. Unfortunately, these are mostly obscured by muscle, but there is a suggestion of alpha and theta frequency activity. As the patient drifts off to sleep, the left hemisphere demonstrates  a lower voltage slow pattern and the right hemisphere continues to demonstrate the irregular slowing, attenuation of faster frequency activity, and sharp waves.
+	HR: 	60 bpm.
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Generalized background  slowing and low voltage pattern.
+	2. 	Superimposed  focal slowing from the right hemisphere.
+	3. 	Sharp waves from the right hemisphere with variable maximum including T2, T4, T6, and 02.
+CLINICAL CORRELATION:   Consideration for a localization related mechanism for epilepsy is appropriate as well as a structural abnormality.  No seizures were recorded.
+		

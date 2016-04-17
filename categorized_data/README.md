@@ -1,3 +1,5 @@
+#Categorized raw reports
+
 Type      | Count
 --------- | --------
 None      | 2785

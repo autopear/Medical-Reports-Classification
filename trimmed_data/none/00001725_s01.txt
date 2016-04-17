@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Seizure.
+MEDICATIONS:  Ancef, labetalol, hydralazine, morphine, potassium, midazolam, gentamicin, dexamethasone.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  Some multiple electrode artifact seen throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz, which is reactive to eye opening.  The patient is recorded in wakefulness, stage I and stage II sleep.  Activating procedures were not performed.   
+Heart rate:  60 and regular. 
+Abnormal discharges:  
+Continuous focal slowing seen at C4/T4 at a frequency of 2 to 4 Hz and an amplitude of 20 microvolts.  At times this is sharply contoured.  
+Intermittent focal slowing at times seen at F7/T3, frequency of 2 to 4 Hz and amplitude of 20 to 60 microvolts. 
+Seizures:  None.
+IMPRESSION:  Abnormal EEG due to continuous right central temporal focal slowing as well as some intermittent left anterior temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction in the right central temporal region, which is consistent with the known mass.  In addition, there is evidence of focal cerebral dysfunction in the left anterior temporal region, which is nonspecific with regard to etiology.  No seizures or epileptiform discharges were clearly seen.

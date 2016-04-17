@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin and Ativan.
+INTRODUCTION:  Digitalvideo EEG was performed in lab using standard 10-20 system of electrode placement with 1 channelof EKG.  Hyperventilation and photic simulation are performed.
+DESCRIPTION OF THE RECORD: There is a continuous of a prominent ampltiude asymmetry with much higher amplitude primarily theta frequency activity on the right. The  activityis lower vo age
+midline than on the right, but the beta activity demonstrates shifting asymmetry.  Tactlie . stimulat on produces withdrawal. In this sharpl y contoured background,there are right frontocentralsharp waves. Some of these seem to be more maximumin the frontal regions and others central tempora.l Features of drowsni ess include an increase in beta. At the close of the record additional sharp waves some of which are FB, but others which seem to be a bit more maximum  at T6, are observed. There is some.slow quasiperiodic activity noted as the patient drifts off to sel ep with a very slow periodicity about 1complex per 3 seconds.
+	HR: 	96 to110 bpm
+IMPRESSION:  Abnonnal EEG due to:
+	1. 	Markedly abnonnal background with an amplitude asymmetry,higher amplitude on the right compared to the left.
+	2. 	Beta symmetry.
+	3. 	In this sharply contoured record, sharp waves in the right hemisphere.
+CLINICAL CORRELATION:  This EEG supports a bihemispherci  disturbance. There-is increased amplitude on the right given the history of left craniotomy.No epileptifonn features were noted.

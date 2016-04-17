@@ -1,0 +1,9 @@
+MEDICATIONS:  Lovenox, ASA, Zocor, Diovan, Potassium.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep, stage 1 and stage 2.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  The patient is recorded in wakefulness, stage 1 and stage 2 sleep.  Activating procedures were not performed.  There was a normal amount of frontocentral beta.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:   No seizures or epileptiform discharges were seen.

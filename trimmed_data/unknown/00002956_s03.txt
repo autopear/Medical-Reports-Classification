@@ -1,0 +1,10 @@
+MEDICATIONS:  Keppra, Dilantin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a 9 Hz alpha rhythm.  There is both excess beta and excess theta noted in the record.  Although there is some technical issues, including muscle artifact for a patient who has difficulty relaxing, there is excess theta and minor shifting asymmetries. 
+Hyperventilation produces an increase in amplitude of the background.  Drowsiness produces an increase in the rhythmicity of the background. 
+Photic stimulation elicits bilateral driving. 
+Heart rate:  90 BPM.
+IMPRESSION:  This is a mildly abnormal EEG for an adult of this age due to:
+Mild excess theta.
+Mild excess beta.
+CLINICAL CORRELATION:  No epileptiform features were identified.  The excess beta and theta may be postictal findings.  Comparison with previous EEGs may be of value.

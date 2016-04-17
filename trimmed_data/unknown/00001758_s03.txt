@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Phenobarbital, Ativan.  
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is on a ventilator. 
+DESCRIPTION OF THE RECORD: The background EEG is low voltage, slow, and somewhat featureless with a mixture of slow arrhythmic delta activity and smaller amounts of faster frequency activity.  There is spontaneous variability in the EEG.  Stimulation of the patient is reported as an alerting response with an increase in faster frequency activity.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Generalized background slowing.
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral function affecting both gray and white matter.  Additional clinical information may be helpful including clinical events, which may have prevented this patient to emerge from coma after a prolonged hospitalization with the use of an Ativan drip.  Although there is some frontal fast activity, in this EEG there is no definite epileptiform activity. 

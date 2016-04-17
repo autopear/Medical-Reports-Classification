@@ -1,0 +1,10 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Keppra, morphine, Lovenox.
+INTRODUCTION:  A long term EEG was performed using a standard 10-20 electrode  placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed. 
+Continuous spike wave detection, as well as seizure detection software were used to review and analyze the EEG.  In addition, patient's note and nurses notes were also used to review the EEG.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is some frontal central beta which is intermittently interrupted by monomorphic delta which I will describe in an abnormal discharges.  The patient is recorded in wakefulness and sleep.  Activating procedures were not performed. 
+Abnormal discharges:  Focal slow waves seen bifrontally, at times slightly more at FP2/F8 and FP1/F7, almost continuously throughout the recording.  At times this bifrontal delta becomes monomorphic and rhythmic, but does not appear to evolve or have any clinical symptoms.  It at times has the resemblance of frontal intermittent arrhythmic delta activity (FIRDA).  It is seen at a frequency of 2-4 Hz and an amplitude of 20-40 mV.  Note:  At times they are sharply contoured. 
+Seizures:  None clearly seen. 
+Heart rate:  72.
+IMPRESSION:  Abnormal EEG due to bifrontal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of structural focal dysfunction in the bifrontal region, which may be related to the known subarachnoid hemorrhage.  No clear seizures were seen in this 24 hour recording.

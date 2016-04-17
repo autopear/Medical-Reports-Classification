@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Nicardipine 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG monitoring. The patient is ventilated. Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a very low voltage pattern with muscle artifact and very slow, low voltage what appeared to be frontal eye movement artifacts. This also some very low voltage approximately 3 Hz activity in the centrotemporal regions. Myoclonus activity is not observed. With the use of a 35 Hz filter, the technologist eliminates some of the muscle and 1.5 Hz delta activity as well as 14 Hz fast activity can be identified in the background. This is seen just briefly when the muscle artifact drops out. Photic stimulation of the patient does not activate the record. 
+HR: 102 bpm 
+IMPRESSION: Markedly abnormal EEG due to: 
+1. Replacement of normal background with a very low voltage pattern but with some low voltage delta and beta. 
+CLINICAL CORRELATION: Although no myoclonus and no epileptiform features were seen, there is clearly a cerebral pattern In that the EEG was recorded 14 hours post arrest, additional clinical evaluation is advised. Of note, a previous EEG 2/20/2010 identified left anterior temporal sharp waves, none were seen today. 

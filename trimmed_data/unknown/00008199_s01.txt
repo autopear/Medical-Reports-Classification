@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin, Dilaudid, Gabapentin, Reglan, Protonix, Cyclobenzaprine, Citalopram, Insulin,
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photostimulation are completed .
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG is well organized with 10 Hz, 30 mcv posterior dominant rhythm and a small amount of low voltage frontocentral beta activity. Drowsiness is characterized by slow rolling eye movements. Vertex waves are observed in stage 1 sleep as well as during hyperventilation. The patient falls asleep in hyperventilation. Vertex waves, posts, and spindles are observed in stage 2 sleep. The patient is falling asleep during photic stimulation, but scant driving is observed.
+	HR:	100 bpm                      I
+	MPRESSION: Normal EEG
+CLINICAL CORRELATION:  Striking findings in this EEG include a normal awake through stage 2 sleep record in an individual with new onset difficult-to-control spells as well as a normal EEG in the context of significant CNS polypharmacy.

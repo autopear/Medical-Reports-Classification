@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a well-organized background with an 11 Hz, 30 uV posterior dominant rhythm and a generous amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by an increase in background beta and attenuation of the alpha rhythm.  Hyperventilation does not activate the record.  Photic stimulation elicits a photomyogenic and vigorous driving response, but not a photoparoxysmal response. 
+HR:  72 BPM.
+	IMPRESSION: EEG within normal limits in wakefulness and drowsiness.  
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  If further characterization of this patient’s frequent, staring spells is important, either a more prolonged study or an ambulatory study capturing one of her spells may be valuable.  

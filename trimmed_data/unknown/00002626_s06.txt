@@ -1,0 +1,11 @@
+MEDICATIONS: Dilantin, Lamotrigine, Digoxin, Zocor, Flomax, Citalopram, ASA, Risperidone, Miralax, Protonix, Baclofen, Seroquel, Aldactone, Midodrine, Vancomycin, Lasix, Dobutamine 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is febrile and poorly responsive. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal. The overall pattern is a mixture of theta and delta. The previously described asymmetry is not as prominent in terms of disruption of activity from the right hemisphere. There are frontally predominant triphasic waves which are asymmetric, left more so than right. There are also left temporal and frontal sharp waves noted intermittently. They have a periodic nature to them but do not evolve. On occasion they occur with bursts or trains.
+In addition, the patient also has behaviors where he lifts his right hand, shakes it rapidly for a second or two, and then puts it down. These do not carry an EEG signature. In addition, the hand movements are in two planes. 
+The technologist tests the patient for responsiveness but had difficulty determining whether or not there is a change or evidence of interactivity. At least on one occasional there seems to be a bit more theta with auditory stimulation. 
+HR: 114 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing and disorganization. 
+2. Frontally predominant triphasic waves. 
+3. Left frontotemporal sharp waves and frontocentral sharp waves. 
+CLINICAL CORRELATION: This EEG supports a bihemispheric disturbance. The triphasic wave may be part of a metabolic encephalopathy. The sharp waves on the left are of concern in this individual with a previous left MCA infarct. The episodes of hand tremor do not appear to carry an EEG signature. In this critically ill individual with epileptiform activity, the hand movements are unusual for ictal type behavior and were evidence of responsiveness to the technician. 

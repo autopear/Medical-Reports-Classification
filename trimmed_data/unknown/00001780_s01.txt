@@ -1,0 +1,19 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel EKG. The patient is drowsy. 
+DESCRIPTION OF THE RECORD: The background EEG is low voltage, relatively 
+slow. Superimposed upon this is an asymmetry with a bit higher amplitude activity from 
+the left compared to the right. In wakefulness there is a bit more sharply contoured 
+slowing noted from the left. There are some subtle sharp waves at T3. As the patient 
+becomes drowsy, however, the asymmetry is less prominent and in drowsiness there is 
+more of a slow lower voltage delta pattern. A handful of these subtle left temporal sharp 
+waves are maximum at C3 rather than T3. Photic stimulation is performed while the 
+patient is relatively drowsy and does not activate the record. 
+HR: 90 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Superimposed asymmetry with disruption of faster frequency activity on the right 
+compared to the left. 
+3. Subtle sharp wave and sharply contoured slowing on the left. 
+CLINICAL CORRELATION: This EEG supports a diffuse disturbance of cerebral 
+function. In addition, it suggests a focal mechanism for seizures in this individual. 

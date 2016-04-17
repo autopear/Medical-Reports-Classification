@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, morphine, and Ativan.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake and drowsy, and is often restless.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a dynamic pattern.  When the patient is restless, the activity is low-to-medium amplitude with background theta activity.  As he becomes drowsy, the activity is lower voltage and somewhat featureless.  There are mild, shifting asymmetries.  Brief vertex waves are seen in stage I sleep.
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of a normal pattern with a low voltage slow pattern.
+Marked background slowing in sleep.
+CLINICAL CORRELATION: In the context of this individual’s age, this EEG is still abnormal.  Medications, postictal state, and/or sepsis may all contribute to the pattern described above.  No epileptiform features were seen, but epileptiform activity is more difficult to identify in geriatric subjects.  

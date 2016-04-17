@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin, Lovenox, Dilaudid.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel EKG.  This is an awake and drowsy record in a drowsy and somewhat uncomfortable individual.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG demonstrates diffuse  generalized slowing with a glimpse of a 9 Hz alpha rhythm seen on rare occasions.  As the patient becomes drowsy, there are bursts of frontally predominant delta.  As the recording continues, the patient has increasing difficulty sitting still, complaining of back pain.  There is some shifting asymmetries at times.  The alpha is a bit more prominent in the right or left hemisphere. 
+Photic stimulation does not significantly activate the record.   
+Heart rate 100 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Rhythmic generalized slowing. 
+Shifting asymmetries in the alpha rhythm.
+CLINICAL CORRELATION:  
+DICTATION ENDED HERE.

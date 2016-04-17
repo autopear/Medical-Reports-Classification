@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is wearing a hard collar. This is an awake and drowsy record in a confused patient. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a pattern of theta of 4 to 5 Hz, with a small amount of frontocentral beta activity. There are occasional bursts of FIRDA, as well as some occipital delta.   There is no well-defined alpha rhythm, although there is likely some rocking artifact in the occipital electrodes.
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Generalized background slowing.
+	FIRDA.
+	Occasional occipital delta. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record, and no facial twitching was observed. 

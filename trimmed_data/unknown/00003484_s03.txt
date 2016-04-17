@@ -1,0 +1,6 @@
+MEDICATIONS:  Keppra, Dilantin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  There is no hyperventilation and photic stimulation.  The patient is asleep.
+DESCRIPTION OF THE RECORD:  In this EEG, the vast majority of the EEG include stage II sleep with vertex waves, K complexes, spindles, and POSTs.  The overall EEG is symmetric.  Brief arousal is noted.  Wakefulness is not sustained. 
+HR:     80-90 bpm
+IMPRESSION:  This EEG is within normal limits.
+CLINICAL CORRELATION:  In this individual with an MRI demonstrating mesial temporal sclerosis, no epileptiform features were noted.  The sleep record may be due to the use of sedative-hypnotic medications or other sleep disturbance.  This is the patient's 3rd EEG without epileptiform activity.  Two more completely characterized epileptiform activity, of additional electrodes or additional monitoring techniques may be necessary.

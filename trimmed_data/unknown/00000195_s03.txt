@@ -1,0 +1,9 @@
+MEDICATIONS: Keppra, Klonopin, Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Previous EEGs are not available for comparison.  Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is slow from the right hemisphere with excess theta and a posterior dominant rhythm of approximately 7 Hz. The left hemisphere demonstrates arrhythmic delta activity in the frontal regions with a handful of left frontocentral sharp waves.  In addition, there is greater arrhythmic delta activity and at times a breach rhythm noted.   
+Photic stimulation elicits a weak driving response on the right. 
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing and disorganization. 
+Superimposed focal slowing from the left frontal region. 
+CLINICAL CORRELATION: Supportive of a structural abnormality on the left and a diffuse disturbance of cerebral function.  No epileptiform activity identified.

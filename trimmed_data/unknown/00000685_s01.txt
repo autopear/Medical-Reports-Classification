@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and Phenobarbital. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with an 11 Hz, 30 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Occasional muscle and snore artifact seem to obscure brief portions of the record.  Occasionally, shifting temporal delta is seen predominantly on the right, which increases in hyperventilation.  A pair of mid-posterior temporal sharp waves, which localized predominantly to T4 but also to T6 were appreciated in stage II sleep.   Photic stimulation elicits a bilateral driving response. 
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Shifting temporal slowing, which showed some asymmetry and is more prominent in the right hemisphere.
+Two right temporal sharp waves. 
+CLINICAL CORRELATION: This tracing supports a partial localization-related mechanism for this patient’s epilepsy.  Correlation with neuroimaging data may be valuable. 

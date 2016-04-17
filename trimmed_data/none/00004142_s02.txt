@@ -1,0 +1,7 @@
+MEDICATIONS:  Zocor, ASA, Norvasc,  Ativan
+INTRODUCTION:  Continuous digital video EEG monitoring was performed using standard 10-20 system of electrode placement with 1 channel of EKG. There are 2 push-button events.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG includes a well-organized pattern.  There is an accidental push button at 19:43 while the patient seems to be drowsy and is compatible with background slowing. The second push button is at 5:25 and is compatible with practiced push button with the nurse. Computerized seizure and spike detection software identifies drowsy patterns but no seizures. Two artifacts are picked up by the software.
+HR:  N/A
+IMPRESSION:  Abnormal EEG due to:
+1.  Background slowing.
+CLINICAL CORRELATION:   No  clear clinical events were captured in this long-term monitoring session but no seizures nor epileptiform abnormalities were observed.

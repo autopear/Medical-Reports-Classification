@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin and unknown medication for depression.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed. The patient is awake, but possibly intoxicated.
+DESCRIPTION OF THE RECORD: The background EEG is continuous with a 9Hz, posterior dominant rhythm and generous amounts of beta activity.   Intermittent right upper extremity jerks were observed on the video and involve the right upper am.  They are not associated with an EEG correlate.  Drowsiness is characterized by attenuation of the posterior dominant alpha rhythm. Stages of sleep are not achieved. Photic stimulation elicits a brief bilateral driving response.
+HR:  102 BPM.
+IMPRESSION: EEG within normal limits.
+CLINICAL CORRELATION: The slightly increased amount of beta activity could be due to the affects of alcohol. No focal or epileptiform features were seen.  The patient's arm jerks appear to have a non-cerebral cause.

@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Morphine, others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record with hyperventilation and photic stimulation. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is an intra-hemispheric asymmetry.  There is higher amplitude activity on the right with activity from the right hemisphere including delta and theta with higher amplitude delta in the frontal region.  There is no well-defined posterior dominant on the right.  On the left, the posterior dominant rhythm is 7.5 Hz.  The activity on the left is also somewhat slow and disorganized.  As the record continues, there is high amplitude rhythmic delta from the right hemisphere. Hyperventilation increases the amplitude on the right, as well as some bursts of generalized delta. Drowsiness is characterized by attenuation of the alpha on the left and an increase in background slowing.  Occasional bursts of generalized delta are seen in the transition to sleep, but deeper stages of sleep are not achieved.  
+Photic stimulation did not activate the record. 
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Prominent intra-hemispheric asymmetry with high amplitude delta and theta in the right frontocentral and centrotemporal regions.
+Moderate background slowing from the left.
+Rare right mid-temporal sharp waves in the setting of a breach rhythm.
+CLINICAL CORRELATION: This tracing supports a structural lesion on the right, as well as a partial mechanism for epilepsy.  In addition, a mild cerebral dysfunction on the left should be considered. 

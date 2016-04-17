@@ -1,0 +1,10 @@
+MEDICATIONS:  Gentamicin, Metoprolol, Pantoprazole, Keppra, Labetalol, Hydralazine, Vasotec
+INTRODUCTION:  Digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient has auditory and tactile stimulation at the end of the record.
+DESCRIPTION OF THE RECORD:  The majority of the record demonstrates an invariant pattern.  The activity is diffusely slow, slower with more arrhythmic delta activity on the right.  The left hemisphere demonstrates more rhythmic beta activity.  In addition, there is a handful of sharp waves or spikes noted in the left hemisphere including T5 and O1 more than left anterior temporal. At the close of the record, with tactile and auditory stimulation on at least one occasion, there is a change with an increase in theta on the left.   
+HR:    100 bpm
+IMPRESSION:  This EEG demonstrates:
+A markedly slow background.
+A pattern with significantly more slowing and arrhythmic delta activity on the right.
+Sharp waves on the left, particularly posterior temporal region.
+Reactivity present only on the left.
+CLINICAL CORRELATION:  This EEG supports a severe disturbance of cerebral function effecting both gray and white matter.  The right hemisphere appears to be impacted more significantly than the left.  No seizures were recorded.  This EEG did demonstrate some reactivity to external stimuli, although no sleep or wake cycles were identified.

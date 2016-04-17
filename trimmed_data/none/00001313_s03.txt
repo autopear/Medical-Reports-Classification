@@ -1,0 +1,10 @@
+MEDICATIONS:  Zonisamide, Prilosec, Vimpat, Nortriptyline, Temazepam, Cyclobenzaprine, Omeprazole
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  The background EEG is disorganized.  There is a posterior dominant rhythm of approximately 6-7 Hz.  There is prominent background theta.  In this high amplitude, very sharply contoured background, there are a handful of sharp waves in the left mid to anterior temporal region.  There is also a single sharp wave in the right anterior temporal region.  Features of drowsiness include an increase in background slowing. 
+HR:    90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Background slowing and disorganization.
+In this sharply contoured record, there are occasional sharp waves noted and these are primarily on the left.
+Shifting slowing particularly in the right posterior quadrant.
+CLINICAL CORRELATION:  In this individual with an abnormal baseline there may be an increase in background slowing and disorganization although this harder to assess 
+without direct comparison.  No seizures were recorded.  No specific hallmarks of a hepatic encephalopathy were identified.

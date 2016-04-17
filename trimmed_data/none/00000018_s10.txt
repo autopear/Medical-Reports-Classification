@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin, Depakote.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is relatively somnolent.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is markedly slow with a delta theta pattern.  There is an asymmetry with a bit more delta in the left hemisphere than the right.  Occasional T3 sharp waves, which are relatively broadly contoured, are noted.  There is some variability in the sharp waves and occasionally they are a bit polyphasic.   
+Sleep includes spindle activity.  Arousal includes an increase in faster frequency activity, as well as some FIRDA. 
+Heart rate:  90 BPM.
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+Superimposed focal slowing on the left. 
+Left mid temporal sharp waves.
+CLINICAL CORRELATION:  The epileptiform activity has markedly improved.  No seizures were recorded.

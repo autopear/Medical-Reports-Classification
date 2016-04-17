@@ -1,0 +1,11 @@
+	MEDICATIONS: 	Dilantin, Tegretol, Bactrin, Reglan, Folic Acid, Lisinopril, Thiamine, ASA
+INTRODUCTION:   Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Awake and asleep study. No photic stimulation or hyperventilation performed.
+DESCRIPTION OF THE RECORD:  During the EEG there are actually 3 patterns seen. The 1st pattern at the start of the record is an asymmetric pattern with an alpha and beta pattern seen more on the right. A posterior alpha rhythm is not seen. A secondary pattern of low voltage theta delta symmetric pattern is seen. There is shifting slowing
+seen bilaterally. It was at the close of the record that a 3rd pattern is seen as the patient
+begins to wake up and is responsive to stimulation and is more irritable and confused. This pattern is of a faster frequency as he awakes. Deeper states of sleep are seen throughout the record with vertex waves and spindles. At the end of the record, we see more of the faster frequency.
+HR:   80 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Pattern of asymmetry with more alpha and beta seen on the right.
+	2.	Low voltage theta delta symmetric pattern with some shifting slowing.
+	3. 	Slow pattern with some faster frequency seen as the patient begins to awake.
+CLINICAL CORRELATION:  There is no epileptiform activity in this record, but it is compatible with a postictal state.

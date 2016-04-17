@@ -1,0 +1,12 @@
+MEDICATIONS:  Dilantin, Celexa, perhaps Keppra, others.
+INTRODUCTION:  Continuous digital video EEG monitoring was performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.  Seizure and spike detection software was utilized.  The patient did not report any seizures.  None were identified by the clinical team.  He was noted to have significant bruxism.  Left craniotomy defect was noted.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an alpha rhythm that reaches 10 Hz.  There is an amplitude asymmetry with lower amplitude activity on the left compared to the right and occasional attenuation of faster frequency on the left compared to the right.  As noted above, frequent bruxism artifact was noted. 
+As the patient transitions to sleep, a subtle area of underlying delta was noted in the right central temporal region. 
+Vertex waves and spindles were noted in sleep.  At times, the sleep record is clearly asymmetric with delta in the right central temporal region and asymmetric vertex waves and spindles. 
+The overall sleep record is remarkable for many transitions in and out of sleep. 
+Heart rate 72 bmp.
+IMPRESSION:  This first 24 hours of continuous video EEG monitoring was remarkable for: 
+Asymmetry between the 2 hemispheres.  
+Disruption of faster frequency activity on the left.
+In sleep, the likely appearance of focal slowing and sharply contoured slowing on the right.
+CLINICAL CORRELATION:  These findings may be correlated with imaging particularly for this patient with traumatic brain injury.

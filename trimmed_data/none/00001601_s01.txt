@@ -1,0 +1,8 @@
+MEDICATIONS: Effexor, Dilantin, and codeine.  
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The recording is performed because the patient is poorly responsive. 
+DESCRIPTION OF THE RECORD: The background EEG is abnormal and demonstrates a marked asymmetry, comparing the left and right.  The left hemisphere demonstrates a slow, relatively featureless pattern with delta and smaller amounts of theta activity.  The right hemisphere is richer in theta frequency activity and includes occasional sharp waves from the right maximum at F4.  Stimulation of the patient produces a dramatic increase in theta from both hemispheres.  Clinically, there is no alerting response observed by the caregivers and approximately 15 seconds later the EEG returns to its previous pattern.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Prominent intrahemispheric asymmetry with disruption of faster frequency activity from the left.
+Right frontal sharp waves.
+CLINICAL CORRELATION: No seizures were recorded.  The responsiveness to noxious stimulation is a positive prognostic feature despite the absence of any clinical change in the patient’s neurologic exam.  

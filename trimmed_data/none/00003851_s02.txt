@@ -1,0 +1,9 @@
+MEDICATIONS: Phenobarbital and antibiotics. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the Pediatric ICU using standard pediatric 10-20 system of electrode placement with one channel of EKG and two channels of respiratory monitoring. The infant is unresponsive during the record.
+DESCRIPTION OF THE RECORD: The background EEG is continuous with an increased amount of beta activity.  The background EEG is basically slow delta with scant amounts of theta, which is somewhat attenuated in the right hemisphere.   This asymmetry may be due to the scar edema, as per the technician.  Occasionally, the baby had leg movement, but there is no seizure activity with EEG correlates.  Stimulation of the patient caused scant reactivity, transiently increased the frequency and decreased the amplitude of the background.  
+HR:  162 BPM.
+	IMPRESSION: Abnormal pediatric EEG due to:
+Disorganized and slow background.  
+Increased amount of beta activity.
+Scant reactivity with stimulation. 
+CLINICAL CORRELATION: This tracing is indicative of a cerebral dysfunction involving both gray and white matter.  The increased amount of beta activity may be due to medications such as Phenobarbital.  No seizures were recorded.  If clinically indicated, a follow-up EEG may be helpful. 

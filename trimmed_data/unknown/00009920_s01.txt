@@ -1,0 +1,8 @@
+MEDICATIONS: Coumadin, Seroquel, Dilantin, Zoloft, Phenytoin. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is rather somnolent. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a mixture of theta frequencies with smaller amounts of delta frequency. The patient drifts off to sleep with a small amount of shifting arrhythmic delta. Vertex waves are noted in stage 1 sleep. Although he appears drowsy or even falling asleep, there are sections that demonstrate an arousal, although behaviorally he looks like he is still asleep, but the EEG shows an arousal with an 8.3 Hz alpha rhythm. Photic stimulation is remarkable for photoelectric artifact. 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Background slowing. 
+2. Slowing of the alpha rhythm. 
+CLINICAL CORRELATION: Additional testing during a follow up EEG may be important in this individual with an anoxic encephalopathy to asses responsiveness and interactivity. Perhaps more complex testing could be performed. If epilepsy is an important consideration a repeat tracing may be considered, but no epileptiform features were observed today. No other EEGs were available in our data base for comparison. 

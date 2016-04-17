@@ -1,0 +1,9 @@
+MEDICATIONS: Zantac, Heparin, Depakote, Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is somnolent.
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with a background of primarily theta frequency activity and smaller amounts of delta.  There is an interhemispheric asymmetry with more sharply contoured higher amplitude activity from the left hemisphere and left temporal sharp and slow waves.  The patient is stimulated only on one occasion in this record when she opens and closes her eyes and the background identifies theta.  Sleep is not achieved.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing with a pattern of theta.
+Focal slowing from the left hemisphere with underlying arrhythmic delta. 
+Frequent left temporal sharp waves with rare, right temporal sharp waves.  
+CLINICAL CORRELATION: No seizures were recorded. Comparison with this patient’s previous EEGs, which were not available at this time, is recommended.  This tracing supports a partial mechanism for epilepsy. 

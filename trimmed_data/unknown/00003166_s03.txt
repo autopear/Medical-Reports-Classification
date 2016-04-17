@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and Norvasc. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 10.5 Hz, 30 uV posterior dominant rhythm.  Hyperventilation is performed early on in the record, which does not significantly activate the record.  However, immediately post-hyperventilation, there is a bit of subtle focal slowing from the left hemisphere.   
+Deeper stages of sleep are not sustained. 
+Photic stimulation elicits scant bilateral driving. 
+HR:  60 BPM.
+	IMPRESSION: Very mildly abnormal EEG due to:
+	1.	An isolated burst of relatively sustained focal slowing seen following HV.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  In the context of this patient’s age, these findings are of unclear clinical significance.  

@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, PepCid, ASA, lsosorbid, Trandil, Metopr.ioJ; Senna 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. There is no hyperventilation nor photic stimulation. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is slow and 
+disorganized. At times the alpha rhythm is 10Hz but at other portions itis significantly slower. In addition, there is shifting arrhythmic delta activity in the right or left hemisphere. There are Portions of the record which are well-organized and lacking the background slowing seen intermittently. 
+HR: 84 bpm 
+IMPRESSION: Abnormal EEG due to: 
+Prominent bursts of shifting arrhythmic delta. 
+CLINICAL CORRELATION: Given the degree of dementia as ·well as the size of the intracerebral hemorrhage, these findings are quite modest. No epileptiform features are noted. 

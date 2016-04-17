@@ -1,0 +1,16 @@
+MEDICATIONS: Dilantin, Folic Acid, Phenytoin, Celexa, Ozybuly, Citolorram 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. Photic simulation are performed. 
+This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 
+lower voltage pattern with 11 Hz alpha rhythm and a generous amount of beta. Features 
+of drowsiness include an increase in beta. Photic stimulation elicits a driving response. 
+Stage II sleep includes vertex waves, K-complexes and spindles. Mild asymmetries are 
+noted in stage II sleep with a somewhat lower amplitude pattern in the right 
+frontotemporal region than the left. 
+HR: 66 bpm 
+Minimally abnormal EEG due to: 
+1. Slight amplitude asymmetry noted in stage II sleep. 
+CLINICAL CORRELATION: No epileptiform features were observed. Previous EEGs 
+were not available for comparison. If epilepsy is an important consideration, an 
+additional recording may be of use. 

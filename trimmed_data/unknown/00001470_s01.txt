@@ -1,0 +1,8 @@
+MEDICATIONS: Benadryl, Dilantin, Narcan, colace.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is primarily a drowsy record. No movements are seen except that of the mouth, but the video does not show the whole body of the patient. It should be noted that the electrode placement was difficult for the technician because the patient had been agitated prior to her arrival. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the generalized background is diffusely slow and there is a 6 to 7 Hz, 30 to 50 V posterior dominant rhythm which is symmetric and reactive as well as low voltage, frontocentral beta activity.  Excess background delta is also visualized in wakefulness and early drowsiness.  
+HR:  112 BPM.
+IMPRESSION: Abnormal EEG due to:
+Generalized slowing.
+Excess delta.
+CLINICAL CORRELATION: This tracing supports an encephalopathic state that could be medication induced.  No epileptiform features were seen. A repeat EEG would be advised if epilepsy is an important consideration.  

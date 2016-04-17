@@ -1,0 +1,7 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a bedside record for a drowsy individual.
+DESCRIPTION OF THE RECORD:  The background EEG is diffusely slow with primarily a theta frequency pattern.  There is a glimpse of a 6 Hz alpha rhythm noted intermittently in the background.  As the patient's becomes drowsy, there is an increase in rhythmicity followed by some shifting rhythmic delta activity.  In this sharply contoured record there is a subtle underlying sharp wave in the right central region.   
+IMPRESSION: Additional sharply contoured wave forms are noted in the right frontal region. Abnormal due
+Slowing and disorganization 
+C4 sharp wave
+CLINICAL CORRELATION:  The background slowing and disorganization support a diffuse, bihemispheric disturbance of cerebral function.  These threshold underlying sharp waves may be correlated with imaging in this patient with a previous history of stroke.

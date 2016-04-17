@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were completed. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9-Hz posterior dominant rhythm. There is a prominent, interhemispheric asymmetry with a breach rhythm, sharp wave contoured activity in the left frontotemporal region. Although there is slowing and sharply contoured alpha activity, there is clearly sharply contoured delta and a left anterior temporal sharp wave maximum at T1. In addition, additional sharp waves are observed at T5-T3. Features of drowsiness include anterior spread of the alpha rhythm as well as beta accentuation, compatible with the sharp wave focus. As the patient becomes drowsy, there is beta accentuation and epileptiform activity transitions more to a T3-T5 maximum. Hyperventilation is performed with good effort and seems to accentuate the focal slowing. Photic stimulation elicits brief bilateral driving. 
+HR: 78 bpm 
+IMPRESSION: Abnormal EEG due to 
+1. Focal slowing from the left anterior temporal region. 
+2. Sharp waves, some of which are left anterior temporal, others are mid to posterior temporal. 
+CLINICAL CORRELATION: The breach rhythm is anticipated finding following craniotomy. The focal slowing was previously described and may be compared with previous study. 

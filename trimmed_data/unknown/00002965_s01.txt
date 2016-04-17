@@ -1,0 +1,9 @@
+MEDICATIONS: Mannitol, Dilantin, and Nicardipine.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is lethargic and intubated.  
+DESCRIPTION OF THE RECORD: The background EEG demonstrates an interhemispheric asymmetry.  From the left hemisphere, the background is low voltage, primarily delta with smaller amounts of theta and relatively featureless.  The right hemisphere is richer in theta frequency activity.  Features of sleep include an increase in rhythmic slowing.  Features of arousal include eye movement and an increase in theta.  
+Stimulation of the patient clearly produces an alerting response with an increase in faster frequencies.  
+HR:  88 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Interhemispheric asymmetry, slower on the left than the right. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  This EEG is supportive of a structural or functional abnormality on the left involving both gray and white matter as well as a diffuse disorder of cerebral function. 

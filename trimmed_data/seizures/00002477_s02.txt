@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Decadron, Vesicare, Trazodone, Fentanyl, Namenda, Abilify. 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and is stimulated during the EEG. Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: This acute EEG performed after repetitive seizures and the use of Phenytoin is remarkable for a markedly abnormal pattern from the left hemisphere with polyspike and fast activity in the left frontocentral region with a generous field of spread including CZ,CN,C3. Between the bursts of activity, the cerebral pattern is suppressed on the left. There are brief bursts of this polyspike or polyphasic activity. There are also 1 or 2 occasions when the epileptiform activity abates but not consistently. Stimulation of the patient produces an increase in the mixed theta delta from the right. 
+HR: 80 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Prominent, periodic polyphasic activity from the left central region. 
+CLINICAL CORRELATION: Due to the prominent epileptiform activity which is not resolving by the end of this record, additional EEG recording is suggested. 

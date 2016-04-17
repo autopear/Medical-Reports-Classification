@@ -1,0 +1,9 @@
+MEDICATIONS: Sertraline, Plavix, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz posterior dominant rhythm best represented on the right.  There is an intrahemispheric asymmetry with disruption of faster frequency activity from the left hemisphere, particularly in the frontocentral and centrotemporal regions, and occasional periodic complexes from the left, again maximum in the frontal regions.  Features of drowsiness include occasional bursts of frontal slowing, as well as an increase in slowing of the overall background.  Photic stimulation produces a scant driving response in the right hemisphere. 
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Intrahemispheric asymmetry with disruption of faster frequency activity from the left, as well as the appearance of delta. 
+	Some periodic complexes from the left hemisphere including the frontotemporal region.
+	Unilateral driving.
+CLINICAL CORRELATION: This EEG supports a structural abnormality on the left affecting both gray and white matter.  Careful consideration for an acute process is important given the presence of a handful of periodic sharp waves.  No seizures were seen, and no prolonged discharges were identified.  Correlation with imaging, clinical history, and potential for acute metabolic process is appropriate.  

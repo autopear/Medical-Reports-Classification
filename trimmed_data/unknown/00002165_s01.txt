@@ -1,0 +1,9 @@
+MEDICATION: Dilantin, Insulin and hypertensive medications. ACTIVATION: Photic Stimulation and Hyperventilation.
+INTRODUCTION: Digital Video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.
+DESCRIPTION OF THE RECORD: The  background EEG is abnormal and demonstrates a dynamic pattern. At times, there is �7-8 Hz background . There are intermittent bursts of rhythmic frontal delta. In addition, on some occasions, there is some asymmetry with a bit more arrhythmic delta from the left frontal region on the right. Features of drowsiness include increasing frontal delta and accentuation of focal slowing.
+HR: 60 BPM.
+IMPRESSION: Abnormal EEG due to:
+Generalized background slowing
+Intermittent bursts of frontal delta
+Intermittent focal slowing on the left
+CLINICAL CORRELATION : No spike or sharp waves were seen. The features described above are non-specific but the frontal delta and generalized slowing were metabolic.  The focal features described above may be evaluated by imaging.

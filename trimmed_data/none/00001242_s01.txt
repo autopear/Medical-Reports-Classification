@@ -1,0 +1,13 @@
+MEDICATIONS:  Depakote, Lovenox, Protonix, Metoprolol, Lipitor.
+REASON FOR STUDY:  Status post code.
+INTRODUCTION:  Digital video EEG was performed at bedside using a standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded while unresponsive.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontal central beta.  There is no normal sleep architecture.  No activating procedures were performed.  During the recording the patient is stimulated and there is no real change in the background.  I will describe the background and the abnormal discharges in the next paragraph. 
+ABNORMAL DISCHARGES:  The EEG is fully comprised of a background predominated by bilateral frontal central predominant sharp waves, followed by slow waves in a periodic pattern at 2 Hz in a monomorphic rhythm that does not change, consistent with generalized periodic epileptiform discharges (GED's) occurring throughout the entirety of the recording.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves. 
+Continuous GED's.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction and irritability, which is nonspecific in regards to etiology.  However, the generalized 
+periodic discharges in the setting of hypoxia are suggestive of a very poor prognosis.  No seizures were seen.
+_________________________

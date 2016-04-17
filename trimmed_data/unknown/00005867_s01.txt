@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Librium, folate, and thiamine. 
+INTRODUCTION: Digital video EEG is performed in bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is sleeping. He has some edema of the scalp, which compromises electrode placement.
+DESCRIPTION OF THE RECORD: This appears to be a bedside EEG.  There is mention of difficulty with electrodes.  There are problems that the tech notes at T3 because of the scalp but, in addition, there is head rocking artifact picked up from the right hemisphere.  Throughout much of the record, the patient is asleep with a relatively low voltage pattern.  There are intermittent artifacts in either side and there are some asymmetries with lower amplitude on the right which may in fact be artifactual rather than genuine.  With stimulation, the patient spontaneously alerts and the pattern is low voltage with the appearance of an alpha frequency with a posterior dominant rhythm, which cannot really be assessed adequately because of the movement.  The overall pattern when the patient is briefly awake appears to be symmetric for as long as 15 seconds, and then the patient drifts off to sleep.  
+HR:  84 BPM with frequency PVCs.
+	IMPRESSION: Abnormal EEG due to:
+Low voltage, background slowing with inability to sustain an awake, alert state.
+CLINICAL CORRELATION: Given the technical problems described above, a follow-up study in the laboratory would be appropriate when the patient is able to be transported to the lab.

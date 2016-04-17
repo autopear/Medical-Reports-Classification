@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Depakote, Ativan, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is mildly disorganized with an 8.5 Hz posterior dominant rhythm.  There are occasional shifting temporal asymmetries with arrhythmic delta occurring on the left as well as on the right.  In some portions of the record, the alpha rhythm is more visible on the left.  Drowsiness elicits frontal delta activity.  There are occasional LAMBDA waves.  Photic stimulation elicits a driving response.  
+HR:  102 BPM.
+	IMPRESSION: Mildly abnormal EEG due to:
+Mild slowing.
+Occasional temporal shifting asymmetries. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  These findings are non-specific and can be seen due to medication effect or postictal state.  Correlation with neuroimaging data is appropriate.  An outpatient repeat EEG tracing under sleep deprived conditions in order to capture sleep would be valuable.

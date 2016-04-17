@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the overall background EEG is fairly well organized with a 9.5 Hz, 40 uV posterior dominant rhythm.  There is mild excess theta seen in the background.  Occasional sharply contoured left mid-temporal delta is seen, which is accentuated in hyperventilation and post-hyperventilation.  The focal slowing is accompanied by occasional sharp waves at T1.  There is also one single right centrotemporal sharp wave identified. Photic stimulation elicits brief, symmetric driving.  Throughout the tracing, there is artifact originating from impedance issues at the T3 electrodes.  
+HR:  87 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Mild excess theta.
+Occasional left mid-temporal focal slowing with sharp waves. 
+One single right centrotemporal sharp wave. 
+CLINICAL CORRELATION: This tracing supports a partial or localization-related mechanism for epilepsy in this patient.  The technical problems seen in this record due to impedance issues at the P3 electrode, may have partially obscured important references, therefore, obscuring underlying sharp waves, a repeat study would be valuable. Correlation with neuroimaging would also be helpful. 

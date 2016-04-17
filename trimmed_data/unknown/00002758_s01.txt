@@ -1,0 +1,18 @@
+MEDICATIONS: Keppra, Dilantin, Morphine, 
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. The study begins when the 
+patient is somnolent. 
+DESCRIPTION OF THE RECORD: As the tracing begins the patient is somewhat 
+drowsy, but she has relatively frequent eye opening, attempts to keep her awake. 
+Background includes some theta frequency activity and a glimpse of a 7-8 Hz posterior 
+dominant rhythm. In wakefulness there is a high amplitude left anterior temporal sharp 
+complex which can be clearly differentiated from the patient's EKG artifact. It also 
+disrupts the background. Features of drowsiness includes an increase in rhythmic 
+slowing. The anterior temporal sharp wave persists into sleep. They are not, however, 
+accentuated by sleep. 
+HR: 66 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. High amplitude left temporal sharp wave. 
+CLINICAL CORRELATION: This EEG supports a localization related mechanism for 
+epilepsy. 

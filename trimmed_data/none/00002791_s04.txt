@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Keppra, Celexa, gabapentin.
+INTRODUCTION:  A routine EEG was performed using a standard 10-20 system of electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures including photic stimulation.
+TECHNICAL DIFFICULTIES:  Some temporalis muscle artifact throughout the recording.
+HEART RATE:  60.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 10 Hz which is reactive to eye opening.  There is normal frontal central beta.  Activating procedures include photic stimulation.  There are no abnormal discharges.  The patient was recorded in wakefulness and drowsiness, although mainly wakefulness.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen very frequently in the right hemisphere at T4 and sometimes at P4 or C4 at a frequency of 2-4 Hz at an amplitude of 20-60 mV.  At times these are sharply contoured, but not clearly epileptic.  
+There is also focal slowing at times independently at T3 at a frequency of 2-4 Hz at an amplitude of 20-60 mV.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to right midtemporal and central and parietal focal slowing in addition to independent left midtemporal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right midtemporal and central parietal region, which is consistent with an old stroke.  In addition, there is evidence of left midtemporal focal cerebral dysfunction which is nonspecific with regards to etiology.  No seizures or clear epileptiform discharges were seen.

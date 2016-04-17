@@ -1,0 +1,10 @@
+	MEDICATIONS: 	Dilantin, Keppra, Lasix, Insulin, Metoprolol
+	INTRODUCTION: 	Digital video EEG is performed utilizing standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed. This is an awake and drowsy record.
+	DESCRIPTION OF THE RECORD: 	Background EEG is abnormal. There is excess background theta with a posterior dominant rhythm of approximately 7 Hz. There are intermittent bursts of rhythmic frontal delta as well as more of a pattern of generalized arrhythmic delta activity. Subtle sharp waves are identified in the left hemisphere with a frontal/frontotemporal maximum. Features of drowsiness include an increasing numbers of FIRDA. Photic stimulation elicits a brief driving response as well as an alerting response with an increase in overall alpha frequency activity.
+	HR: 	66 bpm
+	IMPRESSION: 	Abnormal EEG due to:
+	1. 	Generalized background slowing.
+	2. 	FIRDA
+3. Occasional bursts of generalized irregular delta.
+	4. 	Rare subtle sharp waves from the left frontotemporal region.
+		CLINICAL CORRELATION: 	Previous EEGs are not available for comparison. The FIRDA can be seen in a frontal lobe process as well as many different disturbances including diffuse disturbance of cerebral function, hydrocephalus. 	The sharp waves are slightly out of the anticipated territory for this patient's lesion.

@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Ativan. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. The patient is initially cooperative and then drowsy. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a relatively low voltage pattern with generalized beta. There are occasional bursts of delta most of which are symmetric, some a little slower on the right. Stimulation of the patient produces an increase in muscle artifact. A 9-Hertz alpha rhythm is identified. Photic stimulation elicits a driving response, slightly higher amplitude on the left in some stimulation patterns but not all a little bit more so on the right. 
+HR: 102 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Intermittently, low voltage background with beta and delta. 
+2. Mild shifting asymmetries. 
+CLINICAL CORRELATION: No epileptiform features were observed. This patient's medications may have played a roll in the pattern described above. There are some shifting features particularly right temporal region but no strongly lateralizing features. 

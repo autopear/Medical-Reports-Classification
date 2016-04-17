@@ -1,0 +1,18 @@
+MEDICATIONS: Dilantin, Aricept, Celebrex, Lipitor. 
+INTRODUCTION: Digital video EEG is performed in lab using standard 10-20 system 
+of electrode placement with 1 channel of EKG. Hyperventilation was not performed. 
+Photic stimulation was performed. Hyperventilation was not performed secondary to 
+severe coughing. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: Wakefulness is characterized by alpha rhythm at 9 
+cycles per second, amplitude is 50 microvolts. Breech rhythm was observed on the right 
+side sharp waves also were observed on the right side mainly at the 
+T 4 ..nd F8. Drowsiness is characterized by slower alpha activity and the delta activity on 
+the left side also has vertex wave and K complex. Photic stimulation does not activate 
+the record. 
+HR: 72 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Intermittent background slowing more on the left side at theta rhythm. 
+2. Breech rhythm on the right side. 
+3. Right temporal sharp. 
+CLINICAL CORRELATION: This EEG supports the diagnosis of localization related 
+epilepsy and prior craniotomy on the right side. 

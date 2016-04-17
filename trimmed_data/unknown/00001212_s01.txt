@@ -1,0 +1,6 @@
+MEDICATIONS: HCTZ, Labetalol, Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9 Hz, 30 to 40 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by attenuation of the alpha rhythm followed by rhythmic central theta.  Photic stimulation elicits driving at intermediate and faster flash frequencies.  Hyperventilation produces a small amount of background slowing.  
+HR:  60 BPM.
+	IMPRESSION: Normal EEG in wakefulness through stage I sleep.  
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Normal EEG does not exclude the diagnosis of epilepsy. 

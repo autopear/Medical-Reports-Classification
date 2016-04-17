@@ -1,0 +1,6 @@
+	MEDICATIONS: 	Dilantin and Phenobarbital.
+	INTRODUCTION: 	Digital video EEG is performed in the lab using standard 10-20 system of electrode  placement with one channel of EKG. Hyperventilation  and photic stimulation were performed. This is an awake and asleep record.
+	DESCRIPTION OF THE RECORD: 	In wakefulness, background EEG is well organized with 10 Hz posterior dominant alpha rhythm and a generous quantity of low voltage, frontocentral beta. Drowsiness is characterized by slowing of the background followed by slow rolling eye movements and an increasing background beta. Vertex waves and Posts are observed in sleep. Hyperventilation is performed with good effort producing an increase in amplitude of the background. Photic stimulation elicits bilateral driving.
+HR: 78 bpm
+	IMPRESSION: 	Normal EEG.
+	CLINICAL CORRELATION: 	No focal nor epileptiform features were observed at this time. Normal EEG does not exclude a diagnosis of epilepsy. If there were additional concerns, perhaps a sleep deprived EEG with generous hyperventilation and photic stimulation would be valuable.

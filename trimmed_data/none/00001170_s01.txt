@@ -1,0 +1,11 @@
+MEDICATIONS:  Unknown, but previous exposure to Ativan and epinephrine.   
+INTRODUCTION:  Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  It is a dynamic pattern, rich in many different frequencies including delta, theta and alpha frequency activity.  There are poorly formed, periodic complexes which can be reviewed in different montages.  Using an average reference, there is a right occipital, broadly formed, slow periodic complex which does not evolve.  There are also some frontally predominant triphasic waves.  In this dynamic record, some sections of the record demonstrate significantly more delta, others more theta.  The record is noted to intermittently attenuate.  Stimulation of the patient produces a prominent increase in alpha and theta frequency activity.  There are some sections of the record particularly as the patient is drifting off to sleep where there is left frontal delta.   
+HR:    100 bpm
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing.
+A dynamic pattern with attenuations, but also nice, responses to tactile stimulation.
+Poorly formed periodic complexes in the occipital regions with maximum on the right.
+Intermittent, left frontal delta.
+Triphasic waves.
+CLINICAL CORRELATION:  There are both positive and negative prognostic features in this EEG for a young adult with an anoxic encephalopathy, but the reactivity to external stimuli is the most important, positive feature.  No seizures were recorded, although there are epileptiform activity and correlation with imaging and clinical history is essential.

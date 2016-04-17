@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Haldol, Rifaximin 
+INTRODUCTION: Digital video EEG was performed at bedside using 10-20 system of electrode placement with 1 channel EKG. The patient is intubated and comatose with her head slumped forward. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly low voltage and suppressed. There is a great deal of some sort of electrical artifact which is present throughout the EEG. Despite the significant artifacts, the overall background is very low voltage and suppressed. 
+HR: 120 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Relative paucity of cerebral activity. 
+CLINICAL CORRELATION: The cause for the background artifact was not determined during the EEG in this isolation patient. Attempts to remove the artifact are relatively unsuccessful. There was no reactivity or variability in this record suggesting a severe disturbance of cerebral function. 

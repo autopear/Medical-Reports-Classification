@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Hydralazine, Ativan, Keppra, Prednisone 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. The patient is relatively drowsy. 
+DESCRIPTION OF THE RECORD: The background EEG includes a mixed frequency pattern with generous beta. There is an asymmetry with a bit more theta on the left compared to the right. The breach rhythm is identified with higher amplitude, more sharply contoured theta on the left. Features of drowsiness include increase in beta. 
+HR: 104 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized slowing with beta and theta pattern as well as occasional delta. 
+2. An asymmetry rhythm with higher amplitude, slower activity on the left. 
+CLINICAL CORRELATION: No clinical events aside from the aphasia were recorded. There were no epileptiform features observed. If there are additional events, a follow-up study may be of value. 

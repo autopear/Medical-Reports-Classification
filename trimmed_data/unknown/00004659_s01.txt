@@ -1,0 +1,9 @@
+MEDICATIONS: Fentanyl (discontinued 11/03), Epogen, Flagyl, and Dobutamine. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. 
+DESCRIPTION OF THE RECORD: The background EEG is composed of nearly continuous rhythmic 6 to 7 Hz theta activity.  There is a subtle amplitude asymmetry, lower amplitude on the right compared to the left.  There are subtle, intermittent attenuations.  Stimulation of the patient produces an increase in richer, faster theta frequency activity.  
+HR:  108 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Asymmetry with lower amplitude activity on the right.
+Intermittent discontinuity. 
+CLINICAL CORRELATION: These findings should be taken into appropriate clinical context given the exposure to sedative hypnotic medications.  This EEG demonstrates reactivity to external stimuli, which is a positive prognostic factor.  

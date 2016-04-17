@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Lovenox, ASA, Pantoprazole, Insulin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD: The background EEG includes a drowsy pattern, but the patient is responsive to stimuli.  With the patient resting quietly, the background EEG is markedly slow with primarily delta with smaller amounts of theta frequency pattern.  There is more delta observed on the right compared to the left.  With stimulation of the patient or with spontaneous arousals, there is an increase in faster frequency activity with some theta frequency activity emerging more so from the left hemisphere in comparison to the right. By the close of the record, the patient is drifting off to sleep and the background EEG is again markedly slower and even at times slightly attenuating on the right.
+	HR: 	84 bpm
+IMPRESSION: Abnormal EEG due to:
+	1. 	Marked generalized slowing.
+	2. 	Interhemispheric  asymmetry.
+CLINICAL CORRELATION: This EEG supports a structural or functional abnormality on the right, as well as diffuse disturbance of cerebral function as could be seen in postictal state.  Because of the focal features described above, correlation with imaging is advised.

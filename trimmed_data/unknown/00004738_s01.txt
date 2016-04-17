@@ -1,0 +1,3 @@
+MEDICATIONS: Dilantin, Lisinopril, Remeron, Aspirin.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were completed.  
+DESCRIPTION OF RECORD: In wakefulness, the background EEG is somewhat disorganized. There is an 8.5 Hz alpha rhythm. Arrhythmic slowing is noted in the frontal region, particularly on the left and there is a bit more of a breach rhythm on the left compared to the right. Occasional sharp waves were picked up in the left fronto-central region and then the sharply contoured record at Fp2 and T6. Hyperventilation seems to accentuate the focal slowing and the sharp waves. There are prominent shifting  

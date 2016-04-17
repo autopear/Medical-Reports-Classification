@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin and Tegretol. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ER using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with an 11 Hz, 25 V posterior dominant rhythm and a generous amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by slow rolling eye movements with rhythmic central theta. 
+HR:  78 BPM.
+	IMPRESSION: Normal EEG in wakefulness and drowsiness. 
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record.  Generous beta may be related to medications.

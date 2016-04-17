@@ -1,0 +1,10 @@
+MEDICATIONS: Ecotrin, Depakote, and Reminyl.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record with photic stimulation.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes an 8.5 Hz, 40 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  In wakefulness and in increasing drowsiness, there is intermittent focal slowing from the left temporal region with primarily rhythmic, 3 to 4 Hz activity.  Associated with this, despite some eye movement artifact, there is both sharply contoured delta activity and sharp waves. There are also occasional bursts of shifting, arrhythmic delta activity. 
+Photic stimulation elicits driving at intermediate and faster flash frequencies. 
+HR:  48 BPM.
+	IMPRESSION: Abnormal EEG for a subject of this age due to:
+Rhythmic focal slowing from the left temporal region.
+Occasional, sharply contoured left temporal delta or sharp waves.
+Occasional right temporal focal slowing. 
+CLINICAL CORRELATION: This tracing supports a partial mechanism for epilepsy.  The bitemporal features may be related to either the onset of epilepsy early in life or the bilateral, subcortical white matter changes. 

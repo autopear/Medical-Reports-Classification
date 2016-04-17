@@ -1,0 +1,9 @@
+MEDICATIONS:  Ceftrex, Vancomycin, Tylenol, Lovenox
+INTRODUCTION:  Digital video EEG was performed in bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  This is a bedside record for a patient in the ICU.  It was a bedside portable EEG for an intubated and poorly responsive patient.
+DESCRIPTION OF RECORD:  The background EEG includes a mixed frequency background, rich in beta frequency activity, particularly in the frontal regions.  There is theta and smaller amounts of delta.  Occasional eye movements were noted.  There were occasional bursts of frontal delta.  Spontaneous arousals or stimulation were associated with an increase in alpha frequency activity.  As the recording continued, features of stage 2 sleep were identified including post-spindles and even vertex waves.  
+HR:    102 bpm
+IMPRESSION:  This EEG is remarkable for:
+A pattern with excess beta. 
+Generalized background slowing.
+CLINICAL CORRELATION:  When unstimulated, the EEG has wave forms characteristic of stage 2 sleep.  In addition, with stimulation, there is a well-defined arousal pattern.  These are positive prognostic features for a patient with a question of a 
+CNS infection.  No epileptiform features were noted and there were no seizures recorded.

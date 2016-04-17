@@ -1,0 +1,18 @@
+MEDICATIONS: Dilantin, Lamictal, Atenolol, Cozaar, Lipitor 
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 system of 
+electrode placement with 1 channel EKG. The patient is awake and agitated. 
+DESCRIPTION OF THE RECORD: Background EEG is diffusely poorly organized with a Theta 
+frequency pattern. This varies between a Theta and a Delta frequency pattern. There appears 
+to be a breach rhythm in the left frontal rhythm but there may well be a left anterior temporal 
+sharp wave in that same region. In contrast, the right hemisphere demonstrates a bit more 
+arrhythmic Delta in the right frontal and posterior temporal parietal regions. 
+HR: 96 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing, improving towards the close of the record to more of an 
+Alpha-Theta frequency pattern. 
+2. Intra hemispheric asymmetry with more significant slowing on the right. 
+3. Sharp waves in what may be the context of a breach rhythm in the left frontal region. 
+CLINICAL This EEG supports a diffuse disturbance of cerebral function 
+involving both hemispheres. This was a dynamic pattern for an individual who appears to be 
+improving as would be seen in a postictal process. No seizures were recorded. The sharp 
+waves on the left may be correlated with past history and imaging. 

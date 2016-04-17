@@ -1,0 +1,7 @@
+MEDICATIONS: lmitrex, Topamax, Dilantin, Seroquel, Effexor, Valium, Ultram
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation were completed.
+			DESCRIPTION OF THE RECORD:  In wakefulness there is a 9 hertz posterior dominant rhythm. There is a modest amount of background theta. 	Hyperventilation is performed early on in the record, previously noted increase in theta and beta. 	Features of drowsiness included increase in beta followed by vertex waves.  Deeper stages of sleep are not sustained. 	Photic stimulation elicits bilateral driving.
+	HR:	90 bpm.
+IMPRESSION:   Very mildly abnormal EEG due to:
+1.   Mild excess theta.
+	CLINICAL CORRELATON: 	No epileptiform features are observed.  This patient's medications may produce the slowing described above.

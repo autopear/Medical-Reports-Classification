@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Topamax, Ativan and others.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed. This is an awake and drowsy record.  
+DESCRIPTION OF THE RECORD: The background EEG is mildly disorganized with interhemispheric asymmetry with subsequent attenuation. In wakefulness, there is a 9 Hz, 40 V posterior dominant rhythm in the right hemisphere and 25 V in the left hemisphere. Low voltage, diffuse beta activity is seen throughout the record.  A breach rhythm was identified in the right frontal and central regions, as well as sharp waves at C4.  When the patient became sleepy, the sharp waves were also seen at C4 and T4.  Sleep is characterized by attenuation of the background with a mixture of different frequencies.  
+Photic stimulation elicits a photoelectric effect.
+HR:  54 BPM.
+IMPRESSION: Abnormal EEG due to:
+Mild disorganized background with interhemispheric asymmetry.
+Breach rhythm seen in the right hemisphere with sharp activity.
+Mildly increased beta activity.
+CLINICAL CORRELATION: This tracing demonstrates a disturbance of cerebral function due to a structural and function lesions.  The sharp waves support a focal mechanism for seizures. The breach rhythm is due to the previous craniotomy in this patient.  The diffuse increased beta activity may be due to medication effect of benzodiazepine use. 

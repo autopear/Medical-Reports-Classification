@@ -1,0 +1,7 @@
+MEDICATIONS: Zocor, Keppra, Pantoprazole, Metoprolol, Lorazepam, Versed 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated. There is no mention in the chart of recent seizures. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a slow pattern with a mixed of irregular theta and delta. There is a high amplitude sharp wave from the left temporal region with a significant field of spread. It often starts out as a frontal temporal discharge and then transitions to a left mid temporal discharge. On occasion it is left posterior temporal. Stimulation of the patient produces an alerting response with a lower voltage more mixed frequency pattern. Towards the end of the record, the epileptiform activity is more posteriorly predominant. 
+HR: 104 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Prominent sharp waves from the left temporal region with variability in terms of anterior or posterior localization. 
+CLINICAL CORRELATION: No seizures were recorded. This EEG supports a very irritative process on the left. 

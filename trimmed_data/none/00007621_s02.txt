@@ -1,0 +1,14 @@
+MEDICATIONS: Depakene, Lamotrigine, Omeprazole 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Photic stimulation was performed. The patient requires some sedation for placement of EEG electrodes. No clinical seizures are noted by the clinical team. 
+DESCRIPTION OF THE RECORD: The patient is somnolent through most of the record. The overall background is markedly abnormal for an adult. From the right hemisphere there is low to medium amplitude primarily beta frequency pattern with small amounts of theta and delta. The left hemisphere demonstrates a similar pattern, but there is occasional focal slowing in the left anterior posterior temporal regions. 
+No seizures are noted, no sharp waves are reported. 
+HR: 60 to 70 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. An abnormal background with absence of the normal developmental wave forms for an adult. 
+2. Excess beta. 
+3. Occasional slowing from the left hemisphere congruent with the patient's CAT scan. 
+HR: 78 bpm
+IMPRESSION: Abnormal EEG monitoring session due to: 
+1. An abnormal background with absence of normal wave forms. 
+2. Occasional focal low voltage focal slowing from the left hemisphere. 
+CLINICAL CORRELATION: The EEG supports a bihemispheric disturbance. The focal delta may be correlated with imaging. No seizures and no sharp waves were noted.

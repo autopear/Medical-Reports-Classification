@@ -1,0 +1,10 @@
+MEDICATIONS: Codeine, Phenytoin, Metro, CEFEPIME, Vane 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic simulation are performed. The patient is awake and talking.
+ 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates relatively rhythmic background slowing with a 7 hertz theta frequency pattern. The activity is higher amplitude on the left compared to the right. Asymmetric eye artifacts are noted and the skull defect is most prominent in the right frontocentral region. In addition, there appear to be a handful of right frontal/F4 sharp waves. 
+HR: 66 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Amplitude asymmetry. 
+3. Right frontal sharp waves. 
+CLINICAL CORRELATION: No seizures were recorded. This EEG demonstrates a diffuse disturbance of cerebral function affecting both hemispheres. The sharp waves are in the right frontal region, in the region of the previous brain surgery. 

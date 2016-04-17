@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, others.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Clinical exam is as described above. 
+DESCRIPTION OF THE RECORD: The background includes low voltage delta and smaller amounts of theta.  The most prominent feature in this record is primarily predominant approximately 2 to 5 Hz delta activity and an underlying sharp wave.  This is seen throughout the record.  In this portion of the record, no more activity is identified.  The activity includes a brief, sharp wave. It does wax and wane and at some point there is more of a rhythmic delta than a sharp wave.  At other points, the sharp wave has mostly a poly spike component. During later portions of the record, the activity is a bit more suppressed than the right, but the sharp wave overall seems to be bifrontal, perhaps a little bit more marked in the left than the right. Stimulation of the patient is not performed. 
+HR:  80 BPM.
+	
+	IMPRESSION: Abnormal EEG due to:
+Persistent, frontally predominant delta/theta with associated sharp wave.
+Generalized background slowing.
+CLINICAL CORRELATION: In the setting of anoxic encephalopathy and seizures, this record may represent either a late ictal pattern or an anoxic pattern.  Compared to previous studies, the epileptiform activity is lower amplitude and not as “spiky”. 

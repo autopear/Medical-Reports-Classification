@@ -1,0 +1,8 @@
+INTRODUCTION:  Digital video EEG is performed in the laboratory using standard 10-
+20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were conducted.  This is an awake through night sleepiness record.
+DESCRIPTION OF THE RECORD:  In wakefulness the background EEG is continuous and symmetric but superimposed excessive slow activity in theta range.  There is an 8.5
+Hz, 20 microvolt posterior dominant alpha rhythm which is well attenuated with the eyes open. Hyperventilation transiently increased the slow activity on the background, but no abnormal findings.  As the tracing continued on,light sleepiness was achieved
+evidenced by decreased amplitude and increased slow activity as well as spindles and
+K complexes on the background.  Photic stimulation created a driving. Heart rate 48-60 bpm, irregular.
+IMPRESSION:  This is a very mildly abnormal EEG due to background slowing.
+CLINICAL CORRELATION: No focal findings.  No epileptiform discharges were seen in this tracing.  If epilepsy is a clinical concern, a repeat EEG may be helpful.

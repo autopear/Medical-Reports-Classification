@@ -1,0 +1,7 @@
+MEDICATIONS: Percocet, Dilantin, Klonopin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The patient is very uncomfortable and complains of pain throughout the EEG.  Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8 to 9 Hz posterior dominant rhythm.  Features of drowsiness include an increase in background beta and some slow rolling eye movements.  Electrode pop is noted towards the close of the record, just as the patient starts to become comfortable.  Photic stimulation does not activate the record. 
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Shifting arrhythmic delta. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record. If further characterization of this patient’s underlying epileptiform focus is important, a repeat tracing when she is comfortable may be useful.  The generous beta and theta described above may be due to medications, but the shifting slowing may be correlated with abnormalities identified on imaging.  

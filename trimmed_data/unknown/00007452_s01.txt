@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin.
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation and hyperventilation performed. Awake and drowsy study.
+DESCRIPTION OF THE RECORD: During wakefulness there is a posterior alpha rhythm of 8.5 to 9 Hz with an increase of amplitude seen on the left. At times there is poor electrode placement and difficulty with electrode placement due to artificial hair placement. There is excess theta seen bilaterally in the background. Hyperventilation seems to increase some of this excess slowing of the background bilaterally. Photic stimulation: No driving is seen.
+	HR:	80 bpm
+IMPRESSION: Abnormal EEG due to:
+	1.	Excess theta in the background bilaterally.
+	2.	Increase of amplitude seen on the left which may be due to placement of hair extensions in this patient and may not be an abnormal finding.
+CLINICAL CORRELATION: There is no epileptiform activity in this record. Would recommend a repeat of the study after the removal of the hair extensions in this patient.

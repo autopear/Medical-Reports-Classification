@@ -1,0 +1,10 @@
+MEDICATIONS:  Patient has been on Dilantin, amlodipine, pravastatin, Lasix, metoprolol, and losartan.
+INTRODUCTION:  Digital EEG was performed in lab using standard 10/20 system of electrode placement with 1 channel EKG.  Photic stimulation was performed.  Hyperventilation was not performed.  The patient was recorded during wakefulness and drowsiness.
+DESCRIPTION OF THE RECORD:  The background EEG is slow with the posterior dominant rhythm of 7-8 Hz through a excess theta activity during wakefulness.  Drowsiness was characterized by more slowing of the background activity and loss of absence of eye blink artifact and muscle artifact.  There is right breach rhythm.  There is also almost continuous right temporal slowing with a frequency of 4.5-5 Hz.  There are occasional bursts of left temporal slowing.  There are intermittent spikes noted with maximum voltage at T4 with no evolutions.  Heart rate was 80 beats per minute and regular.
+IMPRESSION:  This is an abnormal EEG due to:
+Background slowing. Diffuse background slowing
+Right breach rhythm.
+Continuous right temporal slowing.
+Occasional left temporal slowing.
+Spikes T4(Right Temporal) occasionally with no evolution, or seizures.
+CLINICAL CORRELATIONS:  Diffuse slowing is indicative of bihemispheric dysfunctions that could be due to infectious, degenerative, hypoxic ischemic, postictal, and toxic metabolic etiologies. Clinical correlation is recommended.  Right breach rhythm could be due to the history of craniotomy in the past. Continuous right temporal slowing could be due to structural lesions in the right temporal region.  The presence of spike in right temporal region is indicative of hyperexcitability of cortex in this area that places this patient at higher risk for partial seizures. Clinical correlation is recommended.

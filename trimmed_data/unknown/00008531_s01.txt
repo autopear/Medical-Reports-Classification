@@ -1,0 +1,12 @@
+MEDICINES: 
+Dilantin, Dilaudid, Ativan, Lovenox, Xanax, Benadryl and others. 
+INTRODUCTION: 
+Digital video EEG is performed in the lab using standard 10/20 system of electrode placement with one channel EKG. Photic stimulation was performed. This is an awake record. 
+DESCRIPTION OF RECORD: 
+In maximum wakefulness there is generous beta. There are brief sections of the record with a 9 Hz posterior dominant rhythm. Drowsiness is characterized by hypersynchronous rhythmic theta. there are minor asymmetries in the record. The photic driving response is slightly more vigorous on the left compared to the right and POSTS are more prominent on the left than the right. There is excess beta noted in wakefulness. Drowsiness is characterized by hypersynchronous slowing and beta. 
+Heart rate 72 BPM. 
+IMPRESSION: 
+This is a very mildly abnormal EEG due to a combination of asymmetric POSTS and asymmetric photic stimulation. 
+CLINICAL CORRELATION: 
+While POSTS can be asymmetric, the asymmetric POSTS with the asymmetric photic suggests that there may be a 
+process, more likely in the right hemisphere than the left. 

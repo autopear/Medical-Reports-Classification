@@ -1,0 +1,9 @@
+MEDICATIONS:  Keppra, Tegretol, phenobarbital, lisinopril.
+INTRODUCTION:  Continuous video EEG monitoring was initiated on the 28th using standard 10-20 system of electrode placement with 1 channel EKG.  Seizure and spike detection software was utilized.  No seizures were noted in the patient clinical notes.
+DESCRIPTION OF THE RECORD:  As the tracing begins the patient is postictal and the overall pattern is diffusely slow.  Within an hour of the EEG he becomes a bit more awake with a 9 Hz posterior dominant rhythm. 
+By 9 p.m., he is transitioning in and out of stage 2 sleep. 
+There is a fair amount of EKG artifact noted. By 11 a.m., the nurse is able to awaken the patient with brief, sustained wakefulness. 
+No epileptiform discharges were identified. 
+Heart rate 78 bpm.
+IMPRESSION:  This continuous video EEG monitoring was remarkable for background slowing noted in the initial sections of the record.
+CLINICAL CORRELATION:  The pattern of resolving background slowing is compatible with a postictal physiology.  No seizures were recorded today.

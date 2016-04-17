@@ -1,0 +1,20 @@
+MEDICATIONS: Dilantin 
+Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel EKG. Photic stimulation was performed. 
+DESCRIPTION OF THE RECORD: During wakefulness, an intrahemispheric 
+asymmetry is seen with slower frequencies in the right hemisphere. There is a disrupted 
+posterior dominant alpha rhythm on that side with a disruption of faster frequency seen. 
+On the left hemisphere, a posterior dominant alpha rhythm of 9 hertz is seen at 25 
+microvolts. As the record comes to an end, the technician notes that the patient is 
+intermittently confused. At this point, some periods of slowing bilaterally of the 
+background is seen. There is also bilateral theta activity. During photic stimulation, there 
+is a bit of driving seen in the left hemisphere. Photoelectric artifact is seen as well. 
+HR: 126 bpm 
+Abnormal EEG due to: 
+1. Slower frequency activity in the right hemisphere. 
+2. A period of bilateral slowing during confusion. 
+CLINICAL CORRELATION: There is no epileptiform activity or seizures recorded on 
+this record. The slowing in the right hemisphere is consistent with structural lesion of the 
+right hemisphere. The intermittent confusion described to the patient during this bilateral 
+slowing is compatible with delirium. If of further concern for the diagnosis of epilepsy, 
+can repeat this study. 

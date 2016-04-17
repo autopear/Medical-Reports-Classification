@@ -1,0 +1,6 @@
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Patient is febrile and intubated. He has a hard collar. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a continuous pattern with low voltage, mixed frequency activity. There is some variability in the record, some sections are richer in beta and others more theta and delta. Stimulation of the patient does seem to produce an increase in muscle. In addition, the frontocentral regions seem to be richer in theta and beta while the temporal regions have more slow delta. 
+HR: 120 bpm 
+IMPRESSION: Abnormal EEG due to: 
+I. Generalized background slowing, more remarkable in the temporal regions. 
+CLINICAL CORRELATION: No epileptiform features were observed. If epilepsy is an important consideration, a repeat tracing capturing deeper stages of sleep is suggested. 

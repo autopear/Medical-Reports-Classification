@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10.20 system of electrode placement with 1 channel of EKG. The patient is extremely agitated and upset about the EEG which increases as the study continues. Hyperventilation and photic simulation are performed. 
+OF THE RECORD: The background EEG demonstrates a markedly slow and disorganized pattern. The patient is moving about throughout. This is primarily a theta frequency pattern. There may be an underlying C4 sharp wave discernable in the record, but the artifact really prohibits clear definition of this. Briefly, she becomes calmer and as she starts to drifts off to sleep there is more hypersynchronous theta followed by vertex waves. 
+HR: 100 bpm and irregular 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing with theta. 
+2. Perhaps a suggestion of a right central sharp wave. 
+CLINICAL CORRELATION: This EEG is similar to her many previous EEGs. The only EEG which ever demonstrate epileptiform activity is the EEG which recorded a seizure. Because of the patient's agitation, consideration for avoidance of additional EEGs may be appropriate. This is her eleventh EEG this year. 

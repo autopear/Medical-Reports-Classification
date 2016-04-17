@@ -1,0 +1,8 @@
+MEDICATIONS: Trileptal, Dilantin, Ativan, Seroquel, and many others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. Previous EEGs are not available for comparison.
+DESCRIPTION OF THE RECORD: The background EEG is somewhat disorganized for age.  There is an 8 Hz posterior dominant rhythm.  In apparent wakefulness, there are intermittent bursts of slowing.   
+HR:  100 BPM.
+	IMPRESSION: Mildly abnormal EEG for an adult of this age in wakefulness and drowsiness due to:
+	Mild slowing of the background.
+	Shifting slowing. 
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  To further characterize this patient’s epilepsy, a repeat study capturing deeper stages of sleep may be helpful.

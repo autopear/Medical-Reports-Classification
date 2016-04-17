@@ -1,0 +1,9 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Albuterol, acyclovir, multivitamins.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9-13 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures including hyperventilation and photic stimulation.  This produced no abnormal discharges.  The patient was recorded during wakefulness and drowsiness.
+ABNORMAL DISCHARGES:  Focal slow waves seen frequently at T4 at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts.  There is an associated increased amplitude and increased frequency in this region consistent with a breach rhythm.  In addition there is some independent T3 focal slowing seen at a frequency of 2-4 Hz only rarely.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to frequent right mid temporal focal slowing in addition to rare independent left mid temporal delta.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right mid temporal region, which is consistent with a known history of tumor.  In addition, there is independent left mid temporal focal cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

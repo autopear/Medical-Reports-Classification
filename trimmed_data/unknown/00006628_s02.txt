@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Plavix, Ciprofloxacin, Phenytion, Heparin, Nexium 
+INTRODUCTION: Digital video EEG is performed in lab using standard 10-20 system of electrode placement with one channel EKG. Photic stimulation is performed. The patient has difficulty communicating and there is a significant of muscle in the background. 
+DESCRIPTION OF THE RECORD: Much of the record includes muscle and artifact, but underneath this there is low voltage data and beta frequency activity. Sleep is not achieved. 
+HR: 78 bpm 
+IMPRESSION: Technically limited, but abnormal EEG due to: 
+1. Background theta. 
+CLINICAL This patient's multiple strokes and confusion might have 
+contributed to muscle artifact which precluded a good quality EEG pattern. A longer record capturing sleep might be useful to identify epileptiform activity. No epileptiform features were seen, however such could have been overlooked due to the muscle artifact. 

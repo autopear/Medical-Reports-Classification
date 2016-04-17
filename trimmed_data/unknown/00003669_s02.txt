@@ -1,0 +1,10 @@
+MEDICATIONS: Antibiotics and Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated, unresponsive, with occasional eye movements. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal.  There are frontal, periodic complexes, as well as occasional triphasic waves.  In this background, there are also mid-to-posterior temporal sharp waves identified from the right.  There are portions of the record with more sustained bursts of periodic activity from the right frontal region, but superimposed upon this there is also focality with a phase reversal at T2.  There is very slow evolution of the activity and then some waxing and waning seen intermittently.  Stimulation of the patient does not appear to produce a change in the EEG.  
+HR: 132 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Frequent, frontally predominant periodic activity.
+Occasional triphasic waves.
+Right mid or posterior temporal sharp waves.
+Subtle, poorly defined seizures from the right temporal region with involvement in the bilateral frontotemporal areas.
+CLINICAL CORRELATION: This tracing supports an irritative brain in the setting of anoxia.  These results were reviewed with the clinical team for additional medical management.  

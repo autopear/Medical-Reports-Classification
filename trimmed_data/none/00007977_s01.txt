@@ -1,0 +1,9 @@
+MEDICATIONS: Labetalol, Dilantin.
+INTRODUCTION: Digital  video EEG  is  performed  at the bedside  in the ICU using standard  10-20 system of electrode placement  with one channel of EKG. The  patient is awake a.11d quite active.
+DESCRIPTION OF THE  RECORD: The background EEG demonstrates  a mixed frequency  pattern  rich  in alpha,  theta, and delta.   Irregular  frontal  delta  is seen, as is arrhythmic  delta activity  from the right hemisphere.  Features  of drowsiness  include a.J1. increase in background delta.
+HR:   90 BPM.
+IMPRESSION: Abnormal EEG due to:
+1.  Generalized background slowing.
+2.  FIRDA.
+3.  Prominent  irregular delta including the right hemisphere.
+CLINICAL CORRELATION: No epileptiform features were identified in this record. The features described above are non-specific and can be seen in a toxic or metabolic encephalopathy, increased  intracranial  pressure, as well as a CNS process.   No seizures were seen.

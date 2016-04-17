@@ -1,0 +1,6 @@
+MEDICATIONS:  Dilantin, Phenobarbital.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with a 9 Hz, 70-80 microvolt alpha rhythm.  Posterior slow waves of youth are noted.  The alpha rhythm is a little higher amplitude on the left than the right.  Hyperventilation is performed with good effort, increasing the amplitude of the background as well as increasing beta activity.  Features of drowsiness include rhythmic central theta and frontocentral beta as well as attenuation of the alpha rhythm. Photic stimulation elicits a driving response. 
+HR:    84 bpm
+IMPRESSION:  Normal EEG is wakefulness and drowsiness.
+CLINICAL CORRELATION:  No epileptiform features were noted, although there were many normal, youthful waveforms such as posterior slow waves of youth. If epilepsy is an important consideration, a repeat tracing capturing stage 2 sleep is suggested. 

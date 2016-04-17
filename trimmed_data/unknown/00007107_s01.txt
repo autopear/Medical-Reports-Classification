@@ -1,0 +1,6 @@
+MEDICATIONS: Dilantin and Phenobarbital. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The child is awake, restless, and asleep.
+DESCRIPTION OF THE RECORD: In this challenging, awake record, there is a  posterior dominant rhythm of 6.5 to 7 Hz with amplitudes up to 80 uV.  In the initial portions of the record, there appears to be an alpha asymmetry, however, when the child is resting, the asymmetry appears to have been artifactual.  In any case, the alpha seemed initially to be disrupted on the left, an observation not borne out by later portions of the record. LAMBDA waves are seen as he looks about.  Brief drowsiness is characterized by some hypersynchronous slowing.  
+HR:  120 BPM.
+	IMPRESSION: This EEG is within normal limits in wakefulness.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  Overall, despite the movement artifact, this appears to be a symmetric record with achievement of age appropriate developmental milestones.  

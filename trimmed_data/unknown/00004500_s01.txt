@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Percocet, Lovenox, Ativan, and others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz posterior dominant rhythm, but there is excess background theta noted in the background, as well as generous, low voltage, frontocentral beta activity.  There are occasional bursts of frontally predominant rhythmic delta activity, and there is also a suggestion of a bit more slower delta on the right compared to the left.  There are also independent bursts of delta from the left posterior quadrant.  Hyperventilation is performed with good effort, producing an increase in the amplitude of the background.  Photic stimulation does not significantly activate the record.   
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG for an adult of this age due to:
+Bursts of shifting slowing identified from either hemisphere seen independently.
+Excess background theta.
+CLINICAL CORRELATION: No epileptiform features were identified in this record.  These findings may be correlated with imaging, but suggest a process in disrupting white matter in either hemisphere.  There are no previous EEGs. 

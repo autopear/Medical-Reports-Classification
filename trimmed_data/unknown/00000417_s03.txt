@@ -1,0 +1,9 @@
+MEDICATIONS: Lovenox, ASA, Insulin, Famotidine, Dilantin, Simvastatin, Tylenol #3, Zofran
+INTRODUCTION:  Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation  and photic stimulation were not possible. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In wakefulness, background EEG demonstrated an interhemispheric  asymmetry. While there is a 9.5 Hz posterior dominant rhythm identified bilaterally, it somewhat disrupted on the left compared to the right. Arrhythmic delta activity is observed on the left with disruption of faster frequency activity. In addition, there are a handful of sharply contoured transients at T3 and T5. Finally, there is occasional arrhythmic slowing observed on the right and a burst of sharply contoured transients with a sharp wave with phase reversal at T2-T4.
+IMPRESSION:   Abnormal EEG due to:
+	1. 		Nearly continuous focal slowing from the left hemisphere with disruption of faster frequency activity in the left frontotemporal region, congruent with his stroke.
+	2. 	Left mid to posterior temporal sharp waves.
+	3. 	Occasional burst of generalized or right frontotemporal slowing.
+	4. 	Rare sharp waves from the right hemisphere.
+CLINICAL CORRELATION: This EEG demonstrates pathology  outside of the range of the recent, generous, left MCA CVA. The sharp waves on the right might explain the head turning to the left with the brief spell which occurred earlier today.

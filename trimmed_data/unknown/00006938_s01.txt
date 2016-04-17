@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is intubated wearing a face mask and is poorly responsive.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a slow pattern with rhythmic  theta and generous beta.  The overall pattern is relatively low voltage, particularly in the temporal regions.  Occasional bursts of Firda are noted.  In addition,
+in some sections of the record a little bit more left central theta is noted.
+	HR:	60 bpm
+IMPRESSION: Abnormal EEG due to:
+	1. 	Generalized background slowing.
+	2.	Superimposed focal slowing in the left central region.
+CLINICAL CORRELATION:  No epileptiform features were noted.  The background slowing described above supports a diffuse disturbance of cerebral function. The focal features may be correlated with imaging.

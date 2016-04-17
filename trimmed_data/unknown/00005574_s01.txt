@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, steroids, Keppra, and others. 
+INTRODUCTION: Portable digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated. 
+DESCRIPTION OF THE RECORD: The background EEG is disorganized with excessive slow delta and theta activity.  There is some asymmetry on the background, which is mildly attenuated on the right with more slowing on the left.  The normal posterior dominant alpha rhythm is not identified.  Frequent slow sharp and spike wave activity is seen at T5, C3, and T1.   Stimulation of the patient produces reactivity by transiently increasing the amplitude and the frequency of the slow activity on the background.
+HR:  132 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Slow and disorganized background.
+	Mildly asymmetric background with attenuation on the right. 
+	Sharp and spike wave activity in the left anterior and central regions.  
+CLINICAL CORRELATION: This abnormal EEG pattern is indicative of a cerebral dysfunction involving both gray and white matter.  The attenuation on the right may be secondary to the structural lesion in this patient.  Correlation with neuroimaging studies may be helpful.  The epileptiform features emanating from the left anterior and central regions may be suggestive of a cortical irritation and linked this patient’s seizures.

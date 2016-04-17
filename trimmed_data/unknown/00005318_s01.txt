@@ -1,0 +1,6 @@
+MEDICATIONS:  Dilantin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is noted to be quite drowsy.
+DESCRIPTION OF THE RECORD:  This EEG demonstrates primarily stage 2 sleep with vertex waves and spindles. Stimulation of the patient demonstrated an alerting pattern with a well defined alpha rhythm.  The patient was observed to have myoclonic jerks prior to the EEG but none were recorded during the EEG. 
+HR:    96 bpm
+IMPRESSION:   EEG is within normal limits in sleep. 
+CLINICAL CORRELATION:  No epileptiform features were identified.  Although this was a sedated study, there were no pathological features.  A previous EEG demonstrated a normal awake pattern.

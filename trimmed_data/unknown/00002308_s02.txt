@@ -1,0 +1,7 @@
+MEDICATIONS: Phenobarb and Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is reasonably well organized.  There is a posterior dominant rhythm of 10 Hz, 50 uV with both temporal wicket activity and some sharply contoured slowing in the posterior regions.  These findings are ameliorated with stimulation of the patient in maximal wakefulness.  Hyperventilation is performed with good effort producing an increase in the amplitude of the background, as well as occasional, left greater than right temporal slowing.  Drowsiness is characterized by increasing synchronicity of the background.  Deeper stages of sleep are not achieved.  Photic stimulation elicits scant bilateral driving, particularly in the posterior regions. 
+HR:  72 BPM.
+	IMPRESSION: Mildly abnormal EEG for an adult of this age due to:
+	1.	Independent, left or right posterior temporal slowing. 
+CLINICAL CORRELATION: In this sharply contoured record with significant wicket, there are no definite epileptiform discharges.  The temporal features described above are of unclear clinical significance, but correlation with imaging may be valuable. To further elucidate epileptiform activity, a study capturing deeper stages of sleep is needed. 

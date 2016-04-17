@@ -1,0 +1,8 @@
+EEG LENGTH:  30 minutes
+DESCRIPTION OF RECORDING:  The posterior dominant rhythm consists of a well-formed and modulated moderate amplitude 10-1/2 Hz alpha activity that attenuates with eyes opening.  There is an anterior to posterior frequency amplitude gradient with faster frequencies at lower amplitudes anteriorly.  During drowsiness, the amount of diffuse theta and frontal central beta increases.  Hyperventilation is performed with good effort and produces mild diffuse background slowing as well as brief bursts of moderate to high amplitude diffuse frontally predominant somewhat rhythmic theta activity.  Similar activity is observed post hyperventilation as well as during drowsiness.  Photic stimulation results in symmetrical occipital driving at multiple flash frequencies.  Bursts of diffuse frontally predominant moderate to high amplitude somewhat rhythmic theta activity are also observed during photic stimulation.   
+A single EKG lead demonstrates a heart rate that is at times fewer than 60 beats per minute.
+FINDINGS:  
+No stage II sleep.
+No clear epileptiform discharges.
+Brief bursts of moderate to high amplitude diffuse frontally predominant theta activity that occur during hyperventilation, post hyperventilation, during drowsiness and during photic stimulation.
+IMPRESSION:  This is likely a normal awake and drowsy 30-minute EEG.  Bursts of moderate to high amplitude, somewhat rhythmic theta activity that occur throughout the recording, are of uncertain clinical significance but are not clearly epileptiform.  A repeat longer study with prolonged sleep would be of benefit in this patient.

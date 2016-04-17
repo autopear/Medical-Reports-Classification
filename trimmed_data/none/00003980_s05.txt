@@ -1,0 +1,9 @@
+MEDICATIONS:  Topiramate 
+REASON FOR STUDY:  Seizure classification.
+INTRODUCTION:  Digital video long term EEG was performed for 24 hours using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  Video recording was performed.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed.  Continuous spike detection software, as well as seizure detection software was used for review of the EEG, in addition to patient's alarms and nurses events.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record revealed a posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  Normal beta was seen.  The patient was recorded in stage I to deep stages of sleep, including REM.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES OR EVENTS:    None
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen on day #2 of the long term EEG recording.

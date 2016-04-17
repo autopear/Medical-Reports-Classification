@@ -1,0 +1,7 @@
+MEDICATIONS: Zyprexa, Dilantin, and antibiotics.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record in a relatively somnolent patient. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is diffusely slow with primarily a theta frequency pattern of 6 to 7 Hz.  When not stimulated, the patient drifts off to sleep with an increase in beta activity followed by spindles and occasional vertex waves.  Stimulation of the patient produces an alerting response.  
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG primarily in drowsiness due to:
+	1.	Generalized background slowing.  
+CLINICAL CORRELATION: These features are non-specific and can be seen in a diffuse disorder of cerebral function including a toxic or metabolic encephalopathy.  No epileptiform features were seen. 

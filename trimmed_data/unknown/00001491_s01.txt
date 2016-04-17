@@ -1,0 +1,8 @@
+MEDICATIONS: Heparin and Dilantin.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation was performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximal wakefulness, the patient is awake but confused.  There are brief portions of the record with a 10.5 Hz symmetric, reactive  posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  There are also waking portions of the record with intermittent bursts of irregular bilateral frontally predominant delta activity, some of which seems to have a suspicious sharp wave in the central region, but without a definitive sharp wave.  In addition, as the patient becomes drowsy, there is a suggestion of a left parietal small discrete sharp wave.  Photic stimulation does not activate the record. 
+HR:  64 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Bursts of intermittent rhythmic frontal slowing or arrhythmic slowing.
+	Suspicious underlying sharp waves at P3 and potentially in the central regions as well. 
+CLINICAL CORRELATION: No previous EEGs were available for comparison.  This EEG supports a localization-related mechanism for epilepsy, as well as potential underlying encephalopathy.  

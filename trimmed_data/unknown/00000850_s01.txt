@@ -1,0 +1,6 @@
+MEDICATIONS:   Dilantin.
+INTRODUCTION:   Digital EEG was performed using standard 10-20 system of electrode placement with 1 channel EKG. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  The background EEG is well organized and symmetric with an alpha frequency of 9.5 mV. There is asymmetry of eye movements. There is accentuation of the beta rhythm on the left. Breach rhythm is also apparent on the left. During drowsiness the patient has slow rolling eye movement.  Hyperventilation is performed which does not activate the record. Photic stimulation is performed which shows minimal driving response.
+	HR: 	72bpm
+IMPRESSION:  Normal EEG.
+CLINICAL CORRELATION: No epileptiform activity was seen. The absence of epileptiform activity does not exclude diagnosis of epilepsy. Previous EEGs were not obtainable.  Note that breach rhythm does not make an abnormal record. It is a manifestation  of skull defect.

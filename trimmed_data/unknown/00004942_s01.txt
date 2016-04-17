@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin and Lorazepam. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is restless, sometimes drifting off to sleep.  
+DESCRIPTION OF THE RECORD: There is diffuse low voltage background beta.  There is an occasional high amplitude delta seen bilaterally.  Stimulation of the patient resulted in muscle artifact, obscuring the EEG.  
+HR:  72 BPM.
+IMPRESSION: Abnormal EEG due to:
+	Diffuse low voltage beta seen on the background.
+	Occasional high amplitude delta seen bilaterally asynchronously. 
+CLINICAL CORRELATION: The above findings are non-specific and support a diffuse mechanism of dysfunction.  No epileptiform features were identified in this record.  Additional recording when the patient is more cooperative may be needed to characterize any epileptiform activity. 

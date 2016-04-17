@@ -1,0 +1,11 @@
+MEDICATIONS:  Depakote, Dilantin and acyclovir.
+INTRODUCTION:  Continuous video EEG monitoring was performed in the EEG monitoring unit using standard 10-20 system of electrode placement with one channel of EKG.  The patient was quite somnolent, but no additional clinical seizures were performed.  The patient was noted to occasionally follow commands.
+DESCRIPTION OF THE RECORD:  The background EEG includes a diffusely slow pattern.  There is a subtle asymmetry with a bit more faster frequency activity on the right compared to the left.  Sleep stages are now noted with spindles.  Occasional sharp waves are noted primarily from the left temporal region.   
+Over the course of the 24 hour section of the record, the patient is increasingly awake.  During the sections of the record there is eye movement, and disruption of the EEG recording process.   
+There are some sections of the record with more rhythmic bursts of slowing from the left. 
+Heart rate 72 BPM.
+IMPRESSION:  This last 24 hours of continuous video EEG monitoring was remarkable for:
+Generalized background slowing which is gradually improving. 
+Superimposed focal slowing which has become more intermittent. 
+Left temporal sharp waves.
+CLINICAL CORRELATION:  No seizures were identified.  Overall, this demonstrates a marked improvement for this patient who was previously experiencing repetitive seizures.

@@ -1,0 +1,8 @@
+MEDICATIONS: Morphine, Zantac, insulin, and Dilantin. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake or drowsy. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is low voltage, moderately slow with primarily a theta frequency pattern.  There is occasional frontally predominant delta.  Towards the close of the record, there is more of an alerting response with a lower voltage record and a 7 Hz alpha rhythm.  In maximum wakefulness, the focal features are less prominent and there is less in the way of frontal delta.  There is a single right temporal sharp wave. 
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Mild background slowing.
+Intermittent frontal delta. 
+CLINICAL CORRELATION: Given this patient’s CT findings, the focal features are much less prominent than one might anticipate.  There was only a single temporal sharp wave, which must therefore be considered artifact.  A follow-up study when the patient is out of the ICU and can more fully cooperate with the test may be helpful in delineating epileptiform features.  

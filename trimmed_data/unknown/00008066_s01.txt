@@ -1,0 +1,19 @@
+MEDICATIONS: Dilantin, Phenobarbital 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel EKG. Hyperventilation and photic 
+stimulation were performed. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG 
+includes a 9 Hz posterior dominant rhythm. There is excess beta and theta noted in the 
+background. In early drowsiness there is intermittent, focal slowing from the left 
+temporal region with a mixture of theta and delta. There are also some central sharp 
+waves noted and bursts of focal slowing. In addition, wicket is identified from both 
+temporal regions, but from the left hemisphere there are more clearly defined sharp 
+waves with some irregular slowing. Hyperventilation seems to accentuate some of the 
+focal slowing and sharp waves, particularly as the patient-becomes-drowsy after 
+hyperventilation. Photic stimulation does elicit a bilateral driving response. 
+HR: 78bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Focal slowing from the left temporal region. 
+2. left temporal sharp waves. 
+CLINICAL CORRELATION: This EEG supports a localization related mechanism for 
+epilepsy. ╖  

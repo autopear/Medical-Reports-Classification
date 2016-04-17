@@ -1,0 +1,18 @@
+MEDICATIONS: Dilantin, Topamax, Depakote, Keppra, Klonopin, Senna, Protonix, 
+Lorazepam, Morphine, Metoprolol 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. The patient is poorly responsive. 
+Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a disorganized 
+pattern with primarily theta and delta. There are some sharply contoured transients 
+including the frontal regions, right more so than the left but with also some triphasic 
+waves and some occasional left anterior temporal sharp waves. Stimulation of the 
+patient produces an increase in muscle artifact. 
+HR: 80 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Marked background slowing. 
+2. Triphasic waves. 
+3. Occasional frontal sharp waves, right more than left, and occasional left temporal 
+sharp waves. 
+CLINICAL CORRELATION: Many of these findings have been identified in previous 
+EEGs. The background slowing is more remarkable than some of her prior studies. 

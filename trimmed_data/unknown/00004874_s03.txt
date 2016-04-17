@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Lorazepam, Haldol, Hydralazine, Pantoprazole,  Clondine
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG,  Photic stimulation and hyperventilation  not performed.
+DESCRIPTION  OF THE R ECORD:   In wakefulness there is excess beta seen throughout the record and slowness of the background with theta at 5-7 Hz. The bilaterally amplitude is intermediate  at the background.  There is occasional head rocking artifact and muscle artifact seen throughout the record.
+HR: 70 bpm
+IMPRESSION:   Abnormal EEG due to:
+	1. 		Background slowing of theta range 5-7 Hz with a medium amplitude of the background.
+CLINICAL CORRELATION: There is no epileptiform activity found on this record. Slowness of the background is not specific and can be secondary to due to medications or toxic metabolic encephalopathy.

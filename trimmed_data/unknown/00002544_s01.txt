@@ -1,0 +1,7 @@
+MEDICATIONS: Dilantin, Ativan, folate.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ER using standard 10-20 system of electrode placement with one channel of EKG. The patient is awake, receiving supplemental oxygen.
+DESCRIPTION OF THE RECORD: The background EEG is remarkable for a well-defined 10 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  A Versed drip is initiated for agitation during the EEG.  This produces an increase in slowing in the record, slight discontinuity, and a small increase in beta.  
+HR:  120 to 150 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Excess beta.
+CLINICAL CORRELATION: No focal or epileptiform features were identified in this record, and the Versed produced a pharmacologic pattern of increasing slowing and slight discontinuity.  Of note, the initial awake record is normal. 

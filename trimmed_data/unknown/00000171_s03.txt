@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Hydroxyurea. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic stimulation are performed. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: The patient background EEG demonstrates a well-organized pattern on the right. On the left there is a prominent breech rhythm with accentuation of faster frequency activity and focal slowing characterized primarily by theta and a smaller amount of delta. There is wicket activity. Photic stimulation elicits a driving response. Hyperventilation produces an increase in background slowing. 
+HR: 60 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Focal slowing in the left frontotemporal region. 
+2. Two T3 sharp waves. 
+CLINICAL CORRELATION: The breech rhythm is an anticipated finding following craniotomy. The sharp waves on the left support an increased predisposition to seizures. Clinical correlation is suggested. 

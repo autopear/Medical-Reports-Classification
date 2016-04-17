@@ -1,0 +1,13 @@
+MEDICATIONS:  Ativan, Phenobarbital 
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video long-term EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded while lethargic.  No activating procedures were performed.  Continuous spike and wave detection as well as seizure detection software as well as patient-noted events noted were used to review the EEG.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontocentral beta.  There a clear asymmetry between both hemispheres and there is an increased amplitude over the right hemisphere with some faster frequencies seen over that region including some beta that is not seen as well over the left.  This is consistent with a breach rhythm.  No activating procedures were performed.  Some sleep architecture was seen, but not typical.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen over the right hemisphere maximal in the T4 electrode at 2-4 Hz, amplitude of 20-70 microvolts.
+Generalized slowing at 2-4 Hz with an amplitude of 20-60 microvolts seen continuously throughout the recording.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Right hemispheric slowing maximal in the midtemporal region along with an associated breach in that region. 
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction in the right hemisphere maximal in the midtemporal region which is consistent with the known surgery in that region.  In addition, there is evidence of generalized cerebral dysfunction, which is nonspecific with regards to etiology, but in this case may be due at least in part to medication effect.  No seizures or epileptiform discharges were clearly seen.

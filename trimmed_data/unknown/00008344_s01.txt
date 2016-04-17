@@ -1,0 +1,8 @@
+		
+MEDICATIONS:  Keppra, Dilantin, Risperdal, Cogentin, Percocet.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was completed.  Impedances were challenging.  The overall technical quality is acceptable.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an 8.5 Hz alpha rhythm with a generous amount of low voltage, frontocentral beta activity.  Muscle artifact was noted in the frontal regions.   
+Drowsiness was characterized by an increase in beta with slow rolling eye movements.  Sleep was not sustained.  Hyperventilation produces an increase in amplitude of the background.   
+Heart rate:  90 BPM.
+IMPRESSION:  EEG within normal limits in wakefulness and brief drowsiness.
+CLINICAL CORRELATION:  No focal or epileptiform features were identified.  If epilepsy is an important consideration a repeat tracing capturing deeper stages of sleep may be of value.

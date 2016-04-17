@@ -1,0 +1,6 @@
+MEDICATION: Dilantin. ACTIVATION: Photic Stimulation.
+INTRODUCTION: Digital Video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.
+DESCRIPTION OF THE  RECORD: In wakefulness, there is a 9Hz, 50uV posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity. Drowsiness is characterized by slow rolling eye movement and attenuation of the alpha. Photic stimulation elicits brief bilateral driving.
+HR:   96 BPM
+IMPRESSION: Normal EEG in wakefulness through stage I sleep.
+CLINICAL  CORRELATION: No focal nor epileptiform features were identified in this record.   Normal EEG does not exclude a diagnosis of epilepsy.   If seizures are an important consideration, a repeat tracing capturing deeper stages of sleep would be helpful.

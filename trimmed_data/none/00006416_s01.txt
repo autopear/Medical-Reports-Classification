@@ -1,0 +1,9 @@
+MEDICATIONS:  None listed in chart
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient appears to be contractured and is poorly cooperative.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a markedly slow and abnormal background.  There are none of the normal morphologies in an adult awake record.  In  this continually moving individual, there is the suggestion of right frontal periodic slowing as well as eye movement and head-rocking artifact.
+	HR:	96 bpm
+IMPRESSION: Abnormal  EEG due  to:
+1.  Markedly abnormal background with absence of the normal morphologies of an awake adult.
+2.   Likely a right frontal periodic sharp wave focus which seems to be abating by the
+close of the record.
+CLINICAL CORRELATION:   No seizures were recorded.  The overall pattern does appear to be improving and this likely represents a post ictal pattern.
