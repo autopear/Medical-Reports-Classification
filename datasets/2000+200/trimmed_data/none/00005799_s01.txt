@@ -1,0 +1,22 @@
+INTRODUCTION: 
+A routine EEG was performed using 1 0/20 standard electrode placement system with EKG electrodes as well as anterior 
+temporal electrode. The patient was awake and obtunded, and sleep was recorded. Photic stimulation was performed, 
+but no hyperventilation. 
+MEDICATIONS: 
+Furosemide, hydralazine, Aggrenox, Digoxin, Tylenol, amlodipine, simvastatin, and carbamazepine. 
+TECHNICAL PROBLEMS: 
+None. 
+DESCRIPTION OF RECORD: 
+The record opens to diffusely slow background in the theta frequencies with a posterior dominant rhythm at best seen of 7 
+Hz and 20 to 50 microvolts amplitude. There is minimal frontal central beta. There appears to be state change in the 
+record, but no normal sleep architecture is seen. Photic stimulation was performed and no abnormal discharges were 
+seen. No hyperventilation is performed. 
+ABNORMAL DISCHARGES: 
+Diffuse slow waves at 5 to 7 Hz seen continuously over the recording with additional frontal intermittent rhythmic delta 
+(FIRDA) in bursts seen multiple times during the recording. 
+SEIZURES: 
+None. 
+IMPRESSION: 
+Abnormal EEG due to diffuse slow waves and FIRDA. 
+CLINICAL CORRELATION: 
+This EEG is consistent with diffuse cerebral dysfunction, which is nonspecific with regard to etiology. No seizures or epileptiform activity was seen. 

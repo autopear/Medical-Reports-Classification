@@ -1,0 +1,10 @@
+MEDICATIONS:  Tylenol, Meclizine, Lovenox.
+REASON FOR STUDY:  Visual hallucinations.
+INTRODUCTION:  Digital video routine EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead electrode.  The patient was recorded in wakefulness.  Activating procedures included hyperventilation.
+TECHNICAL DIFFICULTIES:  This patient has continued eye movement artifact throughout the entire recording and does not stop blinking throughout the recording, despite the technician telling her to stop.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9-10 Hz, which is reactive to eye opening.  There is normal amount of frontal central beta.   Activating procedures, including hyperventilation, produce no abnormal discharges.   The patient is recorded only in wakefulness.   
+ABNORMAL DISCHARGES::  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake EEG.
+CLINICAL CORRELATION:   No seizures or epileptiform discharges were seen.   
+Note:  The continuous artifact impeded clear observation of all the frontal rhythms in this EEG and a repeated EEG with some sedation may aid in getting a better quality EEG if clinically desired.

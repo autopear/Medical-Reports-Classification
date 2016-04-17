@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  57 year old female, pontine hemorrhage with poor responsiveness, renal failure.
+MEDICATIONS:  Gentamicin, Clonidine, Hydralazine, Ancef, Insulin
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated.  This is a 24 Hour EPOC study
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a pattern rich in alpha and beta frequency activity.  There is occasional frontal delta.  There are some shifting asymmetries noted.  The left hemisphere is richer in faster frequency activity than the right. The patient is stimulated with individuals at the bedside on the afternoon of December 27, 2011 at 3:19 p.m.  There is clearly a variability with a lower voltage faster frequency pattern. 
+ HR:   96 bpm
+IMPRESSION:  This EEG is remarkable for:
+No seizures.
+An asymmetry with a lower voltage pattern on the right.
+Reactivity which is a positive finding.
+CLINICAL CORRELATION:  These findings may be correlated with clinical history, exam, and imaging.  Clinical information, such as the patient's clinical status over the last 2 days and/or presence of absence of antiepileptic medications would be helpful. 
+
+

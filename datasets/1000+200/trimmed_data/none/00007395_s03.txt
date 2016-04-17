@@ -1,0 +1,7 @@
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness, stage I, and stage II.  Activating procedures included hyperventilation and photic stimulation.  The patient was recorded for an hour.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9-10 Hz, which is reactive to eye opening.  There is normal frontal central beta.  The patient is recorded wakefulness in stage I and stage II sleep.  Activating procedures included photic stimulation and hyperventilation, which produced no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None. 
+Heart rate 60.
+IMPRESSION:  Normal awake and sleep EEG.  No seizures or epileptiform discharges were seen during this 1 hour 

@@ -1,0 +1,6 @@
+MEDICATIONS:  Keppra, Lamictal, Crestor, Elavil, Flexeril, Nexium
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  The patient had no clinical events during this EEG. 
+In random wakefulness and sleep and wakefulness, the background EEG is well-organized with symmetric 9 Hz alpha rhythm. Abundant stage II sleep includes vertex waves, K-complexes, spindles, and posts.  On rare occasions, there is a slight asymmetry noted in stage II sleep with somewhat lower voltage activity in the left posterior quadrant. Brief REM sleep was identified. 
+HR:    100 bpm
+IMPRESSION/CLINICAL CORRELATION:  No seizures or epileptiform activity was identified in this 24-hour section.

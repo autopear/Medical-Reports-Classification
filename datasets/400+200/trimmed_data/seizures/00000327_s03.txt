@@ -1,0 +1,24 @@
+MEDICATIONS: Topamax, Keppra, Vimpat, Protonix, Lovenox, Advair, Ventolin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of 
+electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are 
+performed. 
+DESCRIPTION OF THE RECORD: The background EEG includes an 8.5 Hz alpha rhythm 
+which is slightly slower on the left when compared to the right. There is a breech rhythm with 
+amplitude activity from the left as well as some underlying theta and delta. In this sharply 
+contoured record, there are occasional T3 and T5 sharp waves. The T4 sharp waves occur in 
+trains. Stimulation of the patient seems to produce an increase in faster frequency activity 
+bilaterally and the focal features on the left are a bit more prominent in the transition toward 
+sleep. Somewhat asymptomatic vertex waves are noted and there are POSTS noted in sleep. 
+The patient seems to transition in an out of sleep. Photic stimulation does elicit a scant driving 
+response. In some sections of the sleep recording, with vertex waves and spindles, there are 
+sections with the posterior temporal sharp waves and even some left occipital sharp waves. The 
+breech rhythm is quite prominent in stage II sleep and the sharp waves range from F7 all the 
+way to 01. 
+HR: 78 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Focal slowing in the left temporal region with disruption of faster frequent activity as well as 
+underlying slowing. 
+2. Left temporal sharp waves which range in maximum from even the left occipital region to 
+the left mid to anterior temporal region. 
+CLINICAL CORRELATION: This EEG supports a broad epileptogenic zone. Additional EEG 
+recording it may be helpful to capture her frequent events at this time. 

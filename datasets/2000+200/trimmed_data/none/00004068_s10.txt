@@ -1,0 +1,11 @@
+MEDICATIONS: Keppra 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG monitoring. The patient is calm and cooperative. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG includes a background with a 9 Hz posterior dominant rhythm. Generous background beta and arrhythmic delta is picked up in the left hemisphere, particularly the left centrotemporal. A left temporal and sometimes central parietal sharp wave is noted. Photic stimulation elicits vigorous driving. 
+HR: 66 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Excess beta. 
+2. Excess theta. 
+3. Disorganization. 
+4. Focal slowing in the left hemisphere. 
+5. Rare left temporal sharp waves. 
+CLINICAL CORRELATION: This EEG demonstrates an overall improved background. No seizures were recorded. Additional clinical evaluation may be appropriate. 

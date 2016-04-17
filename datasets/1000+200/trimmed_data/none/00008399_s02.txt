@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Keppra and Ativan.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation are performed.
+TECHNICAL DIFFICULTIES:  Some frontal muscle artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no clear posterior dominant rhythm or frontocentral beta.  There was no activating procedures performed.  No sleep architecture was seen.  Overall, there was a slight increase in faster frequency seen best over the left hemisphere and not clearly over the right hemisphere.  The background is in the delta range of 2-4 Hz with some intermittent left hemispheric theta.
+SEIZURES:  None.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen over the right hemisphere maximally anterior temporal at F8/T4.  
+Generalized slow waves at 2-4 Hz at an amplitude of 20-60 microvolts.
+IMPRESSION:  Abnormal EEG due to focal slowing over the right hemisphere maximally anterior temporal as well as generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral structural dysfunction in the right hemisphere maximally anterior temporal which is consistent with the known hemorrhage.  In addition, there is evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.
+__________________________

@@ -1,0 +1,14 @@
+MEDICATIONS:  Lactulose, Rifaximin, Advair, Dilantin.
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded while unresponsive.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontal central beta.  The patient is not captured in any abnormal sleep.  No activating procedures were performed.  However, during the examination the patient was stimulated on at least 4 occasions and no change in the EEG could be seen or reactivity could be seen. 
+ABNORMAL DISCHARGES:
+Focal sharp waves seen continuously and periodically in the bilateral central and parietal region, mainly CZ4/PZ, but at times more at C3 and P3, and at times at C4/P4 at a frequency of 1-2 Hz with an amplitude of 20-70 mV.  
+Focal slow waves seen in the same region.
+Generalized slow waves at 2-4 Hz with an amplitude of 20-40 mV seen continuously throughout the recording.
+SEIZURES:
+IMPRESSION:  Abnormal EEG due to: 
+Periodical lateralized epileptiform discharges (PLEDs) arising from the central parietal region with a large field. 
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction and irritability in the central parietal region, which has a high correlation with an acute lesion in that region.  In addition, there is evidence of diffuse cerebral dysfunction, which is nonspecific in regards to etiology, it may be due, at least, in part to medication effect.  No seizures were seen.

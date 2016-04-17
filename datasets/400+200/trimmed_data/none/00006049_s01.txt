@@ -1,0 +1,9 @@
+MEDICATIONS:  Levetiracetam, Amlodipine
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  There is diffuse electrode artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a low amplitude posterior dominant rhythm that at best reaches 9 Hz and appears to be reactive to eye opening.  There is a normal amount of frontocentral beta.  Photic stimulation produces no abnormal discharges and hyperventilation also produces no abnormal discharges.
+ABNORMAL DISCHARGES:  None
+SEIZURES:   None
+IMPRESSION:  Normal limited awake and sleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

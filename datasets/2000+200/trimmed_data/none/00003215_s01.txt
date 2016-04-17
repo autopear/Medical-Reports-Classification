@@ -1,0 +1,11 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Risperdal, levothyroxine, famotidine, Keppra, steroids.
+INTRODUCTION:  A routine EEG was performed using a standard 10-20 electrode placement with additional anterior temporal and single lead EKG electrode.  The patient was recorded while lethargic.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  Some frontal electrode artifact seen frequently throughout the recording.
+DESCRIPTION OF THE RECORD:  The records opens to a diffusely slow background with no normal posterior dominant rhythm or frontal central beta.  There is no normal sleep architecture.  Photic stimulation produced no abnormal discharges. 
+Overall the background consisting of diffusely slow delta 2-4 Hz frequency discharge, which is intermixed with some theta frequency discharge.  In addition, there are frequent anterior predominant deflections with an anterior to posterior lag most consistent with triphasic waves seen frequently, at times rhythmically, in a pseudoperiodic fashion.  In addition, there are intermittent focal sharp waves seen over the left hemisphere at T3, sometimes at F7 and sometimes at T5, and independently over the right hemisphere at T4 and sometimes at F8/T4.   
+Seizures:  None. 
+Heart rate:  Regular at 84 beats per minute.
+IMPRESSION:  Abnormal EEG due to multifocal left hemisphere and right hemisphere sharp waves, as well as triphasic discharges and generalized slow disorganized background.
+CLINICAL CORRELATION:  This EEG reveals evidence of multifocal cortical irritability, as well as generalized diffuse cerebral dysfunction, all of which may be seen with a diffuse cortical process suggestive of an encephalitis or rapidly progressive neurologic degenerative disease.  Some of the findings may also be due to a metabolic disturbance.  No clear seizures were seen.
+__________________________

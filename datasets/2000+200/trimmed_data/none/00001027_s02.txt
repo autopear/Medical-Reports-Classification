@@ -1,0 +1,10 @@
+MEDICATIONS:  Prenatal multivitamins.
+REASON FOR STUDY:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with 1 anterior temporal electrode and EKG electrode.  Wakefulness and sleep was recorded.  Photic stimulation was not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm at 9-10 Hz with amplitude of 20-60 mV which is reactive to eye opening.  There is a moderate amount of frontal central beta activity.  Also drowsiness is characterized by diffuse slowing in delta frequency at 1-2 Hz.  Sleep is characterized by stage 1 and 2 with vertex waves and POSTS.   
+ABNORMAL DISCHARGES:  
+Asynchronous vertex waves are seen between 2 sides with no epileptiform discharges recorded.
+IMPRESSION:  Abnormal EEG due to: 
+Asynchronous vertex waves.
+CLINICAL CORRELATION:  This EEG showed asynchronous vertex waves which is nonspecific in terms of etiology.  No seizures or epileptiform discharges were seen.

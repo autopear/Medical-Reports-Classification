@@ -1,0 +1,8 @@
+MEDICATIONS: Keppra, Morphine, Phenobarbital, Labetalol, Zoloft 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is relatively agitated. Hyperventilation and photic simulation are performed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a slow pattern with rhythmic theta and some delta. There is a high amplitude left anterior temporal spike and slow wave complex noted. It is relatively frequent but there are no seizures recorded. The epileptiform activity may be anterotemporal or occasionally T5. Some sections of the record demonstrate more prominent epileptiform activity than others but in the sections of the record where the patient is cooperative, there are at least 3 epileptiform discharges in any 20 second segment. 
+HR: 78 bpm 
+IMPRESSION: Abnormal EEG due to:
+1. Prominent generalized background slowly. 
+2. High amplitude left temporal spike and slow wave complexes. 
+CLINICAL CORRELATION: This EEG supports a very irritative process but no seizures were recorded today. Ongoing vigilance is suggested. Of note, no epileptiform activity on the right is observed. 

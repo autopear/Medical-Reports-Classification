@@ -1,0 +1,19 @@
+MEDICATIONS: Protonix, Labetalol, Megace. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 
+system of electrode placement with 1 channel EKG. The patient is described as very 
+confused and unable to follow commands. 
+DESCRIPTION OF THE RECORD: The overall background is markedly abnormal. It 
+includes a mixture of rhythmic, 6 Hz theta, and rhythmic frontal delta. There are bursts 
+of notched, frontal delta. As the patient becomes drowsy, additional bursts of high 
+amplitude frontal slow paroxysmal delta are observed. The patient spontaneously 
+arouses with an increase in faster frequency activity. Photic stimulation does not 
+activate the record. 
+HR: 96bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Prominent bursts of paroxysmal FIRDA. 
+2. Generalized background slowing. 
+CLINICAL CORRELATION: No seizures were recorded. The findings described are 
+hallmarks of metabolic encephalopathy, although the same pattern can be seen in CNS 
+disturbances due to other causes. A follow up study after this patients mental status 
+improves may be of value. 
+ 

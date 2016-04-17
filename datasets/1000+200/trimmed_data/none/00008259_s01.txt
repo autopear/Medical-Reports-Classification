@@ -1,0 +1,11 @@
+MEDICATIONS:  None.
+		
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal single lead EKG electrode.  The patient was recorded during wakefulness only.    
+With one channel of EKG.  Hyperventilation and photic stimulation are performed.
+TECHNICAL DIFFICULTIES:  Continuous myogenic muscle artifact throughout the recording.  The patient was recorded only during wakefulness.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures include hyperventilation and photic stimulation.  The hyperventilation __________ a diffuse slowing response and the photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  Focal slow waves seen intermittently at F7/T3 much more frequently then F8/T4.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to independent bilateral anterior temporal slowing, left more than right. 
+Heart rate 90.
+CLINICAL CORRELATION:  This EEG reveals evidence of bilateral anterior temporal focal cerebral dysfunction (left more than right), which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

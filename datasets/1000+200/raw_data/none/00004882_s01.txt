@@ -1,0 +1,14 @@
+TYPE OF STUDY:  EEG routine, awake and sleep.
+DIAGNOSIS:  New onset seizure.
+CLINICAL HISTORY:  A 25-year-old, right handed female, with history of new onset seizures seen in the emergency room on September 18, 2012 for seizure like activity with no recall regarding the details of events.
+MEDICATIONS:  Levetiracetam and Abilify.
+INTRODUCTION:  A digital EEG was performed in the laboratory using the standard international 10-20 system of electrode placement, in addition to 1 channel of EKG monitoring.  Hyperventilation and photic stimulation were performed.  This tracing captures wakefulness through drowsiness.
+DESCRIPTION OF THE RECORD:  In the most alert state the alpha rhythm is 9-10 Hz infrequency, 30-40 mV in amplitude seen in the occipital region which attenuates with eye opening.  There is also excess theta activity with the frequency of 7 Hz during wakefulness.   
+Drowsiness is characterized by disappearance of the alpha rhythm, slowing of the background, and absence of muscle and eye blink artifact.   
+Hyperventilation results in symmetric slowing of background.   
+Photic stimulation was performed at multiple flash frequencies and results in a symmetric driving response.   
+Heart rate is 90 to 100 beats per minute, regular.
+IMPRESSION:  This is an abnormal EEG recording capturing wakefulness through drowsiness due to excess theta activity during wakefulness.  No epileptiform abnormalities are identified in this record.
+CLINICAL CORRELATION:  The above findings could be due to metabolic toxic hypoxic infectious encephalopathy.  Alternatively it could be due the effect of sedating medications, bilateral cerebral dysfunction, or degenerative brain disease.  No epileptiform abnormalities are identified in this record.  No seizures were captured.  This does not rule out the diagnosis of epilepsy or intermittent seizures.  If clinically indicated a repeat EEG capturing deeper stages of sleep or continuous bedside EEG monitoring may be helpful.
+
+

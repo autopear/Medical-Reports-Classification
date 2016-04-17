@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 25-year-old man, with history of left parietal mass resection and radiation therapy, presents with seizures.
+MEDICATIONS:  Vimpat, Depakote.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded while drowsy.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that reaches 7 Hz, seen best over the right hemisphere.  There is a lack of normal frontal central beta over mainly over the left hemisphere, but also attenuated on the right.  Activating procedures were not performed.  No normal sleep architecture is seen. 
+Abnormal discharges:
+Continuous polymorphic delta seen at 2-4 Hz and amplitude of 20-60 microvolts at T3 in the entire left hemisphere, maximal at T3-T5, and at times more anteriorly.  At times, they become monomorphic and there appear rhythmic but not clearly epileptiform.
+Generalized slowing at 5-7 Hz seen continuously throughout the recording. 
+Heart rate:  84.
+IMPRESSION:  Abnormal EEG due to left anterior hemisphere polymorphic slowing, maximal at F3-T5, in addition to some more anterior slowing.  Lastly, there is also mild to moderate generalized slowing.
+CLINICAL CORRELATION:  This EEG is consistent with focal cerebral dysfunction seen in the left hemisphere, maximal in the posterior quadrant, but also involving the most anterior temporal region which is, in part, related to then known tumor resection, but the additional more anteriorly slowing may be nonspecific in regards to etiology.  Lastly, there is evidence of mild to moderate diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures were seen.
+__________________________
+
+

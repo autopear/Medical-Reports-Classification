@@ -1,0 +1,11 @@
+MEDICATIONS:  Depakote, Percocet, Trazodone.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  Sleep stage I was recorded.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm of 9 hertz with an amplitude of 20-60 microvolts which is reactive to eye opening. Sleep stage I in noted. Activated procedures include photic stimulation and hyperventilation. There are no abnormal discharges.
+ABNORMAL DISCHARGES:  Focal slow waves seen in T3, occasionally at 2-4 hertz and 20 to 60 microvolts amplitude.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Mild focal slow waves in the left temporal region.
+CLINICAL CORRELATION:  This EEG is consistent with mild focal cerebral dysfunction in the left temporal region which is nonspecific in regard to etiology. No seizures or epileptiform discharges were seen.
+\

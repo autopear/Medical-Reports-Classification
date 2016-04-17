@@ -1,0 +1,8 @@
+MEDICATIONS: Phenobarbital, Keppra, Tegretol, and Zonegran 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 9 Hz posterior dominant rhythm with a generous amount of low voltage, frontocentral beta activity.  There are occasional bursts of shifting arrhythmic delta identified from either temporal regions, as well as rare left anterior temporal spike and slow wave and sharp and slow wave complexes.  Photic stimulation does not activate the record.  Hyperventilation augments the temporal arrhythmic delta, left greater than right.  
+HR:  __ BPM.
+	IMPRESSION: Abnormal EEG due to:
+Left anterior temporal sharp waves.
+Independent, right and left temporal arrhythmic delta, left greater than right. 
+CLINICAL CORRELATION: The left temporal sharp waves support a partial or localization mechanism for this patient’s epilepsy.  Consideration for an underlying, bitemporal process is appropriate given the arrhythmic delta.  

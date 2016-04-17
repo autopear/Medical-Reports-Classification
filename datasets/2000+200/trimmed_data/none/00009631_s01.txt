@@ -1,0 +1,11 @@
+MEDICATIONS:  Depacon.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background is disorganized with bilateral slowing.  The slowing is more on the left hemisphere compared to the right hemisphere.  There are bursts of shifting slowing in both the hemispheres.  There is a pattern of bilateral FIRDA.  There are intermittent sections of 9 Hz alpha rhythm. 
+The slowing is sharply contoured occasionally, mainly on the left side. 
+Photic stimulation was performed which did not reveal any changes in the EEG pattern.
+IMPRESSION:  
+This is an abnormal EEG due to:
+Diffuse slowing, more on the left hemisphere.
+Shifting slowing on both hemispheres.
+No definite sharps or spikes were seen.
+CLINICAL CORRELATION:  This EEG is suggestive of a diffuse process such as toxic metabolic encephalopathy or a diffuse bihemispheric process.  Clinical correlation recommended.

@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 34-year-old female with aplastic anemia with a small cortical hemorrhage and complex partial and secondary generalized seizures. Some of the seizures were characterized by unilateral shaking of either the right or left hand; patient not sure which hand.  
+MEDICATIONS: Benadryl, Prednisone, Trileptal.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record with photic stimulation.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a symmetric 10 Hz, 25 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  As the patient becomes drowsy, there is some posterior temporal, somewhat irregular slowing identified, left greater than right.  In addition, as she becomes somewhat sleepier, there is a left anterior temporal focus identified with some irregular theta more than delta and bursts of sharply contoured delta, which demonstrates a phase reversal at T3 and are nearly isoelectric in the T3-T1 montage.  Additional features of drowsiness include slow rolling eye movements, attenuation of the alpha rhythm, and an increase in background beta activity.  The temporal features described above are identified throughout this drowsy state.  Deeper stages of sleep are not sustained. 
+Photic stimulation elicits bilateral driving. 
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Left temporal focal slowing primarily mid-temporal in drowsiness.
+Left temporal sharp waves or sharply contoured delta.
+Occasional bitemporal slowing.
+CLINICAL CORRELATION: This tracing supports a structural or functional abnormality on the left more significantly than the right with some variability in terms of its maximum as well as a focal mechanism for seizures.  No seizures were recorded.  
+
+

@@ -1,0 +1,8 @@
+MEDICATIONS:  Versed, ceftriaxone and others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was intubated and combative.  Intermittent, spontaneous arousals were noted.
+DESCRIPTION OF THE RECORD:  When the patient is resting quietly, the background EEG is low to medium amplitude with a mixture of lower voltage theta and generous beta.  With arousals, there is an increase in 8 and 13 Hz activity.  Arousals are typically about 10 seconds in duration, sometimes a bit shorter.  There is an asymmetry when the alpha frequency increases in that there is a little bit more alpha frequency activity in the left hemisphere compared to the right hemisphere.  The right hemisphere demonstrates somewhat slower activity posteriorly as well with these arousals.   
+Heart rate 120 bpm.
+IMPRESSION:  This is an abnormal EEG due to #1:
+Placement of normal background with a lower voltage pattern with generous beta and delta.
+Intermittent arousals, which include alpha and beta frequency activity but which are slightly asymmetric.
+CLINICAL CORRELATION:  No epileptiform features were identified.  No seizures were recorded.  The generous beta frequency activity described above may be due to this patient's medications.  The background slowing may be part of this patient's acute infectious process or associated with medication exposure.

@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  The patient is a 50-year-old woman, status post cardiac arrest with prolonged CPR with electrographic seizures captured on a routine EEG on November 12, 2012.  She remains in a coma.  The EEG is performed to rule out subclinical ictal events.
+MEDICATIONS:  Dilantin and propofol.
+INTRODUCTION:  The recording was performed according to the standard 10-20 system with additional single EKG lead, medical staff notes, and nursing staff notes were reviewed.
+DESCRIPTION OF THE RECORD:  There is no posterior dominant rhythm and no anterior to posterior frequency amplitude gradient.  For the first half of the recording, during arousal and with stimulation, the background consists of a mixture of polymorphic delta and abundant triphasic wave forms.  In the second half of the recording these triphasic wave forms are no longer well formed and the background consists of polymorphic and occasionally semi-rhythmic diffuse frontally predominant delta activity.  During periods of quiescence, the background consists of primarily polymorphic diffuse delta activity and brief periods of 1-2 second discontinuity.  No normal sleep architecture is captured.  Occasional generalized frontally predominant sharp waves are captured.  No electrographic seizures are seen.   
+EKG electrode demonstrates a heart rate of approximately 100 beats per minute.
+FINDINGS:  
+Severe diffuse slowing.
+Abundant triphasic wave forms.
+Occasional generalized frontally predominant sharp waves.
+No electrographic seizures.
+IMPRESSION:  This is a very abnormal, approximately 26-hour, continuous video EEG due to severe diffuse slowing, discontinuity, abundant triphasic wave forms, and occasional sharply contoured wave forms that likely represent epileptiform discharges.  Diffuse slowing and periods of discontinuity indicate etiologically nonspecific severe diffuse cerebral dysfunction.  Triphasic wave forms are a nonspecific sign of encephalopathy and can be seen in post anoxic brain injury.  Occasional sharply contoured wave forms indicate cortical irritability.  When compared to the EEG from the prior 24-hours, this EEG demonstrates more significant degree of diffuse slowing and the disappearance of triphasic wave forms by the end of the recording.  No electrographic seizures were captured.  These findings were conveyed to the neurology consulting team.
+
+

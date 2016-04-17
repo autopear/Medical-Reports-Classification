@@ -1,0 +1,10 @@
+REASON FOR STUDY:  Seizures.
+ARTIFACTS:  None.
+MEDICATIONS:  Cannot remember medications.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with anterior temporal and single-lead EKG electrode.  Patient was recorded during wakefulness and sleep.  Activating procedures include hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontal central beta.  The patient was recorded in wakeful and stage I and stage II of sleep.  Activating procedures included hyperventilation which produced no abnormal discharge, however, during photic stimulation there was event which I will describe in the next section.  Stage I and stage II sleep were seen.
+ABNORMAL DISCHARGES:  Focal slow wave seen intermittently at T3 at a frequency of 2-4 Hz and amplitude of 20-60 microvolts.
+EPISODES:  During photic stimulation, specifically at 11 Hz, the patient all of the sudden starting shaking her head side to side followed by generalized shaking in an irregular fashion of her whole body while she had her eyes closed.  This continued to occur for about 3 minutes, at which point the patient stopped and appeared to be tired.  During the recording there was a lot of diffuse artifact, however, in between the shaking normal posterior dominant rhythm can be seen and no epileptiform correlate was seen during the episode.
+SEIZURES:  None.
+IMPRESSION:  Abnormal electroencephalogram due to left mid temporal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left mid temporal region, which is nonspecific in regards to etiology.  The episode described above had no EEG correlate and is consistent with the diagnosis of psychogenic nonepileptic event.  No seizures or actual epileptiform discharges were seen.

@@ -1,0 +1,11 @@
+REASON FOR STUDY:  Syncope and confusion.
+MEDICATIONS:  Heparin, aspirin, metoprolol, risperidone, donepezil.
+TECHNICAL DIFFICULTIES:  None.
+INTRODUCTION:  A routine EEG was performed using a standard 10-20 system of electrode placement with a lead anterior temporal and a single lead EKG electrode.  The patient was recorded while confused.  Activating procedures included photic stimulation. The patient was recorded in wakefulness and drowsiness.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that resists 8 Hz which is reactive to eye opening.  There is some frontocentral beta.  Activating procedures include photic stimulation with now abnormal discharges.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen intermittently at T3 and independently at T4 at a frequency of 2-4 Hz and amplitude of 20-40 mV.  
+Excessive theta in wakefulness with intermittent frontal intermittent delta activity (FIRDA) seen throughout the recording.
+HEART RATE:  Eighty-four, at times with some premature ventricular complexes.
+IMPRESSION:  Abnormal EEG due to independent bilateral mid temporal slowing as well as generalized slowing of FIRDA.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction in addition to focal cerebral dysfunction in the bilateral mid temporal regions, both of which are nonspecific with regard to etiology.  No seizures or epileptiform discharges are clearly seen.

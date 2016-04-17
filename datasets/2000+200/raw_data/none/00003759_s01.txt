@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  A 79-year-old man with a history of seizures and dementia.
+TECHNICAL DIFFICULTIES:  None.
+MEDICATIONS:  Diltiazem, Abilify, prednisone, and lorazepam.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures included photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches a maximum at best of 7 Hz which is reactive to eye opening.  There was some frontocentral beta.  The patient is recorded during wakefulness and stage I and stage II sleep.  Activating procedures included photic stimulation which produces no abnormal discharges.
+ABNORMAL DISCHARGES:  Mild generalized slowing at 5-7 Hz at an amplitude of 20-40 microvolts seen continuously throughout the recording in wakefulness.
+SEIZURES:  None.
+HEART RATE:  84.
+IMPRESSION:  Abnormal EEG due to generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

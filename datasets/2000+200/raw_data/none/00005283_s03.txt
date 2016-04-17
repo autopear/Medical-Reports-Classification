@@ -1,0 +1,11 @@
+REASON FOR STUDY:  Possible seizures.
+|____CLINICAL HISTORY:  This is a 49-year-old woman with a history of migraines, bilateral breast cancer (0:61), irregular heartbeat presents with a fall on going to the bathroom, found down with urinary incontinence.  Felt aura of nausea and flashing lights, and weird smell.  Also felt dizzy, diaphoretic, and her heart fluttered.
+MEDICATIONS:  Topamax, metoprolol, Diovan, valsartan, amlodipine, clonidine, lisinopril, Zofran.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrodes.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz, which was reactive to eye opening.  There is an excessive amount of beta throughout the recording.  The patient was recorded during wakefulness, stage I and stage II sleep.  Activating procedures were not performed.
+ABNORMAL DISCHARGES:  Focal slow waves seen rarely at F7/T3 at a frequency of 2-4 Hz and an amplitude of 20-50 microvolts.
+IMPRESSION:  Abnormal EEG due to rare left anterior temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left anterior temporal region, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

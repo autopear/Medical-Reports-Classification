@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  57 year old woman with stroke, ventriculostomy, right-sided weakness, aphasia, and delirium or obtundation.
+MEDICATIONS:  Bisacodyl, Albuterol, Lovenox, Famotidine, Provigil, Lisinopril, Acetylcyst Mecobal L, Mefolate, Hyscyamine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is awake or asleep.
+DESCRIPTION OF THE RECORD:  The activity on the right is reasonably well organized, particularly in the frontocentral region with a 9 Hz alpha rhythm.  The left hemisphere demonstrates more significant arrhythmic delta activity and slowing of the alpha rhythm.  In addition, there is left frontal delta.  There is also a sharply contoured focus in the left parietal region.  As the patient drifts off to sleep, arrhythmic delta activity is much more prominent in the left hemisphere with some shifting slowing on the left.   
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+An interhemispheric asymmetry with a slow and disorganized pattern on the left.
+Shifting slowing on the left, some of which is sharply contoured in the left parietal region.
+Mildly slow background on the right.
+CLINICAL CORRELATION:  No seizures were recorded.  The left hemispheric focal slowing is consistent with a history of stroke.  The mild background slowing on the right is more supportive of a diffuse disturbance of cerebral function.
+__________________________
+
+

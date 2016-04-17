@@ -1,0 +1,9 @@
+MEDICATIONS:  Topamax
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures included hyperventilation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 10 Hz and is reactive to eye opening.  The patient is recorded in wakefulness and stage 1 and stage 2 sleep.  There is a normal amount of frontocentral beta.  Activating procedures included hyperventilation and produced no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

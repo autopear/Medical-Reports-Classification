@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Metoprolol, Norvasc, Pravastatin, Protonix, Reglan, Abumin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Patient is trached. Awake through stage 1 sleep. Photic stimulation performed. 
+DESCRIPTION OF THE RECORD: During wakefulness a very slow background is seen. There is no perceivable posterior dominant alpha rhythm in the record. An interhemispheric asymmetry is seen with slower rhythms in the left hemisphere, but there is more attenuation seen in the right hemisphere. The background is mostly a theta rhythm reaching 5 Hz with occasional arrhythmic delta activity. Throughout the study the patient is seen moving which obscures the record with increased muscle artifact. There are areas of good record seen as well. There are a few left T3 spike waves with phase reversal seen in the record. Stage 1 sleep is seen with vertex waves. Photic stimulation does not cause driving. 
+HR: 84 bpm and irregular. 
+IMPRESSION: Abnormal EEG due to: 
+1. Slowing of the background, more on the left hemisphere but attenuated on the right. 
+2. A few anterior left temporal spike waves. 
+CLINICAL CORRELATION: This record is suggestive of bilateral cerebral dysfunction and more significantly seen in the right hemisphere. There are some left spike waves that are consistent with a focus of epilepsy. No seizures are recorded in re ord. 

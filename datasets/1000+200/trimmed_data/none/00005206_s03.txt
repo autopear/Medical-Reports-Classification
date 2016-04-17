@@ -1,0 +1,10 @@
+MEDICATIONS:  Ativan, Dilantin,
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. The patient has been intubated and is not responsive.
+DESCRIPTION OF THE RECORD:  As the recording begins, the background EEG is low voltage, markedly suppressed. In this low voltage record, the activity is lower voltage on the right compared to the left. There is a subtle area with some slow periodic activity which is picked up in the left at the T3 T1 region. It can be differentiated from the EKG artifact. 
+As the recording continues, the left hemisphere demonstrates a more vigorous theta pattern. There are some sharply contoured bursts out of the left T1 and T3. Stimulation of the patient produces increase in theta frequency activity more so on the left than the right. 
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to: 
+Marked background slowing. 
+Superimposed asymmetry with suppression on the right compared to the left. 
+Sharply contoured delta and a handful of sharp waves on the left.
+CLINICAL CORRELATION:  No seizures were recorded. The sharp waves are contralateral to the previous stroke. Additional recording or comparison with previous studies may be helpful to determine if this is an epileptiform process which is on the left or if in fact, the right hemisphere is so suppressed that the only remaining epileptiform activity is contralateral to the stroke.

@@ -1,0 +1,9 @@
+MEDICATIONS:  Tegretol XR.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and stage I sleep.  Activating procedures, including hyperventilation and photic stimulation were performed.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontal central beta.  The patient was recorded in wakefulness and drowsiness, stage I sleep. Hyperventilation and photic stimulation produce no abnormal discharges.   
+ABNORMAL DISCHARGES:  Focal slow waves seen intermittently at F7/T3 at a frequency of 2-4 Hz and an amplitude of 20-60 mV again seen occasionally.  In addition, the patient has multiple bouts of rhythmic mid temporal theta of drowsiness at times in single bursts and wickets frequently seen in both temporal lobes.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Infrequent left anterior temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left anterior temporal region, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.

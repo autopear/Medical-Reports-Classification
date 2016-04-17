@@ -1,0 +1,14 @@
+MEDICATIONS:  Keppra, Dilantin, Ativan.
+REASON FOR STUDY:  Seizures
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no posterior dominant rhythm or frontocentral beta.  There is no normal sleep architecture and no activating procedures were performed.
+ABNORMAL DISCHARGES:  
+Focal sharp waves were seen in multiple places including F4, T3, P3, T5 intermittently.  In addition, there were runs of frontally predominant polyspikes and waves that at times are left more than right predominant.
+Generalized slow waves at 2-4 Hz at an amplitude of 20-70 microvolts seen throughout the recording.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Diffuse slow waves. 
+Multifocal spikes and frontally predominant polyspikes.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of symptomatic generalized epilepsy with multiple focus for generation of seizures.  In addition, there is 
+evidence of diffuse cerebral dysfunction which is nonspecific with regards to etiology.  No seizures were seen.

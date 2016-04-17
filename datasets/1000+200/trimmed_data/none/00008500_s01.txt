@@ -1,0 +1,9 @@
+MEDICATIONS:  Motrin
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with the addition of anterior temporal single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 10-11 Hz which was reactive to eye opening.  There was an excessive amount of beta seen diffusely throughout the recording.  Activating procedures including photic stimulation and hyperventilation produced no abnormal discharges.  The patient was recorded in wakefulness and stage I sleep. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  There is no excessive abnormal beta seen throughout the recording, which is consistent with a known history of benzodiazepine use.

@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is reasonably well organized with a 9.5 Hz, 40 uV posterior dominant rhythm.  In relaxed wakefulness, there are bursts of rhythmic, frontally predominant delta with some shifting asymmetries, left or right.  As the patient becomes increasingly drowsy, the frontal delta increases.  Other maneuvers that increase the frontal delta include hyperventilation.   
+Photic stimulation is performed at the close of the record.  At that time, the patient is awake, alert, and cooperative and at that time discrete, F3 sharp waves are identified, sometimes occurring as a burst of high amplitude sharply contoured theta, but with a clear underlying epileptiform discharge with these couplets or triplets that can occur lasting between 200 msec and 800 msec. These occur around the time of photic stimulation, but do not appear to be augmented at all by photic stimulation.  Photic stimulation does elicit brief bilateral driving.
+HR:  80 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Left frontal sharp waves or paroxysmal rhythmic theta.
+Shifting, frontally predominant rhythmic delta. 
+CLINICAL CORRELATION: The sharp waves are ipsilateral to the lesion described above.  The focal delta may be a non-localizing sign. No seizures were recorded.  

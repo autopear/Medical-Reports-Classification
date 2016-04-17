@@ -1,0 +1,9 @@
+MEDICATIONS:  Keppra, Phenobarbital, Vimpat, Zonisamide.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed. 
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal with general beta.  There is posteriorly predominate rhythmic slowing with rhythmic 3-5 Hz activity.  There appear to be sharp waves in the occipital or occipitoparietal regions right more so than the left.  There are paroxysmal bursts of posterior slowing.  Relaxed wakefulness is remarkable for a prominent beta pattern. Photic stimulation does seem to elicit a driving response which is merely a photic paroxysmal response.  
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+Prominent beta.
+An abnormal background without the normal developmental milestones.  
+Posteriorly predominant, almost generalized, epileptiform activity. 
+CLINICAL CORRELATION:  These findings are similar to prior EEGs. No seizures were recorded.

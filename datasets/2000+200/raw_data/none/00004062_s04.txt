@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  This is a 61-year-old woman with multiple strokes, previously admitted for EEG monitoring to the ICU in January 2013 with right facial twitching, left arm jerking and aphasia.  Multiple repetitive seizures.  The patient does not recall any seizures currently.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Photic stimulation was completed.  Hypoventilation was deferred.  This was an awake and drowsy EEG.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a symmetric reactive 10 Hz alpha rhythm.  There are bursts of rhythmic left temporal delta which is sharply contoured left rhythmic, left temporal delta activity which is sharply countered (TIRDA).  These bursts are typically 3-5 seconds in duration but sometimes as long as 7 seconds.  There is overlying wicket and alpha frequency activity, but no definitive sharp waves noted with these bursts.   
+Drowsiness is characterized by slow rolling eye movement.  The bursts of TIRDA are a little bit more prolonged as the patient becomes drowsy, and there is some arrhythmic delta activity noted as well.  There is some discrete left frontotemporal sharp waves noted in these bursts.  Left frontotemporal focal slowing was also noted in early drowsiness but deeper stages of sleep were not obtained.   
+Photic stimulation was remarkable for photoelectric artifact.   
+Hart rate 72 BPM
+IMPRESSION:  This is an abnormal EEG due to:
+Left temporal intermittent rhythmic delta activity, arrhythmic left temporal theta. 
+In this awake and drowsy record, some discrete left frontotemporal sharp waves. 
+Left frontotemporal focal slowing.
+CLINICAL CORRELATION:  These findings are similar to the previous EEGs.  No seizures were recorded.  If additional information is needed to characterize this patient's epileptic focus, a more prolonged study capturing sleep may be valuable.
+
+

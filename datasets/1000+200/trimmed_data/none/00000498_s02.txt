@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is very confused. No clinical seizures are appreciated by the team. 
+DESCRIPTION OF THE RECORD: The background EEG includes a pattern of diffuse, rhythmic 5-7 Hz theta frequency activity. Superimposed upon this there is a disruption of theta freguency activity In the left hemisphere with periodic sharp waves, sometimes occurring in trains. The sharp waves may be maximum at FP1 or F7. They wax and wane, and at times, have an unusual field of spread. Sections of the record with prominent sharp waves are associated with disruption of faster frequency activity. As the patient becomes drowsy, the background EEG attenuates. Clinically, the patient is confused throughout the EEG and it does not appear that epileptiform activity is associated with an increase in confusion. 
+HR: 80 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Periodic sharp waves in the left frontal and frontoparietal region with complex field of spread. 
+2. Focal slowing with disruption of faster frequency. 
+3. Generalized background slowing. 
+CLINICAL CORRELATION: The findings were discussed with the clinical team. Additional recording and intervention will be considered. 

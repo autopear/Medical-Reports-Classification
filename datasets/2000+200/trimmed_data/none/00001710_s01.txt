@@ -1,0 +1,9 @@
+MEDICATIONS: Depakote, Morphine, Atropine, Percocet, antihypertensives, and antibiotics.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is lethargic during the record. 
+DESCRIPTION OF THE RECORD: The background EEG is disorganized and diffusely slow.  The normal alpha and beta rhythms are barely seen.  There is a nearly continuous triphasic-like activity predominantly in the frontal and central areas. Occasional sharp activity is seen in the right frontal and central areas.  Stimulation of the patient reduced the triphasic-like wave activity, but increased the theta and delta activity in the background.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Disorganized and diffusely slow background.
+Continuous triphasic-like activity predominantly in the frontal and central areas.
+Occasional right frontal and central sharp activity.
+CLINICAL CORRELATION: This EEG pattern is suggestive of diffuse cerebral dysfunction. Even though the triphasic wave activity is mainly seen in patients with a metabolic or toxic encephalopathy, this pattern can also be seen in patients with structural lesions involving both gray and white matter and in particular the deep gray matter of the nucleus.  The right frontal and central sharp activity is a focal area for seizures.  However, no seizures were recorded. A follow-up EEG is recommended in the next few days.  

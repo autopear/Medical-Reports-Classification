@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Labetalol, Hydralazine, others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated, poorly responsive, with eye opening and facial twitching. 
+DESCRIPTION OF THE RECORD: The initial portions of the record demonstrate a slow, delta, relatively featureless pattern with persistent movement and muscle.  The tech is briefly able to eliminate some of the muscle, again demonstrating a pattern primarily of diffuse delta with smaller amounts of theta.  Stimulation of the patient produces primarily muscle.  Vecuronium is given.  Initially with the Vecuronium, there is a large amount of muscle.  As the recording continues, the background EEG demonstrates diffuse, slow delta, which is medium in amplitude, as well as smaller amounts of lower voltage theta.  The overall background is relatively symmetric.  There are rare sharply contoured bursts identified in the left frontal region.  No sustained seizures are seen and the epileptiform activity is rare.  Even with the Vecuronium on board, there are occasional eye movements seen but again no ictal correlates for these. 
+HR:  76 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with slow delta and theta.
+Rare, left frontal sharp waves. 
+CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function effecting both gray and white matter.  No seizures were recorded. 

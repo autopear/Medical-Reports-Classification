@@ -1,0 +1,16 @@
+MEDICATIONS:  Ativan, Keppra, Depakote
+REASON FOR STUDY:  Facial twitching and Asystole.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during unresponsiveness.  No activating procedures were performed.  An EMG electrode was also added to the recording.
+TECHNICAL DIFFICULTIES:  Continuous repetitive myogenic artifact seen over the right hemisphere.
+DESCRIPTION OF THE RECORD:  The record opens to a diffuse slow background with a posterior dominant rhythm that, at best, reaches 6 to 7 Hz.  It does not appear to be reactive to eye opening.  There is no normal frontocentral beta.  There is no normal sleep architecture.  There are no activating procedures performed. 
+ABNORMAL DISCHARGES: 
+Generalized slow waves at 5 to 7 Hz seen continuously throughout the recording, at times with intermittent suppression and with a slight asymmetry in amplitude with higher frequencies over the left than the right. 
+There are focal sharp waves seen at CZ frequently
+There are focal slow waves at CZ at 2 to 4 Hz and an amplitude of 20 to 60 microvolts.
+The patient has twitching noted over the right hemispheric electrodes that occurs irregularly but almost continuously throughout the recording with no clear EEG correlate on the left hemisphere. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves. 
+Right hemispheric decreased amplitude. 
+Central sharp waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction which is nonspecific with regard to etiology but may be due, at least in part, to medication effect.  There is some loss of faster frequencies over the right hemisphere which may imply some cortical damage or overlying fluid collection in that region.  Lastly, there are also signs of focal cerebral dysfunction and irritability over the central region, which has a high correlation with acute injury in that region.  The facial twitching has no EEG correlate and may represent myoclonic jerks arising from an unknown source in the left hemisphere which cannot be seen in EEG.

@@ -1,0 +1,10 @@
+MEDICATIONS:  Tegretol, Zocor, Pantoprazole, Insulin, Seroquel, Glyburide, Metformin, Aspirin, Citalopram.
+REASON FOR STUDY:  Increased seizure frequency.
+INTRODUCTION:  Digital video  EEG was performed in lab using standard 10-20 system of electrode placement with anterior temporal and EKG electrodes.  Wakefulness and sleep was recorded.  Photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that, at best, reaches 8.5 to 9 Hz and it is reactive to eye opening. There is a small amount of frontal central beta.  Sleep is characterized by stage I. Activating procedures, including photic stimulation and hyperventilation, produced no abnormal discharges. 
+ABNORMAL DISCHARGES:  Excessive theta in wakefulness seen almost continuously. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:  
+excessive theta in wakefulness.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.  This EEG remains unchanged when compared to the one performed on August 8, 2011 and the one performed previous to that on October 21, 2009.

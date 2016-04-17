@@ -1,0 +1,11 @@
+MEDICATIONS:  Keppra, Dilantin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is awake.  Seizures are noted during the EEG.
+DESCRIPTION OF THE RECORD:  As the tracing opens, the patient is awake.  The EEG activity from the left hemisphere is, in fact, quite normal with a 9 Hz alpha rhythm.  An alpha rhythm is also identified on the right, but there is a breach rhythm, medium to higher amplitude, arrhythmic delta activity and a sharp wave which is seen out of the breach rhythm, which may be maximum at T2 or T4.  There is also some periodic slowing noted. 
+The patient's first seizure occurs at 10:29:21, 6 minutes into the EEG.  She starts to pick or fuss with her covers.  She looks to the left.  She is a little bit interactive with the tech and the tech asks her to count to 10, but by the time the tech is asking her to count to 10, the seizure is over.  Total seizure duration is about 20 seconds.  Characteristics of this seizure include rhythmic, repetitive right temporal theta frequency activity and some postictal slowing.  Eye movement artifact is also prominently picked up in the temporal electrodes.   
+At the close of the record, as the nurse is working with the patient, an additional burst of the prominent arrhythmic delta activity is noted on the right.  The patient is awake and it is not clear that this event was considered clinically significant.   
+HR:    120 bpm
+IMPRESSION:  Abnormal EEG due to:
+A brief, well-defined seizure out of the right temporal region.
+Focal slowing in the right temporal region.
+Another burst with prominent periodic delta also out of the right.
+CLINICAL CORRELATION:  This EEG is diagnostic of a focal mechanism for epilepsy.  Previous EEGs demonstrated T6 seizures and PLEDs.  Today's seizures are a little bit more anterior.

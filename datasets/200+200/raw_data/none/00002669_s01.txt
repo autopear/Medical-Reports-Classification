@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  21 year old male with history of male with history of HIV on HART, transferred from an outside hospital with seizures, now suspected to have meningitis on isolation.
+MEDICATIONS:  Keppra, Fentanyl, Propofol, Truvada, Lexiva, Apresoline, Ceftriaxone, Acyclovir, Vancomycin.
+REASON FOR STUDY:  Confusion and a seizure.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded while unresponsive.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  Some electrode impedance artifact seen in the right hemisphere.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontal central beta.  The patient does not appear to have any normal stages of sleep.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:  
+Focal slow waves seen over the left hemisphere, but maximal at T3, almost continuously throughout the recording at 2-4 Hz with an amplitude of 20-70 mV.
+Generalized slow waves at 2-4 Hz with an amplitude of 20-40 mV seen continuously throughout the record. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left hemisphere focal slowing maximal in the mid temporal region. 
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction in the left hemisphere, maximal in the left mid temporal region which has a high correlation with a lesion in that region.  In addition, there is evidence of generalized cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

@@ -1,0 +1,15 @@
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  A routine EEG was performed using standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+MEDICATIONS:  Trileptal.
+HISTORY:  A 43-year-old man with history of seizures for 2 years, last one occurred on June 26, 2013 while sleeping, tongue-biting and stiffness of the body for 5 minutes.  He missed a couple of dosages of his prior meds.
+TECHNICAL DIFFICULTIES:  There is a continuous A1 artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded during wakefulness and drowsiness.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen frequently to almost continuously at F7/T3 at a frequency of 2-4 Hz and an amplitude of 20-60 mV. 
+Focal slow waves seen occasionally at F8/T4 at a frequency of 2-4 Hz and an amplitude of 20-40 mV.
+SEIZURES:  None.
+HEART RATE:  72.
+IMPRESSION:  Abnormal EEG due to left much more than right focal slowing in the anterior temporal region.
+CLINICAL CORRELATION:  This EEG reveals evidence of independent bilateral (left much more than right) focal cerebral dysfunction which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were clearly seen.
+
+

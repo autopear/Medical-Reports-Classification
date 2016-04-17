@@ -1,0 +1,16 @@
+MEDICATIONS:  Patient cannot recall.
+REASON FOR SEIZURES:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal electrode and single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  
+Activating procedures, including photic stimulation, were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  There is some frontal central beta at times seem more diffusely than usual. 
+Photic stimulation produces no abnormal discharges.   
+ABNORMAL DISCHARGES:
+Focal sharp waves seen at F7/T3 and at times at T3 occasionally throughout the recording.  
+Focal slow waves seen at F7/T3-T1 seen very frequently throughout the recording and at times this slowing appears to be rhythmic and monomorphic and is consistent with temporal intermittent rhythmic delta activity (TIRDA). 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Focal sharp waves and slow waves in the left anterior temporal region. 
+TIRDA.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization related epilepsy with seizures likely arising from the left anterior temporal region.  In 
+addition, there is evidence of focal cerebral dysfunction in the same region, which is nonspecific in regards to etiology.  No seizures were seen.

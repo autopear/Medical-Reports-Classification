@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  A 52-year-old woman with heart failure, CHF and a pacemaker found unresponsive with a GI bleed and possible overdose.
+MEDICATIONS:  Nifedipine, Plavix, digoxin, many others.
+INTRODUCTION:  Digital video EEG was performed in the lab  using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was not possible due to the patient's mental status, but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  The background EEG for this somewhat somnolent patient includes a diffuse theta pattern.  There is more than 1 pattern with a lower voltage theta pattern and a higher voltage more sharply contoured theta pattern.  In addition, there is some triphasic waves noted in the record, some of which are asynchronous.  There is also subtle underlying periodic discharge which is sometimes sharp waves and sometimes more of a periodic delta noted in the right hemisphere more so than the left.  It is sometimes followed by attenuation, but does not build up.  As the patient becomes drowsy the EEG is a little lower voltage and more arrhythmic.   
+Photic stimulation does not significantly activate the record, but does produce no alerting for this patient.   
+Heart rate 104 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Background slowing. 
+Triphasic waves. 
+A metabolic looking pattern with intermittent attenuations.
+What appears to be a potentially epileptiform looking pattern with some subtle underlying periodic complexes noted from the right hemisphere.
+CLINICAL CORRELATION:  These findings may be correlated with imaging.  No seizures were seen.  If this patient has behaviors that resemble seizures or other concerns, additional EEG recording may be valuable.
+
+

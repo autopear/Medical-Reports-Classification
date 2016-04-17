@@ -1,0 +1,9 @@
+MEDICATIONS: Depakote,  Ativan, others.
+INTRODUCTION: Digital  video EEG is perfom1ed  in the lab using standard  10-20 system of electrode placement  with one channel of EKG. Hyperventilation  and photic stimulation were performed. This is an awake and drowsy record.
+DESCRIPTION OF THE  RECORD: In wakefulness, the background EEG is poorly organized with a 7 Hz posterior  dominant rhythm better identified on the right compared  to the left.  There is  an  intrahemispheric  asymmetry   identified  with  prominent  disruption   of  faster  frequency activity  from the left  frontotemporal  region.   In addition to a likely,  prominent  breach rhythm with some double phase reversing  artifacts, there is a sharp wave identified in the left hemisphere with  variable  maximum,  which  may include  the  left  posteriotemporal  or  parietal  region,  but occasionally  is maximum  in the frontal regions as well.   The sharp activity from the left has the characteristics of a breach-type phenomenon, again with some variability.  Features of drowsiness include an increase in background slowing.  Photic stimulation  elicits scant bilateral  driving.
+.HR: 70BPM.
+IMPRESSION: Abnormal EEG due to:
+1.  Mild generalized  background slowing.
+2.   Prominent focal slowing from the left hemisphere.
+3.   Sharp  waves  from  the  left  hemisphere  with  variable  maximum  including  T5, F7,  and left frontocentral sharp waves.
+CLINICAL CORRELATION: The amplitude  asymmetry  is compatible  with a breach  rhythm. The  arrhythmic   delta  activity  and  focal  sharp  waves  may  be  correlated   with  this  patient's imaging.  No seizures were identified in this EEG.

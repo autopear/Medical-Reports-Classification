@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin and Depakote.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with a mixture of lower voltage 4 to 5 Hz theta and very slow delta.  Superimposed upon this, there is a fair amount of EKG, but outside of this, there is a clearly defined, very slow focus of delta identifiable in the right posterior temporal region, as well as at T2.  Stimulation of the patient produces an alerting response with an increase in theta.  The very slow delta can be identified and with stimulation an occasional, subtle sharp wave is seen followed by more clearly defined sharp waves, which phase reverse at T2, but have a generous field into the right mid and centrotemporal regions as well as posterior temporal regions.  Rare, small discrete left anterior temporal sharp waves were seen.
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Marked background slowing.
+Slow delta activity, which is sharply contoured, identified in the right posterior quadrant with a reproducible but unusual field of spread including the right posterior temporal and anterior temporal.
+Rare right anterior temporal sharp waves. 
+Rare, small discrete left anterior temporal sharp waves.
+CLINICAL CORRELATION: This tracing supports a diffuse disturbance of cerebral function.  The majority of the epileptiform activity was seen from the right hemisphere, and the sharp waves from the left were seen on rare occasions.  No seizures were recorded.  

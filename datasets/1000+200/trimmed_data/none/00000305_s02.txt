@@ -1,0 +1,9 @@
+MEDICATIONS: Ativan, aspirin, Lasix, Diamox, Zantac, Coumadin, and Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient had been sedated with 2 mg of Ativan prior to this study. 
+DESCRIPTION OF THE RECORD: As the tracing begins, the patient is lethargic.  The primary frequencies in the background include theta with smaller amounts of delta.  There are frequent, medium to high amplitude left intratemporal spike and slow wave complexes, the majority of which are maximum in the mid-temporal region, but some are maximum in the anterior temporal region.  There are also occasional sharp waves at FP1/FP3 and rare sharp waves from the right mid-temporal region. These can be identified in wakefulness and persist into stage I sleep.  Features of stage I sleep include vertex waves.  As the recording continues, the patient appears a bit more alert.  There are portions of the record with generous beta activity, but there are portions of the record when the patient alerts spontaneously and appears to be not only clinically more alert but with more faster frequency activity.  As the recording continues, the epileptiform activity persists into stage II sleep.
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Frequent spike and slow wave activity from the left hemisphere with variable maximum including left anterior temporal, mid-temporal, and frontal regions.
+Generalized background slowing.
+Rare sharp waves identified from the right.
+CLINICAL CORRELATION: This tracing supports a localization-related epilepsy from the left hemisphere, as well as a diffuse disorder of cerebral function.  No seizures were identified.  The background slowing as well as the frequent spike and slow wave activity may be associated with a postictal state. 

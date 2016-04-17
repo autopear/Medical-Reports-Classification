@@ -1,0 +1,15 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  This is a 71-year-old man with a history of seizures described as eyes rolling back, foaming at the mouth, shaking for 5 minutes, and falling asleep afterwards. The last one on July 29.  In addition to a past history of right hand shaking for 1 year, possible Parkinson.
+TECHNICAL DIFFICULTIES:  Some mild unique artifact seen in wakefulness diffusely.
+MEDICATIONS:  Depakote.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.
+DESCRIPTION OF THE RECORD:  
+The record reveals diffusely slow background with no normal posterior dominant rhythm or frontal central beta.  The patient is recorded during wakefulness and sleep.  However, no normal sleep architecture is seen.  Activating procedures were not performed.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen frequently at 014/02 while in wakefulness and sleep.  These are occurring almost continuously throughout the recording in at times pseudo periodic pattern.
+Generalized slow waves at 2-4 Hz seen continuously throughout the recording.
+HEART RATE:  72.
+IMPRESSION:  Abnormal EEG due to occipital sharp waves as well as generalized slowing.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization related epilepsy with seizures possibly arising from the occipital cortex.  In addition, there is evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures were seen.
+
+

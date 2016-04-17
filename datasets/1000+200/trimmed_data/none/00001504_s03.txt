@@ -1,0 +1,8 @@
+MEDICATIONS: Hydralazine, Lipitor, Phenytoin, others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. There are no clinical notes regarding the purpose of this study, the patient’s medications, or mental status. This EEG starts at 15:00 as described above and ends at 17:57.
+DESCRIPTION OF THE RECORD: The patient is somnolent.  The background EEG is continuous.  There is rhythmic theta frequency activity identified from both hemispheres, but there is a prominent breach rhythm on the right.  The patient is intermittently snoring or coughing, which obscures much of the study.  He occasionally shakes his head from side to side.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Primarily rhythmic background slowing with 4 Hz theta activity on the left, as well as some sharply contoured arrhythmic delta activity.  
+Suppression of the theta frequency activity on the right with more arrhythmic delta.
+CLINICAL CORRELATION: No seizures were recorded.  The background is similar to previous studies for this individual. 

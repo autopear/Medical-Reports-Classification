@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  A 75-year-old woman with hypertension, diabetes, hyperlipidemia, AFib, peripheral vascular disease, alcohol abuse, and right parietal hyperdensity with change in mental status.
+MEDICATIONS:  Risperdal, carvedilol, pravastatin, Pradaxa.
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  A long-term EEG was performed from 08/23 to 08/24/2013 for a total of 21 hours using the standard 10-20 electrode placement system with additional anterior temporal, single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.  Continuous spike-wave detection as well as seizure detection software in addition to patient's nurses' notes and primary team's reports were used to review the EEG.
+TECHNIQUE DIFFICULTIES:  Continuous movement artifact throughout most of the EEG.  She after about 13 hours lost multiple electrodes and was moving.  It was difficult to keep the recording and had to stop early before the 24 hours.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 8 Hz which appears to be reactive to eye opening.  There is some frontocentral beta seen.  There are some EEG state changes seen overnight and some sleep.  Overall the patient's background appears to be mildly slow even in wakefulness. 
+Abnormal discharges:  Generalized slow waves at 5-7 Hz in wakefulness at a frequency of 5-7 Hz and amplitude of 20-60 microvolts. 
+Seizures:  None. 
+Heart rate:  Irregular and 102.
+IMPRESSION:  Abnormal EEG due to mild diffuse slowing.
+CLINICAL CORRELATION:  This limited EEG, especially in the last hours, reveals evidence of mild diffuse cerebral dysfunction.  No seizures or epileptiform discharges were seen.
+
+

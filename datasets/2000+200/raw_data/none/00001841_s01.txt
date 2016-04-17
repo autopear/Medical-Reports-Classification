@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 70 year old woman status post a 20-minute code on June 30, followed by jerking and twitching. 
+MEDICATIONS: Vancomycin, Dopamine, Solu-Medrol. 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system electrode placement with 1 channel EKG. The patient is examined during the EEG. 
+DESCRIPTION OF THE RECORD: Background EEG demonstrates a relatively low voltage, relatively rhythmic and somewhat monotonous pattern with rhythmic 3-5 Hz activity, particularly in the frontal regions. There is a bilateral, frontal, simply shaped morphology compatible with the triphasic waves but it is sharply contoured and in some locations is a bit more maximum on the right or the left although generally speaking it is present bilaterally, relatively symmetric with anterior to posterior lag. As the recording continues, it develops more of a high amplitude and has more features of a triphasic morphology, again with anterior to posterior lag. The EEG is subtly discontinuous. Tactile stimulation produces a change in the EEG with a bit of flattening followed by the reappearance of the rhythmic, primarily theta frequency, activity. 
+HR: 96 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Markedly abnormal background. 
+2. Subtly discontinuous pattern. 
+3. Frontally predominant bilateral, somewhat periodic complexes, which are more typical of a triphasic wave than a GPED. 
+CLINICAL CORRELATION: This EEG is compatible with a severe encephalopathy which can be seen in severe metabolic disturbances or following anoxia. No seizures were recorded. The presence of some reactivity is a positive prognostic feature. 
+
+

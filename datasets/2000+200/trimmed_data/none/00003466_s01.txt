@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Seizures.
+TECHNICAL DIFFICULTIES:  None.
+MEDICATIONS:  Depakote.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is normal frontal central beta.  The patient is recorded during wakefulness, but mainly in sleep.  The patient reaches stage I stage II sleep.  Activating procedures, including hyperventilation and photic stimulation, produced abnormal discharges.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen in wakefulness and sleep at F4 and at times at F8/T4, seen rarely.
+Focal slow waves seen over the right hemisphere maximal in the frontal region at F8/F4.  These are seen almost continuously throughout the recording.  At a frequency of 2-4 Hz an amplitude of 20-40 microvolts.
+HEART RATE:  84.
+IMPRESSIONS:  Abnormal EEG due to right frontal sharp waves, in addition to focal slowing in that region.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization related epilepsy with seizures likely arising from the right frontal region.  In addition, there is evidence of focal cerebral dysfunction, structural dysfunction, in the right frontal region which is nonspecific with regards to etiology.  No seizures were seen.
+__________________________

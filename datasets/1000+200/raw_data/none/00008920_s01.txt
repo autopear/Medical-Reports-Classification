@@ -1,0 +1,18 @@
+CLINICAL HISTORY:  65 year old male with a left thalamic bleed and external ventricular drain, now with left facial twitching.
+MEDICATIONS:  Labetalol, Spironolactone, Famotidine, Gentamicin, Metoprolol.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and lethargy.  
+No activating procedures were performed.  
+EMG was placed on the left face during the recording.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm and no normal frontocentral beta.  There is normal sleep architecture and no activating procedures were performed.
+ABNORMAL DISCHARGES:  
+Focal slow waves seen independently at F8/T4 and less frequently at F7/T3 at 2-4 Hz with an amplitude of 20-60 microvolts. 
+Generalized slow waves at 2-4 Hz with an amplitude of 20-40 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Focal slow waves in the right anterior temporal as well as the left anterior temporal region with additional generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of independent bilateral anterior temporal focal cerebral dysfunction, which is nonspecific with regards to etiology, may be due at least in part to hemorrhage in the left thalamus and ventricular drain placed on the right.  
+Please note also that during the recording, the patient had left facial twitching and an EMG was performed.  However, there was no clear EEG correlate to the facial twitching.  Please also note that only 25% of simple partial seizures can be captured in an EEG.
+
+

@@ -1,0 +1,11 @@
+MEDICATIONS:  Valium, Dilantin, Ativan.
+REASON FOR STUDY:  Seizures
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with anterior temporal electrodes and EKG electrodes.  The recording was performed when the patient was lethargic.  No activation procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to diffusely slow background which is not well organized with no normal posterior dominant rhythm, frontocentral beta seen.  No normal sleep architecture is seen.  No photic stimulation or hyperventilation was performed. 
+ABNORMAL DISCHARGES:
+Generalized slow waves at 2-4 Hz with an amplitude of 20-70 microvolts seen continuously. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Diffuse slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebellar dysfunction, which is nonspecific in regards to etiology.  In this patient, it is likely due at least in part to a medication effect.  No seizures or epileptiform discharges were seen.

@@ -1,0 +1,11 @@
+MEDICATIONS:  Actigall, Pentoxifylline, Unasyn, Hydrocortisone, Betamethasone, Thiamine, Folic Acid, Rifaximin, Protonix, Propranolol, Prednisone
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Photic stimulation was completed.  Although the patient did not seem to be moving around very much in the EEG, she was described by the technologist as quite tense and there was a great deal of muscle artifact.
+DESCRIPTION OF THE RECORD:  The background EEG is slow and disorganized with diffuse theta.  There is a glimpse of a 9 Hz alpha rhythm.  There are posteriorly predominant bilateral triphasic waves noted which are ameliorated by tactile stimulation.   
+Features of drowsiness include an increase in background slowing. Photic stimulation does not activate the record. 
+HR:    60 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Disorganization. 
+Posteriorly predominant triphasic waves.
+CLINICAL CORRELATION:  Triphasic waves are hallmarks of a metabolic encephalopathy and are usually anteriorly maximum.  No seizures were seen.  The patient's tremulousness was associated with an increase in muscle artifact.
+________________________

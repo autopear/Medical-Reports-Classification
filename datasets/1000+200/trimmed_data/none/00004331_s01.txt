@@ -1,0 +1,8 @@
+MEDICATIONS:  Tylenol 3, Amiodarone, Enalapril, Metoprolol, HCTZ, Glimeppirde, Omeprazole
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Photic stimulation are completed.  The patient was described as confused.
+DESCRIPTION OF THE RECORD:  The activity in the left hemisphere is somewhat disorganized with an alpha rhythm of 7-8 Hz.  The right hemisphere demonstrates higher amplitude, slowing.  The posterior dominant rhythm is sometimes a bit slower and there is arrhythmic delta activity in the right central temporal region which is sometimes sharply contoured.  Features of sleep electrosurgical excision procedure include vertex waves, post and a handful of spindles. The patient is a bit more awake for photic stimulation with a unilateral driving response.   
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to: 
+Focal slowing from the right hemisphere with disruption of faster frequency activity. 
+Sharply contoured slowly.
+CLINICAL CORRELATION:  No seizures were recorded.  This EEG supports a structural process on the right affecting gray and white matter.  Of note, the background slowing on the left improved over time, compatible with a dynamic process.

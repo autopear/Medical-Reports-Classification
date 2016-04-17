@@ -1,0 +1,11 @@
+REASON FOR STUDY:  Epileptic versus nonepileptic seizures.
+MEDICATIONS:  Depakote, trazodone, and Risperdal.
+INTRODUCTION:  A long-term EEG monitoring was performed using the standardized 10-20 system of electrode placement with 1 channel of EKG.  This recording started from 07:16:13 until 10:56 a.m. on 07/17/2013.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF RECORD:  In wakefulness, the posterior dominant rhythm reaches 9 Hz and is reactive to eye opening.  There is intermittent beta and theta activity throughout the EEG, and stage 1 sleep is characterized by drowsiness and vertex waves, and stage II of sleep is characterized by sleep spindles, and K complexes, and there is appropriate slowness with theta activity in a stage III of sleep.  Of note, sleep pattern seems to be disrupted with deeper stages of sleep in the morning that reaches a stage III of sleep at around 8:30 in the morning.
+EVENTS:  
+There was 1 event with a pushbutton at 6:20 p.m.  The patient was tearful and emotional and was lying in bed, was not responding and had minimal shaking of both of his arms.  The nurse came in to the room and checked the vital signs.  He continued to be not responsive for 8 minutes and during this event, there was no changes in EEG and on EKG, he continued to have excessive beta activity, and no epileptiform discharges were seen.
+There was another pushbutton early in the morning at 3:04 in the morning, where the patient again had the same semiology of events.  He was not responsive and became tearful.  This lasted 3-4 minutes with no EEG correlates.  The nurse and PA came in to the room and checked the vital signs, and the patient after 4 minutes became responsive again.  There was no EEG correlation with the events.
+IMPRESSION:  This is a 24-hour EEG remarkable for intermittent excess beta and theta activity and there are 2 events without any EEG correlation on this 24-hour EEG monitoring. 
+No seizures or epileptiform discharges were seen.
+CLINICAL CORRELATION:  The 24-hour EEG monitoring was negative for any epileptiform discharges on the 2 events that were captured during this time were all nonepileptic and the excessive beta activity can be due to patient's medications.  The event that the patient is experiencing seems to be behavioral in nature.

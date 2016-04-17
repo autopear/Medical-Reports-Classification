@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 63-year-old male with a large left basal ganglia intracerebral hemorrhage, combative behavior.
+MEDICATIONS: 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is agitated and receives Morphine and Vecuronium. 
+DESCRIPTION OF THE RECORD: When the patient is calm, the EEG demonstrates an 8.5 Hz, 30 uV posterior dominant rhythm.  There is a small amount of excess background theta and occasional focal mixed theta and delta from the left hemisphere, as well as rare slowing from the right. Vertex waves are seen in stage I sleep. Sleep is not sustained and the patient arouses spontaneously and becomes agitated.  
+HR:  100 to 168 BPM.
+	IMPRESSION: In the context of this patient’s large intracerebral hemorrhage, this is a mildly abnormal EEG due to:
+Mild excess theta.
+Occasional focal delta, left greater than right. 
+CLINICAL CORRELATION: This tracing supports a modest diffuse disorder of cerebral function, as well as carries an intermediate correlation with a structural abnormality on the left.  No seizures were recorded and no epileptiform features were seen. 
+
+

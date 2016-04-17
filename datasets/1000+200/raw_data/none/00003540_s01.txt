@@ -1,0 +1,11 @@
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with anterior temporal route and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
+MEDICATIONS:  Depakote, Dilantin, Xanax, Flexeril, inhaler (unclear which inhaler), omeprazole and Singulair.
+HISTORY:  A 39-year-old man with seizures since a motor vehicle accident 21 years ago described as 2 seizures a month with generalized tonic-clonic seizures, urinary incontinence and confusion, also hypertension and asthma.
+TECHNICAL DIFFICULTIES:  Continuous P3 artifact throughout almost the entirety of the recording.
+DESCRIPTION OF RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures including hyperventilation and photic stimulation were performed which reveal no abnormal discharges.  The patient was recorded in stage I and stage II sleep.  Please note that during drowsiness there was 1 single small spike consistent with benign epileptiform sharp transients seen throughout the recording.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Abnormal awake and asleep EEG. No seizures or epileptiform discharges were seen.
+
+

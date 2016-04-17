@@ -1,0 +1,9 @@
+REASON FOR STUDY:  Seizures, classification differential..
+MEDICATIONS:  None.
+INTRODUCTION:  A long term EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  No activating procedures were performed.  Continuous spike wave detection software, as well as patient's events and nurses notes, were used to review the EEG.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reacts to well eye opening.  There is normal frontal central beta.  The patient is recorded in wakefulness, stage I, stage II, and deeper stages of sleep.  No activating procedures were performed. 
+Abnormal discharges:  Focal slow waves seen occasionally at T3 and occasionally at T4 with a frequency of 2-4 Hz at an amplitude of 20-60 mV. 
+Seizures:  None. 
+Events:  None.
+IMPRESSION:  Abnormal EEG due to bilateral mid temporal slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the bilateral mid temporal region, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.  This is day 3 of recording in the EMU.

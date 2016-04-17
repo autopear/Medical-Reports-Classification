@@ -1,0 +1,7 @@
+MEDICATIONS: Fluconazole, Phenobarbital, and antifungal medications. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and lethargic. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with a mixture of delta and theta.  Stimulation of the patient produces an increase in alpha and theta frequency activity.  Sleep states are characterized by high amplitude delta.  Stimulation of the patient by testing his reflexes produces some asterixis, but there is no spontaneous myoclonus and there is no change in the EEG in terms of appearance of epileptiform activity with stimulation.  Stimulation does produce a small amount of background slowing. 
+HR:  104 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Generalized background slowing.  
+CLINICAL CORRELATION: No seizures were recorded and no epileptiform features were seen.  This EEG is not significantly different than this patient’s previous studies.  Consideration for a metabolic component for his involuntary movement might be appropriate. 

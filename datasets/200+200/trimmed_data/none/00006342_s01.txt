@@ -1,0 +1,8 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Neurontin, Lamictal
+INTRODUCTION:  A routine EEG was performed using standard 10-20 system of electrode placement with one channel of EKG.  The patient was recorded during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  The record open to a PDR of 9 Hz which is reactive to eye opening.  There is an excessive amount of beta seen throughout the recording.  The patient was recorded during wakefulness, stage 1, stage 2.  Activating procedures produced no abnormal discharges.  However, photic stimulation produces nice photic driving.   
+Heart rate:  84.
+ABNORMAL DISCHARGES: None
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  This EEG is a normal awake and sleep EEG.  No seizures or epileptiform discharges were seen.  Please note that the excessive beta may be seen as part of medication effect and with the use of such as benzodiazepines or barbiturates and other medications.

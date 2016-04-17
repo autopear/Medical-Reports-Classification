@@ -1,0 +1,10 @@
+MEDICATIONS:  Keppra, metformin, Zocor, others.
+INTRODUCTION:  Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG.  The patient was very uncomfortable and had difficulty tolerating the electrodes.  Impedances were more challenging as the result.
+TECHNICAL:  Impedance issues, patient cooperation.
+DESCRIPTION OF THE RECORD:  This bedside EEG demonstrates an asymmetry.  The right hemisphere is composed primarily of arrhythmic delta as well as some theta and smaller amounts of beta.  The left hemisphere on occasion includes some 7 Hz activity.  There is sharply-contoured slowing, some periodic slowing and even some sharp waves noted in the left hemisphere with variable maximum but more typically occipital or posterotemporal in nature.  On occasion, there is an alerting with a glimpse of an alpha rhythm on the left.   
+Heart rate 90 bpm.
+IMPRESSION:  This is a markedly abnormal EEG due to:
+Intrahemispheric asymmetry with marked slowing on the right and disruption of faster-frequency activity.
+Irregular slowing on the left with periodic slowing and occasional sharp waves in the left posterotemporal region.
+CLINICAL CORRELATION:  No seizures were recorded.  The markedly slow pattern on the right with disruption of faster-frequency activity and arrhythmic delta activity is supportive of a process in the right involving gray and white matter.  The left 
+hemisphere is also slow and disorganized, with some sharp waves.  These findings may be correlated with a previous stroke on the left.  No seizures were identified.

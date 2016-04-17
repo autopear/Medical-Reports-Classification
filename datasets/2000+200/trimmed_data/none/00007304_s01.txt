@@ -1,0 +1,10 @@
+MEDICATIONS:  Tessalon, Robitussin, Claritin.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  none.
+DESCRIPTION OF THE RECORD:  The record opens to a well-formed posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  The patient was recorded during wakefulness and sleep stage 1.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges except hyperventilation accentuated slight left midtemporal focal slowing; please see below abnormal discharges discussion.
+ABNORMAL DISCHARGES:  Focal slowing seen infrequently at T3 at 2-4 Hz at an amplitude of 20-60 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left midtemporal slowing due to infrequent left midtemporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left midtemporal region, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

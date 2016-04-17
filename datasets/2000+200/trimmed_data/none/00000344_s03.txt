@@ -1,0 +1,11 @@
+MEDICATIONS: Depakote, Phenobarbital, and many others.
+INTRODUCTION: Continuous  video EEG monitoring is perfom1ed in the unit using standard
+10-20  system  of  electrode  placement  with one  channel  of  EKG.  The  patient  is  described  as comatose, but no seizures were recorded.
+DESCRIPTION OF  THE  RECORD: Samples of the EEG over a 24-hour period are available for review.  The record is continuous, rich in theta and beta activity.  Sections of the record show continuous,  high  amplitude, sharply  contoured  delta activity  particularly  from  the left  anterior temporal  region.   The samples provided  do not show a frequency  evolution,  although  as times goes on, the epileptiform activity with clear-cut  sharp waves or spike and slow wave complexes from the left hemisphere, as well as a persistent, sharply contoured mixed theta and delta activity marches through the left anterior temporal region.
+HR.: 102 BPM.
+IMPRESSION: Abnormal EEG due to:
+1.  Generalized background slowing.
+2.   Superimposed slowing from the left hemisphere.
+3.   Sharp  waves  and  spikes   from   both  hemispheres,   but  most  specifically   from the  left hemisphere particularly the anterior temporal region.
+4.   More of a pattern  of continuous  left anterior temporal sharp waves seen towards the close of this 24-hour epoch.
+CLINICAL  CORRELATION: 111is EEG  supports  a  highly  epileptogenic  pattern  and consideration  for a process that is perhaps either more irritative or more potentially  epileptogenic is appropriate.

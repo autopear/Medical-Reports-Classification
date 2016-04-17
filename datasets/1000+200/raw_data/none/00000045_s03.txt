@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 72-year-old woman found confused on the floor with bladder and bowel incontinence, with hypertension, diabetes, chronic renal disease on hemodialysis, history of DVT and PE.
+MEDICATIONS:  Dilantin, morphine, lorazepam.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded during lethargy.  Activating procedures were not performed.  Spike wave detection, seizure detection software, patient events and nurses notes were all used to review the EEG.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no posterior dominant rhythm or frontocentral beta.  There is no normal sleep architecture.  No activating procedures were performed.  Overall, the background consists of mainly delta frequency at 2-4 Hz and an amplitude of 20-40 microvolts seen diffusely with intermittent bursts of theta.  Sometimes the patient arouses and there is some diffuse muscle artifact seen.  In addition, there is frequent triphasic waves which appear to be bifrontal predominant symmetric at times seen more rhythmically at 1 Hz.
+ABNORMAL DISCHARGES:  Generalized slow waves described above and triphasics.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to moderate to severe generalized slowing in addition to triphasic waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction which may be due at least in part to metabolic effect or a metabolic disturbance.  No seizures or epileptiform discharges were seen.
+
+

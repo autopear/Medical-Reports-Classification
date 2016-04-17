@@ -1,0 +1,10 @@
+MEDICATIONS: Gabapentin,  Klonopin, Hydrochlorothiazide, Lisiniopril, Lopressor, Plavix, Zoloft, Percocet,  Tylenol
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Photic stimulation performed. Awake through stage 1 sleep.
+DESCRIPTION OF THE RECORD: During wakefulness there is a mildly slow posterior dominant alpha rhythm of 8 Hz at 45 microvolt's. As the record continues, dispersed throughout the record there are spike and slow wave discharges seen in the central parietal regions at C3, or C4 and P3 and P4.  The following slow waves ranged from 3 to
+	4 Hz.	During drowsiness stage  1  sleep is seen with vertex waves.  During Photic stimulation there is no increase in these episodes.
+	HR:	72 bpm
+IMPRESSION: Abnormal EEG due to:
+	1. 	Mild slowing of the background.
+	2.	Spike and slow wave activity seen in the central regions independently or bilaterally.
+CLINICAL CORRELATION:  There is epileptiform activity in the central parietal regions. Nothing seems to accentuate the activity and no seizures are recorded at this time.
+Recommend further clinical correlation.

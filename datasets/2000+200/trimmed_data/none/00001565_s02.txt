@@ -1,0 +1,15 @@
+REASON FOR STUDY:  Dizziness and passing out.
+STAGES:  Awake and drowsy.
+ACTIVATION PROCEDURES:  Photic stimulation was performed.
+MEDICATIONS:  Topamax, Lexapro, pioglitazone.
+TECHNICAL PROBLEMS:  There was a T3 electrode dislodgement artifact which was fixed.
+INTRODUCTION:  
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a posterior dominant rhythm of 9 to 10 Hz alpha at 9 to 10 Hz frequency and 30 to 50 microvolts in amplitude.  The posterior dominant rhythm is symmetric and reactive to eye opening.  There is a good anteroposterior gradient with normal beta. 
+Sleep:  The patient achieved drowsiness during the record which was characterized by anterior spread of alpha and occasional vertex spikes. 
+There was 1 asymmetry vertex wave seen on the left hemisphere. 
+Hyperventilation was not performed. 
+Photic stimulation was performed which produced no abnormal discharges. 
+Abnormal discharges:  None. 
+Seizures:  None.
+IMPRESSION:  This is a normal awake and drowsy EEG.
+CLINICAL CORRELATION: This a normal EEG. No seizures or epileptiform discharges were seen.

@@ -1,0 +1,10 @@
+MEDICATIONS:  Alprazolam.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  Hyperventilation and photic stimulation were performed.  The patient was recorded in wakefulness and drowsiness.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 10 Hz, which is reactive to eye opening.  There is normal amount of frontal central beta.  Activating procedures, including hyperventilation and photic stimulation, reveal no abnormal discharges.  The patient is recorded in wakefulness and drowsiness.   
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and drowsy EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.
+__________________________

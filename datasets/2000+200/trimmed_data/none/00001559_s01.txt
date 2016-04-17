@@ -1,0 +1,15 @@
+REASON FOR STUDY:  Change in mental status, probable seizure.
+MEDICATIONS:  Heparin, aspirin, Lipitor, metoprolol, insulin, Protonix.
+INTRODUCTION:  The digital video EEG was performed in the lab using the standard 10-20 system of electrode placement and one channel EKG.  Photic stimulation was performed.
+TECHNICAL PROBLEMS:  There was a problem with the EKG leads throughout the study.
+DESCRIPTION OF THE RECORD:  In wakefulness the background is diffusely slow in the theta and delta range.  No posterior dominant rhythm was appreciated.   
+No clear distinction between sleep and wakefulness could be made on the EEG. 
+Photic stimulation was performed which did not bring about a change in the record.
+ABNORMAL DISCHARGES:  
+Bifrontal slowing in the delta range was noted almost continuously.  The slowing was more prominent in the F3 and F4 regions.
+There were rare F4 sharp waves seen.
+SEIZURES:  None.
+IMPRESSION:  This is an abnormal EEG due to:
+Bifrontal F3 and F4 continuous focal slowing.
+Rare F4 sharp waves.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization related epilepsy with seizures arising from the right frontal region.  The bifrontal slowing indicates a possible underlying structural abnormality in these areas.  Clinical correlation recommended.

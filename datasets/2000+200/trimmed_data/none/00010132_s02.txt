@@ -1,0 +1,8 @@
+MEDICATIONS: 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. The patient has frontal craniotomy defects bilaterally.
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a well-organized posterior dominant rhythm of 10 Hz, 40 uV, which is symmetric and reactive. In relaxed wakefulness and in the transition to drowsiness, there is occasional focal slowing from the left frontal or frontotemporal regions with some sharply contoured slowing and a rare sharp wave in the left frontotemporal region.    Hyperventilation is performed with good effort and does perhaps accentuate that slowing.   Photic stimulation elicits a supraharmonic driving response bilaterally. 
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Intermittent focal slowing from the left frontal/frontotemporal region. This is sometimes sharply contoured and irregular.
+	Rare left frontotemporal sharp waves. 
+CLINICAL CORRELATION: These findings were seen in the 2004 EEG.  No seizures were recorded.  

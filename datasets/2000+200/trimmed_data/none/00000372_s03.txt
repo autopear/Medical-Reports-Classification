@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Keppra, Ativan. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. The patient is awake, but confused. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal and includes a continuous, high amplitude periodic complex in the right posterior quadrant at 
+Ts/01. In some locations it seems to be maximum at 01 and other at T5. This high amplitude discharge has some volume conduction to the contralateral occipital region. The amplitude of the activity exceeds 250 microvolts. It has the characteristic of PEDS PLUS. In addition, in some points it is essentially a left hemispheric spike and slow wave complex. No clinical seizures are noted during the record, but at one point the activity starts to transition to more of a rhythmic theta-delta. Photic stimulation does not activate the record. At the close of the record, despite the high amplitude periodic complex in the right occipital region, the patient is conversant. 
+HR: 107bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Essentially continuous periodic complex from the left occipital parietal region. 
+2. Potentially a subclinical seizure when the continuous sharp waves transition to more of a rhythmic theta-delta pattern. 
+CLINICAL CORRELATION: This EEG supports a highly irritative process. No clinical seizures were recorded. The EEG technologist did contact the clinical team on call to review this study. 

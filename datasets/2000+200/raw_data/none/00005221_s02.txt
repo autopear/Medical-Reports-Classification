@@ -1,0 +1,11 @@
+CLINICAL HISTORY: 50 year old right handed male with frontal mass; evaluate for possible seizures. 
+MEDICATIONS: Dilantin, Keppra, Zofran 
+INTRODUCTION: Digital video EEG was performed using in lab using standard 10-20 system of electrode placement with 1 channel EKG. The patient is very confused. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is markedly slow and disorganized. There is a breach rhythm with higher amplitude rhythmic 3 to 5 Hz activity in the left frontal region. This activity waxes and wanes in terms of its rhythmicity. During the EEG the patient is tested to determine if the bursts of left frontal slowing are associated with clinical signs or symptoms, but it is difficult to determine if there is a clinical change associated with the rhythmic frontal slowing. He is primarily tested after the discharge rather than during it. 
+HR: 40 to 60 bpm and irregular 
+IMPRESSION: Abnormal EEG due to: 
+1. Marked background slowing. 
+2. Rhythmic frontal delta without frequency evolution. 
+CLINICAL CORRELATION: The background slowing and disorganization are compatible with a diffuse disturbance of cerebral function. The bursts of left frontal delta do not show frequency evolution and may be considered an interictal phenomenon. No seizures were recorded. In this sharply contoured EEG there were no epileptiform discharges. 
+
+

@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin.
+ANTIBIOTICS:  Cefepime/others.
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EEG. The patient is intubated, in a hard collar, and poorly responsive. This is a 30 minute study.
+DESCRIPTION OF THE RECORD:  Background EEG demonstrates a low voltage, featureless pattern.  In the region of the right craniotomy defect, there is some lower voltage with some slow delta.  With sensivity of 2, breech rhythm is more easily identified, and there is some very low voltage slow activity in the right temporal region, the region with the depressed skull fracture.  Stimulation of the patient does not activate the record, although does produce some artifact.
+	HR: 	120 bpm
+IMPRESSION: Abnormal EEG due to:
+	1. 	Low voltage, markedly slow, suppressed pattern.
+	2. 	Scant,  slow activity identified in the region of the craniotomy.
+CLINICAL CORRELATION: This EEG supports a very severe disturbance of cerebral function.  There is some very slow low voltage activity seen in the region of the craniotomy, however, there is also artifact picked up this region due to the absence of the  scalp. This EEG supports a severe disturbance of cerebral function. No epileptiform features are observed.  No seizures are recorded.

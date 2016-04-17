@@ -1,0 +1,9 @@
+MEDICATIONS:  Not known.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  Wave form in sleep were recorded.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm of 9 hertz at an amplitude of 20 to 50 microvolts and normal frontocentral beta seen. In general, there is a low amplitude to the recording, but no specific abnormalities are seen with sleep or photic stimulation.
+ABNORMAL DISCHARGE:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  Please note that a normal EEG does not exclude the diagnosis of epilepsy. Prolonged recording may aid in eliciting epileptiform discharges.

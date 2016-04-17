@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  53 year old right handed female with seizures characterized by stiffness of body followed by generalized body shaking.
+MEDICATIONS:  Dilantin, ASA, Zocor
+INTRODUCTION:  Continuous digital video EEG monitoring using seizure and spike detection, performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. 
+DESCRIPTION OF THE RECORD:  During this EEG monitoring session the patient experienced no seizures. In wakefulness, the background EEG includes a symmetric, reactive, well organized alpha rhythm.  In stage 2 sleep there are vertex waves, K-complexes, spindles, and POSTS. Hyperventilation does not significantly activate the record. 
+HR:    60 bpm
+IMPRESSION:   Remarkable  EEG monitoring for: 
+The absence of events.  
+CLINICAL CORRELATION:    No epileptiform features were noted. This is a normal study.
+
+

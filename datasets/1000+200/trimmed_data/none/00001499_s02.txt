@@ -1,0 +1,13 @@
+INTRODUCTION: A routine EEG was performed using the 10-20 electrode placement system with EKG electrode as well as anterior temporal electrodes. Awake, lethargic and stage I sleep were recorded. Photic stimulation was performed. No hyperventilation was performed.  
+MEDICATIONS: Include aspirin and heparin.  
+TECHNICAL PROBLEMS: None.  
+DESCRIPTION OF THE RECORD: The record opens up to a diffusely slow EEG background in the theta frequencies 5 to 8 Hz and 20 to 70 microvolts amplitude. The posterior dominant rhythm at best reaches 7 Hz and appears to be reactive to eye opening. A small amount 
+of frontocentral beta seen. As the patient appears to drowse off into sleep, some vertex complexes are seen. Infrequent small spikes are seen at F8 with a negative field in the right temporal lobe with some positivity in the left temporal lobe and a low amplitude below 50 microvolts also know as benign epileptiform transient of sleep (BETS). During photic stimulation, no abnormal discharges were seen. The heart rate was around 60.  
+ABNORMAL DISCHARGES: 
+1. Generalized slow waves at 5 to 8 Hz and 20 to 70 microvolts. 
+2. Bursts of frontal intermittent rhythmic delta (FIRDA) were seen during the short wakefulness.  
+SEIZURES: None. 
+s
+IMPRESSION: Abnormal EEG due to generalized slow waves and FIRDA. 
+CLINICAL CORRELATION: This EEG is consistent with diffuse cerebral dysfunction, which is nonspecific with regard to etiology. No seizures were 
+seen. 

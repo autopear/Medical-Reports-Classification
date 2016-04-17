@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  46 year old man with recent onset of seizures.
+MEDICATIONS:  Keppra.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  Activating procedures including hyperventilation and photic stimulation were performed.  The patient was recorded in wakefulness and sleep.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm 9-10 Hz with an amplitude of 20-40 microvolts which is reactive to eye opening.  There is normal amount of frontocentral beta.  Sleep is characterized by stage 1.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  Focal slow waves present at F3 occasionally at 2-4 Hz with an amplitude of 20-60 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due: 
+Left frontal slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction, in the left anterior temporal region, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

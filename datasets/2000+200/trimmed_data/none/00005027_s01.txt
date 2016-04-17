@@ -1,0 +1,10 @@
+MEDICATIONS:  Potassium.
+REASON FOR STUDY:  Possible seizure.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in quiet while lethargic.  Sleep stage 1 and stage 2 were recorded and activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  Some movement artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 7 Hz with an amplitude of 20-40 microvolts which appears to be reactive to eye opening.  There is lack of normal frontocentral beta.  Sleep architecture for stage 1 and stage 2 is seen.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:  Generalized slow waves at 5-7 Hz in addition to FIRDA were seen. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:  
+Generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

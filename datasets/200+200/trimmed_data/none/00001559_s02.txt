@@ -1,0 +1,9 @@
+MEDICATIONS:  Lamictal, Keppra, Protonix, aspirin, and metoprolol.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the unit using standard 10-20 system of electrode placement with 1-channel EKG.  The patient was relatively somnolent.
+TECHNICAL ISSUES:  T1 and T2 impedances were 5.7 and 5.9.
+DESCRIPTION OF THE RECORD:  In relaxed wakefulness, there was more of a theta frequency background.  There was a subtle asymmetry with rare sharply contoured transients in the hemisphere.  As the patient transitions to sleep, POSTS were noted.  The overall background is a bit more symmetric and there is more of a slow pattern.  Snore artifact was observed.   
+Heart rate:  BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Generalized background slowing.
+Shifting asymmetries.
+CLINICAL CORRELATION:  In comparison to a previous study performed on the 24th, the background is overall significantly improved.  There are no major epileptiform discharges and no seizures were recorded.

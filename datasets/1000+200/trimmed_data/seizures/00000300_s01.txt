@@ -1,0 +1,10 @@
+MEDICATIONS:  Keppra, Vimpat, Ativan, Protonix, and others.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was poorly responsive.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  The left hemisphere is diffusely slow with a mixture of theta and delta.  There is generous beta.  The right hemisphere demonstrates high amplitude, arrhythmic delta activity, with periodic complexes in the right hemisphere with some variability but typically central temporal, sometimes parietal.  This activity waxes and wanes.  It has a characteristics of a PLEDS plus. 
+Although there are no clinical features, this activity seems to evolve at 1:41 waxing and waning as the patient seems to drift off to sleep.  As it terminates there is a brief period of background suppression for about 1.5 seconds as it seems to be ending. 
+Heart rate:  90 bpm.
+IMPRESSIONS:  This is an abnormal EEG due to:
+Continuous periodic complexes in the right hemisphere with variability and waxing and waning.
+At least 1 electrographic seizure in this routine bedside recording.
+Marked focal slowing on the right.
+CLINICAL CORRELATION:  Based on these findings, continuous EEG monitoring was initiated.

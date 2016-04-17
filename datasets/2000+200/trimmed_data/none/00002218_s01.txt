@@ -1,0 +1,10 @@
+MEDICATIONS:  Keppra, Amlodipine.
+REASON FOR STUDY:  Episodes of staring and decreased talking.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that is best seen over the left hemisphere with a frequency of 7 Hz, which is reactive to eye opening.  There is some frontocentral beta seen.  Activating procedures were not performed.   
+ABNORMAL DISCHARGES:  Focal slow waves seen in the right posterior quadrants, maximal at T6 with a frequency of 2 to 4 Hz and an amplitude of 20 to 50 microvolts seen continuously throughout the recording. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Right posterior quadrant slowing, maximal in the posterior temporal region.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural cerebral dysfunction in the right posterior temporal region, which is consistent with the known hemorrhage.  No seizures or epileptiform discharges are clearly seen.

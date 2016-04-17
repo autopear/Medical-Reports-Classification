@@ -1,0 +1,8 @@
+MEDICATIONS:  Phenobarbital
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 electrode placement with 1 channel of EKG
+DESCRIPTION OF THE RECORD:  The tracing begins with the baby asleep. There is a somewhat discontinuous pattern, compatible with gestational age, which is 33.5 weeks.
+It  is not frankly discontinuous, j ust a trace alternans. Delta brushes are observed. These
+are a normal finding in an infant of this age. There is electrode pop at the T3 electrode. There are a handful of simple sharp waves in the right temporal region. This is a 1-hour EEG and the child alerts. When she does so, the discontinuity decreases. By the close of the record the child is a bit more active, and at that point the EEG is more of a mixed frequency pattern.
+	HR:	132-150 bpm with a more rapid heart rate when the child is moving about.
+IMPRESSION:  This EEG is within limits of normal for gestational age.
+CLINICAL CORRELATION:  No seizures were recorded. There were no specifically pathological sharp waves observed.

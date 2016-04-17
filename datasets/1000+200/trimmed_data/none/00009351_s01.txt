@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin, Ativan, Zosyn, Panto, Prazole, Vancomycin, Prednisone, Levothyroxin, Phenylephrine, Dopamine, Vasopressor, Epinephrine, Pipercillin
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is noted to have head twitching.
+DESCRIPTION OF THE RECORD:  This is a markedly abnormal and discontinuous EEG.  There is a burst suppression pattern with discontinuity lasting about 2-3 seconds.  There are bursts of sharply contoured chaotic activity with focal sharp waves noted in the bursts, including T3, T4, and T5.  The bursts are sometimes synchronous, but more consistently asynchronous;  onset and offset varies from hemisphere to hemisphere.  As the recording continues there is variability in terms of the degree of discontinuity. Tactile stimulation of the patient does not activate the record. By the end of the record the periods of suppression are a little closer to 3 seconds.  The overall activity is a bit more blunted, not as spiky in morphology.   
+HR:    114 bpm
+IMPRESSION:  Abnormal EEG due to:
+Burst suppression pattern.
+Focal epileptiform activity identified from either hemisphere.
+CLINICAL CORRELATION:  No seizures were recorded.  The burst suppression pattern is a worrisome finding following anoxic injury.  In addition, during the bursts of activity there were focal sharp waves noted from either hemisphere.  The clinical were difficult to see on the video.

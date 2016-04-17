@@ -1,0 +1,8 @@
+MEDICATIONS: Hydralazine and Tegretol. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow, poorly organized with prominent shifting slowing.  The primary frequency in the background is 4 to 7 Hz activity.  In this record with prominent shifting slowing, the left temporal region appears to be more attenuated than the central region or the contralateral temporal region. Stimulation of the patient produces an increase in symmetric, bilateral theta. 
+HR:  80 BPM, irregular.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing and poor organization.
+Prominent, shifting arrhythmic slowing but with perhaps the area being the most attenuated in the left temporal region.  
+CLINICAL CORRELATION: No seizures were recorded.  This EEG supports a process involving both hemispheres, gray and white matter, and consideration for a toxic or metabolic process, as well as an underlying cerebrovascular disease or dementia would all be appropriate.  Given the history of seizures, no epileptiform features were seen. 

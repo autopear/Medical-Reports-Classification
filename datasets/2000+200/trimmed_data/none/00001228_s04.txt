@@ -1,0 +1,8 @@
+MEDICATIONS:  Ativan, Simvastatin, Zosyn, Vancomycin, Flagyl, Solu Medro
+INTRODUCTION:  Digital video long term EEG with seizure spike detection was performed at the bedside in the ICU using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is intubated and appears to be comatose.
+DESCRIPTION OF THE RECORD:  Although there is some technical problems with the temporal scalp electrodes, the overall EEG is low voltage, featureless.  There is a rhythmic 1.5 Hz artifact, which is so rhythmic as to be unlikely to represent eye flutter artifact. Stimulation of the patient does not activate the record.  Over the course of the 6-hour EEG, although there is scant background cerebral activity to begin with, there seems to be even less that can be differentiated from the background. 
+HR:    108 bpm
+IMPRESSION:  Abnormal EEG due to:
+1. Marked suppression of cerebral activity.
+2. Absence of reactivity or variability.
+CLINICAL CORRELATION:  No seizures were recorded.  The burst suppression pattern that was previously identified had disappeared.

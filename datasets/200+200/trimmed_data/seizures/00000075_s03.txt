@@ -1,0 +1,12 @@
+MEDICATIONS:  Keppra, Dilantin, Ativan.
+REASON FOR STUDY:  Recurrent seizures.
+INTRODUCTION:  Digital video long-term EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded while awake and asleep.  The record was reviewed using continuous spike detection software as well as seizure detection software and patient noted events, as well as review of the tracings.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no posterior dominant rhythm or frontal central beta.  There is no normal sleep architecture and no activating procedures were performed. 
+ABNORMAL DISCHARGES:  
+Focal sharp waves were seen in multiple places including F4, T3, P3, and T5 intermittently.  In addition, there were rounds of frontal  polyspikes that at times were more than left and right predominant.
+Generalized slow waves at 2 to 4 Hz with an amplitude of 20 to 70 microvolts seen throughout the recording. 
+SEIZURES:  Throughout the recording there were 9 tonic seizures noted where the patient suddenly lifted her left and right arms tonically followed by her face opening also in a tonic fashion.  These last for about 15 to 20 seconds and then stop.  In the EEG there appears to be a sudden attenuation seen diffusely throughout the recording consistent with paroxysmal fasts that cannot be localized to one specific region followed by tonic muscle artifact seen throughout the recording and followed by diffuse slowing at the end of the seizure.
+IMPRESSION:  Abnormal EEG due to:  
+multiple tonic seizures of generalized unclear onset. 
+multifocal spikes.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of symptomatic generalized epilepsy with multiple seizures of unclear onset as well as multiple focus for origination of seizures.  In addition, there is evidence of diffuse cerebral dysfunction which is nonspecific with regard to etiology and may be due to the patient's overall cognitive disease.

@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin and Ativan- please check log- PB not given
+one dose of Phenobarbital 200 mg. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were not performed.  The patient is confused during the record.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is disorganized with generalized slowing.  The normal posterior alpha rhythm is not identified.  Diffuse low voltage beta activity is seen.  When the patient is sleeping, PLEDS-like activity is seen maximally in the right frontocentral area.  This PLEDS-like activity is poorly formed with a frequency of once every two to three seconds.  When the patient is awake, the PLEDS subside; however, when the patient falls back to sleep, the PLEDS return.  No  seizures were observed on the video camera.  The periodicity of the PLEDS diminished at about 20:34 on November 21.  The frequency continued to decrease at 06:11 on November 22, and the PLEDS-like activity is hardly recognizable.  No seizures were recorded throughout this period, but the patient still seems to be confused and at times agitated. 
+HR:  102 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Disorganized background with generalized slowing and diffuse beta activity.
+PLEDS-like activity predominantly seen in the right frontocentral area.
+CLINICAL CORRELATION: This abnormal EEG pattern demonstrates a significant disturbance of cerebral function.  The PLEDS-like activity emanating from the frontocentral area is suggestive of an underlying structural lesion, responsible for the partial mechanism of epilepsy in this patient.  Diminishment of the PLEDS following treatment is consistent with a clinical improvement. 

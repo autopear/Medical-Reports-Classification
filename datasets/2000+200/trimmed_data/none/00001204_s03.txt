@@ -1,0 +1,8 @@
+MEDICATIONS: 
+INTRODUCTION: Digital video EEG is performed at the bedside in the neonatal nursery using standard 10-20 system of electrode placement with one channel of EKG. The child is asleep.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates some beta frequency activity from the central regions, which is present bilaterally.  The temporal regions demonstrate slow, arrhythmic delta activity.  There is a sharp wave in the right posterior temporal region in this relatively high amplitude, continuous EEG.  The sharp wave is seen with variability, sometimes frequent other times not.  The child arouses spontaneously producing artifact in the background as well as a decrease in amplitude.  Occasional vertex waves are seen in sleep.  As the child drifts in and out of sleep, intermittently, the focal slowing from the right hemisphere is somewhat more prominent.  The tech continues to work throughout the record to try and reduce impedance, which is a challenging problem in this nursery.  At the close of the record, the child seemed to alert spontaneously from sleep.  A brief arousal was characterized by a lower voltage, continuous pattern, but sustained wakefulness was not achieved. 
+HR:  180 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Intermittent right temporal or hemispheric slowing. 
+Sharp waves identified primary from the right mid-to-posterior temporal region, occasionally seen at FP2 or F8.
+CLINICAL CORRELATION: In comparison to previous records, the focal features are not as prominent.  In addition, the epileptiform features from the left appear to be resolving.  No seizures were recorded. 

@@ -1,0 +1,9 @@
+MEDICATIONS:  Currently unknown.
+INTRODUCTION:  A digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  The patient was quite somnolent.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a diffusely slow pattern.  Superimposed upon this is arrhythmic delta activity from the left hemisphere.  Sharp waves are noted from the left hemisphere some of which are higher amplitude and broadly contoured at T3.  Other are more posterior central temporal.  Stage 2 sleep included vertex waves and spindles but the spindles are asymmetric.  Occasional bursts of finally predominant delta were observed.   
+Heart rate 90 BPM.
+IMPRESSION:  Abnormal EEG due to: 
+Continuous arrhythmic delta activity from the left hemisphere.
+Sharp waves in the left hemisphere with some variability including T3, C3 and T5.
+Bihemispheric background slowing.
+CLINICAL CORRELATION:  The bihemispheric slowing may be due to post ictal state or bihemispheric diffuse disturbance of cerebral function.  The focal slowing on the left and epileptiform activity may be correlated with imaging.  No seizures were recorded.

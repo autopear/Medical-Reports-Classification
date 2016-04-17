@@ -1,0 +1,14 @@
+STUDY DATES:  07/16/2012 to 07/17/2012.
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Zonisamide, Dilantin, and Depakote.
+TECHNICAL DIFFICULTIES:  None.
+INTRODUCTION:  A long-term EEG was performed for 24 hours using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and stage 2, stage 2, and deeper stages of sleep.  Activating procedures were not performed.  Continuous spike detection software as well as seizure detection software and patient's alarm and nurses notes were used to review the EEG.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 Hz, which is reactive to eye opening.  There is normal amount of frontocentral beta.  The patient was recorded in wakefulness stage 1, stage 2 and deeper stages of sleep.  No activating procedures were performed.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen at F8/T4 and at times at T6/A2 in wakefulness and sleep frequently.
+Focal sharp waves were seen at F7/T3 occasionally throughout the recording in wakefulness and sleep.
+Bilateral anterior temporal focal slowing at F7/T3 and independently at F8/T4 seen at frequency of 2-4 Hz and amplitude of 20-60 microvolts.
+SEIZURES:  None.
+EPISODES:  None.
+IMPRESSION:  Abnormal EEG due to bilateral anterior temporal slowing and sharp waves with some right posterior temporal sharp waves.
+CLINICAL CORRELATION:  We will finish the clinical correlation at the end of the study, this is day 1.

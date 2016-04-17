@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Episode of left arm shaking and recent stroke.
+CLINICAL HISTORY:  This is a 52-year-old man with episodes of left arm shaking followed by problems with his vision.
+MEDICATIONS:  Insulin, Keppra, metformin, aspirin, lorazepam.
+INTRODUCTION:  A routine EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recording during wakefulness and drowsiness.  Activating procedures include hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 8.5-9 Hz which is reactive to eye opening.  There is some frontocentral beta.  Activating procedures include hyperventilation and photic stimulation which produced no abnormal discharges.
+ABNORMAL DISCHARGES:  Focal slowing seen frequently at T6/O2 in addition to independently at T4 at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts.
+HEART RATE:  78.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to right posterior temporal and occipital as well as midtemporal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of cerebral dysfunction in the right occipital as well as posterior temporal and midtemporal regions, all of which are consistent with the known stroke.  No seizures or epileptiform discharges were seen.
+
+

@@ -1,0 +1,15 @@
+MEDICATIONS:  Keppra and Lovenox.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video routine EEG was performed using standard 10-20 electrode placement system with the addition of anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is a normal amount of frontocentral beta.  There is normal sleep stage I architecture.  Activating procedures with photic stimulation produced no abnormal discharges. 
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen at F8/T4 occasionally.  At times there is some intermittent smaller amplitude spike waves that appear more consistent with benign epilepsy epileptiform transients of sleep.  
+Focal slowing seen at F7/T3 at times becoming monomorphic and rhythmic at 2 Hz consistent with temporal intermittent rhythmic delta activity.  
+Focal slowing at F8/T4 seen intermittently at times shows a contour.  
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Right anterior temporal sharp waves. 
+Left anterior temporal intermittently rhythmic delta activity. 
+Bilateral anterior temporal focal slowing.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization related epilepsy with seizures possibly arising from either anterior temporal lobe.  In addition, there is evidence of focal cerebral dysfunction in the left and right anterior temporal region, which may be related to the prior trauma and hemorrhage as well as the cavernoma.  However, these findings are nonspecific in regards to etiology.  No seizures were seen.

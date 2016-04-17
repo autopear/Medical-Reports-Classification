@@ -1,0 +1,11 @@
+REASON FOR STUDY:  Seizure.
+MEDICATIONS:  Phenobarbital, Keppra, dexamethasone.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and a single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is an excessive amount of frontocentral beta.  The patient is recorded in wakefulness and sleep.  Activating procedures were not produced.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen frequently at T5 and at times more anteriorly at T3 and at F7 while awake and asleep.
+Focal slowing seen almost continuously at T5 at a frequency of 2-4 Hz and amplitude of 20-60 microvolts with an increase asymmetric amplitude compared to the right consistent with a bridged rhythm.
+SEIZURES:  None.
+HEART RATE:  90.
+IMPRESSION:  Abnormal EEG due to left posterotemporal sharp waves as well as some mid temporal, anterior temporal sharp waves in addition to continuous focal slowing over the left posterotemporal region.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of localization related epilepsy with seizures likely arising from the left posterior temporal region.  In addition, there is evidence of focal structural dysfunction and irritability of the left posterior temporal region, which is consistent with the known tumor resection.

@@ -1,0 +1,10 @@
+MEDICATIONS:  Insulin, Coreg, Protonix.
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode system with one anterior temporal and single lead EKG electrode.  The patient was recorded while awake and lethargic.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:   None
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 6-7 Hz and appears to be somewhat reactive to eye opening.  The patient is recorded while awake and no normal sleep architecture is seen.  Activating procedures are not performed.  During the recording, the EEG background is generally diffusely slow at a frequency of 2-4 Hz and am amplitude of 20-60 microvolts.  Intermittently when the patient awakes or is aroused, there is some increase in the frequency anywhere from 5-7 Hz range.  In between this intermixed while awake and unresponsive, there is intermixed theta seen diffusely throughout the recording.
+ABNORMAL DISCHARGES:  Generalized slow waves as stated above.
+SEIZURES:   None
+IMPRESSION:  Abnormal EEG due to:  
+Generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction which is nonspecific as to the etiology.  No seizures or epileptiform discharges were seen.

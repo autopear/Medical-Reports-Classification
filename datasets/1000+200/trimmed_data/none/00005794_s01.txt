@@ -1,0 +1,11 @@
+MEDICATIONS:  Dilantin
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient is recorded in wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal amount of frontal central beta.  Activating procedures included hyperventilation and photic stimulation and produced no abnormal discharges, although the hyperventilation did accentuate some focal slowing, see below.   
+ABNORMAL DISCHARGES:  Focal slowing seen intermittently at F8/T4 at times with a monomorphic rhythmic pattern consistent with temporal intermittent rhythmic delta activity (TIRDA).
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Right anterior temporal slowing.
+FIRDA.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right anterior temporal region, which is nonspecific in regards to etiology.  However, the finding of TIRDA has a high correlation with seizures arising from that region.  No seizures or clearly epileptiform discharges were seen.

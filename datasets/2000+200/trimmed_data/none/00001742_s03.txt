@@ -1,0 +1,11 @@
+MEDICATIONS:  Lamictal, Vancomycin, Ceftriaxone, Metronidazole, Zofran.
+REASON FOR STUDY:  Seizures and confusion.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single lead electrode.  The patient was recorded while lethargic.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow EEG with a posterior dominant rhythm that reaches, at best, 7 Hz.  It appears to be slightly reactive to eye opening.  There is no normal frontal central beta and the patient appears to show architecture typical for stage I and stage II sleep throughout the recording.  The patient is aroused on a couple of occasions, however, the EEG does not improve markedly in the frequencies.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:
+Generalized slow waves at 5-7 Hz with an amplitude of 20-60 mV.
+There is one transient sharp wave seen maximal at T4, only once in the recording.
+IMPRESSION:  Abnormal EEG due to: 
+1.  Generalized slow waves and a single T4 sharp wave.
+CLINICAL CORRELATION:  This EEG is consistent with diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  The one sharp wave seen throughout the recording suggests a possible focus of irritability in the right temporal region which could be seen in patient's with localization related epilepsy.  A repeat recording for a more prolonged period may elucidate a more clear diagnosis.  No seizures were seen.

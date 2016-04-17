@@ -1,0 +1,12 @@
+MEDICATIONS:  Zonisamide, primidone, benzodiazepines, narcotics.
+INTRODUCTION:  A long term EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode. The patient was recorded while unresponsive.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens with slow background with no posterior dominant rhythm or frontocentral beta.  There is no normal sleep architecture and no activating procedures were performed.  Overall, the background consists of low amplitude delta frequency slowing occurring continuously throughout the recording. 
+Abnormal discharges:
+Focal sharp waves seen almost continuously over the C4 and CZ while in wakefulness and sleep.  There is also some O2 sharp waves seen intermittently.  
+Focal slowing at C4 CZ at a frequency of 2-4 Hz and 20-60 microvolts seen continuously when in increased amplitude compared to the left consistent with a bridged rhythm.  
+Generalized slow waves at 2-4 Hz amplitude of 20-30 microvolts seen continuously throughout the recording. 
+Seizures:  The patient continued to have frequent seizures that appear to arise mainly at CZ4/C4 with crisp beta discharge that appears to increase in amplitude and slow down in frequency, mainly remaining over the right central frontal region.  At times there appears to be spread to the right occipital region and at times it appears to frankly originate from the right occipital region at O2.  Clinically, the patient appears to have mouth movements and eye movements.  The seizures were very frequent at the beginning of the recording and appeared to slow down towards the last hour of the recording.  At the beginning there appeared to be 2-3 seizures per hour and towards the end there appeared to be 1 seizure per hour seen in the recording.   
+Heart rate:  144.
+IMPRESSION:  Abnormal EEG due to multiple recurrent frequent seizures arising from the right central region and/or right occipital region, in addition to focal slowing and sharp waves from that region.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of status epilepticus with seizures arising from the right central region, in addition to the right occipital region.  In addition, there is evidence of focal structural dysfunction in areas that leaded from that same region.  These findings were reported to the primary team as they occurred.

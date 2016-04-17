@@ -1,0 +1,8 @@
+MEDICATIONS: Xanax, Valium, melatonin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is poorly responsive.  He experienced a seizure during the hook-up and had significant sweat artifact. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal and almost featureless with very slow delta.  The background is overall high amplitude and is recorded at a sensitivity of 20. There are occasional sharp waves identified in the frontal regions, which are high amplitude and may be seen independently or unilaterally and which demonstrate variable fields of spread into the temporal and central regions.  Many have triphasic morphology.  Stimulation of the patient does not significantly activate the record.  
+HR:  __ BPM. Check tech sheet
+	IMPRESSION: Abnormal EEG due to:
+Relatively severe, high amplitude generalized background slowing.
+Independent or bilateral frontal sharp waves with variable fields of spread into the frontal, temporal, and central regions. 
+CLINICAL CORRELATION: No seizures were recorded in this record.  This tracing supports a severe disorder of cerebral function, which has effected both gray and white matter. The sharp waves are supportive of an underlying epileptiform disorder, although no seizures were recorded.  Comparison with previous EEGs may be helpful to determine whether or not the background has deteriorated significantly. 

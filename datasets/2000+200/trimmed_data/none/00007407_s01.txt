@@ -1,0 +1,9 @@
+MEDICATIONS:  Keppra.
+REASON FOR EEG:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  EEG was recorded in wakefulness.  Photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9-10 Hz with an amplitude of 22-60 microvolts which is reactive to eye opening.  Normal frontocentral beta is seen.  The record is only performed in wakefulness and activating procedures with photic stimulation do not produce any abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake EEG.
+CLINICAL CORRELATION:   No seizures or epileptiform discharges were seen.

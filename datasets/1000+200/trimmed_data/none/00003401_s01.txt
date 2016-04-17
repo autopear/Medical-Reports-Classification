@@ -1,0 +1,13 @@
+MEDICATIONS:  Diovan, Zocor, Neurontin, Lamictal, Tegretol.
+INTRODUCTION:  Routine digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation was not possible.  Photic stimulation was completed.  Prominent right posterior craniotomy defect was noted.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG demonstrates a high amplitude pattern with an asymmetry between the 2 hemispheres.  A posterior dominant rhythm of 7 Hz, 70 microvolts is noted on the right, but is not present on the left.  The left hemisphere is a bit more featureless, lacking in faster frequency activity with some sharply contoured delta and sharply contoured delta maximum at T5 sometimes with an underlying T5 sharp wave or spike.  This can be identified in wakefulness.  In later sections of the record, there is some more rhythmic theta picked up in the left occipital region, not clearly reactive to eye opening  with left occipital sharp waves.  In addition, in relaxed wakefulness, right parietal, P4 sharp waves emerge as the patient's alpha rhythm disappears. 
+At the end of the record, as the patient drifts off to sleep, the right parietal sharp waves become more prominent.  In addition, there are additional spikes noted in sleep, including FP1, as well as some fast activity in the left frontal region.
+Photic stimulation did not elicit a driving response. 
+HEART RATE:  84 bpm.
+IMPRESSION:  This is an abnormal EEG due to.
+Marked background slowing.
+An asymmetry between the 2 hemispheres with more significant disruption of faster frequency activity in the left hemisphere relative to the right.
+Epileptiform activity identified from several localizations including T5-P4, left frontal.
+CLINICAL CORRELATE:  This EEG supports a localization related mechanism for epilepsy, although multiple different foci were identified.  In this individual with a right porencephalic cyst, there was a bit 
+more disruption of faster frequency activity on the left compared to the right and correlation with imaging may be of value.  No seizures were identified.
+__________________________

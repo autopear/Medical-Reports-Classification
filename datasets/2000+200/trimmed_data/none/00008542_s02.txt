@@ -1,0 +1,10 @@
+MEDICATIONS:  Naprosyn, Hydralazine, Topamax, Ceftriaxone, Tylenol, Seroquel, Keppra, Ativan was given previous to the EEG for agitation.
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  Digital video EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded while unresponsive.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to an absent posterior dominant rhythm and mild excessive beta seen throughout the recording.  There is no normal sleep architecture.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:  Generalized slow waves at 2 to 4 Hz, seen continuously at an amplitude of 20 to 50 microvolts. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalizes slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regard to etiology.  The excessive beta suggests the possibility of benzodiazepine affect.  No seizures or epileptiform discharges were seen.

@@ -1,0 +1,13 @@
+MEDICATIONS:  Keppra, Xanax, Ipratropium, Albuterol, Budesonide, Lovenox.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures, including photic stimulation, were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 7 Hz.  The patient is recorded in wakefulness and sleep with some abnormal architecture seen, stage I and stage II. Activating procedures, including photic stimulation, revealed no abnormal discharges.  There is a lack of normal frontal central beta in the recording. 
+ABNORMAL DISCHARGES:
+Focal slowing seen in the left hemisphere maximal at C3 and a low amplitude over the whole hemisphere.  This is seen at 2-4 Hz at an amplitude of 20-40 mV. 
+Generalized slow waves at 5-7 Hz at an amplitude of 20-60 mV. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+1.  Focal slow waves seen in the left hemisphere, maximal in the central region. 
+2.  Generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction in the left hemisphere, maximally in the left central region, which is consistent with the known surgery.  In addition, there is evidence of diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were clearly seen.

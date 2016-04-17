@@ -1,0 +1,10 @@
+MEDICATIONS:  Lamictal, Fentanyl, Gabapentin, Prednisone, Fexofenadine, Ventolin, Lunesta, Pravastatin, Amlodipine, Fluticasone, Sumatriptan.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  Hyperventilation and photic stimulation are performed.  Wakefulness and sleep were recorded.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm of 9 hertz which is reactive to eye opening. Sleep stage I and stage II were seen. Activating procedures were photic stimulation and produced no abnormal discharges.
+ABNORMAL DISCHARGES:  Focal slow waves seen at T3/F7 frequently at 2-4 Hz and 20-60 microvolts. At times, it is sharply contoured, but not clearly epileptic.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Focal slow waves in the left anterior temporal region.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral in the left anterior temporal region, which is nonspecific in regards to etiology. No seizures or epileptiform discharges were seen.

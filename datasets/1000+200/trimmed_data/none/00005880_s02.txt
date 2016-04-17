@@ -1,0 +1,9 @@
+INTRODUCTION:  A routine EEG was performed using standard 10-20 electrode placement system with additional anterotemporal and single-lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation.
+MEDICATIONS:  Depakote
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens with a well-defined posterior dominant rhythm of 9 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges. During photic stimulation, there are at 19 and 21 Hz some 1.5 second bursts of frontal maximal sharply contoured theta. These discharges did not evolve but are suspicious for a fragmented photoparoxysmal response (PPR). The patient was recorded during wakefulness and drowsiness. 
+Abnormal discharges:  None. 
+Seizures:  None. 
+Heart rate:  102.
+IMPRESSION:  Normal awake and drowsy electroencephalogram.
+CLINICAL CORRELATION:  This is a normal awake and drowsy EEG.  No seizures or epileptiform discharges were seen. However, the discharges described above are suspicious for a PPR which can be seen in idiopathic generated epilepsy. Clinical correlation is recommended.

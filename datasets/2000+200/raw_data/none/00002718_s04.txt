@@ -1,0 +1,12 @@
+CLINICAL HISTORY:   72 year old right handed woman with dementia, admitted with encephalopathy.
+MEDICATIONS:  Dilantin, Ativan, Risperdal, Lovenox, Benadryl, Cogentin
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  This is an awake and asleep record with photic stimulation.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  It is poorly organized.  There are shifting asymmetries observed.  Intermittent attenuation of the background is noted.  At some points, the attenuation may be more prolonged on the right or the left.  There are asymmetries in the degree of fast activity in right or left frontal regions.  Features of sleep include vertex waves.  Photic stimulation does not activate the record.  
+HR:    84 bpm
+IMPRESSION:  Abnormal EEG due to:
+Marked background slowing and disorganization.  
+Prominent shifting/slowing.  
+Intermittent attenuation.
+CLINICAL CORRELATION:  This EEG supports a severe disturbance of cerebral function affecting gray and white matter.  Contributing factors can include a significant, chronic encephalopathy or a significant acute metabolic process.  No seizures were recorded.  There were no epileptiform features.
+
+

@@ -1,0 +1,8 @@
+MEDICATIONS: Keppra, Vancomycin, Lovenox, Cefepime, Pantoprazole, Gentamicin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG. The patient is extremely restless during the EEG. 
+DESCRIPTION OF THE RECORD: Despite the muscle and movement artifact, there is primarily a theta frequency background. In the posterior regions, there is a bit more slower theta. There is a suggestion of greater arrhythmic delta activity in the right frontal central region. As the recording continues, the patient permits a cloth over his eyes and gradually relaxes. Again, primarily a theta frequency pattern is noted, but the activity is slower with a bit more arrhythmic delta activity in the right hemisphere. A breach rhythm is noted in the frontocentral regions. 
+HR: 104 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Generalized background slowing. 
+2. Superimposed focal slowing with slowing of the theta frequency on the right and a bit more frontocentral delta. 
+CLINICAL CORRELATION: No seizures were seen. Epileptiform activity may have been underestimated because of movement artifact. The focal slowing is in the region of his previous surgery. A breach is an anticipated finding following craniotomy. 

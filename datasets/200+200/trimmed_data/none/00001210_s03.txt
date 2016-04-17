@@ -1,0 +1,11 @@
+MEDICATIONS:  Topamax, Zolpidem, Percocet, Citalopram, Keppra, Gabapentin
+REASON FOR STUDY:  Blacking out.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 system of electrode placement with additional anterior temporal and single EKG electrode.  The patient was recorded while awake.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  The patient has frequent myogenic artifact of the temporalis muscles on both temporal lobes.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9-10 Hz, which is reactive to eye opening.  There is frontal central beta.  Activating procedures, including photic stimulation produced no abnormal discharges.  The patient was only recorded in wakefulness. 
+ABNORMAL DISCHARGES:  Focal slow waves seen continuously over both temporal lobes, slightly more over the right temporal lobe than the left at T4 more than T3, at a frequency of 2-4 Hz, with an amplitude of 20-60 mV.  In that same area there is an increase of larger amplitude and faster frequencies seen bilaterally consistent with a breech rhythm.  At times there is some sharply contoured wave forms in this region, but not clearly epileptiform.  However, the limited quality of the EEG due to the muscle artifact sometimes obscures clear identification of these waves forms. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Independent bilateral temporal continuous slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural cerebral dysfunction in both mid temporal regions, which is consistent with the known trauma  and hemorrhage.  No seizures or epileptiform discharges were clearly seen.   
+This patient had a previous EEG on April 19, 2012 which showed focal slow waves at T4/C4 and some generalized slowing, which is slightly different than the EEG today.  A previous EEG on March 22, 2012 had shown generalized slowing and some more slowing on the left hemisphere than the right.

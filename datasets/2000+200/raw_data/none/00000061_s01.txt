@@ -1,0 +1,12 @@
+CLINICAL HISTORY: 48 year old right handed woman, with intracranial hemorrhage, cerebral hemorrhage, and dizziness.
+MEDICATIONS:  Decadron, Morphine, Flexeril, Labetalol, Hydralazine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  In wakefulness there is a symmetric 10 reactive Hz alpha rhythm with a small amount of low voltage, frontal central beta activity.  The waking background is well organized.  As the patient becomes drowsy, there is an increase in background slowing, particularly in the posterior regions.  In this sharply contoured background, there are underlying sharp waves in the right central temporal region.  There is prominent wicket noted.  The sharp waves occur in a sharply contoured background.  They occur when the patient transitions towards more of a relaxed wakefulness state.  As she drifts off to sleep there is subtle slowing in the posterior regions, a bit more so on the right compared to the left.  Vertex waves are noted in sleep.  Some of these are a bit asymmetric, better developed on the left. 
+HR:   72 bpm
+IMPRESSION:  Abnormal EEG due to:
+Unusual, right mid temporal to posterior temporal or central temporal periodic sharp waves which were actually picked up in relaxed wakefulness, but not in deeper stages of sleep. 
+Subtle asymmetries with a bit of disruption of faster frequency activity and a bit of delta seen occasionally from the right.
+A handful of bilaterally predominantly, almost a posterior triphasic-like wave.
+CLINICAL CORRELATION:  These findings may be correlated with imaging.  The right posterior temporal sharp waves support a focal mechanism or seizures.  The posteriorly predominant triphasic wave appearing discharge may represent a pled-like phenomenon or a metabolic phenomenon.  No seizures were recorded.  The overall background is very well organized.
+
+

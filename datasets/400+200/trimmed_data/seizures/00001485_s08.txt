@@ -1,0 +1,14 @@
+MEDICATIONS:  Ativan, Keppra, Dilantin
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  Continuous digital video long-term EEG for 24 hours was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  Continuous spike and seizure detection software was used to review the EEG as well as noted patient event and nurses' reports.  The patient was recorded in wakefulness and sleep.
+TECHNICAL DIFFICULTIES:  Some movement artifact and electrode artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that, at best, reaches 6 Hz, which appears to sometimes be reactive to eye opening.  There is some frontocentral beta seen .  The patient is recorded in wakefulness and some stage changes with sleep are seen.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:
+Focal sharp waves seen frequently at F7/T1 frequently.
+Focal slow waves are seen at F7/T1 almost continuously throughout the recording at 2 to 4 Hz with an amplitude of 20 to 60 microvolts. 
+SEIZURES:  Throughout the recording, there appear to be intermittent episodes where the focal sharp waves at F7/T1 become rhythmic and increase in amplitude and evolving frequency for minutes.  
+During the recording there does not appear to be a clear correlate to these episodes, although at times appears to be some chewing artifact.  It is likely that these are multiple electrographic seizures occurring frequently throughout the recording.
+IMPRESSION:  Abnormal EEG due to: 
+Multiple frequent left anterior temporal electrographic seizures and sharp waves. 
+Focal slow waves in the left anterior temporal region.
+CLINICAL CORRELATION:  This EEG reveals multiple frequent electrographic seizures arising from the left anterior temporal region with additional evidence of focal cerebral dysfunction and irritability in that same region.  These findings were communicated to the team.

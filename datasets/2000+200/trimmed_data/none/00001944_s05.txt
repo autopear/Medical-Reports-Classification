@@ -1,0 +1,12 @@
+MEDICATIONS:  Topamax, Lamictal and Tegretol.
+REASON FOR STUDY:  Seizures, classifications of seizures.
+INTRODUCTION OF LONG-TERM:  Digital video EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  No activating procedures were performed.  Continued spike detection software as well as seizure detection software was used in addition to patient's alarm events and nurses notes to review the EEG.
+TECHNICAL DIFFICULTIES:  None 
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that at best reaches 9 Hz which appears to be somewhat reactive to eye opening.  The patient was recorded in wakefulness, stage 1, stage 2 and stage 3 sleep.  Activating procedure was not performed.  There is some frontocentral beta seen.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen intermittently and at times rhythmic F7/T3 and F8/T4, much more on the left than on the right.  
+Focal slowing seen intermittently in the prefrontal region, maximal at FP1-FP2, at times in runs and sometimes very sharply contoured.  
+Focal slow waves seen rhythmically at times at F7/T3 and intermittently at F8/T4 at a frequency of 2-4 Hz and amplitude of 20-60 microvolts.
+SEIZURES:  None seen during the entire recording.
+IMPRESSION:  This 4 day EEG reveals bilateral left more than right anterior temporal sharp waves as well as slow waves with some intermittent frontal slowing at times sharply contoured.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of localization-related epilepsy with seizures possibly arising from either anterior temporal region.  In addition, there is evidence of focal structural dysfunction in the bilateral anterior temporal regions and frontal lobes, which is nonspecific with regards to etiology. No seizures were captured during this session.

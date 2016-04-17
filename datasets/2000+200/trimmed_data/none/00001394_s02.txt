@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep, stage I.  Activating procedures, including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9-10 Hz, which is reactive to eye opening.  The patient has a normal amount of frontal central beta.  Activating procedures produce no abnormal discharges.  The patient is recorded during wakefulness and stage I sleep.   
+ABNORMAL DISCHARGES:  Focal slow waves seen intermittently at F7/T3 at a frequency of 2-4 Hz and an amplitude of 20-60 mV.  At times this slowing is slightly arrhythmic and periodic.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Right anterior temporal focal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right anterior temporal region, which is nonspecific in regards to etiology.  No seizure or epileptiform discharges were seen.

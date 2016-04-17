@@ -1,0 +1,14 @@
+CLINICAL HISTORY:  61 year old right handed female with episodes of staring spells for 5 minutes to 20 minutes, increasing in frequency, occurring for the past 2 years.
+MEDICATIONS:  Keppra, Xanax, Vimpat, Plavix, Zocor, Boniva.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background in the theta frequency at 5 to 7 Hz, seen continuously throughout the recording.  There appears to be a rhythmic discharge that is maximally negative over the right hemisphere F4.  This rhythmic pattern appears to wax and wane in frequency, but does not clearly evolve.  The patient does not complain of any symptoms during this continuous pattern and remains awake during the entire EEG.  Throughout the rhythm, there is still some intermittent central beta that can be seen over the left hemisphere.  No normal sleep architecture can be seen.  Photic stimulation produces no abnormal discharges. 
+ABNORMAL DISCHARGES:  
+Generalized slow waves seen continuously at 5 to 7 Hz throughout the entire recording a focal sharply contoured rhythmic theta that waxes and wanes, maximally at F4 and seen maximally over the right hemisphere.
+SEIZURES:   None
+IMPRESSION:  Abnormal EEG due to: 
+Generalized theta with a prominent rhythmic pattern which waxes and wanes. In frequency with a maximal negativity in the right frontal region, concerning for an epileptic nature to this pattern.
+CLINICAL CORRELATION:  The EEG reveals a pattern consistent with a diffuse encephalopathy; however, the rhythmicity and waxing and waning pattern seen with some focality at F4 in the right frontal region suggests the possibility of this being an epileptic pattern.  Further recording and treatment with Ativan may help in elucidating the underlying etiology of this pattern.
+
+

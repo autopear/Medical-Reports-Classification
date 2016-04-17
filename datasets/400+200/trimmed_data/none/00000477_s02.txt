@@ -1,0 +1,8 @@
+MEDICATIONS:  Lamictal, Keppra.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9 to 10 Hz, which is reactive to eye opening.  There is an excessive amount of beta seen diffusely throughout the recording.  The patient is recorded in wakefulness and sleep, stage II.  Activating procedures including hyperventilation and photic stimulation produce no abnormal discharges. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:   No seizures or epileptiform discharges are seen.  Please note that excessive beta may be due to medication affect, seen sometimes with benzodiazepines or barbiturates.

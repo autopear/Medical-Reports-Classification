@@ -1,0 +1,14 @@
+MEDICATIONS:  Keppra, Tylenol, Lovenox, Dilantin, Depakote and phenobarbital.
+INTRODUCTION:  
+A long term EEG was performed using a standard 10/20 electrode placement system with anterior temporal and single lead EKG electrode. The patient was recorded during wakefulness and sleep. Activating procedures were not performed. Continuous spike detection as well as seizure detection software, as well as nurse's notes and patient's events were used to review the EEG.
+DESCRIPTION OF THE RECORD:  
+The record overall has a right posterior dominant rhythm that can be seen over the right hemisphere that reaches 8.5 Hz, but not over the left hemisphere. There is normal beta over the right hemisphere only. Patient appears to go into different stages of sleep, but no normal sleep architecture is clearly observed. No activating procedures were performed.
+ABNORMAL DISCHARGES:  
+Focal slow waves are seen continuously over the left hemisphere, maximal at T3. These can become very monomorphic and rhythmic with at times an overlying frontal theta that is very sharply contoured and appearing in bursts of one second, occurring intermittently. Overall, this pattern seems to improve by the later hours of the recording and it appears to be less monomorphic and none of that frontal theta is seen. There is some intermittent faster frequency seen at the end of the recording.
+SEIZURES:  
+The patient had three seizures during the recording. The first occurred at 8:44 p.m., the second one occurred at 10:30 p.m., and the last one occurred at 1:13 in the morning. Although the video was not clear on all of them, the patient first appears to turn his head to the right, with his eyes twitching in a nystagmoid fashion with a faster component towards the right, and this movement of the head is clearly versive. This is followed by right arm extension and left arm flexion and the sign of four, while afterwards generalizing and having clonic movements. The seizures usually last a minute and 40 seconds to two minutes. During all three seizures, the onset of the seizure in the EEG is not clear, as it rapidly obscured by muscle artifact, but during the seizure there appears to be some left prefrontal sharp waves seen.
+IMPRESSION:  
+Abnormal EEG due to three secondary generalized seizures, likely arising from the left frontal region based on semiology, in addition to left hemispheric continuous focal slowing
+CLINICAL CORRELATION:  
+This EEG is consistent with a diagnosis of localization related epilepsy, now with status epilepticus with multiple seizures arising from the left hemisphere, likely frontal region, based on semiology. In addition to revealing evidence of focal cerebral dysfunction in the left hemisphere, maximal in the
+temporal region which is consistent with a known injury. These findings were all reported to the primary team as they occurred.

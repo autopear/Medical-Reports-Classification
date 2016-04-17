@@ -1,0 +1,9 @@
+DESCRIPTION OF THE RECORD: Much of this 24-hour section of the EEG is remarkable for some artifacts most prominently noted in the afternoon and early evening hours of the 3rd.  Consequently, much of the awake record available for review is wakefulness.  There is a symmetric, reactive 10 Hz alpha rhythm.  There is an intrahemispheric asymmetry most remarkable in the temporal regions, most remarkable in the earlier portions of the record and decreasing as time goes on.  Drowsiness is characterized by rhythmic background slowing.  Prominent eye artifact can be picked up in the right or left temporal regions in wakefulness.  There is little good quality sleep demonstrated in this section of the record.  
+HR:  72 BPM.
+	OVERALL IMPRESSION: EEG monitoring for this patient was remarkable for:
+	Technical limitations including lack of data or lack of electrode integrity.
+	Subtle focal slowing and attenuation of faster frequency activity. 
+	Rare right temporal sharp waves seen most prominently in the early portions of the record. 
+CLINICAL CORRELATION: This EEG supports a localization-related mechanism for epilepsy.  Of note, no seizures were reported by the patient and none were identified by the technologist. 
+
+

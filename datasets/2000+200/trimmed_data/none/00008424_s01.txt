@@ -1,0 +1,12 @@
+MEDICATIONS:  None listed
+REASON FOR STUDY:  Seizures and change in mental status.
+INTRODUCTION:  Digital video routine EEG was performed using a standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded while awake and drowsy.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record reveals at times during short wakefulness a posterior dominant rhythm that reaches 9 Hz.  It appears to be somewhat reactive to eye opening.  The majority of the record is composed of diffuse delta activity with intermixed superimposed beta activity.  At times this delta activity, which is seen maximally bifrontally, is rhythmic and monomorphic in nature consistent with frontal intermittent rhythmic delta activity (FIRDA).  During the recording this activity waxes and wanes and does not really evolve or stop.  During some of this activity the patient is moving his legs and is agitated, and at times he is just sleeping and snoring.  No normal sleep architecture is seen.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:  Generalized slow waves at 2-4 Hz, as well as FIRDA.
+SEIZURES:   None
+IMPRESSION:  Abnormal EEG due to: 
+Mild to moderate generalized slow waves. 
+FIRDA.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild to moderate diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures or 
+epileptiform discharges were seen.  The excessive beta seen throughout the recording suggests that this encephalopathy may be at least in part due to medication effect.

@@ -1,0 +1,10 @@
+MEDICATIONS:  Versed, Dilantin.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded awake and asleep.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 8 Hz, which appears to be reactive to eye opening.  There is limited wakefulness, but during wakefulness there is also what appears to be some normal beta.  The patient is recorded mainly in sleep, stage I and stage II.  Activating procedures were not performed. 
+ABNORMAL DISCHARGES:  Mild excessive theta in wakefulness at 5-7 Hz with an amplitude of 20-60 mV.  Note:  Wakefulness is very limited during the recording. 
+SEIZURES:   None.
+IMPRESSION:  Abnormal EEG due to: 
+Mild excessive theta in wakefulness.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.

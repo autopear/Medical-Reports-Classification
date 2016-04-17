@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 14-month-old male born with “blood on the brain.”  History is not clear. 
+MEDICATIONS: Unknown.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. The infant is irritable, and the technologist is having difficulty communicating with the mother during the test.   
+DESCRIPTION OF THE RECORD: The initial portions of the record, as the technologist achieves a good quality record, demonstrates an asymmetry.  The background from the left hemisphere is well organized with a definable posterior dominant rhythm of 6 to 7 Hz.  As the recording continues, the child starts to cry and there is muscle and movement artifact, however, the activity from the right hemisphere is clearly abnormal with arrhythmic delta activity and a high amplitude spike and slow wave complex identified from the right hemisphere, at times maximum in the central and parietal regions.  As the recording continues, this activity is picked up in the right hemisphere with a generous field of spread including right centrotemporal. In addition, there are occasional sharp waves noted from the left hemisphere, but the vast majority of the epileptiform activity is T4 or C4, at times even lateral to C4.  Additional sleep recording identifies some epileptiform activity at FP2 with some poly spike and slow wave activity.  As the child transitions to stage II sleep with vertex waves and spindles, the epileptiform activity persists and there are other foci identified in both the posterior temporal regions and anterior temporal regions.  As the child remains in stage II sleep, the epileptiform activity becomes somewhat reduced and is often in the centroparietal or temporal regions.  
+HR:  116 BPM.
+	IMPRESSION: Abnormal EEG for an infant of this age due to:
+	Arrhythmic delta from the right hemisphere.
+	Epileptiform activity seen primarily from the right hemisphere particularly in the central and temporal regions, but with more than one area of epileptogenic activity from the right hemisphere in sleep.  
+CLINICAL CORRELATION: These findings may be correlated with imaging.  Of note, the epileptiform activity in sleep was very high amplitude and there was an element of poly spike activity.  No seizures were recorded.  
+
+

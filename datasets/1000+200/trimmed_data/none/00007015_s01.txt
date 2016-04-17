@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilaudid, Keppra, Insulin, Labetalol, Sulfa, Reglan, Protonix, Metoprolol, Sevelamer, Heparin.
+REASON FOR STUDY:  Rule out seizure.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 to 10 Hz with an amplitude of 20 to 60 microvolts which is reactive to eye opening.  No photic stimulation was performed.  The patient was recorded in wakefulness and sleep, stage I. 
+ABNORMAL DISCHARGES:   None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:   No seizures or epileptiform discharges are seen.

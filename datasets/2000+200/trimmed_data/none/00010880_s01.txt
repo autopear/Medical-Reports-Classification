@@ -1,0 +1,9 @@
+MEDICATIONS: “Cartrol.”
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is markedly abnormal, lacking the normal developmental milestones for a child of this age.  It is primarily lower voltage rhythmic mixed theta with smaller amounts of delta.  There are prominent, bilateral frontal sharp and slow wave or spike and slow wave complexes, typically at a frequency of 2.5 Hz, occasionally faster.   Some of them are almost triphasic or periodic in nature.  Many are more prominent from the left, but are seen independently from the right.  The epileptiform activity is often high amplitude, greater than 200 uV.  In addition, there is intermittent, generalized attenuation seen in the waking background with an electrodecremental or attenuation response lasting up to three seconds.  There is some poly spike and wave activity.  
+HR:  114 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Replacement of normal background with a slow, at times almost featureless pattern.
+	Very high amplitude epileptiform activity typically with frontal sharp and slow wave or spike and slow wave activity or bilateral spike and slow wave activity.
+	Independent right or left frontal sharp waves and lower voltage right frontal sharp waves.
+CLINICAL CORRELATION: This EEG supports a severe disturbance of cerebral function.  The slow spike and wave activity described above is a hallmark of early developmental epilepsy typically seen with diffuse brain injury.  No seizures were recorded.  In comparison to a previous EEG in December 1998, the epileptiform activity is more typically anterior in this record.   In the December 10, 1998 EEG, there was background slowing and disorganization, as well as the posteriotemporal sharp waves.  

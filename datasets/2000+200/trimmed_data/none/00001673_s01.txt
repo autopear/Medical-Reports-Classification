@@ -1,0 +1,8 @@
+MEDICATIONS:  Dilantin and Depakote.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a nicely formed posterior dominant rhythm at 9-10 Hz which is reactive to eye opening.  There is a normal amount of frontocentral beta.  The patient is recorded during wakefulness and stage I sleep.  Activating procedures produced no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

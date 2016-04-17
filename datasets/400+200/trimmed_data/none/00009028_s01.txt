@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin……….
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is drowsy but arousable and able to answer questions appropriately.  
+DESCRIPTION OF THE RECORD: The vast majority of the EEG demonstrates diffuse background beta in a drowsy individual.  In addition, with the background beta, there is an asymmetry with disruption of beta frequency activity from the right frontal region and occasional right frontal sharp and slow wave complexes. These may be seen at F4 or FP2 and also involve F8.  Stage II sleep is achieved with vertex waves, spindles, and again the subtle asymmetry in the frontal regions on the right.  
+At the close of the record, the patient is awake.  As the patient wakes up, a posterior dominant rhythm is identified, which is present bilaterally.  It is actually higher amplitude and slightly more vigorous on the left and is approximately 10.5 Hz, 70 V. 
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Right frontal/frontotemporal focal slowing.
+Right frontal/frontotemporal sharp waves. 
+CLINICAL CORRELATION: The epileptiform activity and the focal features are in the region of this patient’s structural abnormality.   No seizures were recorded.  

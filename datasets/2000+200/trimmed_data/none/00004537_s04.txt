@@ -1,0 +1,13 @@
+MEDICATIONS:  Vecuronium, Ativan, Versed, Amiodarone, Keppra, Trileptal.
+INTRODUCTION:  Digital video long-term EEG was performed for 15 hours at bedside using standard 10-20 electrode placement system and additional single-lead EKG electrode and anterior temporal electrodes.  The EEG was reviewed using continuous spike wave detection software as well as seizure detection software, push alarm events and nurses' notes.  The patient was unresponsive during the recording and no activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffuse slow background which is mainly in the 2-4 Hz with a low amplitude of 20-40 microvolts seen continuously throughout the recording.  There is no normal posterior dominant rhythm and no normal frontocentral beta.  There is normal sleep architecture seen.  Intermittently throughout the recording, there is some frontally predominantly alpha burst intermixed with diffuse bursts of attenuation that may last up to 3 seconds.  In addition, at times there is multifocal muscle artifact seen throughout the recording at times more on the left than the right which upon reviewing the video seems to be elicited by stimulation.  There are no epileptiform discharges seen during this muscle artifact.
+ABNORMAL DISCHARGES:  
+Generalized slow waves and periods of burst suppression.  
+Stimulus-induced muscle artifact, likely myoclonus, however, not clearly seen on video.
+SEIZURES:    None
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific in regards to etiology, but may be seen partly due to bilateral white matter lesions, toxic metabolic encephalopathies and/or likely due in part to medication effect.
+  
+Please note again that there is muscle artifact seen induced by stimulation in the EEG, but there is no clear EEG correlate or epileptiform activity along with this muscle artifact.

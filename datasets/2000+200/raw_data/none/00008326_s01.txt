@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  65 year old male with delirium following endoscopy and gallbladder biopsy 2 weeks ago.  Patient demonstrates psychomotor slowing.  MRI demonstrates acute right cerebellar and left MCA infarct.
+MEDICATIONS:  Atorvastatin, ASA, Pantoprazole
+INTRODUCTION:  Digital video EEG was performed at bedside on the floor using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a diffusely pattern with a mixture of theta-delta.  When the patient is unstimulated, there is a theta and alpha frequency pattern.  The patient is quite restless and much of the EEG includes some muscle artifact.  There is a bit of sharply contoured slowing in the right central temporal region in relaxed wakefulness. 
+HR:    78 bpm
+IMPRESSION:  Abnormal EEG due to:
+Generalized background slowing.
+Shifting slowing.
+CLINICAL CORRELATION:  No seizures were recorded.  There was a bit of sharply contoured slowing which may be correlated with imaging.  No subclinical seizures were identified.
+
+

@@ -1,0 +1,9 @@
+MEDICATIONS:  None.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video long-term EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed.  Continuous spike detection software as well as seizure detection software as well as patient's alarm events and nurse's notes were used to review the EEG.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record has a posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  There is normal sleep architecture, stage 1, stage 2 and deep stage sleep as well as REM.  The patient did not perform any activating procedures.
+ABNORMAL DISCHARGES:  None.
+SEIZURES OR EPISODE CAPTURE PATIENT'S EVENTS:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were capture.  No evidence had been noted on day 3 of recording.

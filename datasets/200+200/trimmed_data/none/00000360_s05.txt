@@ -1,0 +1,10 @@
+MEDICATIONS:  Zonisamide, Dilantin and Tegretol.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video long-term EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.  Continuous spike detection software as well as seizure detection software as well as nursing notes, patient events pushbutton alarms were used to review the EEG.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm of 9-10 Hz which is reactive to eye opening.  There is a normal amount of frontocentral beta.  Activating procedures were not performed.  The patient was recorded in wakefulness, stage 1 and stage 2 and deeper stages of sleep.
+ABNORMAL DISCHARGES:  Focal sharp waves seen at F7/T3.  At times these have markedly frontal field and at times they have a very small amplitude and a spiky morphology.  They are mainly seen in sleep.  In addition, there are some F8/T4 sharp waves seen occasionally.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Frequent left anterior temporal sharp waves and occasional right anterior temporal sharp waves.
+CLINICAL CORRELATION:  

@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  61 year-old with malignant right MCA stroke, status post craniotomy for edema and midline shift in May 2007 followed by cranioplasty. Now patient with confusion, fever and infection, evaluate for subclinical status epilepticus.
+MEDICATIONS:  Lopressor, Keppra, Vancomycin, Fluconazole, Enalarpril, Amlodipine, Meropenem, Esomeprazole, Heprin, Zofran
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation was not possible, but photic stimulation was performed. The patient is somnolent. The right craniotomy was observed.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates  an interhemispheric asymmetry. The activity from the right is relatively suppressed with low voltage, featureless delta and smaller amounts of theta. The left hemisphere demonstrates a more variable pattern, at times with rhythmic theta, at times with arrhythmic delta. Spontaneous eye opening is observed. Features of apparent change
+in state include a decrease in rolling eye movements. Photic stimulation elicits an arousable response but no driving response.
+HR:  78 bpm, irregular
+IMPRESSION:  Abnormal EEG due to
+	1. 	Markedly slow background, suppressed on the right.
+	2. 	Slow background from the left with a mixture of theta and some delta.
+CLINICAL CORRELATION: No seizures were recorded. This EEG supports his severe, underlying encephalopathy involving gray and white matter. No seizures were recorded.
+
+

@@ -1,0 +1,10 @@
+MEDICATIONS:  Protonix, Keppra, Zocor.
+REASON FOR STUDY:  Intermittent neurologic symptoms.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with an additional temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior rhythm that at best reaches 9-10 Hz which is reactive to eye opening.  There is some frontal central beta.  The patient goes into stage I and stage II sleep.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:  Focal slowing seen at F7/T3 at times much more frequently than F8/T4 at 2-4 Hz with an amplitude of 20-60 mV. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Bilateral independent anterior temporal (left more than right) slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of independent bilateral anterior temporal (left more than right) focal cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were clearly seen.

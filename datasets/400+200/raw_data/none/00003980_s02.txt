@@ -1,0 +1,14 @@
+`
+
+
+CLINICAL HISTORY:  32 year old right handed female with a history of seizures since she was 22 which have increased to once a week, usually while asleep.
+MEDICATIONS:  Topiramate
+REASON FOR THE STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens a well-defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening with an amplitude of about 20-40 microvolts.  There is a diffuse amount of beta seen throughout the recording.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.  The patient was recorded in wakefulness and drowsiness.
+ABNORMAL DISCHARGES:  None.
+IMPRESSION:  Normal awake and drowsy EEG.
+CLINICAL CORRELATION:   No seizures or epileptiform discharges were seen.
+
+

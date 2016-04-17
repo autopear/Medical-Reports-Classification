@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  54 year old right handed female with a history of seizure onset in 1996, last seizure was in October 2011 described as eyes rolling back, generalized tonic clonic activity with urinary incontinence and loss of consciousness.  Duration was reported 2-5 minutes and with postictal confusion. Past medical history is significant for TIA, CVA, depression, and anxiety.
+MEDICATIONS:  Keppra, Xanax, Trazodone, Prilosec.
+INTRODUCTION:  Digital EEG was performed in lab using standard 10-20 system electrode placement at the bedside using 1 anterior temporal electrode and one EEG electrode.  Wakefulness and drowsiness was recorded.  Photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  This record opens to a well defined posterior dominant rhythm at 9-10 Hz with amplitude of 20-50 mV, which is reactive to eye opening.  There is a moderate amount of frontal central beta.  There is also an asymmetry of eye movements and muscular artifacts.  Drowsiness is characterized by vertex waves. Photic stimulation reveals no abnormal discharges. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and drowsy EEG.
+CLINICAL CORRELATION:  Asymmetry of eye movements and muscular artifact can be due to lack of correct measurement.  There was no seizure or epileptiform discharges recorded.  Note:  A normal EEG does not exclude the diagnosis of epilepsy.
+
+

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 51-year-old male who had a severe burn as part of a seizure-related injury, history of obstructive sleep apnea, refractory epilepsy, and hepatitis C.  Patient had a confusional spell last night compatible with a complex partial seizure. 
+MEDICATIONS: Keppra, Neurontin, Ambien, Claritin, Celebrex, and folate.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a 9 Hz posterior dominant rhythm.  There is excess background theta in the background and at times there is some shifting arrhythmic delta in the temporal regions.  In wakefulness through stage II sleep, there are occasional left temporal sharp and slow wave and spike and slow wave complexes.   In addition, there are rare right temporal sharp waves, but the left to right ratio is in the range of 10:1.  Hyperventilation is performed with good effort and does seem to accentuate some of the temporal slowing.  Vertex waves are seen in stage I sleep.  Vertex waves and spindles are seen in stage II sleep.  Photic stimulation does not activate the record.  
+HR:  84 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Left greater than right anteriotemporal spike and slow wave complexes. 
+Left greater than right temporal focal slowing. 
+CLINICAL CORRELATION: This EEG supports a localization-related mechanism for epilepsy.  No seizures were recorded, and no previous EEGs were identified. 
+
+

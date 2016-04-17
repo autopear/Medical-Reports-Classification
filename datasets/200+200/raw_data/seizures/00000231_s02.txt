@@ -1,0 +1,15 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  A 25-year-old man with a history of mental retardation, cerebral palsy, spastic quadriplegia, ventilator-dependent respiratory failure, seizure disorder, hypertension, dilated cardiomyopathy, hydrocephalus, and a history of encephalitis, now with recurrent seizures, rule out status.
+MEDICATIONS:  Narcotics, zonisamide, primidone, benzodiazepines.  Will add the rest later.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with an anterior temporal and single lead EKG electrode.  The patient was recorded while lethargic.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no posterior dominant rhythm or frontal central beta.  There is no normal sleep architecture.  No activating procedures were performed.  Overall the background is of low amplitude consistent with delta slowing at 2-4 Hz at an amplitude of less than 20 microvolts seen continuously.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen frequently at C44/F4 seen almost continuously throughout the recording.  
+Focal slow waves seen continuously at C44/F4 at a frequency of 2-4 Hz and an amplitude of 20-70 microvolts with additional asymmetric increased amplitude and faster frequencies consistent with a breach.
+SEIZURES:  Throughout the recording, there were about 6 seizures which appeared to have an electrographic onset, sometimes at O2 and at times at C4 beginning with high-frequency beta discharge that could again start on the occipital region or the central region and increase in frequency and then in amplitude, later to slow down in frequency but increase in amplitude and would spread either from the occipital region towards the central region at C4 or from the central region to the occipital region and continue to evolve.  They would last for about 1 minute to 2 minutes.  Clinically, the patient appears to open his eyes and roll his eyes towards the right and may have some twitching of his arm and mouth movements.  The tech did question him once and he remained unresponsive.
+HEART RATE:  120s between seizures and 134 while having a seizure.
+IMPRESSION:  Abnormal EEG due to recurrent seizures as well as right central focal slowing and sharp waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of status epilepticus with multiple seizures arising either from the right occipital or central region.  In addition, there is evidence of focal cerebral, structural cerebral dysfunction and irritability over the right central and frontal region.  These findings were discussed with the primary team as soon as the EEG was read.  Long-term EEG will be performed.
+
+

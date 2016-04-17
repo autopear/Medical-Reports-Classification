@@ -1,0 +1,22 @@
+MEDICATIONS: None 
+FOR Seizures. 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 electrode 
+placement system with anterior temporal electrodes and EKG electrodes. The recording was 
+performed during wakefulness and sleep. Activating procedures with hyperventilation and 
+photic stimulation were performed. 
+DESCRIPTION OF THE RECORD: The EEG opens up to a well-defined posterior dominant 
+rhythm of 9 Hz with a 20-60 microvolt amplitude. There was normal frontocentral beta seen. 
+Sleep is characterized by stage I. Activating procedures including photic stimulation and 
+hyperventilation produces no abnormal discharges. 
+ABNORMAL DISCHARGES: During the recording, there are multiple bursts of prominent 
+frontal sharply contoured theta that appears to be maximal at the frontal polar electrodes. It 
+does not appear to clearly evolve and it only occurs interburst with no clinical correlate seen on 
+video. The significance of these discharges is unclear. 
+TECHNICAL None. 
+SEIZURES: None. 
+IMPRESSION: Normal awake and asleep EEG
+This is a normal EEG, awake and asleep. The bursts of frontal 
+predominant theta may be related to state change, however, the sharp contours raise the 
+suspicion for a possible generalized abnormality. Further recording with deeper stages of sleep 
+may · identifying the etiology of this discharge. 
+ 

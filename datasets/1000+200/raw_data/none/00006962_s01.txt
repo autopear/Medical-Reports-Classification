@@ -1,0 +1,15 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  A 44-year-old woman presents with aphasia and left cortical stroke, and a past medical history of hyperlipidemia and hypertension.
+MEDICATIONS:  Protonix, Colace and potassium.
+INTRODUCTION:  A routine EEG was performed using standard 10-20 system of electrode placement with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and drowsiness.  Photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9-10 Hz, which is best seen over the right hemisphere.  There is frontal central beta, also best seen only over the right hemisphere.  Activating procedures including photic stimulation produce no abnormal discharges.  The patient is recorded in wakefulness and drowsiness.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen intermittently at F7/T3, in wakefulness and drowsiness. At times the sharp waves become rhythmic but do not clearly evolve. Ativan was given with no change in rhythimicity.
+Continuous focal slowing seen over the left hemisphere, maximal at F7/T3, and at times at T3 at a frequency of 2-4 Hz and an amplitude of 20-60 microvolts.
+SEIZURES:  None.
+HEART RATE:  72.
+IMPRESSION:  Abnormal EEG due to focal slowing and sharp waves over the left anterior temporal region.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction and irritability over the left hemisphere, maximal in the anterior temporal region, which is consistent with the known acute stroke.  No clear seizures were seen.
+
+

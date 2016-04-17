@@ -1,0 +1,11 @@
+CLINICAL HISTORY:   59-year-old right-handed male with right basal ganglia and parietal thalamic hemorrhage. GCS 14. Left hemiparesis.
+MEDICATIONS:
+INTRODUCTION:   Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Patient is awake.
+DESCRIPTION OF THE R ECORD:  In maximal wakefulness there is a 10 Hz alpha rhythm observed on the left. On rare occasions it is present on the right. There is a clear interhemispheric  asymmetry with disruption of faster frequency activity on the right, underlying arrhythmic delta activity, and intermittent bursts of rhythmic 2.5 to 4.5 Hz activity in the right central temporal region with right sharply contoured delta and a handful of sharp waves at T2/T4. Features of drowsiness included increase in background slowing. Stage 1 sleep is characterized by vertex waves.
+	HR: 	60 bpm
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Nearly continuous focal slowing from the right hemisphere characterized  by disruption of faster frequency and both arrhythmic and semi arrhythmic slowing.
+	2. 	Sharply  contoured delta and a handful of sharp waves from the right mid temporal region.
+CLINICAL CORRELATION:   This EEG supports a structural abnormality on the right involving gray and white matter which is potentially epileptiform in nature. No seizures were recorded.
+
+

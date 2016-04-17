@@ -1,0 +1,9 @@
+MEDICATIONS:  Dilantin.
+REASON FOR STUDY:  Syncopal
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm at 9-10 Hz which is reactive to eye opening.  There is intermittent rhythmic mid temporal theta activity of drowsiness throughout the recording.  The patient appears to go to stage I and II sleep. Activating procedures, including hyperventilation and photic stimulation produced no abnormal discharges. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and drowsy EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Note:  Absence of seizure or epileptiform discharges will not exclude the possibility of seizures.

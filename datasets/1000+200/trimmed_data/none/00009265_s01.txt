@@ -1,0 +1,18 @@
+REASON FOR STUDY:  Left arm shaking without change in mental status.
+MEDICATIONS:  Keppra, digoxin, baclofen, spironolactone, Neurontin, dexamethasone.
+INTRODUCTION:  A digital video EEG was performed at the bedside using the standard 10-20 system of electrode placement and one-channel EKG.  Wakefulness and sleep were captured.  Activation procedures were not performed.
+TECHNICAL DIFFICULTIES:  Intermittent F3 electrode artifact was noted.
+DESCRIPTION OF THE RECORD:  In wakefulness, the posterior dominant rhythm, at best, reaches a frequency of 8.5 Hz with an amplitude of 30 to 50 microvolts, briefly; however, there is excess theta noted throughout the recording.  No normal frontocentral beta activity was noted.   
+Stage I and stage II sleep was captured.   
+Hyperventilation and photic stimulation were not performed. 
+Abnormal discharges:  
+Continuous C4/T4 slowing in the 2 to 4 Hz frequency and 20 to 40 microvolt amplitude range with an additional increased amplitude and frequency which is indicative of breach in that region.
+Intermittent independent T3 slowing.
+Excess theta in wakefulness.  
+Seizures:  None. 
+Heart rate:  54 beats per minute.
+IMPRESSION:  This is an abnormal EEG due to:
+Continuous right centrotemporal slowing.
+Intermittent independent left mid-temporal slowing.
+Excess theta in wakefulness.
+CLINICAL CORRELATION:  This EEG is suggestive of focal cerebral dysfunction in the right central region, which is consistent with the patient's known history of tumor and surgery in that region.  In addition, there is focal cerebral dysfunction in the left midtemporal region, which is nonspecific in etiology.  There is also diffuse cerebral dysfunction due to theta range slowing in wakefulness, which is also nonspecific in etiology.  Clinical correlation is recommended.

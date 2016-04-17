@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Episode of right facial twitching.
+CLINICAL HISTORY:  The patient is a 78-year-old man with history of esophageal cancer status post stent, trach, left MCA stroke, COPD, hypertension, pneumonia, episodes of unresponsiveness, and right facial twitching for follow-up EEG.
+MEDICATIONS:  Keppra, Zosyn, aspirin, Coreg, lisinopril, Protonix, Humibid, prednisone, and Lovenox.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included photic stimulation.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9 Hz which is seen over the right hemisphere mainly.  Over the left hemisphere there is attenuation of faster frequencies and no normal frontocentral beta is also attenuated.  The patient is recorded during wakefulness and drowsiness.  Activating procedures included photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  Focal slowing attenuation seen over the left hemisphere maximal at C3 and at times at T3 at a frequency of 2-4Hz and amplitude of 20-40 microvolts.  This is seen continuously throughout the recording.
+SEIZURES:  None.
+HEART RATE:  66.
+IMPRESSION:  Abnormal EEG due to left hemispheric maximal central and temporal slowing in addition to attenuated faster frequencies and amplitudes.
+CLINICAL CORRELATION:  This EEG reveals evidence of cortical dysfunction over the left hemisphere in addition to white matter damage to the left central and mid-temporal region which is consistent with a story of left MCA stroke.  No seizures or epileptiform discharges were clearly seen.
+
+

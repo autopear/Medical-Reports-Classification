@@ -1,0 +1,15 @@
+MEDICATIONS: Cefepime, Nicardipine, Pantoprazole, Lorazepam, Norvasc, Labetalol, 
+Metoprolol, Lisinopril, Simiment 
+INTRODUCTION: Digital video EEG is performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. This is an awake record in an 
+individual who was restless. 
+DESCRIPTION OF THE RECORD: Background EEG is disorganized with primarily a 
+theta frequency pattern with shifting arrhythmic delta activity. There is a bit more 
+arrhythmic delta activity from the left temporal region with some sharply contoured delta 
+in that area. 
+IMPRESSION: Abnormal EEG due to: 
+1. Slow, disorganized pattern. 
+2. Occasional superimposed, sharply contoured delta from the left. 
+CLINICAL In this individual with a diagnosis of basal ganglia 
+hemorrhage, ventriculitis and multiple toxic and metabolic conditions, this EEG is more 
+compatible with a diffuse rather than a focal feature. No seizures were recorded. 

@@ -1,0 +1,16 @@
+CLINICAL HISTORY:  73 year old male with a stroke alert the same day versus seizures.  The patient had a fall the same day with a loss of consciousness.  Past medical history significant for seizures, CVA, hypertension and is status post aortic arch surgery.
+MEDICATIONS:  Atorvastatin, ASA, Clonidine, Metoprolol, Norvasc, Insulin, Protonix, Amiodarone, Diflucan, Heparin, Morphine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and sleep.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a very slow and disorganized background on both sides.  There is excessive slowing on the left side.  There is left-sided focal slowing with the maximum on P3 and PZ with sharply contoured wave on the P3.  The patient appears to go stage 1 sleep.  There was a loss of beta frequency on both sides, more on the left than the right.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  
+Slow disorganized background on both sides, more on the left than right. 
+Left-sided focal slowing with the maximum on P3 and PZ. 
+Sharply contoured wave on the P3 and PZ with the sharp waves on P3 and PZ.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:
+Disorganized background and focal slowing on the left side.
+Left-sided focal sharp waves at maximum on P3 and PZ with sharply contoured waves on the same side.
+CLINICAL CORRELATION:  No seizures were seen in the EEG.  Slow disorganized background, more on the left than the right can contribute to the underlying structural subcortical lesion.  Left-sided sharp waves and sharply contoured slowing on the left hemisphere suggest a focal mechanism for seizure.
+
+

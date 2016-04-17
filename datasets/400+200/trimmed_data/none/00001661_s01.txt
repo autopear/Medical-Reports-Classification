@@ -1,0 +1,8 @@
+	MEDICATIONS: 	Insulin, heparin, others.
+INTRODUCTION: Digital video EEG was performed at bedside in the reo using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were not possible.
+	DESCRIPTION  OF THE RECORD: 	Background EEG demonstrates a reasonably well organized pattern from the right with a low voltage 9 Hz alpha rhythm. The left hemisphere demonstrates a disruption of fast or frequency activity with at times rhythmic data from the left. The slowing from the left is maximum in temporal region, is at times rhythmical and sharply contoured, but does not evolve.
+	HR: 	80 BPM.
+	IMPRESSION: 	Abnormal EEG due to:
+1. Essentially continuous rhythmic slowing with theta and occasional delta from the left central temporal region.
+		2. 	Disruption of faster frequency activity on the left.
+CLINICAL CORRELATION:  No seizures were recorded. This EEG supports a structural or functional abnormality on the right, affecting gray and white matter and is congruent with the patient's imaging. Because of the rhythmicity of the slowing, additional observation may be necessary.

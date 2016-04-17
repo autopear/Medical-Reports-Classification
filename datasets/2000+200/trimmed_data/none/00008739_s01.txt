@@ -1,0 +1,9 @@
+MEDICATIONS:  Depakote, Gabapentin, Fioricet.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead electrode.  The patient was recorded during wakefulness, stage I, and stage II sleep.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal amount of frontal central beta.  Activating procedures, including hyperventilation and photic stimulation, produce no abnormal discharges.  The patient is recorded in wakefulness, stage I, and stage II sleep. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:    No seizures or epileptiform discharges were seen.

@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Ativan, Keppra, Lamictal 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. The patient is relatively somnolent. Photic simulation is performed. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a somewhat disorganized pattern. The patient is actually drowsy for much of the record and drifts in and out of stage II sleep. There is a bit of irregular slowing, asymmetric spindles in stage II sleep, more prominent on the left, and occasional right temporal sharp waves. Brief arousals are noted. Photic stimulation is performed while the patient is still somewhat sleepy, and there is primarily muscle artifact rather than driving. 
+HR: 66 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Background disorganization. 
+2. Right temporal sharp wave. 
+3. Beta asymmetry and occasional focal slowing. 
+CLINICAL CORRELATION: These findings have been previously described. No seizures were recorded. The background slowing may represent a postictalstate. 

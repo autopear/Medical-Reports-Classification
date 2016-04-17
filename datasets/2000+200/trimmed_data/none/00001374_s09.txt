@@ -1,0 +1,9 @@
+MEDICATIONS:  Lamictal, Neurontin, Phenergan, Ativan.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video long term video monitoring EEG was performed for 24 hours using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed.  Continuous spike detection software was used to review the EEG, along with seizure detection software, patient's alarms, and nurses noted events.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm at 9-10 Hz with normal frontal central beta.  No activating procedure were performed.  The patient was recorded in stage I, stage II, as well as sleep. 
+ABNORMAL DISCHARGES  None. 
+SEIZURES:  None. 
+EVENT:  The patient pressed the alarm on 3 occasions as a test, but no actual events occurred.
+IMPRESSION:  We will leave the impression and clinical correlation for the end of the recording as this is only day 1 of the long term monitoring recording.

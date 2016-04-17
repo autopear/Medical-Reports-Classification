@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 4-year-old, severely retarded female admitted with breakthrough seizures.  History of perinatal hypoxia.  
+MEDICATIONS: Phenobarb, Keppra, Klonopin, Topamax, and Primidone. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as restless. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: When the child is awake, the background EEG demonstrates a slow pattern with a mixture of delta and theta.  It is high amplitude and chaotic in nature.  In both wakefulness and drowsiness, there is a high amplitude spike and slow wave or sharp and slow wave complex from the right hemisphere, with a generous field of spread, but most prominent in the centroparietal and temporal regions.  There are occasional left frontotemporal sharp waves noted as well.  There is variability in the background with some portions richer in theta frequency activity and some portions richer in beta frequency activity.  As the child drifts off to sleep, there is an increase in background slowing.  The child is noted to have spontaneous movements of the left leg, and these spontaneous movements seem to generate clonus.  
+HR:  150 BPM.
+	IMPRESSION: Abnormal EEG for a child of this age due to:
+Absence of many of the normal developmental milestones in wakefulness for a child of this age. 
+High amplitude spike and slow wave complexes from the right hemisphere.
+Occasional sharp waves from the left.
+CLINICAL CORRELATION: No seizures were recorded.  No previous EEGs are available for comparison.  This EEG supports an irritative process involving both hemispheres.   
+
+

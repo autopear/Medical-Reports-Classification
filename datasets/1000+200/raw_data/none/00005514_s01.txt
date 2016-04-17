@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Arm shaking.
+CLINICAL HISTORY:  An 84-year-old man with bilateral cerebellar stroke and change in mental status.  Episodes questionable for seizures include head titubation and right arm shaking.
+MEDICATIONS:  None mentioned.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during unresponsiveness.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or normal frontocentral beta.  There appears to be some variability during the EEG and there is some intermittent frontocentral beta seen.  There appears to be a staged change with stimulation to the patient.  During the EEG the patient also appears to shake his head rhythmically for seconds with no clear abnormal EEG correlate.
+ABNORMAL DISCHARGES:  Generalized slow waves at 2-4 Hz, amplitude 20-40 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

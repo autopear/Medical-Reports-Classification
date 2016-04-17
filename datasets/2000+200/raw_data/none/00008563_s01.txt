@@ -1,0 +1,10 @@
+CLINICAL HISTORY:  A 53-year-old male with traumatic brain injury last year, plastic plate in his skull with multiple surgical scars in left frontal, central, and temporoparietal.  The patient reports no seizures but only mild headache.
+MEDICATIONS:  Keppra.
+INTRODUCTION:  Digital video EEG was performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation was not possible, but photic stimulation was completed.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with 10 Hz alpha rhythm and generous, low-voltage, frontocentral beta activity.  A breach rhythm is identified in wakefulness to sleep with accentuation of beta activity and even spindles from the left frontocentral region.  Vertex waves, K complexes, and spindles are noted in sleep. The patient transitions in and out of sleep, and there is rare, subtle focal slowing in the left frontocentral region and rare, focal slowing in the left frontocentral region noted in sleep.  This is characterized by some underlying mixed theta and delta. 
+Photic stimulation elicits a driving response again with an accentuation in the region of the breach.   
+Heart rate 72 BPM.
+IMPRESSION:  This is an abnormal EEG due to rare, subtle focal slowing in the left frontocentral region.
+CLINICAL CORRELATION:  The breach rhythm described above is an anticipated finding following head trauma.  The subtle focal slowing in the left frontocentral region is in the region of his previous head trauma.  No epileptiform features were identified.  There were no previous EEGs available for comparison.  The overall background was well organized with a normal alpha rhythm.  There were no epileptiform features were noted in this record.
+
+

@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizure.
+MEDICATIONS:  Topiramate, simvastatin, divalproex, Escitalopram, amlodipine.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and drowsiness.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 to 10 Hz which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded in wakefulness and drowsiness.   
+Activating procedures:  Photic stimulation produced no abnormal discharges.  Hyperventilation accentuates slowing over the right hemisphere, which will be discussed in the abnormal discharges section.   
+Heart rate 66. 
+Abnormal discharges:  
+Focal slow waves seen frequently over the right hemisphere, maximal at times at T6 and sometimes maximal more anteriorly at T4 and sometimes even at F8/T4, occurring at 2 to 4 Hz with an amplitude of 20 to 60 microvolts.  
+Rare focal slowing seen at T3 at 2 to 4 Hz with an amplitude of 20 to 60 microvolts. 
+Seizures:  None.
+IMPRESSION:  Abnormal EEG due to right hemispheric focal slowing, sometimes seen maximum posterior and sometimes more anterior regions of the temporal lobe, in addition to rare left mid-temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the right hemisphere maximal in the temporal region, which is nonspecific with regard to etiology but may be due to the patient's known stroke.  In addition, there is evidence of focal cerebral dysfunction in the left mid-temporal region, which is nonspecific with regard to etiology.  No seizures or epileptiform discharges were seen.

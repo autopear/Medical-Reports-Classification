@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  82 year old right handed female with a history of hypertension, a-fib, and TIA found slumping in the chair and drooling, unresponsive, in the ER had another event, blanked out for 1-2 minutes.  The patient has a UTI.
+MEDICATIONS:  Metoprolol, Insulin, Advair, Ceftriaxone, Amlodipine, Isosorbide, Keppra, Atorvastatin.
+REASON FOR STUDY:  Unresponsiveness.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with one anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep, stage I and stage II.  Activating procedures including photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  Some T4 electrical artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a mildly diffusely slow background with a posterior dominant rhythm that at best reaches 8 Hz which is reactive to eye opening.  There is some frontal central beta seen in the recording.  Activating procedures including photic stimulation produced no abnormal discharges.  The patient was recorded in stage I and stage II sleep.
+ABNORMAL DISCHARGES:  Generalized slowing at 5-7 Hz seen continuously throughout the recording with an amplitude of 20-60 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Mild generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

@@ -1,0 +1,8 @@
+MEDICATIONS:  Tylenol.
+REASON FOR STUDY:  Possible episodes of loss of consciousness.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 system of electrode placement with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation. 
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record reveals a posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  The patient is recorded in wakefulness and Stage I sleep.  Activating procedures produced no abnormal discharges. 
+ABNORMAL DISCHARGES:  None.
+IMPRESSION:  Normal wake and sleep EEG.
+CLINICAL CORRELATION: No seizures or epileptiform discharges were clearly seen.

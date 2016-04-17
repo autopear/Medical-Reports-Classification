@@ -1,0 +1,11 @@
+MEDICATIONS:  Zonisamide, Lamotrigine, Ibuprofen
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  The patient's vagal nerve stimulator produced some artifacts in the background.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is a 9 Hz posterior dominant rhythm.  There is a small amount of background theta.  Hyperventilation is performed early in the record, producing bursts of frontally predominant spike and wave activity ranging from 3.5 to 2.5 Hz in frequency.  In addition, some of the spikes seem to be slightly asymmetric, maximum in the left.  The spikes are high in amplitude.  
+During hyperventilation, these discharges range from 2.4 to 6 Hz and are associated with an after-going slow wave.  They are, generally speaking, frontal in predominance, symmetric with a polyspike component and may be high amplitude in nature.  Following hyperventilation, as the patient becomes drowsy the spike and wave complexes are noted again, some of which are 6 Hz polyspike but others a bit slower.  
+On occasion, they are simpler on the left and polyspike on the right. Photic stimulation may have accentuated the spike and wave activity; however, the spike and wave activity had been noted already in the background. 
+HR:    72 bpm
+IMPRESSION:  This EEG is remarkable for:
+1. Frontally predominant spike and wave activity and polyspike and wave activity.
+2. Shifting asymmetries in the polyspike and wave activity, perhaps on occasion a little bit more of a prominence on the left.
+3. Irregular spike and wave activity, some of which is slower than 3 Hz spike and wave.
+CLINICAL CORRELATION:  This EEG may represent a primary or secondary generalized focus.  In comparison to the previous study, this is a more symmetric study.  No seizures were recorded.  Testing was performed during the somewhat prolonged bursts of spike and wave activity, and the patient was consistently responsive.

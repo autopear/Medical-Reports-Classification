@@ -1,0 +1,11 @@
+CLINICAL HISTORY:  47 year old female with abdominal pain, found to have an MI and had PA code for approximately 40 minutes.  She has a past medical history of CAD, stents, GI bleed, now on ECMO with a temperature of 98.
+MEDICATIONS:  Norepinephrine, Epinephrine, Vancomycin, Vasopressor, Heparin.
+REASON FOR EEG:  Electric brain dead protocol.
+INTRODUCTION:  Digital video EEG was performed at bedside using the 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode, as well as single lead EMG electrode.  The patient was recorded while comatose and unresponsive.  No activating procedures were performed, other than stimulation.
+TECHNICAL DIFFICULTIES:  Some EKG and ventilator artifact seen intermittently throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to an EEG with no posterior dominant rhythm and no normal background.  There is complete suppression and absence of any normal electrocerebral activity.  There is some intermittent artifact from the EKG and some rare artifact from the ventilator.  The EEG was recorded with an electrocerebral sinus protocol and reviewed at 2 mV with double distance electrodes.  No normal electrical activity was seen.  During the recording the patient's eyes with painful stimulation was performed with no change in the pattern described above. 
+ABNORMAL DISCHARGES:  No normal electrocerebral activity was seen.
+IMPRESSION:  This EEG reveals absence of normal electrocerebral activity.
+CLINICAL CORRELATION:  This EEG is consistent with electrocerebral silence.  In the absence of any sedative medications and/or hypothermia it is consistent with lack of any electrical brain activity.  No seizures were seen.
+
+

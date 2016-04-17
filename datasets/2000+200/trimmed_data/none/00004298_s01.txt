@@ -1,0 +1,9 @@
+MEDICATIONS:  None.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9-10 Hz with an amplitude of 20-60 microvolts, which is reactive to eye opening.  Normal sleep architecture is seen in stage 1.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION: No seizures or epileptiform discharges were seen.

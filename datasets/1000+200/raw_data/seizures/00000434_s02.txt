@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  An 80-year-old woman who has a history of epilepsy in the 1970s.  Seizures characterized by butterflies in her stomach with a rising sensation to her forehead followed by loss of consciousness and generalized motor activity.  Seizures abated.  The patient reports 4 or more strokes in the 1980s and early 2000s and was admitted to Temple recently for transient hemiparesis (unclear if left or right) successfully treated with TPA.  The patient subsequently had episodes with generalized shaking followed by the absence of a post ictal period.
+MEDICATIONS:  Keppra, Protonix, Plavix, others.
+INTRODUCTION:  Continuous video EEG was performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.  The patient had a single event on the morning of the 10th.
+DESCRIPTION OF THE RECORD:  In wakefulness, the background EEG is well organized with __________ rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by an increase in background slowing.  The patient transitions in and out of stage 1 and stage 2 sleep with spindles.  In sleep there are rare bursts of shifting slowing. 
+The seizure and spike detector picks up 2 artifacts but no electrographic seizures were identified.
+EVENT:  Seizure time 11:59 a.m.  The patient was awake.  She had been talking on the phone and appeared to be having a pleasant conversation.  The nurse enters and the patient is verbally unresponsive.  The push button alarm was pushed.  The patient cannot speak during the event, although as time goes on she looks at her examiners and then begins to follow some commands such as cooperating with an eye exam.  The patient was placed in the bed. 
+The EEG demonstrates a normal awake pattern throughout the event.  There are occasional PVCs but no significant dysrhythmias noted with this 4-minute event.   
+Heart rate 60-90 bpm.
+IMPRESSION:  This 24-hour video EEG monitoring session was remarkable for a behavioral event with verbal unresponsiveness and loss of awareness with a normal awake EEG.
+CLINICAL CORRELATION:  These findings are most compatible with a non-epileptic seizure.  In this patient with a past history of epilepsy and multiple previous strokes, no significant focal features were noted.
+
+

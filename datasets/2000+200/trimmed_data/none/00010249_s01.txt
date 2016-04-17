@@ -1,0 +1,9 @@
+MEDICATIONS:  Naproxen.
+REASON FOR STUDY:  Episodes of dizziness.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during hyperventilation and photic stimulation.  The patient is also recorded during wakefulness and drowsiness.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 10 Hz, which is reactive to eye opening.  There is a normal amount of frontocentral beta.  Activating procedures including hyperventilation and photic stimulation produce no abnormal discharges.  The patient is recorded during wakefulness and drowsiness.   
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and drowsy EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.

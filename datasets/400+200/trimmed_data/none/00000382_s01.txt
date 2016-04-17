@@ -1,0 +1,21 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG is performed in lab using standard 10-20 system of 
+electrode placement with 1 channel 
+EKG. 
+DESCRIPTION OF THE RECORD: The patient is somnolent throughout much of the record. In 
+that state, the EEG is relatively low voltage and featureless with right occipital sharp waves with 
+variable maximum and amplitude. Maximum increased 01/02, even T4A2. There is a generous 
+field with the delta that follows the sharp waves. Stimulation of the patient initially produces a 
+lower voltage alpha theta pattern followed by more of a medium to low amplitude theta pattern. 
+The sharp waves are present throughout the EEG. There is a small degree of periodicity as 
+seizures. Towards the close of the record when the patient is a bit more alert, the sharp waves 
+are more prominent. At times the sharp wave have a polyphasic component and that is seen at 
+the close of the record as the patient drifts into stage 2 sleep which obvious. Features of stage 2 
+sleep include spindle activity. 
+HR: 107 bpm. 
+IMPRESSION: Abnormal EEG due to: 
+1. Right occipital sharp waves and spikes with generous field of spread. 
+2. Generalized background slowing. 
+CLINICAL CORRELATION: No seizures were observed. The prominent, periodic sharp waves 
+may be followed clinically in this individual with altered mental status. The epileptiform activity 
+and focal slowing is congruent with the CAT scan description. 

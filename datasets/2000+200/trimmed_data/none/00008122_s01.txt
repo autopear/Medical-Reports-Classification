@@ -1,0 +1,10 @@
+MEDICATIONS:  Heparin, Cilostazol, Protonix, ASA, Coumadin, Lipitor.
+REASON FOR STUDY:  Weakness.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and sleep.  Activating procedures including photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  T3 electrode continuous artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 8.5 to 9 Hz, which is reactive to eye opening.  There is a normal amount of frontocentral beta.  The patient is recorded in wakefulness and drowsiness.  Activating procedures including photic stimulation revealed no abnormal discharges. Infrequent T3 focal slowing at a frequency of 2 to 4 Hz and amplitude of 20 to 40 microvolts.  Please note, there is an artifact over the T3 electrode which may impede better observation of this area. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Mild left midtemporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left midtemporal region which is consistent with a known stroke in that region.  No seizures or epileptiform discharges were seen.

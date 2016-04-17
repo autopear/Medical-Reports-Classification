@@ -1,0 +1,15 @@
+CLINICAL HISTORY:  68 year old female with a history of PCA infarct who presents with recurrent seizures.
+MEDICATIONS:  None.
+REASON FOR EEG:  Seizures.
+INTRODUCTION:  Long term digital video EEG monitoring was performed at bedside over 20 hours using the standard 10-20 electrode placement with additional anterior temporal and EKG electrodes.  The patient was unresponsive during the recording. No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background in the 2-4 Hz frequency.  No abnormal posterior dominant rhythm is seen or frontal central beta.  No abnormal sleep architecture is seen.  No activating procedures are obtained.   
+ABNORMAL DISCHARGES:  Generalized slow waves at 2-4 Hz and amplitude 20-30 mV with frontal intermittent rhythmic delta (FIRDA).   
+NOTE:  During the recording the EEG continues to increase in the frequencies to a more of a theta range in the 5-7 Hz frequency, which still remains diffusely slow. During stimulation there is an increase in the frequency and there is multiple artifact. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves.  
+FIRDA, improving over time.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific in regards to etiology, and in this patient it may be due, at least, in part to medication effect.  No seizures or epileptiform discharges were seen.
+
+

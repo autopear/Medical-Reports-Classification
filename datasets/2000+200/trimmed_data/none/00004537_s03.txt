@@ -1,0 +1,13 @@
+MEDICATIONS:  Dilantin, Versed, Keppra, Oxcarbazepine.
+REASON FOR STUDY:     Seizures:
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded while unresponsive.  Stimulation was performed, but no activating procedures were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm and no normal frontocentral beta.  There is a small burst of frontally central predominant theta with intermittent periods of diffuse attenuation lasting as long as 3 seconds.  No normal sleep architecture is seen.  No activation procedures were performed.  Noxious stimuli produces no change in the record. 
+ABNORMAL DISCHARGES:  Generalized slow waves at 5-7 Hz with some frontal predominance and intermittent generalized attenuating bursts of 3-seconds' duration. 
+SEIZURES:   None.
+IMPRESSION:  Abnormal EEG due to: 
+1. Generalized slowing. 
+2. Burst of attenuation.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  The bursts of attenuation may signify cortical damage or alternatively may be due to medication effect.  No seizures or epileptiform discharges were seen.
+DD:01/24/2012
+DT:01/24/2012

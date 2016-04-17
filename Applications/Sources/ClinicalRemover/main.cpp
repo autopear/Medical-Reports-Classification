@@ -87,7 +87,7 @@ int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
-    if (argc < 3)
+    if (argc != 3)
     {
         QFileInfo binInfo(QCoreApplication::applicationFilePath());
         printf(QString("Usage: %1 In_Dir Out_Dir\n").arg(binInfo.baseName()).toUtf8().data());

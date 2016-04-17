@@ -1,0 +1,9 @@
+MEDICATIONS: Keppra, Carbatrol, and Centrum. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a 9.5 Hz, 40 uV posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Early in drowsiness, there is subtle focal slowing from the left temporal region.  Sharp waves are identified.  Some of these are subtle and best seen in the T1-T2 electrodes.  Others are more prominent and include a higher amplitude left anterior temporal spike and slow wave or sharp and slow wave complex maximum at T1 with spread to F7.  Occasionally, there is spread to F3.  These may be associated with subtle focal slowing.  There are occasional sharp waves identified from the right with a left:right ratio of approximately 10:1.  Some from the right are associated with focal slowing, particularly in a brief section of the record.  Others have an unusual dipole, maximum at T2 but involving the anterior temporal electrodes on the left in the lateral temporal chain.  Brief stage II sleep is characterized by vertex waves and spindles.  
+Photic stimulation was obscured by a photoelectric effect.  
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Temporal sharp and slow wave and spike and slow wave complexes primarily seen from the left with variable fields of spread including left anterior temporal, but sometimes with involvement of the left frontal.
+Occasional right temporal sharp waves, again with a somewhat unusual dipole.
+CLINICAL CORRELATION: This tracing supports a partial mechanism for epilepsy.  No seizures were recorded.  Comparison with this patient’s previous EEGs may be of use.  

@@ -1,0 +1,7 @@
+MEDICATIONS: 
+INTRODUCTION: Digital video EEG is performed in the nursery using standard 10-20 system of electrode placement with one channel of EKG. The child is awake or drowsy.
+DESCRIPTION OF THE RECORD: In the initial portions of the record, the child is awake.  The background EEG is continuous and rich in background beta frequency activity and the delta is relatively symmetric.  As the recording continues, there is initially a right temporal sharp wave and then more clearly defined (left temporal) T3 maximum sharp wave seen in a brief portion of the record.  There is shifting, asymmetric fast activity seen in sleep supportive of a symmetric sleep spindle.  There are handfuls of left central sharp waves.  
+HR:  156 BPM.
+	IMPRESSION: Markedly improved but abnormal EEG for a child of this age due to:
+	1.	Excess left temporal sharp waves.  
+CLINICAL CORRELATION: This EEG is now continuous.  Normal developmental  milestones are identifiable in this record.  A child of this age is permitted a small amount of sharp activity in the EEG, but the epoch with frequent left temporal sharp waves would bring this record outside of that range.  No seizures were recorded in this study.  

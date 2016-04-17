@@ -1,0 +1,9 @@
+MEDICATIONS:  Depakote.
+REASON FOR EEG:  Seizure.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures, including hyperventilation and photic stimulation, were performed.
+TECHNICAL DIFFICULTIES:  Loss of A2 electrode at the end of the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm of 9 Hz, which is reactive to eye opening.  There is normal frontal central beta.  The patient goes into stage I and stage II sleep.  Activating procedures produce no abnormal discharges. 
+ABNORMAL DISCHARGES:   None. 
+SEIZURES:   None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  A normal EEG does not exclude the diagnosis of epilepsy.  Repeat recording may be helpful in confirming the diagnosis.

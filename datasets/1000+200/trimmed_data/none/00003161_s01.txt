@@ -1,0 +1,11 @@
+MEDICATIONS: Heparin, Sodium, Bicarbonate
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during coma.  No activating procedures were performed.  No sleep was noted.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with an overriding alpha frequency rhythm mainly seen in the frontal chain.  Intermittently there is burst suppression.  The EEG appears to be reactive at times. 
+ABNORMAL DISCHARGES:  
+Generalized slow waves at 2 to 4 Hz with an amplitude of 20 to 40 microvolts.
+Frontal alpha rhythm, usually seen mainly throughout the frontocentral regions, almost throughout the whole recording.
+SEIZURES:   None
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slowing and frontal alpha.
+CLINICAL CORRELATION:  This EEG is consistent with diffuse cerebral dysfunction which is nonspecific with regard to etiology.  The frontal alpha in the setting of infarction is sometimes seen in alpha coma; however, the fact that the patient may be following commands is suggestive of a much better prognosis, this is likely related to medications affect.

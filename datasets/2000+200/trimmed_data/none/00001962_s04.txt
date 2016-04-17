@@ -1,0 +1,13 @@
+MEDICATIONS:  Dilantin, Ativan drip, Fentanyl, Vancomycin, Milrinone.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video long-term EEG was performed using the standard 10-20 electrode placement with additional anterior temporal and single lead EKG electrode. The patient was recorded while unresponsive. Activating procedures were not performed. Continuous spike  detection software as well as seizure detection software, the patient's nurses notes and marked events were used to review the EEG.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to background that lacks a normal posterior dominant rhythm or frontocentral beta. There is no normal sleep architecture. Overall, the EEG reveals diffuse delta with a decreased amplitude seen over the right hemisphere. At the same time there is a loss of faster frequencies seen mainly over the right hemisphere.
+ABNORMAL DISCHARGES:  
+Focal slowing and decreased amplitude with loss of faster frequencies over the right hemisphere. 
+Focal slowing at F7/T3 seen continuously at an amplitude of 20 to 40 microvolts. 
+There is generalized slowing at 2-4 Hz and an amplitude of 20 to 40 microvolts seen continuously throughout the recording.
+IMPRESSION:  Abnormal EEG due to: 
+      1.  Generalized slowing. 
+Right hemispheric decrease in amplitude with loss of faster frequencies and left hemispheric slowing in the anterior temporal region.
+CLINICAL CORRELATION:  This EEG reveals evidence of marked diffuse cerebellar dysfunction in addition to focal cerebral dysfunction in the left anterior temporal region, both of which are nonspecific in regards to etiology, but may be due at least in part to medication effect. In addition, the loss of faster frequencies and decreased amplitude over the right hemisphere may imply loss of cortical or gray matter, which is consistent with the known stroke. No seizures or epileptiform discharges were seen.

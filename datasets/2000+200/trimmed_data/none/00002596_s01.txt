@@ -1,0 +1,10 @@
+MEDICATIONS:  Keppra
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Just prior to the EEG, the patient was quite somnolent, but he became more awake as the EEG began.
+DESCRIPTION OF THE RECORD:  Background EEG is diffusely slow with primarily a theta pattern.  There is an asymmetry noted, initially with a bit slower theta-delta on the left and a bit faster frequency activity of theta on the right.  The patient drifts in and out of a drowsy state.  He is not able to cooperate with hyperventilation.  As the patient becomes drowsy, there is some sharply contoured slowing noted in the right anterior temporal region.   
+Photic stimulation did not significantly activate the record.  Heart rate 90 bpm.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized background slowing.
+Excess theta. 
+An asymmetry with a slower background on the left.
+Rare sharply contoured slowing in the right frontotemporal region.
+CLINICAL CORRELATION:  This patient with a history of traumatic brain injury and  asymmetry described above may be related to both the parenchymal pathology and the injury to the cranium.  No seizures were recorded.  Of note, the patient was a bit more awake at the end of the EEG, compatible with a resolving postictal state.

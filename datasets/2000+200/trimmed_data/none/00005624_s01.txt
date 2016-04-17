@@ -1,0 +1,13 @@
+MEDICATIONS:  Ativan, Pantoprazole, Vancomycin, Zosyn.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was lethargic during the recording.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  Movement artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background of 2-4 Hz and an amplitude of 20-70 mV.  There is no normal frontal central beta or posterior dominant rhythm seen.  The patient does appear to react to stimulation and appears to have increased muscle artifact with stimulation.  
+No normal sleep architecture is seen.  No activating procedures were performed. 
+During the recording there is episodes where the patient appears to shiver on the video and there is diffuse muscle artifact, but there is no clear EEG correlate or epileptiform activity seen on EEG while this occurs. 
+ABNORMAL DISCHARGES:  Generalized slow waves as mentioned above. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific in regards to etiology and may be seen in toxic 
+metabolic or infectious encephalopathies, or alternatively maybe due, at least in part, to medication effect.  No seizures or epileptiform discharges were seen.

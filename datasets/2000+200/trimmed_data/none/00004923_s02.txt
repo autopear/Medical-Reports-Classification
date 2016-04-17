@@ -1,0 +1,11 @@
+MEDICATIONS:  Lamictal, Zonegran, vagal nerve stimulator.
+INTRODUCTION:  Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG.  Hyperventilation and photic stimulation were completed.  This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:  In wakefulness, there is an alpha rhythm of 8 to 8.5 Hz, 60 to 70 microvolts in amplitude.  Drowsiness is characterized by hypersynchronous rhythmic slowing.  In addition, there are occasional bursts with rhythmic central theta.  Stage I sleep includes vertex waves with vertex waves, K complexes and spindles in stage II sleep. Some vertex waves are maximum on the left. 
+Discrete sharp waves and spikes are noted in sleep maximum F3 but with a field including F1 and F7.  These are small low voltage discharges.  The sleep background is otherwise high amplitude.  As the patient transitions in and out of sleep, the left frontal spikes are seen not infrequently. 
+Rare discrete right frontal low amplitude spikes were seen. Photic stimulation was initiated as the patient was somewhat drowsy, did not clearly activate the left frontal spikes.  The patient remained relatively sleepy throughout much of photic stimulation and aside from the left frontal spikes, there was little in the way of activation of the EEG.  At the close of the EEG, the patient was alert with an alpha rhythm of 8.5 Hz.   
+Hyperventilation did not significantly activate the record.  Heart rate 50 bpm, slightly irregular.
+IMPRESSION:  This is an abnormal EEG due to:
+A small degree of excess theta.
+Discrete, left frontal sharp waves and spikes, maximum at F3 or F7 seen primarily in sleep.
+Rare Fp2 low amplitude spikes.
+CLINICAL CORRELATION:  No seizures were recorded.  The patient's childhood EEGs were not available for comparison.  This EEG supports a left frontal focus for this patient's seizures.  The background slowing may be part of a diffuse process. There is sinus bradycardia with a slightly irregular heart rate.  These findings will be forwarded to this patient's primary care physician.

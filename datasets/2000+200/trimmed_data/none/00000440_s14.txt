@@ -1,0 +1,18 @@
+MEDICATIONS:  Keppra, Vimpat, Sensamide, Phenobarbital, Clorazepate, Ativan,
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The background EEG includes a mixture of beta and theta.  There is high amplitude, posteriorly predominant paroxysmal activity, some of which has a suspicious spike and wave activity.  There is also some activity which seems to have a sharp wave in the frontal region and there is some triangularly shaped frontal sharp waves noted as well. Hyperventilation seems to accentuate epileptiform activity.  Drowsiness is characterized by an increase in beta. Photic stimulation elicits a driving response. 
+HR:    66 bpm
+IMPRESSION:  Abnormal EEG due to:
+Excess beta.
+Excess theta.
+Posteriorly predominantly paroxysmal activity.
+Some frontal sharp waves.
+An abnormal background with replacement of normal background with beta and theta.
+Absence of an alpha rhythm.
+INTRODUCTION:  Continuous digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel  EKG.  The patient has multiple seizures characterized by head turning to the right, posturing to the right, and poor responsiveness.  He also sleeps with his hand clenched on the LTM equipment.
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  The normal wave forms for an adult are not identified.  The LTM is more of a pattern of theta with generous beta. In sleep, although there are some electrode artifacts, there does appear to be some left frontal sharp waves.   
+There are intermittent bursts of rhythmic theta frequency activity in the frontal regions, left more than right. There are many push button events with these typical events in an individual who is quite confused.  He looks to the right and postures and turns to the right. 
+There is little in the way of a clear EEG correlate noted early in the seizures, particularly in this individual who pushes the buttons himself.  There is a subtle change a bit in that there is a bit more theta evolving in the frontal temporal regions, left greater than right.   
+In contrast to the previous LTM recordings, there is less of the posteriorly predominant generalized activity.   
+HR:    60 bpm
+CLINICAL CORRELATION:  These findings are very similar to a previous study performed for this individual on September 27, 2011.  No seizures were recorded in either EEG.

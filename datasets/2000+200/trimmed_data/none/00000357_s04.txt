@@ -1,0 +1,13 @@
+MEDICATIONS:  Ativan, Versed drip, Dilantin.
+REASON FOR EEG:  Seizures.
+INTRODUCTION:  Long term digital video EEG was performed for 14 hours using standard 10-20 electrode placement system with a 1 channel EKG and anterior temporal electrodes.  The study was recorded while the patient was comatose.  No activity procedures were performed.  Continuous EEG monitoring was performed and reviewed using spike detection and seizure detection software as well as nursing noted events.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a low amplitude diffusely slow background with frequencies mainly in the delta range.  No normal posterior dominant rhythm or frontocentral beta is seen.  No sleep architecture is seen.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:
+Generalized periodic epileptiform discharges (GPEDs) were seen with anterior central maximum at a frequency of 1-2 Hz.  At times this would evolve, see description of seizures below.
+Generalized slow waves seen at a frequency of 2-4 Hz and an amplitude of 20-40 microvolts.   
+SEIZURES:  There are multiple seizures occurring per hour seen at the beginning of the recording which originate from GPEDs which increase in frequency and amplitude in seconds and later are obscured by a rhythmic intermittent muscle artifact.  The longest of these last about 40 seconds and afterwards  the background returns to baseline.  These seizures appear to subside 4 hours into the recording and after 10:30 at night no more are seen.  After this time the GPEDs appear to become slightly blunted and lower in amplitude, although at times intermittently the morphology changes to more sharply contoured but never clearly evolve into seizures.  Later in the recording in the morning hours there is some intermittent diffuse muscle artifact but no underlying evolution of seizures or epileptiform activity could be clearly seen in between the bursts of muscle.
+IMPRESSION:  Abnormal EEG due to:  
+Generalized seizures.  
+Diffuse slow waves.
+CLINICAL CORRELATION:  This EEG reveals multiple seizures with a generalized onset and interictal evidence of diffuse brain dysfunction and irritability.  These findings are consistent with a diffuse cortical injury and with a history of hypoxic injury.  The EEG appears to improve with time and during the last 10 hours of the recording no seizures can be clearly seen.

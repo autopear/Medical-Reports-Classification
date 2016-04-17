@@ -1,0 +1,6 @@
+MEDICATIONS:  None.
+INTRODUCTION:  Digital video EEG is performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  In wakefulness background  EEG includes a well organized 9.5 hertz 50 microvolt posterior dominant rhythm. Features of drowsiness include attenuation of the alpha and an increase in beta. Hyperventilation  does not activate the record. Photic stimulation elicits bilateral driving.
+	HR: 	72 bpm
+IMPRESSION:  Normal EEG in wakefulness and drowsiness.
+CLINICAL CORRELATION: No focal nor epileptiform features were observed.

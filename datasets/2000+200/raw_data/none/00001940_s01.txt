@@ -1,0 +1,37 @@
+MEDICATIONS: 
+INTRODUCTION: 
+electrode placement with 1 channel EKG. 
+but is responsive to stimuli. 
+DESCRIPTION OF THE RECORD: 
+from both hemispheres is slow, disorganized. 
+CLINICAL HISTORY: 62 year old woman of unknown handedness who had a seizure on 
+06/21/2009, characterized by left arm and leg movements, eye deviation to the left, and 
+impaired responsiveness; renal insufficiency, heart disease, heart failure, diabetes, and a 
+subdural hematoma five years ago. 
+Phenytoin, Plavix, Lisinopril, Synthroid, lsomonoitoate, Renagel, Zocor 
+Digital video EEG was performed at bedside using standard 10-20 system of 
+The patient is on a face mask and appears quite ill 
+The background EEG is markedly abnormal. The activity 
+There is a high amplitude sharp wave observed 
+on the right, particularly right frontotemporal, but with a generous field of spread. It seems to 
+start at T4 and then spreads anteriorly to F8 and also posteriorly to C4. It has a polyspike 
+component. There is some variability in the spike, and there also seems to be a different spike 
+picked up at C4. In addition to this epileptiform activity, which is seen in every 1 0-second 
+EPOC, there is also some periodic delta maximum in the right center temporal region, and the 
+periodic delta seems to have a different periodicity than the epileptiform activity, which is more 
+frontotemporal. Stimulation of the patient produces an increase in alpha and theta frequency 
+activity in the background despite the prominent epileptiform activity. There are also some 
+triphasic waves observed in the background. 
+HR: 96 bpm 
+IMPRESSION: Markedly abnormal EEG due to: 
+1. 
+Prominent epileptiform activity in the right hemisphere, particularly frontotemporalfrontocentral 
+with a generous field of spread. 
+2. 
+Background slowing, particularly on the right. 
+3. 
+Periodic delta, right hemisphere 
+CLINICAL CORRELATION: No seizures were recorded. This EEG supports a highly 
+epileptogenic focus. Additional monitoring may be appropriate. 
+
+

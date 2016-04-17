@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 35-year-old male with confusion and disorientation while driving followed by a convulsion in the ER, intubated, agitated, requiring sedation.
+MEDICATIONS: Ativan and Fentanyl infusions, Phenytoin, insulin.
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated.
+DESCRIPTION OF THE RECORD: The background EEG demonstrates replacement of the normal background with primarily a beta frequency pattern with smaller amounts of theta.   There are occasional bursts of very high amplitude frontally predominant 4 to 5 Hz activity, which are diffuse and are picked up in the eye leads but not the EKG.  There is no identifiable clinical correlate with these bursts.  Most are 4 to 5 Hz, but some are 2 to 3 Hz.  
+There is variability in this record, particularly later portions of the record where there is an increase in background theta. Stimulation produces artifact, but does not clearly alter the record.  
+HR:  108 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Replacement of normal background with primarily a beta frequency pattern albeit with smaller amounts of theta. 
+Bursts of high amplitude delta, some of which is quite slow and occasionally similar wave forms of 4 to 5 Hz.
+CLINICAL CORRELATION: No epileptiform features were seen.  No seizures were recorded.  The beta activity described above may be associated with this patient’s medications.  The bursts of high amplitude delta are non-specific and can be seen in a toxic or metabolic encephalopathy, diffuse disturbance of cerebral function, or deep gray nuclei.
+
+

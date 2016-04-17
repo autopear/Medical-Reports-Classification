@@ -1,0 +1,12 @@
+MEDICATIONS:  Ativan, folate, Keppra, others.
+INTRODUCTION:  Digital video EEG was performed at the bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient was poorly responsive.
+		
+DESCRIPTION OF THE RECORD:  The background EEG is markedly abnormal.  There is an asymmetry noted.  The activity on the right is lower voltage.  On the left there is a bit more arrhythmic delta activity which can be frontal central or posterior.  There are occasional sharp waves or bursts of sharply contoured slowing, maximum at F3.   
+With arousals there is an increase in theta frequency activity and a bit better organization on the right, but not the left. 
+As the patient becomes drowsy, irregular, higher amplitude focal delta is noted in the left hemisphere with variable maximum.  When the technologist performs testing on the patient, the patient wakes up and an alpha rhythm is noted at 7 Hz more so on the right than the left.   
+Heart rate:  96 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Marked intrahemispheric asymmetry with higher amplitude, more irregular slowing on the left.
+Sharply contoured slowing from the left hemisphere with a variable maximum.
+F3 sharp waves. 
+No seizures were recorded.  The focal features are ipsilateral to the patient's CT abnormalities.  The sharp waves are anterior to his most prominent areas of encephalomalacia.

@@ -1,0 +1,9 @@
+REASON FOR STUDY:  Seizures.
+TECHNICAL DIFFICULTIES:  None.
+MEDICATIONS:  Keppra, Namenda, furosemide, atorvastatin, Prilosec, guaifenesin, hydrocodone, albuterol, acetaminophen, and zinc oxide.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness although the patient was unresponsive and did not follow commands.  Activating procedures included photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no posterior dominant rhythm of frontocentral beta.  Overall the background consists of mainly delta and some theta intermixed frequencies.  No normal sleep architecture was seen.  Activating procedures included photic stimulation producing no abnormal discharges.  At one point in the recording the patient was stimulated and there appears to be some muscle artifact but no clear improvement in the frequencies.
+ABNORMAL DISCHARGES:  Generalized slow waves at 2-4 Hz and amplitude of 20-60 microvolts seen continuously throughout the recording.
+HEART RATE:  72.
+IMPRESSION:  Abnormal EEG due to generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.

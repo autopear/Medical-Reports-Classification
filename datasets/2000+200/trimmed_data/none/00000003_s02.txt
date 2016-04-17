@@ -1,0 +1,9 @@
+MEDICATIONS:  Depakote, Norvasc, Simvastatin.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional EKG and anterior temporal electrodes.  Wakefulness and sleep were recorded.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior abdominal rhythm of 9 to 10 Hz, which is reactive to eye opening.  There is a mild amount of increased frontocentral beta seen slightly more diffusely.  Hyperventilation and photic stimulation revealed no abnormal discharges.  Sleep stage I is seen.   
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  This is a normal awake and asleep EEG performed for a slightly prolonged amount of time with no seizures or epileptiform discharges seen.

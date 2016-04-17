@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 42-year-old man with severe cerebral atrophy, alcoholism, and head trauma admitted with postictal encephalopathy,
+MEDICATIONS: Zonisamide, Dilantin. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as asleep or lethargic.   
+DESCRIPTION OF THE RECORD: The background EEG is low voltage with primarily theta frequency activity.  There is intrahemispheric asymmetry with disruption of theta frequency activity from the right hemisphere in comparison to the left.  There is also arrhythmic delta activity, which is primarily in the right temporal region with sharp waves identified. These range from broadly contoured, sharply contoured delta activity at T2 to higher amplitude T4 sharp and slow wave complexes as well as T2 sharp and slow wave complexes. These are identified in wakefulness and sleep and demonstrate some variability, with a distribution in the right frontal region as well.  Stimulation of the patient produces an alerting response with eye opening and an increase in theta frequency activity, again richer from the left hemisphere than the right. 
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Focal slowing from the right hemisphere characterized by disruption of faster frequency activity as well as arrhythmic delta activity. 
+Right temporal sharp waves with some variability but primarily maximum in the mid to anterior temporal region.
+Generalized background slowing.
+CLINICAL CORRELATION: These features are similar to previous records for this individual.  No seizures were recorded.
+
+

@@ -1,0 +1,14 @@
+MEDICATIONS:  Vimpat, Trileptal
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness.  Photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 7.5 Hz, appears to be slightly reactive to eye opening and eye closing.  There is a lack of normal frontocentral beta seen.  No sleep architecture is seen.  Activating procedures produced no abnormal discharges.
+ABNORMAL DISCHARGES:  
+Bursts of slow generalized spike and wave at 2 Hz are seen with a symmetric predominance over the left hemisphere maximal at times at F7 and at times at T3 with a duration of about the longest 1 seconds. 
+Focal slow waves in the left hemisphere intermittent, maximal at T3, but with a large field that sometimes includes P3 and C3.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:  
+Diffuse slow waves. 
+Generalized slow spike and waves. 
+Focal slowing in the left midtemporal region.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of symptomatic generalized epilepsy with seizure possibly arising from the left frontal region.  In addition, there is evidence of focal cerebral dysfunction in the left hemisphere maximally midtemporally as well as generalized cerebral dysfunction, but which are nonspecific with regards to etiology.  No seizures were seen.

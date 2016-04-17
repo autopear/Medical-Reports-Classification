@@ -1,0 +1,19 @@
+MEDICATIONS: Lovenox 
+REASON FOR STUDY: Change In mental status 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10ò20 electrode 
+placement system with anterior temporal and EKG electrodes. Sleep was recorded and photic 
+stimulation was performed. 
+TECHNICAL None. 
+DESCRIPTION OF THE RECORD: The record opens to a posterior dominant rhythm of at best 
+8 Hz with 20-60 microvolts amplitude. There is some normal frontal central beta seen. Sleep is 
+characteristic of stage I. Photic stimulation produces no abnormal discharges. 
+ABNORMAL 
+1. Generalized slow waves at 5-7 Hz and 20-60 microvolts amplitude. 2. Slight asymmetry in the faster frequencies with a loss of them over the left hemisphere. 
+SEIZURES: None. 
+IMPRESSION: Abnormal EEG due to: 
+Generalized slow waves and slight asymmetry in amplitude over the left hemisphere. 
+CLINICAL CORRELATION
+ This EEG reveals evidence of diffuse cerebellar dysfunction which 
+Is nonspecific with regards to etiology. The slight asymmetry over the left hemisphere may be 
+due to the previous cortical damage from strokes. No seizures or epileptiform activity were seen
+ 

@@ -1,0 +1,16 @@
+INTRODUCTION: 
+An EEG was performed using the 10/20 electrode placement system with the electrodes for the EKG and anterior temporal region. Wakefulness and sleep was recorded. Photic stimulation was recorded. 
+MEDICATIONS: 
+Metformin, Keppra, insulin, digoxin, and hydralazine. 
+TECHNICAL PROBLEMS: 
+None. 
+DESCRIPTION OF RECORD: 
+The record opened to a well-defined posterior dominant rhythm at 9 to 10Hz, with an amplitude of 30 to 60 microvolts, which was reactive to eye opening. There was a moderate amount of frontal central beta waves. Sleep characterized by stage I and II. Photic stimulation revealed no abnormal discharges. 
+ABNORMAL DISCHARGES: 
+None. 
+SEIZURES: 
+None. 
+IMPRESSION: 
+Normal awake and asleep EEG. 
+CLINICAL CORRELATION:
+No seizures or epileptiform discharges were seen. Please note that a normal EEG does not exclude the diagnosis of epilepsy. 

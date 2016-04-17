@@ -1,0 +1,11 @@
+MEDICATIONS:  Dilantin, Pantoprazole, Lovenox.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and drowsiness.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  The patient is recorded in wakefulness and drowsiness.  Activating procedures were not performed.   
+ABNORMAL DISCHARGES:  Focal slow waves seen frequently at F7/T3 and independently at T4 at a frequency of 2 to 4 Hz and an amplitude of 20 to 40 microvolts.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Left anterior temporal slow waves.  
+Right midtemporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left frontotemporal region with additional dysfunction in the right midtemporal region, both of which are consistent with the history of trauma and gliosis.  No seizures or epileptiform discharges were seen.

@@ -1,0 +1,10 @@
+REASON FOR STUDY:  Seizure.
+MEDICATIONS:  Ocella.
+INTRODUCTION:  A routine EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness and stage I sleep.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 Hz which is reactive to eye opening.  There is normal frontocentral beta.  Activating procedures produced no abnormal discharges.  The patient was recorded in wakefulness and stage I sleep.
+ABNORMAL DISCHARGES:  There are multiple bursts of epileptiform discharges occurring in drowsiness and stage I sleep where there appears to be a predominant left temporal (T3) small amplitude sharp wave followed by generalized slow wave. Those discharges occurred multiple times through the recording and there was no clinical correlate with them.
+SEIZURES:  None.
+HEART RATE:  60.
+IMPRESSION:  Abnormal electroencephalogram due to left predominant with rapid generalization discharges.
+CLINICAL CORRELATION:  This EEG is consistent with a diagnosis of epilepsy.  The discharges appear to have an asymmetric component mainly in the left mid temporal region which suggests that there might be a focus of cortical irritability in that region.  However, due to the rapid spread and generalization it is possible that these discharges are part of underlying generalized epilepsy with asymmetric start. Clinical correlation is recommended.

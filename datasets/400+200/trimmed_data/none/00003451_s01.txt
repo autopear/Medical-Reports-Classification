@@ -1,0 +1,10 @@
+MEDICATIONS: Dilantin, Prednisone, Zestril, Metformin, Atenolol, Gabapentin, Furosemide, Isosorbide, Ativan, Phenytoin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates what is essentially a discontinuous pattern. The appearance of attenuation are 1 to 2 seconds In duration. As the recording continues, it transitions from more of a burst suppression to an intermittent attenuation pattern with rhythmic theta and some beta frequency activity. The cerebral activity continues to appear relatively symmetric with generalized bursts. The patient does appear to be reactive to stimuli and there are some spontaneous movements. At those times the EEG is more continuous with both beta and theta frequency activity. 
+HR: 120bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Discontinuous pattern, Improving over lime. 
+2. Markedly abnormal background. 
+3. Paucity of normal waveforms. 
+CLINICAL CORRELATION: Despite the patient's involuntary movements, there are no epileptiform features and there are no seizures recorded. The discontinuous pattern is likely part of the severe underlying encephalopathy. The increasingly continuous pattern may be associated with improvement over time or the patient's acute medical management. 
+ 

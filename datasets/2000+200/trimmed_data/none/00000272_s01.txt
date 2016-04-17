@@ -1,0 +1,10 @@
+MEDICATIONS:  Zofran, Morphine, Heparin, Insulin
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with the addition of anterior temporal single lead EKG electrode.  The patient was recorded in wakefulness and drowsiness.  Activating procedures were not performed.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9 Hz which is reactive to eye opening.  There is normal frontocentral beta.  No activating procedures were performed.  The patient achieved stage I sleep.   
+ABNORMAL DISCHARGES: 
+Focal slow waves seen intermittently at F7/T3 with a frequency of 2-4 Hz and an amplitude of 20-60 microvolts. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Intermittent left anterior temporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the left anterior temporal region, which is nonspecific in regards to etiology.  No seizures or epileptiform discharges were seen.

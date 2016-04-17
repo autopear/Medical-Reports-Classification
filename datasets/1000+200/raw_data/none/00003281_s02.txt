@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  25 year old man with hypertension, hyperlipidemia, CAD, asthma, multiple psychiatric admissions, presents with episodes of generalized tonic-clonic shaking and an aura of metallic taste.
+MEDICATIONS:  Ativan, Keppra, ASA, Zocor, Duoneb, Thiamine, Folic Acid, Plavix
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Long-term digital video EEG was performed at bedside for 16 hours using standard 10-20 electrode placement system with additional anterior temporal electrodes.  The patient was recorded in weakness and sleep.  No activating procedures were performed.
+TECHNICAL DIFFICULTIES:  Intermittent multiple electrode malfunction artifact fixed throughout the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm at 9-10 Hz which is reactive to eye opening.  There is a slightly increased amount of frontocentral beta seen throughout the recording.  Normal sleep architecture is seen.  No activating procedures were performed.
+ABNORMAL DISCHARGES:  None.
+REPORTED EVENTS:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION: No seizures or epileptiform discharges were seen.
+
+

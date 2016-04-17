@@ -1,0 +1,11 @@
+MEDICATIONS:  Tegretol, Lamictal, Temazepam, Seroquel, Effexor, Letherezia
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using the standard 10-20 system of electrode placement as well as anterotemporal electrodes and EKG electrodes.  The EEG was recorded with photic stimulation and hyperventilation was performed.  Sleep stage I and stage II were recorded.
+TECHNICAL DIFFICULTIES:  Frequent bilateral temporalis muscle artifact seen during the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm of 9 Hz which is reactive to eye opening.  There is a normal amount of frontal central beta.  Sleep stage I and stage II is recorded.  Photic stimulation and hyperventilation presented no abnormal discharges.
+ABNORMAL DISCHARGES:  
+There are 2 short bursts of less than 400 milliseconds seen with left frontal predominant sharp waves and slow waves which appeared to have a bilateral component and distribution more consistent with fragment of general spike and wave, however, a focal left frontal spike cannot be excluded. 
+SEIZURES:   None.
+IMPRESSION:  Abnormal EEG due to: 
+1.  Left frontal asymmetric spike and wave discharges likely fragments of generalized spike and wave
+CLINICAL CORRELATION:  This EEG is consistent with evidence of cortical irritability which is suggestive of an idiopathic generalized epilepsy.  However, the slight asymmetry of the spike and wave fragments may also suggest a focal origin with secondary bilateral synchrony.  Clinical correlation is recommended.  No seizures were seen.

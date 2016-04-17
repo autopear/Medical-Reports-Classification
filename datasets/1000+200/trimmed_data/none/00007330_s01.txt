@@ -1,0 +1,8 @@
+MEDICATIONS: Acopril, HCTZ, unknown seizure medications. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG is well organized with a 10.5 Hz, 40 V posterior dominant rhythm.  The overall background in wakefulness and drowsiness is sharply contoured with generous background beta activity. Drowsiness is characterized by rhythmic slowing with a background of 6 to 7 Hz.  In drowsiness and in hyperventilation, there is some arrhythmic delta activity identified from the temporal regions, right or left . This occurs in the context of the underlying sharply contoured background.  As hyperventilation continues, there is an increase in rhythmic background slowing, but clear epileptiform activity. Deeper stages of sleep are not identified in this record.
+Photic stimulation elicits brief driving.
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Arrhythmic delta, right slightly more remarkable than the left identified in early drowsiness and hyperventilation. 
+CLINICAL CORRELATION: No definite epileptiform features were identified in this record.  This may be in part due to the sharply contoured background.  An additional recording capturing deeper stages of  sleep may be  useful, as  would  additional electrode strategies.  Because of the sharply contoured background, underlying epileptiform activity may have been missed. 

@@ -1,0 +1,9 @@
+MEDICATIONS: [MEDS COULD NOT BE RETRIEVED.] 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is lethargic throughout the record. 
+DESCRIPTION OF THE RECORD: The background EEG includes a posterior dominant rhythm of approximately 7 to 8 Hz, 30 uV.  The overall background is a mixture of alpha and theta frequency activity with occasional bursts of shifting arrhythmic delta activity, which can be identified from the centrotemporal regions in either hemisphere.  As the patient becomes drowsy, there is a single sustained burst of rhythmic frontal delta, as well as intermittent focal slowing from the left centrotemporal region of approximately five seconds duration.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+A modest degree of generalized background slowing.
+Shifting arrhythmic delta.
+Infrequent, more sustained burst of focal slowing from the left centrotemporal region.
+CLINICAL CORRELATION: No epileptiform features were identified and no seizures were recorded.   This tracing supports a diffuse disorder affecting both gray and white matter of both hemispheres, and these findings should be put in the context of this patient’s age and hematomas.   

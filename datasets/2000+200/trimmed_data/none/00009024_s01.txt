@@ -1,0 +1,14 @@
+REASON FOR STUDY:  Visual field deficits and speech problems.
+MEDICATIONS:  Cyanocobalamin, metoprolol, lisinopril, amlodipine, sertraline, and vitamins.
+TECHNICAL PROBLEMS:  None.
+INTRODUCTION:  Digital video EEG was performed in the lab using the standard 10-20 system of electrode placement and 1-channel EKG.  Wakefulness and sleep were captured.  Photic stimulation was performed.
+DESCRIPTION OF THE RECORD:  There is a posterior dominant rhythm of 11 Hz frequency and 30-60 microvolts in amplitude on the right side.  The alpha rhythm on the left side is disrupted and at times reaches a frequency of 11 Hz.  There is a breached rhythm noted in the left occipital region.   
+Sleep was recorded which was characterized by sleep spindles and K complexes.   
+Hyperventilation was not performed. 
+Photic stimulation was performed which did not change the recording.
+ABNORMAL DISCHARGES:  
+Continuous T5 slowing in the theta and delta range.  Frequently sharply contoured but not clearly epileptogenic.  
+Occasional T3 slowing in the theta and delta range which is also sharply contoured but not clearly epileptogenic.
+SEIZURES:  None.
+IMPRESSION:  This is an abnormal EEG due to left posterior temporal and mid temporal slowing which is sharply contoured.
+CLINICAL CORRELATION:  This EEG is suggestive of left posterior temporal cerebral dysfunction with a lightly underlying structural abnormality.  No seizures or clear epileptogenic features were identified.  A prolonged EEG might be helpful in capturing epileptogenic activity if any.  Clinical correlation is recommended.

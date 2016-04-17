@@ -1,0 +1,9 @@
+MEDICATIONS:   Heparin, Zofran, Nexium, Depacon, Solu-Medrol, Acyclovir
+INTRODUCTION:   Digital video EEG is performed at bedside in the ICU using the standard 10-20 system of electrode placement with 1 channel of EKG.
+DESCRIPTION OF THE RECORD:  Much of the records includes significant muscle movement artifact. The interpretable portions of the record demonstrate  an abnormal background with bursts of rhythmic delta observed bilaterally and a glimpse of a 9 Hz posterior dominant rhythm. There is more delta from the right compared to the left. There is another generous field in the right temporal region both anterior and posterior. Despite the muscle movement artifact, the patient was clearly more alert than on previous occasions and was moving about.
+	HR: 	60 bpm.
+IMPRESSION:  Technically limited, but abnormal EEG due to:
+	1.	Background slowing, bilaterally.
+	2. 	Intermittent rhythmic and arrhythmic delta activity from either hemisphere.
+	3.	Right greater than left rhythmic delta.
+CLINICAL CORRELATION:   The periodic activity has improved on the right in comparison to previous studies. There are no seizures, no PLEDS, and no focal spikes. A follow-up study when the patient is better able to cooperate is advised.

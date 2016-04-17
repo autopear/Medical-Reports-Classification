@@ -1,0 +1,10 @@
+MEDICATIONS:  Heparin, Acyclovir, Ativan, Fentanyl, Ceftriaxone, Vancomycin.
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient is recorded during wakefulness and lethargy, as well as sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  Some movement artifact throughout the recording.
+DESCRIPTION OF THE RECORD:  The record reveals an abnormal background with no normal posterior dominant rhythm and no normal frontal central beta.  There is basically diffuse delta frequencies seen with intermittent 12-15 Hz discharges consistent with spindles and at times easily goes into stage I and stage II sleep.  When aroused the patient is reactive and the EEG improves slightly in frequency, but still diffusely slow.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:   Generalized slowing is 2-4 Hz with an amplitude of 20-60 mV seen almost continuously. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  It may be, at least in part, due to medication effect.  In addition, the patient is mainly asleep throughout the recording.  No seizures or epileptiform discharges were seen.

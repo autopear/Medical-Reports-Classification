@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 41-year-old male with a history of brain tumor on the right with two resections, status-post radiation.  Patient presently has a left hemiparesis. He has been seizure-free for six years; total of 12 seizures described as focal left-sided jerking.  
+MEDICATIONS: Dilantin.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: When the patient is awake, there is a prominent interhemispheric asymmetry. The left hemisphere is normal with alpha slow about 10 Hz. There are prominent sharp waves with a breach rhythm and delta and theta from right . 
+There are seven subclinical seizures, most are maximum in the right mid to anterior temporal region but others are at T4/C4.  Some have alpha or theta frequency activity.  Others have repetitive spike and slow wave activity, mostly seen in the T2-T4 region.  
+Photic stimulation is performed during one of his seizures and does not activate the record.  Seizures are seen in wakefulness and early drowsiness. 
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Seven focal seizures from the right temporal region without change in level of awareness with variability in terms of the type of epileptiform activity but with right centrotemporal localization. 
+Focal slowing.
+CLINICAL CORRELATION: This EEG is diagnostic of a partial mechanism for epilepsy, as well as a structural abnormality and a craniotomy.  These results were discussed with the referring physician. 
+
+

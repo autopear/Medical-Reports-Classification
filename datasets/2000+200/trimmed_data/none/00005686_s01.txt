@@ -1,0 +1,10 @@
+MEDICATIONS:  Dilantin, Serax, Zosyn, Insulin
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a background that has a posterior dominant rhythm that at best reaches 9 Hz which is reactive to eye opening.  Upon wakefulness, there is normal frontocentral beta.  The patient achieves stage 1 and stage 2 sleep.  Activating procedures produced no abnormal discharges.
+ABNORMAL DISCHARGES:  Focal slow waves seen continuously at F7/T3 at 2-4 Hz with an amplitude of 20-80 microvolts and an associated breach in that region.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:   
+Focal slow waves seen continuously throughout the left anterior temporal region.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural cerebral dysfunction in the left anterior temporal region, which is consistent with a known injury.  No seizures or epileptiform discharges were seen.

@@ -1,0 +1,18 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  This is a 54-year-old woman with refractory seizures since age 30, morbid obesity, and obstructive sleep apnea.
+MEDICATIONS:  Aspirin, lovastatin, carbamazepine, Dilantin, omeprazole, vitamins.
+INTRODUCTION:  A routine EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded while awake and asleep. Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The records opens to a posterior dominant rhythm that at best reaches 9 Hz which is reactive to eye opening.  There is some frontal central beta.  There is limited wakefulness of the recording.  The majority of the time the patient is drowsy and sometimes even during wakefulness there appears to be some excessive theta seen throughout.  The patient is recorded in stage I sleep. 
+Activating procedures, including hyperventilation, exacerbates left temporal slowing, which I will discuss, with abnormal discharges.  Photic stimulation produces no abnormal discharges. 
+Abnormal discharges:
+Focal sharp waves seen over the left hemisphere maximal at T3 and at times at T5, sometimes more anteriorly at F7.  All of them are with prominent posterior parietal P3 component and high amplitude.  These are seen in wakefulness and sleep.  
+Focal slowing seen over the left hemisphere at T3, sometimes more posteriorly at T5, at a frequency of 2-4 Hz and amplitude of 20-60 mV.  
+Excessive daytime wakefulness is seen at a frequency of 5-7 Hz at an amplitude of 20-60 mV.   
+Heart rate:  The heart is regular at a frequency of 72. 
+Seizures:  None.
+IMPRESSION:  Abnormal EEG due to left hemispheric sharp waves, sometimes with a more posterior component, as well as left mid temporal slowing and excessive daytime wakefulness.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of localization related epilepsy with seizures likely arising from the left hemisphere.  In addition, there is evidence of focal cerebral dysfunction in the left mid temporal to posterior temporal regions, which is nonspecific in regards to etiology.  Lastly, there is some evidence of diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  No seizures were seen. 
+Note:  This EEG is slightly different from the one recorded on 02/24/2011 where there was some bilateral slowing and some sharply contoured left temporal slowing.
+
+

@@ -1,0 +1,10 @@
+.
+REASON FOR STUDY:  Unresponsiveness.
+MEDICATIONS:  Acetaminophen, thiamin, folic acid, Serax, oxazepam.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 system with anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedure included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz which is  reactive to eye opening.  This posterior dominant rhythm has a low amplitude of about 20-30 microvolts.  There is some frontocentral beta.  Activating procedures including hyperventilation and photic stimulation does not produce any abnormal discharge.  However, photic stimulation does produce nice photic driving.  The patient was recorded during wakefulness, stage 1 and stage 2.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges were seen.

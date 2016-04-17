@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Dilantin, Keppra, Vimpat.
+INTRODUCTION:  A long-term EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  Patient was recorded while lethargic.  Activating procedures were not performed.  Continuous spike wave detection as well as seizure detection software as well as patient notes and nurse's notes and patient alarms were used to review the EEG.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm or frontocentral beta.  Overall, the recording appears to be mainly in the delta frequencies with some intermittent faster frequencies showing up periodically.  There are some stage changes noted.  No activating procedures were performed.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen continuously at T5/P3 with a periodicity that ranges from 0.5 Hz to 2 Hz, at times becoming slightly less organized.  These are consistent with periodic lateralized epileptiform discharges (PLEDs).
+Generalized slow waves at 2-4 Hz at an amplitude of 20-40 mV.
+SEIZURES:  Although there were about 2-3 rhythmic runs of the PLEDs, there were 2 electrographic seizures.  One occurred at 4:15 p.m. lasting for a minute and a half.  The 2nd one occurred at 9:43 p.m.  Both of them did not appear to have any clear clinical correlate.  They were comprised of rhythmic P3-4/T5 sharp waves, evolving in frequency and amplitude and then suddenly stopping.
+HEART RATE:  84.
+IMPRESSION:  Abnormal EEG due to left posterior temporal and parietal periodic lateralized epileptiform discharges (PLEDs) and electrographic seizures in addition to generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals left posterior temporal and parietal seizures as well as a focus of irritability and cerebral dysfunction in that region.  This is likely related to the known lesion in that region.  In addition, there is evidence of diffuse cerebral  dysfunction, which is nonspecific with regards to etiology and may be due at least in part to medication effect.
+	

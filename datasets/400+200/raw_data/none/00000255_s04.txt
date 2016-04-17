@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 60-year-old male with epilepsy partialis continua characterized by left facial twitching without clear EEG correlate on baseline EEG.  
+MEDICATIONS: Keppra, Dilantin, and 6 mg of Ativan.
+INTRODUCTION: Continuous video EEG is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. By the time the EEG begins, the patient’s seizures appeared to have stopped.  In addition, he is intermittently agitated, removing his scalp electrodes.  
+DESCRIPTION OF THE RECORD: The waking section of the record demonstrates a slow background with an intrahemispheric asymmetry with disruption of faster frequency activity on the right compared to the left.  As the patient drifts off to sleep, a right centroparietal spike and slow wave or poly spike complex is identified.  The minute the patient arouses from sleep, the epileptiform activity becomes more subdued, although there is some arrhythmic delta activity in the same region.  There are intermittent portions of the record where the patient is moving with this epileptiform activity and is awake.  Review of the video, which is placed to the left of the patient and would be expected to capture epileptiform activity, does not identify focal facial twitching.  By 8:00 AM, the patient has removed many of the scalp electrodes from the right, although the right C4-P4 electrodes are in continuity and there is some periodic slowing noted.  In the later part of the record, which includes the daytime on 10/18/06, again when the patient is sleeping, there is a pattern of very prominent epileptiform activity from the right centroparietal and occasional temporal regions, but stimulation of the patient is associated with an arousal and the epileptiform activity decreases.  
+HR:  80 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Intermittent delta activity from the right hemisphere with periodic delta and right centroparietal sharp waves. 
+	Intermittent background slowing on the left. 
+CLINICAL CORRELATION: No additional clinical seizures were recorded, however, there is a highly irritative process on the right and ongoing vigilance is recommended.   
+
+

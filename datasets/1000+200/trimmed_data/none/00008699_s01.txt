@@ -1,0 +1,9 @@
+MEDICATIONS:  Metoprolol, Lisinopril, Aldactone, Coumadin, Heparin.
+REASON FOR STUDY:  Episode of syncope.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and sleep.  Activating procedures were performed including photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a low amplitude posterior dominant rhythm which has a frequency of 10 to 11 Hz which is reactive to eye opening.  There is normal frontocentral beta.  There are no abnormal discharges to photic stimulation.  The patient goes into stage I and stage II sleep. 
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and asleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Please note that a normal EEG does not exclude the diagnosis of epilepsy.

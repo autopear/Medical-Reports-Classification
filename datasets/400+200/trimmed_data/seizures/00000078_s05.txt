@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin 
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation was not possible. Photic stimulation was performed. 
+DESCRIPTION OF THE RECORD: The background EEG is somewhat disorganized. There is an 8 Hz posterior dominant rhythm. There is epileptiform activity prominent in the left hemisphere with a generous field of spread. It is picked up at F7, FP1, F3 in the left central regions. It also has almost an aspect of reflection in the right hemisphere. There are rare, right frontal discrete spikes noted as well. The patient is awake throughout. At 11:51 there is a poorly defined likely epileptic seizure characterized by the appearance of more rhythmic theta from the left frontal region. The patient remains confused. The patient is somewhat confused and this event is not identified by the technician as a seizure. The patient has difficulty communicating during this event 
+Photic stimulation produces scant driving from the right 
+HR: 60 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Clinical seizure with somewhat more subtle epileptiform activity frozen section the left hemisphere. 
+2. Prominent epileptiform activity with polyspike activity and sharp waves with a generous field of spread on the left. 
+CLINICAL CORRELATION: This EEG is diagnostic of a localization related mechanism of epilepsy and with the overall clinical picture may represent a form of complex partial status epilepticus. 

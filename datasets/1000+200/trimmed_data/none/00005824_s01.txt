@@ -1,0 +1,13 @@
+MEDICATIONS:  Phenobarbital, Lamotrigine, Depakote.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and stage 1 sleep.  Activating procedures including photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 Hz and is reactive to eye opening.  There is a normal amount of frontocentral beta.  Sleep stage I is noticed.  Photic stimulation produces no abnormal discharges.  Please note that during the recording there is an increased amount of muscle artifact seen throughout and only at times more clearly defined electrical wave forms can be seen.   
+ABNORMAL DISCHARGES:  
+Focal slow waves at F7/T3 and less so but also present at F8/T4.  Please note that the F7/T3 slow waves at times become monomorphic and rhythmic, consistent with temporal intermittent rhythmic delta activity (TIRDA).
+Focal sharp waves seen frequently at F7/T3 and also at F8/T4.   
+SEIZURES  None.
+IMPRESSION:  Abnormal EEG due to: 
+Bilateral anterior temporal sharp waves.
+Background slowing.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of localization related epilepsy with seizures likely arising from either anterior temporal lobe.  No seizures were seen during this recording.

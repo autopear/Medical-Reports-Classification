@@ -1,0 +1,18 @@
+MEDICATIONS: Protoniz, Asa, Insulin, Metformin, glipizide, Tegretol 
+INTRODUCTION: Digital video EEG was performed in the lab using standard 10-20 
+system of electrode placement with 1 channel of EKG. Hyperventilation and photic 
+stimulation was performed. 
+DESCRIPTION OF THE RECORD: In wakefulness there is an 8 Hz alpha rhythm 
+identified bilaterally. There is arrhythmic delta activity identified in the left temporal 
+region, more significant than the right. There is wicket activity, but there is also clear 
+sharply contoured delta in that region. Hyperventilation was performed early in the 
+record, clearly accentuating sharply contoured delta in that region. Later in 
+hyperventilation bursts of rhythmic high amplitude generalized delta are observed. 
+As the patient becomes drowsy again sharply contoured delta is identified with a T3 
+maximum. Photic stimulation elicits scant driving. 
+HR: 65 bpm 
+IMPRESSION: Abnormal EEG due to: 
+1. Sharply contoured delta in the left temporal region. 
+CLINICAL CORRELATION: These findings were observed in 2 previous EEGs but are 
+clearly more prominent today. While there are no definitive sharp waves, the sharply 
+contoured delta is quite prominent. No seizures were recorded. 

@@ -1,0 +1,18 @@
+MEDICATIONS: Insulin, Ondansetron, Testosterone, Dextromethorphan, Antivirals, 
+Cefepime 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 
+system of electrode placement with 1 channel of EKG. The patient is somewhat 
+drowsy. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a markedly 
+slow background with rhythmic theta and delta, more of a delta than theta pattern. 
+There are frontally predominantly triphasic waves. There are also some bifrontal 
+generalized periodic sharps, only isolated, not evolving, and some right frontal sharp 
+waves. Stimulation of the patient produces a brief alerting response with an increase in 
+theta. 
+HR: 96 bpm 
+IMPRESSION: Abnormal EEG due to: 
+I. Prominent triphasic waves. 
+2. Marked background slowing. 
+3. Occasional right frontal sharp waves. 
+CLINICAL CORRELATION: No seizures were recorded. These findings are more 
+compatible with a toxic or metabolic encephalopathy. 

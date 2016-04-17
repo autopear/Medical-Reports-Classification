@@ -1,0 +1,9 @@
+MEDICATIONS:  Neurontin, Zoloft, Ventolin
+REASON FOR STUDY:  Headache.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and drowsiness.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 to 10 Hz which is reactive to eye opening.  The patient is recorded in wakefulness and drowsiness.  Activating procedures produce no abnormal discharges. 
+ABNORMAL DISCHARGES:  None.
+SEIZURES:   None
+IMPRESSION:  Normal awake and drowsy EEG.
+CLINICAL CORRELATION: No seizures or epileptiform discharges are seen.

@@ -1,0 +1,9 @@
+MEDICATIONS: check chart, Clonidine.
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is stuporous. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is somnolent. The background is diffusely slow with primarily theta frequency activity but with prominent, superimposed arrhythmic delta activity as well as 15, sharply contoured delta activity in the temporal region, right greater than left. There are rare triphasic waves identified in the background.  Stimulation of the patient produces a minimal alerting response with a theta frequency activity and a bit of head movement.  
+HR:  96 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing with poor organization.
+Prominent, shifting arrhythmic delta activity from the temporal regions.
+Rare triphasic waves.
+CLINICAL CORRELATION: These features are non-specific but are most characteristic of a metabolic encephalopathy although they may be seen in multifactorial processes such as metabolic encephalopathy plus underlying cerebral vascular disease.  No epileptiform features were seen and no seizures were recorded.

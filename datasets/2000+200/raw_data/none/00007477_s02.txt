@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  62 year old man found having seizures.
+MEDICATIONS:  Dilantin, Ativan.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal with single-lead EKG electrode.  The patient was recorded while lethargic.  Activating procedures including photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record is mainly in sleep, however, in limited wakefulness, there appears to be a normal posterior dominant rhythm of 9 Hz which appears to be reactive to eye opening.  There is an increased amount of frontocentral beta noticed diffusely throughout the recording.  When the patient goes to sleep quickly and throughout the recording is mainly in sleep.  Activating procedures with photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  Mild excessive theta in wakefulness.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:  
+Mild excessive theta in wakefulness.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild diffuse cerebral dysfunction which is nonspecific with regards to etiology, may be due at least in part to medication effect.  No seizures or epileptiform discharges were seen.
+
+

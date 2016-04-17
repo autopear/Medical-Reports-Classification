@@ -1,0 +1,13 @@
+MEDICATIONS: Cefriaxone, Acycloyir, Insulin 
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10,20 system of electrode placement-with 1 channel EKG. The patient is arousable. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a diffusely 
+slow pattern with slow rhythmic theta and delta. There is shifting asymmetries and there is more significant muscle on the right compared to the left. The right hemisphere contains more slow delta than the left and there is an Underlying right centrotemporal broadly contoured sharp focus seen with some irregularity throughout the record.
+ 
+Stimulation of the patient does not significantly activate the record. 
+HR: 126bpm
+ 
+IMPRESSION: ·Abnormal EEG due to: 
+1. Marked background slowing. . 
+2. A periodic sharp wave in the right hemisphere with frontal central localization but a broad field of spread. 
+· 
+CLINICAL CORRELATION: No seizures were recorded. The sharp wave in the right hemisphere suggests a focal mechanism for epilepsy and is congruent with the focal pathology in the right hemisphere. 

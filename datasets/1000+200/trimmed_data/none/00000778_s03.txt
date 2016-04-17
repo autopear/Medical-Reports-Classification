@@ -1,0 +1,8 @@
+	MEDICATIONS:	Aspirin, Trileptal,  Aricept
+		INTRODUCTION:	Digital  video EEG  performed in  the laboratory  using standard 10/20 system of electrode  placement and one lead of EKG channel. 	The  EEG is performed with photic stimulation,  and the record is performed through wakeness going through  drowsiness.
+					DESCRIPTION   OF  THE  RECORD:	The background  EEG  is markedly  abnormal. There is a mixture of theta  and delta. 	There is  a periodic complex observed in the posterior quadrant.	This has an unusual field  and has significant bilateral  representation, but when reviewed  with  different montages is clearly maximum  in the right posterior  quadrant T6,  02  but also involves the left occipital region as well.	The complexes  do not evolve but are seen intermittently  and  irritatively with  prominent after going swell  activity.		Photic stimulation does not activate  the record.
+HR:  68  bpm
+	IMPRESSION:	Abnormal  EEG  due to:
+	1.	Markedly  abnormal  background
+	2. 		Prominent, periodic activity  in the occipital regions, right greater  than the left.
+		CLINICAL   CORRELATION:	No seizures  are recorded but this EEG  suggests a highly irritative process. 	Additional EEG  recording is  advised.

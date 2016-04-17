@@ -1,0 +1,9 @@
+	MEDICATIONS:	Dilantin, Detrol, Seroquel
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1  channel EKG.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates a somewhat slow background, but at times, the posterior dominant rhythm reaches 9 hertz. Notable features in this record include left frontal rhythmic delta with some spread to the right frontal region, excess slowing observed in both hemispheres,  left greater than right. In some of the bursts of left greater than right frontal delta, there is a small discrete left frontal sharp wave. Features of drowsiness include increase background slowing.
+	HR:	66 bpm
+IMPRESSION: Abnormal EEG due to:
+	1. 	Rhythmic frontal delta left greater than right.
+	2.	Excess background slowing.
+	3. 	Tiny, discrete left frontal sharp waves.
+CLINICAL CORRELATION:   These findings are congruent with the history described above. No seizures were recorded.

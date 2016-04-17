@@ -1,0 +1,7 @@
+MEDICATIONS: Topiramate, Depakote, Plavix, Zoloft, Neurontin, and many others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 8.5 Hz posterior dominant rhythm.  There is intermittent focal slowing from the left temporal region with higher amplitude, sharply contoured delta activity occurring in bursts of 3 to 5 seconds duration. Drowsiness is characterized by anterior spread of the alpha rhythm.  Deeper stages of sleep are not achieved.  
+HR:  78 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Left temporal sharply contoured delta. 
+CLINICAL CORRELATION: These features are similar to previous studies.  No seizures were recorded.  If this patient is thought to have ongoing spells, EEG monitoring is recommended.

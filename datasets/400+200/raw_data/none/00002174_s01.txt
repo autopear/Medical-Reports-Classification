@@ -1,0 +1,12 @@
+CLINICAL HISTORY: This is a 41-year-old male with confusion associated with diarrhea. 
+MEDICATIONS: Dilantin and antibiotics. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and somewhat drowsy record. 
+DESCRIPTION OF THE RECORD: As the tracing opens, the patient is somewhat drowsy.  The EEG is markedly slow with primarily slow arrhythmic delta activity and a suggestion of very poor localization with almost periodic delta in the right posterior quadrant.  The right hemisphere demonstrates more arrhythmic delta than the left.  There are intermittent spontaneous arousals with an increase in theta frequency activity.  As the recording continues towards photic, there is an underlying sharp wave in the right posterior quadrant.  Photic stimulation does not clearly activate the record, and the sharp wave is not consistently associated with stimulation and can be seen when the stimulation is turned off.  
+HR:  66 BPM.
+	IMPRESSION: Abnormal EEG for an adult of this age due to:
+Marked background slowing.
+Superimposed focal slowing from the right hemisphere, particularly the right posterior quadrant. 
+Sharply contoured, periodic delta in the same distribution. 
+CLINICAL CORRELATION: No seizures were recorded.  This EEG should be placed in the appropriate clinical context with this patient’s comorbidity.   
+
+

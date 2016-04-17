@@ -1,0 +1,10 @@
+MEDICATIONS:  Ativan. 
+REASON FOR STUDY:  Seizure.
+INTRODUCTION:  Digital video routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded while unresponsive.  No activating procedures were performed. The patient is sedated. 
+TECHNICAL DIFFICULTIES:  None
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no normal posterior dominant rhythm, no normal frontocentral beta.  There is no normal sleep architecture.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:  Generalized slow waves at 2 to 4 Hz seen continuously throughout the recording.  During the recording the patient was stimulated and there was some increase in muscle artifact.
+SEIZURES:  None
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slowing with some reactivity.
+CLINICAL CORRELATION:  This EEG reveals moderate to severe diffuse cerebral dysfunction, which is nonspecific with regard to etiology.  No seizures or epileptiform discharges were seen.

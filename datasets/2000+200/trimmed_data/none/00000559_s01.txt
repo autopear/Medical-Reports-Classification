@@ -1,0 +1,10 @@
+REASON FOR STUDY:  Rule out seizures.
+MEDICATIONS:  Dilantin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 system of electrode placement with the addition of anterior temporal and single lead EEG electrode.  The patient was recorded during wakefulness and drowsiness.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  During the last 2 minutes of the recording there is multiple electrode artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9-10 Hz which can only be seen over the right hemisphere.  There is an absence of normal beta over the left hemisphere.  Activating procedures were not performed.  The patient was recorded in wakefulness and drowsiness.    
+Abnormal discharges:  Focal slow waves seen continuously over the right hemisphere, maximal at F7/T3.  There is associated loss of faster frequencies over this region.  There is also some attenuation.  This is seen continuously at a frequency of 2-4 Hz and amplitude of 20-40 microvolts.   
+Seizures:  None. 
+Heart rate:  78.
+IMPRESSION:  Abnormal EEG due to left hemispheric slowing, maximal in the anterior temporal region with associated loss of faster frequencies.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural cerebral dysfunction in the left hemisphere, maximal in the anterior temporal region, which may be consistent with a structural lesion in that region.  No seizures or epileptiform discharges were seen.

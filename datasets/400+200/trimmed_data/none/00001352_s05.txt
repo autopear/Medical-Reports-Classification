@@ -1,0 +1,9 @@
+	MEDICATIONS:  Keppra, Lamictal.
+REASON FOR STUDY:  History of seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures, including hyperventilation and photic stimulation, were performed.
+TECHNICAL DIFFICULTIES:  Some multiple electrode muscle and impedance artifact.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm of 9 Hz which is reactive to eye opening.  There is normal frontal central beta seen.  The patient achieves sleep stages 1 and 2. Activating procedures, including photic stimulation and hyperventilation produces no abnormal discharges. 
+ABNORMAL DISCHARGES:      None.     
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  A normal EEG does not exclude the diagnosis of epilepsy. Repeat recording with deeper stages of sleep may aid in confirming diagnosis.

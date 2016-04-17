@@ -1,0 +1,10 @@
+MEDICATIONS:  Midazolam, Ceftriaxone, Vancomycin, Flagyl, Gentamicin, Famotidine
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a continuous but markedly abnormal pattern.  It is a mixed frequency pattern rich in slow delta, some theta, and occasional frontal beta.  There are some asymmetries noted in the record with a bit more slow delta in the right posterior quadrant than the left.  There is also some shifting slow delta that is sometimes a little bit more pervasive in the right hemisphere.  Other sections of the record are more consistently symmetric.  There is a small degree of variability in the record, with some sections demonstrating a bit more theta and beta.  In addition, this EEG demonstrates rare attenuation of the background followed by bursts of bilateral frontal delta.   Tactile stimulation does not significantly activate the record.  
+HR:    150 bpm
+IMPRESSION:  Abnormal EEG due to:
+Markedly slow background.
+A bit more slow delta on the right. 
+A paroxysmal pattern with attenuation and then bursts of delta.  
+Absence of reactivity, although there is some variability.
+CLINICAL CORRELATION:  This EEG supports a severe bihemispheric disturbance of cerebral function.  No seizures were recorded.  There are features about this EEG which may reflect either a diffuse disturbance of cerebral function or a metabolic disturbance including the attenuation and FIRDA.  Alternatively, this may reflect a more chronic, postanoxic pattern.

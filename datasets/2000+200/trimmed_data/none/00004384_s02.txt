@@ -1,0 +1,11 @@
+MEDICATIONS: Dilantin. 
+INTRODUCTION: 24-hour video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. No events were noted by the clinical team. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a 10 Hz posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  In the initial portions of the record, there is intermittent rhythmic theta activity prominent from the left temporal region, identified in wakefulness.  This can be seen at 10:15 AM on the 28th.  
+Overall, compared to the study on the 11th, the activity is less persistent.  Again, intermittent rhythmic theta and delta is seen throughout the recording and is seen on the morning of the 29th; however, there are also extensive periods in the record that demonstrate a pattern without that same rhythmic slowing.  There is an 11 Hz posterior dominant rhythm identified and a small amount of low voltage, frontocentral beta activity.
+RANDOM WAKEFULNESS AND SLEEP: As the patient becomes drowsy, the left temporal theta becomes more prominent.  The seizure detector is reviewed. Although there are some artifacts, there are no clinical seizures identified by the seizure detector.  The sleep record is characterized by attenuation of the alpha rhythm with persistence at times of some rhythmic theta from the left temporal region and a handful of sharp waves seen independently from the right or left temporal area.  In stage II sleep, left temporal spike and slow activity is identified.  
+EKG LEAD:  N/A.
+	IMPRESSION: Abnormal 24-hour video EEG due to:
+Intermittent rhythmic left temporal theta activity without frequency evolution. 
+Left anterior temporal spike and slow wave activity.
+In sleep, occasional right anterior spike and slow wave activity.  
+CLINICAL CORRELATION: No seizures were recorded.  Overall, there is some improvement over the course of the recording with less in the way of a sustained rhythmic theta from the left temporal region.  This would be compatible with a postictal process, which was gradually improving over time.  

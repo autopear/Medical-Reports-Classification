@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 79-year-old woman with chronic encephalopathy, diabetes, stroke, tracheostomy, minimally responsive at present. 
+MEDICATIONS: 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a slow pattern.  There is very prominent, high amplitude eye movement artifact in a background that is a mixture of theta and alpha frequency activity. There is clear reactivity and variability with some portions of the record richer in beta and others richer in theta.  A handful of triphasic waves are noted in this record.  Features of drowsiness include some bursts of rhythmic frontal delta.  The eye movements continue throughout the record. 
+HR:  108 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing with a mixture of fast alpha and theta frequency activity. 
+A handful of triphasic waves. 
+CLINICAL CORRELATION: Given the prominent eye artifact picked up when this patient is awake, sharp waves in the frontal regions may be overlooked. If epilepsy is an important consideration, a more extended record with sleep would be necessary to search for epileptiform activity.  The overall background is non-specific.  There are features to support a metabolic encephalopathy with transition from more of an alpha-theta pattern to more of a theta-delta pattern, as well as the appearance of triphasic waves.  No seizures were recorded. 
+
+

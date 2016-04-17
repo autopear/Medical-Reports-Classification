@@ -1,0 +1,9 @@
+MEDICATIONS: Dilantin, Phenobarbital,  Risperdal
+INTRODUCTION:  Digital video EEG was performed at bedside using the standard 10-20 system of electrode placement with 1 channel EKG. There is no hyperventilation or photic stimulation.
+DESCRIPTION OF THE RECORD: The background EEG as the patient begins is slow. The patient transitions between wakefulness and drowsiness.  The overall pattern is a relatively low voltage pattern with beta and theta.  Superimposed upon this, there is focal rhythmic right temporal theta and right temporal sharp waves are observed.  Even when the patient is awake and moving about, the right temporal sharp waves are noted.  In addition on some occas·ions, the  right temporal sharp waves are associated with focal beta in the right centrotemporal region. Stage 2 sleep is characterized by vertex waves and spindles.  The epileptiform activity persists into stage 2 sleep.
+HR:  84 bpm and irregular
+IMPRESSION: Abnormal EEG due to:
+	1.	Right anterior temporal sharp waves and spikes in wakefulness into stage 2 sleep.
+	2.	Right temporal rhythmic theta.
+	3.	Generalized background slowing.
+	CLINICAL CORRELATION: This EEG supports a localization related mechanism for epilepsy. The background slowing may be due to a postictal state or this patient's neurologic and psychiatric issues.  No seizures were recorded.

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is a 68-year-old, alcoholic male with a left occipital parietal stroke and status epilepticus.  
+MEDICATIONS: Ativan 10 mg, Dilantin, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside in the ER using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and poorly responsive.  
+DESCRIPTION OF THE RECORD: The background EEG demonstrates periodic sharp waves from the right hemisphere, maximum in the right anterior temporal region.  These are reasonably high amplitude in an otherwise suppressed background with some spread to the right central parietal region.  Periodicity is one to three per second, but no actual evolution and they are accompanied by a relatively suppressed background.  As the recording continues, the periodic epileptiform discharges from the right temporal region gradually slow to approximately 1 to 1.5 per second.  The overall background remains slow.  
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Right temporal PLEDS, gradually improving over the course of the study. 
+Relatively severe generalized background slowing and suppression. 
+CLINICAL CORRELATION: This tracing is compatible with a postictal or post-status epilepticus recording.  No seizures were recorded and the slowing of the periodic activity is a positive marker that the status epilepticus is over. 
+
+

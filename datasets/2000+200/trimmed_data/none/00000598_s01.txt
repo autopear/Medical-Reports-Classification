@@ -1,0 +1,9 @@
+REASON FOR STUDY:  Seizure.
+MEDICATIONS:  Keppra, Lovenox, lidocaine.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness only.  Activating procedures included hyperventilation and photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9 Hz, which is reactive to eye opening.  There is normal frontal central beta.  The patient is recorded during wakefulness.  Activating procedures, including hyperventilation and photic stimulation, produced no abnormal discharges. 
+Abnormal discharges:  None. 
+Seizures:  None. 
+Heart rate:  72.
+IMPRESSION:  Normal awake EEG.
+CLINICAL CORRELATION:  This is a normal awake EEG.  No seizures or epileptiform discharges were seen.  Please note that a normal EEG does not exclude the diagnosis of epilepsy, and a repeat EEG capturing deeper stages of sleep may be helpful in elucidating the diagnosis.

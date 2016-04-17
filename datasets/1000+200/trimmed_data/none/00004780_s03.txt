@@ -1,0 +1,13 @@
+INTRODUCTION: Continuous video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with one channel of EKG. The patient reports no events during this section of the record.  The computer’s seizure detection file is reviewed and no subclinical seizures are noted.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG includes a symmetric, reactive 9 to 10 Hz, 80 uV posterior dominant rhythm with a small amount of low voltage, frontocentral beta activity.  Particularly in the transition to drowsiness, there is occasional, left greater than right temporal delta, which on one or two occasions is sharply contoured.  Relatively frequent arousals from sleep are identified.  Occasional POSTS are seen in stage I sleep.  The delta seen in wakefulness is less prominent in the overnight recording.  POSTS occurring in trains, as well as spindles are identified in stage II sleep.   With arousal from sleep, occasional temporal wicket is identified from the left or right temporal regions.  
+Long-Term EEG Monitoring, September 22-23, 2004
+INTRODUCTION: No seizures are reported by the patient or the clinical staff.  Multiple practice push buttons are performed.  
+RANDOM WAKEFULNESS AND SLEEP: In wakefulness, there is a 9 Hz posterior dominant rhythm with rare, left or right temporal delta.  
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized.  Drowsiness is characterized by attenuation of the alpha rhythm.  There are prominent POSTS seen in sleep, particularly stage I and stage II sleep.  In comparison to earlier portions of the record, there is less in the way of the occasional temporal delta seen in wakefulness. 
+No seizures were recorded. 
+HR:  __ BPM.
+	IMPRESSION: This 48-hour video EEG was remarkable for:
+Two behavioral events seen in the baseline EEG, but none recorded without an EEG change.
+Occasional temporal slowing seen only in wakefulness. 
+CLINICAL CORRELATION: No epileptiform features, no spike and slow wave, and no sharp and slow wave complexes were identified in this extended recording.  In addition, no seizures were recorded.  
+ 

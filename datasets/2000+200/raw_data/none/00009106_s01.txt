@@ -1,0 +1,11 @@
+	CLINICAL HISTORY: 	50 year old male with pulmonary failure, ARDS, VDRF, status post lung transplant, evaluate for seizures.
+MEDICATIONS:  Lasix, Actonel, Prednisone
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates rhythmic background slowing with 3-5 Hz  activity, some slower delta activity, and rare triphasic waves. Stimulation of the patient does little to elicit an alerting response.
+	HR: 	140 bpm.
+IMPRESSION:  Abnormal EEG due to:
+	1.	Rhythmic background slowing.
+	2.	Triphasic waves.
+CLINICAL CORRELATION:   These findings are nonspecific, but support a diffuse disturbance of cerebral function. No epileptiform features were seen.  There were no seizures recorded.
+
+

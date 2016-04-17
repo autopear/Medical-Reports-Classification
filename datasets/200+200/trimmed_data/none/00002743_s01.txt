@@ -1,0 +1,8 @@
+MEDICATIONS: Dilantin, Topamax, and others. 
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation was not performed, but photic stimulation was completed.  This is an awake through stage II sleep record. 
+DESCRIPTION OF THE RECORD: In maximum wakefulness, the background EEG shows mild generalized slowing with a slow alpha rhythm.  There is an approximately 7 Hz, 30 V posterior dominant rhythm and a moderate amount of diffuse beta activity.  Occasional left anterior temporal sharp activity is seen, as well as bursts of sharply contoured delta activity during light sleep. Sleep is evidenced by vertex waves, spindles, and K complexes.  Photic stimulation did not activate the record. 
+HR:  90 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized slowing.
+Left anterior temporal sharp waves and bursts of sharply contoured delta activity.
+CLINICAL CORRELATION: The focal features of the left anterior findings may be suggestive of a partial mechanism for epilepsy in this patient.  The generalized slowing with alpha activity can be seen in a postictal phase or due to medications.  No clinical seizures were recorded.  If clinically indicated, a repeat EEG may be helpful.  

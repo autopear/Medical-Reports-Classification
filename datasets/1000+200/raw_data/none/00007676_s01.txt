@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Change in mental status.
+CLINICAL HISTORY:  This is a 61-year-old man with altered mental status, found to have respiratory distress, on Ativan and fentanyl for days, not waking up after stopping the medications.
+MEDICATIONS:  Zosyn, acetaminophen and heparin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded while unresponsive.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffuse slow background with no normal posterior dominant  rhythm or frontocentral beta.  There is no normal sleep architecture.  No activating procedures were performed.  Overall, the background consists of diffuse delta frequency 2-4 Hz rhythmic slowing which is maximal frontally and symmetric over both hemispheres.  The patient is suctioned at one point during the exam and there is no increasing variability or frequency in the EEG.
+ABNORMAL DISCHARGES:  Generalized slow waves as described above at 2-4 Hz, amplitude of 20-50 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to marked generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific in regards to etiology and may be due at least in part to medication affect.  No seizures or epileptiform discharges were seen.
+
+

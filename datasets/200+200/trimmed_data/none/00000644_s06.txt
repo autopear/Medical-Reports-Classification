@@ -1,0 +1,10 @@
+MEDICATIONS:  BuSpar.  Keppra was stopped day 1. Lamictal was stopped day 2.
+INTRODUCTION:  A long term EEG is performed for 96 hours using standard 10-20 system of electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  There is marked amount of muscle artifact throughout wakefulness seen on the recording.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9 Hz, which is reactive to eye opening.  There is normal bilateral frontal central beta.  The patient is recorded during wakefulness and stage 1, stage 2, and stage 3 sleep as well as REM.  Activating procedures were not performed.
+ABNORMAL DISCHARGES:  None.
+SEIZURES:  None.
+HEART RATE:  60.
+IMPRESSION:  Normal awake and sleep EEG.
+EVENTS OR PUSH BUTTONS:  None.
+CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges were seen.  Please note report is for days 1-4 of recording of epilepsy monitoring unit admission. No episodes were captured.

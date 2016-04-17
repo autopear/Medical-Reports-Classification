@@ -1,0 +1,13 @@
+	CLINICAL HISTORY: 	57 year-old woman with 1-month hospitalization due to subarachnoid hemorrhage requiring coil, ventilator-dependent, trach, evaluate for possible seizure. Details unknown.
+MEDICATIONS:  Heparin, Insulin, Nexium, Keppra, Vanco, Ceftriaxone, Zofran
+INTRODUCTION: Digital video EEG was performed at bedside using standard 10-20 system of electrode placement  with 1 channel of EKG. Patient has a tracheostomy  but is interactive with the technologist.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates  a dynamic pattern. Some portions of the record, particularly  when the technologist asked the patient to close her eyes demonstrated  medium to high amplitude pattern of theta and delta. The overall organization is acceptable.  Other portions of the waking record include more significant arrhythmic  delta from the left or the right. There are high amplitude sharp waves and sharply contoured  delta seen from the left in the initial portions of the record and sometimes also from the right. Some have an unusual field of spread picked up in the lateral temporal electrodes and the right lateral temporal and left mesial. The patient does not sustain cooperativity  and is sometimes agitated.
+	HR:	104 bpm
+IMPRESSION:  Abnormal EEG due to
+	1. 	Disorganized  slow background  with variability at some points much more remarkable background slowing and disorganization, at other times a better organized pattern.
+	2. 	Left anterior temporal high-amplitude sharps in delta.
+	3. 	Occasional sharp waves in the right.
+CLINICAL CORRELATION:  Variable pattern with a waxing and waning mental status in a waxing and waning background  organizations  compatible with delirium and can be seen in a toxic or metabolic encephalopathy or another dynamic pattern. The sharp waves are seen primarily on the left and can be correlated with imaging. No seizures were identified today. No previous EEGs were available for comparison.
+		
+
+

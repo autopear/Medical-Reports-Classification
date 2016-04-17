@@ -1,0 +1,9 @@
+MEDICATIONS:  Keppra, Depakote, Dilantin, Lyrica, Crestor.
+INTRODUCTION:  Digital video EEG was performed at the bedside in the ICU using standard 10-20 system with one channel EKG.  The patient was awake.
+DESCRIPTION OF THE RECORD:  The background EEG demonstrates an asymmetric pattern.  The right hemisphere is low voltage, with a mixture of beta and theta.  The left hemisphere demonstrates a breach rhythm with high amplitude slowing.  Epileptiform activity is noted with variability in terms of maximum including T3, T5 and O1.  The epileptiform activity reaches amplitudes of greater than 100 microvolts at times.  The epileptiform waxes and wanes.  It does not have clear frequency evolution as might be seen in a typical seizure but the pattern described above certainly does have evolution, although it never really slows or completely stops. 
+Heart rate 78 bpm.
+IMPRESSION:  This is an abnormal EEG due to:
+Essentially continuous epileptiform activity from the left posterior quadrant with some frequency evolution.  
+A high amplitude slow pattern on the left.
+A somewhat slow pattern on the right.
+CLINICAL CORRELATION:  This EEG is compatible with a late ictal or postictal pattern.  Given the nature of the epileptiform activity described above and the clinical history, this pattern may represent an ongoing ictal, late status epilepticus pattern.

@@ -1,0 +1,9 @@
+MEDICATIONS: Epigen, Atrovent, Ventolin, insulin, Plavix, and many others.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is described as lethargic. This is an awake and drowsy record.  
+DESCRIPTION OF THE RECORD: When the patient is awake, there is a fair amount of muscle in the background.  There is primarily a theta frequency pattern with low voltage, frontocentral beta activity and sharply contoured activity in the posterior quadrants.  Using the circle or transverse montage, there is an occipital sharp wave, which seems to be maximum at O1 but spreads to either side and on occasion is maximum at O2.  There is also a burst of sharply contoured delta at T4.  The patient drifts in and out of stage I sleep with the appearance of vertex waves followed by arousal.  
+HR:  102 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Prominent, posterior, sharply contoured slowing with occipital sharp waves, left greater than right.
+Single bursts of sharply contoured delta in the right temporal region.
+CLINICAL CORRELATION: Given the potential dipoles of epileptiform activity in the occipital region, the activity described above may be unilateral in one occipital region or the other with false localization.  Correlation with imaging may be of use.  No seizures were recorded.  A follow-up EEG in the lab with a decrease in muscle and artifact is recommended. 

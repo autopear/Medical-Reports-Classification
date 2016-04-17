@@ -1,0 +1,10 @@
+MEDICATIONS:  Keppra, Tramadol.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness and drowsiness.  Activating procedures including hyperventilation and photic stimulation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record reveals a well-defined posterior dominant rhythm that reaches 9 to 10 Hz, which is reactive to eye opening.  There is a normal amount of frontocentral beta.  Activating procedures produce no abnormal discharges.  The patient is recorded during wakefulness and stage I sleep. 
+ABNORMAL DISCHARGES:  Focal slow waves seen intermittently at T3 and T4, independently, at a frequency of 2 to 4 Hz with an amplitude of 20 to 60 microvolts. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Independent bilateral midtemporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the bilateral mid-temporal regions, which is nonspecific with regard to etiology.  No seizures or epileptiform discharges are seen.

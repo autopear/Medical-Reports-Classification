@@ -1,0 +1,17 @@
+MEDICATIONS:  Ativan, Dilantin, Heparin, Insulin, Norvasc, Lisinopril, Lipitor.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video routine EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded while obtunded.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with no abnormal posterior dominant rhythm or frontal central beta.  The patient is recorded while obtunded and no normal sleep architecture is seen.   
+ABNORMAL DISCHARGES:
+Focal sharp waves seen at 02 at a frequency of 1-2 Hz and an amplitude of 20-60 mV consistent with periodic lateralized  epileptiform discharges (PLED'S).  
+Focal sharp waves seen at T4 intermittently. 
+Focal slow waves seen in the right hemisphere, maximal at 02 continuously at 2-4 Hz at an amplitude of 20-60 mV.
+Generalized slowing at 2-4 Hz seen continuously throughout the recording.  There is some mild overlying theta over the entire recording also, generalized theta.   
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Right occipital PLED'S. 
+Right temporal sharp waves. 
+Right hemispheric slowing maximal in the occipital region.  This is in the setting of generalized slowing.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of localization related epilepsy with seizures likely arising from the occipital or mid temporal region.  In addition, there is evidence of right hemispheric maximal occipital structural dysfunction 
+and acute irritability, which has a high correlation with a structural lesion in that region.  No seizures were clearly seen.

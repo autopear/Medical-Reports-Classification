@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 75-year-old woman with a stroke, pacemaker, and recurrent syncope. 
+MEDICATIONS: Lovenox. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Photic stimulation is performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow with primarily a theta frequency pattern and shifting arrhythmic delta.  At times, there is a bit more arrhythmic delta in the right posterior quadrant than the left.  There are a handful of sharp waves seen in this record including left centrotemporal and right posteriotemporal. 
+Photic stimulation does not significantly activate the record. 
+HR:  70 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Background slowing.
+Shifting slowing with a bit more on the right.
+Rare sharp waves identified from either hemisphere. 
+CLINICAL CORRELATION: These features may be compared with this patient’s imaging and clinical history.  No seizures were recorded. 
+
+

@@ -1,0 +1,9 @@
+MEDICATIONS:  Ativan, Keppra, Depakote, HCTZ
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is post ictal and quite somnolent.  Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:  The initial sections of the record demonstrate a sleep state with spindles and a low voltage,  slow pattern.  As the recording continues, 
+the patient arouses briefly.  He drifts in and out of stage II sleep.  Photic stimulation is performed as he drifts in and out of sleep II sleep and does not activate the record.  There is a subtle, left frontal sharp wave with photic stimulation. 
+HR:    50 bpm
+IMPRESSION:  This EEG is remarkable for:
+Background slowing with limited wakefulness.
+Very brief focality with stimulation with disruption of fast or frequency activity on the right.
+CLINICAL CORRELATION:  This is the ninth EEG for this individual.  Previous EEGs have demonstrated right or left temporal sharp waves as well as background slowing.  No seizures were recorded.  The problem of background slowing may be part of his postictal state or medication effect.

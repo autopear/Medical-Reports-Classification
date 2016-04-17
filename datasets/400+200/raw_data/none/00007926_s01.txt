@@ -1,0 +1,12 @@
+CLINICAL HISTORY:  50 year old man with a motor vehicle collision, hit by a car, status post PEA code of unknown duration and multiple injuries with a past medical history of cerebral palsy, hypertension and hypothyroidism.
+MEDICATIONS:  Ancef, Insulin, Famotidine.
+REASON FOR STUDY:  Change in mental status
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded in wakefulness while unresponsive.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a dominant rhythm that at reaches 7 Hz.  There is no normal frontocentral beta.  There is no normal sleep architecture.  During the recording, the patient is stimulated and there appears to be no reactivity in the EEG.  However, during the recording, there appears to be intermittent bursts of delta and sometimes diffuse suppression for 1 or 2 seconds.  At some points in the recording, there appears to be some diffuse muscle artifact that occurs without any stimulation.
+ABNORMAL DISCHARGES:  Generalized slow waves at 5-7 Hz with an amplitude of 20-60 microvolts.
+IMPRESSION:  Abnormal EEG due to: 
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  However, there is some variability to the EEG and the intermittent suppression may be due at least in part to medication effect.  No seizures or epileptiform discharges were seen.
+
+

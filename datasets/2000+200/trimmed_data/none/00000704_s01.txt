@@ -1,0 +1,9 @@
+MEDICATIONS:  Protonix, Lovenox, aspirin.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient is recorded during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm, although has a low amplitude which is 9-10 Hz and is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded in wakefulness, stage I, and stage II sleep.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.   
+Heart rate 60.  He appears to have a slightly prolonged QT complex.
+SEIZURES:  None.
+ABNORMAL DISCHARGES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  This is a normal awake and sleep EEG.  No seizures or epileptiform discharges were seen.

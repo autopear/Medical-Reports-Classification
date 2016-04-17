@@ -1,0 +1,4 @@
+MEDICATIONS: see baseline
+INTRODUCTION: Digital video EEG is performed at the bedside.  There is only one practice push button.  No seizures were recorded by the patient, the computer, or the nursing staff. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates intermittent, rhythmic theta from the left hemisphere.  There are rare, left temporal sharp waves seen in wakefulness and a single right temporal sharp wave.  The vast majority of the epileptiform activity is in stage I or stage II sleep with focal slowing from the left temporal region and occasional sharp waves. 
+HR:  84 BPM.

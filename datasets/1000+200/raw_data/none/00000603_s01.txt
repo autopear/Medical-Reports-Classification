@@ -1,0 +1,13 @@
+CLINICAL HISTORY: 75 year old female with carotid artery disease on the left found by primary-care doctor.
+MEDICATIONS:  Unknown.
+REASON FOR STUDY:  Preop left CEA.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded in wakefulness.  Photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The EEG opens to a posterior dominant rhythm that at best reaches 8 Hz which is reactive to eye opening.  There is a normal amount of frontocentral beta.  The patient is only recorded in wakefulness. Photic stimulation produces no abnormal discharges. 
+ABNORMAL DISCHARGES:  Mild excessive theta in wakefulness with a slow posterior dominant rhythm. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Mild excessive theta in wakefulness with a slow posterior dominant rhythm.
+CLINICAL CORRELATION:  This EEG reveals evidence of mild cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

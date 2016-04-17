@@ -1,0 +1,10 @@
+MEDICATIONS: Haldol, Keflex, Ativan, Midazalam
+INTRODUCTION: Continuous video EEG monitoring is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG.  
+DESCRIPTION OF THE RECORD: RANDOM WAKEFULNESS AND SLEEP: The background EEG remains poorly organized.  In comparison to the baseline of previous EEGs, much more of this record shows symmetric, generalized slowing with rhythmic delta superimposed over a theta pattern.  There are intermittent portions of the record with focal slowing from the right occipital region, but these are much less prominent than previous times.  
+In sleep, there are features of sleep vertex waves, as well as a decrease in muscle activity.  
+There are multiple push button events January 28-29, 2003 at 1500 hours.  At some points, as the patient drifts off to sleep, he is holding the event monitor in his hand and seems to push it as he goes off to sleep.  Reviewing his activity, he appears to have a little asterixis and appears to be somewhat lethargic.  During some of the push button monitors, the focal slowing from the right occipital region is identified.  There is no spike and slow wave activity, no sharp and slow wave activity, and no activity with frequency evolution.  Unfortunately no motor activity is identified in the portion of the patient that is visualized on the camera which includes the face, thorax, and arms.  When the patient is examined by the nurse during some of the event monitors, there does not appear to be a change in mental status. 
+HR:  80 to 100 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Intermittent focal slowing with rhythmic delta from the right hemisphere, maximum in the right posterior quadrant. 
+CLINICAL CORRELATION: The features described above are similar to a previous study.  No seizures were recorded.  While it is somewhat difficult to determine what the behavior in question is, there were NO electrographic seizures in this study.

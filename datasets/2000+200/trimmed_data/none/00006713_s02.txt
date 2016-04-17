@@ -1,0 +1,13 @@
+MEDICATIONS:  Folic Acid, Acetaminophen, Pantoprazole, Vancomycin.
+REASON FOR STUDY:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and sleep.  Activating procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a very diffuse slow background on both sides, maximum on both frontal regions.  There is a loss of beta activity on both sides throughout the recordings.  The patient appeared to be comatose.  Activating procedures including hyperventilation and photic stimulation did not seem to change the record.
+ABNORMAL DISCHARGES:  
+Diffuse slowing maximum on frontal regions.
+Intermittent bursts of attenuation throughout recordings.
+SEIZURES:  None.
+IMPRESSION:  This is an abnormal EEG due to: 
+Diffuse background slowing maximum in the bifrontal regions. 
+Intermittent bursts of attenuation. 
+CLINICAL CORRELATION:  This EEG showed a diffuse slowing within intermittent bursts of attenuation consistent with generalized encephalopathy and nonspecific in regards to etiology.  There were no seizures or epileptiform discharges were seen.

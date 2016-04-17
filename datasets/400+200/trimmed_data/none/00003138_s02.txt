@@ -1,0 +1,9 @@
+MEDICATIONS:  Keppra, Lovenox, Zofran
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.  The patient is cooperative.
+DESCRIPTION OF THE RECORD:  The background EEG is medium amplitude and includes a mixture of theta and some delta.  There is also some alpha frequency activity.  There is some very subtle periodic slowing or sharply contoured sign with a paroxysmal slow wave noted in the right hemisphere.  There is a great deal of variability with some sections of the record much richer in alpha and theta frequency activity than others.  The very slow, subtle periodic epileptiform activity tends to occur in the sections of the record with more slowing.   
+HR:    72 to 90 bpm
+IMPRESSION:  Abnormal EEG due to:
+Intermittent, at times generalized, slowing.
+Sharply contoured paroxysmal slowing from the right temporal region.
+CLINICAL CORRELATION:  No seizures were recorded.  This EEG is compatible with a structural process on the right.  There is a very subtle, broadly contoured burst of 
+paroxysmal slowing which is potentially epileptiform.  No seizures were recorded.  The reactivity and variability are positive features in an ICU patient.

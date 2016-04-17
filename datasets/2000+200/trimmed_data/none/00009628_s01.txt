@@ -1,0 +1,9 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Levetiracetam, and folic acid.
+TECHNICAL DIFFICULTIES:  None.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.  The patient was recorded.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm that reaches 9 Hz, which is reactive to eye opening.  There is normal frontocentral beta.  The patient is recorded during wakefulness and stage 1 and stage 2 sleep.  Activating procedures included hyperventilation and photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  Focal slow waves seen independently at F7/T3 and less frequently at F8/T4.  Please note that some of the left anterior temporal discharges that at F7/T3 were very sharply contoured and appeared to be sharp transients.
+HEART RATE:  78.
+IMPRESSION:  Abnormal electroencephalogram due to focal slowing in the left anterior temporal region, more than the right anterior temporal region, at times sharply contoured.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral dysfunction in the bilateral anterior temporal region (left more than right), both of which are nonspecific in regards to etiology.  No seizures were seen.

@@ -1,0 +1,78 @@
+MEDICATIONS: Lipitor, Topamax, Pantoprazole, Depakote, Risperdal, Gemfibrozi 
+INTRODUCTION: Continuous video EEG was performed at bedside using standard 10-
+20 system of eletrode placement with 1 channel of EKG. No seizures are identified by 
+the patient. 
+DESCRIPTION OF THE RECORD: In wakefulness, background EEG is well 
+organized with 9 Hz posterior dominate rhythm. During this section of the record, 
+captures wakefulness through stage 2 sleep. There are no definite sharp waves or 
+spikes. There is wakefulness through stage 2 sleep. On a handful of occasions, there 
+is the suggestion of just a subtle asymmetry in the left frontocentral region. In addition, 
+there is a single drowsy burst with higher amplitude theta in the right frontal region. 
+HR: 60 to 90 bpm 
+02/14/2009 tO 02/15/2009 
+INTRODUCTION: Continuous video EEG is performed at bedside using standard 10-
+20 system of electrode placement with 1 channel EKG. Continuous seizure and spike 
+detection software is employed. No seizures are reported by the computer, patient, or 
+clinical team. During this section of the record the patient's Depakote was discontinued. 
+She continues to have tremors. Additional electrodes are added in an attempt to 
+localize epileptiform activity. 
+DESCRIPTION OF RECORD: This section of the record capture wakefulness 
+through stage 2 sleep and even the very beginning of some slow-wave sleep. There 
+are no epileptiform features observed. There is the subtlest of asymmetry with a little bit 
+of asymmetry in the left central region. 
+02/15/2008 to 02/16/2009 
+INTRODUCTION: Continuous video EEG was performed at bedside using standard 
+10-20 system of electrode placement with 1 channel EKG and continuous seizure and 
+spike detection software. 
+During this section, the patient reports no clinical events. Her Depakote is stopped and 
+her tremulousness improves slightly. She is sleep deprived during this section of the 
+record. 
+DESCRIPTION OF RECORD: The background EKG demonstrated a well defined 
+alpha rhythm. There is a subtle asymmetry in the central regions in the terms of theta. 
+By 5 a.m. right central high amplitude spike and wave activity can be identified. This 
+can be differentiated from the vertex activity. This is seen in sleep and the close of this 
+section on the morning of the 16th, demonstrates a well-defined awake pattern without 
+the epileptiform activity. An additional, more subtle wave forms can be seen in the 2:55 
+a.m. time sample. 
+02/16/2009 to 02/17/2009 
+Continuous digital video EEG was performed at bedside using 
+standard 10-20 system of eletrode with 1 channel of EKG. The patient has been taken 
+off Depakote. She has sleep depravation in the frequent exercise program. She 
+reports no clinical seizures and none are picked up by the seizure and spike detector. 
+The first EPOCH is 02/16/2009 to 02/17/2009. 
+RANDOM WAKEFULNESS AND In wakefulness background EEG is well 
+organized. There is some very subtle, asymmetries in the central regions identified in 
+wakefulness. 
+Notable in this section of the record are for the first ever clearly defined vertex sharp 
+waves identified in wakefulness at CZ/C4. In addition, there are a handful of high 
+amplitude awake spikes for her at CZ/C4 which is the right central region. There are a 
+handful of discharges that seem smaller and more discrete. 
+The sleep recording demonstrates more clearly defined and more frequent high 
+amplitude spike and wave activity or sharpened slow wave activity with an after going 
+slow wave which lasts nearly a second. Most of this activity is CZ/C4 which the right 
+central region. Rare generalized paroxysmal fast activity is observed. In addition, there 
+is some dyshormia with some GPFA activity superimposed upon a vertex wave. In 
+addition, isolated GPFA is observed. In the sleep record, the epileptiform activity is 
+quite frequent. It is most prominent around 1 a.m. Smaller, discrete spike activity can 
+be found in other sections of the sleep record typically after 4 a.m. 
+HR: 66 bpm 
+02/17/2008 to 02/18/2008 
+During this section of the record no seizures were identified by the patient or the 
+seizure and spike detector. 
+DESCRIPTION OF THE RECORD: The background EEG demonstrates a well formed 
+background. In sleep, central spikes and sharp waves are observed primarily seen at 
+C4/C4 prime greater than C3 prime. In addition, there are brief bursts of generalized 
+paroxysmal fast activity. The majority of the activity occurs around 1 a.m. Low voltage 
+spikes including C3 spikes can been seen in the early morning hours. 
+HR: 66 bpm 
+IMPRESSION: 
+1. Abnormal continuous video EEG monitoring due to #1. Initially very subtle focal 
+asymmetries in the central region. 
+2. Central spike and slow wave activity seen primarily on the right ranging from high 
+amplitude spike and wave activity to discrete spikes. 
+3. Occasional independent spike activity on the left. 
+4. Generalized paroxysmal fast activity. 
+5. Vertex wave identified in wakefulness on 02/16/2007 to 02/ 17/2008. 
+CLINICAL CORRELATION: This EEG is most supportive of a localization related 
+mechanism for epilepsy. Additional imaging may be helpful in search for this 
+individual's refr..ctory epilepsy . 

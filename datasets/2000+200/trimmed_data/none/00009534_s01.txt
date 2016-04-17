@@ -1,0 +1,12 @@
+MEDICATIONS:  Prednisone, Dilantin.
+REASON FOR STUDY:  Seizures.
+INTRODUCTION:  Digital video EEG was performed using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and sleep.  Activating procedures included photic stimulation.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that at best reaches 7 Hz and appears to be reactive to eye opening.  There is some frontocentral beta seen and some sleep is seen, but not a normal sleep architecture is followed.  Photic stimulation produced no abnormal discharges.   
+ABNORMAL DISCHARGES:  
+Focal slow waves seen continuously at F8/T4 at a frequency of 2 to 4 Hz and an amplitude of 20 to 60 microvolts. 
+Generalized slowing was seen at 5 to 7 Hz with an amplitude of 20 to 40 microvolts, also seen continuously.
+SEIZURES:   None
+IMPRESSION:  Abnormal EEG due to: 
+Right anterior temporal slowing. 
+Generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal cerebral structural dysfunction in the right anterior temporal region, which has a high correlation with a lesion in that region.  In addition, there is evidence of diffuse cerebral dysfunction, which is nonspecific with regard to etiology.  No seizures or epileptiform discharges were seen.

@@ -1,0 +1,9 @@
+MEDICATIONS:  Phenobarbital,  Dilantin.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement and 1  channel EKG.
+DESCRIPTION OF THE RECORD:  As the record begins an intrahemispheric asymmetry is seen with continued epileptiform discharged from the right parietal region. This activity is polyspike in nature occuring at 1-second intervals. There is no evolution of this activity. Compared to the left side where arrhythmic delta is also seen,  compared to previous studies there is an improvement in some fast activity.
+	HR: 	70 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1.	Continued right parietal polyspike activity with no evolution.
+	2.	Overall slowing of the background with mix of arrhythmic delta activity.
+CLINICAL CORRELATION:  The right parietal polyspike activity is consistent with a focus for epilepsy. There is no evolution of this pattern. No seizures were seen on this record. There is an improvement of the overall background compared to previous
+records.

@@ -1,0 +1,12 @@
+REASON FOR STUDY:  Seizures.
+MEDICATIONS:  Carbamazepine and levetiracetam.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness and sleep.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is normal frontocentral beta which is slightly higher in amplitude and frequency over the right frontotemporal hemisphere.  The patient was recorded during wakefulness and sleep.  Activating procedures produced no abnormal discharges.
+ABNORMAL DISCHARGES:  
+Single focal sharp waves seen over C4/F4 in wakefulness.
+Focal slow waves at T4 at a frequency of 2-4 Hz and amplitude of 20-40 microvolts seen continuously with increased amplitude over the left hemisphere consistent with a breached rhythm.
+SEIZURES:  None.
+HEART RATE:  60.
+IMPRESSION:  Abnormal electroencephalogram due to single right frontocentral sharp wave in addition to right mid temporal continuous focal slowing and breach.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of localization related epilepsy with seizures possibly arising from the right central frontal region.  In addition, there is evidence of focal cerebral structural dysfunction in the right midtemporal region, which is consistent with a known temporal lobectomy.  No seizures were seen.  Please note that this EEG is similar to ones performed on April 5, 2012 as well as the one performed on October 22, 2012 with the exception that the sharp waves seen today appear to be more central frontal rather than temporal.

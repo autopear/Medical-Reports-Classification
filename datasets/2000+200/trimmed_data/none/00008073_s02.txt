@@ -1,0 +1,22 @@
+MEDICATIONS: Dilantin,
+INTRODUCTION: Continuous  digital EEG was performed at bedside using standard
+10-20 system of electrode placement with 1-channel EKG. Hyperventilation and photic stimulation are performed.
+DESCRIPTION OF THE RECORD:   Background EEG is markedly abnormal There are frequent frontal predominant spike and slow wave complexes many of which are maximum in the frontal regions. This is superimposed upon a slow background. The patient rapidly drifts off to stage 2 sleep with vertex waves and spindles. The frontally predominant spike and wave activity polyspike and demonstrably  a right frontal maximum. Photic stimulation does not activate the record.
+	HR:	66 bpm
+IMPRESSION:  Abnormal EEG due to:
+	1. 	Background  slowing.
+	2. 	Frontally predominant slow spike and wave activity.
+CLINICAL CORRELATION: No seizures were recorded. This EEG supports diffuse disturbance of cerebral function and raises the possibility of a secondary generalized mechanism for epilepsy.
+LONG TERM MONITORING- 07-112.
+December 12, 2007 through December 13, 2007.
+INTRODUCTION: Continuous  video EEG monitoring is performed in the unit using standard 10-20 system of electrode placement with 1 channel of EKG. No seizures are observed by the patient. There is a break in the recording. In addition, it looks like the patient has cell phone artifact in the EEG or some other kind of artifact at 1607.
+December 12, 2007 through December 13, 2007.
+INTRODUCTION:   Continuous  video EEG monitoring is performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. There are portions of the record with loss of electrodes, but there is adequate data for 24 hours of recording. The background EEG is markedly abnormal with a slow pattern. There is front delta often notched. In contrast to the initial sections of the record over time, there is less of a right frontal sharp and less of a right frontal spike and wave complex. Both the patient's cell phone and her hospital telephone seem to be producing  some artifact in the background.
+	HR: 	96 bpm
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Slow background.
+	2. 	Rhythmic frontal delta.
+	3. 	Frontal spike and wave activity sometimes subtle, right greater than left.
+CLINICAL CORR ELATION:
+No seizures were recorded in this record, but the overall
+pattern is markedly abnormal. These findings are in striking contrast to this patient's normal, MRI. They are congruent with her clinical course of cognitive impairment.

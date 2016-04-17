@@ -1,0 +1,7 @@
+MEDICATIONS:   Lopressor, Labetalol, Tylenol, Insulin
+INTRODUCTION:   Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG. Electrode placement I modified due to the ventriculostomy. The patient is comatose but is examined during the EEG.
+DESCRIPTION OF THE RECORD:  Background EEG is markedly abnormal, slow, disorganized with a slow delta pattern, eye movements,  and occasional theta. Stimulation of the patient produces an attenuation of the background or slowing of the background.   Occasional Cheyne-Stokes  respiration is observed without a clear change in the EEG.
+HR:   100 bpm and irregular
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Replacement  of normal background with a slow relatively featureless delta pattern, disconjugate eye movement artifacts, and occasional theta.
+CLINICAL CORRELATION: This EEG supports a severe underlying encephalopathy. No seizures were recorded, and no epileptiform features were noted.

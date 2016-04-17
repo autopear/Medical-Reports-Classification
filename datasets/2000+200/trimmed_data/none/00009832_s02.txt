@@ -1,0 +1,10 @@
+MEDICATIONS:  Topamax, Phenobarbital.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement with 1 channel EKG. Awake and drowsy study.
+	DESCRIPTION OF THE RECORD:  During wakefulness there is an asymmetry of the posterior dominant alpha rhythm seen.  On the right hemisphere a 9.5 Hz 50 microvolts and on the left hemisphere the posterior dominant rhythm is of a theta range at 5 Hz at 20 microvolts. Early on there is slowing of the alpha rhythm as the patient is a bit drowsy. There is also an increase in beta activity throughout this record during both wakefulness and drowsiness. 	As the record continues as the patient becomes drowsy focal spike waves are seen specifically in the right occipital region with projection to 01 left occipital region. These spike waves are following slow waves.  Also in the right temporal region there are bursts of theta activity seen.  Head rocking artifact is seen especially during hyperventilation. No overall increase in the amplitude.  During photic stimulation there is some driving but also during this period of wakefulness there is an increase in the spike waves not seen prior during periods of wakefulness.
+	HR:	85 bpm
+IMPRESSION: Abnormal EEG due to:
+	1. 	Asymmetry of the posterior dominant alpha rhythm seen more definitively in the right posterior hemisphere.
+	2. 	Occipital spike waves seen predominantly in the right occipital region.
+	3.	Right Occipital theta
+CLINICAL CORRELATION:  No seizures are recorded in this record, but there is epileptiform activity seen more right occipital region than left. The asymmetry of the posterior dominant alpha rhythm with decrease on the left should be correlated with imaging. Prior EEG's did not demonstrate the sharp waves.
+	

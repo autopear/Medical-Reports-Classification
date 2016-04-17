@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  87 year old right handed male with a history of CAD, CHF, diabetes, hypertension, prostate cancer, who presents with episodes of loss of consciousness while sitting in a chair where after becoming unresponsive started picking at clothes, talking, and is confused.  This is the fourth episode in 6 months.
+MEDICATIONS:  Metformin, Keppra, Insulin, Digoxin, Hydralazine
+REASON FOR STUDY:  Rule out seizures.
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with 1 anterior temporal electrodes and EKG electrodes.  Wakefulness and sleep was recorded.  Photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well defined posterior dominant rhythm at 9-10 Hz with an amplitude of 20-60 mV which is reactive to eye opening.  There is normal amount of frontal central beta.  Sleep is characterized by stage I and II. Photic stimulation reveals no abnormal discharges.   
+ABNORMAL DISCHARGES:  None. 
+SEIZURES:  None.
+IMPRESSION:  Normal awake and sleep EEG.
+CLINICAL CORRELATION:  No seizures or epileptiform discharges were seen.  Note:  A normal EEG does not exclude the diagnosis of epilepsy.
+__________________________
+
+

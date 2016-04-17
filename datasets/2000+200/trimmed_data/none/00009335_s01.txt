@@ -1,0 +1,9 @@
+MEDICATIONS: Prednisone, Heparin, others.  
+INTRODUCTION: Digital video EEG is performed at the bedside using standard 10-20 system of electrode placement with one channel of EKG. The patient is drowsy and/or restless and intermittently accidentally removes his EEG electrodes. 
+DESCRIPTION OF THE RECORD: The background EEG is diffusely slow and poorly organized with a primarily rhythmic theta frequency pattern.  There is no well-defined posterior dominant rhythm.   Despite prominent eye artifact, there are bursts of frontally predominant delta activity and occasional triphasic waves.  There are some shifting asymmetries, but no consistent lateralization.  Drowsiness is characterized by an increase in delta activity as well as triphasic waves. 
+HR:  120 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Generalized background slowing.
+Bursts of frontally predominant rhythmic delta activity.
+Rare triphasic waves. 
+CLINICAL CORRELATION: These features are non-specific, but are suggestive of a toxic or metabolic encephalopathy.  No seizures or epileptiform features were recorded. 

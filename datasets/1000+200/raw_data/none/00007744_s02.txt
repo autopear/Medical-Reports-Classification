@@ -1,0 +1,14 @@
+CLINICAL HISTORY: This is a 29-year-old woman of unknown handedness admitted 10/22/06 in status epilepticus with recurrent seizures on the morning of the 23rd.  History of head trauma and epilepsy.
+MEDICATIONS: Dilantin, Lamictal, Prozac, Ativan, others. 
+INTRODUCTION: Continuous video EEG monitoring is performed in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient has multiple events. 
+EVENT – TIME 9:41: The patient is awake.  She sits up and looks to the right.  She demonstrates up and down movements of the arms and thrusting movements of the pelvis.  There is a jiggling movement, which begins to abate after 40 seconds.  The total event duration is approximately one minute.  There is no postictal slowing and no impairment of awareness following it clinically.  
+EVENT – TIME 9:44:10: This event is characterized by waxing and waning shaking of the arms without EEG change.  Following this event, the patient turns her head to the left.  
+EVENT – TIME 12:23:  The patient is awake.  She seems to be moving her mattress.  Electrode integrity is poor. EEG N/A
+EVENT – TIME 8:27: On the morning of the 22nd the patient is in bed. The nurse walks out of the room and the patient begins to jiggle.  This jiggling behavior produces a return of the nurse to the bedside.  The audio is not working, but the behavior seems to stop on its own.  The waking background is remarkable for excess beta and excess theta, particularly after an infusion of multiple sedative hypnotic medications.  There are rare bursts of left temporal focal slowing with sharp waves seen primarily on the 23rd.  Stage II sleep is remarkable for vertex waves, K complexes, spindles, and multiple arousals from sleep.  There was little in the way of epileptiform activity on the 24th; in fact, the focal features were really primarily seen in the baseline and in the first section of the recording.  The patient disconnected herself at 3:00 AM.  The final behavioral event seen at 8:30 was identified without the EEG recording, just by the video. 
+HR:  80 to 100 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Multiple behavioral events without EEG change.  These events were also characterized by no postictal confusion, slowing, or behaviors that were far more characteristic of non-epileptic seizures with jiggling and pelvic thrusting-like behaviors.
+	Two bursts of left temporal slowing and sharp waves.
+CLINICAL CORRELATION: Consideration for a localization-related mechanism is important, although the behaviors in question do not appear to be seizures.  
+
+

@@ -1,0 +1,13 @@
+REASON FOR STUDY:  Rule out seizures.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with the addition of anterior temporal and single lead EKG electrode.  The patient was recorded while unresponsive.  Activating procedures were not performed.
+MEDICATIONS:  Lorazepam, Ativan.
+HISTORY:  A 49-year-old male admitted on March 23, 2013, with fevers, shortness of breath, and pneumonia, found to have facial movement, questionable status.  Past medical history is significant for spinal abscess and quadriplegia.
+TECHNICAL DIFFICULTIES:  Some anterolateral artifact.
+DESCRIPTION OF THE RECORD:  The records opens to a slow background with no posterior dominant rhythm or frontocentral beta.  Overall, the background consisted of delta frequency slowing with very frequent intermixed bursts of beta, centrally predominant discharge of low amplitude that was seen lasting than 1 second.
+ABNORMAL DISCHARGES:  As stated before, generalized slowing at 2-4 Hz and amplitude of 20-30 microvolts.
+SEIZURES:  None.
+HEART RATE:  120.
+IMPRESSION:  Abnormal electroencephalogram due to generalized slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of moderate to marked diffuse cerebral dysfunction, which is nonspecific in regards to etiology.  No clear seizures or epileptiform discharges were seen, however, the overlying alpha and beta bursts suggests that this is due at least in part to medication effect.  No seizures were seen.
+
+

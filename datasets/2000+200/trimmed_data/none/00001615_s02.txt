@@ -1,0 +1,9 @@
+MEDICATIONS:  Versed, Vecuronium, Ativan
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated and poorly responsive.
+DESCRIPTION OF THE RECORD:  The EEG now demonstrates a continuous pattern with mixed frequency theta and delta.  There is a frontally predominant triphasic wave.  There is also a discrete bifrontal periodic sharp wave which does not evolve.  There is a little bit of variability in the record.  Stimulation of the patient does not significantly activate the record. Eye blink is noted throughout the record. 
+HR:    90 bpm
+IMPRESSION:  Markedly abnormal EEG due to:
+A slow background with mixed theta and delta.
+Triphasic waves.  
+Occasional simple periodic complexes in the frontal region.
+CLINICAL CORRELATION:  Additional EEG recording may be important to follow this CNS process, particularly with some triphasic waves and some simple periodic discharges, but no seizures were recorded.

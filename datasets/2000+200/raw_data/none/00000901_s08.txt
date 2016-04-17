@@ -1,0 +1,18 @@
+CLINICAL HISTORY:   29 year old male with history of head trauma being monitored in the long-term monitoring for barbiturate coma.
+MEDICATIONS:  Pentobarbital, Propofol, Fentanyl, Versed, Keppra
+INTRODUCTION:  Continuous digital video EEG monitoring was performed at bedside using standard 10-20 system of electrode placement with 1 channel of EKG.  The patient is intubated, in a hard collar.  No other updated clinical information was provided.
+DESCRIPTION OF THE RECORD:  The initial sections of this 24-hour period demonstrated a less suppressed pattern than others with brief bursts of cerebral activity and relatively attenuated or brief sections of suppression.  By 10 p.m., the EEG is more suppressed.  There is some waxing and waning and the EEG demonstrates suppressions lasting up to 30 seconds on the morning of the 10th.  In addition, there are asymmetries with bursts of activity which tend to be either bilateral or can be on the right, but are sometimes on the left.  Periods of suppression are more prominent on the right than the left.  Stimulation of the patient does not alter the record.   
+HR:   100 bpm
+INTERVAL IMPRESSION:  Ongoing burst suppression.  Correlation with the patient's clinical history would be important given the fact that the EEG is more suppressed later in the day on the 9th into the 10th.
+LONG TERM MONITORING – 11/10/2012 to 01/11/2012 - # 12-03
+INTRODUCTION:  Continuous digital video EEG monitoring was performed bedside in using standard 10-20 system of electrode placement with one channel of EKG.  No clinical updates are provided.
+DESCRIPTION OF THE RECORD:  The EEG demonstrates a discontinuous pattern which becomes less discontinuous overnight in the early morning hours of the 11th.  As the recording continues, the EEG is increasingly continuous.  No seizures are noted.  In this individual with a previous left craniotomy, there are some sharp waves in the frontal regions, left more so than the right.  There is also some EKG artifact.  
+HR:    110 bpm
+FINAL IMPRESSION:  This EEG monitoring session was remarkable for:
+A burst suppression pattern.
+An increase in the continuous pattern and the elimination of a burst suppression pattern in the last day of recording.
+Sharp waves, primarily in the left frontal region, but not exclusively.
+Markedly slow background.
+CLINICAL CORRELATION:  These findings will be utilized for the neurosurgical team.
+
+

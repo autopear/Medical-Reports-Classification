@@ -1,0 +1,11 @@
+MEDICATIONS:   Dilantin, Heparin, Colace, Glipizide, Baclofen, Lasix, Keflex
+INTRODUCTION:   Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. The patient had significant, bilateral craniectomies, a history of a plate and an osteo as well as a substantial left frontal resection.
+DESCRIPTION OF THE RECORD:  Background EEG includes a significant intra-hemispheric asymmetry with relative attenuation and activity from the left frontal regions. The overall background includes alpha and theta frequency activity thus a scant, 9 Hz, relatively low voltage alpha rhythm on the right. In addition, in this individual with multiple craniotomies, there is a
+clear breech rhythm in the left fronto-central region as well as some arrhythmic delta activity in this same area. In this sharp wave countered background, there is a suggestion of a right
+central sharp wave. In addition, in the apparent, waking record there are also some isolated C3- T3 spike and wave complexes.  Sleep was characterized  by asymmetric spindles. Photic stimulation elicits scant, unilateral driving.
+	HR: 	60 bpm
+IMPRESSION:   Abnormal EEG due to:
+	1. 	Intra-hemispheric asymmetry with relative attenuation of activity on the left.
+	2. 	Breech rhythm on the right but in addition to the breech rhythm, sharp waves in the right central region.
+	3. 	Occasional left central temporal sharp waves with more well-defined after going slow wave.
+CLINICAL CORRELATION: No seizures were recorded. This EEG supports a bi-hemispheric disorder, congruent with the patient's neurosurgical history. Epileptiform activity was observed from both hemispheres although more prominently  so on the right. Sleep activity when observed was somewhat asymmetric with right-sided 11 Hz sleep spindles.

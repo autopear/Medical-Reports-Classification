@@ -1,0 +1,26 @@
+	CLINICAL HISTORY: 	Sixty-five-year-old male admitted to the hospital in July with an MI, patient became confused last week. Admitted on Thursday night/Friday morning in status epilepticus. MRI demonstrated left ACA infarct and a tiny left parietal one as well. Improving mental status but still with some flattening of affect and postural instability.
+	MEDICATIONS: 	Dilantin, Ativan
+	INTRODUCTION: 	Digital video EEG is performed in the lab using the standard 10/20 system of electrode placement with 1 channel of EKG. This is an awake and drowsy record with photic stimulation.
+	DESCRIPTION OF THE RECORD: 	In wakefulness, the background EEG is somewhat disorganized.  There is an identifiable, 9 Hz, 30 mV posterior dominant rhythm observed bilaterally. There is excess background
+theta. There is an intrahemispheric asymmetry with occasional delta in the left frontal region. Occasional, discrete sharp waves are identified primarily in the left frontal region but occasionally these are maximum in the right frontal region. Features of drowsiness
+include an increase in background slowing. Photic stimulation elicits
+a bilateral driving response with intermediate flash frequencies.
+		IMPRESSION:	Abnormal electroencephalogram 	due to:
+1. Occasional sharp waves identified primarily in the left frontal region but on rare occasions maximum in the right frontal region.
+2. Associated intermittent  focal slowing from the left frontal region.
+	CLINICAL CORRELATION: 	The overall background demonstrates dramatic improvement in comparison to previous studies. The sharp waves are reduced but still present. Of note, there are sharp waves observed on the left, congruent with the MRI findings but some are also picked up in the right frontal
+region. This may be part of the dipole of the activity. Alternatively, the areas of epileptogenesis may include both the right and the left frontal regions.
+Long-Term Montoring 07-79 - 08/11/2007
+	INTRODUCTION: 	Continuous EEG video monitoring is performed in the
+unit using standard 10-20 system of electrode placement with 1 channel
+of EKG. Patient is initially intubated in the ICU. Over the course of the EEG recording, the patient is increasingly awake.
+	DESCRIPTION OF THE RECORD: 	This is a dynamic record. In the initial sections of the record, there is an intrahemispheric  asymmetry. The left frontal region demonstrates slowing relative to the right with a mixture of theta and delta. The right hemisphere demonstrates more significant fast activity. Occasional sharp waves are noted with an unusual field of spread maximum in the left frontal region at F3, FPl, but sometimes with a horizontal dipole picked up on the right in transverse montages. Over the course of the recording, the sharp waves disappear. The beta asymmetry persists.
+Over the course of this 13.5 hour recording, there is an increase in faster frequency activity bilaterally. In addition, the patient demonstrates some evidence of wakefulness. Eye movement and other movements are seen. After 8 a.m., there is a suggestion of an alpha rhythm, emerging from the right out of wakefulness.
+The patient is examined at 8:32. A clear alerting response is identified again with the presence of alpha activity emerging from the right.
+HR: 100 bpm
+	IMPRESSION: 	This continuous video EEG monitoring is remarkable for:
+1. Sharp waves most prominent in the initial portions of the recording in the left frontal region with an unusual field of spread.
+	2. 	Intrahemispheric asymmetry with more faster frequency activity from the right than the left, as well as additional slowing from the left.
+	CLINICAL CORRELATION: 	No seizures were recorded. The improvement over time is compatible with a postictal or improving state.
+
+

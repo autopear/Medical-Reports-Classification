@@ -1,0 +1,8 @@
+MEDICATIONS:  ASA, ISS, Pantoprazole, Unasyn, Dilantin, Bactrim, Lovenox, Ativan, Labetalol, Phenobarbital,  Tylenol
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system of electrode placement with 1 channel EKG.
+DESCRIPTION OF THE RECORD: In comparison to previous long term monitoring study, there is continuation of patient's frequent right occipital spike and polyspike activity. It continues to evolve.  On video, the patient remains awake and is speaking to someone in the room. During stimulation, he moans and moves, but there is no discontinuation of the epileptiform activity. Between the spike and polyspike wave there is continued attenuation of the background lasting for two to two and a half seconds. These attenuations are also seen on the left hemisphere.  The background shows more slowing and is more consistent with a drowsy record.
+	HR:	80 bpm
+IMPRESSION: Abnormal EEG due to:
+	1. 	Seizure activity seen in the right occipital region with evolving spike and polyspike activity.
+	2.	Attentuation of the background.
+CLINICAL CORRELATION:   There is no overall change in this EEG compared to his previous long term monitoring. The patient continues to have continued seizure activity.

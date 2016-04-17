@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  51 year old right handed male with a history of an aneurysm clipping status post right frontocentral craniotomy who developed seizures afterwards with his last seizure about three months ago.
+MEDICATIONS:  Topamax, Dilantin, Benzonatate, Omeprazole, Motrin.
+REASON FOR EEG:  Seizures
+INTRODUCTION:  Digital video EEG was performed in lab using standard 10-20 electrode placement system with  additional anterior temporal and EKG electrodes.  Wakefulness and sleep stage 1, stage 2 was recorded.  Photic stimulation was performed as well as hyperventilation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm at 9-10 Hz which is reactive to eye opening.  The majority of the recording is in sleep, stage 1 and stage 2, with limited wakefulness.  Hyperventilation and photic stimulation revealed normal discharges.
+ABNORMAL DISCHARGES:  Focal slow waves seen in the right hemisphere, maximal in the frontotemporal region, which is frequent.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Right frontotemporal slowing.
+CLINICAL CORRELATION:  This EEG reveals evidence of right frontotemporal focal cerebral dysfunction, which is consistent with the known history of surgery in that region.  No seizures or epileptiform activity were seen.
+
+

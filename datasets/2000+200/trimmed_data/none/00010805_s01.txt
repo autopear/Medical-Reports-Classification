@@ -1,0 +1,8 @@
+MEDICATIONS: 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and asleep record. 
+DESCRIPTION OF THE RECORD: As the tracing opens, in wakefulness, there is a symmetric and reactive 11 Hz, 30 uV posterior dominant rhythm.   Hyperventilation is performed early on in the record and seems to accentuate rhythmic focal slowing from the right temporal region with TIRDA and disruption of the alpha rhythm.  There are rare, right centrotemporal sharp waves seen at the close of hyperventilation.  Brief features of stage II sleep include vertex waves and spindles followed by arousal.  Photic stimulation elicits a driving response with a photo myoclonic response present bilaterally.  
+HR:  90BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Right TIRDA.
+	Right temporal sharp waves. 
+CLINICAL CORRELATION: This EEG supports a structural or functional-related mechanism for epilepsy.  No seizures were recorded.  

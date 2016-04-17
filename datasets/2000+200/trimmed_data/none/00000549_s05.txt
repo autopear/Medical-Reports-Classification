@@ -1,0 +1,9 @@
+MEDICATIONS:  Depakote and Trileptal, many others.
+INTRODUCTION:  Digital video EEG is performed in the lab/bedside using standard 10-20 system of electrode placement with one channel of EKG.  Neither hyperventilation or photic stimulation were possible.  This EEG was recorded approximately 9 hours after the onset of symptoms while the patient was improving.
+DESCRIPTION OF THE RECORD:  At maximum wakefulness, the background EEG is moderately slow with excess beta, but a glimpse of an alpha rhythm.  With stimulation, the patient alerts, answers questions slowly but appropriately.  As she drifts off to sleep, the background EEG is markedly slow with rare burst of sharply contoured slowing from the right temporal region. 
+Heart rate is 60 to 96 BPM.
+IMPRESSION:  This is an abnormal EEG due to:
+Marked background slowing.
+Intermittent hypersomnolence.
+Rare sharply contoured slowing on the right.
+CLINICAL CORRELATION:  This EEG is most supportive as a bihemispheric, diffuse disturbance of cerebral function.  No seizures were recorded and there were minimal epileptiform features.  Of note, the patient had improved substantially by the time the EEG was completed.

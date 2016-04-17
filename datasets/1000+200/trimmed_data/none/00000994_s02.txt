@@ -1,0 +1,9 @@
+MEDICATIONS: Tegretol, Trileptal, Digoxin, and many others. 
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. This is the patient’s third EEG.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an alpha rhythm of 8.5 to 9 Hz identified bilaterally, but occasionally disrupted on the left.  Other focal features noted in this record include excess theta on the left, particularly the left temporal region with some sharply contoured slowing and rare sharp waves.  The arrhythmic slowing may be seen in relaxed wakefulness as well as drowsiness. Features of drowsiness include slow rolling eye movements.  
+Photic stimulation does not activate the record.  
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	Focal slowing from the left hemisphere maximum in the left temporal region, at times sharply contoured. 
+	Rare left temporal sharp waves. 
+CLINICAL CORRELATION: No seizures were recorded.  These findings are similar to two previous studies.  

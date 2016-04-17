@@ -1,0 +1,9 @@
+INTRODUCTION: Digital  Video EEG was performed at the bedside using standard 10-20
+system of electrode placement with one channel of EKG. The patient is intubated and comatose.
+DESCRIPTION  OF  THE  RECORD: As the tracing begins, the background EEG is low voltage, relatively featureless.   With stimulation, the patient's  EEG is obscured by muscle or other artifact.  There is low frequency artifact picked up in the EEG as may be seen with ventilator or other artifacts.  This pattern of the patient's intermittent grimace obscures EEG. In the portions of the record when the patient does not grimace, the background EEG demonstrates intermittent attenuations.  In this low voltage, while there are no PLEDs, there are portions of the record that are free of artifact. There is suggestion of continuity but no definite PLEDs.  There is however, low voltage delta and theta from the right as well as artifact.
+HR:   118BPM
+IMPRESSION: Abnormal EEG due to:
+1.  Replacement of normal background with a very low voltage suppressed pattern
+2.   Evidence that this EEG is actually lower voltage at the end than the beginning
+3.   Absence of reactivity and variability
+CLINICAL  CORRELATION: No seizures were seen. This EEG supports a severe disturbance of cerebral function.

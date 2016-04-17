@@ -1,0 +1,12 @@
+MEDICATIONS:  Keppra, Ativan, Metoprolol, Famotidine, Labetalol.
+REASON FOR STUDY:  Change in mental status.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 system electrode placement system with additional anterior temporal and single lead EKG electrode.  The patient was recorded in wakefulness and sleep.  Activating procedures were not performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a diffusely slow background with a posterior dominant rhythm that is better seen over the right hemisphere and at best reaches 7 Hz and appears to be reactive to eye opening.  There is some frontal central beta seen mainly over the right hemisphere.  No normal sleep architecture is seen.  No activating procedures were performed. 
+ABNORMAL DISCHARGES:
+Focal slow waves seen in the left hemisphere maximum at T3 continuously throughout the recording.
+Generalized slow waves at 5-7 Hz seen during wakefulness.
+IMPRESSION:  Abnormal EEG due to:
+1.  Left hemispheric slowing maximal in the anterior temporal region. 
+2.  Mild generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of focal structural dysfunction in the left anterior temporal region which is consistent with a known hemorrhage.  In addition, there is evidence of mild diffuse cerebral dysfunction, which is nonspecific in regards to etiology and may be due, at least in part, to medication effect.  No seizures or epileptiform discharges were seen.

@@ -1,0 +1,11 @@
+CLINICAL HISTORY: This is an 82-year-old woman who fell down a flight of steps while on Coumadin, now with a change in mental status, intubated, and unresponsive, intracerebral hemorrhages with midline shift.
+MEDICATIONS: Dilantin, Dopamine, ____________, others. Pl check tech sheet
+INTRODUCTION: Digital video EEG is performed at the bedside in the ICU using standard 10-20 system of electrode placement with one channel of EKG. The patient is intubated and poorly responsive. 
+DESCRIPTION OF THE RECORD: The initial portions of the EEG are diffusely slow with a mixture of theta and delta frequency activity.  There is an asymmetry with a bit more theta activity and some faster frequency theta activity from the right compared to the left.  Stimulation of the patient produces some artifact and then a small increase in the theta from the right.  This is quite subtle.  The left does not appear to change to tactile stimulation.  There is a small degree of variability throughout the record. 
+HR:  80 BPM.
+	IMPRESSION: Abnormal EEG due to:
+Significant, generalized background slowing.
+Subtle asymmetry with slower activity on the left compared to the right and at least some more vigorous evidence of reactivity on the right than the left.
+CLINICAL CORRELATION: This tracing supports a diffuse disorder of cerebral function effecting both gray and white matter. The left hemisphere seems to be more significantly effected than the right. No epileptiform features were seen and no seizures were recorded.
+
+

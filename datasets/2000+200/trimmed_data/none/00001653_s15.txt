@@ -1,0 +1,7 @@
+MEDICATIONS:  
+INTRODUCTION:  A continuous video EEG was performed in the unit using standard 10-20 system of electrode placement with one channel of EKG.  This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD:  In maximal wakefulness, the background EEG is well organized with a 10 Hz alpha rhythm.  In drowsiness there is an increase in theta.  Eye flutter is noted in significant portions of the record.  There is often a drowsy pattern with more of a theta frequency background.  Sleep is relatively fragmented.  Stage 2 sleep continues to demonstrate frontally predominant 3-5 Hz spike and wave activity with polys, spike and wave activity.  The spike and wave activity may be a little slower in sleep.  On the whole, it is frontally predominant and symmetric.
+IMPRESSION:  This continuous video EEG monitoring session was remarkable for; 
+Frontally predominant spike and wave activity seen almost exclusively in sleep but occasionally in early drowsiness.
+Intermittent pattern of background theta noted, which is difficult to discern from the drowsy pattern with a 7 Hz posterior dominant rhythm.  This pattern was noted a little bit later in the EEG.
+CLINICAL CORRELATION:  Although no seizures were recorded, overall, this 4-day EEG monitoring session is most supportive of a generalized mechanism for epilepsy.

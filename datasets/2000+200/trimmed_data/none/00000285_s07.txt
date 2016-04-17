@@ -1,0 +1,11 @@
+MEDICATIONS:  Trileptal.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded during wakefulness.  Activating procedures included photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 9-10 Hz which is reactive to eye opening.  There is some frontocentral beta.  Activating procedures included photic stimulation and produced no abnormal discharges.  The patient was recorded only during wakefulness and drowsiness.
+ABNORMAL DISCHARGES:  
+Focal sharp waves seen occasionally while in wakefulness at T4.  
+Focal slow waves seen continuously at T4 at a frequency of 2-4 Hz and an amplitude of 20-50 microvolts.  
+Focal slow waves seen intermittently at T3 at a frequency of 2-4 Hz and an amplitude of 20-50 microvolts.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to right midtemporal sharp waves and slowing in addition to intermittent left midtemporal focal slowing.
+CLINICAL CORRELATION:  This EEG is consistent with the diagnosis of localization-related epilepsy with seizures likely arising from the right midtemporal region.  in addition, there is evidence of focal structural cerebral dysfunction in the right midtemporal region, which is consistent with the known surgery.  Lastly, there is evidence of intermittent focal cerebral dysfunction in the left midtemporal region, which is nonspecific with regards to etiology.  No seizures were seen.

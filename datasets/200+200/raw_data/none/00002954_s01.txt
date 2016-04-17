@@ -1,0 +1,13 @@
+CLINICAL HISTORY:  60 year old left handed woman, presents with falls with no seizure activity, but similar episodes in the past with some altered mental status and confusion.
+MEDICATIONS:  Methadone, Xanax, Lisinopril, Lovenox, Ibuprofen.
+REASON FOR STUDY:  Falls with confusion.
+INTRODUCTION:  Digital video EEG was performed in lab using the standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrode.  The patient was recorded while in wakefulness and drowsiness, slightly confused.  Activating procedure including just photic stimulation was performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a posterior dominant rhythm that at best reaches 8 Hz which appears to be reactive to eye opening.  There is some normal frontocentral beta seen.  The patient appears to go into drowsiness, stage 1 sleep.  Activating procedures which included photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  Generalized slow waves at 5-7 Hz with an amplitude of 20-60 microvolts seen continuously throughout the recording.
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to: 
+Mild generalized slow waves.
+CLINICAL CORRELATION:  This EEG reveals evidence of diffuse cerebral dysfunction, which is nonspecific with regards to etiology.  No seizures or epileptiform discharges were seen.
+
+

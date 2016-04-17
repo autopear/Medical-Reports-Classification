@@ -1,0 +1,9 @@
+REASON FOR STUDY:  Seizures
+MEDICATIONS:  No medications.
+INTRODUCTION:  A routine EEG was performed using a standard 10-20 electrode placement system with additional temporal and single lead EKG electrode.  The patient was recorded in wakefulness and stage I sleep.  Activating procedures included hyperventilation and photic stimulation.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm that reaches 10 Hz which is reactive to eye opening. There is no frontocentral beta. The patient was recorded in wakefulness and stage I sleep.  Activating procedures including hyperventilation and photic stimulation produced no abnormal discharges.
+ABNORMAL DISCHARGES:  None.
+HEART RATE:  66.
+IMPRESSION:  Normal awake and sleep electroencephalogram.
+CLINICAL CORRELATION:  This is a normal awake and sleep electroencephalogram.  No seizures or epileptiform discharges were seen.

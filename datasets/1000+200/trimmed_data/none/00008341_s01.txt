@@ -1,0 +1,15 @@
+MEDICATIONS:  Keppra.
+REASON FOR STUDY:  New onset seizures.
+INTRODUCTION:  Digital video EEG was performed at bedside using standard 10-20 electrode placement system with additional anterior temporal and single-lead EKG electrodes.  The patient was recorded during wakefulness and drowsiness.  Activation procedures including photic stimulation and hyperventilation were performed.
+TECHNICAL DIFFICULTIES:  None.
+DESCRIPTION OF THE RECORD:  The record opens to a well-defined posterior dominant rhythm at 9 to 10 Hz on both sides, reactive to eye opening.  The patient was a little bit drowsy during the EEG recording.  There is an excessive amount of beta activity in the central region on the left side, mostly in the central region, associated with a breach rhythm.  There is asymmetry in terms of the slowing in the left frontotemporal region.  Activating procedures including hyperventilation and photic stimulation produce no abnormal discharges. 
+ABNORMAL DISCHARGES:  
+Frontocentral increased beta activity in the central region associated with a breach rhythm.  
+Focal slowing in the left frontal area, maximum at F7 and T3.
+Focal occasional sharp waves on F7 and T3. 
+SEIZURES:  None.
+IMPRESSION:  Abnormal EEG due to:
+Frontocentral increased beta activity and breach rhythm.  
+Focal slowing in the left frontotemporal region, maximal at F7 and T3. 
+Focal occasional sharp waves at F7 and T3, frontotemporal region.
+CLINICAL CORRELATION:  This EEG shows the left hemispheric slowing with the maximum in the left anterior temporal region associated with a localized related epilepsy with seizures most likely arising from the left frontal region.  This is consistent with the AVM and surgery on that area.  There were no seizures seen during this recording.

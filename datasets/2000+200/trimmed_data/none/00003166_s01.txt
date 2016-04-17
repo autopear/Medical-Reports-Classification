@@ -1,0 +1,9 @@
+MEDICATIONS: Lipitor, aspirin, hypertensives, and others that the patient could not recall.  
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20 system of electrode placement with one channel of EKG. Hyperventilation and photic stimulation were performed.  This is an awake and drowsy record. 
+DESCRIPTION OF THE RECORD: In wakefulness, the background EEG is well organized with a well-formed, 9 Hz, 30 V posterior dominant rhythm and a small amount of low voltage, frontocentral beta activity.  Drowsiness is characterized by attenuation of the alpha rhythm.  In occasional drowsiness there is rhythmic, 3 to 5 Hz activity from the left mid-to-anterior temporal regions. While there is some artifact, there is a subtle sharp wave seen on rare occasions in this region.  
+Hyperventilation is performed with good effort and produces a small amount of rhythmic slowing followed by attenuation of the alpha rhythm in drowsiness. Photic stimulation elicits bilateral driving and photoelectric effect. 
+Brief stage II sleep is characterized by vertex waves and spindles. 
+HR:  72 BPM.
+	IMPRESSION: Abnormal EEG due to:
+	1.	Rhythmic left frontotemporal theta activity with suspicious associated sharp waves. 
+CLINICAL CORRELATION: No seizures were recorded.  This EEG differs from the previous studies in that the activity is unilateral in this record and more rhythmic in nature. 

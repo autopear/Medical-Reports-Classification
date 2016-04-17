@@ -1,0 +1,11 @@
+REASON FOR STUDY:  Seizures.
+CLINICAL HISTORY:  This is a 54-year-old man, who presented after a fall from 3 stories, and had loss of consciousness prior to the fall.
+PAST MEDICAL HISTORY:  Significant for cardiac cath, PE, DVT, prostate cancer, AICD, and seizures in the past.
+MEDICATIONS:  Coumadin, aspirin, Depakote, Keppra.
+INTRODUCTION:  A routine EEG was performed using the standard 10-20 electrode placement system with additional single lead EKG electrode.  The patient was recorded during wakefulness and stage I and 2 of sleep.  Activating procedures included an photic stimulation.
+DESCRIPTION OF THE RECORD:  In most awake state, the posterior dominant rhythm is 9 Hz and is located in the posterior region.  There is low amplitude frontocentral beta activity distributed symmetrically.  A stage 1 sleep is characterized by vertex waves and pulse.  A stage 2 sleep is characterized by K complexes and sleep spindles.  For the most part of the recording, patient was in stage I and stage II of sleep.  Photic stimulation was performed and did not induce any driving response.  There was no seizures or epileptiform discharges seen on this record. 
+Heart rate is 82 BPM.
+IMPRESSION:  This is a normal EEG in awake and stage I and 2 sleep.
+CLINICAL CORRELATION:  A normal EEG does not exclude the diagnosis of epilepsy.  If seizures are of concern, a long-term monitoring EEG is recommended.
+
+
