@@ -4,13 +4,22 @@
  - Only labeled reports are selected.
  - For any sub-category, 80% of the reports are selected as the train set, and 20% of the reports are selected as the test set. That is, 80% reports labeled "none" and 80% reports labeled "seizures" form the training set, 20% reports labeled "none" and 20% reports labeled "seizures" form the test set.
 
-## SVM Light Filename Specification
-All files used by SVM Light is as `Name_MxN.svm`. `M` and `N` are integers indicating the method used to compute *tf* and *idf* respectively.
- - `M`: TF weight, can be 2, 3 or 4.
- 	* `2`: **Raw Frequency**
- 	* `3`: **Log Normalization** (base *e*)
- 	* `4`: **Double Normalization 0.5**
- - `N`: IDF weight, only 2 is allowed. Which means **Inverse Document Frequency**.
+# Results
+
+Category | History | Sub-Category | *TF*x*IDF* | "None"s | Matched "None"s | Matched "Seizures"s | Total Matched
+--- | --- | --- | --- | --- | --- | --- | ---
+[1](200+200/stemmed_data/category_1) | Kept | 1 | 2x2 | 40/200 | 38 (95.00%) | 33 (82.50%) | 71 (88.75%)
+[2](200+200/stemmed_data/category_1) | Kept | 1 | 3x2 | 40/200 | 38 (95.00%) | 36 (90.00%) | 74 (92.50%)
+[3](200+200/stemmed_data/category_1) | Kept | 1 | 4x2 | 40/200 | 36 (90.00%) | 36 (90.00%) | 72 (90.00%)
+[4](200+200/stemmed_data/category_2) | Kept | 2 | 2x2 | 40/200 | 39 (97.50%) | 33 (82.50%) | 72 (90.00%)
+[5](200+200/stemmed_data/category_2) | Kept | 2 | 3x2 | 40/200 | 38 (95.00%) | 37 (92.50%) | 75 (93.75%)
+[6](200+200/stemmed_data/category_2) | Kept | 2 | 4x2 | 40/200 | 38 (95.00%) | 38 (95.00%) | 76 (95.00%)
+[7](200+200/trimmed_stemmed_data/category_1) | Removed | 1 | 2x2 | 40/200 | 38 (95.00%) | 30 (75.00%) | 68 (85.00%)
+[8](200+200/trimmed_stemmed_data/category_1) | Removed | 1 | 3x2 | 40/200 | 37 (92.50%) | 31 (77.50%) | 68 (85.00%)
+[9](200+200/trimmed_stemmed_data/category_1) | Removed | 1 | 4x2 | 40/200 | 37 (92.50%) | 32 (80.00%) | 69 (86.25%)
+[10](200+200/trimmed_stemmed_data/category_2) | Removed | 2 | 2x2 | 40/200 | 39 (97.50%) | 36 (90.00%) | 75 (93.75%)
+[11](200+200/trimmed_stemmed_data/category_2) | Removed | 2 | 3x2 | 40/200 | 38 (95.00%) | 37 (92.50%) | 75 (93.75%)
+[12](200+200/trimmed_stemmed_data/category_2) | Removed | 2 | 4x2 | 40/200 | 36 (90.00%) | 38 (95.00%) | 74 (92.50%)
 
 
 ## [200+200](200+200)
@@ -122,6 +131,15 @@ Reports that are stemmed and Clinical History is removed.
 
 
 ## Appendix
+
+## SVM Light Filename Specification
+All files used by SVM Light is as `Name_MxN.svm`. `M` and `N` are integers indicating the method used to compute *tf* and *idf* respectively.
+ - `M`: TF weight, can be 2, 3 or 4.
+ 	* `2`: **Raw Frequency**
+ 	* `3`: **Log Normalization** (base *e*)
+ 	* `4`: **Double Normalization 0.5**
+ - `N`: IDF weight, only 2 is allowed. Which means **Inverse Document Frequency**.
+
 ### Stop Words
 `a` `able` `about` `across` `after` `all` `almost` `also` `am` `among` `an` `and` `any` `are` `as` `at` `be` `because` `been` `but` `by` `can` `could` `dear` `did` `do` `does` `either` `else` `ever` `every` `for` `from` `get` `got` `had` `has` `have` `he` `her` `hers` `him` `his` `how` `however` `i` `if` `in` `into` `is` `it` `its` `just` `least` `let` `like` `likely` `may` `me` `might` `most` `must` `my` `neither` `of` `off` `often` `on` `only` `or` `other` `our` `own` `rather` `said` `say` `says` `she` `should` `since` `so` `some` `than` `that` `the` `their` `them` `then` `there` `these` `they` `this` `tis` `to` `too` `twas` `us` `wants` `was` `we` `were` `what` `when` `where` `which` `while` `who` `whom` `why` `will` `with` `would` `yet` `you` `your`
 
