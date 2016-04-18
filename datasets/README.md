@@ -4,21 +4,107 @@
  - Only labeled reports are selected.
  - For any sub-category, 80% of the reports are selected as the train set, and 20% of the reports are selected as the test set. That is, 80% reports labeled "none" and 80% reports labeled "seizures" form the training set, 20% reports labeled "none" and 20% reports labeled "seizures" form the test set.
 
+## SVM Light Filename Specification
+All files used by SVM Light is as `Name_MxN.svm`. `M` and `N` are integers indicating the method used to compute *tf* and *idf* respectively.
+ - `M`: TF weight, can be 2, 3 or 4.
+ 	* `2`: **Raw Frequency**
+ 	* `3`: **Log Normalization** (base *e*)
+ 	* `4`: **Double Normalization 0.5**
+ - `N`: IDF weight, only 2 is allowed. Which means **Inverse Document Frequency**.
+
+
 ## [200+200](200+200)
 - `Reports labeled "None"`: 200
 - `Reports labeled "Seizures"`: 200
+
 ### [stemmed_data](200+200/stemmed_data)
 Reports that are only stemmed. Clinical History is **NOT** removed.
+
 #### [category_1](200+200/stemmed_data/category_1)
 Reports that some words are filtered. Numbers and number suffixes are kept.
+
 #### [category_2](200+200/stemmed_data/category_2)
 Reports that some words, numbers and number suffixes are removed.
+
 ### [trimmed_stemmed_data](200+200/trimmed_stemmed_data)
 Reports that are stemmed and Clinical History is removed.
+
 #### [category_1](200+200/trimmed_stemmed_data/category_1)
 Reports that some words are filtered. Numbers and number suffixes are kept.
+
 #### [category_2](200+200/trimmed_stemmed_data/category_2)
 Reports that some words, numbers and number suffixes are removed.
+
+
+## [400+200](400+200)
+- `Reports labeled "None"`: 400
+- `Reports labeled "Seizures"`: 200
+
+### [stemmed_data](400+200/stemmed_data)
+Reports that are only stemmed. Clinical History is **NOT** removed.
+
+#### [category_1](400+200/stemmed_data/category_1)
+Reports that some words are filtered. Numbers and number suffixes are kept.
+
+#### [category_2](400+200/stemmed_data/category_2)
+Reports that some words, numbers and number suffixes are removed.
+
+### [trimmed_stemmed_data](400+200/trimmed_stemmed_data)
+Reports that are stemmed and Clinical History is removed.
+
+#### [category_1](400+200/trimmed_stemmed_data/category_1)
+Reports that some words are filtered. Numbers and number suffixes are kept.
+
+#### [category_2](400+200/trimmed_stemmed_data/category_2)
+Reports that some words, numbers and number suffixes are removed.
+
+
+
+## [1000+200](1000+200)
+- `Reports labeled "None"`: 1,000
+- `Reports labeled "Seizures"`: 200
+
+### [stemmed_data](1000+200/stemmed_data)
+Reports that are only stemmed. Clinical History is **NOT** removed.
+
+#### [category_1](1000+200/stemmed_data/category_1)
+Reports that some words are filtered. Numbers and number suffixes are kept.
+
+#### [category_2](1000+200/stemmed_data/category_2)
+Reports that some words, numbers and number suffixes are removed.
+
+### [trimmed_stemmed_data](1000+200/trimmed_stemmed_data)
+Reports that are stemmed and Clinical History is removed.
+
+#### [category_1](1000+200/trimmed_stemmed_data/category_1)
+Reports that some words are filtered. Numbers and number suffixes are kept.
+
+#### [category_2](1000+200/trimmed_stemmed_data/category_2)
+Reports that some words, numbers and number suffixes are removed.
+
+
+## [2000+200](2000+200)
+- `Reports labeled "None"`: 2,000
+- `Reports labeled "Seizures"`: 200
+
+### [stemmed_data](2000+200/stemmed_data)
+Reports that are only stemmed. Clinical History is **NOT** removed.
+
+#### [category_1](2000+200/stemmed_data/category_1)
+Reports that some words are filtered. Numbers and number suffixes are kept.
+
+#### [category_2](2000+200/stemmed_data/category_2)
+Reports that some words, numbers and number suffixes are removed.
+
+### [trimmed_stemmed_data](2000+200/trimmed_stemmed_data)
+Reports that are stemmed and Clinical History is removed.
+
+#### [category_1](2000+200/trimmed_stemmed_data/category_1)
+Reports that some words are filtered. Numbers and number suffixes are kept.
+
+#### [category_2](2000+200/trimmed_stemmed_data/category_2)
+Reports that some words, numbers and number suffixes are removed.
+
 
 ##Stop Words
 `a` `able` `about` `across` `after` `all` `almost` `also` `am` `among` `an` `and` `any` `are` `as` `at` `be` `because` `been` `but` `by` `can` `could` `dear` `did` `do` `does` `either` `else` `ever` `every` `for` `from` `get` `got` `had` `has` `have` `he` `her` `hers` `him` `his` `how` `however` `i` `if` `in` `into` `is` `it` `its` `just` `least` `let` `like` `likely` `may` `me` `might` `most` `must` `my` `neither` `of` `off` `often` `on` `only` `or` `other` `our` `own` `rather` `said` `say` `says` `she` `should` `since` `so` `some` `than` `that` `the` `their` `them` `then` `there` `these` `they` `this` `tis` `to` `too` `twas` `us` `wants` `was` `we` `were` `what` `when` `where` `which` `while` `who` `whom` `why` `will` `with` `would` `yet` `you` `your`
