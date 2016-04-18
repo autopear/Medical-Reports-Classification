@@ -20,109 +20,105 @@ All files used by SVM Light is as `Name_MxN.svm`. `M` and `N` are integers indic
 * ### [stemmed_data](200+200/stemmed_data)
 Reports that are only stemmed. Clinical History is **NOT** removed.
 
-  * #### [category_1](200+200/stemmed_data/category_1)
-  Reports that some words are filtered. Numbers and number suffixes are kept.
-  
-  Result: [result.svm](200+200/stemmed_data/category_1/SVMLight/result.svm)
+  * [category_1](200+200/stemmed_data/category_1)
+    * Reports that some words are filtered. Numbers and number suffixes are kept.
+    * Result: [result.svm](200+200/stemmed_data/category_1/SVMLight/result.svm)
 
-  * #### [category_2](200+200/stemmed_data/category_2)
-  Reports that some words, numbers and number suffixes are removed.
-  
-  Result: [result.svm](200+200/stemmed_data/category_2/SVMLight/result.svm)
+  * [category_2](200+200/stemmed_data/category_2)
+    * Reports that some words, numbers and number suffixes are removed.
+    * Result: [result.svm](200+200/stemmed_data/category_2/SVMLight/result.svm)
 
 * ### [trimmed_stemmed_data](200+200/trimmed_stemmed_data)
 Reports that are stemmed and Clinical History is removed.
 
-  * #### [category_1](200+200/trimmed_stemmed_data/category_1)
-  Reports that some words are filtered. Numbers and number suffixes are kept.
-  
-  Result: [result.svm](200+200/trimmed_stemmed_data/category_1/SVMLight/result.svm)
+  * [category_1](200+200/trimmed_stemmed_data/category_1)
+    * Reports that some words are filtered. Numbers and number suffixes are kept.
+    * Result: [result.svm](200+200/trimmed_stemmed_data/category_1/SVMLight/result.svm)
 
-  * #### [category_2](200+200/trimmed_stemmed_data/category_2)
-  Reports that some words, numbers and number suffixes are removed.
-  
-  Result: [result.svm](200+200/trimmed_stemmed_data/category_2/SVMLight/result.svm)
+  * [category_2](200+200/trimmed_stemmed_data/category_2)
+    * Reports that some words, numbers and number suffixes are removed.
+    * Result: [result.svm](200+200/trimmed_stemmed_data/category_2/SVMLight/result.svm)
 
 
 ## [400+200](400+200)
 - `Reports labeled "None"`: 400
 - `Reports labeled "Seizures"`: 200
 
-### [stemmed_data](400+200/stemmed_data)
+* ### [stemmed_data](400+200/stemmed_data)
 Reports that are only stemmed. Clinical History is **NOT** removed.
 
-* #### [category_1](400+200/stemmed_data/category_1)
-Reports that some words are filtered. Numbers and number suffixes are kept.
-Result: [result.svm](400+200/stemmed_data/category_1/SVMLight/result.svm)
+  * [category_1](400+200/stemmed_data/category_1)
+    * Reports that some words are filtered. Numbers and number suffixes are kept.
+    * Result: [result.svm](400+200/stemmed_data/category_1/SVMLight/result.svm)
 
-* #### [category_2](400+200/stemmed_data/category_2)
-Reports that some words, numbers and number suffixes are removed.
-Result: [result.svm](400+200/stemmed_data/category_2/SVMLight/result.svm)
+  * [category_2](400+200/stemmed_data/category_2)
+    * Reports that some words, numbers and number suffixes are removed.
+    * Result: [result.svm](400+200/stemmed_data/category_2/SVMLight/result.svm)
 
-### [trimmed_stemmed_data](400+200/trimmed_stemmed_data)
+* ### [trimmed_stemmed_data](400+200/trimmed_stemmed_data)
 Reports that are stemmed and Clinical History is removed.
 
-* #### [category_1](400+200/trimmed_stemmed_data/category_1)
-Reports that some words are filtered. Numbers and number suffixes are kept.
-Result: [result.svm](400+200/trimmed_stemmed_data/category_1/SVMLight/result.svm)
+  * [category_1](400+200/trimmed_stemmed_data/category_1)
+    * Reports that some words are filtered. Numbers and number suffixes are kept.
+    * Result: [result.svm](400+200/trimmed_stemmed_data/category_1/SVMLight/result.svm)
 
-* #### [category_2](400+200/trimmed_stemmed_data/category_2)
-Reports that some words, numbers and number suffixes are removed.
-Result: [result.svm](400+200/trimmed_stemmed_data/category_2/SVMLight/result.svm)
+  * [category_2](400+200/trimmed_stemmed_data/category_2)
+    * Reports that some words, numbers and number suffixes are removed.
+    * Result: [result.svm](400+200/trimmed_stemmed_data/category_2/SVMLight/result.svm)
 
 
 ## [1000+200](1000+200)
 - `Reports labeled "None"`: 1,000
 - `Reports labeled "Seizures"`: 200
 
-### [stemmed_data](1000+200/stemmed_data)
+* ### [stemmed_data](1000+200/stemmed_data)
 Reports that are only stemmed. Clinical History is **NOT** removed.
 
-* #### [category_1](1000+200/stemmed_data/category_1)
-Reports that some words are filtered. Numbers and number suffixes are kept.
-Result: [result.svm](1000+200/stemmed_data/category_1/SVMLight/result.svm)
+  * [category_1](1000+200/stemmed_data/category_1)
+    * Reports that some words are filtered. Numbers and number suffixes are kept.
+    * Result: [result.svm](1000+200/stemmed_data/category_1/SVMLight/result.svm)
 
-* #### [category_2](1000+200/stemmed_data/category_2)
-Reports that some words, numbers and number suffixes are removed.
-Result: [result.svm](1000+200/stemmed_data/category_2/SVMLight/result.svm)
+  * [category_2](1000+200/stemmed_data/category_2)
+    * Reports that some words, numbers and number suffixes are removed.
+    * Result: [result.svm](1000+200/stemmed_data/category_2/SVMLight/result.svm)
 
-### [trimmed_stemmed_data](1000+200/trimmed_stemmed_data)
+* ### [trimmed_stemmed_data](1000+200/trimmed_stemmed_data)
 Reports that are stemmed and Clinical History is removed.
 
-* #### [category_1](1000+200/trimmed_stemmed_data/category_1)
-Reports that some words are filtered. Numbers and number suffixes are kept.
-Result: [result.svm](1000+200/trimmed_stemmed_data/category_1/SVMLight/result.svm)
+  * [category_1](1000+200/trimmed_stemmed_data/category_1)
+    * Reports that some words are filtered. Numbers and number suffixes are kept.
+    * Result: [result.svm](1000+200/trimmed_stemmed_data/category_1/SVMLight/result.svm)
 
-* #### [category_2](1000+200/trimmed_stemmed_data/category_2)
-Reports that some words, numbers and number suffixes are removed.
-Result: [result.svm](1000+200/trimmed_stemmed_data/category_2/SVMLight/result.svm)
+  * [category_2](1000+200/trimmed_stemmed_data/category_2)
+    * Reports that some words, numbers and number suffixes are removed.
+    * Result: [result.svm](1000+200/trimmed_stemmed_data/category_2/SVMLight/result.svm)
 
 
 ## [2000+200](2000+200)
 - `Reports labeled "None"`: 2,000
 - `Reports labeled "Seizures"`: 200
 
-### [stemmed_data](2000+200/stemmed_data)
+* ### [stemmed_data](2000+200/stemmed_data)
 Reports that are only stemmed. Clinical History is **NOT** removed.
 
-* #### [category_1](2000+200/stemmed_data/category_1)
-Reports that some words are filtered. Numbers and number suffixes are kept.
-Result: [result.svm](2000+200/stemmed_data/category_1/SVMLight/result.svm)
+  * [category_1](2000+200/stemmed_data/category_1)
+    * Reports that some words are filtered. Numbers and number suffixes are kept.
+    * Result: [result.svm](2000+200/stemmed_data/category_1/SVMLight/result.svm)
 
-* #### [category_2](2000+200/stemmed_data/category_2)
-Reports that some words, numbers and number suffixes are removed.
-Result: [result.svm](2000+200/stemmed_data/category_2/SVMLight/result.svm)
+  * [category_2](2000+200/stemmed_data/category_2)
+    * Reports that some words, numbers and number suffixes are removed.
+    * Result: [result.svm](2000+200/stemmed_data/category_2/SVMLight/result.svm)
 
-### [trimmed_stemmed_data](2000+200/trimmed_stemmed_data)
+* ### [trimmed_stemmed_data](2000+200/trimmed_stemmed_data)
 Reports that are stemmed and Clinical History is removed.
 
-* #### [category_1](2000+200/trimmed_stemmed_data/category_1)
-Reports that some words are filtered. Numbers and number suffixes are kept.
-Result: [result.svm](2000+200/trimmed_stemmed_data/category_1/SVMLight/result.svm)
+  * [category_1](2000+200/trimmed_stemmed_data/category_1)
+    * Reports that some words are filtered. Numbers and number suffixes are kept.
+    * Result: [result.svm](2000+200/trimmed_stemmed_data/category_1/SVMLight/result.svm)
 
-* #### [category_2](2000+200/trimmed_stemmed_data/category_2)
-Reports that some words, numbers and number suffixes are removed.
-Result: [result.svm](2000+200/trimmed_stemmed_data/category_2/SVMLight/result.svm)
+  * [category_2](2000+200/trimmed_stemmed_data/category_2)
+    * Reports that some words, numbers and number suffixes are removed.
+    * Result: [result.svm](2000+200/trimmed_stemmed_data/category_2/SVMLight/result.svm)
 
 
 ## Appendix
