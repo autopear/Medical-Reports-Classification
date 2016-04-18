@@ -1,8 +1,8 @@
 #include <QCoreApplication>
-#include <QDateTime>
-#include <QDir>
 #include <QFile>
 #include <QFileInfo>
+#include <QDateTime>
+#include <QDebug>
 
 int main(int argc, char *argv[])
 {
@@ -29,7 +29,7 @@ int main(int argc, char *argv[])
     QFile *in = new QFile(QString(argv[2]));
     if (!in->open(QFile::ReadOnly))
     {
-        printf(QString("Cannot open %1.\n").arg(QDir::toNativeSeparators(QFileInfo(in->fileName()).absoluteFilePath())).toUtf8().data());
+        printf(QString("Cannot open %1.\n").arg(QFileInfo(in->fileName()).absoluteFilePath()).toUtf8().data());
         delete in;
         return -1;
     }
@@ -67,7 +67,7 @@ int main(int argc, char *argv[])
     QFile *out = new QFile(QString(argv[3]));
     if (!out->open(QFile::WriteOnly))
     {
-        printf(QString("Cannot open %1.\n").arg(QDir::toNativeSeparators(QFileInfo(out->fileName()).absoluteFilePath())).toUtf8().data());
+        printf(QString("Cannot open %1.\n").arg(QFileInfo(out->fileName()).absoluteFilePath()).toUtf8().data());
         delete out;
         return -1;
     }
@@ -77,5 +77,5 @@ int main(int argc, char *argv[])
 
     printf("Done.\n");
 
-    return 0;
+    return a.exec();
 }
