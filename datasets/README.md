@@ -5,6 +5,7 @@
  - For any sub-category, 80% of the reports are selected as the train set, and 20% of the reports are selected as the test set. That is, 80% reports labeled "none" and 80% reports labeled "seizures" form the training set, 20% reports labeled "none" and 20% reports labeled "seizures" form the test set.
 
 # Results
+Beset values are bold-styled, worst values are strikethrough-styled.
 
 Config | History | Category | *TF*x*IDF* | "None"s | Matched "None"s | Matched "Seizures"s | Total Matched
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -172,12 +173,12 @@ Reports that are stemmed and Clinical History is removed.
 [http://svmlight.joachims.org/](http://svmlight.joachims.org/)
 
 ## SVM Light Filename Specification
-All files used by SVM Light is as `Name_MxN.svm`. `M` and `N` are integers indicating the method used to compute *tf* and *idf* respectively.
+All files used by SVM Light is as `Name_MxN.svm`. `M` and `N` are integers indicating the method used to compute *tf* and *idf* respectively. More details: [*tf-idf*](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
  - `M`: TF weight, can be 2, 3 or 4.
- 	* `2`: **Raw Frequency**
- 	* `3`: **Log Normalization** (base *e*)
- 	* `4`: **Double Normalization 0.5**
- - `N`: IDF weight, only 2 is allowed. Which means **Inverse Document Frequency**.
+ 	* `2`: **Raw Frequency** ![alt text](https://upload.wikimedia.org/math/5/2/9/5299f94e7f3e78b6b8693faecd0a6313.png "Raw Frequency")
+ 	* `3`: **Log Normalization** (base *e*) ![alt text](https://upload.wikimedia.org/math/9/0/8/9081a7c11799a57d88198f6d6331e8b9.png "Log Normalization")
+ 	* `4`: **Double Normalization 0.5** ![alt text](https://upload.wikimedia.org/math/3/d/6/3d6fe36684cc9705d9d1640198e99fdd.png "Double Normalization 0.5")
+ - `N`: IDF weight, only 2 is allowed. Which means **Inverse Document Frequency** ![alt text](https://upload.wikimedia.org/math/f/6/d/f6d7c0066f71552b3b06151fe887b6bc.png "Inverse Document Frequency").
 
 ### Stop Words
 `a` `able` `about` `across` `after` `all` `almost` `also` `am` `among` `an` `and` `any` `are` `as` `at` `be` `because` `been` `but` `by` `can` `could` `dear` `did` `do` `does` `either` `else` `ever` `every` `for` `from` `get` `got` `had` `has` `have` `he` `her` `hers` `him` `his` `how` `however` `i` `if` `in` `into` `is` `it` `its` `just` `least` `let` `like` `likely` `may` `me` `might` `most` `must` `my` `neither` `of` `off` `often` `on` `only` `or` `other` `our` `own` `rather` `said` `say` `says` `she` `should` `since` `so` `some` `than` `that` `the` `their` `them` `then` `there` `these` `they` `this` `tis` `to` `too` `twas` `us` `wants` `was` `we` `were` `what` `when` `where` `which` `while` `who` `whom` `why` `will` `with` `would` `yet` `you` `your`
