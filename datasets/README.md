@@ -8,22 +8,22 @@
 
 Config | History | Category | *TF*x*IDF* | "None"s | Matched "None"s | Matched "Seizures"s | Total Matched
 --- | --- | --- | --- | --- | --- | --- | ---
-[1](200+200/stemmed_data/category_1) | Kept | 1 | 2x2 | 40/200 | 38 (95.00%) | 33 (82.50%) | 71 (88.75%)
+[1](200+200/stemmed_data/category_1) | Kept | 1 | 2x2 | <font color="red">40/200</font> | 38 (95.00%) | 33 (82.50%) | 71 (88.75%)
 [2](200+200/stemmed_data/category_1) | Kept | 1 | 3x2 | 40/200 | 38 (95.00%) | 36 (90.00%) | 74 (92.50%)
-[3](200+200/stemmed_data/category_1) | Kept | 1 | 4x2 | 40/200 | 36 (90.00%) | 36 (90.00%) | 72 (90.00%)
+[3](200+200/stemmed_data/category_1) | Kept | 1 | 4x2 | 40/200 | *36 (90.00%)* | 36 (90.00%) | 72 (90.00%)
 [4](200+200/stemmed_data/category_2) | Kept | 2 | 2x2 | 40/200 | 39 (97.50%) | 33 (82.50%) | 72 (90.00%)
 [5](200+200/stemmed_data/category_2) | Kept | 2 | 3x2 | 40/200 | 38 (95.00%) | 37 (92.50%) | 75 (93.75%)
-[6](200+200/stemmed_data/category_2) | Kept | 2 | 4x2 | 40/200 | 38 (95.00%) | 38 (95.00%) | 76 (95.00%)
-[7](200+200/trimmed_stemmed_data/category_1) | Removed | 1 | 2x2 | 40/200 | 38 (95.00%) | 30 (75.00%) | 68 (85.00%)
-[8](200+200/trimmed_stemmed_data/category_1) | Removed | 1 | 3x2 | 40/200 | 37 (92.50%) | 31 (77.50%) | 68 (85.00%)
+[6](200+200/stemmed_data/category_2) | Kept | 2 | 4x2 | 40/200 | 38 (95.00%) | **38 (95.00%)** | 76 (95.00%)
+[7](200+200/trimmed_stemmed_data/category_1) | Removed | 1 | 2x2 | 40/200 | 38 (95.00%) | 30 (75.00%) | *68 (85.00%)*
+[8](200+200/trimmed_stemmed_data/category_1) | Removed | 1 | 3x2 | 40/200 | 37 (92.50%) | 31 (77.50%) | *68 (85.00%)*
 [9](200+200/trimmed_stemmed_data/category_1) | Removed | 1 | 4x2 | 40/200 | 37 (92.50%) | 32 (80.00%) | 69 (86.25%)
 [10](200+200/trimmed_stemmed_data/category_2) | Removed | 2 | 2x2 | 40/200 | 39 (97.50%) | 36 (90.00%) | 75 (93.75%)
 [11](200+200/trimmed_stemmed_data/category_2) | Removed | 2 | 3x2 | 40/200 | 38 (95.00%) | 37 (92.50%) | 75 (93.75%)
-[12](200+200/trimmed_stemmed_data/category_2) | Removed | 2 | 4x2 | 40/200 | 36 (90.00%) | 38 (95.00%) | 74 (92.50%)
+[12](200+200/trimmed_stemmed_data/category_2) | Removed | 2 | 4x2 | 40/200 | *36 (90.00%)* | **38 (95.00%)** | 74 (92.50%)
 [13](400+200/stemmed_data/category_1) | Kept | 1 | 2x2 | 80/400 | 79 (98.75%) | 31 (77.50%) | 110 (91.67%)
 [14](400+200/stemmed_data/category_1) | Kept | 1 | 3x2 | 80/400 | 78 (97.50%) | 33 (82.50%) | 111 (92.50%)
 [15](400+200/stemmed_data/category_1) | Kept | 1 | 4x2 | 80/400 | 78 (97.50%) | 33 (82.50%) | 111 (92.50%)
-[16](400+200/stemmed_data/category_2) | Kept | 2 | 2x2 | 80/400 | 80 (100.00%) | 34 (85.00%) | 114 (95.00%)
+[16](400+200/stemmed_data/category_2) | Kept | 2 | 2x2 | 80/400 | **80 (100.00%)** | 34 (85.00%) | 114 (95.00%)
 [17](400+200/stemmed_data/category_2) | Kept | 2 | 3x2 | 80/400 | 79 (98.75%) | 34 (85.00%) | 113 (94.17%)
 [18](400+200/stemmed_data/category_2) | Kept | 2 | 4x2 | 80/400 | 78 (97.50%) | 36 (90.00%) | 114 (95.00%)
 [19](400+200/trimmed_stemmed_data/category_1) | Removed | 1 | 2x2 | 80/400 | 76 (95.00%) | 25 (62.50%) | 101 (84.17%)
@@ -44,7 +44,7 @@ Config | History | Category | *TF*x*IDF* | "None"s | Matched "None"s | Matched "
 [34](1000+200/trimmed_stemmed_data/category_2) | Removed | 2 | 2x2 | 200/1000 | 196 (98.00%) | 23 (57.50%) | 219 (91.25%)
 [35](1000+200/trimmed_stemmed_data/category_2) | Removed | 2 | 3x2 | 200/1000 | 197 (98.50%) | 26 (65.00%) | 223 (92.92%)
 [36](1000+200/trimmed_stemmed_data/category_2) | Removed | 2 | 4x2 | 200/1000 | 197 (98.50%) | 26 (65.00%) | 223 (92.92%)
-[37](2000+200/stemmed_data/category_1) | Kept | 1 | 2x2 | 400/2000 | 398 (99.50%) | 18 (45.00%) | 416 (94.55%)
+[37](2000+200/stemmed_data/category_1) | Kept | 1 | 2x2 | 400/2000 | 398 (99.50%) | *18 (45.00%)* | 416 (94.55%)
 [38](2000+200/stemmed_data/category_1) | Kept | 1 | 3x2 | 400/2000 | 399 (99.75%) | 22 (55.00%) | 421 (95.68%)
 [39](2000+200/stemmed_data/category_1) | Kept | 1 | 4x2 | 400/2000 | 399 (99.75%) | 23 (57.50%) | 422 (95.91%)
 [40](2000+200/stemmed_data/category_2) | Kept | 2 | 2x2 | 400/2000 | 393 (98.25%) | 26 (65.00%) | 419 (95.23%)
@@ -53,7 +53,7 @@ Config | History | Category | *TF*x*IDF* | "None"s | Matched "None"s | Matched "
 [43](2000+200/trimmed_stemmed_data/category_1) | Removed | 1 | 2x2 | 400/2000 | 398 (99.50%) | 23 (57.50%) | 421 (95.68%)
 [44](2000+200/trimmed_stemmed_data/category_1) | Removed | 1 | 3x2 | 400/2000 | 397 (99.25%) | 25 (62.50%) | 422 (95.91%)
 [45](2000+200/trimmed_stemmed_data/category_1) | Removed | 1 | 4x2 | 400/2000 | 396 (99.00%) | 25 (62.50%) | 421 (95.68%)
-[46](2000+200/trimmed_stemmed_data/category_2) | Removed | 2 | 2x2 | 400/2000 | 399 (99.75%) | 29 (72.50%) | 428 (97.27%)
+[46](2000+200/trimmed_stemmed_data/category_2) | Removed | 2 | 2x2 | 400/2000 | 399 (99.75%) | 29 (72.50%) | **428 (97.27%)**
 [47](2000+200/trimmed_stemmed_data/category_2) | Removed | 2 | 3x2 | 400/2000 | 399 (99.75%) | 26 (65.00%) | 425 (96.59%)
 [48](2000+200/trimmed_stemmed_data/category_2) | Removed | 2 | 4x2 | 400/2000 | 398 (99.50%) | 27 (67.50%) | 425 (96.59%)
 
