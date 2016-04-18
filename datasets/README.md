@@ -20,6 +20,18 @@ Category | History | Sub-Category | *TF*x*IDF* | "None"s | Matched "None"s | Mat
 [10](200+200/trimmed_stemmed_data/category_2) | Removed | 2 | 2x2 | 40/200 | 39 (97.50%) | 36 (90.00%) | 75 (93.75%)
 [11](200+200/trimmed_stemmed_data/category_2) | Removed | 2 | 3x2 | 40/200 | 38 (95.00%) | 37 (92.50%) | 75 (93.75%)
 [12](200+200/trimmed_stemmed_data/category_2) | Removed | 2 | 4x2 | 40/200 | 36 (90.00%) | 38 (95.00%) | 74 (92.50%)
+[13](400+200/stemmed_data/category_1) | Kept | 1 | 2x2 | 80/400 | 79 (98.75%) | 31 (77.50%) | 110 (91.67%)
+[14](400+200/stemmed_data/category_1) | Kept | 1 | 3x2 | 80/400 | 78 (97.50%) | 33 (82.50%) | 111 (92.50%)
+[15](400+200/stemmed_data/category_1) | Kept | 1 | 4x2 | 80/400 | 78 (97.50%) | 33 (82.50%) | 111 (92.50%)
+[16](400+200/stemmed_data/category_2) | Kept | 2 | 2x2 | 80/400 | 80 (100.00%) | 34 (85.00%) | 114 (95.00%)
+[17](400+200/stemmed_data/category_2) | Kept | 2 | 3x2 | 80/400 | 79 (98.75%) | 34 (85.00%) | 113 (94.17%)
+[18](400+200/stemmed_data/category_2) | Kept | 2 | 4x2 | 80/400 | 78 (97.50%) | 36 (90.00%) | 114 (95.00%)
+[19](400+200/trimmed_stemmed_data/category_1) | Removed | 1 | 2x2 | 80/400 | 76 (95.00%) | 25 (62.50%) | 101 (84.17%)
+[20](400+200/trimmed_stemmed_data/category_1) | Removed | 1 | 3x2 | 80/400 | 77 (96.25%) | 27 (67.50%) | 104 (86.67%)
+[21](400+200/trimmed_stemmed_data/category_1) | Removed | 1 | 4x2 | 80/400 | 77 (96.25%) | 30 (75.00%) | 107 (89.17%)
+[22](400+200/trimmed_stemmed_data/category_2) | Removed | 2 | 2x2 | 80/400 | 79 (98.75%) | 33 (82.50%) | 112 (93.33%)
+[23](400+200/trimmed_stemmed_data/category_2) | Removed | 2 | 3x2 | 80/400 | 79 (98.75%) | 35 (87.50%) | 114 (95.00%)
+[24](400+200/trimmed_stemmed_data/category_2) | Removed | 2 | 4x2 | 80/400 | 79 (98.75%) | 35 (87.50%) | 114 (95.00%)
 
 
 ## [200+200](200+200)
