@@ -10,14 +10,26 @@ int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
-    if (argc != 2)
+    if (argc != 3)
     {
         QFileInfo binInfo(QCoreApplication::applicationFilePath());
-        printf(QString("Usage: %1 Dir\n").arg(binInfo.baseName()).toUtf8().data());
+        printf(QString("Usage: %1 Kernal Dir\n").arg(binInfo.baseName()).toUtf8().data());
         return -1;
     }
 
-    QString svmDir(argv[1]);
+    bool isInt;
+    int kernal = QString(argv[1]).toInt(&isInt, 10);
+    if (!isInt || kernal < 0 || kernal > 3)
+    {
+        printf("Kernal must be one of the following values:\n"
+               "0: linear\n"
+               "1: polynomial (s a*b+c)^d\n"
+               "2: radial basis function exp(-gamma ||a-b||^2)\n"
+               "3: sigmoid tanh(s a*b + c)\n");
+        return -1;
+    }
+
+    QString svmDir(argv[2]);
     svmDir = QFileInfo(svmDir).absoluteFilePath();
     if (!svmDir.endsWith('/'))
         svmDir = svmDir.append('/');
@@ -77,7 +89,7 @@ int main(int argc, char *argv[])
         if (QFile::exists(svmOutPath))
             QFile::remove(svmOutPath);
 
-        QProcess::execute(svmLearnPath, QStringList() << trainPath << svmModelPath);
+        QProcess::execute(svmLearnPath, QStringList() << "-t" << QString::number(kernal, 10) << trainPath << svmModelPath);
 
         if (!QFile::exists(svmModelPath))
         {
@@ -170,6 +182,7 @@ int main(int argc, char *argv[])
         QStringList tmp;
         tmp.append(QString("TF: %1").arg(QString::number(tf, 10)));
         tmp.append("IDF: 2");
+        tmp.append(QString("Kernal: %1").arg(QString::number(kernal, 10)));
         tmp.append(QString("Test Set Size: %1").arg(QString::number(testSet.size(), 10)));
         tmp.append(QString("Total Matched: %1").arg(QString::number(matchedNone + matchedSeizures, 10)));
         tmp.append(QString("\tNone Matched: %1").arg(QString::number(matchedNone, 10)));
@@ -188,7 +201,7 @@ int main(int argc, char *argv[])
         results.append(tmp.join("\n"));
     }
 
-    QFile *resFile = new QFile(QString("%1result.svm").arg(svmDir));
+    QFile *resFile = new QFile(QString("%1result_%2.svm").arg(svmDir).arg(QString::number(kernal, 10)));
     resFile->open(QFile::WriteOnly);
     resFile->write(results.join("\n\n").toUtf8());
     resFile->flush();

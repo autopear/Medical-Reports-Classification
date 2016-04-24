@@ -1,0 +1,78 @@
+200+200/trimmed_stemmed_data/category_1
+
+TF: 2
+IDF: 2
+Kernal: 0
+Test Set Size: 80
+Total Matched: 68
+	None Matched: 38
+	Seizures Matched: 30
+Precision: 85.00%
+	None Precision: 95.00%
+	Seizures Precision: 75.00%
+Total Mismatched: 12
+	None Mismatched: 2
+		none/00000381_s02.txt
+		none/00001880_s04.txt
+	Seizures Mismatched: 10
+		seizures/00000185_s02.txt
+		seizures/00000300_s01.txt
+		seizures/00000447_s01.txt
+		seizures/00000482_s01.txt
+		seizures/00000514_s24.txt
+		seizures/00000804_s02.txt
+		seizures/00001123_s04.txt
+		seizures/00001485_s09.txt
+		seizures/00002477_s02.txt
+		seizures/00005770_s01.txt
+
+TF: 3
+IDF: 2
+Kernal: 0
+Test Set Size: 80
+Total Matched: 68
+	None Matched: 37
+	Seizures Matched: 31
+Precision: 85.00%
+	None Precision: 92.50%
+	Seizures Precision: 77.50%
+Total Mismatched: 12
+	None Mismatched: 3
+		none/00000724_s01.txt
+		none/00001880_s04.txt
+		none/00009351_s01.txt
+	Seizures Mismatched: 9
+		seizures/00000185_s02.txt
+		seizures/00000447_s01.txt
+		seizures/00000482_s01.txt
+		seizures/00000514_s24.txt
+		seizures/00000804_s02.txt
+		seizures/00001123_s04.txt
+		seizures/00001485_s09.txt
+		seizures/00002477_s02.txt
+		seizures/00005770_s01.txt
+
+TF: 4
+IDF: 2
+Kernal: 0
+Test Set Size: 80
+Total Matched: 69
+	None Matched: 37
+	Seizures Matched: 32
+Precision: 86.25%
+	None Precision: 92.50%
+	Seizures Precision: 80.00%
+Total Mismatched: 11
+	None Mismatched: 3
+		none/00000724_s01.txt
+		none/00001880_s04.txt
+		none/00009351_s01.txt
+	Seizures Mismatched: 8
+		seizures/00000185_s02.txt
+		seizures/00000447_s01.txt
+		seizures/00000482_s01.txt
+		seizures/00000514_s24.txt
+		seizures/00000804_s02.txt
+		seizures/00001123_s04.txt
+		seizures/00001485_s09.txt
+		seizures/00005770_s01.txt

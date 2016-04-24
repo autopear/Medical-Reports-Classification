@@ -1,0 +1,91 @@
+400+200/trimmed_stemmed_data/category_1
+
+TF: 2
+IDF: 2
+Kernal: 0
+Test Set Size: 120
+Total Matched: 101
+	None Matched: 76
+	Seizures Matched: 25
+Precision: 84.17%
+	None Precision: 95.00%
+	Seizures Precision: 62.50%
+Total Mismatched: 19
+	None Mismatched: 4
+		none/00001092_s05.txt
+		none/00001413_s02.txt
+		none/00002867_s02.txt
+		none/00004297_s02.txt
+	Seizures Mismatched: 15
+		seizures/00000068_s02.txt
+		seizures/00000157_s12.txt
+		seizures/00000300_s01.txt
+		seizures/00000372_s01.txt
+		seizures/00000434_s02.txt
+		seizures/00000447_s01.txt
+		seizures/00000804_s02.txt
+		seizures/00001215_s01.txt
+		seizures/00001552_s02.txt
+		seizures/00002276_s01.txt
+		seizures/00002330_s01.txt
+		seizures/00002477_s02.txt
+		seizures/00004508_s04.txt
+		seizures/00004976_s01.txt
+		seizures/00005770_s01.txt
+
+TF: 3
+IDF: 2
+Kernal: 0
+Test Set Size: 120
+Total Matched: 104
+	None Matched: 77
+	Seizures Matched: 27
+Precision: 86.67%
+	None Precision: 96.25%
+	Seizures Precision: 67.50%
+Total Mismatched: 16
+	None Mismatched: 3
+		none/00001092_s05.txt
+		none/00001413_s02.txt
+		none/00004297_s02.txt
+	Seizures Mismatched: 13
+		seizures/00000300_s01.txt
+		seizures/00000434_s02.txt
+		seizures/00000444_s01.txt
+		seizures/00000447_s01.txt
+		seizures/00000804_s02.txt
+		seizures/00001215_s01.txt
+		seizures/00001552_s02.txt
+		seizures/00002276_s01.txt
+		seizures/00002330_s01.txt
+		seizures/00002477_s02.txt
+		seizures/00004508_s04.txt
+		seizures/00004976_s01.txt
+		seizures/00005770_s01.txt
+
+TF: 4
+IDF: 2
+Kernal: 0
+Test Set Size: 120
+Total Matched: 107
+	None Matched: 77
+	Seizures Matched: 30
+Precision: 89.17%
+	None Precision: 96.25%
+	Seizures Precision: 75.00%
+Total Mismatched: 13
+	None Mismatched: 3
+		none/00001092_s05.txt
+		none/00001413_s02.txt
+		none/00004297_s02.txt
+	Seizures Mismatched: 10
+		seizures/00000434_s02.txt
+		seizures/00000447_s01.txt
+		seizures/00000804_s02.txt
+		seizures/00001215_s01.txt
+		seizures/00001552_s02.txt
+		seizures/00002276_s01.txt
+		seizures/00002330_s01.txt
+		seizures/00002477_s02.txt
+		seizures/00004976_s01.txt
+		seizures/00005770_s01.txt

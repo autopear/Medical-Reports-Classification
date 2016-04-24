@@ -1,0 +1,87 @@
+400+200/stemmed_data/category_1
+
+TF: 2
+IDF: 2
+Kernal: 1
+Test Set Size: 120
+Total Matched: 101
+	None Matched: 79
+	Seizures Matched: 22
+Precision: 84.17%
+	None Precision: 98.75%
+	Seizures Precision: 55.00%
+Total Mismatched: 19
+	None Mismatched: 1
+		none/00001422_s10.txt
+	Seizures Mismatched: 18
+		seizures/00000078_s05.txt
+		seizures/00000157_s12.txt
+		seizures/00000207_s02.txt
+		seizures/00000810_s01.txt
+		seizures/00000968_s12.txt
+		seizures/00000976_s01.txt
+		seizures/00001093_s09.txt
+		seizures/00001123_s04.txt
+		seizures/00001303_s01.txt
+		seizures/00001483_s04.txt
+		seizures/00001618_s01.txt
+		seizures/00001749_s03.txt
+		seizures/00001987_s02.txt
+		seizures/00002276_s01.txt
+		seizures/00002514_s02.txt
+		seizures/00002566_s02.txt
+		seizures/00003371_s03.txt
+		seizures/00004976_s01.txt
+
+TF: 3
+IDF: 2
+Kernal: 1
+Test Set Size: 120
+Total Matched: 106
+	None Matched: 79
+	Seizures Matched: 27
+Precision: 88.33%
+	None Precision: 98.75%
+	Seizures Precision: 67.50%
+Total Mismatched: 14
+	None Mismatched: 1
+		none/00001422_s10.txt
+	Seizures Mismatched: 13
+		seizures/00000157_s12.txt
+		seizures/00000207_s02.txt
+		seizures/00000810_s01.txt
+		seizures/00000968_s12.txt
+		seizures/00001123_s04.txt
+		seizures/00001303_s01.txt
+		seizures/00001618_s01.txt
+		seizures/00001749_s03.txt
+		seizures/00002276_s01.txt
+		seizures/00002514_s02.txt
+		seizures/00002566_s02.txt
+		seizures/00003371_s03.txt
+		seizures/00004976_s01.txt
+
+TF: 4
+IDF: 2
+Kernal: 1
+Test Set Size: 120
+Total Matched: 109
+	None Matched: 79
+	Seizures Matched: 30
+Precision: 90.83%
+	None Precision: 98.75%
+	Seizures Precision: 75.00%
+Total Mismatched: 11
+	None Mismatched: 1
+		none/00001422_s10.txt
+	Seizures Mismatched: 10
+		seizures/00000207_s02.txt
+		seizures/00000810_s01.txt
+		seizures/00000968_s12.txt
+		seizures/00001123_s04.txt
+		seizures/00001618_s01.txt
+		seizures/00001749_s03.txt
+		seizures/00002276_s01.txt
+		seizures/00002566_s02.txt
+		seizures/00003371_s03.txt
+		seizures/00004976_s01.txt
